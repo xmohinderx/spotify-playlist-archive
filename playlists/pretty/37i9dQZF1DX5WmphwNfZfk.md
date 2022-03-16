@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Leith
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,835 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,836 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 |
 | 40 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 |
 | 41 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 |
-| 42 | [La Misión](https://open.spotify.com/track/4uPEACej0HoZIZdpiLq9eh) | [Bebeboy](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [La Misión](https://open.spotify.com/album/7vswnhTklCEmYtRPkBK3kN) | 2:48 |
+| 42 | [La Misión](https://open.spotify.com/track/4uPEACej0HoZIZdpiLq9eh) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [La Misión](https://open.spotify.com/album/7vswnhTklCEmYtRPkBK3kN) | 2:48 |
 | 43 | [Hurricane](https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Hurricane](https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN) | 4:14 |
 | 44 | [Next Man](https://open.spotify.com/track/1bZGBaMyZg7GBPlrHYIf5r) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [Next Man](https://open.spotify.com/album/5ogrytJDkmemHwG7cYMJ19) | 3:04 |
 | 45 | [what u need](https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [what u need](https://open.spotify.com/album/1u5HgNFQPwFaniRb3jx69G) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 99 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 |
 | 100 | [Closer](https://open.spotify.com/track/03cFsB74lD9w4T0ewkIoq3) | [ZOEY LEVEN](https://open.spotify.com/artist/5R7VOCNi2mdK8UxzcYc0cp) | [Closer](https://open.spotify.com/album/73OvqzrfKWprAuwbJDGMrs) | 3:58 |
 
-Snapshot ID: `MTY0NzMwNTY1NywwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`
+Snapshot ID: `MTY0NzM5MjA3NywwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada com Marcynho Sensação, DENNIS com Luan Santana, Zé Neto & Cristiano e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,431 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,626 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 63 | [Once Again](https://open.spotify.com/track/7DXHNbMrvgJuFUtEleruSn) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [Once Again](https://open.spotify.com/album/2Vo614FBJLiGi1FOXp6L9x) | 2:40 |
 | 64 | [Starlight](https://open.spotify.com/track/2JyTbelppzGcCcjN7qyuLG) | [DISORDER](https://open.spotify.com/artist/58wlWYajhaIloGV3GlPd9M), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Starlight](https://open.spotify.com/album/2ru0xFCRGhJzIMzNOAAOY6) | 2:26 |
 | 65 | [Sino \- Ao Vivo](https://open.spotify.com/track/3Y47xRYVXTFZt3diQH2UZN) | [Raffa Torres](https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu) | [Isso é Raffa Torres, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7rwF6t64avqzeVGSFkeEgD) | 3:27 |
-| 66 | [OU](https://open.spotify.com/track/0xAspHYY9w2U7PGpMZUS2y) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Laila Garin](https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8) | [O Canto de Macabéa ou a Hora da Estrela](https://open.spotify.com/album/2B1i6HVbQnNRFJSI7Qr72w) | 2:29 |
+| 66 | [OU](https://open.spotify.com/track/0xAspHYY9w2U7PGpMZUS2y) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Laila Garin](https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8), [Claudia Ventura](https://open.spotify.com/artist/4U5YN8ZQBszOK03zD6Iqno), [Claudio Gabriel](https://open.spotify.com/artist/15IdJncxZNGN6daDL52vrR), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN), [Marcelo Caldi](https://open.spotify.com/artist/4MNiIkuc0TWy4Npv142y0K) | [O Canto de Macabéa ou a Hora da Estrela](https://open.spotify.com/album/2B1i6HVbQnNRFJSI7Qr72w) | 2:29 |
 | 67 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 |
 | 68 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 |
 | 69 | [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 |

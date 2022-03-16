@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: SUNMI",
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
   "name": "K-Pop Fresh",
   "published_playlist_ids": [
     "7M2UzkWe0rrHEXaOnPr3Xw"
@@ -63,6 +63,24 @@
       "duration_ms": 223040,
       "name": "A WOO!!",
       "url": "https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13"
     },
     {
       "album": {
@@ -189,7 +207,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 221567,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/2NTSWLUiZqrIBDGYbHUB6o"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 192093,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
@@ -1022,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "I CAN'T STOP ME - Japanese ver.",
+      "url": "https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL"
+    },
+    {
+      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -1055,6 +1091,24 @@
       "duration_ms": 243247,
       "name": "Ito",
       "url": "https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/5pp1SkT4D5VcAk4SZsz2xl"
     },
     {
       "album": {
@@ -1134,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/0G2cUavLBvDifRqcO1d9qJ"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184386,
+      "name": "Like Snow-White",
+      "url": "https://open.spotify.com/track/4UWMq8MZLZoYp6sPfau7bj"
+    },
+    {
+      "album": {
         "name": "\u667a\u7570\u5c71 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Part.8",
         "url": "https://open.spotify.com/album/4TWOGbfSRIbRUUTYj65XUL"
       },
@@ -1181,7 +1253,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 263946,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE"
@@ -1535,7 +1607,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 163733,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X"
@@ -2002,6 +2074,24 @@
     },
     {
       "album": {
+        "name": "VOYAGER",
+        "url": "https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE"
+      },
+      "artists": [
+        {
+          "name": "Kihyun",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191720,
+      "name": "VOYAGER",
+      "url": "https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK"
+    },
+    {
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA"
       },
@@ -2071,6 +2161,24 @@
       "duration_ms": 220653,
       "name": "Weapon (With Newnion, FLOOR) (Prod.Czaer)",
       "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
+    },
+    {
+      "album": {
+        "name": "REFUGE",
+        "url": "https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "WHO",
+      "url": "https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y"
     },
     {
       "album": {

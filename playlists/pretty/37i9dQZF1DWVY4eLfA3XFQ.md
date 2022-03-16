@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: FISHER, Shermanology
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,549 likes - 120 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,671 likes - 120 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

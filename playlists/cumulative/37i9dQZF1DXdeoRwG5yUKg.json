@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319306,
+      "name": "Don't Bury Our Love",
+      "url": "https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh"
+    },
+    {
+      "album": {
         "name": "Drown in My Own Tears",
         "url": "https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp"
       },

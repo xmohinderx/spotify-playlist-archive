@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,208 likes - 102 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,197 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

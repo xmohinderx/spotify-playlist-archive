@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 349469,
       "name": "All the Gold",
       "url": "https://open.spotify.com/track/1kksBydyMOdC9fi4jDWZ7y"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/52DKkQDdw0VjvoHbIDkLmF"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 167500,
       "name": "DANSA",
       "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
@@ -4089,7 +4089,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 178026,
       "name": "Fyrfaldigt hurra",
       "url": "https://open.spotify.com/track/2G5CHjvnRkL5oYCUXwezkv"
@@ -4151,7 +4151,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "F\u00d6RSENT",
       "url": "https://open.spotify.com/track/6mDcLPGVCmdhMN4gBzNb7s"
@@ -4209,7 +4209,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 165253,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5"
@@ -5773,7 +5773,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 172363,
       "name": "I Want to Be Loved",
       "url": "https://open.spotify.com/track/4e5rqBjv4NfpVEeyMuWzFT"
@@ -7663,7 +7663,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 183406,
       "name": "Lyckligt slut",
       "url": "https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH"
@@ -8435,7 +8435,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
@@ -11478,6 +11478,28 @@
     },
     {
       "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "album": {
         "name": "Sympati",
         "url": "https://open.spotify.com/album/76tWeUGclH3256e49629is"
       },
@@ -11891,7 +11913,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 180574,
       "name": "The End",
       "url": "https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm"
@@ -11953,7 +11975,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -12189,7 +12211,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 152581,
       "name": "TOPP",
       "url": "https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy"

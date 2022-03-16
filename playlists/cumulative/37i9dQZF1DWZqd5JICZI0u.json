@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Night In Spring",
+        "url": "https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6"
+      },
+      "artists": [
+        {
+          "name": "Ardah",
+          "url": "https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "A Night In Spring",
+      "url": "https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED"
+    },
+    {
+      "album": {
         "name": "Abditory",
         "url": "https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4"
       },
@@ -1017,6 +1035,24 @@
       "duration_ms": 193706,
       "name": "Covering the Sun",
       "url": "https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp"
+    },
+    {
+      "album": {
+        "name": "Cross A Line",
+        "url": "https://open.spotify.com/album/32PoI04cGJfCgmH003knVN"
+      },
+      "artists": [
+        {
+          "name": "Sean Altar",
+          "url": "https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Cross A Line",
+      "url": "https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9"
     },
     {
       "album": {
@@ -2478,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "In Solitude",
+        "url": "https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6"
+      },
+      "artists": [
+        {
+          "name": "Restorative",
+          "url": "https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "In Solitude",
+      "url": "https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71"
+    },
+    {
+      "album": {
         "name": "In the Far Away Distance",
         "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
       },
@@ -3735,6 +3789,24 @@
       "duration_ms": 142074,
       "name": "Observations From A Faraway Place",
       "url": "https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi"
+    },
+    {
+      "album": {
+        "name": "Oceanwide",
+        "url": "https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Oceanwide",
+      "url": "https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z"
     },
     {
       "album": {
@@ -6057,7 +6129,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 218000,
       "name": "Waiting for a while",
       "url": "https://open.spotify.com/track/2khTcCwX4XvH7Gr6MUWiDH"

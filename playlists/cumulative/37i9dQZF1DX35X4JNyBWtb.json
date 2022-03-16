@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "Astronomia",
       "url": "https://open.spotify.com/track/665AK0ovB11McZRwfa852G"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 163216,
       "name": "Body (feat. brando)",
       "url": "https://open.spotify.com/track/7K7MUBCnzgBAvMVW2RTWNs"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ"
@@ -3952,6 +3952,28 @@
     },
     {
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN"
+      },
+      "artists": [
+        {
+          "name": "Melissa Pools",
+          "url": "https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128272,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
+    },
+    {
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -4033,7 +4055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"
@@ -4125,7 +4147,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 215968,
       "name": "Airwalkin'",
       "url": "https://open.spotify.com/track/3GuI8cLpgy6CxZk72a1Jyo"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 251520,
       "name": "Any Hour",
       "url": "https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 284266,
       "name": "Cabin Fever Freestyle",
       "url": "https://open.spotify.com/track/3WV1GjGYzUCodUftArXMln"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 380720,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/6LCvTzXi4uDSwE5CZjeqM3"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 299126,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/7ypIT6petNtsufzVizemQp"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 195194,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/3vEIzJE4xGmfmufxa5QVGr"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 206046,
       "name": "Glo Ride",
       "url": "https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 325576,
       "name": "How to Paint Clouds",
       "url": "https://open.spotify.com/track/2Q6WXn6b6uylBy8Ivi098v"
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 218275,
       "name": "Kids in the Sky",
       "url": "https://open.spotify.com/track/0h2WwCbmMoNPKtcxo0WSnq"
@@ -2550,6 +2550,24 @@
     },
     {
       "album": {
+        "name": "Hello?",
+        "url": "https://open.spotify.com/album/2aj5ECJPFFKjaf0xaiIHNP"
+      },
+      "artists": [
+        {
+          "name": "Billy Uomo",
+          "url": "https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Let's Drive",
+      "url": "https://open.spotify.com/track/1G6EhPzcFOmsaNtSWltSym"
+    },
+    {
+      "album": {
         "name": "Leyla",
         "url": "https://open.spotify.com/album/4sPr0ROY4MOkhmwplhapRt"
       },
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 164523,
       "name": "Locura",
       "url": "https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we"
@@ -2637,6 +2655,24 @@
       "duration_ms": 190156,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3JoH9gQU8L9k0iJIyKODlT"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3l7H6wEfuEhEZVxwGcMXP8"
+      },
+      "artists": [
+        {
+          "name": "Sam Teskey",
+          "url": "https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343546,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3b3D7KTw9eaKyAyVVJl8YU"
     },
     {
       "album": {
@@ -2781,7 +2817,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 235968,
       "name": "Magician's Success",
       "url": "https://open.spotify.com/track/3vSXiWYvRzOEmo1oVY3aRi"
@@ -2875,7 +2911,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 198293,
       "name": "Midnight Wine",
       "url": "https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4"
@@ -3091,7 +3127,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 155817,
       "name": "Ninja Partisi",
       "url": "https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I"
@@ -3127,7 +3163,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 229479,
       "name": "Nobody Taught Me",
       "url": "https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3"
@@ -3387,7 +3423,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 174597,
       "name": "Out in the Country",
       "url": "https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi"
@@ -3553,7 +3589,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 183880,
       "name": "Pay Your Way In Pain",
       "url": "https://open.spotify.com/track/0kiuMdZ9G8X9Odc8oifwX9"
@@ -3805,7 +3841,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 169583,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
@@ -3971,7 +4007,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 222580,
       "name": "Sew Myself Together",
       "url": "https://open.spotify.com/track/5q40ONjcalGoKNIbFpAo0K"
@@ -4115,7 +4151,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 191580,
       "name": "Skateboard",
       "url": "https://open.spotify.com/track/6DuUfwLgh3aY4oKZR6UBOH"
@@ -4501,7 +4537,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 244253,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
@@ -4577,7 +4613,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 244000,
       "name": "The Clouds Cleared the Way",
       "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
@@ -4721,7 +4757,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 269374,
       "name": "The Nowhere Inn",
       "url": "https://open.spotify.com/track/1yGiZ1DTPQAV9Ce4CdXUes"
@@ -4905,7 +4941,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 247218,
       "name": "Two Face",
       "url": "https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8"
@@ -5143,7 +5179,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 283946,
       "name": "When the Night Calls...",
       "url": "https://open.spotify.com/track/4XvSnrSeyzG4ucLFfi2wAT"

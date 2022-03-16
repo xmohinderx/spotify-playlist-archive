@@ -2046,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "M\u00e4nner lol",
+        "url": "https://open.spotify.com/album/4WaaXMtLWk1hRQy7AGV4Qd"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "M\u00e4nner lol",
+      "url": "https://open.spotify.com/track/2MNONf35nhHpcv7gtZBVs3"
+    },
+    {
+      "album": {
         "name": "Nachtaktiv",
         "url": "https://open.spotify.com/album/6VmMLYC5NZVIkGBny4FvQs"
       },
@@ -3299,7 +3317,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 186846,
       "name": "Upset",
       "url": "https://open.spotify.com/track/5gnl0eDLlVK2CxdAbkWiwe"

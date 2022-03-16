@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > shake it up and let it pop! cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,514 likes - 68 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,562 likes - 68 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 8 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 |
 | 9 | [Straightjacket](https://open.spotify.com/track/51LIqkda3pTeECZUhMnool) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Story of Us](https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj) | 3:26 |
 | 10 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 |
-| 11 | [one day before I die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before I die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 |
+| 11 | [one day before i die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before i die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 |
 | 12 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 |
 | 13 | [Head In The Clouds](https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Head In The Clouds](https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk) | 3:11 |
 | 14 | [Stupid Song](https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Stupid Song](https://open.spotify.com/album/3XFQ1yrmUFcqWodP3MTfMf) | 3:19 |

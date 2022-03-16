@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAI; thiết kế: Isu Kim
+> Khám phá các bài hát đáng nghe 🔥 từ những cái tên có thể bạn chưa biết ✨\. Ảnh bìa: MAI; thiết kế: Isu Kim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

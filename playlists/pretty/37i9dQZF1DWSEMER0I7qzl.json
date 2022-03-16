@@ -1,29 +1,13 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
-  "num_followers": 215503,
+  "num_followers": 215498,
   "original_name": "The PMS Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzMwNTIyNiwwMDAwMDAwMGMxYjlhZTJhNTg4NmVkMDRlMThjN2QyYzI5MjgyNGY3",
+  "snapshot_id": "MTY0NzM5MTY0NiwwMDAwMDAwMGFhNDQ4NWQzMTI3MmUyOWFmMWNjNTc5M2UxMThjZjY1",
   "tracks": [
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J"
-    },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -91,22 +107,6 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -119,198 +119,6 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "Pretty Hurts",
-      "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Don't Be so Hard on Yourself",
-        "url": "https://open.spotify.com/album/6vHs6Fc9pKmJWQ6RAWZedY"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Don't Be so Hard on Yourself",
-      "url": "https://open.spotify.com/track/1L8ywX9DcRYBcMTv5X1mF9"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Gypsy Heart",
-        "url": "https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/7rWq6WfZNwilZgRvZUw6CQ"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Abba Gold Anniversary Edition",
-        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 234573,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1MTF3KweV9ntqiOeP5KWt5"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Ceremonials",
-        "url": "https://open.spotify.com/album/3gmm8Sd93oyjTWug7Ci0Fd"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 277637,
-      "name": "Shake It Out",
-      "url": "https://open.spotify.com/track/7aliOjqVEBd3ZZ8NMkuifd"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Look What You Made Me Do",
-      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Tell Me You Love Me (Deluxe)",
-        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -331,18 +139,242 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/2jadjpIZfrJwIIlaJbTpHE"
+        "name": "Abba Gold Anniversary Edition",
+        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/0xG0SHshCStMEyNbNC5d4k"
+      "duration_ms": 234573,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1MTF3KweV9ntqiOeP5KWt5"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Don't Be so Hard on Yourself",
+        "url": "https://open.spotify.com/album/6vHs6Fc9pKmJWQ6RAWZedY"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Don't Be so Hard on Yourself",
+      "url": "https://open.spotify.com/track/1L8ywX9DcRYBcMTv5X1mF9"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Gypsy Heart",
+        "url": "https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/7rWq6WfZNwilZgRvZUw6CQ"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Ceremonials",
+        "url": "https://open.spotify.com/album/3gmm8Sd93oyjTWug7Ci0Fd"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 277637,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/7aliOjqVEBd3ZZ8NMkuifd"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Now & Forever - The Hits",
+        "url": "https://open.spotify.com/album/5qyn4jD90I0A7mLGAxJ2Fz"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/0x71Ua6hHfdKWgk4XPmNn6"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "Pretty Hurts",
+      "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Look What You Made Me Do",
+      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -375,38 +407,6 @@
       "duration_ms": 207333,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Now & Forever - The Hits",
-        "url": "https://open.spotify.com/album/5qyn4jD90I0A7mLGAxJ2Fz"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/0x71Ua6hHfdKWgk4XPmNn6"
     }
   ],
   "unique_name": "The PMS Playlist",

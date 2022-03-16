@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 308253,
       "name": "Abre hoy los cielos (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/3AO3bjGFZgqYtlc98APeRA"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 266947,
       "name": "Bendecir Tu Nombre",
       "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 302416,
       "name": "Creere",
       "url": "https://open.spotify.com/track/4WczcRQ9nfFmIn8E7CsFFD"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 213081,
       "name": "En El Mar De Tu Gracia",
       "url": "https://open.spotify.com/track/5CyjKpEdvD4tcasCfGNWln"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 305981,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 346040,
       "name": "Mi Vida - Live",
       "url": "https://open.spotify.com/track/7qK1vnYEemCXgkNbFOjuVU"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 321003,
       "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
       "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 216794,
       "name": "S\u00f3lo a Ti Jes\u00fas",
       "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
@@ -2158,6 +2158,32 @@
     },
     {
       "album": {
+        "name": "Vives en M\u00ed",
+        "url": "https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4"
+      },
+      "artists": [
+        {
+          "name": "Dorcas Cancel",
+          "url": "https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248651,
+      "name": "Vives en M\u00ed",
+      "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
+    },
+    {
+      "album": {
         "name": "Regreso a Ti",
         "url": "https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy"
       },
@@ -2263,7 +2289,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 271508,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/4gLSx7FkxOPvgk5iPs9L1f"

@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 262666,
       "name": "Fraud in the '80s",
       "url": "https://open.spotify.com/track/4gj4Da2Ql7UKZy0sy2xLBe"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 207880,
       "name": "Hotel Song",
       "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 181960,
       "name": "Lingering Still",
       "url": "https://open.spotify.com/track/33U7GUYHZDkEYtEXt1Sg8P"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5WJvhSBtp1GJOjq8b7gY8C"
@@ -1277,6 +1277,24 @@
       "duration_ms": 198093,
       "name": "Oh to Be in Love",
       "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
+    },
+    {
+      "album": {
+        "name": "Le Jardin De Heavenly",
+        "url": "https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK"
+      },
+      "artists": [
+        {
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Our Love Is Heavenly",
+      "url": "https://open.spotify.com/track/67E6xudQQih5tBluVfWjoW"
     },
     {
       "album": {
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "Too Much Time",
       "url": "https://open.spotify.com/track/4FqmNnOVeGIMAESjdxCFMs"

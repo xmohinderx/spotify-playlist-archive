@@ -1956,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Glemt Perle",
+        "url": "https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ"
+      },
+      "artists": [
+        {
+          "name": "Aksel M\u00f8ller",
+          "url": "https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Glemt Perle",
+      "url": "https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi"
+    },
+    {
+      "album": {
         "name": "Going Back",
         "url": "https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa"
       },
@@ -2403,6 +2421,24 @@
       "duration_ms": 189500,
       "name": "Ladybugs",
       "url": "https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW"
+    },
+    {
+      "album": {
+        "name": "Lagoons",
+        "url": "https://open.spotify.com/album/71kxOT2YEjtIhURhX8zoGi"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Lagoons",
+      "url": "https://open.spotify.com/track/47m7taVhh1ktgczbtWmbnG"
     },
     {
       "album": {

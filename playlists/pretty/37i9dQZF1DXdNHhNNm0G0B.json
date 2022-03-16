@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 53939,
+  "num_followers": 54002,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzMwNTg5MywwMDAwMDAwMDA2MmQ0N2FiOGUzYjJiM2ZhZjE3Zjc1YWY2ZmUxODNi",
+  "snapshot_id": "MTY0NzM5MjMxMiwwMDAwMDAwMGEzNWM3MjJjYjA1YTQ4ZDQ1N2NhNzNjNzcyYTAxMTU2",
   "tracks": [
     {
       "added_at": "2021-12-17 00:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
-      },
-      "artists": [
-        {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
-        }
-      ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Imaginational Anthem",
         "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
@@ -59,22 +43,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Orange Co. Serenade",
-        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "In the Morning Twilight",
         "url": "https://open.spotify.com/album/2RpDz1slr3GZ66NYQ2RRj9"
       },
@@ -87,6 +55,38 @@
       "duration_ms": 384000,
       "name": "In the Morning Twilight",
       "url": "https://open.spotify.com/track/228TVOD2uRnfzmHjn7bXkt"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Orange Co. Serenade",
+        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -111,8 +111,8 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/4Oq8HJhXnjJucSwEGEyQMZ"
       },
       "artists": [
         {
@@ -120,25 +120,25 @@
           "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
         }
       ],
-      "duration_ms": 154924,
-      "name": "New Anthem",
-      "url": "https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI"
+      "duration_ms": 214047,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/3PZICJN5uM26u0nF3sYNvo"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
         }
       ],
-      "duration_ms": 264880,
-      "name": "Imaginational Anthem",
-      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -155,86 +155,6 @@
       "duration_ms": 96840,
       "name": "Mesquite Shade",
       "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "The Legend Of Blind Joe Death",
-        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
-      },
-      "artists": [
-        {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Sligo River Blues - Original Recording",
-      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Jesus I'm a Sinner",
-        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 412581,
-      "name": "Sarah Anne",
-      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -271,40 +191,24 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
       "artists": [
         {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
+      "duration_ms": 264880,
+      "name": "Imaginational Anthem",
+      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/4Oq8HJhXnjJucSwEGEyQMZ"
-      },
-      "artists": [
-        {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
-        }
-      ],
-      "duration_ms": 214047,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/3PZICJN5uM26u0nF3sYNvo"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "The Guitar Masters Collection: John Fahey",
-        "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
+        "name": "The Legend Of Blind Joe Death",
+        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
       },
       "artists": [
         {
@@ -312,9 +216,57 @@
           "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Sunflower Blues",
-      "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
+      "duration_ms": 185400,
+      "name": "Sligo River Blues - Original Recording",
+      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1aHOjEzsRAgR3AyDeDWOhZ"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 154924,
+      "name": "New Anthem",
+      "url": "https://open.spotify.com/track/28Ekirkj9Tf0TwChnvcCWI"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -335,22 +287,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Orange Co. Serenade",
         "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
       },
@@ -363,110 +299,6 @@
       "duration_ms": 212000,
       "name": "Orange County Serenade",
       "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Legs to Make us Longer",
-        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
-      },
-      "artists": [
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Can the Gwot Save Us?",
-      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Shapes of the Fall",
-        "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
-      },
-      "artists": [
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        },
-        {
-          "name": "Abdelkebir Merchane",
-          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "All Aboard",
-      "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
-      },
-      "artists": [
-        {
-          "name": "Harris Newman",
-          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Lake Shore Drive (Slight Return)",
-      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -487,18 +319,34 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
       },
       "artists": [
         {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "The Guitar Masters Collection: John Fahey",
+        "url": "https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb"
+      },
+      "artists": [
+        {
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Sunflower Blues",
+      "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -519,50 +367,146 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Danny Paul Grody",
+          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
         }
       ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
+      "duration_ms": 303946,
+      "name": "Natural West",
+      "url": "https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Turn Me Loose: Outsiders of Old-Time Music",
-        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Lemuel Turner",
-          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
+          "name": "Harris Newman",
+          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Way Down Yonder Blues",
-      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
+      "duration_ms": 264386,
+      "name": "Lake Shore Drive (Slight Return)",
+      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
       "artists": [
         {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+      },
+      "artists": [
+        {
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Jesus I'm a Sinner",
+        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 412581,
+      "name": "Sarah Anne",
+      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Legs to Make us Longer",
+        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Can the Gwot Save Us?",
+      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Blues In Mono",
+        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -599,18 +543,18 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 438840,
-      "name": "Heavy Load",
-      "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -631,22 +575,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Blues In Mono",
-        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "The Slide Guitar: Bottles, Knives & Steel",
         "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
       },
@@ -663,18 +591,26 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+        "name": "Shapes of the Fall",
+        "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        },
+        {
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+      "duration_ms": 211600,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -695,18 +631,18 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Gone Clear",
-        "url": "https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u"
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
       },
       "artists": [
         {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q"
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -720,61 +656,25 @@
           "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+      "duration_ms": 332240,
+      "name": "Memoria Djalma",
+      "url": "https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
       "artists": [
         {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
         }
       ],
-      "duration_ms": 55213,
-      "name": "Here Too Far",
-      "url": "https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Hurt Me",
-        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lynch",
-          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
-        }
-      ],
-      "duration_ms": 155319,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Seasonal Hire",
-        "url": "https://open.spotify.com/album/2pVnvwGjntOrt18JDtSokl"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        },
-        {
-          "name": "The Black Twig Pickers",
-          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
-        }
-      ],
-      "duration_ms": 983850,
-      "name": "Seasonal Hire",
-      "url": "https://open.spotify.com/track/4F3TIQlYKTQO0kCyTsrTk3"
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -795,8 +695,24 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+        "name": "Gone Clear",
+        "url": "https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
       "artists": [
         {
@@ -804,29 +720,105 @@
           "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Alaska Blue",
-        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
+        "name": "Turn Me Loose: Outsiders of Old-Time Music",
+        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
       },
       "artists": [
         {
-          "name": "Barry Mcloughlin",
-          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
-        },
-        {
-          "name": "Chris Kramer",
-          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+          "name": "Lemuel Turner",
+          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
         }
       ],
-      "duration_ms": 173688,
-      "name": "Alaska Blue",
-      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
+      "duration_ms": 192946,
+      "name": "Way Down Yonder Blues",
+      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
+        }
+      ],
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Ionia",
+        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou & the Flatbellys",
+          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
+        }
+      ],
+      "duration_ms": 31844,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/2WAU3S7XbRV3DPSaC00woq"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/4QM6qrv9YWRW4RoXzKlE1X"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     }
   ],
   "unique_name": "Backporch Blues",

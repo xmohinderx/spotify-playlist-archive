@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,691 likes - 106 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,669 likes - 106 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 28 | [Regler \(Båset\)](https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Regler \(Båset\)](https://open.spotify.com/album/6jNGKJ3Wxs20bRzmTqyLr9) | 2:36 |
 | 29 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 |
 | 30 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 |
-| 31 | [one day before I die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before I die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 |
+| 31 | [one day before i die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before i die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 |
 | 32 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 |
 | 33 | [Vågen](https://open.spotify.com/track/3BxF9YsGMNNeRxxNjjRLJX) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Vågen](https://open.spotify.com/album/0PuGnNJwFaR9VOkGIXmDvN) | 3:30 |
 | 34 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |

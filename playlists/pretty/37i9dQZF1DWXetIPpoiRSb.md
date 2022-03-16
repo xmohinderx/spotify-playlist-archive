@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> The freshest pop sounds\. Cover: Bow Anderson
+> The freshest pop sounds\. Cover: Sigrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,027 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,064 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Body](https://open.spotify.com/track/1CUFwJ8FSvIH4f5oCjgEhj) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Body](https://open.spotify.com/album/0YhZjDKuvAjtXPdHdBfYI5) | 2:58 |
 | 80 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 |
 
-Snapshot ID: `MTY0Njk1NjgwMCwwMDAwMDBmNzAwMDAwMTdmNzY0NjY4YTYwMDAwMDE3ZjcwMDY3Y2Ey`
+Snapshot ID: `MTY0NzMxMzI0OCwwMDAwMDBmODAwMDAwMTdmOGI4NTYwYmYwMDAwMDE3ZjcwMDY3Y2Ey`

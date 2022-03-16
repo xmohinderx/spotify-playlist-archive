@@ -2,7 +2,7 @@
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
-> The freshest pop sounds\. Cover: Bow Anderson
+> The freshest pop sounds\. Cover: Sigrid
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

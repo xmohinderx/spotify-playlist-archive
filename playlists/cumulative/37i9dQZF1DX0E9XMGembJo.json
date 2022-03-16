@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 152511,
       "name": "Cherry (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 180146,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
@@ -1957,6 +1957,24 @@
       "duration_ms": 200133,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/4MOUAKzdy6wa2AJHuuxIi8"
+    },
+    {
+      "album": {
+        "name": "summer&cigarettes",
+        "url": "https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114427,
+      "name": "summer&cigarettes",
+      "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
     },
     {
       "album": {

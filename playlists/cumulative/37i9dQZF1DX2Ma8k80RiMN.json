@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Sing About Life",
+        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+      },
+      "artists": [
+        {
+          "name": "The Ebonys",
+          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330400,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+    },
+    {
+      "album": {
         "name": "All I Do",
         "url": "https://open.spotify.com/album/2QVLpiJGckXDQAssDGPWdC"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 217040,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 238717,
       "name": "Back Together (feat. Rick James)",
       "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 329623,
       "name": "He Don't Know Nothin' Bout It",
       "url": "https://open.spotify.com/track/6XZWZNFXqtdEp6YLW2bbEM"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 274706,
       "name": "Same Love",
       "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 243252,
       "name": "Stuck With Me",
       "url": "https://open.spotify.com/track/79krSKwLin119oRNcyfnRY"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 385505,
       "name": "Sweet Afternoon",
       "url": "https://open.spotify.com/track/7qv9C7XGzABH4S3HrmnsWq"

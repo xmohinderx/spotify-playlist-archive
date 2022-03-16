@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 181422,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 166405,
       "name": "BETTER WITH YOU",
       "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
@@ -229,10 +229,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 175000,
       "name": "Candid Heart",
       "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
+    },
+    {
+      "album": {
+        "name": "Be Okay (Live)",
+        "url": "https://open.spotify.com/album/5y4p49C9UDBgLsQBsaOn3O"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226791,
+      "name": "Caught Air (Live)",
+      "url": "https://open.spotify.com/track/3lH9mraA6X1kzlKGB5pKKl"
     },
     {
       "album": {
@@ -301,7 +319,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 200350,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 216707,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3uK2cHWyHd9Lfau3gMAHW9"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Future",
       "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 223023,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/1NmHUEvUh1JdxsxSBv1xIg"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 204000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/5xv9rwOC7YZC2Gv7XFfJM6"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 500000,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 212040,
       "name": "Standing In Your Light",
       "url": "https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 288626,
       "name": "Surely Now",
       "url": "https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 215120,
       "name": "Tread the Dawn",
       "url": "https://open.spotify.com/track/29LoYHqJB3YYBlSWE2j2Mz"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 172404,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6QtP7JPUMeDNxo1YMeh2wX"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"

@@ -196,6 +196,7 @@
 | [Undulation](https://open.spotify.com/track/7hFdKc9nv3w3MhwGWSKig4) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Undulation](https://open.spotify.com/album/7zeMN53HHrixeogYjoWEXv) | 3:28 | 2021-11-08 |  |
 | [Wake Up Rain](https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H), [Rain Recorders](https://open.spotify.com/artist/5GNSiWmGlKoycbxC8htQaH) | [Non Stop Rain](https://open.spotify.com/album/1SXdfBOoIPb094UtbsLjvP) | 2:10 | 2021-11-08 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2021-11-08 |  |
+| [Βροχερές μέρες](https://open.spotify.com/track/6l9VlJgElboeOE5A9P2rBc) | [Ο Ήχος της Βροχής](https://open.spotify.com/artist/52egGkXfWR0PlZgldvrw6X) | [Ήρεμη ελληνική καλοκαιρινή βροχή](https://open.spotify.com/album/3VUFMU3lq4eVQmMiuAYasG) | 2:23 | 2022-03-15 |  |
 | [Я люблю дождь](https://open.spotify.com/track/3yVuB24d8sop47Wyfeu1yQ) | [Небесный душ](https://open.spotify.com/artist/4SknsbXfiBH4PJxTZymwjv) | [Мирный дождь над Москвой](https://open.spotify.com/album/682f56Nhny9Iug8C2ArNXt) | 2:14 | 2022-02-25 |  |
 
 \*This playlist was first scraped on 2021-12-31. Prior content cannot be recovered.

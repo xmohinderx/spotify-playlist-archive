@@ -1,15 +1,43 @@
 {
   "description": "The essential deadmau5 originals and remixes.",
-  "num_followers": 171834,
+  "num_followers": 171873,
   "original_name": "This Is deadmau5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzA1MDYzOSwwMDAwMDAxNDAwMDAwMTdhZDNjNjgxNDMwMDAwMDE2ZDAwYjJhOTk4",
+  "snapshot_id": "MTY0NzM1NDgyMSwwMDAwMDAxNTAwMDAwMTdmOGRmZmJhNmIwMDAwMDE2ZDAwYjJhOTk4",
   "tracks": [
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "When The Summer Dies",
         "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
@@ -29,7 +57,7 @@
       "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Hypnocurrency",
         "url": "https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3"
@@ -49,7 +77,7 @@
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Nextra",
         "url": "https://open.spotify.com/album/5adMXoePLQgfglzbA7M7vp"
@@ -65,7 +93,7 @@
       "url": "https://open.spotify.com/track/6U9XV3WFi4Lo89SHxFpyNg"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "We Are Friends, Vol. 10",
         "url": "https://open.spotify.com/album/1RR9gkLdIuczEAZaVlPT4H"
@@ -81,7 +109,7 @@
       "url": "https://open.spotify.com/track/1eBMtZABse3pv4kYvWIAmi"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Channel 43",
         "url": "https://open.spotify.com/album/6GTPauuGqd0apuW1moW6dD"
@@ -101,7 +129,7 @@
       "url": "https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Bridged By A Lightwave",
         "url": "https://open.spotify.com/album/5GQm35tkCTK25fQmTou7Nu"
@@ -121,7 +149,7 @@
       "url": "https://open.spotify.com/track/5emTyRnoMTLc9G44RR6XIE"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Pomegranate",
         "url": "https://open.spotify.com/album/2phbPmXID3ja0vSKkLdF5G"
@@ -141,7 +169,7 @@
       "url": "https://open.spotify.com/track/5rjJyv6c4qXD2SKwdQx6wT"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "mau5ville: Level 1",
         "url": "https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe"
@@ -161,7 +189,7 @@
       "url": "https://open.spotify.com/track/2nLgWMdYPO35GGpwX2xo23"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)",
         "url": "https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p"
@@ -181,7 +209,7 @@
       "url": "https://open.spotify.com/track/3pFs5g6H6twH454xbaxHDM"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/5GvHOnZGxxByyvK4GnFEXm"
@@ -201,7 +229,7 @@
       "url": "https://open.spotify.com/track/6up8VZjgXqptykibKod32m"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "I Remember",
         "url": "https://open.spotify.com/album/35HmhbuEA2Q2m6kKP8SuR2"
@@ -221,7 +249,7 @@
       "url": "https://open.spotify.com/track/7v91ouqdF3f99LVPpvgKFE"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Strobe",
         "url": "https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB"
@@ -237,7 +265,7 @@
       "url": "https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "mau5ville: Level 1",
         "url": "https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe"
@@ -253,7 +281,7 @@
       "url": "https://open.spotify.com/track/2vPlEZrLXYhZkMzEFyfroi"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -269,7 +297,7 @@
       "url": "https://open.spotify.com/track/0TdRno5GHk3K53EeDh6rRd"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
@@ -285,7 +313,7 @@
       "url": "https://open.spotify.com/track/1dtpYestJ72OwmQeghIUfn"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -301,7 +329,7 @@
       "url": "https://open.spotify.com/track/4v4E2yOYEMCP7pw8eQ8Vr6"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -317,7 +345,7 @@
       "url": "https://open.spotify.com/track/2fWicBMgPXTflJH6PXvK97"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -333,7 +361,7 @@
       "url": "https://open.spotify.com/track/1rfEe9q2cY71fLovuydnW5"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -349,7 +377,7 @@
       "url": "https://open.spotify.com/track/1ROBixGgXrYlcCcrBfxAoy"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -365,7 +393,7 @@
       "url": "https://open.spotify.com/track/6dd5Z6ndIrQYDNcap0yTFD"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Beneath with Me (feat. Skylar Grey)",
         "url": "https://open.spotify.com/album/2sFiyVDcTyx5pvzd1uFcjT"
@@ -389,7 +417,7 @@
       "url": "https://open.spotify.com/track/1lsGvEI6CpsS8upSZSKEZX"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "while(1<2)",
         "url": "https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f"
@@ -405,7 +433,7 @@
       "url": "https://open.spotify.com/track/0hHnpTWYRB9AC7bxhPAIag"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Random Album Title",
         "url": "https://open.spotify.com/album/2F7QnnWJ1NAYRjx368xfJM"
@@ -421,7 +449,7 @@
       "url": "https://open.spotify.com/track/3nARn1sDLiYGvEeDH41u6x"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -437,7 +465,7 @@
       "url": "https://open.spotify.com/track/4mM9KHvLoA3hkxznu9DOyI"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "The Veldt",
         "url": "https://open.spotify.com/album/0pJJgBzj26qnE1nSQUxaB0"
@@ -453,7 +481,7 @@
       "url": "https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
@@ -473,7 +501,7 @@
       "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Bridged By A Lightwave (Lamorn Remix)",
         "url": "https://open.spotify.com/album/3n6VZFQMkDoLK5jPmYtnzL"
@@ -497,7 +525,7 @@
       "url": "https://open.spotify.com/track/3H5oqEIkYEC4GpaP0496oo"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Pomegranate (French Original Remix)",
         "url": "https://open.spotify.com/album/1e550IRXnYyLhCPoJIdGHe"
@@ -521,7 +549,7 @@
       "url": "https://open.spotify.com/track/33PHq60hM4guoJdpVZ5STG"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "I Remember",
         "url": "https://open.spotify.com/album/35HmhbuEA2Q2m6kKP8SuR2"
@@ -541,7 +569,7 @@
       "url": "https://open.spotify.com/track/1qnJYRDhTV4GGMtbLTWtNR"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Ultra Trance 09",
         "url": "https://open.spotify.com/album/19O4sEb2pNtkQtEhrVPo9r"
@@ -557,7 +585,7 @@
       "url": "https://open.spotify.com/track/3rv889IqPyuugLUTVTsUOT"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -577,7 +605,7 @@
       "url": "https://open.spotify.com/track/5gCGQlfEofp2Zxz5ZjJAa9"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "5 Years of mau5",
         "url": "https://open.spotify.com/album/0zyj1GySC9Cf4u8maD2q9v"
@@ -593,7 +621,7 @@
       "url": "https://open.spotify.com/track/7Ar4sHJSRdk18APx84hl9O"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -609,7 +637,7 @@
       "url": "https://open.spotify.com/track/1N31Wy2PWz5HvCzMbff3mO"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/7zLXnrozg2n7TrsnwHFLKF"
@@ -625,7 +653,7 @@
       "url": "https://open.spotify.com/track/2ueKL2MWoyfg1FnBpHOfbH"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "while(1<2)",
         "url": "https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f"
@@ -641,7 +669,7 @@
       "url": "https://open.spotify.com/track/1orqppWOgid8LIp3X2dUIg"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -657,7 +685,7 @@
       "url": "https://open.spotify.com/track/0WzpqM6GqbVm6zQ2qeqDEW"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -673,7 +701,7 @@
       "url": "https://open.spotify.com/track/4V5LPHyAOcUERXXD2NngT5"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Thought It Inside Out",
         "url": "https://open.spotify.com/album/7G2C7NkjCoFaFCKBuk2CNf"
@@ -693,7 +721,7 @@
       "url": "https://open.spotify.com/track/21fQcgKqU6hdPJKlZVvGPF"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Not Alone (feat. Molly)",
         "url": "https://open.spotify.com/album/5jOqA9PyMLR3OstJRoojed"
@@ -713,7 +741,7 @@
       "url": "https://open.spotify.com/track/0FQ0FebP3rc5nYdXbpIswb"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "We Are Friends, Vol. 6",
         "url": "https://open.spotify.com/album/04EzEYc1Q1YHeDMxQAJR2P"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/6Qng1hawspj0ddyexe0IHV"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "while(1<2)",
         "url": "https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f"
@@ -745,7 +773,7 @@
       "url": "https://open.spotify.com/track/0b87ACuSd5BBWlDGXJOObD"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "while(1<2)",
         "url": "https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f"
@@ -761,7 +789,7 @@
       "url": "https://open.spotify.com/track/5L5VSFuMw19b9AMXMfSn8l"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "4x4=12",
         "url": "https://open.spotify.com/album/47MVgO7XNmxzoYSJIvqxAG"
@@ -777,7 +805,7 @@
       "url": "https://open.spotify.com/track/7nQqukBuClFtuaegbRAdNP"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Ghosts 'n' Stuff (feat. Rob Swire) (feat. Rob Swire)",
         "url": "https://open.spotify.com/album/1BEiMHtZHylizLQfN2fz7p"
@@ -797,7 +825,7 @@
       "url": "https://open.spotify.com/track/658DZkdnNDPZFPNPESYGMR"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
@@ -813,7 +841,7 @@
       "url": "https://open.spotify.com/track/6jvoLBmlUvSMbPndtE77UN"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "deadmau5 - The Remixes (Deluxe Version)",
         "url": "https://open.spotify.com/album/26WsAVZy35LJ9Sxz6LcjOz"
@@ -833,7 +861,7 @@
       "url": "https://open.spotify.com/track/0h26qoZNRIuUfuIellYQ1A"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Fifths",
         "url": "https://open.spotify.com/album/13SlSH2X8yjdB8D9XVXb8i"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/2UHSNriA2YvOQjDXstg2SV"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Telemiscommunications (Remixes)",
         "url": "https://open.spotify.com/album/4nDomfcPNsEt50qyTwdbeJ"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/34PRwPPXX9VYJHJqNqWIRa"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
@@ -885,7 +913,7 @@
       "url": "https://open.spotify.com/track/72mrtx7M9ilfO72jtXEEr9"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "I'm Not Alone",
         "url": "https://open.spotify.com/album/4qUFn5brXrI7AQEHW4LYTg"
@@ -905,7 +933,7 @@
       "url": "https://open.spotify.com/track/2B4iuxJX1Qr5vE5s6be4y2"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
@@ -921,7 +949,7 @@
       "url": "https://open.spotify.com/track/01AwwfC3sYLbtmECslpj2O"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "Raise Your Weapon",
         "url": "https://open.spotify.com/album/1lBnKDWpkZr4XdITvBJXPI"
@@ -937,7 +965,7 @@
       "url": "https://open.spotify.com/track/5AvxU50NICCvmCeZfKqSId"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "4x4=12",
         "url": "https://open.spotify.com/album/47MVgO7XNmxzoYSJIvqxAG"
@@ -957,7 +985,7 @@
       "url": "https://open.spotify.com/track/2DHDdNrGxqVfskQKZ3iTmj"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "For Lack of a Better Name",
         "url": "https://open.spotify.com/album/6C6RtR4rwoonc10cv4sSDF"
@@ -973,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0ZMuyIprUNwjhwhZC5tlQe"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "We Are Friends, Vol. 5",
         "url": "https://open.spotify.com/album/394e6NT7YwnWdfYwnCO6hn"
@@ -989,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5vUMdmEaauy6qSc1ovtZ30"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "deadmau5 - The Remixes (Deluxe Version)",
         "url": "https://open.spotify.com/album/26WsAVZy35LJ9Sxz6LcjOz"
@@ -1009,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2kiq3xAgZT9Di3maPeKomO"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "deadmau5 - The Remixes (Deluxe Version)",
         "url": "https://open.spotify.com/album/26WsAVZy35LJ9Sxz6LcjOz"
@@ -1029,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7tFeppt7sZSeoraqZdgMOn"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "We Are Friends, Vol. 6",
         "url": "https://open.spotify.com/album/04EzEYc1Q1YHeDMxQAJR2P"
@@ -1049,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6hK0irlXHoN9DeflWvkmKy"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "W:/2016ALBUM/",
         "url": "https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x"
@@ -1065,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3C2EoVLfPVajaocjUBlooV"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
@@ -1081,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6oiCGnOy9wy8rVl2c1juvG"
     },
     {
-      "added_at": "2021-07-23 14:30:39",
+      "added_at": "2022-03-15 14:33:41",
       "album": {
         "name": "I Said",
         "url": "https://open.spotify.com/album/1Y09NriXaX2zoWxu3edckH"

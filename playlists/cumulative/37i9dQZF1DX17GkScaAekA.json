@@ -720,20 +720,24 @@
     },
     {
       "album": {
-        "name": "The Orph\u00e9e Suite",
+        "name": "Philip Glass: The Orph\u00e9e Suite for Piano",
         "url": "https://open.spotify.com/album/5fPm1IKxHPRFOeZIU40f58"
       },
       "artists": [
         {
           "name": "Philip Glass",
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Paul Barnes",
+          "url": "https://open.spotify.com/artist/37jeZ9zIkZTykFNxd6VcLw"
         }
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 471840,
-      "name": "Orph\u00e9e Suite - 6. Orphee's Return",
+      "duration_ms": 471826,
+      "name": "Orph\u00e9e Suite: VI. Orph\u00e9e's Return",
       "url": "https://open.spotify.com/track/1NYElq76ajtGZWEOubEK8b"
     },
     {

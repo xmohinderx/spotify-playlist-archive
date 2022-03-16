@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,650 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,637 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 40 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/0Dmucyb2ZVU0LDVhjAxbJf) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [The Christmas Present \(Deluxe\)](https://open.spotify.com/album/1JDeu83sZU5nmRu2OTSk4F) | 3:12 |
 | 41 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 |
 | 42 | [Messed Up On Christmas](https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:21 |
-| 43 | [This Christmas](https://open.spotify.com/track/6sSuMSEeXcE4STNgs7J6TF) | [Sonny](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/67CXdJzq72ckk5MvXOKoEw) | 3:02 |
+| 43 | [This Christmas](https://open.spotify.com/track/6sSuMSEeXcE4STNgs7J6TF) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [This Christmas](https://open.spotify.com/album/67CXdJzq72ckk5MvXOKoEw) | 3:02 |
 | 44 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
 | 45 | [Christmas Blues](https://open.spotify.com/track/6PZaNvcth74ko7Ld0vB8Gm) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Christmas Blues](https://open.spotify.com/album/1wYxighrXciRyM6KjF5Gv2) | 3:25 |
 | 46 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 |

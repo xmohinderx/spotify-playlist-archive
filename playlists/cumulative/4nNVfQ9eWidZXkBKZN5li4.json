@@ -3458,6 +3458,24 @@
     },
     {
       "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/5UYxAn1wqzf3xOc1M9qxUe"
+      },
+      "artists": [
+        {
+          "name": "Pav Dharia",
+          "url": "https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213473,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/2X43mUjx1b3Y2TPnRVU0oW"
+    },
+    {
+      "album": {
         "name": "Shaitan Ka Saala (From \"Housefull 4\")",
         "url": "https://open.spotify.com/album/7sxgA4JjytTlBrtI9VXPAf"
       },

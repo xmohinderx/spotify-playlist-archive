@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 306920,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5R1vxqzPxyA31YODI5nRIR"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 189403,
       "name": "Call Me on Your Way Back Home",
       "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
@@ -311,6 +311,24 @@
       "duration_ms": 318102,
       "name": "Come Pick Me Up",
       "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128248,
+      "name": "Damn Sam (I Love a Woman That Rains)",
+      "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
     },
     {
       "album": {
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 310346,
       "name": "Hotel Chelsea Nights",
       "url": "https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 224053,
       "name": "I Wish You Would",
       "url": "https://open.spotify.com/track/0Nb6EyYhGhH96rqSe4wmdy"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 186253,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 236440,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/1d9M5ezx4n6D57FMG4tj1c"

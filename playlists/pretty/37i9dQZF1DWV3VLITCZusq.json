@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 139836,
+  "num_followers": 139926,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzMwNTMxNSwwMDAwMDAwMDIxN2M5M2M4MTUzN2RkMzMwODUzYmE2NDViMTRkOTA0",
+  "snapshot_id": "MTY0NzM5MTczMywwMDAwMDAwMGNkMzQ5OTE1Y2RmZGZlYjVjNWJlOTU5N2U0YWVkMTYz",
   "tracks": [
     {
       "added_at": "2021-10-12 08:26:45",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "I'm Born To Run",
-      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
     },
     {
       "added_at": "2022-01-17 09:48:16",
@@ -107,8 +107,8 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Chariot - Stripped",
-        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "I Don't Want to Be",
-      "url": "https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
@@ -187,8 +171,8 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
       "artists": [
         {
@@ -196,9 +180,25 @@
           "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+      "duration_ms": 206920,
+      "name": "I'm Born To Run",
+      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "I Don't Want to Be",
+      "url": "https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -267,8 +267,8 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
       },
       "artists": [
         {
@@ -276,9 +276,25 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Money Run Low",
+      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
     },
     {
       "added_at": "2021-08-11 12:31:55",
@@ -299,54 +315,6 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Oh My My (Deluxe)",
-        "url": "https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB"
-    },
-    {
-      "added_at": "2021-10-12 08:26:45",
-      "album": {
-        "name": "Godsent & All Eyes On You",
-        "url": "https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "All Eyes On You",
-      "url": "https://open.spotify.com/track/0NWTC6EoKYbTdnl2rSXYDE"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Money Run Low",
-      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "For Your Entertainment",
+        "url": "https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Whataya Want from Me",
+      "url": "https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "Oh My My (Deluxe)",
+        "url": "https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -377,36 +377,20 @@
       "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
-      "added_at": "2021-08-11 12:31:55",
+      "added_at": "2021-10-12 08:26:45",
       "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+        "name": "Godsent & All Eyes On You",
+        "url": "https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN"
       },
       "artists": [
         {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "For Your Entertainment",
-        "url": "https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 227320,
-      "name": "Whataya Want from Me",
-      "url": "https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn"
+      "duration_ms": 187333,
+      "name": "All Eyes On You",
+      "url": "https://open.spotify.com/track/0NWTC6EoKYbTdnl2rSXYDE"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -443,6 +427,22 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
+    },
+    {
+      "added_at": "2021-08-11 12:31:55",
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2021-08-11 12:31:55",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "All The Right Moves",
+      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
@@ -520,9 +536,25 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 186826,
-      "name": "My Songs Know What You Did In The Dark (Light Em Up)",
-      "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
+      "duration_ms": 211573,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "Love Don't Die",
+        "url": "https://open.spotify.com/album/7nfVuiEJzJMrh1ghnyCeMR"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Love Don't Die",
+      "url": "https://open.spotify.com/track/328vwrjOdWDdsU3Ekod8Kf"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -559,38 +591,6 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "Love Don't Die",
-        "url": "https://open.spotify.com/album/7nfVuiEJzJMrh1ghnyCeMR"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Love Don't Die",
-      "url": "https://open.spotify.com/track/328vwrjOdWDdsU3Ekod8Kf"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "All The Right Moves",
-      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -619,54 +619,6 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
-    },
-    {
-      "added_at": "2021-03-29 12:22:43",
-      "album": {
-        "name": "What About Now",
-        "url": "https://open.spotify.com/album/0ygrVw5SYpWGQXD84CNdMW"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 240346,
-      "name": "Because We Can",
-      "url": "https://open.spotify.com/track/4p6dif719WK9E2ZBqmwngo"
     },
     {
       "added_at": "2021-08-11 12:31:55",
@@ -703,18 +655,34 @@
     {
       "added_at": "2021-03-29 12:22:43",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 185466,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
+      "duration_ms": 186826,
+      "name": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2021-03-29 12:22:43",
@@ -731,6 +699,38 @@
       "duration_ms": 263786,
       "name": "Adventure of a Lifetime",
       "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "What About Now",
+        "url": "https://open.spotify.com/album/0ygrVw5SYpWGQXD84CNdMW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 240346,
+      "name": "Because We Can",
+      "url": "https://open.spotify.com/track/4p6dif719WK9E2ZBqmwngo"
+    },
+    {
+      "added_at": "2021-03-29 12:22:43",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
     },
     {
       "added_at": "2021-03-29 12:22:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,660 likes - 131 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,640 likes - 131 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 89 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 |
 | 90 | [Christmas TV](https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue) | 4:32 |
 | 91 | [Have Yourself a Merry Little Christmas \- Live at the Mac](https://open.spotify.com/track/1WHRjzb9yzWvawfIQDvZln) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Have Yourself a Merry Little Christmas \(Live at the Mac\)](https://open.spotify.com/album/5CNa7ShStDgPpCNu6Firf8) | 4:10 |
-| 92 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/6LlTqZm4uyagvXPFlAlrzA) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
+| 92 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
 | 93 | [This December](https://open.spotify.com/track/40YdqaqZx7PIhFerYClk45) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/2V6uNEivEnQZnKV97bdgBx) | 3:56 |
 | 94 | [Silent Night \(feat\. Anais Mitchell\)](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 |
 | 95 | [Holiday Road](https://open.spotify.com/track/3XZMIVgiRCwnKfce1osBYl) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/12LlLnVszu0tnMIEng9d61) | 3:38 |

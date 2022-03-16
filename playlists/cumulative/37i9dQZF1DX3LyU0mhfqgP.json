@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 220428,
       "name": "back to back - Japanese Wallpaper Remix",
       "url": "https://open.spotify.com/track/3rHfjnoLpaRZlpzhGJYKMq"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 193049,
       "name": "bad friend",
       "url": "https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 138266,
       "name": "Catch This Love",
       "url": "https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 179387,
       "name": "Come, Cry",
       "url": "https://open.spotify.com/track/7BLPoLN4Y2zL37WtSAnpsy"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 192054,
       "name": "degree",
       "url": "https://open.spotify.com/track/497KalbUMS3DGzUwfua4wm"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 216638,
       "name": "fitt (with Amaarae)",
       "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 210005,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 209631,
       "name": "Love me for me",
       "url": "https://open.spotify.com/track/73MmbnDCRABCDJUcyWi6b1"
@@ -2451,7 +2451,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 182443,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
@@ -2563,7 +2563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 226404,
       "name": "Not For Me",
       "url": "https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy"
@@ -2769,6 +2769,24 @@
       "duration_ms": 231251,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC"
+    },
+    {
+      "album": {
+        "name": "Point Me Toward The Real",
+        "url": "https://open.spotify.com/album/4s8642jMUumY3TCovwAh3m"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295479,
+      "name": "Point Me Toward The Real",
+      "url": "https://open.spotify.com/track/3l0EWOuGylX8eNrXJVDRrs"
     },
     {
       "album": {
@@ -3387,7 +3405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 267031,
       "name": "squares",
       "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"

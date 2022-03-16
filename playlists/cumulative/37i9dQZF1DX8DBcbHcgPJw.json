@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 182952,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 149072,
       "name": "Bubal\u00fa",
       "url": "https://open.spotify.com/track/3hjbhI7IdDEaCrhDBVegXs"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 155065,
       "name": "El Manual - Remix",
       "url": "https://open.spotify.com/track/3bNgKthxO42KUUSVi0F2vA"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1714,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "Jodido Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3vf7r2oc46hcO1tVhI7XK2"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148939,
+      "name": "Jodido Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5gUwVD9u7RryDOP3tk52OP"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 165340,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
@@ -2793,7 +2811,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 154402,
       "name": "No vas a cambiar",
       "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 174631,
       "name": "Segunda Opci\u00f3n",
       "url": "https://open.spotify.com/track/6yzC5Hhd7klSfMsqarWeDQ"
@@ -3727,7 +3745,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 169381,
       "name": "Sin Respuestas",
       "url": "https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98"
@@ -3829,7 +3847,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 125729,
       "name": "Su\u00e9ltate",
       "url": "https://open.spotify.com/track/2sCmI627F3eynMnW15kuen"
@@ -3989,7 +4007,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
@@ -4437,7 +4455,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 193636,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5oK9DaQ93OfKwGoTBEv87l"
@@ -4494,7 +4512,7 @@
         },
         {
           "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/4C2JXuEE2gAwMuCOUSYjIk"
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
         },
         {
           "name": "Santiago Saez",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128290,
+  "num_followers": 128295,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMwMSw0YTUyNzQ3MjRmZDI3ZTc4MGI5MmQ2YmFmNTRhZjE3NzFjM2Q5MWI5",
+  "snapshot_id": "MzMwMyxjMzJjODI4NmY0MDYwMzg3NGIyY2Y4YWE5N2QxMWY5ZDM5YzZmZWQ5",
   "tracks": [
+    {
+      "added_at": "2022-03-15 16:25:47",
+      "album": {
+        "name": "& Friends",
+        "url": "https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Half an Orange",
+          "url": "https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y"
+    },
     {
       "added_at": "2022-03-14 16:10:22",
       "album": {
@@ -1115,22 +1135,6 @@
       "duration_ms": 201600,
       "name": "find u.",
       "url": "https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Airborne",
-        "url": "https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 212625,
-      "name": "Airborne",
-      "url": "https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

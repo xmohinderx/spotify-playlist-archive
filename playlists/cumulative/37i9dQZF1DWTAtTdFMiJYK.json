@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Badra Bahara",
+        "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156107,
+      "name": "Badra Bahara",
+      "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
+    },
+    {
+      "album": {
         "name": "Siyah - Pt.2 | Maazi",
         "url": "https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK"
       },
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 259393,
       "name": "Makin' My Move",
       "url": "https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD"

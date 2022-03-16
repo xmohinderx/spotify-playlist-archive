@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 207853,
       "name": "Adictiva",
       "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 257864,
       "name": "Bellacoso",
       "url": "https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 219302,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1679,6 +1679,32 @@
       "duration_ms": 174500,
       "name": "Playa Grande - Sinego Remix",
       "url": "https://open.spotify.com/track/2JRfuaFSafvwr5oFlPWOS4"
+    },
+    {
+      "album": {
+        "name": "Playa y Arena (Remix)",
+        "url": "https://open.spotify.com/album/5XTz0tfK76mF1tURuguv8r"
+      },
+      "artists": [
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237041,
+      "name": "Playa y Arena (Remix)",
+      "url": "https://open.spotify.com/track/4Q6Z7fn2xVhPZ1xn0XfEOY"
     },
     {
       "album": {
@@ -2415,7 +2441,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 191460,
       "name": "Tun Tun",
       "url": "https://open.spotify.com/track/5Xhzsn8demSBBaHDSH6cou"

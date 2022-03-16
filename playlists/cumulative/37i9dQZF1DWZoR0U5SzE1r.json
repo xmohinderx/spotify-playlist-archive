@@ -419,7 +419,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 589421,
       "name": "Catch the Wind (Spontaneous)",
       "url": "https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 350386,
       "name": "Come Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 433279,
       "name": "Covered - Live",
       "url": "https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 408054,
       "name": "Fill Up The Sky - Live",
       "url": "https://open.spotify.com/track/1HZ8msvxpytLxf5PC1FZRc"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 514573,
       "name": "God of Revival - Live",
       "url": "https://open.spotify.com/track/1bVwXNjU0AFn1nI2U6RPQG"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 515387,
       "name": "God of Revival - Live",
       "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257373,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1vM5pCVUvxKQMtJKxlR7Q3"
+    },
+    {
+      "album": {
         "name": "Glory to Glory",
         "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
       },
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 224026,
       "name": "I Stand Here",
       "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 516363,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAI; thiết kế: Isu Kim
+> Khám phá các bài hát đáng nghe 🔥 từ những cái tên có thể bạn chưa biết ✨\. Ảnh bìa: MAI; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,358 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,383 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |
 | 100 | [What's Your Problem? \(feat\. GoKKy\)](https://open.spotify.com/track/4OpF0X4ki0as0qnuErqehJ) | [Thanh Ngân](https://open.spotify.com/artist/6p2rk0bZVJQl0EtC3FO7QZ), [GoKKy](https://open.spotify.com/artist/6mJiuwiL3bbVP8rTEyan1N) | [What's Your Problem?](https://open.spotify.com/album/6apUi3bnReuohPQqI8MfWc) | 3:05 |
 
-Snapshot ID: `MTY0NzI1Mjk4OCwwMDAwMDJiMzAwMDAwMTdmODdlZGUzNjQwMDAwMDE3ZjQ4OWU4NDA3`
+Snapshot ID: `MTY0NzMxNzMyNywwMDAwMDJiNDAwMDAwMTdmOGJjMzlkMzcwMDAwMDE3ZjQ4OWU4NDA3`

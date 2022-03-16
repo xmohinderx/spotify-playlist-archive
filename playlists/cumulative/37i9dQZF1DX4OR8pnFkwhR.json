@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: TOGITO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Tele",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -135,6 +135,24 @@
       "duration_ms": 177666,
       "name": "Change the world",
       "url": "https://open.spotify.com/track/7vDP2DuhXm3n3JKxkxc5mm"
+    },
+    {
+      "album": {
+        "name": "drivin'",
+        "url": "https://open.spotify.com/album/0k6uJOhFGvSW7n5iqrJr3A"
+      },
+      "artists": [
+        {
+          "name": "swim swim",
+          "url": "https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227472,
+      "name": "drivin'",
+      "url": "https://open.spotify.com/track/2arT5zAY4wphTwipc07SeS"
     },
     {
       "album": {
@@ -738,6 +756,24 @@
     },
     {
       "album": {
+        "name": "your trip",
+        "url": "https://open.spotify.com/album/6BXTp2e23oBdNESFFpTc7l"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244445,
+      "name": "your trip",
+      "url": "https://open.spotify.com/track/1C9jTemz6FYLSINGxrt1QA"
+    },
+    {
+      "album": {
         "name": "yours",
         "url": "https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM"
       },
@@ -749,7 +785,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 251980,
       "name": "yours",
       "url": "https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP"
@@ -998,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "P\u30fbO\u30fbN",
+        "url": "https://open.spotify.com/album/5kd9iymKxO4uXMDWzdBoEE"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227792,
+      "name": "\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0f0jWZvuuzS0exDNBJQ6NC"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30e9\u30f3\u30b7\u30fc\u30f4",
         "url": "https://open.spotify.com/album/6qh9RV3PAP2u30DiucUTdR"
       },
@@ -1240,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u884c\u30d0\u30b9",
+        "url": "https://open.spotify.com/album/4Q1I2pL90LAdiGtY7y2Yn0"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235217,
+      "name": "\u591c\u884c\u30d0\u30b9",
+      "url": "https://open.spotify.com/track/6U7vtqhGaIb3ve7PFWpNo7"
+    },
+    {
+      "album": {
         "name": "P\u30fbO\u30fbN",
         "url": "https://open.spotify.com/album/5kd9iymKxO4uXMDWzdBoEE"
       },
@@ -1251,7 +1323,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 276778,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/3aF6sZZLBdHh1RxE0tt1Da"
@@ -1485,7 +1557,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 253043,
       "name": "\u79c1\u5c0f\u8aac",
       "url": "https://open.spotify.com/track/5yrcqOxTWVLOnT00AXeiNu"

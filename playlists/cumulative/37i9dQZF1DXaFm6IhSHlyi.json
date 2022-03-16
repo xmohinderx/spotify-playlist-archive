@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
+  "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR?si=N0egSx-tQT6tflfVl3Er1A\">Lana Lubany</a>",
   "name": "Ballads International",
   "published_playlist_ids": [
     "1ZTU8Dt8vxdmkmh5cekOqK"
@@ -75,8 +75,8 @@
       },
       "artists": [
         {
-          "name": "Cnebce",
-          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
+          "name": "Malket",
+          "url": "https://open.spotify.com/artist/3Qv91VR5pS1PdDM6X5jDNx"
         }
       ],
       "date_added": "2021-11-19",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 205520,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 178213,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
@@ -2511,6 +2511,24 @@
       "duration_ms": 177481,
       "name": "The Hunting Field",
       "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
+    },
+    {
+      "album": {
+        "name": "THE SNAKE",
+        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176953,
+      "name": "THE SNAKE",
+      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
     },
     {
       "album": {
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 161142,
       "name": "\u041a\u043e\u043c\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1tjM9dP8GWkYl4orF7yLWD"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 237632,
       "name": "\u0421\u0442\u0438\u0445\u043d\u0435\u0442 \u043c\u043e\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/5Yq80azEjRwPaisXpwoFrk"
@@ -3043,7 +3061,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 223410,
       "name": "\u304a\u3084\u3059\u307f\u3001\u304b\u307f\u3055\u307e",
       "url": "https://open.spotify.com/track/5GU75hIL1riqY1DtP9gf1Q"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 290773,
       "name": "\u3084\u3055\u3057\u3055\u3067\u6ea2\u308c\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/05OHGzibvNF0oPyQ2zbyYd"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 266333,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/2gzApyJhCWVdTRxL9HB1EO"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"

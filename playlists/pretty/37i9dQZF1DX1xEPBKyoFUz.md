@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Hey, this is <a href="https://www.instagram.com/steveaoki/">Steve Aoki</a> and these are some of my favorite tracks to play while gaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,384 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,381 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-16",
       "duration_ms": 212625,
       "name": "Airborne",
       "url": "https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9"
@@ -1751,6 +1751,28 @@
       "duration_ms": 230000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx"
+    },
+    {
+      "album": {
+        "name": "& Friends",
+        "url": "https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Half an Orange",
+          "url": "https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y"
     },
     {
       "album": {

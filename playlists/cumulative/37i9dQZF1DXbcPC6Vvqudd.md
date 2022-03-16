@@ -398,6 +398,7 @@
 | [Will it ever stop raining?](https://open.spotify.com/track/1LA1g4jm8cJuKPwwWZzu2M) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 | 2021-11-08 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2021-11-08 |  |
 | [Yoga Rain](https://open.spotify.com/track/4sieuDUZuvGySckrUxCgN2) | [Dream Wonderland](https://open.spotify.com/artist/2FQzApUKsaETAB1fmHHtqd) | [Relax Rain](https://open.spotify.com/album/7fqwCU5bvNyMPUTDXJjW8y) | 2:13 | 2021-11-08 |  |
+| [Βροχερές μέρες](https://open.spotify.com/track/6l9VlJgElboeOE5A9P2rBc) | [Ο Ήχος της Βροχής](https://open.spotify.com/artist/52egGkXfWR0PlZgldvrw6X) | [Ήρεμη ελληνική καλοκαιρινή βροχή](https://open.spotify.com/album/3VUFMU3lq4eVQmMiuAYasG) | 2:23 | 2022-03-15 |  |
 | [ฝนไทย](https://open.spotify.com/track/6RahdCve2k4j9uMktGnvzN) | [โรงงานฝน](https://open.spotify.com/artist/0CyQEAbBfOoPQHDNQb2Y7Q) | [เสียงฝนกรุงเทพ](https://open.spotify.com/album/0StfOG7Lsu1P9qseiHtDOZ) | 2:13 | 2022-03-04 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

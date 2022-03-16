@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,688 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 23 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 |
 | 24 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 |
 | 25 | [La fin](https://open.spotify.com/track/2GgyYB3Hstk8KrX6AsGemA) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [La rivière](https://open.spotify.com/album/72DZjGPRX4fd8rpHmvb3Vt) | 2:59 |
-| 26 | [You're It](https://open.spotify.com/track/2e5RcXn0N1CA93iD2QXfJi) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [You're It](https://open.spotify.com/album/1cNl7YVm7DShD68IJUgEDh) | 1:30 |
-| 27 | [Temporary Farewell](https://open.spotify.com/track/5izFSdELM0aLAOWz7YEywd) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Temporary Farewell](https://open.spotify.com/album/3uL5zrm1IVvjFGRcuQ6H7B) | 3:44 |
-| 28 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 |
-| 29 | [Same Place](https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Same Place](https://open.spotify.com/album/6qet6MfndKK4w0pBVsLduU) | 3:41 |
-| 30 | [Femme de caractère](https://open.spotify.com/track/3sFoiLKhFMaQiNaee7jAgB) | [Noushka](https://open.spotify.com/artist/6gedm4MWkvdB1ffEcdrllK) | [Femme de caractère](https://open.spotify.com/album/4VpWbNBd6lkwVrUkBffuNc) | 3:12 |
+| 26 | [Temporary Farewell](https://open.spotify.com/track/5izFSdELM0aLAOWz7YEywd) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Temporary Farewell](https://open.spotify.com/album/3uL5zrm1IVvjFGRcuQ6H7B) | 3:44 |
+| 27 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 |
+| 28 | [Same Place](https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Same Place](https://open.spotify.com/album/6qet6MfndKK4w0pBVsLduU) | 3:41 |
+| 29 | [Femme de caractère](https://open.spotify.com/track/3sFoiLKhFMaQiNaee7jAgB) | [Noushka](https://open.spotify.com/artist/6gedm4MWkvdB1ffEcdrllK) | [Femme de caractère](https://open.spotify.com/album/4VpWbNBd6lkwVrUkBffuNc) | 3:12 |
+| 30 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
 | 31 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 |
 | 32 | [Dead to You](https://open.spotify.com/track/4W1W0DzHwGbmepJ0BvAT8F) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Dead to You](https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky) | 2:42 |
 | 33 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 |
 | 50 | [Movie](https://open.spotify.com/track/6B1OsFv1SS1r5vGwMpDQDj) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Movie](https://open.spotify.com/album/1nA9jlCiG30YwwVxICz3Po) | 3:41 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAxODAwMDAwMTdmNjdlNWZkMDEwMDAwMDE3ZjY3MDA1ZGJh`
+Snapshot ID: `MTY0NzM1MzM3NiwwMDAwMDAxOTAwMDAwMTdmOGRlOWIwNjEwMDAwMDE3ZjY3MDA1ZGJh`
