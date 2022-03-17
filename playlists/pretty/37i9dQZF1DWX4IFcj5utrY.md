@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=g1XhWZa3Soe0WiYo2qQNkQ">Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,059 likes - 75 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,087 likes - 75 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 57 | [Inferno \- Original Mix](https://open.spotify.com/track/680fxmJYggod2chCopecz2) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Inferno](https://open.spotify.com/album/3aYBi2eF5RmxhR0xGbTc6i) | 7:03 |
 | 58 | [Similani](https://open.spotify.com/track/6dF5s75BQYVb8eq14uJ0gP) | [Trekkah](https://open.spotify.com/artist/3YTAXxEhKGNPtxjYgSl92V), [Mr Norble Guy](https://open.spotify.com/artist/651fy57YJX5IKTZuMWxdFw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Creative Connected Experiences, Vol\. 01](https://open.spotify.com/album/50sQPol3YuTst5FcyZR0MV) | 5:28 |
 | 59 | [Kore \- Main HT](https://open.spotify.com/track/5HJzGP0mO4gBENsUlYGc5q) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Kore \(Main HT\)](https://open.spotify.com/album/26bEboycI52qkYhEL8RC5g) | 6:07 |
-| 60 | [Oloip](https://open.spotify.com/track/1pSBGFxSALawDhL6pljAia) | [Gazzille\_Z.A](https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB), [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Oloip](https://open.spotify.com/album/5iagJEhbWQpoRNb7wTtkAe) | 8:08 |
+| 60 | [Oloip](https://open.spotify.com/track/1pSBGFxSALawDhL6pljAia) | [Gazzille\_Z.A](https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB), [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg), [Pablo Fierro](https://open.spotify.com/artist/2flshjYfRLQCZjjzuusJku) | [Oloip](https://open.spotify.com/album/5iagJEhbWQpoRNb7wTtkAe) | 8:08 |
 | 61 | [Doppler Effect](https://open.spotify.com/track/5oqz9LM5EOhUEoPG9V9Yoq) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu) | [Virtuoso](https://open.spotify.com/album/1OOZE1qHZBXcsk5fkXyrWF) | 6:39 |
 | 62 | [Galaxies](https://open.spotify.com/track/5XA8A9whiWj4OQ21cidh7C) | [Hartley](https://open.spotify.com/artist/6EO4hcmWj2ZAAZ4Vb9eHlc) | [Galaxies](https://open.spotify.com/album/123swmlJGHmhkWUvJgZ9hb) | 5:23 |
 | 63 | [BEAUTIFUL FANTASY](https://open.spotify.com/track/4q3jTnVXM5yvT5m9fhBON3) | [Dj Dreas](https://open.spotify.com/artist/1EJixvnrDY9wZTO2VMwuuk), [Sean K](https://open.spotify.com/artist/6ms8vWUQgHDmjPnk48deMf), [Imms Nicolau](https://open.spotify.com/artist/1rBfDC0Niz49ybbn4RbKxz) | [DAYSBEFOREULTRA](https://open.spotify.com/album/0gqM7xh9rZE7WECecUIW3X) | 5:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B Dancehall & Afrobeat playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,706 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,825 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 21 | [Born \(feat\. Cashh\)](https://open.spotify.com/track/7jXTGAgzmvLJ40dKKJON2u) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Reason to Smile](https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC) | 3:26 |
 | 22 | [In The Fire](https://open.spotify.com/track/3mtaSob1BQO4HMSA8lWKRt) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:03 |
 | 23 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
-| 24 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 |
+| 24 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Swifta Beater](https://open.spotify.com/artist/5wfMJ2PgaKgroRIcXB5Ck6) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 |
 | 25 | [Reggae & Calypso \(Russ Millions x Buni x YV\)](https://open.spotify.com/track/3FMedgGsLUNwx8NciePFEK) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk) | [One Of A Kind Music Presents: Reggae & Calypso \(Russ Millions x Buni x YV\)](https://open.spotify.com/album/7edXlHrpkf5btwVVy1nO3k) | 2:21 |
 | 26 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 |
 | 27 | [Double Double](https://open.spotify.com/track/2xrqAfdEyRhKZZYz5mnM2L) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Double Double](https://open.spotify.com/album/53it9fD6h4pvI776cy6Blc) | 4:01 |

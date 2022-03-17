@@ -7568,6 +7568,24 @@
     },
     {
       "album": {
+        "name": "Lonestar",
+        "url": "https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "Lonestar",
+      "url": "https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn"
+    },
+    {
+      "album": {
         "name": "Look Away",
         "url": "https://open.spotify.com/album/0lye0s2jBSO8wxynO6vCBm"
       },
@@ -14285,7 +14303,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 177000,
       "name": "VII. Bourbon",
       "url": "https://open.spotify.com/track/6bBdXtekjdoxo0gmgG3lvh"

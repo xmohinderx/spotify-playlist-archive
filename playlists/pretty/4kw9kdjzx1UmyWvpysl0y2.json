@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128295,
+  "num_followers": 128300,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMwMyxjMzJjODI4NmY0MDYwMzg3NGIyY2Y4YWE5N2QxMWY5ZDM5YzZmZWQ5",
+  "snapshot_id": "MzMwNSxiNmZlNTZjMTE0ZGQ0ZjRmNTY1MmNkOTU1MzBkZWYxYzNlZjVjOWM4",
   "tracks": [
+    {
+      "added_at": "2022-03-16 16:01:33",
+      "album": {
+        "name": "As I Wander",
+        "url": "https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u"
+      },
+      "artists": [
+        {
+          "name": "Elypsis",
+          "url": "https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "As I Wander",
+      "url": "https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB"
+    },
     {
       "added_at": "2022-03-15 16:25:47",
       "album": {
@@ -1119,22 +1135,6 @@
       "duration_ms": 204482,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "find u.",
-        "url": "https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "find u.",
-      "url": "https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

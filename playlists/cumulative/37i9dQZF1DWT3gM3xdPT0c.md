@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT3gM3xdPT0c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3gM3xdPT0c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT3gM3xdPT0c)
 
-### Cozy Acoustic Morning
+### [Cozy Acoustic Morning](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 > Warm instrumental guitar for a gentle start.
 

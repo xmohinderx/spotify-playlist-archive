@@ -1,15 +1,15 @@
 {
   "description": "H\u00e5ll det 100.",
-  "num_followers": 247050,
+  "num_followers": 247134,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM5MTgyMywwMDAwMDAwMDM3MTdhMmY3ZjQwNTgxZWMzNzY0MzE5OTFmNTlhMzY2",
+  "snapshot_id": "MTY0NzQ3ODIwNywwMDAwMDAwMDA4Yzg3NmRiYjQ5MWNhMjYwNDIwZDg5MjZiNmVjYTNk",
   "tracks": [
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5ifuPXMJyFzb6m0ypJn5ac"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Lotta & Sanna (Remix)",
         "url": "https://open.spotify.com/album/3TR9wVArlfPF9m4DDnP3d5"
@@ -57,23 +57,23 @@
       "url": "https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "MANO",
-        "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
+        "name": "F*CK MINA OPPS",
+        "url": "https://open.spotify.com/album/3U29jASVemqFqtaviWlnfI"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
         }
       ],
-      "duration_ms": 168798,
-      "name": "MANO",
-      "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
+      "duration_ms": 144000,
+      "name": "F*CK MINA OPPS",
+      "url": "https://open.spotify.com/track/02g6wZQZ0cByIqVgjSHBzy"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Internet (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2CcXJMWC3qlrSfgMJJrDTM"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Poppis",
         "url": "https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0YdaLD97uhero6WpO4HfMe"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Alicia",
         "url": "https://open.spotify.com/album/432DNp3pn1tToQICuJOWRS"
@@ -145,7 +145,23 @@
       "url": "https://open.spotify.com/track/4TSwV2BWPyX2mZf9V6imtU"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "MANO",
+        "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "MANO",
+      "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MIN STAD",
         "url": "https://open.spotify.com/album/4ez2xrSeVr87MLvQu9Rncq"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/3tSeUbkWsjR3UefmwDc046"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
@@ -181,23 +197,7 @@
       "url": "https://open.spotify.com/track/44hAJUprrCA7RIdLD6yP7y"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "F*CK MINA OPPS",
-        "url": "https://open.spotify.com/album/3U29jASVemqFqtaviWlnfI"
-      },
-      "artists": [
-        {
-          "name": "25",
-          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "F*CK MINA OPPS",
-      "url": "https://open.spotify.com/track/02g6wZQZ0cByIqVgjSHBzy"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Dubbla Skift",
         "url": "https://open.spotify.com/album/0DjFmrjVMGhr6ujxp9VqSB"
@@ -213,23 +213,23 @@
       "url": "https://open.spotify.com/track/2HDawpoqiyFWzIHxw0hWNQ"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "20 talet",
-        "url": "https://open.spotify.com/album/5uzEiC1slSQj9L8mWVdNp8"
+        "name": "Regler (B\u00e5set)",
+        "url": "https://open.spotify.com/album/6jNGKJ3Wxs20bRzmTqyLr9"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
         }
       ],
-      "duration_ms": 156734,
-      "name": "20 talet",
-      "url": "https://open.spotify.com/track/3RZ9e3e7Rrmd9Se8dFOV46"
+      "duration_ms": 156404,
+      "name": "Regler (B\u00e5set)",
+      "url": "https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/7y1gGHyv8g8nm56RCvxqRk"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4K7t54XsfRwMnsCpPdTmO9"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "H\u00f6rnet",
         "url": "https://open.spotify.com/album/3b9yiYuzsFKgExHdHNmzpR"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/01uI9VO72RAcAQA8E01Qbq"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "GANGSHIT",
         "url": "https://open.spotify.com/album/4zJTchJtdb10QwXkeLpEvJ"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/05D3jh8aVFZUlPbx4mklmb"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "La Vida Loca",
         "url": "https://open.spotify.com/album/5zSo5zOJrsKb4nbaRPHBwC"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4xoL4Gwg6miOuBJYejgdfC"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "L\u00e4nge Leve Vi",
         "url": "https://open.spotify.com/album/41ZBBb4dGrgz1mc3O4BegY"
@@ -317,7 +317,23 @@
       "url": "https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "20 talet",
+        "url": "https://open.spotify.com/album/5uzEiC1slSQj9L8mWVdNp8"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "20 talet",
+      "url": "https://open.spotify.com/track/3RZ9e3e7Rrmd9Se8dFOV46"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Allting Har Sitt Pris",
         "url": "https://open.spotify.com/album/2YR3DvmlK0cSQwDbW0z6tv"
@@ -333,39 +349,7 @@
       "url": "https://open.spotify.com/track/7gtuepfo1W8FYTnYmmwjMe"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Woman \u2013 Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Woman \u2013 Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "S\u00e5 Mycket B\u00e4ttre",
-        "url": "https://open.spotify.com/album/0ZGgUwdfRGwzc5xAbSrbXI"
-      },
-      "artists": [
-        {
-          "name": "Malik Dalasi",
-          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "S\u00e5 Mycket B\u00e4ttre",
-      "url": "https://open.spotify.com/track/7e7UShiUVgffJasVnD8bHV"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Hon sa",
         "url": "https://open.spotify.com/album/5mE5pr4y7baZOEtheeAoco"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/14hlEibjfr8YzgwVKNvmTz"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "DEJAVU",
         "url": "https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx"
@@ -397,23 +381,39 @@
       "url": "https://open.spotify.com/track/6Q1O5ijo0un3nJYlqKnvHp"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "AURINHO",
-        "url": "https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj"
+        "name": "Woman \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy"
       },
       "artists": [
         {
-          "name": "Abadai",
-          "url": "https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW"
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
         }
       ],
-      "duration_ms": 173509,
-      "name": "Aurinho",
-      "url": "https://open.spotify.com/track/07ULdTS8i7EmTv6235EVfK"
+      "duration_ms": 138000,
+      "name": "Woman \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "S\u00e5 Mycket B\u00e4ttre",
+        "url": "https://open.spotify.com/album/0ZGgUwdfRGwzc5xAbSrbXI"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "S\u00e5 Mycket B\u00e4ttre",
+      "url": "https://open.spotify.com/track/7e7UShiUVgffJasVnD8bHV"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Ded\u00e4r \u2013 Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC"
@@ -449,7 +449,23 @@
       "url": "https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Capitano",
+        "url": "https://open.spotify.com/album/1TUQbu2gs8FFENZlf7sCUp"
+      },
+      "artists": [
+        {
+          "name": "Madi Banja",
+          "url": "https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Capitano",
+      "url": "https://open.spotify.com/track/1QGxDySCmChe56eRQr3EUd"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU"
@@ -465,23 +481,7 @@
       "url": "https://open.spotify.com/track/45iPtsmZm34Oa6fmwtsyZG"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Regler (B\u00e5set)",
-        "url": "https://open.spotify.com/album/6jNGKJ3Wxs20bRzmTqyLr9"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 156404,
-      "name": "Regler (B\u00e5set)",
-      "url": "https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "DRILLOGI",
         "url": "https://open.spotify.com/album/2atzFyuCDPe3NWmYlX5Ngt"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/1WsvqkLYba4fGV2kupDX4l"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Talk My Shit",
         "url": "https://open.spotify.com/album/1cxHIXUXv5mlfMbQ8mTvsM"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/0xcMGWAdU3Z7hIn3867I3c"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "VCFlow",
         "url": "https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Hoodfellas",
         "url": "https://open.spotify.com/album/5jm8qrqgb5cK7YgHhDbr7E"
@@ -565,39 +565,7 @@
       "url": "https://open.spotify.com/track/0VaWaEa0GDTTjlSQgB1v9j"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "DEJAVU",
-        "url": "https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx"
-      },
-      "artists": [
-        {
-          "name": "DANO",
-          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
-        }
-      ],
-      "duration_ms": 177802,
-      "name": "ANARKI (Intro)",
-      "url": "https://open.spotify.com/track/1jGrLbNXSl6WQFTgn91Zxl"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU"
-      },
-      "artists": [
-        {
-          "name": "Imenella",
-          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
-        }
-      ],
-      "duration_ms": 119028,
-      "name": "Louvren",
-      "url": "https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Hood Party",
         "url": "https://open.spotify.com/album/4mQCGN484VIaEffuYr2NxC"
@@ -621,7 +589,107 @@
       "url": "https://open.spotify.com/track/72hHT9csJqUN3ZvBxWd8W5"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "L\u00e4ngtar hem",
+        "url": "https://open.spotify.com/album/5QtlDGOcFzKC2Fio1KviVx"
+      },
+      "artists": [
+        {
+          "name": "Nabzy",
+          "url": "https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "L\u00e4ngtar hem",
+      "url": "https://open.spotify.com/track/5BHVGoISwPbLgMQRW6VsKN"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "AURINHO",
+        "url": "https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj"
+      },
+      "artists": [
+        {
+          "name": "Abadai",
+          "url": "https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW"
+        }
+      ],
+      "duration_ms": 173509,
+      "name": "Aurinho",
+      "url": "https://open.spotify.com/track/07ULdTS8i7EmTv6235EVfK"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "DEJAVU",
+        "url": "https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "duration_ms": 177802,
+      "name": "ANARKI (Intro)",
+      "url": "https://open.spotify.com/track/1jGrLbNXSl6WQFTgn91Zxl"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Young 22",
+        "url": "https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Young 22",
+      "url": "https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Sin City",
+        "url": "https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "M5",
+      "url": "https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/5KTcN31IHSQvIudWXK4z9T"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/6jPl7GZeCsfatf2tQZC8hv"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Flappy Bird",
         "url": "https://open.spotify.com/album/6jNj5sbpl9zL6avQRr7UfX"
@@ -641,7 +709,7 @@
       "url": "https://open.spotify.com/track/4qw2H7dbNNYWhIYe9IaP1j"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "KARANT\u00c4N",
         "url": "https://open.spotify.com/album/5tpyOU7fsPLkSP0o9ST5Fj"
@@ -665,55 +733,135 @@
       "url": "https://open.spotify.com/track/505kSNIUlxBUiDIgP2JFsz"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "L\u00e4ngtar hem",
-        "url": "https://open.spotify.com/album/5QtlDGOcFzKC2Fio1KviVx"
+        "name": "SE DIG OMKRING",
+        "url": "https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf"
       },
       "artists": [
         {
-          "name": "Nabzy",
-          "url": "https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg"
+          "name": "Alex Ceesay",
+          "url": "https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W"
         }
       ],
-      "duration_ms": 175435,
-      "name": "L\u00e4ngtar hem",
-      "url": "https://open.spotify.com/track/5BHVGoISwPbLgMQRW6VsKN"
+      "duration_ms": 187205,
+      "name": "SE DIG OMKRING",
+      "url": "https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/5KTcN31IHSQvIudWXK4z9T"
+        "name": "Top Boy (Brottsben\u00e4gen)",
+        "url": "https://open.spotify.com/album/0ouLrFHDbq4OhWFwcYWmmO"
       },
       "artists": [
         {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+          "name": "JB",
+          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
         }
       ],
-      "duration_ms": 124705,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/6jPl7GZeCsfatf2tQZC8hv"
+      "duration_ms": 132244,
+      "name": "Top Boy (Brottsben\u00e4gen)",
+      "url": "https://open.spotify.com/track/5FEb1I4Aluc1g9rPBCBIqF"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "Young 22",
-        "url": "https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt"
+        "name": "THIS IS SWEDEN",
+        "url": "https://open.spotify.com/album/2QMWHihNqo4gLIQQJc4YMF"
       },
       "artists": [
         {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Young 22",
-      "url": "https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD"
+      "duration_ms": 156521,
+      "name": "THIS IS SWEDEN",
+      "url": "https://open.spotify.com/track/3V3JLjSoFwiFpMLR4i2WoZ"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU"
+      },
+      "artists": [
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        }
+      ],
+      "duration_ms": 119028,
+      "name": "Louvren",
+      "url": "https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "VitaminW",
+        "url": "https://open.spotify.com/album/0VDnBUE49XWLsAff68lJmU"
+      },
+      "artists": [
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "VitaminW",
+      "url": "https://open.spotify.com/track/6xtS6yo7Zc4wvN01Qnbsqj"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "MYROR I BRALLAN",
+        "url": "https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "TALLRIKAR",
+      "url": "https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Milli",
+        "url": "https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 127947,
+      "name": "Milli",
+      "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "ETT G\u00c4NG GETTER",
         "url": "https://open.spotify.com/album/4VdRZIKvnFCPcGlGHXHIIv"
@@ -741,159 +889,7 @@
       "url": "https://open.spotify.com/track/4gWZK1DGIxSwo1gzRXyq5v"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "THIS IS SWEDEN",
-        "url": "https://open.spotify.com/album/2QMWHihNqo4gLIQQJc4YMF"
-      },
-      "artists": [
-        {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "THIS IS SWEDEN",
-      "url": "https://open.spotify.com/track/3V3JLjSoFwiFpMLR4i2WoZ"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "SE DIG OMKRING",
-        "url": "https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf"
-      },
-      "artists": [
-        {
-          "name": "Alex Ceesay",
-          "url": "https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "SE DIG OMKRING",
-      "url": "https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Sin City",
-        "url": "https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        },
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "M5",
-      "url": "https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "FORZA",
-        "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
-      },
-      "artists": [
-        {
-          "name": "Sivas",
-          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 150596,
-      "name": "Violence (feat. Branco)",
-      "url": "https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "R2D",
-        "url": "https://open.spotify.com/album/36PIJanACdLpvfOeX1H8Xb"
-      },
-      "artists": [
-        {
-          "name": "9liv",
-          "url": "https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "R2D",
-      "url": "https://open.spotify.com/track/3SClMZgefvLryRNC8lziLf"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "MYROR I BRALLAN",
-        "url": "https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt"
-      },
-      "artists": [
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "takenoelz",
-          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "TALLRIKAR",
-      "url": "https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Milli",
-        "url": "https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        },
-        {
-          "name": "Mackan",
-          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
-        }
-      ],
-      "duration_ms": 127947,
-      "name": "Milli",
-      "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Lilla Mama",
-        "url": "https://open.spotify.com/album/4QJLyu2YdTm0n6zBbcliLS"
-      },
-      "artists": [
-        {
-          "name": "Awave",
-          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
-        },
-        {
-          "name": "takenoelz",
-          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
-        }
-      ],
-      "duration_ms": 161970,
-      "name": "Lilla Mama",
-      "url": "https://open.spotify.com/track/5dnHiJLT3T0wZX37aWpQJr"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Mitt i prick",
         "url": "https://open.spotify.com/album/3U1fzI8jAwSqoHwBjOf7ys"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/1fOAy8tUHchc6OulnLBzlE"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Fastna",
         "url": "https://open.spotify.com/album/1JUAGepQ7gWg2fAAoyPGw5"
@@ -933,43 +929,43 @@
       "url": "https://open.spotify.com/track/0e9OD1TSS0d7rwb86TdDLD"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "Marshall Arts",
-        "url": "https://open.spotify.com/album/6ybm5plqhyuvH6A4FbnkRQ"
+        "name": "R2D",
+        "url": "https://open.spotify.com/album/36PIJanACdLpvfOeX1H8Xb"
       },
       "artists": [
         {
-          "name": "MAR",
-          "url": "https://open.spotify.com/artist/05sagCJlmdoKKQVGoLLyVC"
+          "name": "9liv",
+          "url": "https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "R2D",
+      "url": "https://open.spotify.com/track/3SClMZgefvLryRNC8lziLf"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Lilla Mama",
+        "url": "https://open.spotify.com/album/4QJLyu2YdTm0n6zBbcliLS"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
         },
         {
-          "name": "Rikard Bizzi",
-          "url": "https://open.spotify.com/artist/4LgJTBLHl2w1UyOTyIocdA"
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
         }
       ],
-      "duration_ms": 125165,
-      "name": "SYNDROMET TAKEOVER",
-      "url": "https://open.spotify.com/track/0qIsziO7hb197jtR4Ar9oV"
+      "duration_ms": 161970,
+      "name": "Lilla Mama",
+      "url": "https://open.spotify.com/track/5dnHiJLT3T0wZX37aWpQJr"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Trapper Of The Year (Intro)",
-        "url": "https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 110163,
-      "name": "Trapper Of The Year (Intro)",
-      "url": "https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Sin City",
         "url": "https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C"
@@ -985,75 +981,23 @@
       "url": "https://open.spotify.com/track/6dx0d36ID1nrusuAUqcaEv"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "Hunger Games",
-        "url": "https://open.spotify.com/album/2B0ltzTamLtlmV44v3r5Sl"
+        "name": "Trapper Of The Year (Intro)",
+        "url": "https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF"
       },
       "artists": [
         {
-          "name": "Biggie Juke",
-          "url": "https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         }
       ],
-      "duration_ms": 127089,
-      "name": "Hunger Games",
-      "url": "https://open.spotify.com/track/0SIiyWC3DWdR31j4M7CTdF"
+      "duration_ms": 110163,
+      "name": "Trapper Of The Year (Intro)",
+      "url": "https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "VitaminW",
-        "url": "https://open.spotify.com/album/0VDnBUE49XWLsAff68lJmU"
-      },
-      "artists": [
-        {
-          "name": "LaStreet",
-          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "VitaminW",
-      "url": "https://open.spotify.com/track/6xtS6yo7Zc4wvN01Qnbsqj"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Jamaica (Freestyle)",
-        "url": "https://open.spotify.com/album/1pgvUhLApdxYUUtsTmv1SY"
-      },
-      "artists": [
-        {
-          "name": "Denz",
-          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Jamaica - Freestyle",
-      "url": "https://open.spotify.com/track/75eZkKcJlcuW8EwDuTui14"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "POMPEJI / BEKV\u00c4M (B.C.D DELUXE)",
-        "url": "https://open.spotify.com/album/2RiDrpDQhhzg2DUyDenxNH"
-      },
-      "artists": [
-        {
-          "name": "Aleksej",
-          "url": "https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J"
-        }
-      ],
-      "duration_ms": 126774,
-      "name": "Pompeji",
-      "url": "https://open.spotify.com/track/34s3YjW9iYYAxlSjGYLD2x"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/179ZAoenJOPrmNvSlmdmLo"
@@ -1069,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6nNxpXPvbZGP0cPunh7JQS"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
@@ -1085,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6RAKfOFmUcFJP96OkmYiPL"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Omr\u00e5det",
         "url": "https://open.spotify.com/album/4h86rIg3Evn1bmrhnRTHmI"
@@ -1101,7 +1045,7 @@
       "url": "https://open.spotify.com/track/71jVx5fK7X3zwOXs6aXsCX"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "GASA",
         "url": "https://open.spotify.com/album/00735GXhLT8zQUWsyjY6IH"
@@ -1117,27 +1061,7 @@
       "url": "https://open.spotify.com/track/799ixSjmA6VzLFYMulJism"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "COME MY WAY (D1MA X VC Barre)",
-        "url": "https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        },
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "COME MY WAY (D1MA X VC Barre)",
-      "url": "https://open.spotify.com/track/2wmgX2Cyrif63Xg3lfYFhP"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT"
@@ -1161,75 +1085,27 @@
       "url": "https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
-        "name": "Sj\u00e4len \u00e4r svart",
-        "url": "https://open.spotify.com/album/6bHkZZ88YPxrtx4uNCKl71"
+        "name": "FORZA",
+        "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
       },
       "artists": [
         {
-          "name": "SINAN",
-          "url": "https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS"
-        }
-      ],
-      "duration_ms": 144713,
-      "name": "Sj\u00e4len \u00e4r svart",
-      "url": "https://open.spotify.com/track/44N2tUIEaOrJAX96idaJQ8"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Allting Har Sitt Pris (Del 1)",
-        "url": "https://open.spotify.com/album/4cXRcULPoRuWTEOK25Wz2u"
-      },
-      "artists": [
-        {
-          "name": "JB",
-          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
         },
         {
-          "name": "Lani Mo",
-          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 147377,
-      "name": "F\u00f6r Evigt Tacksam",
-      "url": "https://open.spotify.com/track/5o9DhuKsjDOhlGfQ9Dnpua"
+      "duration_ms": 150596,
+      "name": "Violence (feat. Branco)",
+      "url": "https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "DRILLOGI",
-        "url": "https://open.spotify.com/album/2atzFyuCDPe3NWmYlX5Ngt"
-      },
-      "artists": [
-        {
-          "name": "2M",
-          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
-        }
-      ],
-      "duration_ms": 127301,
-      "name": "SOON HOME",
-      "url": "https://open.spotify.com/track/19YCyFWCVZB1sXbMNDgG0t"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "DJ\u00c4VULEN ELLER JAG",
         "url": "https://open.spotify.com/album/1Qki2dmzBcOhtP4710WKLg"
@@ -1249,7 +1125,71 @@
       "url": "https://open.spotify.com/track/1NTnTGBvViL9wlG3YTKkux"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Hunger Games",
+        "url": "https://open.spotify.com/album/2B0ltzTamLtlmV44v3r5Sl"
+      },
+      "artists": [
+        {
+          "name": "Biggie Juke",
+          "url": "https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD"
+        }
+      ],
+      "duration_ms": 127089,
+      "name": "Hunger Games",
+      "url": "https://open.spotify.com/track/0SIiyWC3DWdR31j4M7CTdF"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "POMPEJI / BEKV\u00c4M (B.C.D DELUXE)",
+        "url": "https://open.spotify.com/album/2RiDrpDQhhzg2DUyDenxNH"
+      },
+      "artists": [
+        {
+          "name": "Aleksej",
+          "url": "https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J"
+        }
+      ],
+      "duration_ms": 126774,
+      "name": "Pompeji",
+      "url": "https://open.spotify.com/track/34s3YjW9iYYAxlSjGYLD2x"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Sj\u00e4len \u00e4r svart",
+        "url": "https://open.spotify.com/album/6bHkZZ88YPxrtx4uNCKl71"
+      },
+      "artists": [
+        {
+          "name": "SINAN",
+          "url": "https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS"
+        }
+      ],
+      "duration_ms": 144713,
+      "name": "Sj\u00e4len \u00e4r svart",
+      "url": "https://open.spotify.com/track/44N2tUIEaOrJAX96idaJQ8"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "KOMMER & G\u00c5R",
         "url": "https://open.spotify.com/album/5UzQqu5ridQ89gWlemfEpv"
@@ -1265,23 +1205,7 @@
       "url": "https://open.spotify.com/track/5yLzXhTq6wZV0btxdtFxyu"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "Gelatin",
-        "url": "https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG"
-      },
-      "artists": [
-        {
-          "name": "Tal\u00e9",
-          "url": "https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Gelatin",
-      "url": "https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Platsen",
         "url": "https://open.spotify.com/album/2uQbGKfLFdOnXeRoQnJ7rE"
@@ -1297,7 +1221,43 @@
       "url": "https://open.spotify.com/track/2WLSkmxXfc78plQDoNUiGx"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Jamaica (Freestyle)",
+        "url": "https://open.spotify.com/album/1pgvUhLApdxYUUtsTmv1SY"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Jamaica - Freestyle",
+      "url": "https://open.spotify.com/track/75eZkKcJlcuW8EwDuTui14"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Marshall Arts",
+        "url": "https://open.spotify.com/album/6ybm5plqhyuvH6A4FbnkRQ"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/05sagCJlmdoKKQVGoLLyVC"
+        },
+        {
+          "name": "Rikard Bizzi",
+          "url": "https://open.spotify.com/artist/4LgJTBLHl2w1UyOTyIocdA"
+        }
+      ],
+      "duration_ms": 125165,
+      "name": "SYNDROMET TAKEOVER",
+      "url": "https://open.spotify.com/track/0qIsziO7hb197jtR4Ar9oV"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "AURINHO",
         "url": "https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj"
@@ -1313,7 +1273,23 @@
       "url": "https://open.spotify.com/track/7ymV4ydTlFx6YQiBDJQyuu"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "Gelatin",
+        "url": "https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG"
+      },
+      "artists": [
+        {
+          "name": "Tal\u00e9",
+          "url": "https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Gelatin",
+      "url": "https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "MANO (feat. Kamelen) [Remix]",
         "url": "https://open.spotify.com/album/4peqBtP035We6XL90Hpmqk"
@@ -1333,7 +1309,27 @@
       "url": "https://open.spotify.com/track/781V5yu5LgVV4k3KBzKw07"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
+      "album": {
+        "name": "COME MY WAY (D1MA X VC Barre)",
+        "url": "https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "COME MY WAY (D1MA X VC Barre)",
+      "url": "https://open.spotify.com/track/2wmgX2Cyrif63Xg3lfYFhP"
+    },
+    {
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "TBX",
         "url": "https://open.spotify.com/album/5He2p8riLLP9baO38RqzFB"
@@ -1349,7 +1345,7 @@
       "url": "https://open.spotify.com/track/56pC18AuAtMsZ9v9Zvlawk"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Dikembe Mutombo",
         "url": "https://open.spotify.com/album/4bSVtE8StstXg8BhEZpwQf"
@@ -1365,7 +1361,7 @@
       "url": "https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "What's The Plan? (feat. Naod)",
         "url": "https://open.spotify.com/album/0ENksSnSExIMzCT3jom4Ww"
@@ -1385,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4Xwl2xxHppkhAgAEl4RY3X"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Going Lit - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8"
@@ -1405,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Guitar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB"
@@ -1425,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
         "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
@@ -1449,7 +1445,7 @@
       "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "En Stund (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
@@ -1465,7 +1461,7 @@
       "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "OuOu (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
@@ -1485,7 +1481,7 @@
       "url": "https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544"
@@ -1501,7 +1497,7 @@
       "url": "https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
@@ -1525,7 +1521,7 @@
       "url": "https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN"
     },
     {
-      "added_at": "2022-03-10 23:01:00",
+      "added_at": "2022-03-16 13:35:20",
       "album": {
         "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
         "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"

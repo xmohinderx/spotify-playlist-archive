@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: Aitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,119 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,009 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 16 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 17 | [Come & Go](https://open.spotify.com/track/1jTrQnMziyawXMHjd6y4R1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Come & Go](https://open.spotify.com/album/1iOQNkFxtPkiZDYq9RZDyV) | 2:59 |
 | 18 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 |
-| 19 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 |
+| 19 | [Hunger Games](https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Swifta Beater](https://open.spotify.com/artist/5wfMJ2PgaKgroRIcXB5Ck6) | [Connecting Flights](https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv) | 2:59 |
 | 20 | [Make It Out](https://open.spotify.com/track/4rs6ragYtEcQKKymPvTjW3) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Make It Out](https://open.spotify.com/album/6t85lyv6xJR1K7jRIItTXP) | 2:52 |
 | 21 | [Pump 101](https://open.spotify.com/track/4MKOj49FQ3dlI9gqCOIjIn) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Still Brickin'](https://open.spotify.com/artist/79v8bTtrn8a0Idbv9WkddX) | [Pump 101](https://open.spotify.com/album/0ZIab9a4PhidpDukWo0MX1) | 2:32 |
 | 22 | [War](https://open.spotify.com/track/49KTdYsWNtkvOslTpgZuM1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [War](https://open.spotify.com/album/6rWrQmCAsrocRq5HL2dqgU) | 2:46 |

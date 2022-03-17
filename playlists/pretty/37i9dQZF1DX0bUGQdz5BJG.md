@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Jackson Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,130 likes - 152 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,159 likes - 152 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

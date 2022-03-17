@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,437 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,506 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 14 | [Ng'ari Ng'ari](https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Ng'ari Ng'ari](https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4) | 4:29 |
 | 15 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 |
 | 16 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 |
-| 17 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Bill Nass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 |
+| 17 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 |
 | 18 | [Number One](https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One](https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X) | 3:33 |
 | 19 | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx) | 3:53 |
 | 20 | [Nakumpenda](https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7) | [diamond platnumz](https://open.spotify.com/artist/1HuX2zGY0HfygtVg0AmA8l), [jd muliki](https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl) | [Nakumpenda](https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO) | 3:26 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 37 | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/album/0k7jBbWkGebFNwiNY6l2RC) | 3:34 |
 | 38 | [Kufuli](https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tboy Daflame](https://open.spotify.com/artist/63QeEAU156JSxXF5uce9ZT) | [Kufuli](https://open.spotify.com/album/0Va6eNgw90XvaIOcZP4JEr) | 4:23 |
 | 39 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 |
-| 40 | [Chetu](https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg) | [Bill Nass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Chetu](https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37) | 3:09 |
+| 40 | [Chetu](https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Chetu](https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37) | 3:09 |
 | 41 | [Gimmie \(feat\. Rema\)](https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Gimmie \(feat\. Rema\)](https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC) | 2:42 |
 | 42 | [Inatosha](https://open.spotify.com/track/5j5hhTlvg38VVgdvhu56n4) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Inatosha](https://open.spotify.com/album/0bcMmlUK2P3ASSY26wiPLy) | 4:07 |
 | 43 | [Loyalty \(feat\. Marioo & Nandy\)](https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Slave Becomes A King](https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO) | 3:25 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Miel San Marcos y Gateway Worship Espańol
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,907 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,055 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Poderoso Dios](https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Poderoso Dios \(Grande Y Fiel\)](https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj) | 7:53 |
+| 1 | [Poderoso Dios \- Grande y Fiel](https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Poderoso Dios \(Grande Y Fiel\)](https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj) | 7:53 |
 | 2 | [Tan Solo Una Orden \(feat\. Alex Campos\) \- En Vivo](https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Thalles Acústico En Vivo En Colombia](https://open.spotify.com/album/0RGjDEyl6kD3YVhQ6NQdau) | 7:58 |
 | 3 | [Amor Sin Fin](https://open.spotify.com/track/7EnWJlSBcWiws1VBHsWr3k) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Amor Sin Fin](https://open.spotify.com/album/5w2gLlKerWKANqewZy3xQ2) | 2:54 |
 | 4 | [Roca Firme](https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Roca Firme](https://open.spotify.com/album/1NQ8n8jtzvMiFurQKazcvd) | 5:52 |

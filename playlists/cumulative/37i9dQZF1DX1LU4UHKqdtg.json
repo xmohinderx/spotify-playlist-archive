@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "\u5bb9 : FACE",
+        "url": "https://open.spotify.com/album/7zzh1ltXhjELf4RtD8Sp74"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/1Pu0hNnhlrWfZOisgs1TPG"
+    },
+    {
+      "album": {
         "name": "2021 Winter SMTOWN : SMCU EXPRESS",
         "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
       },

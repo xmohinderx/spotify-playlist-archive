@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 162910,
       "name": "2U",
       "url": "https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 188986,
       "name": "Bra vibbar Del 2 (Bra vibrationer)",
       "url": "https://open.spotify.com/track/43XDyDwka658kl7tE31LcB"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 196603,
       "name": "Du f\u00e5r allt",
       "url": "https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 164678,
       "name": "D\u00f6r F\u00f6r Er Skull",
       "url": "https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4"
@@ -2152,6 +2152,24 @@
     },
     {
       "album": {
+        "name": "Du Gamla Du Nya",
+        "url": "https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215700,
+      "name": "Hundra \u00e5r till",
+      "url": "https://open.spotify.com/track/6QnCjXSIBaUY9FgB9g0fD4"
+    },
+    {
+      "album": {
         "name": "Hundratusen (feat. GAMMAL)",
         "url": "https://open.spotify.com/album/2HMz8xfQSrEgVLM5hMeC9R"
       },
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 173692,
       "name": "In i dimman",
       "url": "https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 178555,
       "name": "Kylsk\u00e5pspoesi",
       "url": "https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 239258,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR"
@@ -2761,6 +2779,24 @@
       "duration_ms": 202602,
       "name": "La La La",
       "url": "https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/4MevvS4iJ8wJpgp4Y7aAY0"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142816,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk"
     },
     {
       "album": {
@@ -2847,7 +2883,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 194800,
       "name": "Live and Let Live",
       "url": "https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y"
@@ -3147,7 +3183,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 178024,
       "name": "Missing You Sucks",
       "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -3273,7 +3309,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
@@ -3793,7 +3829,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 199584,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek"
@@ -4215,7 +4251,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 185173,
       "name": "Skies",
       "url": "https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH"
@@ -4269,7 +4305,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 171084,
       "name": "Smile for You",
       "url": "https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo"
@@ -4721,7 +4757,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 218500,
       "name": "Svart Suit Cadillac",
       "url": "https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP"
@@ -5251,7 +5287,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 160762,
       "name": "Vi har iallafall inte tr\u00e5kigt",
       "url": "https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI"

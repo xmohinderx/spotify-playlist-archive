@@ -2,11 +2,12 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
-> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Sobrino
+> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Siho Villalobos
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-07 |  |
+| [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 | 2022-03-16 |  |
 | [A Escondidas](https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq) | [Cala Vera](https://open.spotify.com/artist/3eSEdtHL36adsA9SDrvVuF) | [A Escondidas](https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL) | 3:41 | 2022-02-01 |  |
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 |  |
 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 | 2022-01-07 | 2022-02-16 |
@@ -56,7 +57,7 @@
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-01-07 |  |
 | [Pa´ Mi](https://open.spotify.com/track/5zSC2yZUAh9n3JcQcPDjMP) | [Carlos Feria](https://open.spotify.com/artist/2HEDKrO346KAYhGfmXaE7c) | [Pa´ Mi](https://open.spotify.com/album/7gNuiwvC9c7O2UxjdE4xMY) | 2:59 | 2022-01-07 |  |
 | [POP \(feat\. Jae S\)](https://open.spotify.com/track/3qkDTmEGzViHrJu39B6W4l) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [V'nney](https://open.spotify.com/artist/41J0diHzl4hRdEg8cc4mC5), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg) | [POP \(feat\. Jae S\)](https://open.spotify.com/album/4oDOSThgM71p7MkRtsaASD) | 3:47 | 2022-01-07 |  |
-| [Quítame la Ropa](https://open.spotify.com/track/5Ug2KohB2nlqtkmzZ9bwoI) | [Kaden](https://open.spotify.com/artist/67G6NpRTWYIHTt884Xaq3J) | [Quítame la Ropa](https://open.spotify.com/album/6hBN8spSvvJ5bQocsfLQpg) | 3:12 | 2022-01-07 |  |
+| [Quítame la Ropa](https://open.spotify.com/track/5Ug2KohB2nlqtkmzZ9bwoI) | [Kaden](https://open.spotify.com/artist/67G6NpRTWYIHTt884Xaq3J) | [Quítame la Ropa](https://open.spotify.com/album/6hBN8spSvvJ5bQocsfLQpg) | 3:12 | 2022-01-07 | 2022-03-17 |
 | [Rod Roast Yourself](https://open.spotify.com/track/2nK9x8iEcQkErqeAd4sf7C) | [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y) | [Rod Roast Yourself](https://open.spotify.com/album/4UONB3S62FKphnrMeLowQa) | 2:30 | 2022-01-07 | 2022-03-03 |
 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-03 |  |
 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 | 2022-01-07 |  |

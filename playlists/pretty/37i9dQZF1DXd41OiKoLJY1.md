@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: CYNJYNN, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,180 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,260 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 4 | [Feel Right.](https://open.spotify.com/track/01NobTqeMswoVhjANPX5iJ) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Feel Right.](https://open.spotify.com/album/5HPWUUE3qliPJSXp8bceoj) | 2:10 |
 | 5 | [Go](https://open.spotify.com/track/0CebSGIuzPKw2qVr5EdN8y) | [CYNJYNN](https://open.spotify.com/artist/6OfXXbQYHKI6oM1GNbNB6q) | [Go](https://open.spotify.com/album/42FwGlQrYbearSO372weZC) | 2:34 |
 | 6 | [Things You Do](https://open.spotify.com/track/09bpyS2DYxOPXkpKsKF1fZ) | [Noa Mal](https://open.spotify.com/artist/4MM12Nz4yOCXO368ki6g8R) | [Everything Is Science, Baby](https://open.spotify.com/album/0oiiejKMFESLNfBtWMLdWB) | 3:30 |
-| 7 | [I.F.Y.](https://open.spotify.com/track/1G6AlYFHN8i4S6Er8uOb6g) | [ELEVEN](https://open.spotify.com/artist/1PQM6m3BhE1uPOFDvM90EO), [WIL](https://open.spotify.com/artist/1qiOE530eWqTOrOyBgqfRD), [Jeyo](https://open.spotify.com/artist/2IJu6E7lGK0R7P8I3qZ3JC) | [I.F.Y.](https://open.spotify.com/album/1VFUys0m6LJp5JWkN7TMGq) | 3:34 |
+| 7 | [I.F.Y.](https://open.spotify.com/track/1G6AlYFHN8i4S6Er8uOb6g) | [ELEVEN](https://open.spotify.com/artist/1PQM6m3BhE1uPOFDvM90EO), [WIL](https://open.spotify.com/artist/1BX152OFeqzcpLUKmWnes3), [Jeyo](https://open.spotify.com/artist/2IJu6E7lGK0R7P8I3qZ3JC) | [I.F.Y.](https://open.spotify.com/album/1VFUys0m6LJp5JWkN7TMGq) | 3:34 |
 | 8 | [LDR](https://open.spotify.com/track/0VA1lFgQ7ouzmB23BJDOwq) | [Aidizzy](https://open.spotify.com/artist/2CBgKgaG7O3VYk6Yo9yYZM), [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK) | [LDR](https://open.spotify.com/album/2KrA2Yi4qMR0P7NdGgKiFa) | 3:52 |
 | 9 | [Matsala](https://open.spotify.com/track/2nkjFutAPlg4dexfDF6u7e) | [Kego](https://open.spotify.com/artist/1fMUTVkh3wvSxnw1Fezo7j) | [Run It Back](https://open.spotify.com/album/5PxSnSoFxbCgEc7pvxcVvj) | 3:04 |
 | 10 | [Come Here Closer](https://open.spotify.com/track/2IY9I3jMcc5cQTRmTHzifh) | [Versus](https://open.spotify.com/artist/4y9OUwvKFJqN6HEJACgaFi), [Nics Lacap](https://open.spotify.com/artist/79PK1JRAutjuFUAhYVKjwt) | [Come Here Closer](https://open.spotify.com/album/6ffOXe5IZLccFnTHxaTqdE) | 3:25 |

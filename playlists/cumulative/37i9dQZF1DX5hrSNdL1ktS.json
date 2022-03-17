@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Sobrino",
+  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Siho Villalobos",
   "name": "Urbano Fresh",
   "published_playlist_ids": [
     "6RzVtYvMkpHUbB3BgVfauO"
@@ -23,6 +23,24 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
     },
     {
       "album": {
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 192500,
       "name": "Qu\u00edtame la Ropa",
       "url": "https://open.spotify.com/track/5Ug2KohB2nlqtkmzZ9bwoI"

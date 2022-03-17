@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Asha Elia
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,542 likes - 99 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,631 likes - 99 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [The Detour \- Live](https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [The Detour \(Live\)](https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5) | 6:41 |
 | 17 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
 | 18 | [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/6znsIBODupmehAC4qb0Z3O) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\) \[Live\]](https://open.spotify.com/album/2sfFGLifx6FHdWEAfJgwrT) | 7:51 |
-| 19 | [Poderoso Dios](https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Poderoso Dios \(Grande Y Fiel\)](https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj) | 7:53 |
+| 19 | [Poderoso Dios \- Grande y Fiel](https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Poderoso Dios \(Grande Y Fiel\)](https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj) | 7:53 |
 | 20 | [Ask Seek Pray](https://open.spotify.com/track/59QoNsfDiofec4DybLQpdR) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 6:16 |
 | 21 | [Gratitude](https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Gratitude](https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t) | 4:12 |
 | 22 | [Standing Tall](https://open.spotify.com/track/0f70HVrBcF6cVHy6MvvmIy) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Standing Tall](https://open.spotify.com/album/79NlmToigH5fSiDONEeeWP) | 4:56 |

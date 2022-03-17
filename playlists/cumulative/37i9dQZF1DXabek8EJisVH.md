@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXabek8EJisVH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXabek8EJisVH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXabek8EJisVH)
 
-### Gentle Focus
+### [Gentle Focus](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
 
 > Soothing ambient and Hang to gently focus the mind.
 

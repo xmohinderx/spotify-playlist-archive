@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: LANDMVRKS, Chunk! No, Captain Chunk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,952 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,058 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 43 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 |
 | 44 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 |
 | 45 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 |
-| 46 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/75fP8YWdkk0BAOCSyJPmZC) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 |
+| 46 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 |
 | 47 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 |
 | 48 | [Take Your Love and Leave](https://open.spotify.com/track/6S0KonuMvq99QR0Rh03pz4) | [Noija](https://open.spotify.com/artist/2h5GVPMC3JJQHOnnhkBr5E) | [Take Your Love and Leave](https://open.spotify.com/album/29c2FSkTeIJAyPZN0TCnaY) | 3:35 |
 | 49 | [Survivor](https://open.spotify.com/track/7ynwEn9WVqGHDXYrlQ5Hft) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Survivor](https://open.spotify.com/album/66v8yWWlcz2h7Q11T39EXe) | 3:39 |

@@ -600,6 +600,28 @@
     },
     {
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/62ayDuTyQGhZY8pVLQi31M"
+      },
+      "artists": [
+        {
+          "name": "Celine Love",
+          "url": "https://open.spotify.com/artist/3n7Zpn5umVXKuLjG8kgGFl"
+        },
+        {
+          "name": "TR33",
+          "url": "https://open.spotify.com/artist/33ywZDcgjSBosGP0O2nEtg"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/56iXZRQbMCTypiDsZXM6I0"
+    },
+    {
+      "album": {
         "name": "Great American Novel",
         "url": "https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu"
       },

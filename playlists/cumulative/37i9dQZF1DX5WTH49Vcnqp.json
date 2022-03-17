@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Camp Dog",
+        "url": "https://open.spotify.com/album/1x20Qq55S6sqA8HsY7uUQf"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219790,
+      "name": "Camp Dog",
+      "url": "https://open.spotify.com/track/3xzFmGsKwmNdglRFUwBtT8"
+    },
+    {
+      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },

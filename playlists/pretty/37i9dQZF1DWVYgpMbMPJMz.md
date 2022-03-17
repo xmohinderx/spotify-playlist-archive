@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,613 likes - 99 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,650 likes - 99 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

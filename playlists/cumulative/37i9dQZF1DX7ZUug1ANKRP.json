@@ -241,6 +241,28 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/3Xte1fTOmF4p8gMxWIZNAu"
+      },
+      "artists": [
+        {
+          "name": "BOSS",
+          "url": "https://open.spotify.com/artist/2qXlwHI0XFxS3SC8NiUjI1"
+        },
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4mgI0LKhrJI6JdZ0pQc81D"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/6ORM8JVxbLZWxL7gb49gi9"
       },
       "artists": [
@@ -464,6 +486,24 @@
     },
     {
       "album": {
+        "name": "Do My Ting",
+        "url": "https://open.spotify.com/album/4UOsVs3Gn7eg91naDbbDBG"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Do My Ting",
+      "url": "https://open.spotify.com/track/51MiKV7xSIq5hsUcbbKeRU"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -505,7 +545,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 199200,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2d9xO7cVRfS3QHy64IxnhY"
@@ -1049,7 +1089,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 151267,
       "name": "Louder",
       "url": "https://open.spotify.com/track/2kbzyz1CZHSAX1dH4btQLY"
@@ -1097,6 +1137,32 @@
       "duration_ms": 155978,
       "name": "Love U So",
       "url": "https://open.spotify.com/track/70uMBmsS1R4JEIENfW84re"
+    },
+    {
+      "album": {
+        "name": "Love We Lost (with R3HAB)",
+        "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Love We Lost (with R3HAB)",
+      "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
     },
     {
       "album": {
@@ -1236,6 +1302,28 @@
     },
     {
       "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/7DuSuUgipKPLrYnDspvgHK"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Hard But Crazy",
+          "url": "https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/6KBKyHCLlumwIKeBpR2Ve3"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/4ftWvf6rrlY2Nq6kymXsgC"
       },
@@ -1277,7 +1365,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
@@ -1325,7 +1413,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 142456,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2GY3pShyn8uyRYoknBnk6O"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6DLB6M8zkNk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DLB6M8zkNk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DLB6M8zkNk)
 
-### pov: ur the main character in a historical romance
+### [pov: ur the main character in a historical romance](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
 
 > all eyes are on you as you walk into the ballroom
 

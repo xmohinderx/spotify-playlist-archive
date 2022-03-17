@@ -1862,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Fe Makan Ma",
+        "url": "https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Fe Makan Ma",
+      "url": "https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS"
+    },
+    {
+      "album": {
         "name": "Feeha La Khfeeha",
         "url": "https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg"
       },
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 145000,
       "name": "Kol Shay Mizyan",
       "url": "https://open.spotify.com/track/4sa7Q0Pn7MkHfnvYZtD5Uo"

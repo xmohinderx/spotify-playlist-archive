@@ -482,6 +482,24 @@
     },
     {
       "album": {
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/5nd1xFh4o9yg7F80osBWVW"
+      },
+      "artists": [
+        {
+          "name": "Julia Svacinna",
+          "url": "https://open.spotify.com/artist/4OJZRqsMCFV8EAgoqL5AEE"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159775,
+      "name": "EVERYDAY",
+      "url": "https://open.spotify.com/track/4KNIWyhvOB0MrMEtxWkcN2"
+    },
+    {
+      "album": {
         "name": "Factor In",
         "url": "https://open.spotify.com/album/0YMEgUXRjLiiEb2EYeRwni"
       },
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 213240,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/70BaFHsIiw4NcypR0zNaJr"

@@ -1036,6 +1036,32 @@
     },
     {
       "album": {
+        "name": "hellcats & audis",
+        "url": "https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa"
+      },
+      "artists": [
+        {
+          "name": "sobhh\u00ef",
+          "url": "https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef"
+        },
+        {
+          "name": "NIVO",
+          "url": "https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY"
+        },
+        {
+          "name": "NHYN",
+          "url": "https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130035,
+      "name": "hellcats & audis",
+      "url": "https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM"
       },

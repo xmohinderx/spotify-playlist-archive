@@ -2,7 +2,7 @@
 
 ### [Fresh Dance Pop](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
-> The hottest new pop with the all the drops\. Cover: Becky Hill
+> The hottest new pop with the all the drops\. Cover: INNA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

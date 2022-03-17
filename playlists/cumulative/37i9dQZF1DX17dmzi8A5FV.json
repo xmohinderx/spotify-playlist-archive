@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282960,
+      "name": "(God Must Have Spent) A Little More Time On You",
+      "url": "https://open.spotify.com/track/4mljNnZ2eaXKSbEAOzLlLE"
+    },
+    {
+      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 260266,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3PJivN5BZ2ckFa22igIu4a"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 349466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/6ITPK0Iw3OfdqSEWimISst"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 213400,
       "name": "Everything Changes",
       "url": "https://open.spotify.com/track/5RWVIPhDjeUKGRqXF65v1N"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 235066,
       "name": "Fool Again",
       "url": "https://open.spotify.com/track/5yTk7KPsD43u7hjeiGP2Kw"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 269626,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/07TCY69AXkj3E7LC19vq45"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 257959,
       "name": "I Can Love You Like That",
       "url": "https://open.spotify.com/track/4OnZR9U5JRFGF1Yza9j579"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 257959,
       "name": "I Can Love You Like That",
       "url": "https://open.spotify.com/track/70d8omRI2p7qesFOiy55Ro"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/0HcSC0BbA1H5zwGCr9xCON"
@@ -588,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287506,
+      "name": "I'll Never Break Your Heart",
+      "url": "https://open.spotify.com/track/4lq4yY0y3XqDQZsx03ITaH"
+    },
+    {
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -671,7 +707,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 283266,
       "name": "Invisible Man",
       "url": "https://open.spotify.com/track/5EOGZmuU56m3fFhqr4HCLe"
@@ -689,7 +725,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 279799,
       "name": "It's Alright - The Guvnor Mix",
       "url": "https://open.spotify.com/track/5Lk0t4HM9zD0AlWRpMxIFQ"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 237306,
       "name": "I\u2019ll Make Love To You",
       "url": "https://open.spotify.com/track/2pM15qcmuGUPslSRsvvm7v"
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 234960,
       "name": "Show Me the Meaning of Being Lonely",
       "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 215826,
       "name": "Slam Dunk (Da Funk)",
       "url": "https://open.spotify.com/track/5K1hUYQsNQJcKgM6QQW8B7"
@@ -1065,7 +1101,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 292426,
       "name": "The Day We Find Love",
       "url": "https://open.spotify.com/track/1aqGEA5h6OyeTOjamOqQdB"
@@ -1365,7 +1401,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 250746,
       "name": "You Got It (The Right Stuff)",
       "url": "https://open.spotify.com/track/2BEL2ySEBDO02FLo3lOIZT"

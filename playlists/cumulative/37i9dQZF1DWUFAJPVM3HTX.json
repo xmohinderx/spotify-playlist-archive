@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 126849,
       "name": "All This Shit",
       "url": "https://open.spotify.com/track/3vFDCpTCWOHZsiASHOBsSl"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 214453,
       "name": "Are We OK?",
       "url": "https://open.spotify.com/track/7EvR8W21LfjtKM4GTZEqbd"
@@ -628,6 +628,28 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4eNjoHyP2waU2tvAKqMRUP"
+      },
+      "artists": [
+        {
+          "name": "Devvon Terrell",
+          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171659,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5Rf1hEEuKTJ9SHU5KgQwrz"
+    },
+    {
+      "album": {
         "name": "better (feat. Datin)",
         "url": "https://open.spotify.com/album/2jVLLIDJ1MJ7y1DP5M3xTW"
       },
@@ -679,7 +701,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 190056,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1NiH4J1846vGnZPRsQ0Ae0"
@@ -2547,7 +2569,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 164306,
       "name": "Home Away From Home",
       "url": "https://open.spotify.com/track/3g2ZPuuGDILoQTcokZpm14"
@@ -2635,6 +2657,24 @@
       "duration_ms": 168500,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2AqzZgdcBS0wcmSu6BBvyv"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN"
+      },
+      "artists": [
+        {
+          "name": "Shanuka",
+          "url": "https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254526,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
     },
     {
       "album": {
@@ -2801,6 +2841,24 @@
       "duration_ms": 148058,
       "name": "Indeed",
       "url": "https://open.spotify.com/track/1LM1hBKNrHqWY6u4J85vj5"
+    },
+    {
+      "album": {
+        "name": "INeedYouHere",
+        "url": "https://open.spotify.com/album/52jTPz6dFYsUEVdMTPRMsQ"
+      },
+      "artists": [
+        {
+          "name": "Qiana Miles",
+          "url": "https://open.spotify.com/artist/3pLlcKPcRhUHqUKx7GAi6h"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224597,
+      "name": "INeedYouHere",
+      "url": "https://open.spotify.com/track/1D4AWnKZVnZ0e5pW19VMp9"
     },
     {
       "album": {
@@ -2996,6 +3054,24 @@
     },
     {
       "album": {
+        "name": "keisha",
+        "url": "https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175524,
+      "name": "keisha",
+      "url": "https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo"
+    },
+    {
+      "album": {
         "name": "Keys",
         "url": "https://open.spotify.com/album/5gDvyk122g7t7QihZBKVrR"
       },
@@ -3155,7 +3231,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 167044,
       "name": "Lily Apart",
       "url": "https://open.spotify.com/track/6EECRcDjI5034NQestBztm"
@@ -3329,6 +3405,24 @@
       "duration_ms": 325311,
       "name": "Mantra (Sun Girl)",
       "url": "https://open.spotify.com/track/5tbrZaNIgsrqYBkeZK6P0z"
+    },
+    {
+      "album": {
+        "name": "Marvin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM"
+      },
+      "artists": [
+        {
+          "name": "Malik Moses",
+          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164188,
+      "name": "Marvin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI"
     },
     {
       "album": {
@@ -3639,7 +3733,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 192964,
       "name": "Nice Guys Finish Last",
       "url": "https://open.spotify.com/track/3iR3A3gLrU1ZoN6wOBfNVo"
@@ -4555,7 +4649,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 164475,
       "name": "safe & warm",
       "url": "https://open.spotify.com/track/3eHD7MT148ZWG9dM4uI5PV"
@@ -5025,6 +5119,28 @@
       "duration_ms": 202105,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
+    },
+    {
+      "album": {
+        "name": "Spell on Me",
+        "url": "https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        },
+        {
+          "name": "Hunter Yerrell",
+          "url": "https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Spell on Me",
+      "url": "https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9"
     },
     {
       "album": {
@@ -5795,10 +5911,28 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-17",
       "duration_ms": 243000,
       "name": "What Are We",
       "url": "https://open.spotify.com/track/49R7HAhvbPaa5Rsste3sWn"
+    },
+    {
+      "album": {
+        "name": "what u need",
+        "url": "https://open.spotify.com/album/1u5HgNFQPwFaniRb3jx69G"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "what u need",
+      "url": "https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD"
     },
     {
       "album": {
@@ -6093,6 +6227,24 @@
       "duration_ms": 188410,
       "name": "You Two",
       "url": "https://open.spotify.com/track/4grms0czBnzj0hi18xzIae"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy (Get Yummy)",
+        "url": "https://open.spotify.com/album/4bvq5s0WRgcEshUotY62WK"
+      },
+      "artists": [
+        {
+          "name": "Omega Mighty",
+          "url": "https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84725,
+      "name": "Yummy Yummy (Get Yummy)",
+      "url": "https://open.spotify.com/track/1SZ1TubSGxGXqA4uNzyNTW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX"
