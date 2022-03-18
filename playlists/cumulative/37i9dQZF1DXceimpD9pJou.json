@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Yelitza Cintron",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  Kike Pav\u00f3n",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 237019,
       "name": "Aqu\u00ed Est\u00e1 Dios",
       "url": "https://open.spotify.com/track/6RauS2jhWkWRxHwG26mno4"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 225980,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4G7MGVRhu0RvXX1m31TbjB"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 267751,
       "name": "Dichosos",
       "url": "https://open.spotify.com/track/2k1ThQSvRdqxpY7fnQiuaL"
@@ -590,6 +590,28 @@
     },
     {
       "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292186,
+      "name": "Dios en Casa",
+      "url": "https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW"
+    },
+    {
+      "album": {
         "name": "Dios Es M\u00e1s Grande",
         "url": "https://open.spotify.com/album/76T2IpejzH8cRehny18FeY"
       },
@@ -627,7 +649,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 198600,
       "name": "Dios Es Primero",
       "url": "https://open.spotify.com/track/0LD85eytjzSKPalc64Nmmf"
@@ -645,7 +667,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -706,6 +728,24 @@
     },
     {
       "album": {
+        "name": "El Cielo Llor\u00f3",
+        "url": "https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD"
+      },
+      "artists": [
+        {
+          "name": "Proyecto 67",
+          "url": "https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279759,
+      "name": "El Cielo Llor\u00f3",
+      "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
+    },
+    {
+      "album": {
         "name": "El Fuego",
         "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
       },
@@ -721,7 +761,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
@@ -743,6 +783,24 @@
       "duration_ms": 268344,
       "name": "El Milagro",
       "url": "https://open.spotify.com/track/0nSMObjfgB8utLKfVo7wIV"
+    },
+    {
+      "album": {
+        "name": "El Mismo Poder (Studio)",
+        "url": "https://open.spotify.com/album/3H6KuntpYqL7jv8XqA46mx"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281453,
+      "name": "El Mismo Poder - Studio",
+      "url": "https://open.spotify.com/track/4PM1khBmu9UXgl4QRXH1IS"
     },
     {
       "album": {
@@ -775,7 +833,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 259144,
       "name": "En Memoria",
       "url": "https://open.spotify.com/track/0KMH5qjGHEJboW4AEtYsLh"
@@ -801,7 +859,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 260769,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/40BKOLOZwGvF1sWQLeUjoM"
@@ -907,10 +965,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 234442,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/6c3ZMG6GLz5AikyyfE0geV"
+    },
+    {
+      "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "album": {
@@ -925,10 +1001,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 200021,
       "name": "Flow David",
       "url": "https://open.spotify.com/track/0eWCKGoYbPdc3zKKlTp7vg"
+    },
+    {
+      "album": {
+        "name": "Flow Santo",
+        "url": "https://open.spotify.com/album/41pKuwihqiTvA61dALqugV"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223530,
+      "name": "Flow Santo",
+      "url": "https://open.spotify.com/track/1TXSgaq8nI9beIhSBoUhNp"
     },
     {
       "album": {
@@ -1057,7 +1151,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 252166,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/4cLvxtA49cGZkNahdaU9cp"
@@ -1275,7 +1369,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1329,7 +1423,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 315221,
       "name": "Lo Que Dios Te Prometi\u00f3",
       "url": "https://open.spotify.com/track/1HPbRI9kZoEuanrnPOFXty"
@@ -1377,7 +1471,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 212621,
       "name": "Lo Tengo",
       "url": "https://open.spotify.com/track/2IlZIQwTZkYZMmIYCxPPjP"
@@ -1399,6 +1493,28 @@
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+    },
+    {
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/5kV1gYbyx9QcUEH20UoY20"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+          "url": "https://open.spotify.com/artist/1fsPPxhpVvWPyqaNh8CAKv"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236629,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/332xvcE5xP9Va0GCPcWbMD"
     },
     {
       "album": {
@@ -1547,7 +1663,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 493920,
       "name": "Mi Ayuda - En Vivo",
       "url": "https://open.spotify.com/track/7h8ZLklXyToWGYEgUmfits"
@@ -1569,7 +1685,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 194739,
       "name": "Mi Buen Pastor Ft Edder HT",
       "url": "https://open.spotify.com/track/0tWXvjg6EkBUSsIvHHgeQ6"
@@ -1613,10 +1729,40 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Mi Entrenador",
       "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
+    },
+    {
+      "album": {
+        "name": "Mi Entrenador (Remix)",
+        "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
+      },
+      "artists": [
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mi Entrenador - Remix",
+      "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
     },
     {
       "album": {
@@ -1661,6 +1807,46 @@
       "duration_ms": 241951,
       "name": "Millones",
       "url": "https://open.spotify.com/track/7hZ2WuFtlxWhKsvEc0OggL"
+    },
+    {
+      "album": {
+        "name": "Mismo Dios",
+        "url": "https://open.spotify.com/album/74A6XVBNHyHsfVguce96hM"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315034,
+      "name": "Mismo Dios",
+      "url": "https://open.spotify.com/track/6tmmolWIH3SrfLMFsfQIdf"
+    },
+    {
+      "album": {
+        "name": "Radiograf\u00eda",
+        "url": "https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2"
+      },
+      "artists": [
+        {
+          "name": "Romy Ram",
+          "url": "https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs"
+        },
+        {
+          "name": "Julio Sarante",
+          "url": "https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73"
     },
     {
       "album": {
@@ -1735,6 +1921,24 @@
       "duration_ms": 187862,
       "name": "No Dejaste de Amarme",
       "url": "https://open.spotify.com/track/3qXFDf03pHzRhbDtCOUcyt"
+    },
+    {
+      "album": {
+        "name": "No Dejes Que Caiga",
+        "url": "https://open.spotify.com/album/7kZ8xEraXnN53tMwjFd6jr"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227735,
+      "name": "No Dejes Que Caiga",
+      "url": "https://open.spotify.com/track/5hk7W1UdpHq2J8XPkX9SPG"
     },
     {
       "album": {
@@ -1823,7 +2027,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164118,
       "name": "No Soy Perfecta",
       "url": "https://open.spotify.com/track/6RLmYiQPeLztb7Ns6MZmRL"
@@ -1841,7 +2045,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 196424,
       "name": "No Te Creo",
       "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
@@ -1859,7 +2063,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 209361,
       "name": "No Te Soltar\u00e9",
       "url": "https://open.spotify.com/track/5kFrbg0qPkzCWJkoNzJOBL"
@@ -2061,7 +2265,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 263155,
       "name": "Proclamar\u00e9",
       "url": "https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe"
@@ -2101,7 +2305,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 170400,
       "name": "Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5PC43jeHj4E6ot2JHQK9wG"
@@ -2119,7 +2323,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 188946,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/0RuHawQ6vLF9r35L7HD2cl"
@@ -2199,7 +2403,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 442186,
       "name": "Rey Del Cielo (Live)",
       "url": "https://open.spotify.com/track/4xnyVFnBZOps5vGoOtS0lJ"
@@ -2239,7 +2443,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 352702,
       "name": "Roca Firme",
       "url": "https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X"
@@ -2265,7 +2469,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185282,
       "name": "Rodeado - Remix",
       "url": "https://open.spotify.com/track/4tgZGUQu4S78WEedVTGTRf"
@@ -2313,7 +2517,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 357760,
       "name": "Santo - Live",
       "url": "https://open.spotify.com/track/4rsEJ8Bm4wAlsc5AuBhmo0"
@@ -2499,7 +2703,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 266571,
       "name": "Soy Tan Feliz",
       "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
@@ -2517,10 +2721,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 265947,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/1BDf8YMOrMf2k57Zt96i8g"
+    },
+    {
+      "album": {
+        "name": "S\u00e1name Jes\u00fas",
+        "url": "https://open.spotify.com/album/714SnJZhjTv8pfDyK2Yj6S"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191149,
+      "name": "S\u00e1name Jes\u00fas",
+      "url": "https://open.spotify.com/track/5GXgfaCCFW5pTRK6Sk6hMP"
     },
     {
       "album": {
@@ -2539,7 +2761,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 478549,
       "name": "Tan Solo Una Orden (feat. Alex Campos) - En Vivo",
       "url": "https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo"
@@ -2561,7 +2783,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
@@ -2579,10 +2801,46 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 290858,
       "name": "Te Tengo A Ti",
       "url": "https://open.spotify.com/track/6hQwgxM85boXb9bpfQmx1H"
+    },
+    {
+      "album": {
+        "name": "Tengo La Luz",
+        "url": "https://open.spotify.com/album/5eFXo33sZK2GNW9Efuhavn"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201527,
+      "name": "Tengo La Luz",
+      "url": "https://open.spotify.com/track/2v4kYoVwudJuLyi0ZxExLO"
+    },
+    {
+      "album": {
+        "name": "Tierra Prometida",
+        "url": "https://open.spotify.com/album/2X2TKIVD411wzu9uWcERLR"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213994,
+      "name": "Tierra Prometida",
+      "url": "https://open.spotify.com/track/7bwwh84dalgKpYpbXenUA5"
     },
     {
       "album": {
@@ -2601,7 +2859,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Tu Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5YuTjHf6xG0cxD4UQDyYFc"
@@ -2657,7 +2915,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 559636,
       "name": "Tu Gracia - En Vivo",
       "url": "https://open.spotify.com/track/1avndzhDc1uj2KluWeey7O"
@@ -2675,7 +2933,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 376362,
       "name": "Tu Me Compraste",
       "url": "https://open.spotify.com/track/3A81GmhgZNEJXFeSPjcx66"
@@ -2709,6 +2967,28 @@
       "duration_ms": 348000,
       "name": "Tumbas a Jardines (feat. Brandon Lake & Edgar Aguilar)",
       "url": "https://open.spotify.com/track/3aT6p2DCLQIwOcULLntBTp"
+    },
+    {
+      "album": {
+        "name": "Tus Aguas",
+        "url": "https://open.spotify.com/album/0uW39296vzLf41obo16eje"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/0Mlie91CFtq7dZceNEyZAP"
+        },
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307624,
+      "name": "Tus Aguas",
+      "url": "https://open.spotify.com/track/1RYQM6iYYrTX9hAc36shym"
     },
     {
       "album": {
@@ -2891,7 +3171,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 189274,
       "name": "Ven\u00edmos Del Barr\u00edo",
       "url": "https://open.spotify.com/track/4x8LdHKLanBYGNh2sUNTiU"
@@ -2961,6 +3241,24 @@
       "duration_ms": 290702,
       "name": "YHWH",
       "url": "https://open.spotify.com/track/6jJ6bAj2kEblJNMKoq1TU1"
+    },
+    {
+      "album": {
+        "name": "Yo Te Alabo",
+        "url": "https://open.spotify.com/album/5zp9u2ixPg72XVekhf0xX2"
+      },
+      "artists": [
+        {
+          "name": "Cayado",
+          "url": "https://open.spotify.com/artist/6Bldu9GkLezYOmMqiTkA8i"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240923,
+      "name": "Yo Te Alabo",
+      "url": "https://open.spotify.com/track/13t1golXMSRXe5xndDzywk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou"

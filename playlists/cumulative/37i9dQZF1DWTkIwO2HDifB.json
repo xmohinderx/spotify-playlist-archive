@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Sentadona e os funks mais \ud83d\udd11 do Brasil. Foto: Davi Kneip, Mc Frog, DJ Gabriel do Borel",
+  "description": "Voltei pra Cachorrada e os funks mais \ud83d\udd11 do Brasil. Foto: DJ Jeeh FDC, MC Meno Dani, DJ Cyclone",
   "name": "Funk Hits",
   "published_playlist_ids": [
     "2m2xgH6abY0Jl6lg6L64lU"
@@ -754,6 +754,44 @@
     },
     {
       "album": {
+        "name": "Jacar\u00e9 no Peito",
+        "url": "https://open.spotify.com/album/3pO337jsBqZ1J0GxErLCSY"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259764,
+      "name": "Jacar\u00e9 no Peito",
+      "url": "https://open.spotify.com/track/3IZA1IsJi4VPLxJy858rHn"
+    },
+    {
+      "album": {
         "name": "Joga na Cara",
         "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
       },
@@ -957,6 +995,28 @@
       "duration_ms": 116596,
       "name": "Mtg Ta Brotando No Plant\u00e3o Pra Tira Foto Com Revolver",
       "url": "https://open.spotify.com/track/1pPuodu8A0LxAuVhf3QniW"
+    },
+    {
+      "album": {
+        "name": "M\u00e1gico do Som",
+        "url": "https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "M\u00e1gico do Som",
+      "url": "https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr"
     },
     {
       "album": {
@@ -1261,7 +1321,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 250588,
       "name": "Quebradas",
       "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
@@ -1291,7 +1351,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 105230,
       "name": "Sentada Cabulosa",
       "url": "https://open.spotify.com/track/7rLxzzs0FFuz5KKARq5f2b"

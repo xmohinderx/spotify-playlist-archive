@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Amour naturel",
+        "url": "https://open.spotify.com/album/390yjRO6OCnaiCCMz6HNu3"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pavoni",
+          "url": "https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Amour naturel",
+      "url": "https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 134666,
       "name": "beaches",
       "url": "https://open.spotify.com/track/5IzsYLBnHRwMa81Uy9i3wz"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 191195,
       "name": "Eternal Bloom",
       "url": "https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn"
@@ -2115,6 +2133,24 @@
       "duration_ms": 135711,
       "name": "For a While",
       "url": "https://open.spotify.com/track/2DEvpe8l6pxp7izgwcxMiu"
+    },
+    {
+      "album": {
+        "name": "For Mark",
+        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "For Mark",
+      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
     },
     {
       "album": {
@@ -2604,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "Hearts of Us",
+        "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
+      },
+      "artists": [
+        {
+          "name": "Niels Wang",
+          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Hearts of Us",
+      "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
+    },
+    {
+      "album": {
         "name": "Heather's Croft",
         "url": "https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0"
       },
@@ -2853,6 +2907,24 @@
       "duration_ms": 142457,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G"
+    },
+    {
+      "album": {
+        "name": "I'll Be There (In Time)",
+        "url": "https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Weber",
+          "url": "https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "I'll Be There (In Time)",
+      "url": "https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf"
     },
     {
       "album": {
@@ -3774,6 +3846,28 @@
     },
     {
       "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155138,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
+    },
+    {
+      "album": {
         "name": "Harbour",
         "url": "https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi"
       },
@@ -3821,7 +3915,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 155021,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n"
@@ -4512,6 +4606,24 @@
     },
     {
       "album": {
+        "name": "Nocturnes op.4",
+        "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171071,
+      "name": "Nocturnes op.4",
+      "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
+    },
+    {
+      "album": {
         "name": "Nord",
         "url": "https://open.spotify.com/album/4kjHjy6zfNSsmGdbj0VBdD"
       },
@@ -4639,6 +4751,24 @@
       "duration_ms": 143793,
       "name": "Once More",
       "url": "https://open.spotify.com/track/6fE1QsCn1UPxiXgOPvqKo0"
+    },
+    {
+      "album": {
+        "name": "Ordinary Day",
+        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150242,
+      "name": "Ordinary Day",
+      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
     },
     {
       "album": {
@@ -4963,6 +5093,24 @@
       "duration_ms": 131202,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
+    },
+    {
+      "album": {
+        "name": "pt. 1 Owl Light",
+        "url": "https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "pt. 1 Owl Light",
+      "url": "https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO"
     },
     {
       "album": {
@@ -5650,6 +5798,24 @@
     },
     {
       "album": {
+        "name": "Semplice",
+        "url": "https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW"
+      },
+      "artists": [
+        {
+          "name": "Simone Scarda",
+          "url": "https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Semplice",
+      "url": "https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU"
+    },
+    {
+      "album": {
         "name": "Sensibilities",
         "url": "https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg"
       },
@@ -5935,6 +6101,24 @@
       "duration_ms": 124000,
       "name": "Slow Sorrow",
       "url": "https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "album": {
@@ -6313,6 +6497,24 @@
       "duration_ms": 136421,
       "name": "Suki Desu",
       "url": "https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa"
+    },
+    {
+      "album": {
+        "name": "Summer Light",
+        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
+      },
+      "artists": [
+        {
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132681,
+      "name": "Summer Light",
+      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "album": {
@@ -6763,7 +6965,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 170500,
       "name": "Time Of Loneliness",
       "url": "https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7"
@@ -7058,6 +7260,24 @@
     },
     {
       "album": {
+        "name": "Unless you leave now",
+        "url": "https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0"
+      },
+      "artists": [
+        {
+          "name": "Alva Brunel",
+          "url": "https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150009,
+      "name": "Unless you leave now",
+      "url": "https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1"
+    },
+    {
+      "album": {
         "name": "Unsere Reise",
         "url": "https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg"
       },
@@ -7105,7 +7325,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq"

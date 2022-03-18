@@ -1616,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Leo Minor",
+        "url": "https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh"
+      },
+      "artists": [
+        {
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Leo Minor",
+      "url": "https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd"
+    },
+    {
+      "album": {
         "name": "How My Heart Sings",
         "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
       },
@@ -2914,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "The Void (I Play Mine version)",
+        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "The Void - I Play Mine version",
+      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
+    },
+    {
+      "album": {
         "name": "Through Shadows",
         "url": "https://open.spotify.com/album/2Veqy5UQPl7ryGQ1H3TGh0"
       },
@@ -3163,10 +3199,6 @@
         {
           "name": "Chad Lawson",
           "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Stephen Lee Price",
-          "url": "https://open.spotify.com/artist/1f754WBVbHOHM6ivw5vEgh"
         }
       ],
       "date_added": "2022-02-18",

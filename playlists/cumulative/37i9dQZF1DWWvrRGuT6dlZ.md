@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
-> Unearthing your new favourite artists\. Cover: Umar Sirhan\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: jupiterkid\. Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Our Time](https://open.spotify.com/track/1owDrtFbH0V0X2OfgvDXfQ) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [All Our Time](https://open.spotify.com/album/2916zEO9dVb5kgERS3f7qM) | 5:08 | 2022-01-13 |  |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-01 | 2022-01-14 |
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-01-13 |  |
+| [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2022-03-17 |  |
 | [Away from Here](https://open.spotify.com/track/0mbxB7mjbFLZeo2L3m2lHQ) | [Obviously We!](https://open.spotify.com/artist/4UWbpj1tOeV8gCieopCCop) | [Right Here, Right Now](https://open.spotify.com/album/428bgcOLYy5ioiiFYesLgj) | 3:53 | 2022-01-13 |  |
 | [AWAY.](https://open.spotify.com/track/5U58qF1Cf8DZttTf2JQnMf) | [Arai\. The Grape](https://open.spotify.com/artist/2O2H2M9Acb7xwYXTqYHeog) | [AWAY.](https://open.spotify.com/album/2jqJyAzZ4QwsoCk4y8xcrV) | 3:01 | 2022-01-13 |  |
 | [Bad Dream](https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7) | [An Honest Mistake](https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ), [Bright Minder](https://open.spotify.com/artist/0SzTWLfzCw9i8xBXtiKLz0) | [Bad Dream](https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM) | 3:09 | 2022-02-24 | 2022-03-04 |
@@ -23,6 +24,7 @@
 | [Best Days](https://open.spotify.com/track/6a46DcC6856b3mzRt0TzSE) | [The Full Pledge Munkees](https://open.spotify.com/artist/3JuxOSH6H2Dzb2luYsXKds) | [Cherish](https://open.spotify.com/album/44FFa9jFQXaNfhv4u8vR2S) | 3:37 | 2022-01-13 |  |
 | [Better Days](https://open.spotify.com/track/1OHCR5feWzz6gvD7hSaesu) | [Lara Alyssa](https://open.spotify.com/artist/2YFNMLajZOMN5HLbVKs7sD), [J.O](https://open.spotify.com/artist/3WGNMotvcqvXUeagYi8N2u) | [Better Days](https://open.spotify.com/album/1ZkzR8JtuOZnEMeF7ybxIQ) | 3:29 | 2021-12-01 | 2022-01-14 |
 | [bittersweet](https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm), [zeauk](https://open.spotify.com/artist/6lSwya9NXVN29RnQqQCHnE) | [bittersweet](https://open.spotify.com/album/6JrE0n1iAvsxx1ae2V2j6P) | 3:01 | 2022-01-13 |  |
+| [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 | 2022-03-17 |  |
 | [Broken Reflection](https://open.spotify.com/track/7boZJzzpdwFUOYjAIRNzIo) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [Broken Reflection](https://open.spotify.com/album/70tSiWNRM6jDvYat6H9Hhs) | 2:27 | 2021-12-01 | 2022-01-14 |
 | [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/3A2xivbWFzprF2vmp644ii) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 | 2022-01-13 | 2022-03-11 |
 | [Call Out](https://open.spotify.com/track/5cnCKbndudY9uSCzmDY6rG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Call Out](https://open.spotify.com/album/2r8OpLaGO0nOtI27wTaBfH) | 3:18 | 2022-01-13 | 2022-03-11 |
@@ -44,6 +46,7 @@
 | [Dazed](https://open.spotify.com/track/1WgfHgTfVhI0YDinZO0nRU) | [Oatmylk](https://open.spotify.com/artist/7lNYhYQ27Rbg6Wg0QcG3HQ) | [Dazed](https://open.spotify.com/album/4Tdw4edYXg1XuCy6ag6e5U) | 2:51 | 2021-12-01 | 2022-01-14 |
 | [Dead Inside](https://open.spotify.com/track/5LlHSLqNAwH9pK9nwcYTlD) | [July Hassan](https://open.spotify.com/artist/4XceFDslWVdjIybsTgBuOC) | [Dead Inside](https://open.spotify.com/album/2OD2qTGu1n8QG36VDJKyja) | 3:28 | 2022-01-13 |  |
 | [Death of Me](https://open.spotify.com/track/1OwcfknkQamRu167BVpi7F) | [Dreebsby](https://open.spotify.com/artist/67NYMUIA5uSZPXuDXtCPRj) | [Death of Me](https://open.spotify.com/album/1y6gDFx1J7TIgaHHPG7tEY) | 2:49 | 2022-01-13 | 2022-03-11 |
+| [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-17 |  |
 | [Disease](https://open.spotify.com/track/6q7X5EttZfv8YBYUvYh3lE) | [Kareema Ramli](https://open.spotify.com/artist/03Z8BNj4qgPI7BTJM2ncVS) | [Disease](https://open.spotify.com/album/48gJ2lrYUCkEoeTCHovrdC) | 3:26 | 2021-12-01 | 2022-01-14 |
 | [Doesn’t Seem Like You Care](https://open.spotify.com/track/74ZoTVUxfKybvyNN9r0MPz) | [Outbreak](https://open.spotify.com/artist/0ZrWaX8UFSYdiu4vqum7aF) | [Doesn’t Seem Like You Care](https://open.spotify.com/album/3vTndfPtLuYloW2KoD6N4H) | 2:19 | 2022-01-27 |  |
 | [Don't Miss Demo](https://open.spotify.com/track/7BHeG3fhIwjjvRCA3RHCkq) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [Don't Miss Demo](https://open.spotify.com/album/2pbDvSLES5LqMGYY3Xdese) | 2:10 | 2021-12-01 | 2022-01-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: CYNJYNN, Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: SYLAS, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "published_playlist_ids": [
     "19D7ttJ9yoRDUaIqZ2rt1y"
@@ -377,14 +377,6 @@
         {
           "name": "G22",
           "url": "https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU"
-        },
-        {
-          "name": "Lineath",
-          "url": "https://open.spotify.com/artist/6fzKERw1fgPhkfx7aR0l8M"
-        },
-        {
-          "name": "Academy of Rock Global",
-          "url": "https://open.spotify.com/artist/0DxhkogNXdeva0gPTyfUsu"
         }
       ],
       "date_added": "2022-02-24",
@@ -618,6 +610,32 @@
     },
     {
       "album": {
+        "name": "Dainty",
+        "url": "https://open.spotify.com/album/3npjUorOcghYxPyggw6U4q"
+      },
+      "artists": [
+        {
+          "name": "yap",
+          "url": "https://open.spotify.com/artist/0pezmOTftepQeClYAboQD8"
+        },
+        {
+          "name": "TheBGNR",
+          "url": "https://open.spotify.com/artist/79WMEkTMpcc4CttXgwGmil"
+        },
+        {
+          "name": "Dabby Tan",
+          "url": "https://open.spotify.com/artist/6c2B7lLGostUtyq5yCJCWy"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Dainty",
+      "url": "https://open.spotify.com/track/3t0N179Xg0mml3qLVYqESb"
+    },
+    {
+      "album": {
         "name": "Damn Good",
         "url": "https://open.spotify.com/album/7flby3nDo1WWowvTC40hVh"
       },
@@ -759,6 +777,24 @@
       "duration_ms": 154285,
       "name": "Downgrade",
       "url": "https://open.spotify.com/track/5BMKkMLTwOK8aR3vGFbrtK"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/4t6nFIAiMvCEJiqAT4OiR7"
+      },
+      "artists": [
+        {
+          "name": "SYLAS",
+          "url": "https://open.spotify.com/artist/320QZ0LekNDyBEB6Fv2ftc"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/0s0iM9GHyBbHZYbwDp1Mlj"
     },
     {
       "album": {
@@ -1173,6 +1209,24 @@
       "duration_ms": 250382,
       "name": "Halaga (1553)",
       "url": "https://open.spotify.com/track/5NLuEozQdasSn9Pu5PnW4r"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/2rYyqjwnGPItpuW83fKzLs"
+      },
+      "artists": [
+        {
+          "name": "DENOVA",
+          "url": "https://open.spotify.com/artist/1RW6BoCYFpWTdftfYrUIp4"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164623,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/2wN7hV8GtJGOii3ejDxwnO"
     },
     {
       "album": {
@@ -2078,6 +2132,28 @@
     },
     {
       "album": {
+        "name": "MERONG THRILL",
+        "url": "https://open.spotify.com/album/4BUO482UxmsV9gyI69483s"
+      },
+      "artists": [
+        {
+          "name": "Marco BMG",
+          "url": "https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u"
+        },
+        {
+          "name": "JP Bacallan",
+          "url": "https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "MERONG THRILL",
+      "url": "https://open.spotify.com/track/20hyAt1Lf6a9iSM6EkiZPz"
+    },
+    {
+      "album": {
         "name": "Mestiza",
         "url": "https://open.spotify.com/album/5eH5GEIjTgzEjU4FT0mdqW"
       },
@@ -2289,7 +2365,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 168942,
       "name": "Only You",
       "url": "https://open.spotify.com/track/70jTWy5Ji0gZOFGesZ6ruH"
@@ -2441,6 +2517,24 @@
       "duration_ms": 221333,
       "name": "pink rain",
       "url": "https://open.spotify.com/track/5BfFaaKKsG2lYVgxvyqGdU"
+    },
+    {
+      "album": {
+        "name": "PUPP",
+        "url": "https://open.spotify.com/album/3gUlU5gaWtD2m23nL5gIPf"
+      },
+      "artists": [
+        {
+          "name": "Paul Cassimir",
+          "url": "https://open.spotify.com/artist/6Q6o0QNejNJNu2O86CJVHQ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "PUPP",
+      "url": "https://open.spotify.com/track/5yP692x7TjghfTZN4tsVUD"
     },
     {
       "album": {
@@ -3184,6 +3278,24 @@
     },
     {
       "album": {
+        "name": "The City Doesn't Look Good On You",
+        "url": "https://open.spotify.com/album/0dDJ3YyIaRT1ry1KImz8Pj"
+      },
+      "artists": [
+        {
+          "name": "Adela-Mae",
+          "url": "https://open.spotify.com/artist/1r0MUTXYp6zMp4aoK1nhTq"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "The City Doesn't Look Good On You",
+      "url": "https://open.spotify.com/track/6SjEafDqEkmJH6vZxzRKc9"
+    },
+    {
+      "album": {
         "name": "The Long Way (feat. Sin Santos)",
         "url": "https://open.spotify.com/album/5lCiMBKhmzyiJYwPjnvjQb"
       },
@@ -3493,7 +3605,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 190066,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4IwBSWqSZyykdR33ZvRFr2"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 ### [Country Worldwide Hot 50](https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y)
 
-> Country's Top 50 most played songs—in the world\. Updated weekly\. Formerly Nashville's Worldwide Hot 50.
+> Country's Top 50 most played songs—in the world\. Updated weekly\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,847 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,258 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 50 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
 
-Snapshot ID: `MTY0NzQ1ODMwMCwwMDAwMDBkNjAwMDAwMTdmOTQyYWI0MGYwMDAwMDE3YWM5ODU5NTg0`
+Snapshot ID: `MTY0NzUzODA0OSwwMDAwMDBkNzAwMDAwMTdmOThlYjkzNmIwMDAwMDE3Zjk4ZWFlNDA2`

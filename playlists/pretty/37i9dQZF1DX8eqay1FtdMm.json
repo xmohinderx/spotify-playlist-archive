@@ -1,12 +1,12 @@
 {
   "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: Park Bom(\ubc15\ubd04)) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 285817,
+  "num_followers": 285929,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODU0MiwwMDAwMDAwMDkxZDIzOWZlNGU1ZTA3ZGE5MjM4NTUzM2QzZWZhYjk2",
+  "snapshot_id": "MTY0NzYwMjM0NywwMDAwMDAwMDNmMDFhMzY5YTRmODBjZjRlZWMxOTg3YmUyZGFhNzI5",
   "tracks": [
     {
       "added_at": "2022-03-11 09:12:55",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
+        "name": "Hotel Del Luna OST Part.3",
+        "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "All about you",
+      "url": "https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -119,6 +135,106 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "One Day More",
+        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "One Day More",
+      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Principle of My Soul",
+        "url": "https://open.spotify.com/album/7ACnBNs9blScQgVTeOatdW"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/68PLBwtcGOeEo1TSxtaglC"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "After Summer",
+        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "After Summer",
+      "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288992,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/7iXL8WCagyp9aoWTWF1Tn8"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Can Love Be Fair",
+        "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 255746,
+      "name": "Can Love Be Fair",
+      "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -131,6 +247,62 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "#tb",
+        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "#tb",
+      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -155,34 +327,38 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+        "name": "Jelly box Flower Way (Prod. By ZICO) SEJEONG",
+        "url": "https://open.spotify.com/album/1dakUeYDjlm2TQwzbLrln1"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+      "duration_ms": 239122,
+      "name": "Flower Way (Prod. By ZICO)",
+      "url": "https://open.spotify.com/track/0ESGvKJoja4msEeDhOMDD8"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Hotel Del Luna OST Part.3",
-        "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 209482,
-      "name": "All about you",
-      "url": "https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES"
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -203,50 +379,42 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/6rFLPutPduVsUMY43jIaJk"
-      },
-      "artists": [
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
         }
       ],
-      "duration_ms": 288992,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/7iXL8WCagyp9aoWTWF1Tn8"
+      "duration_ms": 238066,
+      "name": "Autumn Memories (with Lee Seok Hoon)",
+      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -267,6 +435,90 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "How could you",
+        "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 251240,
+      "name": "How could you",
+      "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Shape of Rothy",
+        "url": "https://open.spotify.com/album/4DsSCFGCzQ4GPMw3pTh3A5"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 260264,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6Mn74uvm0wZaEjPK0eTtHY"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Because I am a woman",
+        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Because I am a woman",
+      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -303,50 +555,134 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Because I am a woman",
-        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 240773,
-      "name": "Because I am a woman",
-      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+      "duration_ms": 205440,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Principle of My Soul",
-        "url": "https://open.spotify.com/album/7ACnBNs9blScQgVTeOatdW"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 308186,
-      "name": "Memory Of The Wind",
-      "url": "https://open.spotify.com/track/68PLBwtcGOeEo1TSxtaglC"
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
       "artists": [
         {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 174990,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "RETRO",
+        "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 258112,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Ballad 21 F/W",
+        "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Should\u2032ve known",
+      "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "Beginning With Ending",
+        "url": "https://open.spotify.com/album/0JWEemsZd5M14XnU5YFq6E"
+      },
+      "artists": [
+        {
+          "name": "Kyul Lee",
+          "url": "https://open.spotify.com/artist/17rkotwytk0G8HGA8TSWGH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/43fbEuz1jtCnKji8WYxoeR"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -371,398 +707,34 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d"
+        "name": "Old story",
+        "url": "https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
+      "duration_ms": 219053,
+      "name": "Poem for you",
+      "url": "https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Ballad 21 F/W",
-        "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
-      },
-      "artists": [
-        {
-          "name": "2am",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Should\u2032ve known",
-      "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Spring Again",
-        "url": "https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 236071,
-      "name": "The Snowman",
-      "url": "https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "After Summer",
-        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "#tb",
-        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Hongbi",
-          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "#tb",
-      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Jelly box Flower Way (Prod. By ZICO) SEJEONG",
-        "url": "https://open.spotify.com/album/1dakUeYDjlm2TQwzbLrln1"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 239122,
-      "name": "Flower Way (Prod. By ZICO)",
-      "url": "https://open.spotify.com/track/0ESGvKJoja4msEeDhOMDD8"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Shape of Rothy",
-        "url": "https://open.spotify.com/album/4DsSCFGCzQ4GPMw3pTh3A5"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 260264,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6Mn74uvm0wZaEjPK0eTtHY"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/5LZW8K0fStxs9cq1n22dfc"
-      },
-      "artists": [
-        {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Autumn Memories",
-        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Autumn Memories (with Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Trip: Tape #01",
-        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Holding hands or walking together.",
-      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Can Love Be Fair",
-        "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 255746,
-      "name": "Can Love Be Fair",
-      "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "After Summer",
-        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "After Summer",
-      "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "How could you",
-        "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG HWAN",
-          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
-        },
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 251240,
-      "name": "How could you",
-      "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
-        }
-      ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2022-03-11 09:12:55",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/293zq9Taxnnr8OmLq78HUE"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 264678,
-      "name": "Will Last Forever",
-      "url": "https://open.spotify.com/track/3z44VMUFtXkJ54xIbd2Qb2"
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -783,18 +755,18 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS"
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/293zq9Taxnnr8OmLq78HUE"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0"
+      "duration_ms": 264678,
+      "name": "Will Last Forever",
+      "url": "https://open.spotify.com/track/3z44VMUFtXkJ54xIbd2Qb2"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -815,34 +787,66 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Sun And Moon Part.1",
-        "url": "https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq"
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 301059,
-      "name": "Sun And Moon",
-      "url": "https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3"
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+      "duration_ms": 218680,
+      "name": "Boy in time - HUI Solo",
+      "url": "https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2022-03-11 09:12:55",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2022-03-11 09:12:55",
@@ -863,158 +867,130 @@
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "New Edition 26",
-        "url": "https://open.spotify.com/album/2dCX0b8Ixb4L1ys0ti0yRa"
+        "name": "Lovers of the Red Sky OST Part.1",
+        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Dongha",
-          "url": "https://open.spotify.com/artist/21lne80DCBNegTOiqPBweb"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 285040,
-      "name": "I See You (Feat. Dongha)",
-      "url": "https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9"
+      "duration_ms": 248066,
+      "name": "Is it me?",
+      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+      "duration_ms": 226960,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+        "name": "Trip: Tape #01",
+        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
       "artists": [
         {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+      "duration_ms": 194240,
+      "name": "Holding hands or walking together.",
+      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Be Ordinary",
-        "url": "https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5"
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
       "artists": [
         {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 259079,
-      "name": "A Daily Song",
-      "url": "https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq"
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Can\u2032t Live Without You",
-      "url": "https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA"
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p"
+        "name": "Words From The Wind",
+        "url": "https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Ban Gwang Ok",
-          "url": "https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS"
-        },
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        },
-        {
-          "name": "Jung Young Eun",
-          "url": "https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
         }
       ],
-      "duration_ms": 260597,
-      "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
+      "duration_ms": 238426,
+      "name": "Words From The Wind",
+      "url": "https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+        "name": "Not Anyone Else",
+        "url": "https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+      "duration_ms": 258933,
+      "name": "Not Anyone Else",
+      "url": "https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim"
     },
     {
       "added_at": "2022-03-11 09:12:55",
       "album": {
-        "name": "Sugar Man2 Pt. 13",
-        "url": "https://open.spotify.com/album/2Hdxm7Br3rOwozF7EbKzVz"
+        "name": "Only you don't know (Samsung New Retro Series)",
+        "url": "https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU"
       },
       "artists": [
         {
-          "name": "Jung Yup",
-          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
-        },
-        {
-          "name": "Young Jun",
-          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 249723,
-      "name": "One Sided Love",
-      "url": "https://open.spotify.com/track/0d4VN98EgAtxFcKfjc5Kdw"
+      "duration_ms": 245960,
+      "name": "Only you don't know (Samsung New Retro Series)",
+      "url": "https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x"
     }
   ],
   "unique_name": "v o K a l",

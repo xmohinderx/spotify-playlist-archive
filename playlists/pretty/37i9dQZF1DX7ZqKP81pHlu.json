@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Algeria.",
-  "num_followers": 78218,
+  "num_followers": 78282,
   "original_name": "Algeria Sounds",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTY0NzMzNDYxOSwwMDAwMDBhOTAwMDAwMTdmOGNjYjc4YjYwMDAwMDE3MGM0YzdmNmQ0",
   "tracks": [
+    {
+      "added_at": "2022-03-15 08:56:59",
+      "album": {
+        "name": "Toi & moi",
+        "url": "https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        }
+      ],
+      "duration_ms": 190459,
+      "name": "Toi & moi",
+      "url": "https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6"
+    },
     {
       "added_at": "2022-03-15 08:56:59",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,828 likes - 504 songs - 19 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,223 likes - 504 songs - 19 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,7 +294,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 284 | [Pour Another](https://open.spotify.com/track/1ix0xKaCXRfIVxc3Jk5tOf) | [Omista](https://open.spotify.com/artist/6IDvHhAPWuZ0OjQWw0Op4e) | [Pour Another](https://open.spotify.com/album/4Vkvbv4hO8l0oqCLJ3Urk1) | 2:24 |
 | 285 | [Playdew](https://open.spotify.com/track/6P6iIyHwCCHWC7IsRUV8Mp) | [Picky Vines](https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf) | [Playdew](https://open.spotify.com/album/1mbkGqUxjkGLOf7vEv2Ia5) | 2:21 |
 | 286 | [Float n Flutter](https://open.spotify.com/track/2TypGPFyLoIbLDInw8ddD5) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Float n Flutter](https://open.spotify.com/album/6x5U1UCPqcD4BPfN2x7c7t) | 3:32 |
-| 287 | [Oh way](https://open.spotify.com/track/33SmufLRFnQYqhrdVxQRCw) | [Choi](https://open.spotify.com/artist/2hDMoAveb235jzG4p76UGx) | [Oh way](https://open.spotify.com/album/08uaZ1l5vbhkoCLYrtN8FI) | 2:24 |
+| 287 | [Oh way](https://open.spotify.com/track/33SmufLRFnQYqhrdVxQRCw) | [Choi](https://open.spotify.com/artist/0mCfY94zBDWy5URZg6cjq0) | [Oh way](https://open.spotify.com/album/08uaZ1l5vbhkoCLYrtN8FI) | 2:24 |
 | 288 | [Late Night Call](https://open.spotify.com/track/4F0rWDhwr8mAImFmCPuBvP) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [Late Night Call](https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t) | 2:33 |
 | 289 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 |
 | 290 | [Limitless](https://open.spotify.com/track/6OmJtj25djDgao57zbOb7q) | [Vanzeroy](https://open.spotify.com/artist/1vY5PJoeKYe3EGaq7xAcbv) | [Limitless](https://open.spotify.com/album/49F75ShVzZUocBWfHMqFEB) | 2:11 |

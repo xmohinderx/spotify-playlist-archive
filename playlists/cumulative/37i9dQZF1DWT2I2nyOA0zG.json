@@ -718,6 +718,32 @@
     },
     {
       "album": {
+        "name": "I Deny",
+        "url": "https://open.spotify.com/album/391ZX431B2Pq5LmvizJZDS"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "I Deny",
+      "url": "https://open.spotify.com/track/5LzZyYLDCTcGKtoKpcKoXk"
+    },
+    {
+      "album": {
         "name": "I Like (feat. WizKid)",
         "url": "https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO"
       },
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 144444,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/4B3vGD3jkhQkd3uBDxWa13"

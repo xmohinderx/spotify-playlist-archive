@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound.",
-  "num_followers": 384189,
+  "num_followers": 384274,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDA4ODAwMDAwMTdmNzc1YWU1Y2MwMDAwMDE2ZDE1MjkwMTY0",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA4OTAwMDAwMTdmOWI2NTk1MTYwMDAwMDE2ZDE1MjkwMTY0",
   "tracks": [
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Look Who's Talking",
+        "url": "https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW"
+      },
+      "artists": [
+        {
+          "name": "Jank Setup",
+          "url": "https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ"
+        }
+      ],
+      "duration_ms": 226191,
+      "name": "Prince Of Something",
+      "url": "https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv"
+    },
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {

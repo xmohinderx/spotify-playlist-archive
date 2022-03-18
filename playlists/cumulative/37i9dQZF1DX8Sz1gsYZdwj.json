@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "A Bad Dream That Will Pass Away",
+        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "A Bad Dream That Will Pass Away",
+      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "album": {
         "name": "Voyager - Essential Max Richter",
         "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
       },
@@ -1321,10 +1339,6 @@
         {
           "name": "Chad Lawson",
           "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Stephen Lee Price",
-          "url": "https://open.spotify.com/artist/1f754WBVbHOHM6ivw5vEgh"
         }
       ],
       "date_added": "2022-02-18",

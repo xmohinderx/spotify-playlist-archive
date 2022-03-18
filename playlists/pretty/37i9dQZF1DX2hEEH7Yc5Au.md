@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 徐若瑄 \(Vivian Hsu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,205 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,241 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VIVILAND](https://open.spotify.com/track/2YEHJGKtd0Njx7WTr9srBn) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [VIVILAND](https://open.spotify.com/album/5LLOZ6R2ydMhQgXktOJ1Nb) | 2:58 |
+| 1 | [V & I \(回憶組曲新唱版\)](https://open.spotify.com/track/5MHN05L4SL4DursLCHj64L) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [V & I \(回憶組曲新唱版\)](https://open.spotify.com/album/5Urg68qIe7IDxL3SP7vSMJ) | 4:37 |
 | 2 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
 | 3 | [緩緩](https://open.spotify.com/track/6GD7YFzkLd6nxKrbGqtKpp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [緩緩](https://open.spotify.com/album/0kFLRxlKsc9uTgjLlOY8Oo) | 3:47 |
 | 4 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [打了一把鑰匙給你](https://open.spotify.com/track/4hHG0xMZMZrXeemnQBssxz) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [雨季](https://open.spotify.com/album/0qt8BCze6Uc2rWaa4xwTom) | 5:07 |
 | 50 | [信任的樣子](https://open.spotify.com/track/5HB7YNphVVj7SFqErOaZYM) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 4:21 |
 
-Snapshot ID: `MTY0NjY2ODgwMCwwMDAwMDAxMDAwMDAwMTdmNjUxYmUwOTIwMDAwMDE3ZjNlN2ZhNDJl`
+Snapshot ID: `MTY0NzUzNDkyNCwwMDAwMDAxMTAwMDAwMTdmOThiYmUzOTYwMDAwMDE3ZjNlN2ZhNDJl`

@@ -337,6 +337,24 @@
     {
       "album": {
         "name": "Cinta",
+        "url": "https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo"
+      },
+      "artists": [
+        {
+          "name": "Marsha Milan",
+          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234555,
+      "name": "Cinta",
+      "url": "https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht"
+    },
+    {
+      "album": {
+        "name": "Cinta",
         "url": "https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5"
       },
       "artists": [
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 234561,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF"

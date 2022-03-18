@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Emma Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,395 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,384 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 28 | [Recuerdo](https://open.spotify.com/track/5tEJxtL0ekv8F9ZJ2ufMM4) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Recuerdo](https://open.spotify.com/album/6AWsIZ9x7uwfLpGbhc35WQ) | 3:21 |
 | 29 | [Baisse pas les bras \- Radio Edit](https://open.spotify.com/track/0jKncr1vkB6x0T0l6Zj1MJ) | [Elodie Costa](https://open.spotify.com/artist/2CnLRd65XqFFS48R8nZ0gT) | [Baisse pas les bras](https://open.spotify.com/album/1xmuv5z9ycUbrHvx4DdyZ1) | 3:26 |
 | 30 | [Quelque chose de nous](https://open.spotify.com/track/0v1y7d8lZhAsJpuJxzHnwt) | [Alma Elste](https://open.spotify.com/artist/1AqdDGLCb1oBkwvQOYTrDP) | [Quelque chose de nous](https://open.spotify.com/album/7AH0kXrE8LreAkh9PxyKUI) | 2:56 |
-| 31 | [Réalité](https://open.spotify.com/track/2jnfIMlWapCy5eO7m8iL8G) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [Réalité](https://open.spotify.com/album/0gVVWlJiJTix19KYXqvZxu) | 2:55 |
+| 31 | [RÉALITÉ](https://open.spotify.com/track/2jnfIMlWapCy5eO7m8iL8G) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [RÉALITÉ](https://open.spotify.com/album/0gVVWlJiJTix19KYXqvZxu) | 2:55 |
 | 32 | [Madame](https://open.spotify.com/track/1RypAUmIezUusIQAhVa4TI) | [Joan](https://open.spotify.com/artist/20HBqtcn4rfcwf2xxMUFWT) | [Madame](https://open.spotify.com/album/00gEkQlA4SQJ0FVhJap0Qn) | 3:00 |
 | 33 | [Pollen \(feat\. Cherise\)](https://open.spotify.com/track/3HVjNBDs8PRXMclq0IBfJO) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Cherise](https://open.spotify.com/artist/2JMDnm5V61Jz2R82pS5FGU) | [Loom](https://open.spotify.com/album/2yE69eZMIvVSfPqKBm1WoZ) | 3:07 |
 | 34 | [À chaque pas](https://open.spotify.com/track/3HOZ5spzZVsmCfQncUlncG) | [Õ C'EST NOUS](https://open.spotify.com/artist/0IzB1ub5ovEuxkmUErYxVI) | [À chaque pas](https://open.spotify.com/album/661IS58GHtqFZTFOoLkIQJ) | 2:28 |

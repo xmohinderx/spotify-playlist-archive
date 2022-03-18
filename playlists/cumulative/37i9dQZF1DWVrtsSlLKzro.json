@@ -1342,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "side by side we lie awake",
+        "url": "https://open.spotify.com/album/6h5zcRHaGnOWGH35d47Ep4"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9"
+    },
+    {
+      "album": {
         "name": "Mazde",
         "url": "https://open.spotify.com/album/4a8qG0HferUF9mQ0QhqcCl"
       },
@@ -3307,7 +3325,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"

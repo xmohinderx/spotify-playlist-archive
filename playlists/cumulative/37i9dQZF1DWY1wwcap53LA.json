@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Best Revenge",
+        "url": "https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "Best Revenge",
+      "url": "https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32"
+    },
+    {
+      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
@@ -701,6 +719,24 @@
       "duration_ms": 120640,
       "name": "Over Yonder (feat. Matt Stell)",
       "url": "https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa"
+    },
+    {
+      "album": {
+        "name": "Port City",
+        "url": "https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Port City",
+      "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
     },
     {
       "album": {

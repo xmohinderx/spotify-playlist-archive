@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,989 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,191 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 43 | [Polícia](https://open.spotify.com/track/1TieYORMOIeZoU2Yfkyfgs) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Cabeça Dinossauro \- Edição Comemorativa 30 anos \- Deluxe](https://open.spotify.com/album/43JdMQ3yDjaCna4aFf7PRC) | 4:20 |
 | 44 | [Surfista Calhorda](https://open.spotify.com/track/1B2WTE7h8EJq03pzY5y40K) | [Os Replicantes](https://open.spotify.com/artist/6hP7JNm3e4E0c5bldlKlO6) | [O Futuro é Vortex](https://open.spotify.com/album/5sAsw8gTqMbSOPaemqBBuQ) | 3:29 |
 | 45 | [Baila Comigo](https://open.spotify.com/track/0dED0PRBM0fixceBz5s4XR) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:30 |
-| 46 | [Tudo com você \- Remasterizado](https://open.spotify.com/track/1ipPANmeOEA3iBNKGnpzmR) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:59 |
+| 46 | [Tudo com você \- Remasterizado em 2001](https://open.spotify.com/track/1ipPANmeOEA3iBNKGnpzmR) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:59 |
 | 47 | [Música Urbana \- Versão Alternativa](https://open.spotify.com/track/37i2AqYonqyW5MoGXCY0pG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 3:31 |
 | 48 | [Camila, Camila](https://open.spotify.com/track/7ue3vDtaxcToVyzbyloSyQ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Nenhum de Nós](https://open.spotify.com/album/6XHpLUN8Ks2OCLfsuHK9IG) | 5:12 |
 | 49 | [Garota de Berlim](https://open.spotify.com/track/0i2pVaXri1ne58mfEC5TK1) | [Tokyo](https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Tokyo](https://open.spotify.com/album/0IraYmdQ0putFc89YQ3awM) | 3:05 |
 | 50 | [A Fórmula do Amor \(feat\. Kid Abelha e os Abóboras Selvagens\) \- Remasterizado](https://open.spotify.com/track/7nedxv1LKO4fm5ZrDG3GRO) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Kid Abelha e os Abóboras Selvagens](https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl) | [Nada Mudou \(Box\) \[Remasterizado\]](https://open.spotify.com/album/7pn0tjUBXXNNLmckBNtv6H) | 3:29 |
 | 51 | [Primeiros Erros \(Chove\)](https://open.spotify.com/track/7mpkf1rdybJHUqM0r3NHUW) | [Kiko Zambianchi](https://open.spotify.com/artist/3tWVgYrn2htmCQesDIlByw) | [Retratos](https://open.spotify.com/album/6Xa3r4VDCVwDDaqo2X2kwj) | 3:40 |
-| 52 | [Areias escaldantes \- Remasterizado](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 |
+| 52 | [Areias escaldantes \- Remasterizado em 2001](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 |
 | 53 | [Eu Sou Free](https://open.spotify.com/track/7yaAq7FKFtjrndst1JTNoA) | [Sempre Livre](https://open.spotify.com/artist/5CorrQPbOid8RKf5rCpxG7) | [Avião De Combate](https://open.spotify.com/album/6TE19Nr6Sf1SLBuCdBzynG) | 3:47 |
 | 54 | [Serão Extra](https://open.spotify.com/track/4UWDiBISWABN9nPmEJgG1I) | [Dr\. Silvana & Cia.](https://open.spotify.com/artist/7hj6TfWecHlMmeUPwiAazv) | [Dr\. Silvana & Cia](https://open.spotify.com/album/6kM9tsyXNygsvtuhIpkAa8) | 3:38 |
 | 55 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 |

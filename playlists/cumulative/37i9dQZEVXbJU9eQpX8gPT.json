@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "ACDC",
+        "url": "https://open.spotify.com/album/3hLs2CpWBgcjnK8r2JJKHS"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "ACDC",
+      "url": "https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd"
+    },
+    {
+      "album": {
         "name": "Africain",
         "url": "https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh"
       },
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
@@ -4625,7 +4643,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 254769,
       "name": "Iori 4",
       "url": "https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A"
@@ -6705,6 +6723,24 @@
       "duration_ms": 199480,
       "name": "Mgwani",
       "url": "https://open.spotify.com/track/6dvS18w5nASjcxIHrfSOGW"
+    },
+    {
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "album": {

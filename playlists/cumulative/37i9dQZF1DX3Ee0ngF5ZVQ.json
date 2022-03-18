@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Another You",
+        "url": "https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI"
+      },
+      "artists": [
+        {
+          "name": "Drew Fish Band",
+          "url": "https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267041,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96"
+    },
+    {
+      "album": {
         "name": "Any Other Guy",
         "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
       },
@@ -826,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Country Like You",
+        "url": "https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239744,
+      "name": "Country Like You",
+      "url": "https://open.spotify.com/track/0c3YD78qj2UlCClyVuw2sx"
+    },
+    {
+      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG"
       },
@@ -1057,6 +1093,36 @@
       "duration_ms": 248261,
       "name": "Empty Rooms",
       "url": "https://open.spotify.com/track/0QNV9mVU06bMQKiD38Nc1I"
+    },
+    {
+      "album": {
+        "name": "Co-Starring Too",
+        "url": "https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
+        },
+        {
+          "name": "Cody Canada",
+          "url": "https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216751,
+      "name": "Even If My Wheels Fall Off",
+      "url": "https://open.spotify.com/track/6346eATna5w8XOQy6dJSfJ"
     },
     {
       "album": {
@@ -1523,7 +1589,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 188196,
       "name": "Hellbent For Leather",
       "url": "https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM"
@@ -1845,6 +1911,24 @@
       "duration_ms": 232520,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v"
+    },
+    {
+      "album": {
+        "name": "it won't always be this way",
+        "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "it won't always be this way",
+      "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
     },
     {
       "album": {
@@ -2941,6 +3025,24 @@
       "duration_ms": 181617,
       "name": "Somewhere in the Sun",
       "url": "https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8"
+    },
+    {
+      "album": {
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "album": {

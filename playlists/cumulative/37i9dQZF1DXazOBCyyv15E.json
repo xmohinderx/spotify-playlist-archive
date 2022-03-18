@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Greentea Peng",
+  "description": "The home of the best new alternative music. Cover: Poppy Ajudha",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "All These Dreams",
+        "url": "https://open.spotify.com/album/6wIUAvOBQ6riiRHElALRGN"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183178,
+      "name": "All These Dreams",
+      "url": "https://open.spotify.com/track/28eC3Q6LQeP7ZJ4VYtpvMN"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn"
       },
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 203840,
       "name": "anotherlife",
       "url": "https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 191960,
       "name": "Bad Friday",
       "url": "https://open.spotify.com/track/6sWnt5FMTlcgSe2xkYpszP"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 206874,
       "name": "Bad Ting",
       "url": "https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2"
@@ -1627,6 +1645,24 @@
       "duration_ms": 352000,
       "name": "Birthday / The Pain",
       "url": "https://open.spotify.com/track/4LNWwDQY9IcdbzsEEvPXgD"
+    },
+    {
+      "album": {
+        "name": "birthstones",
+        "url": "https://open.spotify.com/album/2KnrWssq7ZKcV2hIzzqNn8"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "birthstones",
+      "url": "https://open.spotify.com/track/5SK4kKliD8IH6xRDxSX7QH"
     },
     {
       "album": {
@@ -2629,6 +2665,24 @@
       "duration_ms": 138160,
       "name": "Cigarette Packet",
       "url": "https://open.spotify.com/track/76Rcr2dx6DsPORncOuLDF5"
+    },
+    {
+      "album": {
+        "name": "Claire's Lane",
+        "url": "https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh"
+      },
+      "artists": [
+        {
+          "name": "A Blaze of Feather",
+          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Claire's Lane",
+      "url": "https://open.spotify.com/track/0wvaLn3jDqHcbnsPdHx0aU"
     },
     {
       "album": {
@@ -4688,6 +4742,24 @@
     },
     {
       "album": {
+        "name": "fuck yeah no please",
+        "url": "https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Weisz",
+          "url": "https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "fuck yeah no please",
+      "url": "https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz"
+    },
+    {
+      "album": {
         "name": "Funny Girl",
         "url": "https://open.spotify.com/album/7m7mnbF6lT9DsPbzqsNQgO"
       },
@@ -4873,6 +4945,24 @@
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
+    },
+    {
+      "album": {
+        "name": "Gibson Girl",
+        "url": "https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342099,
+      "name": "Gibson Girl",
+      "url": "https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ"
     },
     {
       "album": {
@@ -6625,7 +6715,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 205026,
       "name": "In-between and Overseas",
       "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
@@ -7139,7 +7229,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 114653,
       "name": "Kissing Lessons",
       "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
@@ -9867,7 +9957,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 229414,
       "name": "Party Sickness",
       "url": "https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE"
@@ -10081,6 +10171,24 @@
       "duration_ms": 245542,
       "name": "Player Of Games",
       "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+    },
+    {
+      "album": {
+        "name": "PLAYGOD",
+        "url": "https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "PLAYGOD",
+      "url": "https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N"
     },
     {
       "album": {
@@ -11479,7 +11587,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 198857,
       "name": "Silly Boy",
       "url": "https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG"
@@ -11537,6 +11645,24 @@
       "duration_ms": 178713,
       "name": "skeletons",
       "url": "https://open.spotify.com/track/3Tda2M4pWcGwRvME3dGM2K"
+    },
+    {
+      "album": {
+        "name": "Skrting On The Surface",
+        "url": "https://open.spotify.com/album/661LADBYIAySiUdlMpjZvT"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331914,
+      "name": "Skrting On The Surface",
+      "url": "https://open.spotify.com/track/4XB9mPk0wcrWHRJSypO79z"
     },
     {
       "album": {
@@ -11706,6 +11832,28 @@
     },
     {
       "album": {
+        "name": "So Unimportant",
+        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263320,
+      "name": "So Unimportant",
+      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "album": {
         "name": "Soft Underbelly",
         "url": "https://open.spotify.com/album/4DpNt6cq6AHLYSlYTIeILW"
       },
@@ -11735,7 +11883,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
@@ -12047,7 +12195,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 196433,
       "name": "Stay Soft",
       "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
@@ -12243,6 +12391,28 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1tTLeFvFpXow2T6qAvVefB"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Max Pope",
+          "url": "https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165622,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6C1u5c21S37nBvyu9d44YN"
     },
     {
       "album": {
@@ -12537,7 +12707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 203480,
       "name": "teach me love",
       "url": "https://open.spotify.com/track/0n5CbnlJoCcaHSwdqcSNlO"
@@ -14177,6 +14347,24 @@
       "duration_ms": 218810,
       "name": "Wavepool",
       "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
+    },
+    {
+      "album": {
+        "name": "We Are The Same",
+        "url": "https://open.spotify.com/album/2iBEOVXBDhL99eAVqV8Oj3"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238463,
+      "name": "We Are The Same",
+      "url": "https://open.spotify.com/track/4zbcMhYBDIEhHBcYwxAH6B"
     },
     {
       "album": {

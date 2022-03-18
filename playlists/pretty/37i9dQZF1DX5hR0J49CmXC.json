@@ -1,56 +1,28 @@
 {
   "description": "The Real hip-hop. Cover: Benny The Butcher",
-  "num_followers": 1067275,
+  "num_followers": 1067487,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NzMyNiwwMDAwMDE5ODAwMDAwMTdmNzc3ZjllNTcwMDAwMDE3ZjQ3MjZlNDU1",
+  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDE5OTAwMDAwMTdmOWIyZWE2ZTgwMDAwMDE3ZjQ3MjZlNDU1",
   "tracks": [
     {
       "added_at": "2022-03-11 05:42:06",
       "album": {
-        "name": "Johnny P's Caddy",
-        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Rise & Fall of Slaughterhouse",
-        "url": "https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp"
-      },
-      "artists": [
-        {
-          "name": "KXNG Crooked",
-          "url": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
-        },
-        {
-          "name": "Joell Ortiz",
-          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
-        },
-        {
-          "name": "Traxx Sanders",
-          "url": "https://open.spotify.com/artist/39hYtulYdIhaHAWXrAdlJy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Coastin'",
-      "url": "https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa"
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
     },
     {
       "added_at": "2022-03-11 05:42:06",
@@ -79,18 +51,78 @@
     {
       "added_at": "2022-03-11 05:42:06",
       "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+        "name": "Johnny P's Caddy",
+        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
       },
       "artists": [
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "THE PRICE EP",
+        "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
+      },
+      "artists": [
+        {
+          "name": "Price",
+          "url": "https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W"
+        }
+      ],
+      "duration_ms": 147527,
+      "name": "OXTAILS",
+      "url": "https://open.spotify.com/track/4tY9FYkN8KT9hLjiWW1cHx"
+    },
+    {
+      "added_at": "2022-03-11 05:42:06",
+      "album": {
+        "name": "Rise & Fall of Slaughterhouse",
+        "url": "https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp"
+      },
+      "artists": [
+        {
+          "name": "KXNG Crooked",
+          "url": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+        },
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Traxx Sanders",
+          "url": "https://open.spotify.com/artist/39hYtulYdIhaHAWXrAdlJy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Coastin'",
+      "url": "https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa"
     },
     {
       "added_at": "2022-03-11 05:42:06",
@@ -191,6 +223,22 @@
       "duration_ms": 153750,
       "name": "The Happy",
       "url": "https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "THE PRICE EP",
+        "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
+      },
+      "artists": [
+        {
+          "name": "Price",
+          "url": "https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W"
+        }
+      ],
+      "duration_ms": 170657,
+      "name": "BURNT OUT",
+      "url": "https://open.spotify.com/track/5Qhs1lVqyEgYaubGR4sag5"
     },
     {
       "added_at": "2022-03-11 05:42:06",
@@ -867,22 +915,6 @@
     {
       "added_at": "2022-03-11 05:42:06",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 141785,
-      "name": "LAJAN SAL",
-      "url": "https://open.spotify.com/track/71X718sDMfAha9Qv4wuihZ"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
@@ -915,26 +947,6 @@
     {
       "added_at": "2022-03-11 05:42:06",
       "album": {
-        "name": "Nightmares 2 Dreams",
-        "url": "https://open.spotify.com/album/1UH9WHlLUpEma1HkHuIqEr"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        },
-        {
-          "name": "Havoc",
-          "url": "https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W"
-        }
-      ],
-      "duration_ms": 175727,
-      "name": "Nightmares 2 Dreams",
-      "url": "https://open.spotify.com/track/65rXrnkLCeMAU82J9FHOBq"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
         "name": "Money Bags",
         "url": "https://open.spotify.com/album/1L8HxyYlmretDqwSWzuZCS"
       },
@@ -947,22 +959,6 @@
       "duration_ms": 317712,
       "name": "Nobody Dies",
       "url": "https://open.spotify.com/track/4hDq2Rcnja2Z8pJMqMhZr6"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7FxGRRumCAoPESLvW2Ta5K"
-      },
-      "artists": [
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        }
-      ],
-      "duration_ms": 129835,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1EXHfM9lHxzwb3lbJ4XU0J"
     }
   ],
   "unique_name": "Mind Right",

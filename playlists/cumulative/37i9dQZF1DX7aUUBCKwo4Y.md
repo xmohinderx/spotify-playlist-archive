@@ -2,7 +2,7 @@
 
 ### [Country Worldwide Hot 50](https://open.spotify.com/playlist/4jlP9JLoDqL2UcXAwJMvrX)
 
-> Country's Top 50 most played songs—in the world\. Updated weekly\. Formerly Nashville's Worldwide Hot 50.
+> Country's Top 50 most played songs—in the world\. Updated weekly\. Cover: Dan + Shay
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Eftertanke",
+        "url": "https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Eftertanke",
+      "url": "https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs"
+    },
+    {
+      "album": {
         "name": "El \u00faltimo vals",
         "url": "https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk"
       },
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 209000,
       "name": "Minute by Minute",
       "url": "https://open.spotify.com/track/4KY3pCGa542Qf4giD3su9I"
@@ -1683,6 +1701,24 @@
       "duration_ms": 138861,
       "name": "Seichtes Wasser",
       "url": "https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m"
+    },
+    {
+      "album": {
+        "name": "Semplice",
+        "url": "https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW"
+      },
+      "artists": [
+        {
+          "name": "Simone Scarda",
+          "url": "https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Semplice",
+      "url": "https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU"
     },
     {
       "album": {
@@ -2403,7 +2439,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 155434,
       "name": "Valse Lente",
       "url": "https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN"

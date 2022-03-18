@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 143536,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/60IqofOzB6pugAP0kOFFmX"
@@ -1522,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "El Cuervo",
+        "url": "https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188967,
+      "name": "El Cuervo",
+      "url": "https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi"
+    },
+    {
+      "album": {
         "name": "Endlessly (Volkoder Remix)",
         "url": "https://open.spotify.com/album/50ByBuZU8246AtQZ8513NG"
       },
@@ -1819,6 +1837,24 @@
       "duration_ms": 240638,
       "name": "Get High",
       "url": "https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co"
+    },
+    {
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
     },
     {
       "album": {
@@ -2179,7 +2215,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 205000,
       "name": "How I Feel - Biscits Remix",
       "url": "https://open.spotify.com/track/475B0rNgiaycpb5tS8fjzP"
@@ -2340,6 +2376,24 @@
     },
     {
       "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/0ALkzsCCxmosDghNFVUwKi"
+      },
+      "artists": [
+        {
+          "name": "SWAYL\u00d3",
+          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/0w1CYzpY8dFwV9oLPKIh6L"
+    },
+    {
+      "album": {
         "name": "Label Sampler Volume 6",
         "url": "https://open.spotify.com/album/6zd97mnZEkAetwQvs2TBLA"
       },
@@ -2479,7 +2533,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 191457,
       "name": "Into The Groove",
       "url": "https://open.spotify.com/track/2DGZwPbTxiiWB8gESqpdpi"
@@ -3254,6 +3308,28 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1AoOfbqM1tovUJjWL6kArz"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145036,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/2bf7wxuRxN2tkNoPH7z1an"
+    },
+    {
+      "album": {
         "name": "Make A Move",
         "url": "https://open.spotify.com/album/4bErqMNo5M8XittFVyPQNw"
       },
@@ -3977,6 +4053,28 @@
     {
       "album": {
         "name": "Perfect",
+        "url": "https://open.spotify.com/album/3tqNGEZdCA5ZyLxquLoxBY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186625,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs"
+    },
+    {
+      "album": {
+        "name": "Perfect",
         "url": "https://open.spotify.com/album/2WxxeepcQgfaoXp7eO9YGS"
       },
       "artists": [
@@ -4401,6 +4499,24 @@
       "duration_ms": 173538,
       "name": "Saturation",
       "url": "https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/08Hix0GPUQvDIG6OIbsPzG"
+      },
+      "artists": [
+        {
+          "name": "Damaged Goods",
+          "url": "https://open.spotify.com/artist/0txPKco59Ikf29in2CeuEC"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/1DZYMshZpDtQMD4usiruLe"
     },
     {
       "album": {
@@ -5004,6 +5120,24 @@
     },
     {
       "album": {
+        "name": "The Beat Goes",
+        "url": "https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189523,
+      "name": "The Beat Goes",
+      "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
+    },
+    {
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/0T8OYex7RRUmsUXg8VnBsY"
       },
@@ -5506,6 +5640,24 @@
     },
     {
       "album": {
+        "name": "What Is Real",
+        "url": "https://open.spotify.com/album/2pL4x0XFNmafXgBEUJNKMu"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195390,
+      "name": "What Is Real",
+      "url": "https://open.spotify.com/track/2J9waSY5wkVPmQRyqLeQXd"
+    },
+    {
+      "album": {
         "name": "What We Do",
         "url": "https://open.spotify.com/album/2yoGvoRovYCuAGR6481FSU"
       },
@@ -5569,7 +5721,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 184271,
       "name": "Whisper (with James Yuill) - John Summit Remix",
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"

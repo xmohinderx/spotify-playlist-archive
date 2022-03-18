@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Yoss Bones.",
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Gera MX y Santa Fe Klan.",
   "name": "Arena Hip-Hop",
   "published_playlist_ids": [
     "18GYr3VL7srQ56xnZNWbUP"
@@ -1088,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/0PXwwrPRqytsDPLrOZ1QK8"
+      },
+      "artists": [
+        {
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142634,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/3f3mosFgSX31bjliFnbBve"
+    },
+    {
+      "album": {
         "name": "M Mali",
         "url": "https://open.spotify.com/album/4r4kTWbJvqrEETc05r4ZOb"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 222857,
       "name": "Mi Plebada",
       "url": "https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF"
@@ -1479,10 +1497,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 288884,
       "name": "PNL",
       "url": "https://open.spotify.com/track/261zDRA4W4tgHvVi6MW5cZ"
+    },
+    {
+      "album": {
+        "name": "Prendidos",
+        "url": "https://open.spotify.com/album/3N5jY3d2kmZ28RGL9j0l2y"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "Prendidos",
+      "url": "https://open.spotify.com/track/0cuTI8LcUh9uADmQBTTQUg"
     },
     {
       "album": {
@@ -1501,7 +1541,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 262000,
       "name": "Problem\u00e1tico",
       "url": "https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv"
@@ -2181,6 +2221,36 @@
       "duration_ms": 270575,
       "name": "TUY",
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
+    },
+    {
+      "album": {
+        "name": "Un Parcero y Un Carnal",
+        "url": "https://open.spotify.com/album/7GsGutXqqGyEoa9a4AbASR"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lion Fiah",
+          "url": "https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Cojo Crazy",
+          "url": "https://open.spotify.com/artist/1BhLxRoavLY73pYXyMYM8x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234838,
+      "name": "Un Parcero y Un Carnal",
+      "url": "https://open.spotify.com/track/1uYPObwfL5rDQ1wbVKngap"
     },
     {
       "album": {

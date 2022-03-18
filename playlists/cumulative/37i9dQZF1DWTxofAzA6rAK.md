@@ -55,6 +55,6 @@
 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-10-20 |  |
 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 | 2021-10-20 |  |
 | [Yaad Man Ting](https://open.spotify.com/track/2hL4tyz4mc7loKQTDt5qEK) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Sun Roof Riddim](https://open.spotify.com/album/5e17Hox0IiEaQ2A2CldE9A) | 2:30 | 2021-10-20 |  |
-| [Yahoo Boyz](https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW) | 2:37 | 2021-10-20 |  |
+| [Yahoo Boyz](https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [6n](https://open.spotify.com/artist/6tur9rXvdVZkLG2jbftKX2) | [Yahoo Boyz](https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW) | 2:37 | 2021-10-20 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

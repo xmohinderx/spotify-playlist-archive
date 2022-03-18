@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Aina Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FOOL](https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [FOOL](https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb) | 2:59 |
 | 2 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
 | 3 | [Wanita Adalah Rakyat](https://open.spotify.com/track/3VNOx80dBiSor9BZa9Oql0) | [S.B.H](https://open.spotify.com/artist/700R8NVCYbd8CEzCVO2Ado), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa), [LOCA B](https://open.spotify.com/artist/63PZAg9EDmsVpftrqz1uih), [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV), [Takahara Suiko](https://open.spotify.com/artist/5A0MEXxWFOFT6iyJAfqh9U), [Sharifah Amani](https://open.spotify.com/artist/2C6cvmLHqOSt3bUEnAnCO9), [Fatimah Abu Bakar](https://open.spotify.com/artist/7hWswYx8yD1XAJkqmkp3xj), [YB Nurul Izzah](https://open.spotify.com/artist/6aQLKxuWnegUv1lpyvyLLe) | [Wanita Adalah Rakyat](https://open.spotify.com/album/5gqGY9MIgfo5hJvSipc4cj) | 3:50 |
-| 4 | [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 |
+| 4 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 |
 | 5 | [Sepi](https://open.spotify.com/track/0GwliBMJDWZmLOIIfQmrfn) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sepi](https://open.spotify.com/album/6LZ5Pt6CcvMxJa2rmGMolo) | 3:19 |
 | 6 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 |
 | 7 | [Hati Kama](https://open.spotify.com/track/4DuAs9ZAJMmwc8uveoesHN) | [Noraniza Idris](https://open.spotify.com/artist/5mWOlN9AGvPkeA5sOFWQrV), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seri Balas \(Noraniza Idris & Siti Nurhaliza\)](https://open.spotify.com/album/45NFO5xArgtUcwwkAfWGBB) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [I just wanna die!!!](https://open.spotify.com/track/77o7XN99A1TRqrP9PpgJoD) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [My period is here,](https://open.spotify.com/album/3cvgWbo59D0NhOZK4JlxEU) | 3:20 |
 | 50 | [Srsly.](https://open.spotify.com/track/1qBhF0rIXtnzfiEl3HqCFs) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Srsly.](https://open.spotify.com/album/0Td0IjuYDcVAmTebQLzvHK) | 3:21 |
 
-Snapshot ID: `MTY0NjY2ODgwMCwwMDAwMDAxMTAwMDAwMTdmNjUxYmUwN2MwMDAwMDE3ZjYyYWVhM2Fl`
+Snapshot ID: `MTY0NzU4NTI3NCwwMDAwMDAxMjAwMDAwMTdmOWJiYzI5ZWYwMDAwMDE3ZjYyYWVhM2Fl`

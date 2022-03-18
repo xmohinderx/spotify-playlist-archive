@@ -2,7 +2,7 @@
 
 ### [Desi Hits](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
-> Desi hits from South Asia\. Cover: Abida Parveen, Naseebo Lal
+> Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

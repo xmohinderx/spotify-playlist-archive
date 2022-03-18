@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 160551,
       "name": "925",
       "url": "https://open.spotify.com/track/50BpQMCLgPnwlDSEFg0TuY"
@@ -4903,7 +4903,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -8322,6 +8322,24 @@
     },
     {
       "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/7Ab8TqX7Hbmakve2wHTZ46"
+      },
+      "artists": [
+        {
+          "name": "Jitano",
+          "url": "https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/3HDw1AWrMadqPTTomkDDlD"
+    },
+    {
+      "album": {
         "name": "MADE UNDER PRESSURE",
         "url": "https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz"
       },
@@ -9381,7 +9399,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 223500,
       "name": "Prepei Na Figei",
       "url": "https://open.spotify.com/track/6F9InZD2ObLFkO0nGOGddI"
@@ -11866,6 +11884,28 @@
     },
     {
       "album": {
+        "name": "Vavilona",
+        "url": "https://open.spotify.com/album/6WHiGlbUm4QBvW34PClxiJ"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Vavilona",
+      "url": "https://open.spotify.com/track/3SOiiEaKhpZOZxg3qgu8vb"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -12083,6 +12123,28 @@
       "duration_ms": 177777,
       "name": "What\u2019s Crackin (feat. Takeoff)",
       "url": "https://open.spotify.com/track/1jbXYNuBFgN0BiNRO2cGov"
+    },
+    {
+      "album": {
+        "name": "WHO SHOT YA",
+        "url": "https://open.spotify.com/album/4Id64rMrhI3bBrR39Q8dzr"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161715,
+      "name": "WHO SHOT YA",
+      "url": "https://open.spotify.com/track/7ggKqkQ5niEP8HHkBkalOt"
     },
     {
       "album": {

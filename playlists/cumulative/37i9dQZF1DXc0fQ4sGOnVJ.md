@@ -2,7 +2,7 @@
 
 ### [Field Party](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
-> Country rap songs, made to be cranked up\.   Cover: Colt Ford
+> Country rap songs, made to be cranked up\. Cover: Colt Ford
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Read Me My Rights](https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:54 | 2021-05-21 |  |
 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 | 2021-05-21 |  |
 | [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 | 2021-11-05 |  |
+| [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 | 2022-03-18 |  |
 | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/track/6llkjVv0O5lSXD56Ns7R6b) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI) | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/album/3QUpdmU4KAaXYviYcy0Du6) | 2:57 | 2021-05-21 |  |
 | [Remember My Name](https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [Remember My Name](https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H) | 3:04 | 2021-08-06 |  |
 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 | 2021-05-21 |  |

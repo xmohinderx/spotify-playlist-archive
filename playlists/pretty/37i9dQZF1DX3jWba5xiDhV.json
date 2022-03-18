@@ -1,13 +1,317 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 23699,
+  "num_followers": 23787,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODM5MywwMDAwMDAwMDdlY2E3MWFlNGQwNjczODVhNmYyZjFkZjJiOGYzMDNl",
+  "snapshot_id": "MTY0NzYwMjE5NiwwMDAwMDAwMDYxODNkNzdkNzZjNjQxMWVhOTJiNDVlNDM2ZjBlNDNk",
   "tracks": [
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "La vita nuova (Remixes)",
+        "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Marco Dionigi",
+          "url": "https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19"
+        }
+      ],
+      "duration_ms": 385296,
+      "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
+      "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4BDbDCMM8oDT7H0MrLRD7z"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 384907,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/3fzani257hmWk26dRkAOpu"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Ryan Paris",
+        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
+      },
+      "artists": [
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Volevi Una Hit",
+        "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
+      },
+      "artists": [
+        {
+          "name": "Cristalli Liquidi",
+          "url": "https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D"
+        }
+      ],
+      "duration_ms": 328248,
+      "name": "Volevi Una Hit - Extended Version",
+      "url": "https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Faces (2020 Remaster)",
+        "url": "https://open.spotify.com/album/35u7IKBpYEhxpKO86BVZmn"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
+        }
+      ],
+      "duration_ms": 340733,
+      "name": "Faces - Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7zUkx37JJ7iz3ru4Y7Zd26"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Future Disco: Visions of Love",
+        "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        },
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "duration_ms": 447775,
+      "name": "Italo Amore - Musumeci Edit",
+      "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "She Can't Love You",
+        "url": "https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5"
+      },
+      "artists": [
+        {
+          "name": "Chemise",
+          "url": "https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS"
+        }
+      ],
+      "duration_ms": 325802,
+      "name": "She Can't Love You",
+      "url": "https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Cerrone I, II, III",
+        "url": "https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/30EaKbkhCzCAxVccAaYzGA"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "CIAO 2021",
+        "url": "https://open.spotify.com/album/3p37WGv4W9JNWFZHjVNZNL"
+      },
+      "artists": [
+        {
+          "name": "DEAD BLONDE",
+          "url": "https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z"
+        }
+      ],
+      "duration_ms": 130041,
+      "name": "Il ragazzo con la giardinetta - BIONDA MORTA per CIAO 2021",
+      "url": "https://open.spotify.com/track/4MaNzGtZ0rUubsm9Zo1ojb"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Brivido Divino",
+        "url": "https://open.spotify.com/album/4RFOFcht99zVWzby7nUfLH"
+      },
+      "artists": [
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Splendido splendente",
+      "url": "https://open.spotify.com/track/7vMqQLAA3A7ymNOaICmt2Z"
+    },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
@@ -47,306 +351,6 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Dimensional Shifting",
-        "url": "https://open.spotify.com/album/6m7QyFd7bdOY2BjiXR6iz6"
-      },
-      "artists": [
-        {
-          "name": "The Exaltics",
-          "url": "https://open.spotify.com/artist/1WWgHYgUAQR5wfEa8et14L"
-        },
-        {
-          "name": "Heinrich Mueller",
-          "url": "https://open.spotify.com/artist/0aucV54IIc14u2e9jzxAbe"
-        }
-      ],
-      "duration_ms": 218708,
-      "name": "Microwave Photon",
-      "url": "https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Ryan Paris",
-        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
-      },
-      "artists": [
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Volevi Una Hit",
-        "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
-      },
-      "artists": [
-        {
-          "name": "Cristalli Liquidi",
-          "url": "https://open.spotify.com/artist/2dJDv7A9P2jFivSij4v91D"
-        }
-      ],
-      "duration_ms": 328248,
-      "name": "Volevi Una Hit - Extended Version",
-      "url": "https://open.spotify.com/track/1cqMaulAZAoUZfRZlOR29V"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Io fuori",
-        "url": "https://open.spotify.com/album/3GX7QYZPcjbXC8q7yB03bh"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 349462,
-      "name": "Ti voglio",
-      "url": "https://open.spotify.com/track/14dvepiFqD3a2lBwmVbhB3"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Faces (2020 Remaster)",
-        "url": "https://open.spotify.com/album/35u7IKBpYEhxpKO86BVZmn"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
-        }
-      ],
-      "duration_ms": 340733,
-      "name": "Faces - Prod. by Roberto Ferrante - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7zUkx37JJ7iz3ru4Y7Zd26"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Disco Fizz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "She Can't Love You",
-        "url": "https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5"
-      },
-      "artists": [
-        {
-          "name": "Chemise",
-          "url": "https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS"
-        }
-      ],
-      "duration_ms": 325802,
-      "name": "She Can't Love You",
-      "url": "https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "La vita nuova (Remixes)",
-        "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Marco Dionigi",
-          "url": "https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19"
-        }
-      ],
-      "duration_ms": 385296,
-      "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
-      "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "CIAO 2021",
-        "url": "https://open.spotify.com/album/3p37WGv4W9JNWFZHjVNZNL"
-      },
-      "artists": [
-        {
-          "name": "DEAD BLONDE",
-          "url": "https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z"
-        }
-      ],
-      "duration_ms": 130041,
-      "name": "Il ragazzo con la giardinetta - BIONDA MORTA per CIAO 2021",
-      "url": "https://open.spotify.com/track/4MaNzGtZ0rUubsm9Zo1ojb"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4BDbDCMM8oDT7H0MrLRD7z"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 384907,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/3fzani257hmWk26dRkAOpu"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Brivido Divino",
-        "url": "https://open.spotify.com/album/4RFOFcht99zVWzby7nUfLH"
-      },
-      "artists": [
-        {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Splendido splendente",
-      "url": "https://open.spotify.com/track/7vMqQLAA3A7ymNOaICmt2Z"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
-      },
-      "artists": [
-        {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
         "name": "Self control",
         "url": "https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP"
       },
@@ -363,394 +367,34 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/29JJmQtng4Hd3HUQo4o12S"
       },
       "artists": [
         {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+          "name": "David Keno",
+          "url": "https://open.spotify.com/artist/0cWqRMk3D45eG7PpILb4OL"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+      "duration_ms": 366189,
+      "name": "Futura",
+      "url": "https://open.spotify.com/track/3I8I5xOy34pz3dbvfM3I9u"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
         }
       ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
-      },
-      "artists": [
-        {
-          "name": "Freddy The Flying Dutchman",
-          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
-        },
-        {
-          "name": "The Sistina Band",
-          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Wojtila 5. Disco Dance",
-      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Blow Up Disco, Vol.3 - Back to Italodisco",
-        "url": "https://open.spotify.com/album/5AYVrkxjfQBv5Abrg46PJv"
-      },
-      "artists": [
-        {
-          "name": "Loui$",
-          "url": "https://open.spotify.com/artist/1OEPRDZIAa0cXgwwngMmyL"
-        }
-      ],
-      "duration_ms": 368146,
-      "name": "Pink Footpath() - Back to Instrumental Mix",
-      "url": "https://open.spotify.com/track/72XgwgXnJj1HQ6FJO5Al7y"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Hypnotic Tango",
-        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
-      },
-      "artists": [
-        {
-          "name": "My Mine",
-          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
-        }
-      ],
-      "duration_ms": 369084,
-      "name": "Hypnotic Tango - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Pretty Face (Original Maxi Single)",
-        "url": "https://open.spotify.com/album/56d2EoKtvf5xhfslTsf0ZN"
-      },
-      "artists": [
-        {
-          "name": "Styl\u00f3o",
-          "url": "https://open.spotify.com/artist/3G9IdXpX2JfZYyg6zCqM6e"
-        }
-      ],
-      "duration_ms": 180747,
-      "name": "Pretty Face - Radio Edit",
-      "url": "https://open.spotify.com/track/7hEvlW79zzFLn4fPvvrf3w"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
-      },
-      "artists": [
-        {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\\\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Cerrone I, II, III",
-        "url": "https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/30EaKbkhCzCAxVccAaYzGA"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Feels Right (Gerd Janson Remix)",
-        "url": "https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 239788,
-      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1zZcUGIY4VNzdGDKEskz7Y"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Flashlight",
-        "url": "https://open.spotify.com/album/2mYT0YPcxvIh6Do5k2ZOfI"
-      },
-      "artists": [
-        {
-          "name": "Tom Noble",
-          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
-        }
-      ],
-      "duration_ms": 487699,
-      "name": "Flashlight - Masalo Remix",
-      "url": "https://open.spotify.com/track/5Cay3jdLxv3BajJKgZtvcM"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Cerrone I, II, III",
-        "url": "https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 585374,
-      "name": "Supernature",
-      "url": "https://open.spotify.com/track/7Gq0mwnsctEFGsneABnNv3"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Battle Stars",
-        "url": "https://open.spotify.com/album/5c5aLDIF1gEtwA9vghedm4"
-      },
-      "artists": [
-        {
-          "name": "O'Cardio",
-          "url": "https://open.spotify.com/artist/1sIh3c4omj8OL4Btx4EzBk"
-        },
-        {
-          "name": "K Effect",
-          "url": "https://open.spotify.com/artist/2xXk1wjFbm9VJqhgbBoHRF"
-        }
-      ],
-      "duration_ms": 421565,
-      "name": "Battle Stars - K-Effect Remix",
-      "url": "https://open.spotify.com/track/0wsHHSPg9NEtE2fhrtTRh8"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Ombra Intl 016",
-        "url": "https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc"
-      },
-      "artists": [
-        {
-          "name": "NEW HOOK",
-          "url": "https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa"
-        }
-      ],
-      "duration_ms": 434480,
-      "name": "Sexergy",
-      "url": "https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Danza Organica (Musumeci Remix Hot Version)",
-        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
-      },
-      "artists": [
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Musumeci",
-          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
-        }
-      ],
-      "duration_ms": 196957,
-      "name": "Danza Organica - Musumeci Remix Hot Version",
-      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Melanch\u00f3lia",
-        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
-      },
-      "artists": [
-        {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Ti Sento",
-      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -775,150 +419,34 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
+        "name": "Io fuori",
+        "url": "https://open.spotify.com/album/3GX7QYZPcjbXC8q7yB03bh"
       },
       "artists": [
         {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
         }
       ],
-      "duration_ms": 281840,
-      "name": "Hildegard",
-      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+      "duration_ms": 349462,
+      "name": "Ti voglio",
+      "url": "https://open.spotify.com/track/14dvepiFqD3a2lBwmVbhB3"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
       "artists": [
         {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
         }
       ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Amore Selvaggio",
-        "url": "https://open.spotify.com/album/1wBIOfN5TdZ28GjPfkEsSk"
-      },
-      "artists": [
-        {
-          "name": "Marli Blu",
-          "url": "https://open.spotify.com/artist/0POkYcabPyOQvMtWuz2oMi"
-        },
-        {
-          "name": "Marco Moschino",
-          "url": "https://open.spotify.com/artist/7bp9letY7qujRiyQOrTJbs"
-        }
-      ],
-      "duration_ms": 300819,
-      "name": "Amore Selvaggio - Original Mix",
-      "url": "https://open.spotify.com/track/6Wjswxv89qGRzOqUir9rti"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/3ffe33uobVJ9sDteZsjUxe"
-      },
-      "artists": [
-        {
-          "name": "Pfeffermouse",
-          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
-        }
-      ],
-      "duration_ms": 371192,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/3NLKKij3EzPy0b3zKdylBF"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Lifesaver 4 Compilation - 21 - Dedicated to Andrew Weatherall",
-        "url": "https://open.spotify.com/album/6fnEfAgnc4jJtCFnXJasII"
-      },
-      "artists": [
-        {
-          "name": "Chinaski",
-          "url": "https://open.spotify.com/artist/6ofdjjT2rgq6wBJ82ipNtA"
-        }
-      ],
-      "duration_ms": 411668,
-      "name": "Hellion",
-      "url": "https://open.spotify.com/track/0TItRkLPSTZT1EDtljR5hV"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Relmer International",
-        "url": "https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5"
-      },
-      "artists": [
-        {
-          "name": "Relmer",
-          "url": "https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy"
-        }
-      ],
-      "duration_ms": 348518,
-      "name": "Bluff Dance",
-      "url": "https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "The Voice of Q",
-        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
-        }
-      ],
-      "duration_ms": 316118,
-      "name": "The Voice of Q - 12\" Mix",
-      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
-      },
-      "artists": [
-        {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -939,118 +467,50 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/2CnLQfbc0ezTeDLiE1EMKE"
+        "name": "Disco Fizz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
       },
       "artists": [
         {
-          "name": "Albert One",
-          "url": "https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB"
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
         }
       ],
-      "duration_ms": 358533,
-      "name": "For Your Love - Extended Version",
-      "url": "https://open.spotify.com/track/5KJdebGrBTFYCl7d3waEka"
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Disco and Dance Hits Made in Italy",
-        "url": "https://open.spotify.com/album/2i1MKYNpi0tXfSzpU4nLRu"
+        "name": "Cerrone I, II, III",
+        "url": "https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9"
       },
       "artists": [
         {
-          "name": "Silver Pozzoli",
-          "url": "https://open.spotify.com/artist/6CY5pbdf5XDjkJf8lAaljU"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Around My Dream",
-      "url": "https://open.spotify.com/track/5B3TMEr7VXZ2zQaEaTB9M6"
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/7Gq0mwnsctEFGsneABnNv3"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu"
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
       "artists": [
         {
-          "name": "New World",
-          "url": "https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD"
-        },
-        {
-          "name": "The Juan Maclean",
-          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
         }
       ],
-      "duration_ms": 399906,
-      "name": "Enough! - The Juan MacLean Remix",
-      "url": "https://open.spotify.com/track/3EaXSUO5riDiAMLn7E3nu5"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Orient Express",
-        "url": "https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv"
-      },
-      "artists": [
-        {
-          "name": "Wish Key",
-          "url": "https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl"
-        }
-      ],
-      "duration_ms": 428946,
-      "name": "Orient Express - Vocal",
-      "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Radio Koko - EP",
-        "url": "https://open.spotify.com/album/1YgcGIg4IYFYtYNocLUnZz"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 261330,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/6bGpd4i9dKvb9CinuEB02J"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\\\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1071,42 +531,290 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Another Life (LP)",
-        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+        "name": "San Lorenzo",
+        "url": "https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP"
       },
       "artists": [
         {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+          "name": "Kocleo",
+          "url": "https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp"
         }
       ],
-      "duration_ms": 432080,
-      "name": "Another Life - Original",
-      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
+      "duration_ms": 385081,
+      "name": "San Lorenzo",
+      "url": "https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Future Disco: Visions of Love",
-        "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3ffe33uobVJ9sDteZsjUxe"
       },
       "artists": [
         {
-          "name": "Lifelike",
-          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
-        },
+          "name": "Pfeffermouse",
+          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
+        }
+      ],
+      "duration_ms": 371192,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3NLKKij3EzPy0b3zKdylBF"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Hypnotic Tango",
+        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+      },
+      "artists": [
         {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+          "name": "My Mine",
+          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+        }
+      ],
+      "duration_ms": 369084,
+      "name": "Hypnotic Tango - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Danza Organica (Musumeci Remix Hot Version)",
+        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
         },
         {
           "name": "Musumeci",
           "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
         }
       ],
-      "duration_ms": 447775,
-      "name": "Italo Amore - Musumeci Edit",
-      "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+      "duration_ms": 196957,
+      "name": "Danza Organica - Musumeci Remix Hot Version",
+      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+      },
+      "artists": [
+        {
+          "name": "Freddy The Flying Dutchman",
+          "url": "https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb"
+        },
+        {
+          "name": "The Sistina Band",
+          "url": "https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Wojtila 5. Disco Dance",
+      "url": "https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+      },
+      "artists": [
+        {
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+        }
+      ],
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Pretty Face (Original Maxi Single)",
+        "url": "https://open.spotify.com/album/56d2EoKtvf5xhfslTsf0ZN"
+      },
+      "artists": [
+        {
+          "name": "Styl\u00f3o",
+          "url": "https://open.spotify.com/artist/3G9IdXpX2JfZYyg6zCqM6e"
+        }
+      ],
+      "duration_ms": 180747,
+      "name": "Pretty Face - Radio Edit",
+      "url": "https://open.spotify.com/track/7hEvlW79zzFLn4fPvvrf3w"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Feels Right (Gerd Janson Remix)",
+        "url": "https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 239788,
+      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1zZcUGIY4VNzdGDKEskz7Y"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+      },
+      "artists": [
+        {
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Last Moscow Mule",
+        "url": "https://open.spotify.com/album/1rjbi719wVMWYtTZTLPsSc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bozzi",
+          "url": "https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL"
+        }
+      ],
+      "duration_ms": 467662,
+      "name": "Last Moscow Mule",
+      "url": "https://open.spotify.com/track/4OXNTz0J43DNGJsWyKdTG7"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Melanch\u00f3lia",
+        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
+      },
+      "artists": [
+        {
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Ti Sento",
+      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1127,66 +835,50 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/57qm57MXXZ7FRecg5RkVWj"
+        "name": "Confuzed Disco Cd 1",
+        "url": "https://open.spotify.com/album/1dJsPTjiJtFUhVvpE4tnvw"
       },
       "artists": [
         {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+          "name": "N.O.I.A.",
+          "url": "https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa"
         }
       ],
-      "duration_ms": 382095,
-      "name": "Eyes - Extended Vocal Mix",
-      "url": "https://open.spotify.com/track/1kKNCBOxnLBwvoiWYol5JW"
+      "duration_ms": 340826,
+      "name": "True Love - Sexual Version",
+      "url": "https://open.spotify.com/track/1lee8GIIzxgugsCrkyMsYt"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Festa d'amore Compilation",
-        "url": "https://open.spotify.com/album/0PsezH1XV5fHMsIJL3Ymta"
+        "name": "No.1 (Jubil\u00e4ums Edition)",
+        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
       },
       "artists": [
         {
-          "name": "Sandy Marton",
-          "url": "https://open.spotify.com/artist/1D33JhHkXxj78Y8oiyg41L"
+          "name": "Silent Circle",
+          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
         }
       ],
-      "duration_ms": 306626,
-      "name": "People from Ibiza",
-      "url": "https://open.spotify.com/track/5U2OVqASaLEjVYkQ4Z7Q1b"
+      "duration_ms": 217669,
+      "name": "Touch in the Night - Radio Version",
+      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/29JJmQtng4Hd3HUQo4o12S"
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
       "artists": [
         {
-          "name": "David Keno",
-          "url": "https://open.spotify.com/artist/0cWqRMk3D45eG7PpILb4OL"
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
         }
       ],
-      "duration_ms": 366189,
-      "name": "Futura",
-      "url": "https://open.spotify.com/track/3I8I5xOy34pz3dbvfM3I9u"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Autostrada Galattica",
-        "url": "https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 300590,
-      "name": "Curiosa Scoperta",
-      "url": "https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os"
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1215,306 +907,70 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
       "artists": [
         {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
         }
       ],
-      "duration_ms": 357600,
-      "name": "Jamin",
-      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Stranger in a Strange Land",
-        "url": "https://open.spotify.com/album/5frZPYwMO9A1H0gWPOHnDR"
+        "name": "Blow Up Disco, Vol.3 - Back to Italodisco",
+        "url": "https://open.spotify.com/album/5AYVrkxjfQBv5Abrg46PJv"
       },
       "artists": [
         {
-          "name": "N.O.I.A.",
-          "url": "https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa"
+          "name": "Loui$",
+          "url": "https://open.spotify.com/artist/1OEPRDZIAa0cXgwwngMmyL"
         }
       ],
-      "duration_ms": 451500,
-      "name": "Stranger in a Strange Land - Club Mix 1983",
-      "url": "https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz"
+      "duration_ms": 368146,
+      "name": "Pink Footpath() - Back to Instrumental Mix",
+      "url": "https://open.spotify.com/track/72XgwgXnJj1HQ6FJO5Al7y"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Last Moscow Mule",
-        "url": "https://open.spotify.com/album/1rjbi719wVMWYtTZTLPsSc"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu"
       },
       "artists": [
         {
-          "name": "Pablo Bozzi",
-          "url": "https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL"
-        }
-      ],
-      "duration_ms": 467662,
-      "name": "Last Moscow Mule",
-      "url": "https://open.spotify.com/track/4OXNTz0J43DNGJsWyKdTG7"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Disco de la Noche",
-        "url": "https://open.spotify.com/album/0k0eSLB89yP37TQ0YddmUm"
-      },
-      "artists": [
-        {
-          "name": "Tarick1",
-          "url": "https://open.spotify.com/artist/0dYDiawyfSqoWCgSdGYdsJ"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Disco de la Noche",
-      "url": "https://open.spotify.com/track/3L9qk5Lfs21bbA3upETg1f"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "No.1 (Jubil\u00e4ums Edition)",
-        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
-      },
-      "artists": [
-        {
-          "name": "Silent Circle",
-          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
-        }
-      ],
-      "duration_ms": 217669,
-      "name": "Touch in the Night - Radio Version",
-      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
-      },
-      "artists": [
-        {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Spagna & Spagna Greatest Hits",
-        "url": "https://open.spotify.com/album/0k09ZVEEo2Kx1vusc1KB8b"
-      },
-      "artists": [
-        {
-          "name": "Ivana Spagna",
-          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Easy Lady",
-      "url": "https://open.spotify.com/track/2ZMYFhiMAh41d01lB0KB6z"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "San Lorenzo",
-        "url": "https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP"
-      },
-      "artists": [
-        {
-          "name": "Kocleo",
-          "url": "https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp"
-        }
-      ],
-      "duration_ms": 385081,
-      "name": "San Lorenzo",
-      "url": "https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Electric Baile / Pushin' Too Hard (Gerd Janson & Enzo Elia Edits)",
-        "url": "https://open.spotify.com/album/1xyEt7Vp57IFy1xrsyI2eV"
-      },
-      "artists": [
-        {
-          "name": "Master Plan",
-          "url": "https://open.spotify.com/artist/1jkQG6DsvVpiqACsIrPDKl"
+          "name": "New World",
+          "url": "https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD"
         },
         {
-          "name": "Pepper Gomez",
-          "url": "https://open.spotify.com/artist/3yw76fAoSQa5UNu4HXdZmF"
-        },
-        {
-          "name": "Enzo Elia",
-          "url": "https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1"
+          "name": "The Juan Maclean",
+          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
         }
       ],
-      "duration_ms": 322465,
-      "name": "Electric Baile - Enzo Elia Vocal Edit",
-      "url": "https://open.spotify.com/track/1GCzhYzCo1FI08ixz1zVSn"
+      "duration_ms": 399906,
+      "name": "Enough! - The Juan MacLean Remix",
+      "url": "https://open.spotify.com/track/3EaXSUO5riDiAMLn7E3nu5"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Comanchero",
-        "url": "https://open.spotify.com/album/3faEyz0PVK8IWWXSlDtxij"
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
       "artists": [
         {
-          "name": "Moon Ray",
-          "url": "https://open.spotify.com/artist/0ipBu57ONv2AW0Pxpc2etO"
-        },
-        {
-          "name": "Gatto",
-          "url": "https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa"
-        },
-        {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 237500,
-      "name": "Comanchero - Vocal Radio",
-      "url": "https://open.spotify.com/track/1Oqt89VF7VM172bY8DCuB9"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Excessive Dance",
-        "url": "https://open.spotify.com/album/3vCS7rauBIW27PrXrUXsNG"
-      },
-      "artists": [
-        {
-          "name": "Luca dell\u2019Orso",
-          "url": "https://open.spotify.com/artist/1xKCNR4tilKz0Dq4Gtxg6t"
-        }
-      ],
-      "duration_ms": 368856,
-      "name": "Excessive Dance",
-      "url": "https://open.spotify.com/track/3FlK2PJ6yvEEUkR1uv3J7c"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Let me love tonight (12 Inc)",
-        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
-      },
-      "artists": [
-        {
-          "name": "Electric Mind",
-          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "Let Me Love Tonight - Radio Version",
-      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Confuzed Disco Cd 1",
-        "url": "https://open.spotify.com/album/1dJsPTjiJtFUhVvpE4tnvw"
-      },
-      "artists": [
-        {
-          "name": "N.O.I.A.",
-          "url": "https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "True Love - Sexual Version",
-      "url": "https://open.spotify.com/track/1lee8GIIzxgugsCrkyMsYt"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Golden Dance Hits",
-        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Boys (Summertime Love)",
-      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Pop Corn",
-        "url": "https://open.spotify.com/album/2YkM4AHvii9gA4LGfGcUNJ"
-      },
-      "artists": [
-        {
-          "name": "La Strana Societ\u00e0",
-          "url": "https://open.spotify.com/artist/4HdZRhcAqc3WSM3AtlJnOg"
-        }
-      ],
-      "duration_ms": 233064,
-      "name": "Pop Corn",
-      "url": "https://open.spotify.com/track/4xTLv2bhUJGv6XyxmVXOme"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "From Here to Eternity (Remastered)",
-        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
-      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1543,50 +999,306 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Disco Manesco",
-        "url": "https://open.spotify.com/album/5o0IKn2pP0Mpfm4uw3kW8X"
+        "name": "Comanchero",
+        "url": "https://open.spotify.com/album/3faEyz0PVK8IWWXSlDtxij"
       },
       "artists": [
         {
-          "name": "Alberto Melloni",
-          "url": "https://open.spotify.com/artist/67hlOZedFK95QfgY1LaUkB"
+          "name": "Moon Ray",
+          "url": "https://open.spotify.com/artist/0ipBu57ONv2AW0Pxpc2etO"
+        },
+        {
+          "name": "Gatto",
+          "url": "https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa"
+        },
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
         }
       ],
-      "duration_ms": 350082,
-      "name": "La Bagarre",
-      "url": "https://open.spotify.com/track/6VmPUcwaFV2ZCkWT3IrkHm"
+      "duration_ms": 237500,
+      "name": "Comanchero - Vocal Radio",
+      "url": "https://open.spotify.com/track/1Oqt89VF7VM172bY8DCuB9"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Fire Night Dance (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/24kjiIUBOUE3UX6Llc1WKS"
+        "name": "Electric Baile / Pushin' Too Hard (Gerd Janson & Enzo Elia Edits)",
+        "url": "https://open.spotify.com/album/1xyEt7Vp57IFy1xrsyI2eV"
       },
       "artists": [
         {
-          "name": "Peter Jacques Band",
-          "url": "https://open.spotify.com/artist/3obOTYzd1x51MamVaLYVmm"
+          "name": "Master Plan",
+          "url": "https://open.spotify.com/artist/1jkQG6DsvVpiqACsIrPDKl"
+        },
+        {
+          "name": "Pepper Gomez",
+          "url": "https://open.spotify.com/artist/3yw76fAoSQa5UNu4HXdZmF"
+        },
+        {
+          "name": "Enzo Elia",
+          "url": "https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Walking On Music - Edit Version",
-      "url": "https://open.spotify.com/track/394DVN16mMLKhGmCQNGPoT"
+      "duration_ms": 322465,
+      "name": "Electric Baile - Enzo Elia Vocal Edit",
+      "url": "https://open.spotify.com/track/1GCzhYzCo1FI08ixz1zVSn"
     },
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Forever Lovers",
-        "url": "https://open.spotify.com/album/71DSYNoCpltfS5F4aFdBc4"
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
       "artists": [
         {
-          "name": "Italian Boys",
-          "url": "https://open.spotify.com/artist/6wht0K3kwqK0Qus7MkVW9p"
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
         }
       ],
-      "duration_ms": 369168,
-      "name": "Forever Lovers - Vocal",
-      "url": "https://open.spotify.com/track/1OpQlPuUHPBXRAZzROt4Sk"
+      "duration_ms": 281840,
+      "name": "Hildegard",
+      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
+      },
+      "artists": [
+        {
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Another Life (LP)",
+        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+      },
+      "artists": [
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+        }
+      ],
+      "duration_ms": 432080,
+      "name": "Another Life - Original",
+      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Voice of Q",
+        "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD"
+        }
+      ],
+      "duration_ms": 316118,
+      "name": "The Voice of Q - 12\" Mix",
+      "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "I.C. Love Affair",
+        "url": "https://open.spotify.com/album/6N9mtDwZA3vni2r6nn6qS6"
+      },
+      "artists": [
+        {
+          "name": "Gaznevada",
+          "url": "https://open.spotify.com/artist/3lkvPuFo1qlcJZvB3h44Mj"
+        }
+      ],
+      "duration_ms": 221930,
+      "name": "I.C. Love Affair - Radio Version",
+      "url": "https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+      },
+      "artists": [
+        {
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+      },
+      "artists": [
+        {
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Autostrada Galattica",
+        "url": "https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 300590,
+      "name": "Curiosa Scoperta",
+      "url": "https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Radio Koko - EP",
+        "url": "https://open.spotify.com/album/1YgcGIg4IYFYtYNocLUnZz"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 261330,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/6bGpd4i9dKvb9CinuEB02J"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Lifesaver 4 Compilation - 21 - Dedicated to Andrew Weatherall",
+        "url": "https://open.spotify.com/album/6fnEfAgnc4jJtCFnXJasII"
+      },
+      "artists": [
+        {
+          "name": "Chinaski",
+          "url": "https://open.spotify.com/artist/6ofdjjT2rgq6wBJ82ipNtA"
+        }
+      ],
+      "duration_ms": 411668,
+      "name": "Hellion",
+      "url": "https://open.spotify.com/track/0TItRkLPSTZT1EDtljR5hV"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Orient Express",
+        "url": "https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv"
+      },
+      "artists": [
+        {
+          "name": "Wish Key",
+          "url": "https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl"
+        }
+      ],
+      "duration_ms": 428946,
+      "name": "Orient Express - Vocal",
+      "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/57qm57MXXZ7FRecg5RkVWj"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+        }
+      ],
+      "duration_ms": 382095,
+      "name": "Eyes - Extended Vocal Mix",
+      "url": "https://open.spotify.com/track/1kKNCBOxnLBwvoiWYol5JW"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Relmer International",
+        "url": "https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5"
+      },
+      "artists": [
+        {
+          "name": "Relmer",
+          "url": "https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy"
+        }
+      ],
+      "duration_ms": 348518,
+      "name": "Bluff Dance",
+      "url": "https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Spagna & Spagna Greatest Hits",
+        "url": "https://open.spotify.com/album/0k09ZVEEo2Kx1vusc1KB8b"
+      },
+      "artists": [
+        {
+          "name": "Ivana Spagna",
+          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Easy Lady",
+      "url": "https://open.spotify.com/track/2ZMYFhiMAh41d01lB0KB6z"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1607,6 +1319,154 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
+        "name": "Let me love tonight (12 Inc)",
+        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+      },
+      "artists": [
+        {
+          "name": "Electric Mind",
+          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Let Me Love Tonight - Radio Version",
+      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Disco and Dance Hits Made in Italy",
+        "url": "https://open.spotify.com/album/2i1MKYNpi0tXfSzpU4nLRu"
+      },
+      "artists": [
+        {
+          "name": "Silver Pozzoli",
+          "url": "https://open.spotify.com/artist/6CY5pbdf5XDjkJf8lAaljU"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Around My Dream",
+      "url": "https://open.spotify.com/track/5B3TMEr7VXZ2zQaEaTB9M6"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Jamin",
+      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Fire Night Dance (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/24kjiIUBOUE3UX6Llc1WKS"
+      },
+      "artists": [
+        {
+          "name": "Peter Jacques Band",
+          "url": "https://open.spotify.com/artist/3obOTYzd1x51MamVaLYVmm"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Walking On Music - Edit Version",
+      "url": "https://open.spotify.com/track/394DVN16mMLKhGmCQNGPoT"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Excessive Dance",
+        "url": "https://open.spotify.com/album/3vCS7rauBIW27PrXrUXsNG"
+      },
+      "artists": [
+        {
+          "name": "Luca dell\u2019Orso",
+          "url": "https://open.spotify.com/artist/1xKCNR4tilKz0Dq4Gtxg6t"
+        }
+      ],
+      "duration_ms": 368856,
+      "name": "Excessive Dance",
+      "url": "https://open.spotify.com/track/3FlK2PJ6yvEEUkR1uv3J7c"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/2CnLQfbc0ezTeDLiE1EMKE"
+      },
+      "artists": [
+        {
+          "name": "Albert One",
+          "url": "https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB"
+        }
+      ],
+      "duration_ms": 358533,
+      "name": "For Your Love - Extended Version",
+      "url": "https://open.spotify.com/track/5KJdebGrBTFYCl7d3waEka"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Festa d'amore Compilation",
+        "url": "https://open.spotify.com/album/0PsezH1XV5fHMsIJL3Ymta"
+      },
+      "artists": [
+        {
+          "name": "Sandy Marton",
+          "url": "https://open.spotify.com/artist/1D33JhHkXxj78Y8oiyg41L"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "People from Ibiza",
+      "url": "https://open.spotify.com/track/5U2OVqASaLEjVYkQ4Z7Q1b"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
         "name": "Super Snooper (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0wQCddd51rHbWT3K5b5XfE"
       },
@@ -1623,18 +1483,70 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
       "artists": [
         {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
         }
       ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/4eDKBINPlkkrz4AkZhx42I"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "I Like Chopin",
+      "url": "https://open.spotify.com/track/2FHnN5ELL83TGbtXMDzoiJ"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Flashlight",
+        "url": "https://open.spotify.com/album/2mYT0YPcxvIh6Do5k2ZOfI"
+      },
+      "artists": [
+        {
+          "name": "Tom Noble",
+          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 487699,
+      "name": "Flashlight - Masalo Remix",
+      "url": "https://open.spotify.com/track/5Cay3jdLxv3BajJKgZtvcM"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Ombra Intl 016",
+        "url": "https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc"
+      },
+      "artists": [
+        {
+          "name": "NEW HOOK",
+          "url": "https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa"
+        }
+      ],
+      "duration_ms": 434480,
+      "name": "Sexergy",
+      "url": "https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1"
     },
     {
       "added_at": "2022-02-11 10:42:38",
@@ -1675,22 +1587,6 @@
     {
       "added_at": "2022-02-11 10:42:38",
       "album": {
-        "name": "I.C. Love Affair",
-        "url": "https://open.spotify.com/album/6N9mtDwZA3vni2r6nn6qS6"
-      },
-      "artists": [
-        {
-          "name": "Gaznevada",
-          "url": "https://open.spotify.com/artist/3lkvPuFo1qlcJZvB3h44Mj"
-        }
-      ],
-      "duration_ms": 221930,
-      "name": "I.C. Love Affair - Radio Version",
-      "url": "https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e"
-    },
-    {
-      "added_at": "2022-02-11 10:42:38",
-      "album": {
         "name": "Astromoog",
         "url": "https://open.spotify.com/album/0jta0ryUn1qVuaqlteavhp"
       },
@@ -1723,6 +1619,102 @@
       "duration_ms": 373240,
       "name": "The Glow of Love",
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "From Here to Eternity (Remastered)",
+        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
+      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+      },
+      "artists": [
+        {
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+        }
+      ],
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Color My Love",
+        "url": "https://open.spotify.com/album/5PMIGV61YVeA6mJim1LqJg"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/7F1FamJw5Vy5cAYzkDAtJx"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Mirage (Aka la Luna Aka Stasera la Luna)",
+        "url": "https://open.spotify.com/album/3HV72AZKJEbWm1LEwOvtXF"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Mirage (Aka la Luna Aka Stasera la Luna) - Original Version",
+      "url": "https://open.spotify.com/track/3GbtdNYdHNJZlYDqsyN2iC"
+    },
+    {
+      "added_at": "2022-02-11 10:42:38",
+      "album": {
+        "name": "Volcan Cerro Machin",
+        "url": "https://open.spotify.com/album/5UH1Q37RRJmzIk00Z90OTC"
+      },
+      "artists": [
+        {
+          "name": "Statik",
+          "url": "https://open.spotify.com/artist/6mG7l77tuJUj5WBDry9woS"
+        }
+      ],
+      "duration_ms": 294858,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/3KATrlPRFfkyzh4nqZq9xe"
     }
   ],
   "unique_name": "Italo Disco",

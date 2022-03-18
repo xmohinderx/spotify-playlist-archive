@@ -2,7 +2,7 @@
 
 ### [Rompiendo: Los Angeles](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
 
-> Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Becky G, Karol G
+> Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Los Gemelos De Sinaloa
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

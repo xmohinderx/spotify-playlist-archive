@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128300,
+  "num_followers": 128312,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMwNSxiNmZlNTZjMTE0ZGQ0ZjRmNTY1MmNkOTU1MzBkZWYxYzNlZjVjOWM4",
+  "snapshot_id": "MzMwNywzOWJhZjQxY2NiMjVlOTk4ZDk1OTk3MGViNmIwZTMwYWJhMWY4NGQz",
   "tracks": [
+    {
+      "added_at": "2022-03-17 15:03:34",
+      "album": {
+        "name": "Space Boy",
+        "url": "https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Space Boy",
+      "url": "https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum"
+    },
     {
       "added_at": "2022-03-16 16:01:33",
       "album": {
@@ -1115,26 +1139,6 @@
       "duration_ms": 171141,
       "name": "Warmer",
       "url": "https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb"
-      },
-      "artists": [
-        {
-          "name": "Sophon",
-          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
-        },
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        }
-      ],
-      "duration_ms": 204482,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

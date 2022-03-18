@@ -1,13 +1,29 @@
 {
   "description": "Midwest music breaking waves. Vic Mensa.",
-  "num_followers": 1826,
+  "num_followers": 1825,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjQxODUyOSwwMDAwMDAxNzAwMDAwMTdmNTYzMTBiZDgwMDAwMDE3ZjBmMGM3ZjAy",
+  "snapshot_id": "MTY0NzU3NzkzOSwwMDAwMDAxODAwMDAwMTdmOWI0YzNjN2QwMDAwMDE3ZjBmMGM3ZjAy",
   "tracks": [
+    {
+      "added_at": "2022-03-18 04:32:19",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 114580,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/4UO8Ywh6dKZVJZ9iUofEhD"
+    },
     {
       "added_at": "2022-03-04 18:28:49",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 156133,
       "name": "Facetime (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
-    },
-    {
-      "added_at": "2022-02-25 20:32:46",
-      "album": {
-        "name": "AHHH HA",
-        "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 186538,
-      "name": "AHHH HA",
-      "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -185,6 +185,26 @@
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
     },
     {
+      "added_at": "2022-03-18 04:32:19",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 159926,
+      "name": "Petty Too (feat. Future)",
+      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
+    },
+    {
       "added_at": "2022-01-29 00:28:11",
       "album": {
         "name": "4NEM",
@@ -199,6 +219,30 @@
       "duration_ms": 150857,
       "name": "See Through",
       "url": "https://open.spotify.com/track/5zpr6QTJY2ANgSoIQJBA07"
+    },
+    {
+      "added_at": "2022-03-04 18:28:49",
+      "album": {
+        "name": "Not Scared",
+        "url": "https://open.spotify.com/album/1aJbTZEpa9NsETBsWHiznD"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Shun",
+          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
+        },
+        {
+          "name": "DCG Bsavv",
+          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
+        }
+      ],
+      "duration_ms": 169858,
+      "name": "Not Scared",
+      "url": "https://open.spotify.com/track/2kxJsMWm69RBY4oJXeXblb"
     },
     {
       "added_at": "2022-01-29 00:28:11",
@@ -233,6 +277,22 @@
       "url": "https://open.spotify.com/track/3H3a7z10QCCrqAISXi3IU8"
     },
     {
+      "added_at": "2022-03-18 04:32:19",
+      "album": {
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 176515,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf"
+    },
+    {
       "added_at": "2022-02-18 22:05:21",
       "album": {
         "name": "OH REALLY",
@@ -257,6 +317,22 @@
       "url": "https://open.spotify.com/track/4neQVPkami7MzzLoOHIA6c"
     },
     {
+      "added_at": "2022-03-18 04:32:19",
+      "album": {
+        "name": "BEFORE SHIT GOT WEIRD",
+        "url": "https://open.spotify.com/album/1ytUbGMipQRc7E4msTXCX2"
+      },
+      "artists": [
+        {
+          "name": "The Cool Kids",
+          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "SCAM LIKELY",
+      "url": "https://open.spotify.com/track/6zOklQt4OT2BKfra3rs7me"
+    },
+    {
       "added_at": "2022-02-18 22:05:21",
       "album": {
         "name": "Super Urus",
@@ -271,22 +347,6 @@
       "duration_ms": 142280,
       "name": "Super Urus",
       "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
-    },
-    {
-      "added_at": "2021-11-23 21:08:14",
-      "album": {
-        "name": "Bad Man (Smooth Criminal)",
-        "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Bad Man (Smooth Criminal)",
-      "url": "https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -381,48 +441,44 @@
       "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"
     },
     {
-      "added_at": "2022-03-04 18:28:49",
+      "added_at": "2022-03-18 04:32:19",
       "album": {
-        "name": "Not Scared",
-        "url": "https://open.spotify.com/album/1aJbTZEpa9NsETBsWHiznD"
+        "name": "Make It Last",
+        "url": "https://open.spotify.com/album/4Y71nG8gNdmcNQgcRMGKoW"
       },
       "artists": [
         {
-          "name": "DCG BROTHERS",
-          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
-        },
-        {
-          "name": "DCG Shun",
-          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
-        },
-        {
-          "name": "DCG Bsavv",
-          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
         }
       ],
-      "duration_ms": 169858,
-      "name": "Not Scared",
-      "url": "https://open.spotify.com/track/2kxJsMWm69RBY4oJXeXblb"
+      "duration_ms": 155315,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/2ppXrT8Yp10ezBl42Edr6o"
     },
     {
-      "added_at": "2022-03-04 18:28:49",
+      "added_at": "2022-03-18 04:32:19",
       "album": {
-        "name": "BEFORE SHIT GOT WEIRD",
-        "url": "https://open.spotify.com/album/1ytUbGMipQRc7E4msTXCX2"
+        "name": "BAG BOY",
+        "url": "https://open.spotify.com/album/6LI6JkstKognIVlcSUIazo"
       },
       "artists": [
         {
-          "name": "The Cool Kids",
-          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         },
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC"
+        },
+        {
+          "name": "DEXLVL",
+          "url": "https://open.spotify.com/artist/1IHRAgGLhKm4kbhYfc7ocx"
         }
       ],
-      "duration_ms": 328500,
-      "name": "LOW SODIUM (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/3ruwJcep8dL1e3QGbbAJ5y"
+      "duration_ms": 148460,
+      "name": "BAG BOY",
+      "url": "https://open.spotify.com/track/46sWE1TYVjHekndGSt8uvB"
     },
     {
       "added_at": "2022-02-25 20:32:46",
@@ -677,24 +733,20 @@
       "url": "https://open.spotify.com/track/3sTdCzV9iKrRuri78a7MpV"
     },
     {
-      "added_at": "2022-02-25 20:32:46",
+      "added_at": "2021-11-23 21:08:14",
       "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+        "name": "Bad Man (Smooth Criminal)",
+        "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 201737,
-      "name": "Take You Back (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr"
+      "duration_ms": 106000,
+      "name": "Bad Man (Smooth Criminal)",
+      "url": "https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl"
     },
     {
       "added_at": "2022-03-04 18:28:49",
@@ -811,22 +863,6 @@
     {
       "added_at": "2022-02-18 22:05:21",
       "album": {
-        "name": "Metaphorically Speaking (Deluxe)",
-        "url": "https://open.spotify.com/album/35S4C0LDraniPEIFLADEDA"
-      },
-      "artists": [
-        {
-          "name": "Mark Battles",
-          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Redemption Freestyle",
-      "url": "https://open.spotify.com/track/4KE2NEZysxZgG5xakkApjf"
-    },
-    {
-      "added_at": "2022-02-18 22:05:21",
-      "album": {
         "name": "PSA",
         "url": "https://open.spotify.com/album/0rERhLTFLTNthCslWXq5Zw"
       },
@@ -875,30 +911,6 @@
       "duration_ms": 157241,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/0DjgLMQhrboGCPrm1iJcTs"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "UNIFIED",
-        "url": "https://open.spotify.com/album/5ea21zC5NwC6rJl0VrRJuf"
-      },
-      "artists": [
-        {
-          "name": "KAMI",
-          "url": "https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "UNIFIED",
-      "url": "https://open.spotify.com/track/4DW8dS3i7dbSbmDDC2XwKn"
     },
     {
       "added_at": "2022-01-29 00:28:11",
@@ -959,30 +971,6 @@
     {
       "added_at": "2022-01-29 00:28:11",
       "album": {
-        "name": "MearlGo Vol. 3",
-        "url": "https://open.spotify.com/album/2kiuoBr10reeu6DGIEPizq"
-      },
-      "artists": [
-        {
-          "name": "Earlly Mac",
-          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Iman Europe",
-          "url": "https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "MearlGo 10",
-      "url": "https://open.spotify.com/track/3GXZeYccSPDuY0FShRgy0v"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
         "name": "See Through",
         "url": "https://open.spotify.com/album/4e1xzNPWUVSLJTXzmtv8zE"
       },
@@ -1027,26 +1015,6 @@
       "duration_ms": 168851,
       "name": "For One",
       "url": "https://open.spotify.com/track/3Exx4tgKirxGSey9v8J79B"
-    },
-    {
-      "added_at": "2022-02-18 22:05:21",
-      "album": {
-        "name": "The Sign Reads",
-        "url": "https://open.spotify.com/album/4kMr7YVY5xZ8ELUCPnXd8c"
-      },
-      "artists": [
-        {
-          "name": "Supa Bwe",
-          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 214539,
-      "name": "The Sign Reads",
-      "url": "https://open.spotify.com/track/6H7o3P7ipm1dDakdX9Dul2"
     },
     {
       "added_at": "2021-11-23 21:08:14",

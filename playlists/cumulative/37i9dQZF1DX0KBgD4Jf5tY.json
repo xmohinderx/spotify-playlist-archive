@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Popa",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: SANO, Alice",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": ".specchi spettri",
+        "url": "https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs"
+      },
+      "artists": [
+        {
+          "name": ".ANAMIRTA",
+          "url": "https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218615,
+      "name": ".specchi spettri",
+      "url": "https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL"
+    },
     {
       "album": {
         "name": "2am",
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 149274,
       "name": "4 SU 4",
       "url": "https://open.spotify.com/track/5uru01hwqZY2v2mu3eMMmU"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185400,
       "name": "Dentro c'\u00e8 il mare",
       "url": "https://open.spotify.com/track/2tv7NEqYF2SwlJrgfuaWYx"
@@ -683,6 +701,24 @@
       "duration_ms": 234857,
       "name": "Dopo di te",
       "url": "https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE"
+    },
+    {
+      "album": {
+        "name": "DPCM",
+        "url": "https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144686,
+      "name": "DPCM",
+      "url": "https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM"
     },
     {
       "album": {
@@ -997,7 +1033,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 136240,
       "name": "Kubrick a gela",
       "url": "https://open.spotify.com/track/0CyeNX6CdmlR52K2SMKUAa"
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 213284,
       "name": "NEMICO PUBBLICO",
       "url": "https://open.spotify.com/track/2CxTnx4oMR9085kEpCrTKU"
@@ -1510,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Non ci credo che ti penso ancora",
+        "url": "https://open.spotify.com/album/6PIzJhvykPulWFW1Z5HcbL"
+      },
+      "artists": [
+        {
+          "name": "xDiemondx",
+          "url": "https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141071,
+      "name": "Non ci credo che ti penso ancora",
+      "url": "https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B"
+    },
+    {
+      "album": {
         "name": "Non imparo mai",
         "url": "https://open.spotify.com/album/7rKE1oS8ui351iS0y75EjJ"
       },
@@ -1601,6 +1655,32 @@
       "duration_ms": 126201,
       "name": "Novembre Freestyle",
       "url": "https://open.spotify.com/track/6RVj3jhib9YeyCyrvIeY3Q"
+    },
+    {
+      "album": {
+        "name": "L\u2019industria, il pop, la camera, il sesso",
+        "url": "https://open.spotify.com/album/5eI8V3EE321knkysf7pkPH"
+      },
+      "artists": [
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
+        },
+        {
+          "name": "Lucky lapolo",
+          "url": "https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123250,
+      "name": "Per difetto della crescita",
+      "url": "https://open.spotify.com/track/6vkDQEKmEvSQy2oGwRN4hH"
     },
     {
       "album": {
@@ -1705,7 +1785,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 311368,
       "name": "Quando",
       "url": "https://open.spotify.com/track/74ksYBVr5TRuWOcfiv9yk9"
@@ -1727,6 +1807,24 @@
       "duration_ms": 184058,
       "name": "quattro",
       "url": "https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61"
+    },
+    {
+      "album": {
+        "name": "Tutti ammassati senza affetto",
+        "url": "https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH"
+      },
+      "artists": [
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Quattro pareti",
+      "url": "https://open.spotify.com/track/7COhIpIAija8bWiHXp7MYu"
     },
     {
       "album": {
@@ -1807,10 +1905,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 206103,
       "name": "RICCI",
       "url": "https://open.spotify.com/track/5t7YErUpV2VUm2xNHJlx5Z"
+    },
+    {
+      "album": {
+        "name": "risveglio",
+        "url": "https://open.spotify.com/album/5URmMFHRSSz0VkAQ676C12"
+      },
+      "artists": [
+        {
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243866,
+      "name": "risveglio",
+      "url": "https://open.spotify.com/track/1Ag3vPKeWC7UPdE0Cjp1tL"
     },
     {
       "album": {
@@ -2064,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Specchi Sporchi",
+        "url": "https://open.spotify.com/album/4QSybDIKqCGjxxMvvf5CId"
+      },
+      "artists": [
+        {
+          "name": "Nane'",
+          "url": "https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170985,
+      "name": "Specchi Sporchi",
+      "url": "https://open.spotify.com/track/6nXjlXPeuidNoahUQfCsUu"
+    },
+    {
+      "album": {
         "name": "Spero di Star Male",
         "url": "https://open.spotify.com/album/16bT7x95aKRXsjyrQ8iFBB"
       },
@@ -2093,7 +2227,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 145641,
       "name": "Spunta Blu",
       "url": "https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc"
@@ -2115,6 +2249,32 @@
       "duration_ms": 202857,
       "name": "Stanza",
       "url": "https://open.spotify.com/track/4QVuyHk02vOLADPMWCmqKc"
+    },
+    {
+      "album": {
+        "name": "STARS ALIGN",
+        "url": "https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6"
+      },
+      "artists": [
+        {
+          "name": "FKA 059",
+          "url": "https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY"
+        },
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        },
+        {
+          "name": "Aaron Rumore",
+          "url": "https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153580,
+      "name": "STARS ALIGN",
+      "url": "https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB"
     },
     {
       "album": {
@@ -2242,6 +2402,24 @@
     },
     {
       "album": {
+        "name": "Trappole",
+        "url": "https://open.spotify.com/album/4z0IbTTSBwCx7DgmaLb4Xs"
+      },
+      "artists": [
+        {
+          "name": "CASEMURATE",
+          "url": "https://open.spotify.com/artist/0XW9hp8oaDssenWWFn75NM"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166312,
+      "name": "Trappole",
+      "url": "https://open.spotify.com/track/2qq83QNNMoSkhvysXSzk5Z"
+    },
+    {
+      "album": {
         "name": "tre del mattino",
         "url": "https://open.spotify.com/album/7lZqqQEAjinqJEfkuXZ7Ry"
       },
@@ -2261,6 +2439,24 @@
       "duration_ms": 192631,
       "name": "tre del mattino",
       "url": "https://open.spotify.com/track/5JBJweytMZUsriXUWCXb6D"
+    },
+    {
+      "album": {
+        "name": "Buio dentro",
+        "url": "https://open.spotify.com/album/6GF2UYv4I2PXK0sj6NYkIU"
+      },
+      "artists": [
+        {
+          "name": "francesca moretti",
+          "url": "https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169819,
+      "name": "Tre di notte",
+      "url": "https://open.spotify.com/track/4uAO5HzFUtjaiqEn6BFKIO"
     },
     {
       "album": {
@@ -2297,7 +2493,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 168083,
       "name": "Tu Sei (feat. Masamasa)",
       "url": "https://open.spotify.com/track/1TCTy62QZffhcBkImGRs7l"
@@ -2319,6 +2515,28 @@
       "duration_ms": 133542,
       "name": "Tutto da prendere",
       "url": "https://open.spotify.com/track/2xQxcqomBDMRjOMeENJ0Df"
+    },
+    {
+      "album": {
+        "name": "DROP.02",
+        "url": "https://open.spotify.com/album/4gWqsqqBq4veVq35GJO7OE"
+      },
+      "artists": [
+        {
+          "name": "Collettivo HMCF",
+          "url": "https://open.spotify.com/artist/7tHM6vqXaYJ8T0WK0i0hS7"
+        },
+        {
+          "name": "fleurmicol",
+          "url": "https://open.spotify.com/artist/3pkpv5wdvjKWcS8NaN6DQ0"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "tutto e niente",
+      "url": "https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb"
     },
     {
       "album": {
@@ -2539,7 +2757,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 153125,
       "name": "WA MA",
       "url": "https://open.spotify.com/track/1JVcz6FDGNIXMbRiLHJb7o"

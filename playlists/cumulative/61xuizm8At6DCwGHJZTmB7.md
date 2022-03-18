@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### [Easter Worship 2022](https://open.spotify.com/playlist/61rl5qI4ePAsxAfSQSGtk9)
+### [Easter Worship 2022](https://open.spotify.com/playlist/1ljbyBPquPF68hV49Fea2h)
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 

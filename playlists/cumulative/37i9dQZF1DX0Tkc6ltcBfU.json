@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 145000,
       "name": "Best End",
       "url": "https://open.spotify.com/track/2y7qBvh9NqMRdQrLICIsiC"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 236799,
       "name": "Not For Nothing (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 152450,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 210142,
       "name": "Push It (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy"
@@ -2307,6 +2307,24 @@
       "duration_ms": 114319,
       "name": "Ready For It",
       "url": "https://open.spotify.com/track/2pC66xqZv1tKwEyUcRIdXj"
+    },
+    {
+      "album": {
+        "name": "Real As It Gets",
+        "url": "https://open.spotify.com/album/59uB7zCwYHEpD7nDOdbL7s"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195528,
+      "name": "Real As It Gets",
+      "url": "https://open.spotify.com/track/2tiRmNWhtWKmnzaoYBYJSs"
     },
     {
       "album": {
@@ -2448,6 +2466,24 @@
     },
     {
       "album": {
+        "name": "Mr. Crawford Teaser",
+        "url": "https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176697,
+      "name": "Shackles to Diamonds",
+      "url": "https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY"
+    },
+    {
+      "album": {
         "name": "Truth Season: The United Streets of America",
         "url": "https://open.spotify.com/album/2fdB12wI8rq06FOkwz2YRc"
       },
@@ -2551,7 +2587,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 232873,
       "name": "Sl*t Him Out Again (feat. Kali)",
       "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
@@ -2627,6 +2663,28 @@
       "duration_ms": 138508,
       "name": "Southside of the Moon",
       "url": "https://open.spotify.com/track/2HAQFYghYwBx2nX4JKvLbX"
+    },
+    {
+      "album": {
+        "name": "Speeding Fast (with CEO Trayle)",
+        "url": "https://open.spotify.com/album/6C3svFgG2yUUVnEvKP9EBg"
+      },
+      "artists": [
+        {
+          "name": "Lil PJ",
+          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
+        },
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141839,
+      "name": "Speeding Fast (with CEO Trayle)",
+      "url": "https://open.spotify.com/track/49ei6pRCbVMcaH1ko0daxd"
     },
     {
       "album": {
@@ -2879,6 +2937,24 @@
       "duration_ms": 146720,
       "name": "Threat (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6MX0kAiiEKVU68F9IIuofQ"
+    },
+    {
+      "album": {
+        "name": "Times Up",
+        "url": "https://open.spotify.com/album/7wi0hfacPZ009kEBB5WJTO"
+      },
+      "artists": [
+        {
+          "name": "Dee Watkins",
+          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Times Up",
+      "url": "https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Rema
+> Feel\-good Afropop from Europe and Africa\. Cover: 1da Banton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-12-27 | 2022-01-14 |
 | [Cœur de pirate](https://open.spotify.com/track/6EGBu77U6DUhYvdHyuo0c8) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW) | [Cœur de pirate](https://open.spotify.com/album/5RUwe2anLtGitvrIdf7AEk) | 6:05 | 2021-12-27 | 2022-02-04 |
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-27 |  |
+| [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-03-17 |  |
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2021-12-27 | 2022-03-11 |
 | [Dis moi comment.](https://open.spotify.com/track/5ParQEysjL0XuA8a4h32KU) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis moi comment.](https://open.spotify.com/album/0BN0n7HO14VvZqwGGkxPyD) | 3:31 | 2021-12-27 | 2022-01-07 |
 | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD) | 2:58 | 2022-01-06 |  |
@@ -66,7 +67,9 @@
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-12-27 | 2022-02-04 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-03-10 |  |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-12-27 | 2022-03-11 |
+| [Mode avion](https://open.spotify.com/track/6DjeGFjPNckOV6te8un5b5) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [L'amour change le monde](https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9) | 3:25 | 2022-03-17 |  |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-12-27 |  |
+| [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-03-17 |  |
 | [Mélodie](https://open.spotify.com/track/2kDTpQZdRcBVNXJVyVePAy) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [O'bosso, Vol\. 2 \(Afro Swing Don Edition\)](https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH) | 2:49 | 2022-03-10 | 2022-03-16 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-10 |  |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-01-13 |  |

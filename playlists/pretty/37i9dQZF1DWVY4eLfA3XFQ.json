@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians. Cover: FISHER, Shermanology",
-  "num_followers": 541805,
+  "num_followers": 541984,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzIwNTYwMywwMDAwMDEwNzAwMDAwMTdmODUxYWQ5ZjcwMDAwMDE3ZjdhMWQxYzVh",
+  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDEwODAwMDAwMTdmOWIyZWE2ZGMwMDAwMDE3ZjdhMWQxYzVh",
   "tracks": [
     {
       "added_at": "2022-03-11 18:48:28",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3tqNGEZdCA5ZyLxquLoxBY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Mi Coraz\u00f3n",
@@ -75,22 +95,6 @@
       "duration_ms": 187619,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
-    },
-    {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 188220,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
     },
     {
       "added_at": "2022-02-04 17:19:00",
@@ -141,6 +145,22 @@
       "url": "https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
+    },
+    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "Chase The Ace EP",
@@ -173,6 +193,22 @@
       "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "What Is Real",
+        "url": "https://open.spotify.com/album/2pL4x0XFNmafXgBEUJNKMu"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "What Is Real",
+      "url": "https://open.spotify.com/track/2J9waSY5wkVPmQRyqLeQXd"
+    },
+    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "Synchronize",
@@ -187,6 +223,38 @@
       "duration_ms": 224761,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/4hTCMB2JXvKvWDxjoye7xI"
+    },
+    {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 188220,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "The Beat Goes",
+        "url": "https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "duration_ms": 189523,
+      "name": "The Beat Goes",
+      "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
     },
     {
       "added_at": "2022-02-18 17:51:41",
@@ -225,6 +293,26 @@
       "url": "https://open.spotify.com/track/76zmS8kgCt3bT3DCCQNVjb"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1AoOfbqM1tovUJjWL6kArz"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/2bf7wxuRxN2tkNoPH7z1an"
+    },
+    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Nothing Gonna Stop This",
@@ -259,6 +347,22 @@
       "duration_ms": 230551,
       "name": "GRUUV",
       "url": "https://open.spotify.com/track/6iwUBX2iTWRjHtBAGdqS0M"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "El Cuervo",
+        "url": "https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 188967,
+      "name": "El Cuervo",
+      "url": "https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi"
     },
     {
       "added_at": "2022-01-14 11:21:00",
@@ -461,6 +565,22 @@
       "url": "https://open.spotify.com/track/4vwajBdOuPfSEX2BYDfRfO"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/0ALkzsCCxmosDghNFVUwKi"
+      },
+      "artists": [
+        {
+          "name": "SWAYL\u00d3",
+          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/0w1CYzpY8dFwV9oLPKIh6L"
+    },
+    {
       "added_at": "2022-02-04 17:19:00",
       "album": {
         "name": "Say Yeah",
@@ -637,6 +757,26 @@
       "url": "https://open.spotify.com/track/4CPYC9DggpZj3X4GcCFNIO"
     },
     {
+      "added_at": "2022-03-11 18:48:28",
+      "album": {
+        "name": "Spotlight (feat. Sarah Ikumu)",
+        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
+      },
+      "artists": [
+        {
+          "name": "S.A.M.",
+          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+        }
+      ],
+      "duration_ms": 175475,
+      "name": "Spotlight (feat. Sarah Ikumu)",
+      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
       "added_at": "2022-02-04 17:19:00",
       "album": {
         "name": "Somebody To Love (Gorgon City Remix)",
@@ -705,6 +845,22 @@
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/08Hix0GPUQvDIG6OIbsPzG"
+      },
+      "artists": [
+        {
+          "name": "Damaged Goods",
+          "url": "https://open.spotify.com/artist/0txPKco59Ikf29in2CeuEC"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/1DZYMshZpDtQMD4usiruLe"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Bubblin",
@@ -751,26 +907,6 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2022-03-11 18:48:28",
-      "album": {
-        "name": "Spotlight (feat. Sarah Ikumu)",
-        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
-      },
-      "artists": [
-        {
-          "name": "S.A.M.",
-          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
-        },
-        {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
-        }
-      ],
-      "duration_ms": 175475,
-      "name": "Spotlight (feat. Sarah Ikumu)",
-      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -1317,22 +1453,6 @@
       "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
     },
     {
-      "added_at": "2021-12-10 19:01:14",
-      "album": {
-        "name": "Feel Alright",
-        "url": "https://open.spotify.com/album/0jG6Tk4t2gednfqtBshojG"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 213543,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/6tcAIvGYzQP9dVb28BjANR"
-    },
-    {
       "added_at": "2021-11-26 14:57:55",
       "album": {
         "name": "Jump Around",
@@ -1571,6 +1691,22 @@
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+    },
+    {
+      "added_at": "2021-12-10 19:01:14",
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/0jG6Tk4t2gednfqtBshojG"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 213543,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/6tcAIvGYzQP9dVb28BjANR"
     },
     {
       "added_at": "2021-11-26 14:57:55",
@@ -1923,34 +2059,6 @@
     {
       "added_at": "2021-11-26 14:57:55",
       "album": {
-        "name": "Whisper (with James Yuill) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        },
-        {
-          "name": "James Yuill",
-          "url": "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Whisper (with James Yuill) - John Summit Remix",
-      "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
       },
@@ -2023,22 +2131,6 @@
       "duration_ms": 169133,
       "name": "Groove La Afrika",
       "url": "https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/17xCmo0ONouJXPuRzZBVFi"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 191457,
-      "name": "Into The Groove",
-      "url": "https://open.spotify.com/track/2DGZwPbTxiiWB8gESqpdpi"
     },
     {
       "added_at": "2021-11-26 14:57:55",
@@ -2155,50 +2247,6 @@
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "How I Feel (Biscits Remix)",
-        "url": "https://open.spotify.com/album/0ZmqEnBXsFT4y8J1nPIA4u"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "How I Feel - Biscits Remix",
-      "url": "https://open.spotify.com/track/475B0rNgiaycpb5tS8fjzP"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/3M5B7azVVzoKyyvRRpeuUx"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 143536,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/60IqofOzB6pugAP0kOFFmX"
     },
     {
       "added_at": "2021-11-26 14:57:55",

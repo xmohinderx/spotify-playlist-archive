@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/053CrHZvP78gwvw2hcy9lC"
+      },
+      "artists": [
+        {
+          "name": "fast and sea",
+          "url": "https://open.spotify.com/artist/0OZB4MfWAHgZvTSuYvzUu1"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3laOoR0JIzPzpuxYb8FATY"
+    },
+    {
+      "album": {
         "name": "Austafjord / Lake Huron",
         "url": "https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa"
       },
@@ -5265,6 +5283,24 @@
       "duration_ms": 226202,
       "name": "In sight",
       "url": "https://open.spotify.com/track/24SxtJm0vTYx3IbrjMZoUI"
+    },
+    {
+      "album": {
+        "name": "In Solitude",
+        "url": "https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6"
+      },
+      "artists": [
+        {
+          "name": "Restorative",
+          "url": "https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "In Solitude",
+      "url": "https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71"
     },
     {
       "album": {

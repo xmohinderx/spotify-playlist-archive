@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: LANDMVRKS, Chunk! No, Captain Chunk!",
+  "description": "This is the new core at its finest. Cover: Motionless In White",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "All Of Us",
+        "url": "https://open.spotify.com/album/5uy1loJEmbo6aRXp4ylNi9"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238667,
+      "name": "All Of Us",
+      "url": "https://open.spotify.com/track/710DVlWcrmDX9I5AcZ9k4p"
+    },
+    {
+      "album": {
         "name": "Degrader",
         "url": "https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 252533,
       "name": "Antipathy",
       "url": "https://open.spotify.com/track/5P7QFVkK4kSlS32Ue1JaOe"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 180933,
       "name": "Crossed",
       "url": "https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 205928,
       "name": "Di-sinTer",
       "url": "https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 292963,
       "name": "Dimorphous Display",
       "url": "https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM"
@@ -1060,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "F.E.A.R.",
+        "url": "https://open.spotify.com/album/4nVkCZ2krbppx1bBPTIw4m"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193150,
+      "name": "F.E.A.R.",
+      "url": "https://open.spotify.com/track/6WTPZHBPKc5TPargwge0CG"
+    },
+    {
+      "album": {
         "name": "Fail Me",
         "url": "https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl"
       },
@@ -1079,6 +1115,28 @@
       "duration_ms": 179201,
       "name": "Fail Me",
       "url": "https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V"
+    },
+    {
+      "album": {
+        "name": "False Providence (feat. Mick Gordon)",
+        "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301640,
+      "name": "False Providence (feat. Mick Gordon)",
+      "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
     },
     {
       "album": {
@@ -1173,7 +1231,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 204631,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC"
@@ -1199,6 +1257,24 @@
       "duration_ms": 205246,
       "name": "Gimme Danger",
       "url": "https://open.spotify.com/track/2MPcAxH9maeDEbMmLAp51U"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/2FMleFsxXqydAJMgf01680"
+      },
+      "artists": [
+        {
+          "name": "Breathe Atlantis",
+          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239413,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/43GhjzAAnwmYtbOBqAjpb3"
     },
     {
       "album": {
@@ -1289,7 +1365,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 217000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3"
@@ -1682,6 +1758,28 @@
     },
     {
       "album": {
+        "name": "Alternate Realities",
+        "url": "https://open.spotify.com/album/71Lcm9f08c9QDz7beKpp43"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.O.",
+          "url": "https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi"
+        },
+        {
+          "name": "Melissa Bonny",
+          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
       },
@@ -1729,7 +1827,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 203906,
       "name": "No Vacancy",
       "url": "https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG"
@@ -1837,7 +1935,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 218179,
       "name": "Overthrown",
       "url": "https://open.spotify.com/track/6PR8h4YuG6DmBlE7MEalYD"
@@ -1855,7 +1953,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 216883,
       "name": "Pale Tongue",
       "url": "https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc"
@@ -1989,6 +2087,24 @@
       "duration_ms": 192508,
       "name": "Reflection, Pt. 3",
       "url": "https://open.spotify.com/track/3kQZMbUfSuqPBPYNQyvVB4"
+    },
+    {
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/6CK1Dz5AfmgecgPtPyoaKL"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222849,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0tm8cNgXGRRwPur5q8qdUg"
     },
     {
       "album": {
@@ -2208,6 +2324,24 @@
     },
     {
       "album": {
+        "name": "ERRA (Deluxe)",
+        "url": "https://open.spotify.com/album/76qhDcjWn2hw3Ig0NtX189"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243902,
+      "name": "Sol Absentia",
+      "url": "https://open.spotify.com/track/048bNBLjuitoM1LUbuoquz"
+    },
+    {
+      "album": {
         "name": "SOMEONE ELSE",
         "url": "https://open.spotify.com/album/77UuardHSldSzZApqo95tt"
       },
@@ -2385,7 +2519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 243821,
       "name": "Susi",
       "url": "https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs"
@@ -2551,7 +2685,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 217000,
       "name": "The Line",
       "url": "https://open.spotify.com/track/6z0oVHUpCffd17PnC4uJEn"
@@ -2609,7 +2743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 224240,
       "name": "The Realm of Chaos (feat. Heidi Shepherd)",
       "url": "https://open.spotify.com/track/2kP5P0M1V8IQnNBkWYzXgM"

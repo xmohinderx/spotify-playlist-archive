@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 148750,
       "name": "6 For 6",
       "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 208490,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2UbJfiDUgTdUqQbSn9B7fQ"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 213626,
       "name": "Aussie Freaks (feat. ONEFOUR & Fivio Foreign)",
       "url": "https://open.spotify.com/track/6ow2CqeDpH5gJPZlLKIZDU"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 153964,
       "name": "Being Honest",
       "url": "https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 191830,
       "name": "Breaks & Caddy's (Street Guide Part 02)",
       "url": "https://open.spotify.com/track/4YC2J92Gbyp0nmQ4e1bVzu"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 150449,
       "name": "Brush Em (feat. Rah Swish)",
       "url": "https://open.spotify.com/track/3MmvQKMKdN3UhVS3eGzJIW"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 153425,
       "name": "Casa",
       "url": "https://open.spotify.com/track/5rYX6uGGhwRBRseSGosoR8"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 178622,
       "name": "Come Find Us (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/39DkBbAHVCt14lmrIIITyu"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 204805,
       "name": "Demons (feat. Fivio Foreign & Sosa Geek)",
       "url": "https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 174857,
       "name": "DFA",
       "url": "https://open.spotify.com/track/7uzseg5ubkERYPPMBKR24q"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 146972,
       "name": "Different",
       "url": "https://open.spotify.com/track/15xfk8vQvVttTlh3tZn6db"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 123431,
       "name": "Don't Front Freestyle",
       "url": "https://open.spotify.com/track/2uHc5uk6IzK94SPq3GKUqi"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/12D0n7hKpPcjuUpcbAKjjr"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 194542,
       "name": "Don't Start Pt. 2",
       "url": "https://open.spotify.com/track/6ii1sSnxhJL0wX9lkRaeB3"
@@ -1251,10 +1251,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 294381,
       "name": "Drive the Boat",
       "url": "https://open.spotify.com/track/48iweZVWP1Qpdj7zFB00gS"
+    },
+    {
+      "album": {
+        "name": "Pier Pressure",
+        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166767,
+      "name": "Early Hours",
+      "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
     },
     {
       "album": {
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 108182,
       "name": "Fa Real, Fa Real",
       "url": "https://open.spotify.com/track/69iJlSP5mew6cao03fohol"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 197455,
       "name": "Forever Been Steppin'",
       "url": "https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 190812,
       "name": "G Lock",
       "url": "https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 204500,
       "name": "Glance (feat. 22Gz)",
       "url": "https://open.spotify.com/track/0ttRdWbwwSAqkYP8SM4kIP"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 134284,
       "name": "GRIME",
       "url": "https://open.spotify.com/track/2mjPCVy1cMsSF2Gn7bIEEn"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 201639,
       "name": "How You Every O Shot ?",
       "url": "https://open.spotify.com/track/1vqbMsvYzRfkrwVrE7Zsw1"
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 134530,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185419,
       "name": "K Lo K (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/3TlrDcdC7ydI8mto84R1GW"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 194366,
       "name": "K.O.D (King Of Drill)",
       "url": "https://open.spotify.com/track/0UaVFAflNQlEIHwszG8nnI"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 137437,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/0z5V1vTA1R3M3FPCimYphr"
@@ -2205,10 +2223,32 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 152432,
       "name": "M24 x Fumez the Engineer - Plugged In",
       "url": "https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU"
+    },
+    {
+      "album": {
+        "name": "Magic City (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158771,
+      "name": "Magic City (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih"
     },
     {
       "album": {
@@ -2315,7 +2355,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 175774,
       "name": "Move Like a Boss (feat. Young M.A)",
       "url": "https://open.spotify.com/track/3T3SeUjR8NhTzSE3NSDxkK"
@@ -2337,7 +2377,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 174545,
       "name": "Movie",
       "url": "https://open.spotify.com/track/4tzvbB3aj3NE6h6a8hsOZJ"
@@ -2359,7 +2399,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 171692,
       "name": "My City",
       "url": "https://open.spotify.com/track/6d9nkLaLMZFHAUtxLH7tlK"
@@ -2581,7 +2621,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 211833,
       "name": "Off the Yak",
       "url": "https://open.spotify.com/track/5WZKlDPxVvD6QoGVqASJyy"
@@ -2625,7 +2665,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 190449,
       "name": "On a Mission (feat. Dread Woo)",
       "url": "https://open.spotify.com/track/3wE59njT0RnpiNFbvLc88A"
@@ -2643,7 +2683,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 179534,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
@@ -2925,7 +2965,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 186373,
       "name": "Racin' (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/6s4E8J1rtwsztOEPCLfSYr"
@@ -3005,7 +3045,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 165485,
       "name": "Rock Wit Proph",
       "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
@@ -3059,7 +3099,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 146021,
       "name": "RUMBLE",
       "url": "https://open.spotify.com/track/1Emg2PWprZxWACEgw3Rn0J"
@@ -3319,7 +3359,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 178413,
       "name": "Straight To It (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
@@ -3409,7 +3449,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 180015,
       "name": "That's A Fact",
       "url": "https://open.spotify.com/track/1tXncn8RYWcTfX5dJoYQG4"
@@ -3453,7 +3493,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 170682,
       "name": "Theme Song",
       "url": "https://open.spotify.com/track/64WkyOojJL0tmqnmN0s3sp"
@@ -3655,7 +3695,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 235009,
       "name": "Wetty",
       "url": "https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG"

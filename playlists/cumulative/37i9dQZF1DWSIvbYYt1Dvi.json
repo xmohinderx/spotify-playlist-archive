@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "poesia 12 \u00e9 AULAS",
+  "description": "salvador, pz, ryan sp e bielzin \u00e9 AULAS",
   "name": "AULAS",
   "published_playlist_ids": [
     "2GpYMlHQWhJaqR9gXTSMkt"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 274323,
       "name": "5AM",
       "url": "https://open.spotify.com/track/49PonczSLhra0DxsSdSxq8"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164000,
       "name": "777-666",
       "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Fatia do Bolo",
+        "url": "https://open.spotify.com/album/35AqGcnqtTdNNKAxouEcRd"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152016,
+      "name": "Fatia do Bolo",
+      "url": "https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es"
+    },
+    {
+      "album": {
         "name": "Universo Particular",
         "url": "https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev"
       },
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164571,
       "name": "Groupies",
       "url": "https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT"
@@ -974,6 +992,28 @@
     },
     {
       "album": {
+        "name": "Outro Patamar",
+        "url": "https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Outro Patamar",
+      "url": "https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP"
+    },
+    {
+      "album": {
         "name": "Parabellum",
         "url": "https://open.spotify.com/album/1shheX7krP1YOK6KiMLcZe"
       },
@@ -997,6 +1037,36 @@
       "duration_ms": 133636,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/3CPWSSuZpNlvIrQ4uFiBld"
+    },
+    {
+      "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "album": {

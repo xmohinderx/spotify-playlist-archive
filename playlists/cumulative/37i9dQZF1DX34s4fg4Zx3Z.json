@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 c\u00e1c b\u00e0i h\u00e1t \u0111\u00e1ng nghe \ud83d\udd25 t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft \u2728. \u1ea2nh b\u00eca: MAI; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 c\u00e1c b\u00e0i h\u00e1t \u0111\u00e1ng nghe t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: V\u0169 Thanh V\u00e2n; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "published_playlist_ids": [
     "11aHcAYmUYTKlrRmUuqYoO"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "B A B Y B O O",
+        "url": "https://open.spotify.com/album/0nJkYgpER1LQuSnppLKOzZ"
+      },
+      "artists": [
+        {
+          "name": "Traang",
+          "url": "https://open.spotify.com/artist/2OTl1gQWIVgQTBm0v6Ut51"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "B A B Y B O O",
+      "url": "https://open.spotify.com/track/78r5FdPLQW2w2uFeU3rTeH"
+    },
+    {
+      "album": {
         "name": "BAD",
         "url": "https://open.spotify.com/album/0T97AmGE4MIu2gFhl7QqWF"
       },
@@ -453,6 +471,28 @@
       "duration_ms": 209754,
       "name": "B\u00ean Em Tonight",
       "url": "https://open.spotify.com/track/2XUTyMSpJFRIwSzk8LQ4NY"
+    },
+    {
+      "album": {
+        "name": "B\u1eadn Than V\u1edbi B\u1ea1n Th\u00e2n (feat. Minh Trang)",
+        "url": "https://open.spotify.com/album/6qJbKzYWgKUqlxw6FK3AbE"
+      },
+      "artists": [
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh"
+        },
+        {
+          "name": "Minh Trang",
+          "url": "https://open.spotify.com/artist/6WasoKpQ0fKRA4cTF8qj4n"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154963,
+      "name": "B\u1eadn Than V\u1edbi B\u1ea1n Th\u00e2n (feat. Minh Trang)",
+      "url": "https://open.spotify.com/track/3Vq9NIyCBuyVGhugwFkivR"
     },
     {
       "album": {
@@ -1317,7 +1357,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 227838,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/6iPyfwgB9SHmJreTPlRGJ6"
@@ -1335,7 +1375,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 256303,
       "name": "Forehead / L\u00ean M\u00e2m",
       "url": "https://open.spotify.com/track/2ETrUTZx9SOfJtSMl7KP6U"
@@ -2145,7 +2185,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 214285,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w"
@@ -2189,6 +2229,28 @@
       "duration_ms": 203538,
       "name": "L\u00e0 th\u1edd \u00edch th\u00edch l\u00e0 th\u1edd \u01b0\u01a1ng th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/4WQRt4T3OJ7AghHSIJcP43"
+    },
+    {
+      "album": {
+        "name": "L\u00e2u D\u00e0i",
+        "url": "https://open.spotify.com/album/6O5VXuXt4Gs6a9SCLVhVVj"
+      },
+      "artists": [
+        {
+          "name": "Ran",
+          "url": "https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps"
+        },
+        {
+          "name": "CM1X",
+          "url": "https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214382,
+      "name": "L\u00e2u D\u00e0i",
+      "url": "https://open.spotify.com/track/404A11MWMyusDhcES8QNTm"
     },
     {
       "album": {
@@ -2298,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "MISSING YOU",
+        "url": "https://open.spotify.com/album/2kbQoFdim1FkDLtPOxUU1T"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 Thanh V\u00e2n",
+          "url": "https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243627,
+      "name": "MISSING YOU",
+      "url": "https://open.spotify.com/track/5JnYzzZH34K66CftX5223m"
+    },
+    {
+      "album": {
         "name": "Mong",
         "url": "https://open.spotify.com/album/7Gmg0BRGvR4vPrqhWjz8Mm"
       },
@@ -2331,7 +2411,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 219578,
       "name": "Muon va Can",
       "url": "https://open.spotify.com/track/6LxjlcitIR9Mmi3n0w0W9Y"
@@ -2502,6 +2582,24 @@
     },
     {
       "album": {
+        "name": "Ng\u00e0y \u0110\u01a1n Gi\u1ea3n",
+        "url": "https://open.spotify.com/album/5VYBJ4ZA7t3DsTtm4UiBby"
+      },
+      "artists": [
+        {
+          "name": "Linh Th\u1ed9n",
+          "url": "https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Ng\u00e0y \u0110\u01a1n Gi\u1ea3n",
+      "url": "https://open.spotify.com/track/3ndI0QxYn0BTMwQieWAiTb"
+    },
+    {
+      "album": {
         "name": "Ng\u01b0\u1eddi M\u00ecnh Th\u01b0\u01a1ng Th\u00e0nh Ng\u01b0\u1eddi T\u1eebng Th\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/5mXUg02AvvrelVgQEOqFeT"
       },
@@ -2615,7 +2713,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 212347,
       "name": "Nh\u1ea7m To R\u1ed3i \u0110\u1ea5y",
       "url": "https://open.spotify.com/track/3IRMnNVRLEzCQ6XQ6gz6JO"
@@ -2804,6 +2902,24 @@
     },
     {
       "album": {
+        "name": "N\u1ee5 c\u01b0\u1eddi tr\u00ean t\u00e0u \u0111i\u1ec7n",
+        "url": "https://open.spotify.com/album/747Nlx8InNcM6SaFBwjlRS"
+      },
+      "artists": [
+        {
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "N\u1ee5 c\u01b0\u1eddi tr\u00ean t\u00e0u \u0111i\u1ec7n",
+      "url": "https://open.spotify.com/track/4IkP4m7CrKPMKPUsBeRP9y"
+    },
+    {
+      "album": {
         "name": "PEACH 2",
         "url": "https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ"
       },
@@ -2985,6 +3101,24 @@
       "duration_ms": 185156,
       "name": "Precious - Cukak Remix",
       "url": "https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i"
+    },
+    {
+      "album": {
+        "name": "qu\u00e1 tr\u1ec5 quay \u0111\u1ea7u",
+        "url": "https://open.spotify.com/album/4li7OYvGQ9E4pmPS3SDor3"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194298,
+      "name": "qu\u00e1 tr\u1ec5 quay \u0111\u1ea7u",
+      "url": "https://open.spotify.com/track/4AC5YHWwddN4gPlpSR0BaZ"
     },
     {
       "album": {
@@ -3261,7 +3395,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 192000,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JM1GItPD8ZH5vdMem75qC"
@@ -3583,6 +3717,28 @@
       "duration_ms": 210000,
       "name": "TOURIST",
       "url": "https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24"
+    },
+    {
+      "album": {
+        "name": "Trong \u0110\u00f3 C\u00f3 Ch\u00fang Ta",
+        "url": "https://open.spotify.com/album/1KS5QZYvBNpIAu5Ffv1mWl"
+      },
+      "artists": [
+        {
+          "name": "BAE Kh\u00e1nh Huy\u1ec1n",
+          "url": "https://open.spotify.com/artist/5Zn9xxkS6TJ92WrF8yHG1Q"
+        },
+        {
+          "name": "BAE quynhanh",
+          "url": "https://open.spotify.com/artist/0SqMQf7FwNMLAODCLYbMK2"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210256,
+      "name": "Trong \u0110\u00f3 C\u00f3 Ch\u00fang Ta",
+      "url": "https://open.spotify.com/track/1fAnSaNVThueS3Ur6icOXM"
     },
     {
       "album": {
@@ -4253,7 +4409,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 198399,
       "name": "\u0110\u00f4ng M\u1edd Phai Tr\u00ean B\u1edd Vai",
       "url": "https://open.spotify.com/track/01Ta8m4osrCItbtunaqdhe"

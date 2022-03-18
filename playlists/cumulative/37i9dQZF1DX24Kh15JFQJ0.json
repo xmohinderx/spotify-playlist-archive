@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "The Art of Dreaming",
+        "url": "https://open.spotify.com/album/4S6jHcky7OZ13AFsf02kCy"
+      },
+      "artists": [
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/6gRPUax22F32VxOHu1PPWy"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass",
         "url": "https://open.spotify.com/album/5b0Mp58evan3vlGpv7cdgy"
       },

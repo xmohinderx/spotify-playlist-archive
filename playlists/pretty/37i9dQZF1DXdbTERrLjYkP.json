@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lexi Jayde",
-  "num_followers": 54684,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Peter McPoland",
+  "num_followers": 54679,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDA0ODAwMDAwMTdmNzc1YWU1Y2UwMDAwMDE3ZjZmODIxYWNl",
+  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDA0OTAwMDAwMTdmOWIyZWE2YzYwMDAwMDE3Zjk5YjgyZjMw",
   "tracks": [
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Let Her Remember",
+        "url": "https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Let Her Remember",
+      "url": "https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "WYD Now?",
+        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "WYD Now?",
+      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Forward / Slash",
+        "url": "https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi"
+      },
+      "artists": [
+        {
+          "name": "Leanna Firestone",
+          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+        }
+      ],
+      "duration_ms": 263541,
+      "name": "Google Translate / poppies",
+      "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Since I Met You",
+        "url": "https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Since I Met You",
+      "url": "https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW"
+    },
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
@@ -41,6 +105,38 @@
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "I Wanna Be a Boy",
+        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "I Wanna Be a Boy",
+      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 169765,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "we're all sad here",
@@ -55,6 +151,54 @@
       "duration_ms": 203470,
       "name": "life, im over you",
       "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "that was quick!",
+        "url": "https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 166391,
+      "name": "that was quick!",
+      "url": "https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -89,36 +233,20 @@
       "url": "https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Forward / Slash",
-        "url": "https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi"
+        "name": "Surround Me",
+        "url": "https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW"
       },
       "artists": [
         {
-          "name": "Leanna Firestone",
-          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
         }
       ],
-      "duration_ms": 263541,
-      "name": "Google Translate / poppies",
-      "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Mr. Forgettable",
-        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Mr. Forgettable",
-      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
+      "duration_ms": 217869,
+      "name": "Surround Me",
+      "url": "https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -135,6 +263,54 @@
       "duration_ms": 174533,
       "name": "mood ring",
       "url": "https://open.spotify.com/track/5sHctjVx9Z4Qj5gyB8q7kT"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "volkswagens",
+        "url": "https://open.spotify.com/album/5lleMb5RdpoSGN8uGaOzYq"
+      },
+      "artists": [
+        {
+          "name": "dora.",
+          "url": "https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB"
+        }
+      ],
+      "duration_ms": 160568,
+      "name": "volkswagens",
+      "url": "https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "All Our Friends Are Splitting Up",
+      "url": "https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -167,54 +343,6 @@
       "duration_ms": 207272,
       "name": "Seen",
       "url": "https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "WYD Now?",
-        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "WYD Now?",
-      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Love You More",
-        "url": "https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 169765,
-      "name": "Love You More",
-      "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -301,20 +429,20 @@
       "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "And I'm Still Thinking About That",
-        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z"
       },
       "artists": [
         {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Same Effect",
-      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
+      "duration_ms": 177266,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD"
     },
     {
       "added_at": "2022-02-16 04:47:00",
@@ -331,6 +459,22 @@
       "duration_ms": 198607,
       "name": "Teenage Mona Lisa",
       "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "And I'm Still Thinking About That",
+        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Same Effect",
+      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -413,20 +557,20 @@
       "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "I Wanna Be a Boy",
-        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
+        "name": "Who Do You Pray To?",
+        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
       "artists": [
         {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 199733,
-      "name": "I Wanna Be a Boy",
-      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
+      "duration_ms": 189092,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -459,22 +603,6 @@
       "duration_ms": 220656,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -557,22 +685,6 @@
       "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Symphony Sessions",
-        "url": "https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "More Than the Day Before",
-      "url": "https://open.spotify.com/track/2Rj8dzTs5H0vjCf6Aqlkyf"
-    },
-    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "Remember me Happy",
@@ -651,26 +763,6 @@
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc"
-      },
-      "artists": [
-        {
-          "name": "sleep.ing",
-          "url": "https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct"
-        },
-        {
-          "name": "Dave Faber",
-          "url": "https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -819,22 +911,6 @@
       "duration_ms": 188950,
       "name": "Still Something",
       "url": "https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "String Lights",
-        "url": "https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "String Lights",
-      "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1141,20 +1217,20 @@
       "url": "https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+        "name": "Happy Fucking Birthday",
+        "url": "https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM"
       },
       "artists": [
         {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 197786,
-      "name": "Out Of Excuses",
-      "url": "https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj"
+      "duration_ms": 219160,
+      "name": "Happy Fucking Birthday",
+      "url": "https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1259,22 +1335,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Sorry for Me",
-        "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad"
       },
@@ -1323,22 +1383,6 @@
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Raining in June",
-        "url": "https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc"
-      },
-      "artists": [
-        {
-          "name": "Olivia Klugman",
-          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
-        }
-      ],
-      "duration_ms": 166138,
-      "name": "Raining in June",
-      "url": "https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG"
     },
     {
       "added_at": "2022-01-14 05:00:00",

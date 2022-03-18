@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Rachel Chinouriri",
+  "description": "Discover your new favourite artists. Cover: TIBASKO",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -855,6 +855,24 @@
       "duration_ms": 150946,
       "name": "Introduce Myself (feat. KWN & JADA)",
       "url": "https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr"
+    },
+    {
+      "album": {
+        "name": "Isolate",
+        "url": "https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243558,
+      "name": "Isolate",
+      "url": "https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ"
     },
     {
       "album": {

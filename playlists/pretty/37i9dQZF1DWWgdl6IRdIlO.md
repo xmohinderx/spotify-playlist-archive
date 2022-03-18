@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: МЭЙБИ БЭЙБИ
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,314 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,329 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 | 44 | [Переплывай](https://open.spotify.com/track/6jeskuwZLHSGhr5tze71Xu) | [Бабба](https://open.spotify.com/artist/3JF6hq3WmiadHDgoqRuZSl) | [Первый сезон](https://open.spotify.com/album/42WyW1BEqBBpovmratQHYQ) | 4:36 |
 | 45 | [Афродита \- Toaster Cypher](https://open.spotify.com/track/35p4nSbqMuvpeAebniwVp6) | [Masha Hima](https://open.spotify.com/artist/3vAwYeWQvUFopemqRp7yHC), [Эмелевская](https://open.spotify.com/artist/3WV6GB9wjzJmBLidKPBsvh), [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K) | [Афродита \(Toaster Cypher\)](https://open.spotify.com/album/6Twv8Ty5J9VwbmfTejExBF) | 3:04 |
 | 46 | [Калипсо](https://open.spotify.com/track/21FlXcZ1q0hBdWpq49Iry4) | [Sanya Becker](https://open.spotify.com/artist/1VSzjEyYMPYO0qychXwLhV), [Janil Natas](https://open.spotify.com/artist/2c2aBdKm2vWkfAAi4IIYaF) | [Калипсо](https://open.spotify.com/album/23XkhoyP2B9qXl8ysKosl3) | 3:05 |
-| 47 | [Там под снегом](https://open.spotify.com/track/3on433UZgB31I9xq7ozKmr) | [Настя Макаревич](https://open.spotify.com/artist/1xSWQKxoh4uyqK38TqbILK), [Лицей](https://open.spotify.com/artist/1CwZuD2FTtEGKBIKYyuBPZ) | [Там под снегом](https://open.spotify.com/album/0n4SB3HDIgszwtDCOm42lv) | 3:57 |
-| 48 | [Где ты?](https://open.spotify.com/track/3MFGEmHB4x74ayjnJH9pA5) | [LINA LEE](https://open.spotify.com/artist/4Yh961o1U6CBuvhRhpnx9K) | [Где ты?](https://open.spotify.com/album/1NLmnueUUtMy0uX14YxVCW) | 2:28 |
+| 47 | [Не перегори](https://open.spotify.com/track/3GmF8i3Q5d9a2j28bV3PjV) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g) | [Не перегори](https://open.spotify.com/album/3KgIMbfzbRY9niPPoU6mNi) | 2:26 |
+| 48 | [Там под снегом](https://open.spotify.com/track/3on433UZgB31I9xq7ozKmr) | [Настя Макаревич](https://open.spotify.com/artist/1xSWQKxoh4uyqK38TqbILK), [Лицей](https://open.spotify.com/artist/1CwZuD2FTtEGKBIKYyuBPZ) | [Там под снегом](https://open.spotify.com/album/0n4SB3HDIgszwtDCOm42lv) | 3:57 |
+| 49 | [Где ты?](https://open.spotify.com/track/3MFGEmHB4x74ayjnJH9pA5) | [LINA LEE](https://open.spotify.com/artist/4Yh961o1U6CBuvhRhpnx9K) | [Где ты?](https://open.spotify.com/album/1NLmnueUUtMy0uX14YxVCW) | 2:28 |
 
 Snapshot ID: `MTY0NjczMDc5MSwwMDAwMDAxOTAwMDAwMTdmNjhjZGM4NjMwMDAwMDE3ZjY4YTNiNTQ5`

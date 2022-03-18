@@ -1602,6 +1602,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0tQvHv3J5vXMHBMa42vj9u"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2lhslrjGZOgYfZI0OI4kT2"
+    },
+    {
+      "album": {
         "name": "Sukari",
         "url": "https://open.spotify.com/album/6isoRSZgLFVrU3l4McoMKE"
       },

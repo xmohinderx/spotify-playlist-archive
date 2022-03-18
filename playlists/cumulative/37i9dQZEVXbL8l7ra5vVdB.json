@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0wRqxfYXrBcDQGgmiuRKmL"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "12",
+      "url": "https://open.spotify.com/track/2B9N1fCinwxEo89GcDGB5I"
+    },
+    {
+      "album": {
         "name": "\u0421\u0432\u0438\u0441\u0442\u043a\u0438 \u0438 \u0431\u0443\u043c\u0430\u0436\u043a\u0438",
         "url": "https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n"
       },
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -11499,7 +11517,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 103260,
       "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/6Q41xwUI0G0ArhToGBy25n"
@@ -13255,6 +13273,28 @@
       "duration_ms": 145940,
       "name": "\u0422\u044b \u0434\u0430\u043b\u0435\u043a\u043e",
       "url": "https://open.spotify.com/track/2eTAjr8mM045EaCZRw0xFJ"
+    },
+    {
+      "album": {
+        "name": "\u0422\u044b \u043c\u0435\u043d\u044f \u043d\u0435 \u0438\u0449\u0438",
+        "url": "https://open.spotify.com/album/32OpJWfJOSe78MnZ754yhb"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/48Mg7JaclPFMCGf4tXdPQn"
+        },
+        {
+          "name": "\u0412\u0438\u0440\u0443\u0441",
+          "url": "https://open.spotify.com/artist/2pgBhvxhGKVk7jEj4M7r3b"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "\u0422\u044b \u043c\u0435\u043d\u044f \u043d\u0435 \u0438\u0449\u0438",
+      "url": "https://open.spotify.com/track/3KWndM4qrj6Cgt67pCXSVo"
     },
     {
       "album": {

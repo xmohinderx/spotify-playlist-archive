@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables del Regional Mexicano. Erika Vidrio & Diana Reyes en portada.",
+  "description": "Estas son las indomables del Regional Mexicano. Marian Oviedo en portada.",
   "name": "Mujeres Brav\u00edas",
   "published_playlist_ids": [
     "0i8T7w20lOXAWefxMbsjZ0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 267666,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 145962,
       "name": "Amanecidas",
       "url": "https://open.spotify.com/track/0x5tlzZojby71L614PGzvo"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 219941,
       "name": "Borracha De Amor",
       "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 186569,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/7LvUCgGPYADdVng9zLINs3"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181813,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
@@ -479,10 +479,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 181845,
       "name": "Con Todo Respeto",
       "url": "https://open.spotify.com/track/77JQLi4hKpVtGE0kZGYKLN"
+    },
+    {
+      "album": {
+        "name": "Con Todo y Mi Tristeza (Live)",
+        "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258730,
+      "name": "Con Todo y Mi Tristeza - Live",
+      "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
     },
     {
       "album": {
@@ -576,6 +594,24 @@
     },
     {
       "album": {
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
+    },
+    {
+      "album": {
         "name": "Desaparecer",
         "url": "https://open.spotify.com/album/6uf6xnnBVS6MDayHKeYx0E"
       },
@@ -634,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s de Unas Horas",
+        "url": "https://open.spotify.com/album/2Qu47XObvHFpFRZ6gvN88d"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Despu\u00e9s de Unas Horas",
+      "url": "https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E"
+    },
+    {
+      "album": {
         "name": "Locos De Amor",
         "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
@@ -681,7 +735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185070,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/4FfxvqOOvnMTohiuI97IOr"
@@ -717,7 +771,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 177053,
       "name": "En Toda La Chapa",
       "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
@@ -811,7 +865,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 179626,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/1LElz59553gbYruiOP5y7f"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 191326,
       "name": "Fruta Prohibida - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/65Qln5PKRZhA5FIXUyMU3q"
@@ -1067,7 +1121,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 170155,
       "name": "La Cama No Miente",
       "url": "https://open.spotify.com/track/4ULKICvxhUw4gQmTQX8r7e"
@@ -1085,7 +1139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 206813,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/3SsJ5CTzlCjkdT50TnsdcL"
@@ -1103,7 +1157,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 203840,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
@@ -1182,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "Una Empresa",
+        "url": "https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206510,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s"
+    },
+    {
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -1231,7 +1303,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/6bNHCe28nsHobXYTIM1vHd"
@@ -1267,7 +1339,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
@@ -1343,7 +1415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 196819,
       "name": "Malas Noticias",
       "url": "https://open.spotify.com/track/0w0f5plxeyfRx8neIHAFOQ"
@@ -1361,7 +1433,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 220933,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG"
@@ -1419,7 +1491,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 199953,
       "name": "Me Sacudo y Me Levanto",
       "url": "https://open.spotify.com/track/313y55UYQyxu7ej9ApU8Oy"
@@ -1473,7 +1545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 175688,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze"
@@ -1715,7 +1787,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 170720,
       "name": "No Debes Jugar - 1993 Version",
       "url": "https://open.spotify.com/track/2nVYSODiJxM8w9NgO8vV1U"
@@ -1733,7 +1805,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 170266,
       "name": "No Le Lloro A Cabrones",
       "url": "https://open.spotify.com/track/73OPCyWw3fDg9xL1G04Yhy"
@@ -1769,7 +1841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
@@ -1841,7 +1913,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
@@ -1993,7 +2065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 224383,
       "name": "Para Qu\u00e9 Te Daba Tanto",
       "url": "https://open.spotify.com/track/7yDmnC3EgAoT2UELKUxBqX"
@@ -2105,7 +2177,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 220386,
       "name": "Por Confiar En Ti",
       "url": "https://open.spotify.com/track/2MfJSHRdG2hZWX6YEL0Kjv"
@@ -2257,7 +2329,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 196440,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
@@ -2391,7 +2463,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 221554,
       "name": "Qu\u00e9 Tanto Es Tantito?",
       "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
@@ -2463,7 +2535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 238560,
       "name": "Se Me Va A Quemar El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
@@ -2503,7 +2575,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
@@ -2529,6 +2601,24 @@
       "duration_ms": 166333,
       "name": "Sexo D\u00e9bil (TNMDQH)",
       "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
+    },
+    {
+      "album": {
+        "name": "Si Te Sirve de Consuelo",
+        "url": "https://open.spotify.com/album/0XeM8nyF7JZTuJ5dIFZfGT"
+      },
+      "artists": [
+        {
+          "name": "Paola Preciado",
+          "url": "https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192271,
+      "name": "Si Te Sirve de Consuelo",
+      "url": "https://open.spotify.com/track/0jysbjaCWPFAb4kPo8yUla"
     },
     {
       "album": {
@@ -2680,6 +2770,46 @@
     },
     {
       "album": {
+        "name": "Te Llore Solo Un Dia",
+        "url": "https://open.spotify.com/album/5DPJvrjYzmuWber2tBFwu6"
+      },
+      "artists": [
+        {
+          "name": "Diana Laura",
+          "url": "https://open.spotify.com/artist/2jTGZfXMSzIfAcQ5UUDOuS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Te Llore Solo Un Dia",
+      "url": "https://open.spotify.com/track/6e68Jj7IQpPJCITehmdyJb"
+    },
+    {
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+    },
+    {
+      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -2788,6 +2918,24 @@
     },
     {
       "album": {
+        "name": "Vete Mucho a Donde Quieras",
+        "url": "https://open.spotify.com/album/4mYJYqNei4FQxyVxrbX2su"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Vete Mucho a Donde Quieras",
+      "url": "https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA"
+    },
+    {
+      "album": {
         "name": "Por Amor a Ustedes",
         "url": "https://open.spotify.com/album/7sdmL10dFQ0iArWj195iJz"
       },
@@ -2871,7 +3019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 223883,
       "name": "Ya No Me Importa",
       "url": "https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf"

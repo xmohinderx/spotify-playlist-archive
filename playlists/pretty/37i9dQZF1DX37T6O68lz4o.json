@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Vintage Lee",
-  "num_followers": 773,
+  "num_followers": 772,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDAxNDAwMDAwMTdmNzc1OTExMmUwMDAwMDE3ZjMyZTFlMGM1",
+  "snapshot_id": "MTY0NzU3ODI1MSwwMDAwMDAxNTAwMDAwMTdmOWI1MTAwNzQwMDAwMDE3ZjMyZTFlMGM1",
   "tracks": [
     {
       "added_at": "2022-02-18 22:25:03",
@@ -63,6 +63,22 @@
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
+    },
+    {
+      "added_at": "2022-03-18 04:37:31",
+      "album": {
+        "name": "THE WAVE",
+        "url": "https://open.spotify.com/album/0WuLFXqgCresbLWPrXv83j"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "duration_ms": 162982,
+      "name": "THE WAVE",
+      "url": "https://open.spotify.com/track/2j5ZWHpUhzV8dQ2wcSLKUg"
     },
     {
       "added_at": "2021-12-01 18:09:33",
@@ -127,38 +143,6 @@
       "duration_ms": 155585,
       "name": "Gone",
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/2WM3U05ZGDzuHzfsdjhjbS"
-      },
-      "artists": [
-        {
-          "name": "Jaalid",
-          "url": "https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg"
-        }
-      ],
-      "duration_ms": 167765,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/6FL1XBfpeg8fBGHn6eWDPl"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF"
-      },
-      "artists": [
-        {
-          "name": "Kayla Thompson",
-          "url": "https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ"
     },
     {
       "added_at": "2022-02-25 20:35:25",
@@ -245,6 +229,38 @@
       "url": "https://open.spotify.com/track/5X9lABpv52aYzMn15EmDJe"
     },
     {
+      "added_at": "2022-03-18 04:37:31",
+      "album": {
+        "name": "Something New (Durkin's Live A Little Remix)",
+        "url": "https://open.spotify.com/album/2YUJ2GK3gDlJn2SbAu79rT"
+      },
+      "artists": [
+        {
+          "name": "Connis",
+          "url": "https://open.spotify.com/artist/49ppTal6VxPpa5aOwgiSGr"
+        },
+        {
+          "name": "Gogo.",
+          "url": "https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp"
+        },
+        {
+          "name": "Soap.Wav",
+          "url": "https://open.spotify.com/artist/6ccr8XykizCD7YdUH4xwk8"
+        },
+        {
+          "name": "Durkin",
+          "url": "https://open.spotify.com/artist/3dOKvewAk8Mr4f77FXNbUL"
+        },
+        {
+          "name": "Live A Little",
+          "url": "https://open.spotify.com/artist/3mm5KuuBhPo1vudJT2BbiM"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Something New - Durkin's Live A Little Remix",
+      "url": "https://open.spotify.com/track/1gLychhoCe6oAABYMmqxYY"
+    },
+    {
       "added_at": "2021-07-29 03:19:54",
       "album": {
         "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
@@ -263,6 +279,26 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "added_at": "2022-02-18 22:25:03",
+      "album": {
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -299,18 +335,18 @@
     {
       "added_at": "2022-02-18 22:25:03",
       "album": {
-        "name": "Baby I'm a Star",
-        "url": "https://open.spotify.com/album/5fOi6u5JT4yP2jid4VAqIR"
+        "name": "More Than A Little Bit",
+        "url": "https://open.spotify.com/album/602qpIdwCvasaSBk60Ur3i"
       },
       "artists": [
         {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
         }
       ],
-      "duration_ms": 141616,
-      "name": "Baby I'm a Star",
-      "url": "https://open.spotify.com/track/6SIkOaqp27OGefAKDznjUL"
+      "duration_ms": 194157,
+      "name": "More Than A Little Bit",
+      "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -355,58 +391,6 @@
     {
       "added_at": "2022-02-18 22:25:03",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
-        "name": "More Than A Little Bit",
-        "url": "https://open.spotify.com/album/602qpIdwCvasaSBk60Ur3i"
-      },
-      "artists": [
-        {
-          "name": "PxRRY",
-          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "More Than A Little Bit",
-      "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/3lqJAolurlalPWRpa15ZDK"
-      },
-      "artists": [
-        {
-          "name": "Vintage Lee",
-          "url": "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
-        }
-      ],
-      "duration_ms": 95451,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/59BfwA9yekhdo6dQdNFV2N"
-    },
-    {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
         "name": "Wandering Star",
         "url": "https://open.spotify.com/album/6tfC8NrYMyKNP05C0xEVDm"
       },
@@ -445,6 +429,22 @@
       "url": "https://open.spotify.com/track/4SVMDhXT7OfZPPDusSQkOr"
     },
     {
+      "added_at": "2022-03-18 04:37:31",
+      "album": {
+        "name": "Its Different (EP)",
+        "url": "https://open.spotify.com/album/41R7kGCZsuu7adAVzN614X"
+      },
+      "artists": [
+        {
+          "name": "Brandon James",
+          "url": "https://open.spotify.com/artist/3g4SmccDmUXgHW2vvyNPmi"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/0NJTH3zNgNzYczVpbjAF2s"
+    },
+    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "1M Bitches",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/0cqtQDfJi5NGROCNC3bnHK"
     },
     {
+      "added_at": "2022-03-18 04:37:31",
+      "album": {
+        "name": "Last Day In",
+        "url": "https://open.spotify.com/album/5M1wvisx9DfammyIeVi27e"
+      },
+      "artists": [
+        {
+          "name": "Illy Dee",
+          "url": "https://open.spotify.com/artist/0AsuEtNobq10EgfGa9EBC7"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Last Day In",
+      "url": "https://open.spotify.com/track/1IM3HdZFaOcMP7JSsCQawx"
+    },
+    {
       "added_at": "2021-11-23 21:15:29",
       "album": {
         "name": "All-Star Weekend",
@@ -475,6 +491,22 @@
       "duration_ms": 145005,
       "name": "All-Star Weekend",
       "url": "https://open.spotify.com/track/7laB3Be6vouUewweTnxMU2"
+    },
+    {
+      "added_at": "2022-01-29 00:15:56",
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3lqJAolurlalPWRpa15ZDK"
+      },
+      "artists": [
+        {
+          "name": "Vintage Lee",
+          "url": "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
+        }
+      ],
+      "duration_ms": 95451,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/59BfwA9yekhdo6dQdNFV2N"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -627,22 +659,6 @@
       "duration_ms": 201360,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/25z2HCZqLLRXQxu0rBqlgO"
-    },
-    {
-      "added_at": "2021-09-01 09:52:31",
-      "album": {
-        "name": "In Gleem I Trust",
-        "url": "https://open.spotify.com/album/2Rl6cxpGMlA64rGpWNncpi"
-      },
-      "artists": [
-        {
-          "name": "Donald Grunge",
-          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "LIFESTYLE",
-      "url": "https://open.spotify.com/track/3CNHjf59yioe51HIRdKqGP"
     },
     {
       "added_at": "2022-03-04 18:25:52",
@@ -825,6 +841,22 @@
       "url": "https://open.spotify.com/track/7ziamXSxi0FXJBBL6586or"
     },
     {
+      "added_at": "2022-03-18 04:37:31",
+      "album": {
+        "name": "Paul Wall",
+        "url": "https://open.spotify.com/album/6Sv8RPl1Co53Oya1mBPof1"
+      },
+      "artists": [
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Paul Wall",
+      "url": "https://open.spotify.com/track/2ie6JzxPa25UFx5OJT02aE"
+    },
+    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "Play Nice",
@@ -863,22 +895,6 @@
       "duration_ms": 203598,
       "name": "Real Recognize Real",
       "url": "https://open.spotify.com/track/37ZrsjXu0cRlFMM69sYQYg"
-    },
-    {
-      "added_at": "2021-07-29 03:19:54",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/6VGBvusFamGJqCXb2rs7s0"
-      },
-      "artists": [
-        {
-          "name": "Sidestreet Capo",
-          "url": "https://open.spotify.com/artist/0LHbZZO1wHVjFHrKPiIdN9"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/1YiUj493GJDPhIbsFVeZqq"
     },
     {
       "added_at": "2022-01-29 00:15:56",

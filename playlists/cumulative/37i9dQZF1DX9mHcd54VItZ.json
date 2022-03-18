@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=9hoUsqccRN2FqLrRk29y5g\">Dan Patlansky</a>",
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=34uVb-0eRy-in1CwBYVnNg\">Internet Girl</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -131,6 +131,28 @@
       "duration_ms": 223317,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E"
+    },
+    {
+      "album": {
+        "name": "brokeboy",
+        "url": "https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "brokeboy",
+      "url": "https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg"
     },
     {
       "album": {
@@ -391,7 +413,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185002,
       "name": "Episodes",
       "url": "https://open.spotify.com/track/4TQhP05KvdqaCBy6zT5oSk"
@@ -431,6 +453,24 @@
       "duration_ms": 420284,
       "name": "Evil",
       "url": "https://open.spotify.com/track/7aDCtvjXgzlY5w7pH6Ejve"
+    },
+    {
+      "album": {
+        "name": "EX-GIRLFRIEND (Radio Edit)",
+        "url": "https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145571,
+      "name": "EX-GIRLFRIEND - Radio Edit",
+      "url": "https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz"
     },
     {
       "album": {
@@ -557,7 +597,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 243498,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
@@ -615,6 +655,24 @@
       "duration_ms": 188228,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
+    },
+    {
+      "album": {
+        "name": "I Never Listen When You Speak",
+        "url": "https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "I Never Listen When You Speak",
+      "url": "https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos"
     },
     {
       "album": {
@@ -817,7 +875,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 176143,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/05PILc8wNotPdvMeukiElo"
@@ -968,6 +1026,24 @@
     },
     {
       "album": {
+        "name": "Quit It",
+        "url": "https://open.spotify.com/album/1YoAazxKlSbG2lvw6PYygm"
+      },
+      "artists": [
+        {
+          "name": "Black Cat Bones",
+          "url": "https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Quit It",
+      "url": "https://open.spotify.com/track/0EcRozLgRMqpcoaZK92xHd"
+    },
+    {
+      "album": {
         "name": "Hunted Women",
         "url": "https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp"
       },
@@ -979,10 +1055,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 188000,
       "name": "Raise a Glass",
       "url": "https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70"
+    },
+    {
+      "album": {
+        "name": "Ready to Die",
+        "url": "https://open.spotify.com/album/3stCq0SbASgsSGZH2cjMb1"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230712,
+      "name": "Ready to Die",
+      "url": "https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R"
     },
     {
       "album": {
@@ -1387,7 +1481,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 161313,
       "name": "Toxic Memories",
       "url": "https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd"

@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "180 (Remix) (feat. Kemba)",
       "url": "https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 265384,
       "name": "200 Pies (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7FoLi3HouGfytmOekWmglN"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 211848,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 201160,
       "name": "BUZZCUT (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 169946,
       "name": "Casamigos Freestyle",
       "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 226173,
       "name": "Chicken N Dumplins",
       "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD"
+    },
+    {
+      "album": {
         "name": "Lamb Over Rice",
         "url": "https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm"
       },
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 226800,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 130666,
       "name": "genesis.",
       "url": "https://open.spotify.com/track/16KP30wHmKZvPE5hlTHCfI"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 193660,
       "name": "Grey Poupon",
       "url": "https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 176971,
       "name": "Gutter! (feat. WARA)",
       "url": "https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "HEAD SHOTS",
       "url": "https://open.spotify.com/track/1EFKZQ8T6EipEf1DxeZwl7"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 155994,
       "name": "IDFT!?",
       "url": "https://open.spotify.com/track/6yBNX4txB2sEggpBsigcF0"
@@ -1674,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "Saturday Afternoon Kung Fu Theater",
+        "url": "https://open.spotify.com/album/2B1vfij3XHohiv36HUHhr1"
+      },
+      "artists": [
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "DJ Scratch",
+          "url": "https://open.spotify.com/artist/4vBBOm1tR7WToK4DZmDZAd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183608,
+      "name": "Kaiju",
+      "url": "https://open.spotify.com/track/1yz2ll2Xi1ycXhkwxtsdQ3"
+    },
+    {
+      "album": {
         "name": "The Chauncey Hollis Project",
         "url": "https://open.spotify.com/album/6X7sFYw0NJ1hoVPeDo4HUf"
       },
@@ -1715,7 +1755,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 180686,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
@@ -1755,7 +1795,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 122080,
       "name": "Laps Around the Sun",
       "url": "https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm"
@@ -1857,7 +1897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 133601,
       "name": "Let's Ride our Heelies to the Cosmos",
       "url": "https://open.spotify.com/track/1Gbwu9p6QFLCGBGKCGdKFr"
@@ -1879,7 +1919,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 248810,
       "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9"
@@ -2247,7 +2287,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -2533,10 +2573,36 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
+    },
+    {
+      "album": {
+        "name": "Driplomatic Immunity",
+        "url": "https://open.spotify.com/album/5ZDtqNLeMbVUzQqPrZ4CPn"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Nym Lo",
+          "url": "https://open.spotify.com/artist/40VsC68IfRE86qiiBNzOQA"
+        },
+        {
+          "name": "183rd",
+          "url": "https://open.spotify.com/artist/2PU67SsrdFSocujY6bNOnq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190921,
+      "name": "Same Game Parlay",
+      "url": "https://open.spotify.com/track/1vbUf11M5Ydd6mqN8AIEoA"
     },
     {
       "album": {
@@ -2585,7 +2651,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 187238,
       "name": "Scottie Pippens (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/19O7OqzwiT0U5DKec68WJR"
@@ -2809,7 +2875,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -2831,7 +2897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 132773,
       "name": "Stain",
       "url": "https://open.spotify.com/track/0stfZSMUC46cbsQh4j1oSG"
@@ -2995,7 +3061,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 320000,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
@@ -3135,7 +3201,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -3157,7 +3223,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -3179,7 +3245,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 150532,
       "name": "Thanksgiving",
       "url": "https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn"
@@ -3201,7 +3267,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 211773,
       "name": "The Dakota",
       "url": "https://open.spotify.com/track/6KeSzWJ7a6fotPJgAmi3jd"
@@ -3219,7 +3285,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
@@ -3245,7 +3311,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 236837,
       "name": "The Hurt Business",
       "url": "https://open.spotify.com/track/3TffVsQzWJHv1MWMN5xVGS"
@@ -3319,7 +3385,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 137688,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/6zBiYnh5AmAWtkO709qTZb"
@@ -3377,7 +3443,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
@@ -3457,7 +3523,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 126627,
       "name": "Time Crisis",
       "url": "https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef"
@@ -3479,6 +3545,28 @@
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
+    },
+    {
+      "album": {
+        "name": "Never Question God",
+        "url": "https://open.spotify.com/album/5B6AaYVjmE0sn6nU3YiOoF"
+      },
+      "artists": [
+        {
+          "name": "Young Roddy",
+          "url": "https://open.spotify.com/artist/7lVTwgQZCYQt20tvcPl6D4"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182940,
+      "name": "Trap Gods",
+      "url": "https://open.spotify.com/track/0rWAegGm4B4c5myyTNGi3k"
     },
     {
       "album": {
@@ -3619,7 +3707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 267120,
       "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
       "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
@@ -3689,7 +3777,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"

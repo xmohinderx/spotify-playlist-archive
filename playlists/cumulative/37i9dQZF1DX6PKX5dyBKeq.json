@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Aitch",
+  "description": "The best of UK Rap & Drill.  Cover: M Huncho & Giggs",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -3348,6 +3348,28 @@
     },
     {
       "album": {
+        "name": "All Eyes On Me Against The World",
+        "url": "https://open.spotify.com/album/7pThWqotwrgqpfu77ZVUvW"
+      },
+      "artists": [
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        },
+        {
+          "name": "Stardom",
+          "url": "https://open.spotify.com/artist/0eN69yx9lBavEcUbkrfOMI"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/62nLRqVsG0Q4eCK45zuj28"
+    },
+    {
+      "album": {
         "name": "Bolo (feat. Abra Cadabra)",
         "url": "https://open.spotify.com/album/1GALQJzNbt1DANz4wl4eYx"
       },
@@ -5193,7 +5215,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 172244,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/7bG5PsVcvpYpk0Bf00s122"
@@ -6888,6 +6910,24 @@
     },
     {
       "album": {
+        "name": "Pier Pressure",
+        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166767,
+      "name": "Early Hours",
+      "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
+    },
+    {
+      "album": {
         "name": "Eastender",
         "url": "https://open.spotify.com/album/24QnsNLWLKCr1BJ80c47CW"
       },
@@ -7027,7 +7067,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 208000,
       "name": "Elegance (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/3oO2XyRdK811tVYax3qEAZ"
@@ -7893,7 +7933,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 138000,
       "name": "Forty",
       "url": "https://open.spotify.com/track/6kCZkcBJFshwktDAF41fnh"
@@ -8051,6 +8091,24 @@
       "duration_ms": 207428,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/5YhrmpMazRQuZ1OAmFUEIR"
+    },
+    {
+      "album": {
+        "name": "Pier Pressure",
+        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "Fruitella",
+      "url": "https://open.spotify.com/track/2rfzs6KSwUv5QPZvg0It88"
     },
     {
       "album": {
@@ -8713,7 +8771,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 175737,
       "name": "Guten Tag",
       "url": "https://open.spotify.com/track/1XnoK9fQl4ygNP5FCGIjRZ"
@@ -10545,6 +10603,28 @@
       "duration_ms": 150620,
       "name": "LBL",
       "url": "https://open.spotify.com/track/3LWtTJdOmMR1eze7gjLNgy"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/0qiWIq6UoO7BtPxthjiMnD"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169364,
+      "name": "Lean (feat. Giggs)",
+      "url": "https://open.spotify.com/track/0OCEAU4VxIyLCfWBNRayAP"
     },
     {
       "album": {
@@ -13721,7 +13801,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 234083,
       "name": "On My Left",
       "url": "https://open.spotify.com/track/1gz6ld3mdCEkFTVkhGrIrZ"
@@ -17206,6 +17286,24 @@
     },
     {
       "album": {
+        "name": "Ski Ski",
+        "url": "https://open.spotify.com/album/0ZGRmu0AwLSNcjYyJtonWG"
+      },
+      "artists": [
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Ski Ski",
+      "url": "https://open.spotify.com/track/1oIiqSsOJCFuDkqnwINPRu"
+    },
+    {
+      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/0anJpIwGRFcN2DJLUOVQeX"
       },
@@ -19838,6 +19936,24 @@
     },
     {
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/3rj1TqI7Zww4GnMWHf9V0b"
+      },
+      "artists": [
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Unruly",
+      "url": "https://open.spotify.com/track/6q1SGAmR6pfjKXMA7RRp5O"
+    },
+    {
+      "album": {
         "name": "Unveiled",
         "url": "https://open.spotify.com/album/70C6Om19h3qu4AOiMo8P4C"
       },
@@ -20199,7 +20315,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 166871,
       "name": "War",
       "url": "https://open.spotify.com/track/49KTdYsWNtkvOslTpgZuM1"
@@ -20839,7 +20955,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 199708,
       "name": "WISH",
       "url": "https://open.spotify.com/track/19M0fyQJmp0obGZVvunDDR"

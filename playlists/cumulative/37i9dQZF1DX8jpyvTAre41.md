@@ -2,7 +2,7 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
-> The hottest tunes in rock\. Crank it up! Cover: The Black Keys
+> The hottest tunes in rock\. Crank it up! Cover: Machine Gun Kelly
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,9 @@
 | [All In My Mind](https://open.spotify.com/track/384oW4RbxvLy2eE4zAFABD) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [All In My Mind](https://open.spotify.com/album/0IARnOUMvRTxiwypVED2VE) | 2:28 | 2022-02-18 | 2022-03-12 |
 | [all my friends are pissed off](https://open.spotify.com/track/5FzKa4aYel5Li5IlTdGw7U) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [it's fine](https://open.spotify.com/album/39f8Z7LLJs88JEcgyJFX2T) | 2:37 | 2022-02-04 | 2022-03-12 |
 | [Alternate View](https://open.spotify.com/track/5HRGoNTdyJdcme4l3QytrR) | [Anyway Gang](https://open.spotify.com/artist/2CJSKzMdOlJ6FaffywHeHr) | [Alternate View](https://open.spotify.com/album/5OyrDV6I30tnIw9kl2mZ8D) | 3:58 | 2022-02-04 | 2022-03-05 |
-| [Always on the Edge](https://open.spotify.com/track/1PzG9uwuM6da6T2tCNlYfz) | [Darling Congress](https://open.spotify.com/artist/3jdCFBGkuOaIWgPFzcwxk7) | [Always on the Edge](https://open.spotify.com/album/6kzLlWSMzUaFQRkPn4Ai7d) | 3:07 | 2022-01-07 |  |
+| [Always on the Edge](https://open.spotify.com/track/1PzG9uwuM6da6T2tCNlYfz) | [Darling Congress](https://open.spotify.com/artist/3jdCFBGkuOaIWgPFzcwxk7) | [Always on the Edge](https://open.spotify.com/album/6kzLlWSMzUaFQRkPn4Ai7d) | 3:07 | 2022-01-07 | 2022-03-18 |
 | [American Dreams](https://open.spotify.com/track/2m0DylsG34gQLYoolnIH2U) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [American Dreams](https://open.spotify.com/album/4FOpHbhqpa6fLkwWbVL2bb) | 3:27 | 2022-03-04 |  |
-| [Ammunition](https://open.spotify.com/track/5ElI4FJe3HnOeXCnzewjfy) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [End Of The Ocean](https://open.spotify.com/album/7b5hvyZJ6sezSlccARvcqI) | 4:40 | 2022-01-14 |  |
+| [Ammunition](https://open.spotify.com/track/5ElI4FJe3HnOeXCnzewjfy) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [End Of The Ocean](https://open.spotify.com/album/7b5hvyZJ6sezSlccARvcqI) | 4:40 | 2022-01-14 | 2022-03-18 |
 | [Arm In Arm](https://open.spotify.com/track/2LHAUUKtI3eaojULITCZ0K) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:41 | 2021-12-31 | 2022-03-05 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-04 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-12-31 |  |
@@ -118,6 +118,7 @@
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 |  |
 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 | 2021-12-31 | 2022-02-19 |
 | [Matilda](https://open.spotify.com/track/08eLqv5sm19e85WMxbAyHR) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Matilda](https://open.spotify.com/album/2yFqpP5uMDXyhxBxmE3nFQ) | 3:51 | 2022-03-04 |  |
+| [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 |  |
 | [Mercy](https://open.spotify.com/track/7JbONdZR1a15XAflyiFp2N) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 3:34 | 2021-12-31 | 2022-03-12 |
 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM) | 4:00 | 2021-12-31 | 2022-01-29 |
 | [misfit](https://open.spotify.com/track/1Vxiyk7CfYutoQbR2e38Ur) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [misfit](https://open.spotify.com/album/7n5qd90bV5eXCDv96l188m) | 2:44 | 2021-12-31 | 2022-01-22 |

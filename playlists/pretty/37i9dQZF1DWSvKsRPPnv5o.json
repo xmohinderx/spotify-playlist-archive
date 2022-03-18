@@ -1,13 +1,33 @@
 {
   "description": "Holdin' it down for the westside. Cover: Dr. Dre",
-  "num_followers": 684615,
+  "num_followers": 684774,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDUxMTAwMDAwMTdmNzc1OTExNDQwMDAwMDE3ZjQ3Mjk1MDY1",
+  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDUxMjAwMDAwMTdmOWIyZWE2YzYwMDAwMDE3ZjQ3Mjk1MDY1",
   "tracks": [
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "MAGIC (feat. Mustard)",
+        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 226006,
+      "name": "MAGIC (feat. Mustard)",
+      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -53,22 +73,6 @@
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Dead Homies",
-        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 172654,
-      "name": "Dead Homies",
-      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
-    },
-    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "LIVE LIFE FAST",
@@ -89,6 +93,22 @@
       "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "GEEZYWORLD (Deluxe)",
@@ -107,22 +127,6 @@
       "duration_ms": 177777,
       "name": "Let Me Know (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/2ZFFX9m6T3vsB9yJoURXZH"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "BABYST5XNE GORILLAS",
-        "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
-      },
-      "artists": [
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        }
-      ],
-      "duration_ms": 179495,
-      "name": "Keep Goin",
-      "url": "https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2"
     },
     {
       "added_at": "2022-01-14 21:22:38",
@@ -147,26 +151,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "MAGIC (feat. Mustard)",
-        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        }
-      ],
-      "duration_ms": 226006,
-      "name": "MAGIC (feat. Mustard)",
-      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Wait Too Long (feat. Blxst)",
         "url": "https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6"
       },
@@ -183,6 +167,26 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Do It Up",
+        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "duration_ms": 244968,
+      "name": "Do It Up",
+      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -207,6 +211,22 @@
       "duration_ms": 211361,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "See The Difference",
+        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "duration_ms": 178671,
+      "name": "See The Difference",
+      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -265,40 +285,36 @@
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
     },
     {
-      "added_at": "2022-03-04 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "See The Difference",
-        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
       },
       "artists": [
         {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
         }
       ],
-      "duration_ms": 143429,
-      "name": "Victor Cruz",
-      "url": "https://open.spotify.com/track/2pwKrzjIitdMlrdAnK810C"
+      "duration_ms": 151808,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Do It Up",
-        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+        "name": "BABYST5XNE GORILLAS",
+        "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
       },
       "artists": [
         {
           "name": "Baby Stone Gorillas",
           "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
         }
       ],
-      "duration_ms": 244968,
-      "name": "Do It Up",
-      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
+      "duration_ms": 179495,
+      "name": "Keep Goin",
+      "url": "https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -315,6 +331,26 @@
       "duration_ms": 143248,
       "name": "With The Villains",
       "url": "https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "THE PRICE EP",
+        "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
+      },
+      "artists": [
+        {
+          "name": "Price",
+          "url": "https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 190703,
+      "name": "PROBLEMS",
+      "url": "https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -341,6 +377,22 @@
       "url": "https://open.spotify.com/track/21hh71ZaowC1PKgqoZBOq7"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Cheap",
+        "url": "https://open.spotify.com/album/1ddtZxVVgYsrpfE7qhXSxn"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "duration_ms": 106026,
+      "name": "Cheap",
+      "url": "https://open.spotify.com/track/5ICnHKFy7yBDTEFjZ8hODA"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Do Whatever to Survive",
@@ -355,6 +407,22 @@
       "duration_ms": 187050,
       "name": "Do Whatever to Survive",
       "url": "https://open.spotify.com/track/6RR2dOw3NE5pim5KGyNEYj"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "See The Difference",
+        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "duration_ms": 143429,
+      "name": "Victor Cruz",
+      "url": "https://open.spotify.com/track/2pwKrzjIitdMlrdAnK810C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -373,20 +441,28 @@
       "url": "https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Covenant",
-        "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
+        "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
+        "url": "https://open.spotify.com/album/1dfdXCPSiNLPZ3H2MRKqTI"
       },
       "artists": [
         {
-          "name": "Rory Fresco",
-          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
-      "duration_ms": 151808,
-      "name": "Covenant",
-      "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
+      "duration_ms": 123449,
+      "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
+      "url": "https://open.spotify.com/track/1abUcyBvx6mUmAQfGjq9BN"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -453,6 +529,26 @@
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "No Skips",
+        "url": "https://open.spotify.com/album/0Xd16jLmmthcM3qtFISVX1"
+      },
+      "artists": [
+        {
+          "name": "Derek King",
+          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 135888,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6VlyGntFkztRrLlMBDxLRj"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Falling",
@@ -514,10 +610,6 @@
         {
           "name": "Suigeneris",
           "url": "https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf"
-        },
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
         }
       ],
       "duration_ms": 124675,
@@ -559,22 +651,6 @@
       "duration_ms": 218637,
       "name": "Crip Ya Enthusiasm",
       "url": "https://open.spotify.com/track/35tDfJl8QOSgXV2wN2B9j8"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "See The Difference",
-        "url": "https://open.spotify.com/album/1vejaBrMl3UnnCYeXFnqSN"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 178671,
-      "name": "See The Difference",
-      "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -737,22 +813,6 @@
       "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
     },
     {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Fenix Flexin, Vol. 2 Intro",
-        "url": "https://open.spotify.com/album/7s2SykVkoLSomIfdvbn9tC"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Fenix Flexin, Vol. 2 Intro",
-      "url": "https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "BPL",
@@ -837,22 +897,6 @@
       "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
     },
     {
-      "added_at": "2021-12-10 06:53:50",
-      "album": {
-        "name": "No Drama",
-        "url": "https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "No Drama",
-      "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Numero Uno",
@@ -883,58 +927,6 @@
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Hate To Say It",
-        "url": "https://open.spotify.com/album/2MEAyPn9t8zILlTX4gIsY4"
-      },
-      "artists": [
-        {
-          "name": "Azizi Gibson",
-          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 183814,
-      "name": "Hate To Say It",
-      "url": "https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "GOTTI",
-        "url": "https://open.spotify.com/album/37y72XuNwuPyzfB9kk2uIc"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Kevin Cossom",
-          "url": "https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
-      "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"
     }
   ],
   "unique_name": "Westside Story",

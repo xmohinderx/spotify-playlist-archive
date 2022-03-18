@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del Trap chileno. Foto: Kiddtetoon & Chucky73.",
+  "description": "La casa del Trap chileno. Foto: Foreign & Polim\u00e1 Westcoast.",
   "name": "Trapperz Chile",
   "published_playlist_ids": [
     "4O7bBJoeZnEU8BCS1d4SPn"
@@ -308,6 +308,28 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/2q5ojFbm8BdMTQicV0VsQw"
+      },
+      "artists": [
+        {
+          "name": "Foreign",
+          "url": "https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5w2vDEM6rRpIyOOYFuyNnm"
+    },
+    {
+      "album": {
         "name": "Las Cr\u00f3nicas De Ngangu",
         "url": "https://open.spotify.com/album/7Lj5OzGoQBzSb4PeghYlLp"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181930,
       "name": "Chat",
       "url": "https://open.spotify.com/track/4Wa1K30gzHFlntJ7gijLMB"
@@ -1447,7 +1469,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 176027,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/6dFPnK9OTUQoB1VV3TkNFw"
@@ -1737,7 +1759,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 231746,
       "name": "Quienes Son",
       "url": "https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT"
@@ -2027,7 +2049,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 222021,
       "name": "Trap Life 2",
       "url": "https://open.spotify.com/track/6SvQJKtETQdvcMGDK3fuVS"
@@ -2191,7 +2213,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181625,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR"

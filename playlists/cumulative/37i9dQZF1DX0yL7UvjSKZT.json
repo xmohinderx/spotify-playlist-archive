@@ -1962,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/63fTnMULwSceWns5rETNHV"
+      },
+      "artists": [
+        {
+          "name": "Tejon Street Corner Thieves",
+          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/304pRAROhKx7jQdNYztux2"
+    },
+    {
+      "album": {
         "name": "The Lonesome Trio",
         "url": "https://open.spotify.com/album/01jKed6wLys7BjOTvk0efj"
       },

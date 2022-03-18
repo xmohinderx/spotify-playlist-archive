@@ -1264,6 +1264,28 @@
     },
     {
       "album": {
+        "name": "Mute",
+        "url": "https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82"
+      },
+      "artists": [
+        {
+          "name": "Sameen Qasim",
+          "url": "https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O"
+        },
+        {
+          "name": "Shorbanoor",
+          "url": "https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Mute",
+      "url": "https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK"
+    },
+    {
+      "album": {
         "name": "4 Saal",
         "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
       },

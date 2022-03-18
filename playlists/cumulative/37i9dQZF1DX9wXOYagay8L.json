@@ -578,6 +578,32 @@
     },
     {
       "album": {
+        "name": "Imini Iyeza Nakuwe",
+        "url": "https://open.spotify.com/album/2fuLG1g3BdJeDeugCHng2S"
+      },
+      "artists": [
+        {
+          "name": "Pat Medina",
+          "url": "https://open.spotify.com/artist/0mur6Nhou9tRWLaxL1f0PH"
+        },
+        {
+          "name": "Eves Manxeba",
+          "url": "https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB"
+        },
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280102,
+      "name": "Imini Iyeza Nakuwe",
+      "url": "https://open.spotify.com/track/5spiuYrtbedXJrNEur5u83"
+    },
+    {
+      "album": {
         "name": "Ukukhanya",
         "url": "https://open.spotify.com/album/0jhH3kwEzUIQyNV1PjmmFI"
       },
@@ -713,6 +739,58 @@
       "duration_ms": 216420,
       "name": "Kangaka",
       "url": "https://open.spotify.com/track/0AXdTv3a8OVPeFZgVamA5I"
+    },
+    {
+      "album": {
+        "name": "Ke Nosi",
+        "url": "https://open.spotify.com/album/0FDNSLnxLk0L0ypdSmACUn"
+      },
+      "artists": [
+        {
+          "name": "Prince Benza",
+          "url": "https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345338,
+      "name": "Ke Nosi",
+      "url": "https://open.spotify.com/track/0m1SXN5tOJjg0XYeCX1mzK"
+    },
+    {
+      "album": {
+        "name": "Kea Leboga",
+        "url": "https://open.spotify.com/album/6I2YEIsVil6nLCSoCA66Uu"
+      },
+      "artists": [
+        {
+          "name": "John Lundun",
+          "url": "https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk"
+        },
+        {
+          "name": "Ishmail Ndlovu",
+          "url": "https://open.spotify.com/artist/2r6yDyN5PyJSFM5R1A68JJ"
+        },
+        {
+          "name": "Kgopotso",
+          "url": "https://open.spotify.com/artist/2wg5R5gJg9jA0ExDLEToRz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Kea Leboga",
+      "url": "https://open.spotify.com/track/2FUHBivT4ab2m5ljITX1hN"
     },
     {
       "album": {
@@ -1269,8 +1347,8 @@
           "url": "https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC"
         },
         {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G"
+          "name": "Howard Gomba",
+          "url": "https://open.spotify.com/artist/6BxBeI7yJjq876ErPGPatm"
         },
         {
           "name": "Mnqobi Yazo",

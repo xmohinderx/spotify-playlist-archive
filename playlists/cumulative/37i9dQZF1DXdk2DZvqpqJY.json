@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 330375,
       "name": "Celestial Greens",
       "url": "https://open.spotify.com/track/0oqwRRtDtk1QU4eiIPkmov"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 226524,
       "name": "Electric Eclectic",
       "url": "https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE"
@@ -803,6 +803,32 @@
       "duration_ms": 315910,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
+    },
+    {
+      "album": {
+        "name": "Three: Vol. 3 [Utopia]",
+        "url": "https://open.spotify.com/album/7nhGyrXgeOc0wiadovp4YG"
+      },
+      "artists": [
+        {
+          "name": "Dave Mackay",
+          "url": "https://open.spotify.com/artist/0OP43xZYPF7td5hkJr0dsi"
+        },
+        {
+          "name": "Antoine Katz",
+          "url": "https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC"
+        },
+        {
+          "name": "A.G. Steele",
+          "url": "https://open.spotify.com/artist/7sxBhnfmspbyVVgwXBJa74"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Impulse",
+      "url": "https://open.spotify.com/track/2OpCTTrEinags4toAT5od9"
     },
     {
       "album": {
@@ -1125,7 +1151,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 301766,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO"
@@ -1243,7 +1269,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 286785,
       "name": "O Fogo",
       "url": "https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u"
@@ -1531,7 +1557,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 129375,
       "name": "So What",
       "url": "https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5"
@@ -1673,7 +1699,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 293480,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/0lBjQpfSDYrqlspqXYXNXv"
@@ -2303,7 +2329,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 138787,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz"

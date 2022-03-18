@@ -1,13 +1,29 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Kennedy Rd., Artwork: Crystal Zapata",
-  "num_followers": 143862,
+  "num_followers": 143890,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ1NDUzNCwwMDAwMDBjMjAwMDAwMTdmOTNmMTNhMTcwMDAwMDE3ZjA1MDQ3MTU5",
+  "snapshot_id": "MTY0NzU4NDc1NSwwMDAwMDBjMzAwMDAwMTdmOWJiNDNkODkwMDAwMDE3ZjA1MDQ3MTU5",
   "tracks": [
+    {
+      "added_at": "2022-03-16 18:15:34",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+    },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
@@ -27,6 +43,54 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
+    },
+    {
+      "added_at": "2022-03-16 18:15:34",
+      "album": {
+        "name": "COMING",
+        "url": "https://open.spotify.com/album/5s0VOTBnMRMVR3W4t68U47"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 173002,
+      "name": "COMING",
+      "url": "https://open.spotify.com/track/1oI95ixqkwg9wlFPGbkU8u"
+    },
+    {
+      "added_at": "2022-03-18 06:25:55",
+      "album": {
+        "name": "Plenty Honey",
+        "url": "https://open.spotify.com/album/1DXVzBnPe7HZZz5ihNj3ks"
+      },
+      "artists": [
+        {
+          "name": "Swan Lingo",
+          "url": "https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x"
+        }
+      ],
+      "duration_ms": 80300,
+      "name": "Plenty Honey",
+      "url": "https://open.spotify.com/track/3nfQjISeLWePhsc92J9kgi"
+    },
+    {
+      "added_at": "2022-03-18 06:25:55",
+      "album": {
+        "name": "Better Answer",
+        "url": "https://open.spotify.com/album/4CeeJVUAYzwrBfbuSp9wh0"
+      },
+      "artists": [
+        {
+          "name": "SAUCITO",
+          "url": "https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Better Answer",
+      "url": "https://open.spotify.com/track/0anxfgwu11pR53ZT5nUw5W"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -79,6 +143,22 @@
       "duration_ms": 171659,
       "name": "Better",
       "url": "https://open.spotify.com/track/5Rf1hEEuKTJ9SHU5KgQwrz"
+    },
+    {
+      "added_at": "2022-03-16 18:15:34",
+      "album": {
+        "name": "How Would It Feel",
+        "url": "https://open.spotify.com/album/3N4YH1oeJe8k57vWO0L8NX"
+      },
+      "artists": [
+        {
+          "name": "Lyves",
+          "url": "https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t"
+        }
+      ],
+      "duration_ms": 310277,
+      "name": "How Would It Feel",
+      "url": "https://open.spotify.com/track/274qQbMfFyHuH9lYq5IjE6"
     },
     {
       "added_at": "2022-03-16 18:15:34",
@@ -145,6 +225,38 @@
       "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
     },
     {
+      "added_at": "2022-03-18 06:25:55",
+      "album": {
+        "name": "D A R K",
+        "url": "https://open.spotify.com/album/3PZhMNmC4NMhVCWimFZMKZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Johan",
+          "url": "https://open.spotify.com/artist/2zM6cLnmBI2c8YjYMj0wi4"
+        }
+      ],
+      "duration_ms": 195755,
+      "name": "D A R K",
+      "url": "https://open.spotify.com/track/5W8BqUjz7Ar57YtVKXeOtZ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Draft 7 \"fruitless love\"",
+        "url": "https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI"
+      },
+      "artists": [
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Draft 7 \"fruitless love\"",
+      "url": "https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "My WorlD With U",
@@ -163,22 +275,6 @@
       "duration_ms": 207200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Draft 7 \"fruitless love\"",
-        "url": "https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI"
-      },
-      "artists": [
-        {
-          "name": "Hailes",
-          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Draft 7 \"fruitless love\"",
-      "url": "https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN"
     },
     {
       "added_at": "2022-03-16 18:15:34",
@@ -219,6 +315,26 @@
       "duration_ms": 160769,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a"
+    },
+    {
+      "added_at": "2022-03-16 18:15:34",
+      "album": {
+        "name": "Sit Back",
+        "url": "https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 180467,
+      "name": "Sit Back",
+      "url": "https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF"
     },
     {
       "added_at": "2022-03-16 18:15:34",
@@ -363,6 +479,22 @@
       "duration_ms": 202105,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
+    },
+    {
+      "added_at": "2022-03-16 18:15:34",
+      "album": {
+        "name": "Hold That",
+        "url": "https://open.spotify.com/album/5ZlmpEpvSuA8gMGzFt9SXT"
+      },
+      "artists": [
+        {
+          "name": "Yarah",
+          "url": "https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr"
+        }
+      ],
+      "duration_ms": 116657,
+      "name": "Hold That",
+      "url": "https://open.spotify.com/track/0Le7E1fueY5jBg5kNUdfVY"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1287,22 +1419,6 @@
     {
       "added_at": "2022-02-02 17:00:00",
       "album": {
-        "name": "SOULMATES TO STRANGERS",
-        "url": "https://open.spotify.com/album/5MFjVyMzs0n38B0l0Ajr6i"
-      },
-      "artists": [
-        {
-          "name": "The Wavvve",
-          "url": "https://open.spotify.com/artist/2BkOY8ck9oNzQUNjlne9HS"
-        }
-      ],
-      "duration_ms": 179461,
-      "name": "SOULMATES TO STRANGERS",
-      "url": "https://open.spotify.com/track/4surGplwxcqMFrRMhpOWZC"
-    },
-    {
-      "added_at": "2022-02-02 17:00:00",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/1tNN4a5dTiTeeKHC8Qc7ZI"
       },
@@ -1367,22 +1483,6 @@
     {
       "added_at": "2022-02-02 17:00:00",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/5DFKGdfg2wcfytWU0D92Mp"
-      },
-      "artists": [
-        {
-          "name": "Danyell\u00e9",
-          "url": "https://open.spotify.com/artist/522uG9gSkR0QAYNKOX8bOx"
-        }
-      ],
-      "duration_ms": 210001,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/7036ZWYdPMbv8CCjxzm05H"
-    },
-    {
-      "added_at": "2022-02-02 17:00:00",
-      "album": {
         "name": "30k \u2013 E.P.",
         "url": "https://open.spotify.com/album/56fjsHI6r1jmTRX4k0N4TK"
       },
@@ -1415,22 +1515,6 @@
     {
       "added_at": "2022-02-02 17:00:00",
       "album": {
-        "name": "Only Love",
-        "url": "https://open.spotify.com/album/3fM9SLfzl2pu0pl4Hc0PVA"
-      },
-      "artists": [
-        {
-          "name": "Laureli",
-          "url": "https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g"
-        }
-      ],
-      "duration_ms": 175518,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/4oKaJZZAQOUnkjtQ9GsDwv"
-    },
-    {
-      "added_at": "2022-02-02 17:00:00",
-      "album": {
         "name": "You Fake AF",
         "url": "https://open.spotify.com/album/6ZJKTtZxDfb6MEGtJrX1KF"
       },
@@ -1451,22 +1535,6 @@
       "duration_ms": 209150,
       "name": "You Fake AF",
       "url": "https://open.spotify.com/track/54J84VVN4qh4xZkVEaCaCi"
-    },
-    {
-      "added_at": "2022-02-02 17:00:00",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/7ePCdSU20AMlySWblW97dZ"
-      },
-      "artists": [
-        {
-          "name": "LAV",
-          "url": "https://open.spotify.com/artist/4KWE4Xq3SJgnKjDwiwRBMw"
-        }
-      ],
-      "duration_ms": 206690,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/6AJrAfn4NHm5OiT6tgscz8"
     },
     {
       "added_at": "2022-02-09 17:00:00",
@@ -1523,22 +1591,6 @@
     {
       "added_at": "2022-02-16 20:54:50",
       "album": {
-        "name": "Frostprins",
-        "url": "https://open.spotify.com/album/2DbXbUnd6J20m19twP7rJj"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/0Dw8InecdpwJM1i30DSpth"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "Frostprins",
-      "url": "https://open.spotify.com/track/444HUkof2v9U0KDoY4JEyH"
-    },
-    {
-      "added_at": "2022-02-16 20:54:50",
-      "album": {
         "name": "Special Delivery",
         "url": "https://open.spotify.com/album/7996yjqAYq99uafiCJM77Z"
       },
@@ -1555,26 +1607,6 @@
       "duration_ms": 227475,
       "name": "On You",
       "url": "https://open.spotify.com/track/3ythtQRDBoO7DPye4rw9k0"
-    },
-    {
-      "added_at": "2022-03-02 17:00:00",
-      "album": {
-        "name": "Not This Time",
-        "url": "https://open.spotify.com/album/6PhwPyajkrGB7KUQuv7OrM"
-      },
-      "artists": [
-        {
-          "name": "Lolli",
-          "url": "https://open.spotify.com/artist/4zPx3sAJgeFzeYqGX16DK9"
-        },
-        {
-          "name": "Buto",
-          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Not This Time",
-      "url": "https://open.spotify.com/track/4zfCSW9RHBve1E0Tq4GxGx"
     },
     {
       "added_at": "2022-02-23 17:00:00",
@@ -1627,22 +1659,6 @@
     {
       "added_at": "2022-02-23 17:00:00",
       "album": {
-        "name": "Rescue (Reimagined)",
-        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 195679,
-      "name": "Rescue (Reimagined)",
-      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
-    },
-    {
-      "added_at": "2022-02-23 17:00:00",
-      "album": {
         "name": "call me",
         "url": "https://open.spotify.com/album/6uUlEbUkTNxw324AZBhIbB"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 229821,
       "name": "Bouquets",
       "url": "https://open.spotify.com/track/7IEXIiFwSv3KU5dDHSEUaC"
-    },
-    {
-      "added_at": "2022-03-02 17:00:00",
-      "album": {
-        "name": "Suppress (Original)",
-        "url": "https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Suppress",
-      "url": "https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX"
     },
     {
       "added_at": "2022-03-02 17:00:00",

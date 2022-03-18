@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 艾薇 \(Ivy Lee\)
+> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 壞特 \(?te\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,239 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,258 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [偷走青春的歲月](https://open.spotify.com/track/4NEt76oRzbOeJeGFmmG4nn) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [偷走青春的歲月](https://open.spotify.com/album/2tJ659pRFGkbC9ibRswD8D) | 4:19 |
 | 60 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/5CVLF555R63QYvmDQCKZAG) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/album/6IwxNZDPjOnC0B1JLThqdo) | 2:57 |
 
-Snapshot ID: `MTY0NzQzODIyOCwwMDAwMDA3YzAwMDAwMTdmOTJmODZhYjIwMDAwMDE3ZjkyZjM5ZGYx`
+Snapshot ID: `MTY0NzUzMjgwMCwwMDAwMDA4MjAwMDAwMTdmOTg5Yjc4OTEwMDAwMDE3Zjk1ZTE0ZThl`

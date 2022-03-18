@@ -1,63 +1,31 @@
 {
-  "description": "The pulse of R&B music today.  Cover: Lucky Daye",
-  "num_followers": 5867385,
+  "description": "The pulse of R&B music today.  Cover: Normani",
+  "num_followers": 5868035,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDU1MzAwMDAwMTdmNzc1OTExMzMwMDAwMDE3Zjc2MzgzMGFh",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDU1NDAwMDAwMTdmOWI2NTk1MjIwMDAwMDE3ZjlhZDliZDM5",
   "tracks": [
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "DFMU",
-        "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197517,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
@@ -81,59 +49,39 @@
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "NWA (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
+        "name": "DFMU",
+        "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 231570,
-      "name": "NWA (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+      "duration_ms": 197517,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Late Nights With Jeremih",
-        "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 184216,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/4Akv7im73zdPuVKwsiqhQS"
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "little story",
         "url": "https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam"
@@ -149,7 +97,43 @@
       "url": "https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Compassion (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
@@ -181,27 +165,7 @@
       "url": "https://open.spotify.com/track/0crw01bqnefvDUDjsuKraD"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Compassion (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Heaux Tales, Mo' Tales: The Deluxe",
         "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
@@ -217,7 +181,7 @@
       "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
@@ -233,7 +197,43 @@
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "NWA (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 231570,
+      "name": "NWA (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Late Nights With Jeremih",
+        "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 184216,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/4Akv7im73zdPuVKwsiqhQS"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Hate Our Love (with Big Sean)",
         "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
@@ -317,7 +317,23 @@
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Heaux Tales, Mo' Tales: The Deluxe",
         "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Please Don't Walk Away",
         "url": "https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "What's Love / Sl*t Him Out",
         "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Try Peace...",
         "url": "https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Don't Say I Didn't Warn You",
         "url": "https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/7ifz6wYLdZ1ujxzXSnBTvd"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Rent Free / By Any Means",
         "url": "https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Iffy",
         "url": "https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Poison (feat. The Weeknd)",
         "url": "https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Rent Money (feat. Dave East)",
         "url": "https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "altar",
         "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Nothing Feels Better",
         "url": "https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Get Back (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
@@ -897,27 +913,7 @@
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Still FWM",
         "url": "https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO"

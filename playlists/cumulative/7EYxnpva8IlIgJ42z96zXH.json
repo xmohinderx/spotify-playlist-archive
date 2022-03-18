@@ -1130,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Couple Bandz EP",
+        "url": "https://open.spotify.com/album/3ZNys1mUDFjv5lHpyNDYik"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Promnite",
+          "url": "https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Couple Bandz",
+      "url": "https://open.spotify.com/track/6aVk0HYYYJKcIDeh16kOvk"
+    },
+    {
+      "album": {
         "name": "Critical",
         "url": "https://open.spotify.com/album/2xsNfWycOQhnQ9Gx1z1Cax"
       },
@@ -3597,7 +3619,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 234374,
       "name": "Let You Go (feat. Kareen Lomax)",
       "url": "https://open.spotify.com/track/4VEEC6sCpH1AnP1bVF1vuf"

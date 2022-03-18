@@ -1,13 +1,29 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=qzKfHiReTJWF_XBVqjTcAQ\"> Cruel Santino </a> ",
-  "num_followers": 58081,
+  "num_followers": 58127,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAwMDAwMCwwMDAwMDBiZTAwMDAwMTdmNzhkOTk2NTgwMDAwMDE3ZjRlNjc4YjFk",
+  "snapshot_id": "MTY0NzU5MjA4NiwwMDAwMDBjMTAwMDAwMTdmOWMyNDE5ZmUwMDAwMDE3ZjRlNjc4YjFk",
   "tracks": [
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "FINAL CHAMPION",
+      "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
+    },
     {
       "added_at": "2022-03-11 12:00:00",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Silver Spoon Interlude/ Jezebel",
+        "url": "https://open.spotify.com/album/7dKn566TDdomhx9ztHIszj"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 138142,
+      "name": "Silver Spoon Interlude",
+      "url": "https://open.spotify.com/track/1lB32vlcLZhXtqZbaIgdz0"
     },
     {
       "added_at": "2021-11-11 23:00:00",
@@ -75,26 +107,6 @@
       "duration_ms": 151898,
       "name": "Company",
       "url": "https://open.spotify.com/track/79ydXWBVWRziknKUc2l4sT"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Arrested by Love",
-        "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
-      },
-      "artists": [
-        {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 221881,
-      "name": "ANCESTORS",
-      "url": "https://open.spotify.com/track/0RSDH2CCDTzOZo0UIBiUNM"
     },
     {
       "added_at": "2022-03-03 23:01:00",
@@ -169,6 +181,26 @@
       "url": "https://open.spotify.com/track/4JfsvpTMSYW9bU97A4PiGa"
     },
     {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Sullen",
+        "url": "https://open.spotify.com/album/2tdjV7IB1SennbPDGjwGCu"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "Rookie Sbk",
+          "url": "https://open.spotify.com/artist/2ERDwX9D7OE26COqPqTPVa"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Sullen",
+      "url": "https://open.spotify.com/track/6KqN3qd3H0GILUSx3nA2rf"
+    },
+    {
       "added_at": "2021-12-17 08:42:53",
       "album": {
         "name": "SLIDE",
@@ -189,6 +221,26 @@
       "url": "https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW"
     },
     {
+      "added_at": "2022-03-17 06:14:33",
+      "album": {
+        "name": "Ju Leebi",
+        "url": "https://open.spotify.com/album/2z4XvTTtXVwWte0QTG6rKo"
+      },
+      "artists": [
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        },
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        }
+      ],
+      "duration_ms": 261870,
+      "name": "Yehushalem",
+      "url": "https://open.spotify.com/track/12L73REWwK1FizL89f6NBt"
+    },
+    {
       "added_at": "2021-12-02 23:02:00",
       "album": {
         "name": "Stairway To Heaven",
@@ -207,6 +259,22 @@
       "duration_ms": 203951,
       "name": "Abeg (feat. Amindi)",
       "url": "https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP"
+    },
+    {
+      "added_at": "2022-03-18 08:28:06",
+      "album": {
+        "name": "AA side",
+        "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        }
+      ],
+      "duration_ms": 218863,
+      "name": "olivine",
+      "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
     },
     {
       "added_at": "2022-02-17 23:00:00",
@@ -247,26 +315,6 @@
       "duration_ms": 240000,
       "name": "Love Essential",
       "url": "https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap"
-    },
-    {
-      "added_at": "2021-09-16 23:00:00",
-      "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5"
     },
     {
       "added_at": "2022-03-03 23:01:00",
@@ -359,6 +407,22 @@
       "duration_ms": 171538,
       "name": "DEADMAN BONE (feat. Koffee)",
       "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/7FgEXVgAP6fJjkZcHdc30T"
+      },
+      "artists": [
+        {
+          "name": "July Drama",
+          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
+        }
+      ],
+      "duration_ms": 144905,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/1wegRvKF1pqIRbmKBldgqi"
     },
     {
       "added_at": "2022-03-03 23:01:00",
@@ -525,24 +589,20 @@
       "url": "https://open.spotify.com/track/3615rdkHPXPOOs1PFWd2ec"
     },
     {
-      "added_at": "2022-03-11 12:00:00",
+      "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/6LZ1KtkQ9TdiMqCl8Zgbcl"
+        "name": "Chigal",
+        "url": "https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK"
       },
       "artists": [
         {
-          "name": "Dxt3r",
-          "url": "https://open.spotify.com/artist/6QKdDl64WMJdMq4jEq1KqM"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
         }
       ],
-      "duration_ms": 160631,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6jSPUjGYauc1UER6jFM1g8"
+      "duration_ms": 126254,
+      "name": "Chigal",
+      "url": "https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL"
     },
     {
       "added_at": "2021-02-26 00:00:00",
@@ -585,36 +645,20 @@
       "url": "https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c"
     },
     {
-      "added_at": "2021-11-18 23:01:00",
+      "added_at": "2022-02-03 23:02:00",
       "album": {
-        "name": "Half A Tab",
-        "url": "https://open.spotify.com/album/5yeqa3GNE5Zcs61GSed69Y"
+        "name": "Try",
+        "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 147223,
-      "name": "Half A Tab",
-      "url": "https://open.spotify.com/track/1b2mZ6mvFiZODiryE8yCbu"
-    },
-    {
-      "added_at": "2022-03-03 23:01:00",
-      "album": {
-        "name": "OFFERING",
-        "url": "https://open.spotify.com/album/59Bf0uQvMk3dS9MXlEMQP4"
-      },
-      "artists": [
-        {
-          "name": "burningforestboy",
-          "url": "https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "OFFERING",
-      "url": "https://open.spotify.com/track/0T0dAf6Psx6CQQs3Zyfvey"
+      "duration_ms": 224986,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
     },
     {
       "added_at": "2021-12-16 23:02:00",
@@ -957,22 +1001,6 @@
       "url": "https://open.spotify.com/track/4QR2vhA68N0j8gL9wabTVk"
     },
     {
-      "added_at": "2021-10-08 05:19:30",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/2ScVPpkCELgEgbTupECpGe"
-      },
-      "artists": [
-        {
-          "name": "Ictooicy",
-          "url": "https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js"
-        }
-      ],
-      "duration_ms": 120283,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/4HapX62jAiKegF3rzNkirV"
-    },
-    {
       "added_at": "2021-12-09 23:02:00",
       "album": {
         "name": "Sugar",
@@ -1045,22 +1073,6 @@
       "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
     },
     {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
-    },
-    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "Love and Ties",
@@ -1123,26 +1135,6 @@
       "duration_ms": 253150,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "OKAY! (Prod. Gesaffelstein)",
-        "url": "https://open.spotify.com/album/06Rzy0mTJ33m3Wu2lRkMFw"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "OKAY! (Prod. Gesaffelstein)",
-      "url": "https://open.spotify.com/track/5UdXcCJfEye6TCwAvUvzgD"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

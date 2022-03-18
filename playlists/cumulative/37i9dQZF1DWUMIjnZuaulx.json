@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Tasha Cobbs Leonard",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Erica Campbell",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "God Made",
+        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200140,
+      "name": "God Made",
+      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
+    },
+    {
+      "album": {
         "name": "God Of Mercy (Radio Version)",
         "url": "https://open.spotify.com/album/3B6F01bYthFwJB0jm9Fmpz"
       },
@@ -517,7 +535,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 272926,
       "name": "God of Miracles",
       "url": "https://open.spotify.com/track/71d0DJzTgKXvW3QkEvK18V"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
@@ -931,6 +949,24 @@
       "duration_ms": 210090,
       "name": "I'll Follow You",
       "url": "https://open.spotify.com/track/6bkBiQxDp9unoErvuUbNBk"
+    },
+    {
+      "album": {
+        "name": "I'm Walking",
+        "url": "https://open.spotify.com/album/7l0WaATOjnITs9zuDRZXk3"
+      },
+      "artists": [
+        {
+          "name": "Zeke Locke & The NuXperience",
+          "url": "https://open.spotify.com/artist/3gpJHpenPoO7wClEPKxaQ4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "I'm Walking",
+      "url": "https://open.spotify.com/track/2zuOKB1VTStUdgcIX1EjDj"
     },
     {
       "album": {
@@ -1540,6 +1576,28 @@
     },
     {
       "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336696,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/4TIaTZR0IRa5WLVQ8D7GOe"
       },
@@ -1620,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
+    },
+    {
+      "album": {
         "name": "Promise Keeper",
         "url": "https://open.spotify.com/album/0GRtoCgh0GL3kUgxHxuVtv"
       },
@@ -1631,7 +1707,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 257789,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/1bMjLziHSeLBZ4wuAsCfcx"
@@ -1769,7 +1845,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 347752,
       "name": "Something Has To Break (feat. Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"

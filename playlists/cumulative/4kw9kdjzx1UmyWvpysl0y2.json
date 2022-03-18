@@ -1647,10 +1647,36 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 204482,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
+    },
+    {
+      "album": {
+        "name": "Space Boy",
+        "url": "https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "Space Boy",
+      "url": "https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum"
     },
     {
       "album": {

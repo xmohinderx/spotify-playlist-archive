@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-01",
+      "date_removed": null,
       "duration_ms": 288902,
       "name": "Balam Pichkari",
       "url": "https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-08-10",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1927,7 +1927,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 232762,
       "name": "Ee Raathale (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/50RcuWjfUcoJfWMNegXF0b"
@@ -3345,7 +3345,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181394,
       "name": "Judge",
       "url": "https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe"
@@ -3565,7 +3565,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
@@ -3635,7 +3635,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 195616,
       "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
       "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
@@ -7209,6 +7209,24 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "album": {
+        "name": "WE ROLLIN",
+        "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "WE ROLLIN",
+      "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
     },
     {
       "album": {

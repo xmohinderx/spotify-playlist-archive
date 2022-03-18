@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=hJQ0CAbaS9KgbIgYL-4_UA\"> Boj </a>  and  <a href=\"https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL?si=GWyPZvSVQ0yIjkCmjx1UZg\"> ENNY </a>  ",
+  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=u-zPf86dQQGhC0Gno9PsNw\"> Shane Eagle </a> ",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 207065,
       "name": "ASTRONAUTE",
       "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
@@ -1321,10 +1321,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 232630,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/6miftk872yxPKve9CdKaQO"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115685,
+      "name": "Sistine Chapel",
+      "url": "https://open.spotify.com/track/5wbu811arscgby6HcCDe5m"
     },
     {
       "album": {
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 177710,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
@@ -1624,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/086H865L3KSS8bGlUImH90"
+    },
+    {
+      "album": {
         "name": "Wavy (feat. Sarkodie)",
         "url": "https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB"
       },
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 187012,
       "name": "Why Me?",
       "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"

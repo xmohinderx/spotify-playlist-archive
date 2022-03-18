@@ -1,13 +1,33 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=9hoUsqccRN2FqLrRk29y5g\">Dan Patlansky</a>",
-  "num_followers": 9949,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=34uVb-0eRy-in1CwBYVnNg\">Internet Girl</a>",
+  "num_followers": 9963,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM0NDc0MCwwMDAwMDJiMjAwMDAwMTdmNTFjYjFkMGUwMDAwMDE3ZjJmYzNjNWU2",
+  "snapshot_id": "MTY0NzU1NDM0MCwwMDAwMDJiMzAwMDAwMTdmOTllNDI1MDUwMDAwMDE3Zjk5YjUyOGJl",
   "tracks": [
+    {
+      "added_at": "2022-03-17 21:59:00",
+      "album": {
+        "name": "brokeboy",
+        "url": "https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "brokeboy",
+      "url": "https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg"
+    },
     {
       "added_at": "2021-09-02 21:59:00",
       "album": {
@@ -109,22 +129,6 @@
       "url": "https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn"
     },
     {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "Druppels",
-        "url": "https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL"
-      },
-      "artists": [
-        {
-          "name": "Gevoel van Veiligheid",
-          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
-        }
-      ],
-      "duration_ms": 229134,
-      "name": "Druppels",
-      "url": "https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc"
-    },
-    {
       "added_at": "2021-07-29 21:59:00",
       "album": {
         "name": "Wasteland - The Purgatory EP",
@@ -141,6 +145,22 @@
       "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
     },
     {
+      "added_at": "2022-03-17 21:59:00",
+      "album": {
+        "name": "Quit It",
+        "url": "https://open.spotify.com/album/1YoAazxKlSbG2lvw6PYygm"
+      },
+      "artists": [
+        {
+          "name": "Black Cat Bones",
+          "url": "https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Quit It",
+      "url": "https://open.spotify.com/track/0EcRozLgRMqpcoaZK92xHd"
+    },
+    {
       "added_at": "2021-06-10 21:59:00",
       "album": {
         "name": "Ons Het Gewen",
@@ -155,6 +175,38 @@
       "duration_ms": 182410,
       "name": "Ons Het Gewen",
       "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
+    },
+    {
+      "added_at": "2022-03-03 21:59:00",
+      "album": {
+        "name": "Druppels",
+        "url": "https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL"
+      },
+      "artists": [
+        {
+          "name": "Gevoel van Veiligheid",
+          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
+        }
+      ],
+      "duration_ms": 229134,
+      "name": "Druppels",
+      "url": "https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc"
+    },
+    {
+      "added_at": "2021-08-19 21:59:00",
+      "album": {
+        "name": "Kom Saam",
+        "url": "https://open.spotify.com/album/42HX577ta5Fj6hY3dokI82"
+      },
+      "artists": [
+        {
+          "name": "Straatligkinders",
+          "url": "https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Kom Saam",
+      "url": "https://open.spotify.com/track/1AhNnE44HmpMjJ6sdCLlcu"
     },
     {
       "added_at": "2022-01-21 09:30:41",
@@ -193,6 +245,22 @@
       "url": "https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI"
     },
     {
+      "added_at": "2022-03-17 21:59:00",
+      "album": {
+        "name": "Ready to Die",
+        "url": "https://open.spotify.com/album/3stCq0SbASgsSGZH2cjMb1"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "duration_ms": 230712,
+      "name": "Ready to Die",
+      "url": "https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R"
+    },
+    {
       "added_at": "2021-12-09 21:59:00",
       "album": {
         "name": "Always Remember",
@@ -207,22 +275,6 @@
       "duration_ms": 229050,
       "name": "Always Remember",
       "url": "https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx"
-    },
-    {
-      "added_at": "2021-08-19 21:59:00",
-      "album": {
-        "name": "Kom Saam",
-        "url": "https://open.spotify.com/album/42HX577ta5Fj6hY3dokI82"
-      },
-      "artists": [
-        {
-          "name": "Straatligkinders",
-          "url": "https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Kom Saam",
-      "url": "https://open.spotify.com/track/1AhNnE44HmpMjJ6sdCLlcu"
     },
     {
       "added_at": "2022-02-03 21:59:00",
@@ -241,22 +293,6 @@
       "url": "https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy"
     },
     {
-      "added_at": "2022-02-17 21:59:00",
-      "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe"
-      },
-      "artists": [
-        {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
-        }
-      ],
-      "duration_ms": 240378,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU"
-    },
-    {
       "added_at": "2021-03-25 22:00:00",
       "album": {
         "name": "Undone (Elephant in the room)",
@@ -271,6 +307,22 @@
       "duration_ms": 214000,
       "name": "Undone - Elephant in the room",
       "url": "https://open.spotify.com/track/0tzBYDsCRT9rZDirLc5gWY"
+    },
+    {
+      "added_at": "2022-02-17 21:59:00",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "duration_ms": 240378,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU"
     },
     {
       "added_at": "2022-02-03 21:59:00",
@@ -289,44 +341,20 @@
       "url": "https://open.spotify.com/track/7LaWuvkaGrnb0if4RJnlWM"
     },
     {
-      "added_at": "2022-03-03 21:59:00",
+      "added_at": "2022-01-21 09:30:41",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr"
+        "name": "Last Tear",
+        "url": "https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS"
       },
       "artists": [
         {
-          "name": "Sonofold",
-          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+          "name": "Nine",
+          "url": "https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me"
         }
       ],
-      "duration_ms": 213626,
-      "name": "A New Transition",
-      "url": "https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg"
-    },
-    {
-      "added_at": "2022-02-17 21:59:00",
-      "album": {
-        "name": "Thinking Too Hard",
-        "url": "https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk"
-      },
-      "artists": [
-        {
-          "name": "Evert Snyman",
-          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
-        },
-        {
-          "name": "The Aviary",
-          "url": "https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5"
-        },
-        {
-          "name": "Jacques Moolman",
-          "url": "https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l"
-        }
-      ],
-      "duration_ms": 140103,
-      "name": "Thinking Too Hard",
-      "url": "https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ"
+      "duration_ms": 241111,
+      "name": "Last Tear",
+      "url": "https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf"
     },
     {
       "added_at": "2022-02-03 21:59:00",
@@ -345,36 +373,20 @@
       "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
     },
     {
-      "added_at": "2022-01-21 09:30:41",
+      "added_at": "2022-03-03 21:59:00",
       "album": {
-        "name": "Last Tear",
-        "url": "https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr"
       },
       "artists": [
         {
-          "name": "Nine",
-          "url": "https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me"
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
         }
       ],
-      "duration_ms": 241111,
-      "name": "Last Tear",
-      "url": "https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "Skylight",
-        "url": "https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
+      "duration_ms": 213626,
+      "name": "A New Transition",
+      "url": "https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg"
     },
     {
       "added_at": "2021-07-01 21:59:00",
@@ -425,6 +437,142 @@
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
     },
     {
+      "added_at": "2021-02-25 22:00:00",
+      "album": {
+        "name": "Begin Van Die Einde",
+        "url": "https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 208939,
+      "name": "Begin Van Die Einde",
+      "url": "https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG"
+    },
+    {
+      "added_at": "2022-02-17 21:59:00",
+      "album": {
+        "name": "Thinking Too Hard",
+        "url": "https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        },
+        {
+          "name": "The Aviary",
+          "url": "https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5"
+        },
+        {
+          "name": "Jacques Moolman",
+          "url": "https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l"
+        }
+      ],
+      "duration_ms": 140103,
+      "name": "Thinking Too Hard",
+      "url": "https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ"
+    },
+    {
+      "added_at": "2022-03-17 21:59:00",
+      "album": {
+        "name": "I Never Listen When You Speak",
+        "url": "https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "I Never Listen When You Speak",
+      "url": "https://open.spotify.com/track/2mTWLZCUEbeivHDf1ssVos"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "Skylight",
+        "url": "https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
+    },
+    {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "Prodigal Son",
+        "url": "https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Prodigal Son",
+      "url": "https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf"
+    },
+    {
+      "added_at": "2021-11-25 21:59:00",
+      "album": {
+        "name": "Hounds Loose",
+        "url": "https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO"
+      },
+      "artists": [
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Hounds Loose",
+      "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
+    },
+    {
+      "added_at": "2021-12-09 21:59:00",
+      "album": {
+        "name": "ohmygosh (Acoustic)",
+        "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 252375,
+      "name": "ohmygosh - Acoustic",
+      "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
+    },
+    {
+      "added_at": "2021-09-02 21:59:00",
+      "album": {
+        "name": "Partypocalypse",
+        "url": "https://open.spotify.com/album/4acglMyY50Un4LAW2Gla1H"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 216965,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/2Comn4T4boybdm44GkTLIL"
+    },
+    {
       "added_at": "2022-03-03 21:59:00",
       "album": {
         "name": "The Veneer",
@@ -439,6 +587,22 @@
       "duration_ms": 296277,
       "name": "The Veneer",
       "url": "https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8"
+    },
+    {
+      "added_at": "2022-03-17 21:59:00",
+      "album": {
+        "name": "EX-GIRLFRIEND (Radio Edit)",
+        "url": "https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "duration_ms": 145571,
+      "name": "EX-GIRLFRIEND - Radio Edit",
+      "url": "https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz"
     },
     {
       "added_at": "2022-01-21 09:30:41",
@@ -477,86 +641,6 @@
       "url": "https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT"
     },
     {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Prodigal Son",
-        "url": "https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT"
-      },
-      "artists": [
-        {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Prodigal Son",
-      "url": "https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf"
-    },
-    {
-      "added_at": "2021-11-25 21:59:00",
-      "album": {
-        "name": "Hounds Loose",
-        "url": "https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO"
-      },
-      "artists": [
-        {
-          "name": "Dan Patlansky",
-          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Hounds Loose",
-      "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
-    },
-    {
-      "added_at": "2022-02-25 07:24:37",
-      "album": {
-        "name": "I Feel Fine",
-        "url": "https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv"
-      },
-      "artists": [
-        {
-          "name": "Billy Inglish",
-          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
-        }
-      ],
-      "duration_ms": 188228,
-      "name": "I Feel Fine",
-      "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
-    },
-    {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "ohmygosh (Acoustic)",
-        "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 252375,
-      "name": "ohmygosh - Acoustic",
-      "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
-    },
-    {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "Partypocalypse",
-        "url": "https://open.spotify.com/album/4acglMyY50Un4LAW2Gla1H"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 216965,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/2Comn4T4boybdm44GkTLIL"
-    },
-    {
       "added_at": "2022-02-03 21:59:00",
       "album": {
         "name": "Until I Forget You",
@@ -571,54 +655,6 @@
       "duration_ms": 212718,
       "name": "Until I Forget You",
       "url": "https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC"
-    },
-    {
-      "added_at": "2021-12-02 22:01:35",
-      "album": {
-        "name": "City Of God & The Jungle Below",
-        "url": "https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x"
-      },
-      "artists": [
-        {
-          "name": "Daniel Baron",
-          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
-        }
-      ],
-      "duration_ms": 269976,
-      "name": "How To Feel",
-      "url": "https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT"
-    },
-    {
-      "added_at": "2021-02-25 22:00:00",
-      "album": {
-        "name": "Begin Van Die Einde",
-        "url": "https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 208939,
-      "name": "Begin Van Die Einde",
-      "url": "https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG"
-    },
-    {
-      "added_at": "2022-02-10 21:59:00",
-      "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp"
-      },
-      "artists": [
-        {
-          "name": "Future Radio",
-          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
-        }
-      ],
-      "duration_ms": 201316,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl"
     },
     {
       "added_at": "2022-02-10 21:59:00",
@@ -637,22 +673,6 @@
       "url": "https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH"
     },
     {
-      "added_at": "2021-01-21 22:00:00",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/1EgJlERi45NG1kkLNTjnDj"
-      },
-      "artists": [
-        {
-          "name": "Albert Frost",
-          "url": "https://open.spotify.com/artist/4x88egAimbGBaaIn3YScwS"
-        }
-      ],
-      "duration_ms": 263847,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/7h7BQnUpWSdhSmrlaXBZuW"
-    },
-    {
       "added_at": "2021-05-05 11:25:00",
       "album": {
         "name": "She's got Soul",
@@ -667,6 +687,86 @@
       "duration_ms": 189250,
       "name": "She's Got Soul",
       "url": "https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg"
+    },
+    {
+      "added_at": "2021-05-06 21:59:00",
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/0fRN2TVobFPEhOBfpU12tg"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Elephant in the Room",
+      "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
+    },
+    {
+      "added_at": "2021-12-02 22:01:35",
+      "album": {
+        "name": "City Of God & The Jungle Below",
+        "url": "https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "duration_ms": 269976,
+      "name": "How To Feel",
+      "url": "https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT"
+    },
+    {
+      "added_at": "2022-02-10 21:59:00",
+      "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp"
+      },
+      "artists": [
+        {
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+        }
+      ],
+      "duration_ms": 201316,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl"
+    },
+    {
+      "added_at": "2022-02-25 07:24:37",
+      "album": {
+        "name": "I Feel Fine",
+        "url": "https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv"
+      },
+      "artists": [
+        {
+          "name": "Billy Inglish",
+          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
+        }
+      ],
+      "duration_ms": 188228,
+      "name": "I Feel Fine",
+      "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
+    },
+    {
+      "added_at": "2021-01-21 22:00:00",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1EgJlERi45NG1kkLNTjnDj"
+      },
+      "artists": [
+        {
+          "name": "Albert Frost",
+          "url": "https://open.spotify.com/artist/4x88egAimbGBaaIn3YScwS"
+        }
+      ],
+      "duration_ms": 263847,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/7h7BQnUpWSdhSmrlaXBZuW"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -733,22 +833,6 @@
       "url": "https://open.spotify.com/track/5d0j1i2GP8XwXbLqBUgkcz"
     },
     {
-      "added_at": "2021-05-06 21:59:00",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/0fRN2TVobFPEhOBfpU12tg"
-      },
-      "artists": [
-        {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Elephant in the Room",
-      "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
-    },
-    {
       "added_at": "2021-10-07 21:59:00",
       "album": {
         "name": "Your Best Friend Hates Me 2",
@@ -801,6 +885,22 @@
       "url": "https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa"
     },
     {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "Sick & Tired",
+        "url": "https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE"
+      },
+      "artists": [
+        {
+          "name": "Dyluded",
+          "url": "https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW"
+        }
+      ],
+      "duration_ms": 152634,
+      "name": "Sick & Tired",
+      "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
+    },
+    {
       "added_at": "2021-10-07 21:59:00",
       "album": {
         "name": "A World at Suicide",
@@ -817,20 +917,20 @@
       "url": "https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo"
     },
     {
-      "added_at": "2022-02-25 07:24:37",
+      "added_at": "2021-05-06 21:59:00",
       "album": {
-        "name": "Shelter Of Bones",
-        "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG"
       },
       "artists": [
         {
-          "name": "Dan Patlansky",
-          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+          "name": "The Medicine Dolls",
+          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
         }
       ],
-      "duration_ms": 194053,
-      "name": "Selfish Lover",
-      "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
+      "duration_ms": 239500,
+      "name": "Psycho Killer - Single Version",
+      "url": "https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -901,22 +1001,6 @@
       "url": "https://open.spotify.com/track/57Fo0TBbJvUndg5OXfhiNh"
     },
     {
-      "added_at": "2021-05-06 21:59:00",
-      "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG"
-      },
-      "artists": [
-        {
-          "name": "The Medicine Dolls",
-          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Psycho Killer - Single Version",
-      "url": "https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW"
-    },
-    {
       "added_at": "2021-11-25 21:59:00",
       "album": {
         "name": "Didn't Want To Fall In Love With You (Radio Edit)",
@@ -949,22 +1033,6 @@
       "url": "https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2"
     },
     {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Hunted Women",
-        "url": "https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp"
-      },
-      "artists": [
-        {
-          "name": "Kabaal Klankbaan",
-          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Raise a Glass",
-      "url": "https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70"
-    },
-    {
       "added_at": "2021-09-23 22:02:15",
       "album": {
         "name": "A World at Suicide",
@@ -979,26 +1047,6 @@
       "duration_ms": 284573,
       "name": "In Search of Better Days",
       "url": "https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y"
-    },
-    {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "The Art of Escape / The Escape of Art",
-        "url": "https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl"
-      },
-      "artists": [
-        {
-          "name": "Soul Suture",
-          "url": "https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA"
-        },
-        {
-          "name": "Fred Honig",
-          "url": "https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
     },
     {
       "added_at": "2021-07-29 21:59:00",
@@ -1033,20 +1081,52 @@
       "url": "https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj"
     },
     {
-      "added_at": "2021-11-11 21:59:00",
+      "added_at": "2021-10-14 21:59:00",
       "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J"
+        "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj"
       },
       "artists": [
         {
-          "name": "The Vast Oddity",
-          "url": "https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO"
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
         }
       ],
-      "duration_ms": 176143,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/05PILc8wNotPdvMeukiElo"
+      "duration_ms": 192013,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN"
+    },
+    {
+      "added_at": "2021-06-24 21:59:00",
+      "album": {
+        "name": "Swine Tooth Grin",
+        "url": "https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 213252,
+      "name": "Swine Tooth Grin - Single Mix",
+      "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
+    },
+    {
+      "added_at": "2022-02-25 07:24:37",
+      "album": {
+        "name": "Shelter Of Bones",
+        "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
+      },
+      "artists": [
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Selfish Lover",
+      "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
     },
     {
       "added_at": "2020-10-29 21:59:00",
@@ -1067,42 +1147,6 @@
     {
       "added_at": "2021-11-11 21:59:00",
       "album": {
-        "name": "Sick & Tired",
-        "url": "https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE"
-      },
-      "artists": [
-        {
-          "name": "Dyluded",
-          "url": "https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW"
-        }
-      ],
-      "duration_ms": 152634,
-      "name": "Sick & Tired",
-      "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
-    },
-    {
-      "added_at": "2021-09-23 22:02:15",
-      "album": {
-        "name": "Toxic Memories",
-        "url": "https://open.spotify.com/album/21uYLW8NnoSJVdYTamQGx6"
-      },
-      "artists": [
-        {
-          "name": "KVSE",
-          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
-        },
-        {
-          "name": "SKTLLZ",
-          "url": "https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5"
-        }
-      ],
-      "duration_ms": 161313,
-      "name": "Toxic Memories",
-      "url": "https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
         "name": "Invisible Visitor",
         "url": "https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP"
       },
@@ -1115,54 +1159,6 @@
       "duration_ms": 231714,
       "name": "Invisible Visitor",
       "url": "https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s"
-    },
-    {
-      "added_at": "2021-10-14 21:59:00",
-      "album": {
-        "name": "State of Emergency",
-        "url": "https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj"
-      },
-      "artists": [
-        {
-          "name": "Future Radio",
-          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN"
-    },
-    {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/0yeJ3bXS6BebhK7tgsj7At"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kenadee",
-          "url": "https://open.spotify.com/artist/4gBJXJB30TF58zEcr2YfCP"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Episodes",
-      "url": "https://open.spotify.com/track/4TQhP05KvdqaCBy6zT5oSk"
-    },
-    {
-      "added_at": "2021-06-24 21:59:00",
-      "album": {
-        "name": "Swine Tooth Grin",
-        "url": "https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 213252,
-      "name": "Swine Tooth Grin - Single Mix",
-      "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
     }
   ],
   "unique_name": "SA Rock Essentials",

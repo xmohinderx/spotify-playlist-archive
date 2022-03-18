@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,194 likes - 95 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,422 likes - 95 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 32 | [Natural History Musician](https://open.spotify.com/track/5mqbDwAG0rhSoO9T1KXqGr) | [Trichotomy](https://open.spotify.com/artist/0TWh8SvwU9vR6V3Bz1xN0k) | [Natural History Musician](https://open.spotify.com/album/1PgNt98lLhEPn7YVQyYHFa) | 5:59 |
 | 33 | [Remember the Birds](https://open.spotify.com/track/4i4OURM3c8Leq73eK1LYWF) | [Quinn Sternberg](https://open.spotify.com/artist/5CW15gmFIQI8tufnZwGBrb) | [Cicada Songs](https://open.spotify.com/album/2NIsNIvnCIuV93V47MKMZt) | 4:09 |
 | 34 | [Candaluza \(Bulerías\)](https://open.spotify.com/track/6JjDhUtlRM4mawVeiqZFMU) | [Lara Wong](https://open.spotify.com/artist/2QqCyGDO7DYxAva9OJIdf2), [Melón Jiménez](https://open.spotify.com/artist/3egmU9Nvsi72ljrtpSsVgx), [Jose Manuel Ruiz Motos Bandolero](https://open.spotify.com/artist/6mByXGuyNx2y8qD4HES2iu) | [Rosa de los Vientos](https://open.spotify.com/album/4G3Ig1JC9hAnT50EtYQ79m) | 2:10 |
-| 35 | [Darkness In The Light](https://open.spotify.com/track/3Q1H4z0M8Gm9AHhZ0vzFPq) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO), [Ava Joseph](https://open.spotify.com/artist/3qohF4OEF0OXfERIcj5dkH), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Darkness In The Light](https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy) | 6:18 |
+| 35 | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/track/3Q1H4z0M8Gm9AHhZ0vzFPq) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO), [Ava Joseph](https://open.spotify.com/artist/3qohF4OEF0OXfERIcj5dkH), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy) | 6:18 |
 | 36 | [Aguas Africanas](https://open.spotify.com/track/1QnqwjxRc0yXArwJvG5k3F) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Aguas Africanas](https://open.spotify.com/album/5RGlstdSej92qwW7kuMhpY) | 6:12 |
 | 37 | [Frontline](https://open.spotify.com/track/1ZwQchRRmFIvkKu38j3bPa) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0) | [Frontline](https://open.spotify.com/album/4prDPEeV7EteNa1m4sj0Ei) | 4:46 |
 | 38 | [The Ness](https://open.spotify.com/track/1QdZohfBqWaNlj8qlhxAKd) | [Trish Clowes](https://open.spotify.com/artist/6TyISUtrnzOpBY0RbdtFyc), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA), [Ross Stanley](https://open.spotify.com/artist/2GGnLprXo9lzevvoJq2dh1), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [The Ness](https://open.spotify.com/album/1k4TUmNQM9vS8PU5AxMf5L) | 5:52 |

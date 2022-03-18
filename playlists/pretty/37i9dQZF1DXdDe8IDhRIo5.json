@@ -1,13 +1,29 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 253919,
+  "num_followers": 253982,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDAyZTAwMDAwMTdmMmY0MWRkOGYwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAyZjAwMDAwMTdmOWI2NTk1MTgwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Blue Pearl",
+        "url": "https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "duration_ms": 139983,
+      "name": "Blue Pearl",
+      "url": "https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo"
+    },
     {
       "added_at": "2021-05-25 23:58:49",
       "album": {

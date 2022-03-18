@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
-> Global crossovers by/with Arab artists\. Cover: Llunr.
+> Global crossovers by/with Arab artists\. Cover: Lana Lubany.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [98](https://open.spotify.com/track/6okHkR2LOhiG4N2TvzdBv1) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [98](https://open.spotify.com/album/0v3YroS2CONYOXrxxLICs2) | 2:26 | 2022-01-24 |  |
 | [Amazing](https://open.spotify.com/track/79jaXPnfIMOQj5Qj6j8D1p) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [IQ](https://open.spotify.com/artist/5TblKpRNNIvsQoYPAQDVoB) | [Amazing](https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ) | 3:17 | 2021-12-16 |  |
 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 | 2021-12-16 |  |
-| [Ana Ba7lam Bik](https://open.spotify.com/track/7KbD1PRBkbiyqvlOB6zwP1) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP) | [Ana Ba7lam Bik](https://open.spotify.com/album/1FpNxDYjrU8LsFoSNEagZE) | 2:50 | 2021-12-16 |  |
+| [Ana Ba7lam Bik](https://open.spotify.com/track/7KbD1PRBkbiyqvlOB6zwP1) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP) | [Ana Ba7lam Bik](https://open.spotify.com/album/1FpNxDYjrU8LsFoSNEagZE) | 2:50 | 2021-12-16 | 2022-03-18 |
 | [Angelina](https://open.spotify.com/track/30OhqK9SuyX36Pb7FeZqSy) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Timba Jd](https://open.spotify.com/artist/3NXfj2V8vSbjuUZfxlNsli) | [Angelina](https://open.spotify.com/album/52oy3ycpsxHSC2jIn97lHX) | 2:52 | 2021-12-16 |  |
 | [Anti\-Hero \(feat\. The Synaptik\)](https://open.spotify.com/track/7cbDNifAcR2rYgAofqHujO) | [Chyno with a Why?](https://open.spotify.com/artist/6andpWdsNFMIOgxISRp14o), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Anti\-Hero \(feat\. The Synaptik\)](https://open.spotify.com/album/0ouUf4QW3ukE5UcxwN00xH) | 4:09 | 2021-12-16 |  |
 | [Arab Way](https://open.spotify.com/track/64iJCxwcWh4RpYCYlKydZs) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:13 | 2022-03-03 |  |
@@ -59,6 +59,7 @@
 | [Hair Up](https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o) | [Nadine](https://open.spotify.com/artist/4UnznusdX9MEldtlPuh5Oq) | [Hair Up](https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S) | 3:07 | 2021-12-16 | 2022-02-22 |
 | [Hayati \(feat\. Carole Samaha, Lartiste & Daffy\)](https://open.spotify.com/track/3LD4tIbxeoknZaESeLW1Ai) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Hayati \(feat\. Carole Samaha, Lartiste & Daffy\)](https://open.spotify.com/album/5YIgW257LjjoBQgD2ZtDat) | 2:43 | 2021-12-16 | 2022-03-12 |
 | [hellcats & audis](https://open.spotify.com/track/3KuHRM5HCxlROknbeaNCVw) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [hellcats & audis](https://open.spotify.com/album/5xmfn1YnCLipGCWv5CQaIa) | 2:10 | 2022-03-14 |  |
+| [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 | 2022-03-18 |  |
 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 | 2021-12-16 |  |
 | [High No More](https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [High No More](https://open.spotify.com/album/2NEmopTAPp4ZmqRRJ6wTdB) | 3:18 | 2021-12-16 |  |
 | [High Tech Low Life](https://open.spotify.com/track/2nu8abrs7QJ1n40VTmkWQx) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Rey Khan](https://open.spotify.com/artist/6hWkOdX0jU4HLoPeYRGBRS) | [High Tech Low Life](https://open.spotify.com/album/4adNHlP6IbOahAKPgcTGtq) | 2:38 | 2021-12-16 |  |
@@ -72,6 +73,7 @@
 | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/track/6TCbTczOreXauNQMepPeuJ) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP), [BUGGATINO](https://open.spotify.com/artist/43zou9f8vndQl2XZR5gAmR) | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/album/0XwxYo7Gd8biv6yp2GIQgK) | 2:53 | 2021-12-16 |  |
 | [Legend](https://open.spotify.com/track/2p4Pl6IzNlZ0lpZqGLbinC) | [Sons of Yusuf](https://open.spotify.com/artist/6Vptp9yQcvtgjwFt6GDQno), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [Legend](https://open.spotify.com/album/60O0ca9zcTXnFMyJxNyoVP) | 3:15 | 2021-12-16 |  |
 | [Like That](https://open.spotify.com/track/57ckc64pkdrinysXmErndL) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Like That](https://open.spotify.com/album/3tzNLXTx8mH1lPaFrIuKXx) | 3:19 | 2021-12-16 | 2022-03-08 |
+| [Lonely People](https://open.spotify.com/track/3fN7EGwo1y6qAQnT1U7IPn) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People](https://open.spotify.com/album/1j8KSKJtQwcjzdbylsGcAa) | 3:13 | 2022-03-18 |  |
 | [Look At That](https://open.spotify.com/track/0F8gOhtQtS5qB3mt1fPYTY) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Look At That](https://open.spotify.com/album/4K2HpZ7tLBxtub1KrfpRiV) | 3:42 | 2021-12-16 |  |
 | [love is crazy](https://open.spotify.com/track/5f5DAF99A0oAKXnthNXx89) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [love is crazy](https://open.spotify.com/album/4Co9H6TLDdLDed07lxzicu) | 2:26 | 2021-12-16 |  |
 | [Love on the Comedown](https://open.spotify.com/track/16b3BqYPz4JSXrzkMMt72C) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Kawkab](https://open.spotify.com/album/1QanrS9FWN6yDgOwIf1Pmw) | 2:54 | 2021-12-16 | 2022-03-08 |
@@ -82,7 +84,7 @@
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 |  |
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 |  |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2022-02-03 |  |
-| [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 |  |
+| [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 | 2022-03-18 |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 |  |
 | [On My Own](https://open.spotify.com/track/0jVixX0ZFa2m9bhDbHoTXD) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [On My Own](https://open.spotify.com/album/6jBPKGE15wIoYciA3m34ou) | 3:25 | 2021-12-16 | 2022-03-08 |
 | [Once Again](https://open.spotify.com/track/7n6iWoWqzsvsaqHzwLcO2Q) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Once Again](https://open.spotify.com/album/6fW2puJsm7B130FA1KSSAz) | 3:28 | 2021-12-16 | 2022-03-15 |

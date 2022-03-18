@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Kai Landre, Artwork: Thami Nabil",
-  "num_followers": 81806,
+  "num_followers": 81724,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODUyOCwwMDAwMDAwMGY4Zjg5NjY1M2U5ZWQ1MzhlYzgwOWY4ZDdmY2FlODQ1",
+  "snapshot_id": "MTY0NzYwMjMzMiwwMDAwMDAwMDg2ZjJkYjI5YmIxZDZlZDBkMDc1ZWZmZTIyNmI4ZGQ5",
   "tracks": [
     {
       "added_at": "2022-03-09 05:04:44",
@@ -525,128 +525,128 @@
       "url": "https://open.spotify.com/track/4L75OEom1UKUALCLguUpig"
     },
     {
-      "added_at": "2022-01-12 05:01:00",
+      "added_at": "2022-02-16 03:30:56",
       "album": {
-        "name": "A Pale Shelter",
-        "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
+        "name": "Frecuencias",
+        "url": "https://open.spotify.com/album/6ZRpYwVvo9cXjBekMTm78o"
       },
       "artists": [
         {
-          "name": "zak\u00e8",
-          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "duration_ms": 423314,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/2PrXFWtMzClqhoCcACdfKZ"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Mouse (Leafcutter John Remix)",
+        "url": "https://open.spotify.com/album/0WGWv8wCfHMW02CB4Vfi1x"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
         },
         {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
+        }
+      ],
+      "duration_ms": 293193,
+      "name": "Mouse - Leafcutter John Remix",
+      "url": "https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Snow Ball",
+        "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
+      },
+      "artists": [
+        {
+          "name": "Yobi Alan",
+          "url": "https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Snow Ball",
+      "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Aural Drift (T.Raumschmiere Remix)",
+        "url": "https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7"
+      },
+      "artists": [
+        {
+          "name": "Martin Merz",
+          "url": "https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb"
         },
         {
-          "name": "Ossa",
-          "url": "https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc"
+          "name": "T.Raumschmiere",
+          "url": "https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA"
         }
       ],
-      "duration_ms": 344026,
-      "name": "Mourning Shadows We Perish",
-      "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
-    },
-    {
-      "added_at": "2022-02-09 05:00:00",
-      "album": {
-        "name": "Phantom of Eden",
-        "url": "https://open.spotify.com/album/17KovENSr872390SmpvK5l"
-      },
-      "artists": [
-        {
-          "name": "House Of Tapes",
-          "url": "https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Synapse",
-      "url": "https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV"
+      "duration_ms": 347276,
+      "name": "Aural Drift - T.Raumschmiere Remix",
+      "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
     },
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "Escape Cape",
-        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
+        "name": "Last Boy Picked",
+        "url": "https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC"
       },
       "artists": [
         {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+          "name": "KUNTARI",
+          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
         }
       ],
-      "duration_ms": 265736,
-      "name": "Escape Cape",
-      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
+      "duration_ms": 314000,
+      "name": "Roseate",
+      "url": "https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k"
     },
     {
-      "added_at": "2022-02-09 05:00:00",
+      "added_at": "2022-02-16 03:30:56",
       "album": {
-        "name": "Internet Dreams",
-        "url": "https://open.spotify.com/album/4x0TeKhS2u0CYNbq9Tua2A"
+        "name": "Syphon",
+        "url": "https://open.spotify.com/album/53inN1LahHBAMWV1UMbVvz"
       },
       "artists": [
         {
-          "name": "Swick",
-          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+          "name": "Wojciech Rusin",
+          "url": "https://open.spotify.com/artist/0WxdhadZph0QW3C9sKB6zo"
         },
         {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+          "name": "Emmy Broughton",
+          "url": "https://open.spotify.com/artist/3wK6ruBkalHoh3xW8ZnLqL"
         }
       ],
-      "duration_ms": 159777,
-      "name": "OS WAR III",
-      "url": "https://open.spotify.com/track/5DqvlUJhJS99mgdfVzosUP"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Gnani",
-        "url": "https://open.spotify.com/album/5d7DwZyHzn7jIYlp7J9eZU"
-      },
-      "artists": [
-        {
-          "name": "Sis",
-          "url": "https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2"
-        }
-      ],
-      "duration_ms": 203891,
-      "name": "Gazelle Rites",
-      "url": "https://open.spotify.com/track/7DqphOA6kAHi4UlYhfEtBM"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Resistance Edited",
-        "url": "https://open.spotify.com/album/6g7AAsjZWDvKU3hyPj6Q9n"
-      },
-      "artists": [
-        {
-          "name": "Pelt",
-          "url": "https://open.spotify.com/artist/1smNHOqVA2rin6rBV9KKFw"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Resistance Edited",
-      "url": "https://open.spotify.com/track/4uizuPJsm4UkfRkRnROvle"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "The Loss of Wilderness",
-        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
-      },
-      "artists": [
-        {
-          "name": "ILUITEQ",
-          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
-        }
-      ],
-      "duration_ms": 357509,
-      "name": "The Loss of Wilderness",
-      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
+      "duration_ms": 240379,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/3zPWYcsJYiYWFTvMAx9W2x"
     },
     {
       "added_at": "2022-01-26 05:00:00",
@@ -681,104 +681,168 @@
       "url": "https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY"
     },
     {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "A Journey",
-        "url": "https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y"
-    },
-    {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
+        "name": "A Pale Shelter",
+        "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
       },
       "artists": [
         {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Ossa",
+          "url": "https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
+      "duration_ms": 344026,
+      "name": "Mourning Shadows We Perish",
+      "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
     },
     {
       "added_at": "2022-02-16 03:30:56",
       "album": {
-        "name": "Pararatronic",
-        "url": "https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL"
+        "name": "Director",
+        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
       },
       "artists": [
         {
-          "name": "KUNTARI",
-          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Mod Aki Kasa",
-      "url": "https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs"
+      "duration_ms": 129953,
+      "name": "Broken Theme",
+      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
-      "added_at": "2022-02-02 05:00:00",
+      "added_at": "2022-02-09 05:00:00",
       "album": {
-        "name": "Oinones Death, Pt. I",
-        "url": "https://open.spotify.com/album/3mjFVTjW0AS8WwJlUBuYEA"
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
       },
       "artists": [
         {
-          "name": "Maria w Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 336981,
-      "name": "Oinones Death, Pt. I",
-      "url": "https://open.spotify.com/track/2iPNjVElXUUcqTTrMEWLwn"
+      "duration_ms": 432993,
+      "name": "Cataphora",
+      "url": "https://open.spotify.com/track/5Xg7GVHxzbgWeRImMrcASX"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "In The First Leaves",
+        "url": "https://open.spotify.com/album/59RKWDd5KLSkH1Xop5zffz"
+      },
+      "artists": [
+        {
+          "name": "Armbruster",
+          "url": "https://open.spotify.com/artist/0CVYWbFqszUZFuns0Rfu01"
+        }
+      ],
+      "duration_ms": 190190,
+      "name": "In The First Leaves",
+      "url": "https://open.spotify.com/track/5MFAwPynfC4fhF2VBiXaaP"
     },
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
+        "name": "INTROSPECTIO",
+        "url": "https://open.spotify.com/album/3CigtIBWnb5taxN4nlSFRQ"
       },
       "artists": [
         {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+          "name": "Mario Batkovic",
+          "url": "https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz"
         },
         {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+      "duration_ms": 307826,
+      "name": "CHOREA DUPLEX",
+      "url": "https://open.spotify.com/track/3Nu4GIq6P0HrvzGFmhpGAE"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Outcome",
+        "url": "https://open.spotify.com/album/2hiKJhaCzdDepFJpnwxLws"
+      },
+      "artists": [
+        {
+          "name": "Diana Oliveira",
+          "url": "https://open.spotify.com/artist/1pJeRjACU3qFxh08FZ30ix"
+        }
+      ],
+      "duration_ms": 380116,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/0auAFDUUQvCNMGNqAWYGiv"
     },
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "Krasz",
-        "url": "https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH"
+        "name": "Escape Cape",
+        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
       },
       "artists": [
         {
-          "name": "Jacek Sienkiewicz",
-          "url": "https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu"
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
         }
       ],
-      "duration_ms": 291493,
-      "name": "G303",
-      "url": "https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw"
+      "duration_ms": 265736,
+      "name": "Escape Cape",
+      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Humanity",
+        "url": "https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521"
+      },
+      "artists": [
+        {
+          "name": "Koji Nakamura",
+          "url": "https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N"
+        },
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        },
+        {
+          "name": "Takashi Numazawa",
+          "url": "https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx"
+        }
+      ],
+      "duration_ms": 185537,
+      "name": "no.4",
+      "url": "https://open.spotify.com/track/2zuo6BhGBhO35b9sLguoMf"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
+      },
+      "artists": [
+        {
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+        }
+      ],
+      "duration_ms": 357509,
+      "name": "The Loss of Wilderness",
+      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
     },
     {
       "added_at": "2022-01-19 06:00:00",
@@ -799,26 +863,6 @@
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "HARCO",
-        "url": "https://open.spotify.com/album/50B1RdfFTwwUs7HyAO3SeO"
-      },
-      "artists": [
-        {
-          "name": "Joardy Film",
-          "url": "https://open.spotify.com/artist/7Aewol67hxDlXPDWKxKOs7"
-        },
-        {
-          "name": "Jesper Ankarfeldt",
-          "url": "https://open.spotify.com/artist/6nIiixQiQwmApBIxLxpngw"
-        }
-      ],
-      "duration_ms": 50732,
-      "name": "Chiller",
-      "url": "https://open.spotify.com/track/5mxRn2DiaRSIXBfNzS8PXV"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
         "name": "Ribbon Bone [Silk Chaser]",
         "url": "https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky"
       },
@@ -835,38 +879,6 @@
       "duration_ms": 217666,
       "name": "Ribbon Bone [Silk Chaser]",
       "url": "https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb"
-    },
-    {
-      "added_at": "2022-02-02 05:00:00",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/2AgYzS3FeYcOkR2yady4hQ"
-      },
-      "artists": [
-        {
-          "name": "Pan Daijing",
-          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
-        }
-      ],
-      "duration_ms": 3265068,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0pl4Id480tDoYfsn0BmA9o"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/3OmKgkkT5GElgc0Ff1LA42"
-      },
-      "artists": [
-        {
-          "name": "Papir",
-          "url": "https://open.spotify.com/artist/06C98uwTFduwmzsuaLWFA9"
-        }
-      ],
-      "duration_ms": 489560,
-      "name": "7.3",
-      "url": "https://open.spotify.com/track/5NOlafkoOxH8fH1x38fK1H"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

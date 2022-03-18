@@ -2305,7 +2305,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 187000,
       "name": "Roaring Thunder",
       "url": "https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z"
@@ -2795,6 +2795,24 @@
       "duration_ms": 208000,
       "name": "Stormy Evening",
       "url": "https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp"
+    },
+    {
+      "album": {
+        "name": "Tumbling Sky",
+        "url": "https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9"
+      },
+      "artists": [
+        {
+          "name": "Ch\u014d",
+          "url": "https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Stormy Nights",
+      "url": "https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU"
     },
     {
       "album": {

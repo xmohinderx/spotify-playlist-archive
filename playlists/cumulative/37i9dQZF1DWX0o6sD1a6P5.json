@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Rema",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: 1da Banton",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo"
+      },
+      "artists": [
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157648,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
+    },
+    {
+      "album": {
         "name": "Dans la sauce",
         "url": "https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER"
       },
@@ -1272,6 +1290,28 @@
     },
     {
       "album": {
+        "name": "L'amour change le monde",
+        "url": "https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/6DjeGFjPNckOV6te8un5b5"
+    },
+    {
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -1291,6 +1331,24 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "album": {
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Mufasa",
+      "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
     },
     {
       "album": {

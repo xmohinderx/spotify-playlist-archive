@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Cheap",
+        "url": "https://open.spotify.com/album/1ddtZxVVgYsrpfE7qhXSxn"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106026,
+      "name": "Cheap",
+      "url": "https://open.spotify.com/track/5ICnHKFy7yBDTEFjZ8hODA"
+    },
+    {
+      "album": {
         "name": "Chose Me",
         "url": "https://open.spotify.com/album/2r3YZtNY5S5eiHHCwquxuo"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 144000,
       "name": "Fenix Flexin, Vol. 2 Intro",
       "url": "https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 183814,
       "name": "Hate To Say It",
       "url": "https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 196733,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
@@ -1457,6 +1475,32 @@
       "duration_ms": 133717,
       "name": "Numero Uno",
       "url": "https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4"
+    },
+    {
+      "album": {
+        "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
+        "url": "https://open.spotify.com/album/1dfdXCPSiNLPZ3H2MRKqTI"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123449,
+      "name": "Ocean Blue Tints (feat. Baby Money & BabyTron)",
+      "url": "https://open.spotify.com/track/1abUcyBvx6mUmAQfGjq9BN"
     },
     {
       "album": {
@@ -1544,6 +1588,28 @@
     },
     {
       "album": {
+        "name": "No Skips",
+        "url": "https://open.spotify.com/album/0Xd16jLmmthcM3qtFISVX1"
+      },
+      "artists": [
+        {
+          "name": "Derek King",
+          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135888,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6VlyGntFkztRrLlMBDxLRj"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7"
       },
@@ -1607,6 +1673,28 @@
       "duration_ms": 167186,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
+    },
+    {
+      "album": {
+        "name": "THE PRICE EP",
+        "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
+      },
+      "artists": [
+        {
+          "name": "Price",
+          "url": "https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190703,
+      "name": "PROBLEMS",
+      "url": "https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU"
     },
     {
       "album": {
@@ -1763,10 +1851,6 @@
         {
           "name": "Suigeneris",
           "url": "https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf"
-        },
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
         }
       ],
       "date_added": "2022-03-11",
@@ -1939,7 +2023,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 255875,
       "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
       "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"

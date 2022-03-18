@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Casey Barnes",
+  "description": "The cream of today's Country crop. Cover: Kaylee Bell",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -41,6 +41,28 @@
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+    },
+    {
+      "album": {
+        "name": "A Heart Don't Break Like That",
+        "url": "https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "A Heart Don't Break Like That",
+      "url": "https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO"
     },
     {
       "album": {
@@ -91,7 +113,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 213493,
       "name": "American Dream Truck",
       "url": "https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa"
@@ -174,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Beat of My Own Drum",
+        "url": "https://open.spotify.com/album/16WLa1TPCS4sBEWWgUBxHR"
+      },
+      "artists": [
+        {
+          "name": "Christie Lamb",
+          "url": "https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186185,
+      "name": "Beat of My Own Drum",
+      "url": "https://open.spotify.com/track/7HK0624DLMQDA5x7rdZNkB"
+    },
+    {
+      "album": {
         "name": "Twang",
         "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
       },
@@ -207,7 +247,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 188909,
       "name": "Before I Met You",
       "url": "https://open.spotify.com/track/4Mq47WHb5jawIRZR1v3nFz"
@@ -464,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Fallin' Off The Heartline",
+        "url": "https://open.spotify.com/album/2LFp80sTreSfHpKdjJaWKT"
+      },
+      "artists": [
+        {
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Fallin' Off The Heartline",
+      "url": "https://open.spotify.com/track/0gILEUGgjSoBwykGgE6mR9"
+    },
+    {
+      "album": {
         "name": "Country Stuff",
         "url": "https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv"
       },
@@ -620,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "album": {
         "name": "God Took His Time On You",
         "url": "https://open.spotify.com/album/553FYAh936iamVcIN0rx9F"
       },
@@ -707,7 +783,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 148906,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7"
@@ -891,7 +967,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2"
@@ -939,6 +1015,24 @@
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
+    },
+    {
+      "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
     },
     {
       "album": {
@@ -1105,7 +1199,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185546,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi"
@@ -1314,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "Some Other Bar",
+        "url": "https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199454,
+      "name": "Some Other Bar",
+      "url": "https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ"
+    },
+    {
+      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg"
       },
@@ -1419,7 +1531,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181055,
       "name": "Takin' Me Back",
       "url": "https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY"

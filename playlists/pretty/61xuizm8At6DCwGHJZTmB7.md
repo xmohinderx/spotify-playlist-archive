@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,824 likes - 87 songs - 8 hr 12 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,807 likes - 87 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 86 | [Miracle In The Works](https://open.spotify.com/track/6zE34AOSW5hi3x17joOECg) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Miracle In The Works](https://open.spotify.com/album/7uDXTxPOdwGX9d1Sz6jiy9) | 5:07 |
 | 87 | [All That Remains](https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO) | 5:08 |
 
-Snapshot ID: `NjA3Nyw1OWQ1NDQzZmExMjBiMzNmMGY1NjcyNDljMmMwYmFkNjRiYjIxYTA3`
+Snapshot ID: `NjA3OSxhY2ZmMDM1NDYyMWMyYjBhODc5YTc5ZjhkZGQyMDRjZmJjZTVhZGJm`

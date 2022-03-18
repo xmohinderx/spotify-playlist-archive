@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Duvy
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,685 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,820 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleazy Flow](https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP) | 1:52 |
-| 2 | [skinny jeans & rick owens](https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP) | [Suigeneris](https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [skinny jeans & rick owens](https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER) | 2:04 |
+| 2 | [skinny jeans & rick owens](https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP) | [Suigeneris](https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf) | [skinny jeans & rick owens](https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER) | 2:04 |
 | 3 | [Beat Em Down](https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Beat Em Down](https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6) | 2:10 |
 | 4 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 |
 | 5 | [STOCKS](https://open.spotify.com/track/5HjKRJKCjUPRXnBHf0Ql4S) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [STOCKS](https://open.spotify.com/album/2dbHIXRrs3PTOhDrlraiQc) | 2:59 |

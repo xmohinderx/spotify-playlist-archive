@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Celebrating Nina: A Reggae Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/23Bxv0YiYXpv3OPkv3Jbmx"
+    },
+    {
+      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 239720,
       "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
       "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"

@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 215602,
       "name": "ANYTHING LIKE ME",
       "url": "https://open.spotify.com/track/5JTy7gXHt5k9cXf0HFhpda"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 219219,
       "name": "Been A Minute",
       "url": "https://open.spotify.com/track/4cqHorN5nxHYxIZsViUM2w"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 199260,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1ri3fquyE7rkzWerCCoGCy"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 180106,
       "name": "Bucle",
       "url": "https://open.spotify.com/track/6zkYjqoO4RPypw25e96Yyh"
@@ -4641,7 +4641,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 152112,
       "name": "Daily Duppy",
       "url": "https://open.spotify.com/track/10tu7GaThfVeW7JJskovrN"
@@ -6680,6 +6680,24 @@
     },
     {
       "album": {
+        "name": "F My Ex",
+        "url": "https://open.spotify.com/album/4QXmZTov6sqIRDpDfR1KGx"
+      },
+      "artists": [
+        {
+          "name": "KAVO",
+          "url": "https://open.spotify.com/artist/4Rsw28ARMutnjj588QlyWT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164595,
+      "name": "F My Ex",
+      "url": "https://open.spotify.com/track/1QwuUvd5IEsyLrB47jEOpB"
+    },
+    {
+      "album": {
         "name": "F**k this Virus",
         "url": "https://open.spotify.com/album/0cLfT4eQ1TkOMxEdPFs9tr"
       },
@@ -8467,7 +8485,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185684,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/1i8DE4MjOY2dLNqnZMHaCR"
@@ -8912,6 +8930,32 @@
     },
     {
       "album": {
+        "name": "Hello Hi",
+        "url": "https://open.spotify.com/album/0u522Xjw1zmtddnnWgb8BC"
+      },
+      "artists": [
+        {
+          "name": "C.REM",
+          "url": "https://open.spotify.com/artist/2KXYnskOksetWqWTo8OYLW"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132882,
+      "name": "Hello Hi",
+      "url": "https://open.spotify.com/track/7AtRnmiP5gDEYLE5lBXnpD"
+    },
+    {
+      "album": {
         "name": "Hello Hi (feat. Skeamer, Sai So, Skore Beezy)",
         "url": "https://open.spotify.com/album/5ZJKX0TEnD347jiIdZ6ly1"
       },
@@ -9087,7 +9131,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 155920,
       "name": "History",
       "url": "https://open.spotify.com/track/1kDYUBpYJpOco5hb9fJIxj"
@@ -12034,6 +12078,24 @@
     },
     {
       "album": {
+        "name": "Here's To Being Alive",
+        "url": "https://open.spotify.com/album/7yuj8y6ZPVxQUTMJoRRggq"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168231,
+      "name": "Little Miss Innocent",
+      "url": "https://open.spotify.com/track/12IZSgW7o6fR37QUIfBA1A"
+    },
+    {
+      "album": {
         "name": "Live In Life",
         "url": "https://open.spotify.com/album/1mfUZpugk6C9Qi0WOnfm4B"
       },
@@ -12311,6 +12373,24 @@
       "duration_ms": 165916,
       "name": "Lose My Number",
       "url": "https://open.spotify.com/track/0u8kTB4t3OpSP4RRCFD0Cv"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126824,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ"
     },
     {
       "album": {
@@ -14988,6 +15068,28 @@
     },
     {
       "album": {
+        "name": "ON GO!",
+        "url": "https://open.spotify.com/album/2uAFj6jHFT6oHFT10fKWlj"
+      },
+      "artists": [
+        {
+          "name": "CyMontana",
+          "url": "https://open.spotify.com/artist/4MtqHFwz2YluAfPANAnVDl"
+        },
+        {
+          "name": "YkcGuyzer",
+          "url": "https://open.spotify.com/artist/7a9VXzVYKK3gSIZannWCJJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150099,
+      "name": "ON GO!",
+      "url": "https://open.spotify.com/track/1KWtjjioFh3CWGSae7HlZc"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0SHe7qKQnbgXb0bBuHmQ7K"
       },
@@ -15779,7 +15881,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 171428,
       "name": "Parking",
       "url": "https://open.spotify.com/track/5NtvViH51Jv4BUUvS2pkz6"
@@ -17504,6 +17606,24 @@
     },
     {
       "album": {
+        "name": "Ruined the Night",
+        "url": "https://open.spotify.com/album/4dgo63cPDn10OfQXTa7jzN"
+      },
+      "artists": [
+        {
+          "name": "Adam Turley",
+          "url": "https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Ruined the Night",
+      "url": "https://open.spotify.com/track/5Ni28gCr8s7kbveWbFn8ke"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/5YNN11B3qkxVluwlzIxPqg"
       },
@@ -17693,7 +17813,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 185060,
       "name": "Same Faces",
       "url": "https://open.spotify.com/track/7MWBGBNuaUFIHKrHtNqA9R"
@@ -20250,6 +20370,28 @@
     },
     {
       "album": {
+        "name": "The Bomb (20syl remix)",
+        "url": "https://open.spotify.com/album/1J1TzZJ9HKAV6l5Urlxh1q"
+      },
+      "artists": [
+        {
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
+        },
+        {
+          "name": "20syl",
+          "url": "https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "The Bomb - 20syl Remix",
+      "url": "https://open.spotify.com/track/1MYSCNihdccRTa8LcH4wtY"
+    },
+    {
+      "album": {
         "name": "The Bomb (Cut Chemist Remix)",
         "url": "https://open.spotify.com/album/2oXztNNcavqg9j2gSacsFX"
       },
@@ -20370,6 +20512,24 @@
     },
     {
       "album": {
+        "name": "The Meds",
+        "url": "https://open.spotify.com/album/0QWnVNHNIRzDtEnv6n1P3M"
+      },
+      "artists": [
+        {
+          "name": "The Virginmarys",
+          "url": "https://open.spotify.com/artist/1Kpz4HxilmXzCt2eLpGgID"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "The Meds",
+      "url": "https://open.spotify.com/track/5oCxE3IOlNK3hLHgx6tA5H"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/6vlFjrvRtqxXnKpSiNwzc1"
       },
@@ -20425,6 +20585,28 @@
       "duration_ms": 269629,
       "name": "The Pen",
       "url": "https://open.spotify.com/track/3s42HFOPNPZqfyjBV0jDo5"
+    },
+    {
+      "album": {
+        "name": "The Prayer",
+        "url": "https://open.spotify.com/album/3gw9dz78Y0w5J2HZclg0ep"
+      },
+      "artists": [
+        {
+          "name": "Breeze Zulu Bass King",
+          "url": "https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q"
+        },
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "The Prayer",
+      "url": "https://open.spotify.com/track/7Jkf0ZykBgQpW5MRxgX1yA"
     },
     {
       "album": {
@@ -20671,7 +20853,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 98997,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/3KpAgIzILigTf6oOiWmWZ3"
@@ -22611,6 +22793,28 @@
       "duration_ms": 221599,
       "name": "Where Did We Go Wrong",
       "url": "https://open.spotify.com/track/044qTYc3wPWxcxGs2R3x4G"
+    },
+    {
+      "album": {
+        "name": "Where Is My Money ?",
+        "url": "https://open.spotify.com/album/5759gF5rRuywKeHozXSEmm"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        },
+        {
+          "name": "Sekzy",
+          "url": "https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194875,
+      "name": "Where Is My Money ?",
+      "url": "https://open.spotify.com/track/5eMwov8xQJe8KN9mYUmN1S"
     },
     {
       "album": {

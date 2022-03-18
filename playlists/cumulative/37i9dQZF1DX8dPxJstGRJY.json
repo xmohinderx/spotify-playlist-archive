@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Love of My Life",
+        "url": "https://open.spotify.com/album/5aa7wQB7hyWhjy4RtOvZkC"
+      },
+      "artists": [
+        {
+          "name": "Mark Vincent",
+          "url": "https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215434,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/6U43jM0olCZ8tvbRbClWwR"
+    },
+    {
+      "album": {
         "name": "Back in Harmony",
         "url": "https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj"
       },

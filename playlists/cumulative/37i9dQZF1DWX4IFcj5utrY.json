@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=g1XhWZa3Soe0WiYo2qQNkQ\">Oscar Mbo</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=tg3otdV9QlyCbP9-Gpxb1w\">Kid Fonque</a> and <a href=\"https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am?si=tAv9OjnPQYKeOMgQ_96noA\">Mi\u010di</a> ",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -96,6 +96,32 @@
     },
     {
       "album": {
+        "name": "Deep in Africa",
+        "url": "https://open.spotify.com/album/66CnqKJugbDIa3qURLV97f"
+      },
+      "artists": [
+        {
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+        },
+        {
+          "name": "Colbert",
+          "url": "https://open.spotify.com/artist/5CZEQe9LP0piIV68QFD6zw"
+        },
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359629,
+      "name": "Above My Head",
+      "url": "https://open.spotify.com/track/3gfXEQbjkrDRTQbTPeEDzG"
+    },
+    {
+      "album": {
         "name": "Above My Head",
         "url": "https://open.spotify.com/album/0uYMdofcOfSKf2bCuBVpbE"
       },
@@ -115,7 +141,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 274576,
       "name": "Above My Head - Radio Mix",
       "url": "https://open.spotify.com/track/2c9cE7c0eSeT7Y3534CNhT"
@@ -199,7 +225,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 454990,
       "name": "Afrika Ya Maafrika",
       "url": "https://open.spotify.com/track/7cspmsOvP0S6XEz0J2LOFh"
@@ -385,6 +411,24 @@
       "duration_ms": 356632,
       "name": "Amafu - Remix",
       "url": "https://open.spotify.com/track/7K4DfQH0I1A96FXhUvYJZw"
+    },
+    {
+      "album": {
+        "name": "Amaqhawe",
+        "url": "https://open.spotify.com/album/7A50pBMyme6fz99gjIlwSU"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Amaqhawe",
+      "url": "https://open.spotify.com/track/67SbrFM5Xkqc2S4W8bXBZH"
     },
     {
       "album": {
@@ -623,7 +667,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 322316,
       "name": "BEAUTIFUL FANTASY",
       "url": "https://open.spotify.com/track/4q3jTnVXM5yvT5m9fhBON3"
@@ -1073,7 +1117,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 361489,
       "name": "Changa",
       "url": "https://open.spotify.com/track/76AE1LOoJLDLxEkvMG2KPN"
@@ -1410,6 +1454,28 @@
     },
     {
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/2FLKGWnx2m0T0MUDUfZDku"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Mi\u010di",
+          "url": "https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441605,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/0b7VRap0UbvPDO7RC5xQXS"
+    },
+    {
+      "album": {
         "name": "Hypnosis",
         "url": "https://open.spotify.com/album/4yFkjChTRwZHH3MyKRq7ZL"
       },
@@ -1439,7 +1505,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 352258,
       "name": "Fall Again",
       "url": "https://open.spotify.com/track/6jAZBNHEjDeWzCh41RqKEG"
@@ -2124,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "In and Out",
+        "url": "https://open.spotify.com/album/0dltwoi9NKve5ePrj4KlYr"
+      },
+      "artists": [
+        {
+          "name": "Sediis",
+          "url": "https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439943,
+      "name": "In and Out",
+      "url": "https://open.spotify.com/track/4S7WZQRkSDWkGSRQvh3kXn"
+    },
+    {
+      "album": {
         "name": "Indonga",
         "url": "https://open.spotify.com/album/5Em4lgSWq64svDRcBBLBDu"
       },
@@ -2550,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Kuana (Original Mix)",
+        "url": "https://open.spotify.com/album/27BGYIi8UUMV5P4vEaDLdK"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434991,
+      "name": "Kuana - (Original Mix)",
+      "url": "https://open.spotify.com/track/6gRuYE5lMPf1NOcmqVh8tL"
+    },
+    {
+      "album": {
         "name": "Kule (Main V-HT)",
         "url": "https://open.spotify.com/album/069u5nvfS3scBg0bwtJHmp"
       },
@@ -2623,7 +2725,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 418560,
       "name": "Kusini",
       "url": "https://open.spotify.com/track/3xcN9Dh27ga6srf2SH0opa"
@@ -3111,7 +3213,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 432000,
       "name": "Meropa Ya Africa",
       "url": "https://open.spotify.com/track/0J76Sk8GOvOFWT3L49fRss"
@@ -3137,6 +3239,32 @@
       "duration_ms": 232813,
       "name": "Mind, Body",
       "url": "https://open.spotify.com/track/3mqIkgBgZFewsG7rEr3WEv"
+    },
+    {
+      "album": {
+        "name": "MISAVA",
+        "url": "https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Misava",
+      "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
     },
     {
       "album": {
@@ -3315,7 +3443,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 293333,
       "name": "Mzanzitec 01",
       "url": "https://open.spotify.com/track/18lkkZsn53EJTgZ8SKMvql"
@@ -3876,6 +4004,46 @@
     },
     {
       "album": {
+        "name": "Sentir Le Rhythme (Original Mix)",
+        "url": "https://open.spotify.com/album/4DukStzhipZkEhFCc1trAg"
+      },
+      "artists": [
+        {
+          "name": "Master A",
+          "url": "https://open.spotify.com/artist/2rF7w74yNMrFXlu8hChz1W"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376961,
+      "name": "Sentir Le Rhythme - Original Mix",
+      "url": "https://open.spotify.com/track/2nLhP17Nur3rLWup9SEdWe"
+    },
+    {
+      "album": {
+        "name": "Set U Free",
+        "url": "https://open.spotify.com/album/5a5fAXUL3EnfSL7cVOQyGl"
+      },
+      "artists": [
+        {
+          "name": "DJ Dove",
+          "url": "https://open.spotify.com/artist/4d6dDvAt5jdSDAhH33UabE"
+        },
+        {
+          "name": "Rishi Love",
+          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322622,
+      "name": "Set U Free",
+      "url": "https://open.spotify.com/track/4wcjHyIg8AXKck6P6A11rk"
+    },
+    {
+      "album": {
         "name": "Amen To Afro (Vol.1)",
         "url": "https://open.spotify.com/album/5p7CsmdOId830UlugLDzUP"
       },
@@ -4377,7 +4545,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 424500,
       "name": "The Warrior's Prayer",
       "url": "https://open.spotify.com/track/09auDbVAaLsdgVEG8hytyB"
@@ -4700,6 +4868,28 @@
     },
     {
       "album": {
+        "name": "Viper (Card On Spokes Remix)",
+        "url": "https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        },
+        {
+          "name": "Card On Spokes",
+          "url": "https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271826,
+      "name": "Viper - Card On Spokes Remix",
+      "url": "https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO"
+    },
+    {
+      "album": {
         "name": "2 the Floor",
         "url": "https://open.spotify.com/album/79gStCbGf3q4PbpRJtEHWv"
       },
@@ -4711,7 +4901,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 387807,
       "name": "Voices in the Dark",
       "url": "https://open.spotify.com/track/1ez59pHOwUvt4akUeVJ8f4"
@@ -4769,6 +4959,28 @@
       "duration_ms": 421422,
       "name": "We Get Deep",
       "url": "https://open.spotify.com/track/5WIJ5QIdWvcgJx5TncBxvo"
+    },
+    {
+      "album": {
+        "name": "Weekend Special",
+        "url": "https://open.spotify.com/album/4kMkz62CkGCUVGoPzv0hJP"
+      },
+      "artists": [
+        {
+          "name": "Brenda & The Big Dudes",
+          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240114,
+      "name": "Weekend Special (with Brenda Fassie) - Shimza Remix Edit",
+      "url": "https://open.spotify.com/track/1MkPykZ3pYXdjaz5PwjAQE"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 59626,
+  "num_followers": 59662,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDA0NTAwMDAwMTdmNzc1YWU1ZGUwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA0NjAwMDAwMTdmOWI2NTk1MDgwMDAwMDE2ZDE1MTg0ZTc2",
   "tracks": [
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 172802,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Loved To Be Loved By You",
+        "url": "https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll"
+      },
+      "artists": [
+        {
+          "name": "Atli",
+          "url": "https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB"
+        }
+      ],
+      "duration_ms": 179818,
+      "name": "Loved To Be Loved By You",
+      "url": "https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Texas Blue",
+        "url": "https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ"
+    },
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {

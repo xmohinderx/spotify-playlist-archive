@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Koffee",
+  "description": "Les hits dancehall du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 173250,
       "name": "10 / 10",
       "url": "https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 129795,
       "name": "Don Dadda",
       "url": "https://open.spotify.com/track/211zeYpya3uYHNlFzTKc9v"
@@ -756,6 +756,32 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM"
+      },
+      "artists": [
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU"
       },
@@ -775,6 +801,32 @@
       "duration_ms": 186533,
       "name": "Lov'la",
       "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
+    },
+    {
+      "album": {
+        "name": "Manslaughter",
+        "url": "https://open.spotify.com/album/0Pw1KzR7hPbh1pce9nTlIW"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "KARYO",
+          "url": "https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121411,
+      "name": "Manslaughter",
+      "url": "https://open.spotify.com/track/76XPtMKet4TM5RE9bOejdF"
     },
     {
       "album": {
@@ -849,6 +901,36 @@
       "duration_ms": 178144,
       "name": "Mirror (with Stefflon Don)",
       "url": "https://open.spotify.com/track/76B2JYQBtJIpL36FUvN3rJ"
+    },
+    {
+      "album": {
+        "name": "Money & Done (Remix)",
+        "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Black Shadow",
+          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
+        },
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160528,
+      "name": "Money & Done - Remix",
+      "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
     },
     {
       "album": {
@@ -1211,7 +1293,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 194877,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/0XkxmhfIChUxKIsoVI6NUv"

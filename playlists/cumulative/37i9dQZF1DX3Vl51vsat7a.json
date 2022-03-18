@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: 01099",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Pabst",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 248073,
       "name": "Can't Take This Silence",
       "url": "https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 186974,
       "name": "Hold Me Like You Used To",
       "url": "https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML"
@@ -808,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S"
+    },
+    {
+      "album": {
         "name": "megapunk (remixes)",
         "url": "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
       },
@@ -827,6 +845,24 @@
       "duration_ms": 280806,
       "name": "megapunk - TSHA Remix",
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
+    },
+    {
+      "album": {
+        "name": "Mercy Stroke",
+        "url": "https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165374,
+      "name": "Mercy Stroke",
+      "url": "https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF"
     },
     {
       "album": {
@@ -1044,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "She's A Star",
+        "url": "https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285336,
+      "name": "She's A Star",
+      "url": "https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU"
+    },
+    {
+      "album": {
         "name": "SLEEP PARTY (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC"
       },
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 109962,
       "name": "Trust me",
       "url": "https://open.spotify.com/track/7pZLO4oJ38FKtBt9yfOMkO"

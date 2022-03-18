@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: KAIRO\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,153 likes - 185 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,315 likes - 185 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 92 | [A Lot Less Happening](https://open.spotify.com/track/3GpOzmuOmTp1kSNzYI0gG5) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Momentum \(Deluxe\)](https://open.spotify.com/album/4WqKHY7xsvqJ9Fu19WRfGo) | 3:04 |
 | 93 | [Live in the Moment](https://open.spotify.com/track/7MIjodQhfdru2t4KLVLVew) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Live in the Moment](https://open.spotify.com/album/1LbxR6AHogmbqc7nf5H9p7) | 2:44 |
 | 94 | [Nervous](https://open.spotify.com/track/1rCGE8dJ4cCsbgRvdNfIsG) | [Coco Sachs](https://open.spotify.com/artist/4tPY8lsBH2POufp7zaR8j2) | [Nervous](https://open.spotify.com/album/3jMPSPCexphek8eZx4AWPW) | 3:05 |
-| 95 | [DWYSSWM](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 |
+| 95 | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 |
 | 96 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
 | 97 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 |
 | 98 | [Rent Free](https://open.spotify.com/track/10ZpyvFgwKsgy79vRL6f4D) | [Natalie Barth](https://open.spotify.com/artist/2IlhZ3ugiAIrNDHHoBU7Hy) | [Rent Free](https://open.spotify.com/album/7mD5irFVPBTSjRVDEZ8h7K) | 3:24 |

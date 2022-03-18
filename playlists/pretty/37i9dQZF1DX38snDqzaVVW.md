@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Yusuf Islam \(Cat Stevens\) celebrates Eid with music from around the Muslim world\. Eid Mubarak!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,247 likes - 53 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,258 likes - 53 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

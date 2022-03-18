@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 282960,
       "name": "(God Must Have Spent) A Little More Time On You",
       "url": "https://open.spotify.com/track/4mljNnZ2eaXKSbEAOzLlLE"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "Everything Changes",
       "url": "https://open.spotify.com/track/5RWVIPhDjeUKGRqXF65v1N"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 257959,
       "name": "I Can Love You Like That",
       "url": "https://open.spotify.com/track/70d8omRI2p7qesFOiy55Ro"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 250693,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/1Ogf7FqBhlkt8rLC6tDT2A"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 236946,
       "name": "I Wanna Sex You Up - Single Mix",
       "url": "https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 189026,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 237306,
       "name": "I\u2019ll Make Love To You",
       "url": "https://open.spotify.com/track/2pM15qcmuGUPslSRsvvm7v"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 292426,
       "name": "The Day We Find Love",
       "url": "https://open.spotify.com/track/1aqGEA5h6OyeTOjamOqQdB"
@@ -1318,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Water Runs Dry",
+      "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
+    },
+    {
+      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 271440,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/1lkfcyCLP0KPykSLIgh1VT"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "You Got It (The Right Stuff)",
       "url": "https://open.spotify.com/track/2BEL2ySEBDO02FLo3lOIZT"

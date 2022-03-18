@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Can I sleep next to you",
+        "url": "https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z"
+      },
+      "artists": [
+        {
+          "name": "Faver",
+          "url": "https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216483,
+      "name": "Can I sleep next to you",
+      "url": "https://open.spotify.com/track/36V5tCKEHlJHOATtUal5Xa"
+    },
+    {
+      "album": {
         "name": "Close to Me",
         "url": "https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt"
       },
@@ -1329,6 +1347,24 @@
       "duration_ms": 190480,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/2UtgHEn85322ynZ9j2po4l"
+    },
+    {
+      "album": {
+        "name": "Love Pt.1 : First Love",
+        "url": "https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ"
     },
     {
       "album": {

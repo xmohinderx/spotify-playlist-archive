@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "V & I (\u56de\u61b6\u7d44\u66f2\u65b0\u5531\u7248)",
+        "url": "https://open.spotify.com/album/5Urg68qIe7IDxL3SP7vSMJ"
+      },
+      "artists": [
+        {
+          "name": "Vivian Hsu",
+          "url": "https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "V & I (\u56de\u61b6\u7d44\u66f2\u65b0\u5531\u7248)",
+      "url": "https://open.spotify.com/track/5MHN05L4SL4DursLCHj64L"
+    },
+    {
+      "album": {
         "name": "VIVILAND",
         "url": "https://open.spotify.com/album/5LLOZ6R2ydMhQgXktOJ1Nb"
       },
@@ -223,7 +241,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 178500,
       "name": "VIVILAND",
       "url": "https://open.spotify.com/track/2YEHJGKtd0Njx7WTr9srBn"

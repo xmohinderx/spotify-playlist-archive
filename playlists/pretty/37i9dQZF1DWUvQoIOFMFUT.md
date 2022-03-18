@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,061 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,121 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 8 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
 | 9 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 10 | [Drowning In Dreams](https://open.spotify.com/track/6SekGxt9TDUnZX7LcOZeyB) | [Ed Harcourt](https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY) | [Drowning In Dreams](https://open.spotify.com/album/5nQi4Ay9Ll58sCAuDY0Oi2) | 4:57 |
-| 11 | [Hard to Hide \- Niklas Paschburg Rework](https://open.spotify.com/track/6cZKMJir0kkZMvbtkoBx34) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Hard To Hide \(Niklas Paschburg Rework\)](https://open.spotify.com/album/3jPreY7L6IH2yw4qGYxqaV) | 3:35 |
+| 11 | [Hard to Hide \- Niklas Paschburg Rework](https://open.spotify.com/track/6cZKMJir0kkZMvbtkoBx34) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Hard to Hide \(Niklas Paschburg Rework\)](https://open.spotify.com/album/3jPreY7L6IH2yw4qGYxqaV) | 3:35 |
 | 12 | [Your Soul](https://open.spotify.com/track/6n1HCApXCafWSThDAdBaTf) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Morning \- EP](https://open.spotify.com/album/4RKu9jqb5074p9VGobJqac) | 3:51 |
 | 13 | [Gravity](https://open.spotify.com/track/5ozy2aMf0l8YIyOwc0B91p) | [Tiggs](https://open.spotify.com/artist/7vqraVZiWn0GQT2lYkJCgz) | [Gravity](https://open.spotify.com/album/02Airjrme24zvE7ksjTI8d) | 3:26 |
 | 14 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 |

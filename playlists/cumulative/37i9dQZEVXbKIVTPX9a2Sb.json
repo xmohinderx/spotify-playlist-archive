@@ -1847,7 +1847,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 214480,
       "name": "CHROME HEARTS FREESTYLE",
       "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
@@ -2539,7 +2539,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 164800,
       "name": "Dosta\u0165 z hlavy",
       "url": "https://open.spotify.com/track/0qpRsUBgXfrwN6PDQRIKu2"
@@ -6190,6 +6190,28 @@
     },
     {
       "album": {
+        "name": "maybe (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "maybe (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
+    },
+    {
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -7053,7 +7075,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 124363,
       "name": "Nedojdu s\u00e1m",
       "url": "https://open.spotify.com/track/0j4ljH3V0o88m2eT4Rupva"
@@ -7115,6 +7137,28 @@
       "duration_ms": 224262,
       "name": "Nem\u00e1m Strach",
       "url": "https://open.spotify.com/track/0aJwgjOHTpyw0hw4nXl3Xd"
+    },
+    {
+      "album": {
+        "name": "Nem\u016f\u017eu t\u011b soudit",
+        "url": "https://open.spotify.com/album/4iKhQw21rbSmE8hBuN4w0B"
+      },
+      "artists": [
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Nem\u016f\u017eu t\u011b soudit",
+      "url": "https://open.spotify.com/track/4cPMaHMvKcyTk5KIPLhOQm"
     },
     {
       "album": {
@@ -10091,7 +10135,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -11411,7 +11455,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-18",
       "duration_ms": 181741,
       "name": "V\u010faka Ti - Acoustic Version",
       "url": "https://open.spotify.com/track/0z7L3ZNiRZTsJv1vpiSHG0"
@@ -11823,7 +11867,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

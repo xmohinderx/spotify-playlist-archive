@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Blue Pearl",
+        "url": "https://open.spotify.com/album/4d4vr1kMKkN5m36QFZI4Py"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139983,
+      "name": "Blue Pearl",
+      "url": "https://open.spotify.com/track/4Lq7xk3BOHfbQYOl5azSWo"
+    },
+    {
+      "album": {
         "name": "Guitar Heroes",
         "url": "https://open.spotify.com/album/6MnYzIKgvXkNkjgqRsQuld"
       },
