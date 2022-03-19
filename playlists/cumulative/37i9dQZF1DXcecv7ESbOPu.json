@@ -23142,6 +23142,24 @@
     },
     {
       "album": {
+        "name": "Stay Dead",
+        "url": "https://open.spotify.com/album/42CEQSyX6nKLp4gb0y0YsW"
+      },
+      "artists": [
+        {
+          "name": "Dead People",
+          "url": "https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179844,
+      "name": "Stay Dead",
+      "url": "https://open.spotify.com/track/6H7v3lGuFgmU2gLXtNfsNy"
+    },
+    {
+      "album": {
         "name": "Stay Forever",
         "url": "https://open.spotify.com/album/5pj4bI5bbG8W0u1KlP6p9E"
       },

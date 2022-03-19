@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 364460,
       "name": "A1. J-Math",
       "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 273750,
       "name": "Aether Vibrations",
       "url": "https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Approximate Bermeja",
       "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 317393,
       "name": "BELOW",
       "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 369659,
       "name": "Beppe",
       "url": "https://open.spotify.com/track/32Kt8L4l864NCocODVWYHy"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 180000,
       "name": "Circle 19",
       "url": "https://open.spotify.com/track/6WUcR7PNnNr0UKDfgHEMXh"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 234844,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 330115,
       "name": "Descending Isolation",
       "url": "https://open.spotify.com/track/0S4pxlHnt8lUxczCwy4rhA"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 266666,
       "name": "Detached Horizon",
       "url": "https://open.spotify.com/track/7flSnXb9R1JRSMa4WSgtxC"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 342395,
       "name": "Iniziare",
       "url": "https://open.spotify.com/track/1uEKsAy6eyhiSgJMnNSSte"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Low Voltage",
       "url": "https://open.spotify.com/track/0xqf2NDfzJKWzHQAfLl6mo"
@@ -1210,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326105,
+      "name": "Neogenese",
+      "url": "https://open.spotify.com/track/0BVW6kC0fgSURokGjOPSqq"
+    },
+    {
+      "album": {
         "name": "North of Roswell",
         "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
       },
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
@@ -1477,6 +1495,24 @@
       "duration_ms": 361111,
       "name": "Pratyahara",
       "url": "https://open.spotify.com/track/2bdCZ861f8TwnmFVbHlLmW"
+    },
+    {
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "album": {
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 308000,
       "name": "Tides I",
       "url": "https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV"
@@ -2063,7 +2099,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 432000,
       "name": "When the Sun Is About to Sleep",
       "url": "https://open.spotify.com/track/1kgyMp6P40HS9wWg6yeR3i"

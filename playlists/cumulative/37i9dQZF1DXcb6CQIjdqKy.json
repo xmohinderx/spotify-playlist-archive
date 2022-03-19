@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 250573,
       "name": "All Things New (Single Mix)",
       "url": "https://open.spotify.com/track/7G0S21TgI1FjsgKqJk9TZB"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
@@ -697,6 +697,24 @@
       "duration_ms": 217444,
       "name": "Follow You Into The Fire",
       "url": "https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps"
+    },
+    {
+      "album": {
+        "name": "For All My Life",
+        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
     },
     {
       "album": {
@@ -1081,10 +1099,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 243476,
       "name": "Heart of the Father",
       "url": "https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF"
+    },
+    {
+      "album": {
+        "name": "Heart of the Father",
+        "url": "https://open.spotify.com/album/1XHod4wYHeTV6sCc2qrEpB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243465,
+      "name": "Heart of the Father",
+      "url": "https://open.spotify.com/track/7gknAFcf8D0RgB0rFghWIf"
     },
     {
       "album": {
@@ -1829,7 +1869,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 402773,
       "name": "Making Room - Live",
       "url": "https://open.spotify.com/track/3OEoBPCL3mTezlnap2blTJ"
@@ -2217,6 +2257,24 @@
       "duration_ms": 160560,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/59Ie6RW8WfI24BycVWpexi"
+    },
+    {
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "album": {
@@ -3209,6 +3267,24 @@
       "duration_ms": 179173,
       "name": "When You Speak",
       "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
+    },
+    {
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "While We Wait",
+      "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
     },
     {
       "album": {

@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 169577,
       "name": "1995",
       "url": "https://open.spotify.com/track/5KFqBLIITjlM6fhYhBnBzC"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/086xJzFlEYeCrQmFIVizMb"
@@ -289,17 +289,17 @@
       },
       "artists": [
         {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        },
-        {
           "name": "A$AP Rocky",
           "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 162253,
       "name": "Arya (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 202560,
       "name": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
       "url": "https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 114193,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 179571,
       "name": "Campaign",
       "url": "https://open.spotify.com/track/4wCX0hAaXG3TlqB5iVR4wB"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 187896,
       "name": "COLUMBIA",
       "url": "https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 180983,
       "name": "Disclosure",
       "url": "https://open.spotify.com/track/7nLhXCZc7aR1Bc3rREHC3m"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 137886,
       "name": "Disrespectful",
       "url": "https://open.spotify.com/track/2ei1YRwttbDMc80SlVSHUQ"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 157769,
       "name": "everything new (feat. Gunna)",
       "url": "https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 155375,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 206837,
       "name": "Flights",
       "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 155585,
       "name": "Gone",
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 172030,
       "name": "Good Vibes (Za)",
       "url": "https://open.spotify.com/track/0Yoat9aoKcCogReAE6swRM"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 157779,
       "name": "G\u00ebt Busy",
       "url": "https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA"
@@ -1993,7 +1993,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 193208,
       "name": "Headshots (4r Da Locals)",
       "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 180325,
       "name": "Ice Water (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2RTkEYOLYDQtjWFGNZtvpT"
@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 243500,
       "name": "IM COMING OVER THERE (feat. Guapdad 4000)",
       "url": "https://open.spotify.com/track/0qEOWzUOs1ydgWAWh9R4VL"
@@ -2530,6 +2530,24 @@
     },
     {
       "album": {
+        "name": "Keep Your Distance",
+        "url": "https://open.spotify.com/album/6OKwocf1zHfEtNdUzf3nCb"
+      },
+      "artists": [
+        {
+          "name": "Ameer Vann",
+          "url": "https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118627,
+      "name": "Keep Your Distance",
+      "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
+    },
+    {
+      "album": {
         "name": "EAT YOUR HEART OUT",
         "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
       },
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
@@ -2893,7 +2911,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "Litty (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2Zza7LeJBNz3R2xprlfrFS"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 102272,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/1MPlwk21N57y3lGe8rgxXr"
@@ -3101,7 +3119,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 165550,
       "name": "Maytag (Tax Free)",
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "NBA Jam",
       "url": "https://open.spotify.com/track/3YGeC8AIZi2XbnymOauGxc"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 174840,
       "name": "Outrageous",
       "url": "https://open.spotify.com/track/4it49qob9Ey8yra3WFzdN3"
@@ -3741,7 +3759,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -3901,7 +3919,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 188000,
       "name": "Power Power (feat. Shaun Ross)",
       "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
@@ -3977,7 +3995,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 147237,
       "name": "PSYCHO - from the Crimson Soundtrack",
       "url": "https://open.spotify.com/track/3ab4ZdIP9iklHVvzhxdwcD"
@@ -4017,7 +4035,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "Racer",
       "url": "https://open.spotify.com/track/1V3Y6TNzsJCMZLu8G68V5o"
@@ -4039,7 +4057,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 181440,
       "name": "Rackz got m\u00eb (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
@@ -4137,7 +4155,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 217293,
       "name": "Rich Nigga Problems",
       "url": "https://open.spotify.com/track/3EwSEyZNGySU5H0Ve1QIWQ"
@@ -4191,7 +4209,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 108045,
       "name": "riddle",
       "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
@@ -4209,7 +4227,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 177613,
       "name": "Right Out The Gate",
       "url": "https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq"
@@ -4257,7 +4275,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 154718,
       "name": "Rule #1 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn"
@@ -4305,7 +4323,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -4345,7 +4363,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 161572,
       "name": "Santa Monica Blvd",
       "url": "https://open.spotify.com/track/4Po2ztD6OBxolnmDagEh8o"
@@ -4407,7 +4425,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 217635,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF"
@@ -4451,7 +4469,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 216560,
       "name": "She Knows This",
       "url": "https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV"
@@ -4677,7 +4695,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 159425,
       "name": "sorry! (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/7LgNtm2LJiSWl2St8nhZNr"
@@ -4717,7 +4735,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 170160,
       "name": "Still countin",
       "url": "https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI"
@@ -4775,7 +4793,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 186933,
       "name": "Super Deep Brother",
       "url": "https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI"
@@ -4851,7 +4869,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 139206,
       "name": "Swag Walk",
       "url": "https://open.spotify.com/track/1NQv0miSa0yR3KjkOzZ7Nn"
@@ -5065,7 +5083,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 111000,
       "name": "Times Up",
       "url": "https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV"
@@ -5309,7 +5327,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 86582,
       "name": "Weird",
       "url": "https://open.spotify.com/track/7fPL4TiTLgjUZU0UKFR21Q"
@@ -5547,7 +5565,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 130115,
       "name": "You Again",
       "url": "https://open.spotify.com/track/5Kfn8EXu3UyzUuLk6PK4Og"
@@ -5569,6 +5587,28 @@
       "duration_ms": 87510,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2zADuep4HUIuHenIPxZmvd"
+    },
+    {
+      "album": {
+        "name": "Zero Love (ft. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5MeC1FT4v6FaNWO9twyIDo"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Zero Love (ft. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3GAF9c6qEwK0xE7CwjRUvU"
     },
     {
       "album": {

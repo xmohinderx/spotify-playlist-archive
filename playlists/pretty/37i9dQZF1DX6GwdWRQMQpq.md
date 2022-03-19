@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113,534 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,379 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Play Me](https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Play Me](https://open.spotify.com/album/300dMnEjqffViFhMqTTAm7) | 2:54 |
 | 50 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 |
 
-Snapshot ID: `MTY0NzU3NjAwMCwwMDAwMDQ4NDAwMDAwMTdmOWIyZWE2YzYwMDAwMDE3Zjk0M2ZmZTAw`
+Snapshot ID: `MTY0NzYyNjkxNiwwMDAwMDQ4NTAwMDAwMTdmOWUzNzkyYzMwMDAwMDE3ZjllMzc3MmEx`

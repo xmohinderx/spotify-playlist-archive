@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,442 likes - 93 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,479 likes - 93 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

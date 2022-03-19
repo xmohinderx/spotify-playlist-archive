@@ -1,13 +1,29 @@
 {
   "description": "A little bit of rap & a little bit of pop. Cover: Token",
-  "num_followers": 141203,
+  "num_followers": 141239,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ0NjQxMiwwMDAwMDBmZjAwMDAwMTdmOTM3NTRlNGMwMDAwMDE3ZjBlMmZjZjkz",
+  "snapshot_id": "MTY0NzYyNTMyMywwMDAwMDEwMDAwMDAwMTdmOWUxZjQzYjYwMDAwMDE3ZjBlMmZjZjkz",
   "tracks": [
+    {
+      "added_at": "2022-03-18 17:42:03",
+      "album": {
+        "name": "bootleg jordans",
+        "url": "https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS"
+      },
+      "artists": [
+        {
+          "name": "Saint Lane",
+          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "bootleg jordans",
+      "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
+    },
     {
       "added_at": "2022-01-14 08:13:00",
       "album": {
@@ -43,30 +59,6 @@
       "duration_ms": 157675,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
-    },
-    {
-      "added_at": "2022-03-16 16:00:12",
-      "album": {
-        "name": "RAINCLOUDS",
-        "url": "https://open.spotify.com/album/4Est34UxJXBcf28dnrIgGR"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        },
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "RAINCLOUDS",
-      "url": "https://open.spotify.com/track/39ZCoAQVRkBsAIo0kO8f1f"
     },
     {
       "added_at": "2022-03-11 15:01:14",
@@ -115,6 +107,30 @@
       "duration_ms": 179383,
       "name": "This Isn't Heaven, It Must Be Hell",
       "url": "https://open.spotify.com/track/5NICLsAN2wxcFQEdriIV1s"
+    },
+    {
+      "added_at": "2022-03-16 16:00:12",
+      "album": {
+        "name": "RAINCLOUDS",
+        "url": "https://open.spotify.com/album/4Est34UxJXBcf28dnrIgGR"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "RAINCLOUDS",
+      "url": "https://open.spotify.com/track/39ZCoAQVRkBsAIo0kO8f1f"
     },
     {
       "added_at": "2022-03-04 07:32:00",

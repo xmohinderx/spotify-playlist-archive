@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 193120,
       "name": "1901",
       "url": "https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa"
@@ -77,6 +77,24 @@
       "duration_ms": 233586,
       "name": "40 Day Dream",
       "url": "https://open.spotify.com/track/1m2A0wGb43khkL02TdRt4K"
+    },
+    {
+      "album": {
+        "name": "Sunshine Hit Me",
+        "url": "https://open.spotify.com/album/3zyTnmQF1J9B9z7excfhIa"
+      },
+      "artists": [
+        {
+          "name": "The Bees",
+          "url": "https://open.spotify.com/artist/6XiSck3QPuXk7ho6zlDz3P"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170733,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/2A0obZIW8GeJeAFLSaxAC0"
     },
     {
       "album": {
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/1KbagD47zTS1PnmS8iKPIK"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 225253,
       "name": "Geraldine",
       "url": "https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 187133,
       "name": "Gold Lion",
       "url": "https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 205213,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/4yg0yqGeffbqbgwQnl6BE1"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 217040,
       "name": "Jump In The Pool",
       "url": "https://open.spotify.com/track/4anehmsEuhkXRjm6HAocaj"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 278746,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 189826,
       "name": "Radar Detector",
       "url": "https://open.spotify.com/track/0j1xdKVaqfLFpLPpZqyZLl"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "Take Her Back",
       "url": "https://open.spotify.com/track/5wmVTGxvksXYV9Dz2V2YNi"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 216040,
       "name": "The Beginning Of The Twist",
       "url": "https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/17DjxJJG1NHXg1VatxfFfU"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 160280,
       "name": "Time For Heroes",
       "url": "https://open.spotify.com/track/79hW2iblmoT71PtfEj40Rn"
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2"

@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 194756,
       "name": "Airplanes (feat. Letdown.)",
       "url": "https://open.spotify.com/track/2SkyMtc6If7sC7dd5HEjOy"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn"
@@ -9915,7 +9915,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 161081,
       "name": "Loose",
       "url": "https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR"
@@ -13194,6 +13194,24 @@
     },
     {
       "album": {
+        "name": "R.I.P. to the Club",
+        "url": "https://open.spotify.com/album/4Gvuo7jc2LcXCJFlH5Oqb3"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144531,
+      "name": "R.I.P. to the Club",
+      "url": "https://open.spotify.com/track/6CWNl44T4rUI6KsbKJNA10"
+    },
+    {
+      "album": {
         "name": "BO Y",
         "url": "https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU"
       },
@@ -13231,7 +13249,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 187831,
       "name": "rapunzel",
       "url": "https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl"
@@ -15419,6 +15437,24 @@
       "duration_ms": 193986,
       "name": "Strangers Forever",
       "url": "https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E"
+    },
+    {
+      "album": {
+        "name": "Strangle You",
+        "url": "https://open.spotify.com/album/19dnmV4dtdPaMvg3fAvOON"
+      },
+      "artists": [
+        {
+          "name": "Cody Lovaas",
+          "url": "https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180488,
+      "name": "Strangle You",
+      "url": "https://open.spotify.com/track/33zu1yDgyBpdBYkbZdtaUK"
     },
     {
       "album": {
@@ -18633,6 +18669,24 @@
       "duration_ms": 176707,
       "name": "Xbox Luvr",
       "url": "https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy"
+    },
+    {
+      "album": {
+        "name": "Y.T.D. (Year to Date)",
+        "url": "https://open.spotify.com/album/4aY7uX3jK3IVCr2NdjvQmF"
+      },
+      "artists": [
+        {
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Y.T.D. (Year to Date)",
+      "url": "https://open.spotify.com/track/1i7HGIitl7DPPfNtDzT2xr"
     },
     {
       "album": {

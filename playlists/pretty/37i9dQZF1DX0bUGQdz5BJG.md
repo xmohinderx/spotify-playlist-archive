@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Elle King
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,192 likes - 149 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,221 likes - 149 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

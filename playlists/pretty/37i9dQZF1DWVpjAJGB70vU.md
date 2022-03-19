@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > Country that made Country Cool! Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,167,243 likes - 145 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167,848 likes - 145 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

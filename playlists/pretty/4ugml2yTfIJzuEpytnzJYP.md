@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,158 likes - 40 songs - 2 hr 26 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,158 likes - 41 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 38 | [Switch](https://open.spotify.com/track/6cUrJ1tZ82b6UwS69og24J) | [Mize](https://open.spotify.com/artist/31uPFWR7sBQ3dcZ8y8zOzY) | [Switch](https://open.spotify.com/album/6dtKFemPXxxMVQBlVwYq4g) | 4:06 |
 | 39 | [Keep It Low \(INZO Remix\)](https://open.spotify.com/track/5q0qSXk9GZHsyrovYMogO8) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Leisure Season Vol\. 1 Remixed](https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH) | 2:37 |
 | 40 | [Find Your Way](https://open.spotify.com/track/05xa7uXssS5nOaI5rk3Syb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Marenn Sukie](https://open.spotify.com/artist/0iCikBx8HjlrYP10DDxzle) | [Find Your Way / This Time](https://open.spotify.com/album/6V6ATIIr6w7PYmsPd5WNpk) | 7:02 |
+| 41 | [Pathways](https://open.spotify.com/track/37MQC1HF0hiApuaSEcq5fl) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Pathways](https://open.spotify.com/album/2aIi4kmiK0wipFpm8PJm1l) | 3:42 |
 
-Snapshot ID: `MTgyNCwxODY1OTgxYjIzNTU1YTJjN2UxM2FmMzIxMDVkNWMyMzBiZWFmMzVm`
+Snapshot ID: `MTgyNSwwMWZhNWRhNTVlZTVkMDcwYjQ1ZWZlMmNjZTk4ZTc2N2VlODkxMWQw`

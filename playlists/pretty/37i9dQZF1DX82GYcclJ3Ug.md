@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Machine Gun Kelly & Oli Sykes \(Bring Me The Horizon\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,873 likes - 114 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,045 likes - 114 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

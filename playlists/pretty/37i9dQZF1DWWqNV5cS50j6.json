@@ -1,12 +1,12 @@
 {
   "description": "Featuring new music by Terry Presume.",
-  "num_followers": 634852,
+  "num_followers": 634994,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzUyODg1NiwwMDAwMDI2ZjAwMDAwMTdmOTg1ZjQ5YzYwMDAwMDE3Zjc5NzJmNzgw",
+  "snapshot_id": "MTY0NzYxNzU5OCwwMDAwMDI3MDAwMDAwMTdmOWRhOTYyODIwMDAwMDE3Zjc5NzJmNzgw",
   "tracks": [
     {
       "added_at": "2022-03-11 14:48:28",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn"
     },
     {
+      "added_at": "2022-03-18 15:33:18",
+      "album": {
+        "name": "No Effort",
+        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "No Effort",
+      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
+    },
+    {
       "added_at": "2022-03-17 14:54:15",
       "album": {
         "name": "bootleg jordans",
@@ -87,6 +103,22 @@
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
+    },
+    {
+      "added_at": "2022-03-18 15:33:18",
+      "album": {
+        "name": "Too Late (To Call)",
+        "url": "https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz"
+      },
+      "artists": [
+        {
+          "name": "Ruby Red",
+          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Too Late (To Call)",
+      "url": "https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w"
     },
     {
       "added_at": "2022-03-10 19:07:01",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
+      "added_at": "2022-03-18 15:33:18",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        }
+      ],
+      "duration_ms": 175978,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu"
+    },
+    {
       "added_at": "2022-02-18 17:59:17",
       "album": {
         "name": "f**k it, i'm the man",
@@ -203,6 +251,22 @@
       "duration_ms": 138000,
       "name": "put the L in style!",
       "url": "https://open.spotify.com/track/0vPpdNrO38ObJs71ly8yL1"
+    },
+    {
+      "added_at": "2022-03-18 15:33:18",
+      "album": {
+        "name": "OVER EVERYTHING",
+        "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 191838,
+      "name": "OVER EVERYTHING",
+      "url": "https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV"
     },
     {
       "added_at": "2022-02-28 20:15:33",
@@ -445,22 +509,6 @@
       "url": "https://open.spotify.com/track/2YD9JIchaD9JfWrdSKBQcg"
     },
     {
-      "added_at": "2021-09-22 23:40:00",
-      "album": {
-        "name": "girls like drugs",
-        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 174434,
-      "name": "girls like drugs",
-      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
-    },
-    {
       "added_at": "2021-10-15 18:59:36",
       "album": {
         "name": "What Box?",
@@ -605,22 +653,6 @@
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
-      "added_at": "2021-10-14 19:36:01",
-      "album": {
-        "name": "Plant!",
-        "url": "https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N"
-      },
-      "artists": [
-        {
-          "name": "Flowerboy",
-          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Plant!",
-      "url": "https://open.spotify.com/track/53oZXP24LECwD6YBybecvG"
-    },
-    {
       "added_at": "2022-03-03 15:43:56",
       "album": {
         "name": "age tape 2",
@@ -685,22 +717,6 @@
       "url": "https://open.spotify.com/track/46qOZzUoQU2JaEiiOhunJ7"
     },
     {
-      "added_at": "2021-07-30 15:54:25",
-      "album": {
-        "name": "Are You Living In The Real World? - EP",
-        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 125689,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3GYZRYEqrXzl5iwxO42c2H"
-    },
-    {
       "added_at": "2022-02-28 20:15:33",
       "album": {
         "name": "Apollo XXI",
@@ -747,22 +763,6 @@
       "duration_ms": 108045,
       "name": "riddle",
       "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
-    },
-    {
-      "added_at": "2021-12-10 09:45:00",
-      "album": {
-        "name": "DANDELION",
-        "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "DANDELION",
-      "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
     },
     {
       "added_at": "2022-02-28 20:15:33",

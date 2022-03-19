@@ -1,12 +1,12 @@
 {
   "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Tani Yuuki",
-  "num_followers": 578370,
+  "num_followers": 578518,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzE4MzYwMCwwMDAwMDMwMTAwMDAwMTdmODNjYjE5ZjkwMDAwMDE3ZjgwMTllODg3",
+  "snapshot_id": "MTY0NzYwOTIyNiwwMDAwMDMwMjAwMDAwMTdmOWQyOWE0YWIwMDAwMDE3ZjgwMTllODg3",
   "tracks": [
     {
       "added_at": "2022-03-13 15:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-13 15:00:00",
       "album": {
+        "name": "Bye-Good-Bye",
+        "url": "https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Bye-Good-Bye",
+      "url": "https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO"
+    },
+    {
+      "added_at": "2022-03-13 15:00:00",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 253333,
       "name": "GILA GILA",
       "url": "https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X"
-    },
-    {
-      "added_at": "2022-03-13 15:00:00",
-      "album": {
-        "name": "Bye-Good-Bye",
-        "url": "https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Bye-Good-Bye",
-      "url": "https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO"
     },
     {
       "added_at": "2022-03-13 15:00:00",

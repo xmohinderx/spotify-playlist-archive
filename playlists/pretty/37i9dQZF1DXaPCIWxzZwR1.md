@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring BoyWithUke and blackbear
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,540 likes - 106 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,709 likes - 106 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

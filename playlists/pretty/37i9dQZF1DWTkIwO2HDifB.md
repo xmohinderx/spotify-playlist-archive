@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Voltei pra Cachorrada e os funks mais 🔑 do Brasil\. Foto: DJ Jeeh FDC, MC Meno Dani, DJ Cyclone
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,520,680 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,521,666 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

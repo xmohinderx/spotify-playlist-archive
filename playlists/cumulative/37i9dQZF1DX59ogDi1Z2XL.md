@@ -2,7 +2,7 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
-> The sounds of hip\-hop coming out of Canada\. Cover: Pengz
+> The coldest sounds of Hip\-Hop coming out of Canada\. Cover: Pengz
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

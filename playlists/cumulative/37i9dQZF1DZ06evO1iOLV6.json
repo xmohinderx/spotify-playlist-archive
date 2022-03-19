@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 192077,
       "name": "Aye Yo Remix by DJ Buddha",
       "url": "https://open.spotify.com/track/6wa05sv2gvswBwkmXjHBRB"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 246492,
       "name": "Bami Mujo (feat. Yung L & Patoranking)",
       "url": "https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 232463,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/71YmAdIb6DJrNmlglPzUQz"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
@@ -1268,6 +1268,36 @@
     },
     {
       "album": {
+        "name": "Tetema Remix (feat. Patoranking, Zlatan & Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/5LLYgXNnd4Igbln9aNjVQi"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254087,
+      "name": "Tetema Remix (feat. Patoranking, Zlatan & Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6Ia713o9xJsQ0eHb2cMknt"
+    },
+    {
+      "album": {
         "name": "Tetema Remix II",
         "url": "https://open.spotify.com/album/6tOeItN4bVuLiVospiI2nJ"
       },
@@ -1291,7 +1321,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 254093,
       "name": "Tetema Remix II",
       "url": "https://open.spotify.com/track/4GKQBdxakaunlyBB21sRJa"

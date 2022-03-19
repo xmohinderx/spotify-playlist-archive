@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> The names you know and the names you need to know in hip\-hop\. Cover: Coi Leray, Nicki Minaj
+> New music from Coi Leray, Nicki Minaj, and JuiceWrld is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,420 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,422 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 75 | [Luv Em All](https://open.spotify.com/track/4CoAPaFaOz8e9o8MhpjWBp) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 2:28 |
 
-Snapshot ID: `MTY0NzU3ODAwOSwwMDAwMDQ0NTAwMDAwMTdmOWI0ZDRkY2IwMDAwMDE3Zjk4OGFkYTEz`
+Snapshot ID: `MTY0NzYyMjAwMCwwMDAwMDQ0NjAwMDAwMTdmOWRlYzhlMDIwMDAwMDE3Zjk4OGFkYTEz`

@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Sudan Archives",
-  "num_followers": 1324042,
+  "num_followers": 1324106,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3NjA2MCwwMDAwMDQxZDAwMDAwMTdmOWIyZjkwYzIwMDAwMDE3Zjk4YWY2MDI0",
+  "snapshot_id": "MTY0NzYxMjE1NSwwMDAwMDQxZTAwMDAwMTdmOWQ1NjU2OTEwMDAwMDE3Zjk4YWY2MDI0",
   "tracks": [
     {
       "added_at": "2022-03-18 04:01:00",
@@ -159,6 +159,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2022-03-18 14:02:35",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -1009,26 +1025,6 @@
       "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Favorite (feat. Duckwrth)",
-        "url": "https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Ru AREYOU",
-          "url": "https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Favorite (feat. Duckwrth)",
-      "url": "https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Chocolate Hills",
@@ -1255,30 +1251,6 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 288348,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS"
     },
     {
       "added_at": "2022-01-14 05:00:00",

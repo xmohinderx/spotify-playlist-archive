@@ -2,7 +2,7 @@
 
 ### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
-> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
+> With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Blue Moon \- Dorian Remix](https://open.spotify.com/track/2ux9N6Y4H4U9GIjs0i3LEW) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Blue Moon \(Dorian Remix\)](https://open.spotify.com/album/1dCvElMRXbrj8TyT5b0TEM) | 3:15 | 2021-02-26 | 2021-07-25 |
 | [Blue Summer](https://open.spotify.com/track/3xKqJA2Qy0QboulKbztFUO) | [Natalie K](https://open.spotify.com/artist/2B2JJHFfdtp2H10DPMypwB) | [Blue Summer](https://open.spotify.com/album/2IVRvZcfdk3RpVPtfarSQd) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2020-08-20 |  |
-| [Boardwalk](https://open.spotify.com/track/1XOkBd2q1NOjsQ1oSOBjnn) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Boardwalk](https://open.spotify.com/album/6X4pmVkbNI859VJbY0E8r0) | 2:31 | 2022-02-26 |  |
+| [Boardwalk](https://open.spotify.com/track/1XOkBd2q1NOjsQ1oSOBjnn) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Boardwalk](https://open.spotify.com/album/6X4pmVkbNI859VJbY0E8r0) | 2:31 | 2022-02-26 | 2022-03-19 |
 | [Body Double](https://open.spotify.com/track/4V7yVMtfa4dHlnhCgU3TQC) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Van Bobbi](https://open.spotify.com/artist/4nU2SDiR8P7j6hzzI0JVHi) | [Body Double](https://open.spotify.com/album/5kWEJWoBifGdhMip0yBLkB) | 3:02 | 2019-12-17 | 2019-12-27 |
 | [Body Like A Gun](https://open.spotify.com/track/6zgkFkcvsgGvap7t0mgZhd) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT), [Sarah Jackson](https://open.spotify.com/artist/5lLzCE2cRgvSqYZKzj3GZe) | [Ebusuku](https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv) | 3:19 | 2021-05-14 | 2021-05-30 |
 | [Bohemian Rhapsody](https://open.spotify.com/track/1XzJrnQz8Hzv6abTC5qn8U) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Bohemian Rhapsody](https://open.spotify.com/album/02XnINSvZFOlFYUWbtURex) | 4:05 | 2021-02-08 | 2021-02-21 |
@@ -716,6 +716,7 @@
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-02-25 | 2022-03-17 |
 | [Magic](https://open.spotify.com/track/0lr51NomFfWi1X6PxZmZSx) | [Jessica Manalo](https://open.spotify.com/artist/2NTeuat88PLcG0BEn1qIg6) | [Magic](https://open.spotify.com/album/6tAJXN6MwirohmRjPqaldV) | 4:44 | 2021-10-29 | 2021-11-14 |
 | [Make Believe](https://open.spotify.com/track/7JRC1lXT3fdZUCcgKu71pG) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Koonsi](https://open.spotify.com/artist/7iWrvuCq6O8ovVULhP14Ak) | [Make Believe](https://open.spotify.com/album/4BuqGZDPiGWAmMwp2BHfME) | 3:36 | 2019-12-10 | 2019-12-17 |
+| [Make It Up To You](https://open.spotify.com/track/6sPlg3PxPiIq9wT1EwMmIu) | [Pierce Alexander](https://open.spotify.com/artist/3zgldFCs3j64BKQzn8qfYx) | [The Minutehand](https://open.spotify.com/album/7mrbrO8aP4dVJN4X0H1TDt) | 3:17 | 2022-03-18 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2021-08-28 | 2021-09-11 |
 | [Make Me Feel](https://open.spotify.com/track/2mN8KvkPnminY7wnbXAsjy) | [Tatiana DeMaria](https://open.spotify.com/artist/4AMHe2q7lq8woNeHgRCXD6) | [Make Me Feel](https://open.spotify.com/album/3QjcMIRk4HkPyyaqwB5NMZ) | 3:13 | 2021-10-22 | 2022-01-23 |
 | [Make You](https://open.spotify.com/track/6cr9JxifS1bfI1bj3rUgCM) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Make You](https://open.spotify.com/album/3TXQ2243awOWcyHvGjzU91) | 3:41 | 2022-02-28 | 2022-03-17 |
@@ -1170,6 +1171,7 @@
 | [Turnaround](https://open.spotify.com/track/2Z3glNCD1XzgZincZ7ah0x) | [williamXnigel](https://open.spotify.com/artist/6rVLePq4RXwJ78aTtd6yps) | [Turnaround](https://open.spotify.com/album/6sOPadoT1XNm76Q4yhsGEQ) | 3:55 | 2022-01-07 | 2022-01-23 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2021-08-28 | 2021-09-11 |
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2020-08-20 |  |
+| [Twisted](https://open.spotify.com/track/3yzGebxFtsxeh0iEAgyyUq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/45dLgbt1hpbGuUDpwexuTv) | 4:10 | 2022-03-18 |  |
 | [Two Coins](https://open.spotify.com/track/5Ealaegl2GWI3FbzyrfGt3) | [Lewis Dalgliesh](https://open.spotify.com/artist/5rhY8rWa0UZqSdfy2Fqc7Z) | [A Place I've Never Known](https://open.spotify.com/album/77pSzSttZGZAY0nmUE3qeS) | 3:05 | 2021-03-26 | 2021-04-11 |
 | [TYWT](https://open.spotify.com/track/2rugTlWNmn7ldRwG3TXwEG) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Goodbye](https://open.spotify.com/album/2RpNIBUoTDNK9pKzc7XNu7) | 3:01 | 2019-11-14 | 2019-12-04 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2020-08-20 |  |

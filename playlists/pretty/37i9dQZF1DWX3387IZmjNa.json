@@ -1,32 +1,48 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Roddy Ricch",
-  "num_followers": 1877196,
+  "num_followers": 1877265,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDUwYTAwMDAwMTdmNzc1OTExM2IwMDAwMDE3ZjQ2ZjJmN2Iz",
+  "snapshot_id": "MTY0NzYxOTIwMCwwMDAwMDUwYjAwMDAwMTdmOWRjMWQ0NWQwMDAwMDE3ZjQ2ZjJmN2Iz",
   "tracks": [
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-02-15 20:31:51",
       "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 193396,
-      "name": "Difference Is (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Hate Our Love (with Big Sean)",
+        "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hate Our Love (with Big Sean)",
+      "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -53,24 +69,20 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Hate Our Love (with Big Sean)",
-        "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+        "name": "cold",
+        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hate Our Love (with Big Sean)",
-      "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+      "duration_ms": 195129,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -89,42 +101,6 @@
       "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "NWA (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 231570,
-      "name": "NWA (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
-    },
-    {
-      "added_at": "2022-02-15 20:31:51",
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Non Judgmental",
@@ -139,6 +115,46 @@
       "duration_ms": 182487,
       "name": "Non Judgmental",
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "you & me",
+      "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193396,
+      "name": "Difference Is (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -179,6 +195,22 @@
       "duration_ms": 226006,
       "name": "MAGIC (feat. Mustard)",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx"
+      },
+      "artists": [
+        {
+          "name": "YXNG K.A",
+          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
     },
     {
       "added_at": "2022-02-18 05:17:24",
@@ -261,6 +293,26 @@
       "url": "https://open.spotify.com/track/0IZPY0PujmPeXyhYFngvsS"
     },
     {
+      "added_at": "2022-03-18 16:00:00",
+      "album": {
+        "name": "Confujawn (feat. Nija)",
+        "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        },
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 175329,
+      "name": "Confujawn (feat. Nija)",
+      "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Wait Too Long (feat. Blxst)",
@@ -305,26 +357,6 @@
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "you & me",
-      "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
-    },
-    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "About You",
@@ -339,22 +371,6 @@
       "duration_ms": 170702,
       "name": "About You",
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "cold",
-        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 195129,
-      "name": "cold",
-      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -379,6 +395,26 @@
       "duration_ms": 153194,
       "name": "One Shot (feat. Blxst & Wale)",
       "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "NWA (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 231570,
+      "name": "NWA (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -421,30 +457,6 @@
       "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
     },
     {
-      "added_at": "2021-09-03 05:02:30",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 296568,
-      "name": "In The Bible (with Lil Durk & Giveon)",
-      "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Who Do",
@@ -479,6 +491,26 @@
       "duration_ms": 206906,
       "name": "Hard To Trust (feat. Dreezy)",
       "url": "https://open.spotify.com/track/0VfopEzDeW2ANyBulAFh90"
+    },
+    {
+      "added_at": "2022-03-18 16:00:00",
+      "album": {
+        "name": "No Skips",
+        "url": "https://open.spotify.com/album/0Xd16jLmmthcM3qtFISVX1"
+      },
+      "artists": [
+        {
+          "name": "Derek King",
+          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 135888,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6VlyGntFkztRrLlMBDxLRj"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -741,22 +773,6 @@
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "2 Get You Thru The Rain",
-        "url": "https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 111444,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56"
-    },
-    {
       "added_at": "2021-11-05 04:08:43",
       "album": {
         "name": "TWOPOINTFIVE",
@@ -857,20 +873,20 @@
       "url": "https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2021-12-10 05:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx"
+        "name": "2 Get You Thru The Rain",
+        "url": "https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji"
       },
       "artists": [
         {
-          "name": "YXNG K.A",
-          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
+      "duration_ms": 111444,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 182250,
       "name": "Ride For You (feat. Kehlani)",
       "url": "https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb"
-    },
-    {
-      "added_at": "2021-09-03 05:10:33",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 269883,
-      "name": "Race My Mind",
-      "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
     },
     {
       "added_at": "2021-10-15 04:00:00",

@@ -3500,6 +3500,24 @@
     },
     {
       "album": {
+        "name": "Magic Mind",
+        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
+      },
+      "artists": [
+        {
+          "name": "Duane Drew",
+          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155424,
+      "name": "Magic Mind",
+      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "album": {
         "name": "Marble Madness",
         "url": "https://open.spotify.com/album/77h5IYy4eY58o1hJD5EywX"
       },
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 244054,
       "name": "Music Saved My LIfe",
       "url": "https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q"
@@ -4124,6 +4142,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN"
+      },
+      "artists": [
+        {
+          "name": "Bauke Top",
+          "url": "https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118024,
+      "name": "November Jam",
+      "url": "https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo"
+    },
+    {
+      "album": {
         "name": "Oakman",
         "url": "https://open.spotify.com/album/0jBIlySAdTWJ96emamDarx"
       },
@@ -4193,6 +4229,24 @@
       "duration_ms": 106666,
       "name": "Octavium",
       "url": "https://open.spotify.com/track/5wov0ejrVbOcp2RZYSssAx"
+    },
+    {
+      "album": {
+        "name": "Cinematic Lofi",
+        "url": "https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V"
+      },
+      "artists": [
+        {
+          "name": "Lonely Joyman",
+          "url": "https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "Old School Love",
+      "url": "https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf"
     },
     {
       "album": {
@@ -4301,6 +4355,24 @@
       "duration_ms": 152673,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy"
+    },
+    {
+      "album": {
+        "name": "Lofi Jazzy Vibes",
+        "url": "https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv"
+      },
+      "artists": [
+        {
+          "name": "Same as Different",
+          "url": "https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Out For a Walk",
+      "url": "https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb"
     },
     {
       "album": {

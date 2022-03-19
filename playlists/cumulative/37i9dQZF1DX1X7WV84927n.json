@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Decompress",
+      "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
+    },
+    {
+      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 221892,
       "name": "Hard Skool",
       "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
@@ -1212,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189499,
+      "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
+    },
+    {
+      "album": {
         "name": "In the Beginning of Time",
         "url": "https://open.spotify.com/album/30fvCDvh3H0YESjdYX9dOO"
       },
@@ -1353,7 +1393,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 238000,
       "name": "Let Our Love Win",
       "url": "https://open.spotify.com/track/2yc04zLj2JCUO8exwkikWR"
@@ -1447,6 +1487,24 @@
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial",
+        "url": "https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/1sn8hpbQWGsPCxGrR8N95t"
     },
     {
       "album": {
@@ -1687,6 +1745,24 @@
       "duration_ms": 176107,
       "name": "Peacemaker",
       "url": "https://open.spotify.com/track/0gRv4lU4ZFvaOEw4mJw8Z7"
+    },
+    {
+      "album": {
+        "name": "Below (Deluxe)",
+        "url": "https://open.spotify.com/album/4vgHXHbrOmKsNBb4icJJ6G"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188164,
+      "name": "Permanently Sealed - Bonus Track",
+      "url": "https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1"
     },
     {
       "album": {
@@ -1983,7 +2059,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 215360,
       "name": "Ship of Lies",
       "url": "https://open.spotify.com/track/2vSbdtapUMqlUhOEsIc5kF"
@@ -2683,7 +2759,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 262146,
       "name": "When You Know (Where You Come From)",
       "url": "https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2"

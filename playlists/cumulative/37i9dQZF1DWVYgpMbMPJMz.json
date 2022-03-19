@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Hillsong Worship",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Jon Reddick",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 442061,
       "name": "Deliverer - Live",
       "url": "https://open.spotify.com/track/3bVHKULwl0mAuIstJLzFiu"
@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318473,
+      "name": "Hope Is Awake",
+      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+    },
+    {
+      "album": {
         "name": "The Worship EP",
         "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
       },
@@ -956,6 +974,32 @@
     },
     {
       "album": {
+        "name": "If I Was A Bird / Nothing Left To Do (Live)",
+        "url": "https://open.spotify.com/album/2eA0jNhKzWFukEYR6JnYgP"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412320,
+      "name": "If I Was A Bird - Live",
+      "url": "https://open.spotify.com/track/6CHDS93A1KpK1o5H7l8phc"
+    },
+    {
+      "album": {
         "name": "In Peace or Pieces",
         "url": "https://open.spotify.com/album/49tCDS1eWFTvagaJUU2bbK"
       },
@@ -985,10 +1029,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 324000,
       "name": "In The Hands Of Christ My King - Edit",
       "url": "https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE"
+    },
+    {
+      "album": {
+        "name": "Behold Collection 2 (Live)",
+        "url": "https://open.spotify.com/album/3jsUydb3a6G0lWZNtXm0m0"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325983,
+      "name": "Into The Deep - Live",
+      "url": "https://open.spotify.com/track/76LpCDrBfkeedT6U3WNyK6"
     },
     {
       "album": {
@@ -1434,6 +1500,36 @@
     },
     {
       "album": {
+        "name": "Not By Might",
+        "url": "https://open.spotify.com/album/2DLtiW2GI0H6BKGpfdaEH7"
+      },
+      "artists": [
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Charlotte Kiwanuka",
+          "url": "https://open.spotify.com/artist/1bs5ND8OMU7KR5CQwzroAC"
+        },
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Not By Might",
+      "url": "https://open.spotify.com/track/5BfOrVf48F0mq4DfNlgKud"
+    },
+    {
+      "album": {
         "name": "Nothing is Wasted (Live)",
         "url": "https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l"
       },
@@ -1515,7 +1611,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 536186,
       "name": "On The Altar",
       "url": "https://open.spotify.com/track/70wjLmLNTZgCuzAOsTrodn"
@@ -1555,7 +1651,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 261506,
       "name": "Prayer of Consecration",
       "url": "https://open.spotify.com/track/1Qt8sLjhtncIQK9m7IQgFe"
@@ -1861,7 +1957,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 283556,
       "name": "Take Heart - Acoustic",
       "url": "https://open.spotify.com/track/0eOCkGMMnkE6Ab6f9UxgYM"
@@ -1957,6 +2053,24 @@
       "duration_ms": 184883,
       "name": "The Love Of Jesus",
       "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
+    },
+    {
+      "album": {
+        "name": "God, Turn It Around",
+        "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386777,
+      "name": "The Power Of Your Name - Live Version",
+      "url": "https://open.spotify.com/track/23jtnESrSetEMjKlXyMzS3"
     },
     {
       "album": {
@@ -2369,6 +2483,28 @@
       "duration_ms": 426194,
       "name": "You Can Do All Things",
       "url": "https://open.spotify.com/track/6cVgO1fJ2z2pMB6NSvuiAz"
+    },
+    {
+      "album": {
+        "name": "Your Dwelling Place",
+        "url": "https://open.spotify.com/album/0jhGMSuP84Qp7CIUnJwxhM"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Anabeth Morgan",
+          "url": "https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535856,
+      "name": "Your Dwelling Place - Live from Anchour Studio",
+      "url": "https://open.spotify.com/track/3ZGqTZZUqOU2c66FIAtrfB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz"

@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise Focus",
+        "url": "https://open.spotify.com/album/6dbUVNFmB5AtXdYtyfkggZ"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise Studio",
+          "url": "https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223451,
+      "name": "Brown Noise Focus",
+      "url": "https://open.spotify.com/track/53ao8qZRILIaYrCEb5uItT"
+    },
+    {
+      "album": {
         "name": "Brown Noise for Sleepy Eyes",
         "url": "https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2"
       },
@@ -761,6 +779,24 @@
       "duration_ms": 266750,
       "name": "Brown Noise Sleep Tunnel",
       "url": "https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2"
+    },
+    {
+      "album": {
+        "name": "Brown Noise in the Bedroom",
+        "url": "https://open.spotify.com/album/10HKfIUPwczWd0ylU3rLJ2"
+      },
+      "artists": [
+        {
+          "name": "The Tone-Gens",
+          "url": "https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224311,
+      "name": "Brown Noise Snoozing",
+      "url": "https://open.spotify.com/track/6HpHSbOQQdT94b2hKqHvlc"
     },
     {
       "album": {
@@ -1859,7 +1895,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 122281,
       "name": "waterfall noise",
       "url": "https://open.spotify.com/track/4fYskLkVHdV2rHHV9IQ0cQ"

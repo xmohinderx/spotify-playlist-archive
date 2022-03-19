@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Machine Gun Kelly, Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,535 likes - 78 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,539 likes - 78 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

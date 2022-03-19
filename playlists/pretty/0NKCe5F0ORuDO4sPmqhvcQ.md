@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,434 likes - 45 songs - 2 hr 28 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,433 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 43 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 |
 | 44 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 |
 | 45 | [Mental \(feat\. Slump6s & glaive\)](https://open.spotify.com/track/1aRwfcw6dJCFADHm4fqy4T) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Mental \(feat\. Slump6s & glaive\)](https://open.spotify.com/album/5jmPMZargFxop6FYM7Kv5J) | 2:53 |
+| 46 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 |
+| 47 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 |
+| 48 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 |
 
-Snapshot ID: `OTU3MCxiZGM0ZTk3M2M4OWM3ZTMyZTU4NWFiM2I5YmIyNGFjZmNjYzA1YmI5`
+Snapshot ID: `OTU3Myw4OTczNzAzMWFmNjE3ZGZjNjZmZjQzYTVkZDVmZGM0ODRjOTRjZjk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Mabel, Jax Jones & Galantis, Joel Corry, David Guetta & Bryson Tiller, Charli XCX, Kungs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,898,499 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,898,804 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

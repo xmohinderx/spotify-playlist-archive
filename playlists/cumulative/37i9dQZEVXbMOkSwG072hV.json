@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 191710,
       "name": "All For Us",
       "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 186466,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/3FtxlAGlF0pQHwAeo4iXFy"
@@ -2715,10 +2715,32 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 188639,
       "name": "PIUI TIC TAC",
       "url": "https://open.spotify.com/track/7q0g1Oj0VbJNa09eWVDAcu"
+    },
+    {
+      "album": {
+        "name": "Piui Tic Tac (feat. Mc Rd)",
+        "url": "https://open.spotify.com/album/6rz4RakhvLQ1cBZIOYYSfW"
+      },
+      "artists": [
+        {
+          "name": "DJ ALEX MARTINS",
+          "url": "https://open.spotify.com/artist/59niSQ8fZJIx4WioiFRriY"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188639,
+      "name": "Piui Tic Tac (feat. Mc Rd)",
+      "url": "https://open.spotify.com/track/2qwwy1Q4uwYC6izK6JOCbT"
     },
     {
       "album": {
@@ -2887,6 +2909,24 @@
       "duration_ms": 153437,
       "name": "RITMADA SIGILOSA",
       "url": "https://open.spotify.com/track/18BnpVPlaPsHIK7fhHz5mq"
+    },
+    {
+      "album": {
+        "name": "Rocking A Cardigan in Atlanta",
+        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
+      },
+      "artists": [
+        {
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96825,
+      "name": "Rocking A Cardigan in Atlanta",
+      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
       "album": {
@@ -3807,7 +3847,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 175081,
       "name": "Vegana",
       "url": "https://open.spotify.com/track/0b7uj4KMIlKCsV1sO2EAWB"

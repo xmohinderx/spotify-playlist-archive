@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Enveloped",
+        "url": "https://open.spotify.com/album/2ARMZHJiFxX46oOiMx4TVH"
+      },
+      "artists": [
+        {
+          "name": "Girls In Synthesis",
+          "url": "https://open.spotify.com/artist/1JDshBvdtYOv3h1Th6xYQV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Enveloped",
+      "url": "https://open.spotify.com/track/6JpNRJWABPoMCter1WlSlP"
+    },
+    {
+      "album": {
         "name": "Eton Mess",
         "url": "https://open.spotify.com/album/26LiIG02F99Nn6rvkazCvu"
       },
@@ -579,6 +597,24 @@
       "duration_ms": 272712,
       "name": "G.A.F.F. - Edit",
       "url": "https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj"
+    },
+    {
+      "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "album": {
@@ -759,7 +795,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 160000,
       "name": "I just wanna be silent",
       "url": "https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng"
@@ -1116,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "NEW DREAM",
+        "url": "https://open.spotify.com/album/0cRB7PNPx4kEPkq4QMGiYJ"
+      },
+      "artists": [
+        {
+          "name": "V.RI",
+          "url": "https://open.spotify.com/artist/0S4IQu9l1tbbntMQGfwDjA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "NEW DREAM",
+      "url": "https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu"
+    },
+    {
+      "album": {
         "name": "New Slang",
         "url": "https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2"
       },
@@ -1221,6 +1275,24 @@
       "duration_ms": 155968,
       "name": "Pizza",
       "url": "https://open.spotify.com/track/3a1Xbl2cvJIMSpU3oMf4Vq"
+    },
+    {
+      "album": {
+        "name": "PLANT THE FANGS",
+        "url": "https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125976,
+      "name": "PLANT THE FANGS",
+      "url": "https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4"
     },
     {
       "album": {
@@ -1373,6 +1445,28 @@
       "duration_ms": 216466,
       "name": "Sand Fight",
       "url": "https://open.spotify.com/track/0krlA3U69xTFIrbEAwALak"
+    },
+    {
+      "album": {
+        "name": "Satanic Slumber Party",
+        "url": "https://open.spotify.com/album/2xRTFyydYap0kAWPfJwU2i"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342551,
+      "name": "Satanic Slumber Party Part 2 (Midnight In Sodom)",
+      "url": "https://open.spotify.com/track/1uMcy6dDlrQby1nD6xwKOw"
     },
     {
       "album": {
@@ -1539,6 +1633,28 @@
       "duration_ms": 191684,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "album": {
+        "name": "Talking To Ourselves (IDLES Inner Monologue Remix)",
+        "url": "https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "Talking To Ourselves - IDLES Inner Monologue Remix",
+      "url": "https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6"
     },
     {
       "album": {

@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "38 SPECIAL",
+        "url": "https://open.spotify.com/album/2lOXTwEp6ZGzgAdbpgPqOG"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "38 SPECIAL",
+      "url": "https://open.spotify.com/track/3SyNvVRtqdbnfSoaa9itX2"
+    },
+    {
+      "album": {
         "name": "Stanna Likadan / 456",
         "url": "https://open.spotify.com/album/5GQz1UCcw6GcgquP6LZ1Oj"
       },
@@ -3709,7 +3727,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 144713,
       "name": "Sj\u00e4len \u00e4r svart",
       "url": "https://open.spotify.com/track/44N2tUIEaOrJAX96idaJQ8"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The sounds of hip\-hop coming out of Canada\. Cover: Pengz
+> The coldest sounds of Hip\-Hop coming out of Canada\. Cover: Pengz
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,462 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,492 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Criminal](https://open.spotify.com/track/7gHrLGe3J0Qlvv2QG18hdc) | [McFlyy](https://open.spotify.com/artist/65hhflNXZEhgbQvnyftw0L) | [Criminal](https://open.spotify.com/album/72yidR4p7A7dgVtc4yM2dd) | 3:29 |
 | 100 | [NOTHING LIKE IT](https://open.spotify.com/track/0ljEfxKkkHvc08Y7l3dmY0) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI) | [NOTHING LIKE IT](https://open.spotify.com/album/18ngzWuVY9CVNhHC4UKRP9) | 3:14 |
 
-Snapshot ID: `MTY0NzU3ODcyOCwwMDAwMDM4ZDAwMDAwMTdmOWI1ODQ2YzQwMDAwMDE3ZjliNTZjZGVj`
+Snapshot ID: `MTY0NzYyMTA2MCwwMDAwMDM4ZTAwMDAwMTdmOWRkZTM1YWUwMDAwMDE3ZjliNTZjZGVj`

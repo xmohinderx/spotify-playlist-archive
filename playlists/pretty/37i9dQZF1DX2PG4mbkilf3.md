@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 ### [Mood Ring](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Elevate your aura with the latest in R&B\. Cover: Sage Harris
+> This is R&B in Canada, elevate your aura\. Cover: Sage Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,329 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,357 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Gone](https://open.spotify.com/track/0epiqMIMIoRpgIEryIU63G) | [Training Season](https://open.spotify.com/artist/0nsTvhODP9ZYbxC0KePYSQ) | [Gone](https://open.spotify.com/album/16RO08TDCJFIoOTU3zIjdw) | 2:43 |
 | 100 | [Signs](https://open.spotify.com/track/3iccRZL7pfvsrTearGjkw1) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Signs](https://open.spotify.com/album/6kKa0FQVC8JhvM9q6B7FMP) | 2:43 |
 
-Snapshot ID: `MTY0NzU3ODg5MSwwMDAwMDI2NzAwMDAwMTdmOWI1YWMzMzIwMDAwMDE3ZjliNWE2NzMz`
+Snapshot ID: `MTY0NzYyMDk5NywwMDAwMDI2ODAwMDAwMTdmOWRkZDQzMTUwMDAwMDE3ZjliNWE2NzMz`

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 
-> The names you know and the names you need to know in hip\-hop\. Cover: Coi Leray, Nicki Minaj
+> New music from Coi Leray, Nicki Minaj, and JuiceWrld is here!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

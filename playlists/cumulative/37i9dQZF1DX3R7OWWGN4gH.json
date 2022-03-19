@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 127413,
       "name": "Call me Cruella",
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 188853,
       "name": "Death Of Us",
       "url": "https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 158666,
       "name": "Emperor's New Clothes",
       "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 201863,
       "name": "Headache",
       "url": "https://open.spotify.com/track/754P7sAkjMg3tYqMW3NA3W"
@@ -1251,6 +1251,24 @@
       "duration_ms": 207775,
       "name": "I'm Gonna Show You Crazy",
       "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+    },
+    {
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185122,
+      "name": "If I Killed Someone For You",
+      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
     },
     {
       "album": {
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 230693,
       "name": "My Heart's Grave",
       "url": "https://open.spotify.com/track/6QIZUbPbMqbDUORTuZtxsV"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -1999,6 +2017,24 @@
       "duration_ms": 137142,
       "name": "Sugar Mama",
       "url": "https://open.spotify.com/track/4dyAQ8PjbyInJYgTnTsIeX"
+    },
+    {
+      "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Teacher's Pet",
+      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
     },
     {
       "album": {
@@ -2074,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "the other side",
+        "url": "https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr"
+      },
+      "artists": [
+        {
+          "name": "marg\u00f8",
+          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183230,
+      "name": "the other side",
+      "url": "https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94"
+    },
+    {
+      "album": {
         "name": "The Red Means I Love You",
         "url": "https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E"
       },
@@ -2089,6 +2143,24 @@
       "duration_ms": 233979,
       "name": "The Red Means I Love You",
       "url": "https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp"
+    },
+    {
+      "album": {
+        "name": "THE SNAKE",
+        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176953,
+      "name": "THE SNAKE",
+      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
     },
     {
       "album": {

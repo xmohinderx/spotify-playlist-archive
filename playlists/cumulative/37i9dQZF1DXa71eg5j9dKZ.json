@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Floating Points",
+  "description": "The home for alternative electronic music. Cover: Joy Orbison",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
@@ -686,6 +686,36 @@
     },
     {
       "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/1xdx9pFQ67KSJ2fCpsF3qz"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "James Davidson",
+          "url": "https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy"
+        },
+        {
+          "name": "Subjective",
+          "url": "https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH"
+        },
+        {
+          "name": "LaMeduza",
+          "url": "https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269880,
+      "name": "Breakout (feat. LaMeduza)",
+      "url": "https://open.spotify.com/track/1gyUWnRt5qvq0pqgvTzHKI"
+    },
+    {
+      "album": {
         "name": "Bring Me Back To You",
         "url": "https://open.spotify.com/album/6nojptV23oHMznt5Zh8DEq"
       },
@@ -959,6 +989,24 @@
       "duration_ms": 354465,
       "name": "Danshaug",
       "url": "https://open.spotify.com/track/06lJUqEd1IUkJUm0TIdaqh"
+    },
+    {
+      "album": {
+        "name": "DC Rot",
+        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "DC Rot",
+      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
     },
     {
       "album": {
@@ -1317,7 +1365,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
@@ -1718,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Isolate",
+        "url": "https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243558,
+      "name": "Isolate",
+      "url": "https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ"
+    },
+    {
+      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -2063,7 +2129,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 194782,
       "name": "Love It or Not (feat. Infinite Coles)",
       "url": "https://open.spotify.com/track/1klY5RDT7s0wXJrJjg0ftJ"
@@ -2081,7 +2147,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 326819,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0kcaKKnAbjtjWreExi0YtB"
@@ -2546,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "pinky ring / red velve7",
+        "url": "https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279762,
+      "name": "pinky ring",
+      "url": "https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ"
+    },
+    {
+      "album": {
         "name": "Places (Radio Edit)",
         "url": "https://open.spotify.com/album/77zHgcPdfsJH3r73Plubub"
       },
@@ -2763,7 +2847,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 339377,
       "name": "red velve7",
       "url": "https://open.spotify.com/track/4qQchczFCdYNGEZBsVEg8s"

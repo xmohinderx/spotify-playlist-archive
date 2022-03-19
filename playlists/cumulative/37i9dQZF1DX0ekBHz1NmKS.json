@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "A Power In Letting Go",
+        "url": "https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT"
+      },
+      "artists": [
+        {
+          "name": "Vargas & Lagola",
+          "url": "https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172395,
+      "name": "A Power In Letting Go",
+      "url": "https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2"
+    },
+    {
+      "album": {
         "name": "ABAJO",
         "url": "https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 205953,
       "name": "All My Heroes",
       "url": "https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN"
@@ -351,10 +369,28 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
+    },
+    {
+      "album": {
+        "name": "Barnasinnet (2022)",
+        "url": "https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193427,
+      "name": "Barnasinnet - 2022",
+      "url": "https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY"
     },
     {
       "album": {
@@ -553,7 +589,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 169866,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 196603,
       "name": "Du f\u00e5r allt",
       "url": "https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk"
@@ -1253,7 +1289,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 162413,
       "name": "Du sa (det kanske var fult)",
       "url": "https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww"
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 164678,
       "name": "D\u00f6r F\u00f6r Er Skull",
       "url": "https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4"
@@ -1379,7 +1415,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 269866,
       "name": "En fattig munk fr\u00e5n Skara",
       "url": "https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT"
@@ -1845,7 +1881,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 217834,
       "name": "Good Things Come to Those Who Wait",
       "url": "https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA"
@@ -1957,7 +1993,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 172468,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv"
@@ -2001,6 +2037,24 @@
       "duration_ms": 198128,
       "name": "Hela v\u00e4rlden v\u00e4ntar",
       "url": "https://open.spotify.com/track/72qqClHy6Qf9Thi58pc4lX"
+    },
+    {
+      "album": {
+        "name": "Hela v\u00e4rlden \u00e4r min",
+        "url": "https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Hela v\u00e4rlden \u00e4r min",
+      "url": "https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G"
     },
     {
       "album": {
@@ -2069,7 +2123,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 190835,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu"
@@ -2681,7 +2735,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 213026,
       "name": "King of a Tragedy",
       "url": "https://open.spotify.com/track/1K1oSJaGtIgK28y7bmfspg"
@@ -2699,7 +2753,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 178555,
       "name": "Kylsk\u00e5pspoesi",
       "url": "https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C"
@@ -2883,7 +2937,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 194800,
       "name": "Live and Let Live",
       "url": "https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y"
@@ -3183,7 +3237,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 178024,
       "name": "Missing You Sucks",
       "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -3309,7 +3363,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
@@ -3883,7 +3937,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 185876,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq"
@@ -4251,7 +4305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 185173,
       "name": "Skies",
       "url": "https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH"
@@ -4305,7 +4359,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 171084,
       "name": "Smile for You",
       "url": "https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo"
@@ -4413,7 +4467,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 150267,
       "name": "Someone Always Knows",
       "url": "https://open.spotify.com/track/3ws3fXwBlZRSWbPgtEcTii"
@@ -4775,7 +4829,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 196586,
       "name": "Sv\u00e5r",
       "url": "https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl"
@@ -4901,7 +4955,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 190693,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp"
@@ -4991,7 +5045,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 160827,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t"
@@ -5189,7 +5243,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 226906,
       "name": "T\u00e4rning",
       "url": "https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe"
@@ -5291,7 +5345,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -5327,7 +5381,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 187079,
       "name": "Vattenfast maskara",
       "url": "https://open.spotify.com/track/4mUcCiwzgHl6PgYt1AsDF4"
@@ -5453,7 +5507,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
       "url": "https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s"
@@ -5591,7 +5645,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 210639,
       "name": "V\u00e5gen",
       "url": "https://open.spotify.com/track/3BxF9YsGMNNeRxxNjjRLJX"

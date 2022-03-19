@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle ",
-  "num_followers": 21434,
+  "num_followers": 21433,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTU3MCxiZGM0ZTk3M2M4OWM3ZTMyZTU4NWFiM2I5YmIyNGFjZmNjYzA1YmI5",
+  "snapshot_id": "OTU3Myw4OTczNzAzMWFmNjE3ZGZjNjZmZjQzYTVkZDVmZGM0ODRjOTRjZjk1",
   "tracks": [
     {
       "added_at": "2022-03-17 04:03:21",
@@ -839,6 +839,66 @@
       "duration_ms": 173585,
       "name": "Mental (feat. Slump6s & glaive)",
       "url": "https://open.spotify.com/track/1aRwfcw6dJCFADHm4fqy4T"
+    },
+    {
+      "added_at": "2022-03-18 22:19:48",
+      "album": {
+        "name": "Open Road (feat. Rico & Miella)",
+        "url": "https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Rico & Miella",
+          "url": "https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Open Road (feat. Rico & Miella)",
+      "url": "https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI"
+    },
+    {
+      "added_at": "2022-03-18 22:23:08",
+      "album": {
+        "name": "Stop The World",
+        "url": "https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 179097,
+      "name": "Stop The World",
+      "url": "https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI"
+    },
+    {
+      "added_at": "2022-03-18 22:23:40",
+      "album": {
+        "name": "On 2 Me",
+        "url": "https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP"
+      },
+      "artists": [
+        {
+          "name": "High Zombie",
+          "url": "https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "On 2 Me",
+      "url": "https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
+    },
+    {
+      "album": {
         "name": "CANDU :: AB Bride",
         "url": "https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -442,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Cage",
+        "url": "https://open.spotify.com/album/48IE5IgYci5jGXcnEY8Q2r"
+      },
+      "artists": [
+        {
+          "name": "The Man Who",
+          "url": "https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Cage",
+      "url": "https://open.spotify.com/track/7kxNZfIrJ3dxND0yWBEPrS"
+    },
+    {
+      "album": {
         "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/0Vsst77tIiNqNmCUvizQDG"
       },
@@ -536,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/5FrGeLERHZoYjxak8r6HAI"
+      },
+      "artists": [
+        {
+          "name": "El Niven and The Alibi",
+          "url": "https://open.spotify.com/artist/7yfhsUHVdBP34pBaYXRlZB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161623,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/3USGHvjjLeMYZGc8qmIHLr"
+    },
+    {
+      "album": {
         "name": "Clearview",
         "url": "https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg"
       },
@@ -555,6 +609,42 @@
       "duration_ms": 164000,
       "name": "Clearview",
       "url": "https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW"
+    },
+    {
+      "album": {
+        "name": "Compliance",
+        "url": "https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
+    },
+    {
+      "album": {
+        "name": "Congratulations",
+        "url": "https://open.spotify.com/album/2N32BE9xsjUyzQ2jfOPAyq"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196887,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl"
     },
     {
       "album": {
@@ -753,7 +843,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 182853,
       "name": "Devastatingly Mediocre",
       "url": "https://open.spotify.com/track/2WkOcuI6MDChQqqofsuXsz"
@@ -771,7 +861,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 195710,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/3xOFql1Qp0ACI9BJk5t0nh"
@@ -946,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Metamorph",
+        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w"
+    },
+    {
+      "album": {
         "name": "Enemies",
         "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
       },
@@ -957,7 +1065,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 161592,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
@@ -1350,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "Metamorph",
+        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd"
+    },
+    {
+      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/5pXpUs3iFvHtERCkLkrEIi"
       },
@@ -1361,7 +1487,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa"
@@ -1379,7 +1505,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 165186,
       "name": "Hellbound",
       "url": "https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V"
@@ -1419,6 +1545,24 @@
       "duration_ms": 198166,
       "name": "Holes",
       "url": "https://open.spotify.com/track/6jauJgJ1vi8GoSnNm0hIh8"
+    },
+    {
+      "album": {
+        "name": "Honeybrains",
+        "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186847,
+      "name": "Honeybrains",
+      "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
     },
     {
       "album": {
@@ -1545,10 +1689,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "If You Were Me",
+        "url": "https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR"
+      },
+      "artists": [
+        {
+          "name": "Deanna Petcoff",
+          "url": "https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225343,
+      "name": "If You Were Me",
+      "url": "https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE"
     },
     {
       "album": {
@@ -1861,6 +2023,24 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213239,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN"
     },
     {
       "album": {
@@ -2601,7 +2781,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 191919,
       "name": "Play Along",
       "url": "https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ"
@@ -3839,7 +4019,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"

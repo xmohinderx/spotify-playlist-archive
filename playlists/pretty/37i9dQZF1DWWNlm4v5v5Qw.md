@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 ### [Ripple Effect: DMV](https://open.spotify.com/playlist/37i9dQZF1DWWNlm4v5v5Qw)
 
-> DMV music breaking waves\. Cover: Alex Vaughn
+> DMV music breaking waves\. Cover: Eli Derby
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,919 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,922 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 74 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 |
 | 75 | [Down Nuh River](https://open.spotify.com/track/6yVwEmcJnvpw4RXdD4ATi1) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Down Nuh River](https://open.spotify.com/album/2s3TAnFeGlqgeskI1JBGFX) | 2:08 |
 
-Snapshot ID: `MTY0NzU4NjE3NSwwMDAwMDAzMjAwMDAwMTdmOWJjOWViYzcwMDAwMDE3ZjI4ODZiMWZj`
+Snapshot ID: `MTY0NzY0NTEwNiwwMDAwMDAzMzAwMDAwMTdmOWY0NTBhYjcwMDAwMDE3ZjlmNGQyMDc2`

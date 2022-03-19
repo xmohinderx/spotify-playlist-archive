@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
-> welcome to our universe ft\. sophie powers
+> welcome to our universe ft\. nova twins
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
+| [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 |  |
 | [Colour of Moonlight \(Antiochus\)](https://open.spotify.com/track/6d9nQK2zdlQtsV0pnjq7k9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Doldrums](https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 3:59 | 2022-02-21 | 2022-03-04 |
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-18 |  |
 | [CORPSE$](https://open.spotify.com/track/0J5apfOF4WspEaSzDf5CIn) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7), [triplesixdelete](https://open.spotify.com/artist/1MWqzCKKuVN5wDahu2F4g2) | [CORPSE$](https://open.spotify.com/album/2RelSGPWsonQDrBVgLqXnA) | 1:44 | 2022-01-05 |  |
@@ -88,6 +89,7 @@
 | [MIKE](https://open.spotify.com/track/4WkfTWEVvYavJ5DP14Trh7) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [MIKE](https://open.spotify.com/album/15SUIAmkfSHSByyyH4Savt) | 2:03 | 2022-02-18 |  |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-12-27 | 2022-01-19 |
 | [Misfit](https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Misfit](https://open.spotify.com/album/67szcbtvGILfdqgbg6MpNc) | 2:26 | 2021-12-27 |  |
+| [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 |  |
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 |  |
 | [My Bloody Valentine](https://open.spotify.com/track/4hnKoBZJ3XHMkNXCFWvoAm) | [Cottontail](https://open.spotify.com/artist/4TVXVHRuEfI05r7V2iKvss), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9), [Zepkins](https://open.spotify.com/artist/0wXgbtNwH7CcHmmmNcEZRo) | [My Bloody Valentine](https://open.spotify.com/album/261S9u5PrX8u1W6aRLC69Z) | 2:47 | 2021-12-27 |  |
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2021-12-27 | 2022-02-04 |
@@ -115,7 +117,7 @@
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2021-12-27 | 2022-01-19 |
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-01-28 | 2022-02-13 |
 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 | 2021-12-27 |  |
-| [SHALL WE?](https://open.spotify.com/track/15JD2p4h5sk0jXGMuSLVBP) | [LINA MAXINE](https://open.spotify.com/artist/5kFin5jNp7ZLxpJngi0AbC) | [SHALL WE?](https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV) | 3:27 | 2022-02-25 |  |
+| [SHALL WE?](https://open.spotify.com/track/15JD2p4h5sk0jXGMuSLVBP) | [LINA MAXINE](https://open.spotify.com/artist/5kFin5jNp7ZLxpJngi0AbC) | [SHALL WE?](https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV) | 3:27 | 2022-02-25 | 2022-03-19 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 |  |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-12 | 2022-01-29 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 |  |
@@ -138,7 +140,7 @@
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 |  |
 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 | 2022-02-04 | 2022-02-22 |
-| [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 |  |
+| [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 | 2022-03-19 |
 | [White Noise](https://open.spotify.com/track/5TMn2Kdm2k6iCufxH2qsxl) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:20 | 2022-02-25 |  |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-27 |  |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-02-04 | 2022-03-04 |

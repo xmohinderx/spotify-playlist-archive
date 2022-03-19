@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : James
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,522 likes - 87 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,551 likes - 87 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

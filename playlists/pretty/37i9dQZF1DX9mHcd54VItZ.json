@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=34uVb-0eRy-in1CwBYVnNg\">Internet Girl</a>",
-  "num_followers": 9963,
+  "num_followers": 9969,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU1NDM0MCwwMDAwMDJiMzAwMDAwMTdmOTllNDI1MDUwMDAwMDE3Zjk5YjUyOGJl",
+  "snapshot_id": "MTY0NzYwNDE1OCwwMDAwMDJiNDAwMDAwMTdmOWNkYzUwZWQwMDAwMDE3Zjk5YjUyOGJl",
   "tracks": [
     {
       "added_at": "2022-03-17 21:59:00",
@@ -371,6 +371,22 @@
       "duration_ms": 150000,
       "name": "Country in Me",
       "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
+    },
+    {
+      "added_at": "2022-03-18 11:49:18",
+      "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S"
+      },
+      "artists": [
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc"
     },
     {
       "added_at": "2022-03-03 21:59:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 213252,
       "name": "Swine Tooth Grin - Single Mix",
       "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
-    },
-    {
-      "added_at": "2022-02-25 07:24:37",
-      "album": {
-        "name": "Shelter Of Bones",
-        "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
-      },
-      "artists": [
-        {
-          "name": "Dan Patlansky",
-          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Selfish Lover",
-      "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
     },
     {
       "added_at": "2020-10-29 21:59:00",

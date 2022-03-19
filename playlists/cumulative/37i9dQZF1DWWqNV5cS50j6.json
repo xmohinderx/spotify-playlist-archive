@@ -3137,7 +3137,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 201974,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
@@ -5085,7 +5085,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 174434,
       "name": "girls like drugs",
       "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
@@ -8526,6 +8526,24 @@
     },
     {
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175978,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu"
+    },
+    {
+      "album": {
         "name": "My Funny Girl",
         "url": "https://open.spotify.com/album/3mdamSaSakxmJCpaSin5pW"
       },
@@ -8965,6 +8983,24 @@
       "duration_ms": 201025,
       "name": "NO DAYLIGHT",
       "url": "https://open.spotify.com/track/0DReWpyZW9iQi324WSyQFx"
+    },
+    {
+      "album": {
+        "name": "No Effort",
+        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "No Effort",
+      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
     },
     {
       "album": {
@@ -9676,6 +9712,24 @@
     },
     {
       "album": {
+        "name": "OVER EVERYTHING",
+        "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191838,
+      "name": "OVER EVERYTHING",
+      "url": "https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV"
+    },
+    {
+      "album": {
         "name": "PASTIMES",
         "url": "https://open.spotify.com/album/4t0W7LDmbu1qCdpREL0w0R"
       },
@@ -9963,7 +10017,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 131500,
       "name": "Plant!",
       "url": "https://open.spotify.com/track/53oZXP24LECwD6YBybecvG"
@@ -11013,7 +11067,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 125689,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3GYZRYEqrXzl5iwxO42c2H"
@@ -13677,6 +13731,24 @@
       "duration_ms": 169920,
       "name": "TONY WITH THE NISSAN",
       "url": "https://open.spotify.com/track/4z9Ll96ItvR0uuwjorIRD1"
+    },
+    {
+      "album": {
+        "name": "Too Late (To Call)",
+        "url": "https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz"
+      },
+      "artists": [
+        {
+          "name": "Ruby Red",
+          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Too Late (To Call)",
+      "url": "https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w"
     },
     {
       "album": {

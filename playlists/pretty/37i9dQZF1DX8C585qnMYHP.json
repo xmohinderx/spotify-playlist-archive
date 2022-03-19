@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Kai Landre, Artwork: Thami Nabil",
-  "num_followers": 81724,
+  "num_followers": 81760,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwMjMzMiwwMDAwMDAwMDg2ZjJkYjI5YmIxZDZlZDBkMDc1ZWZmZTIyNmI4ZGQ5",
+  "snapshot_id": "MTY0NzY1MTEyNCwwMDAwMDAwMDhkNzIyMTBjMmE4YjZlZjAxMWI3NDRhYzE2NThjM2Jm",
   "tracks": [
     {
       "added_at": "2022-03-09 05:04:44",
@@ -525,6 +525,190 @@
       "url": "https://open.spotify.com/track/4L75OEom1UKUALCLguUpig"
     },
     {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Humanity",
+        "url": "https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521"
+      },
+      "artists": [
+        {
+          "name": "Koji Nakamura",
+          "url": "https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N"
+        },
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        },
+        {
+          "name": "Takashi Numazawa",
+          "url": "https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx"
+        }
+      ],
+      "duration_ms": 185537,
+      "name": "no.4",
+      "url": "https://open.spotify.com/track/2zuo6BhGBhO35b9sLguoMf"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Gnani",
+        "url": "https://open.spotify.com/album/5d7DwZyHzn7jIYlp7J9eZU"
+      },
+      "artists": [
+        {
+          "name": "Sis",
+          "url": "https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2"
+        }
+      ],
+      "duration_ms": 203891,
+      "name": "Gazelle Rites",
+      "url": "https://open.spotify.com/track/7DqphOA6kAHi4UlYhfEtBM"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Resolve",
+        "url": "https://open.spotify.com/album/4pF7tseGQhkuckYgzERJAn"
+      },
+      "artists": [
+        {
+          "name": "Alex Albrecht pres. Melqu\u00edades",
+          "url": "https://open.spotify.com/artist/6a5EIjDwMIpnwlOAYNsKxu"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/7kjCUpu21gf59BusTG7Pxk"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "A Journey",
+        "url": "https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Last Boy Picked",
+        "url": "https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC"
+      },
+      "artists": [
+        {
+          "name": "KUNTARI",
+          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Roseate",
+      "url": "https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2022-02-02 05:00:00",
+      "album": {
+        "name": "The Vanity Project",
+        "url": "https://open.spotify.com/album/2qvaBjZBzfzS6EUOTF9kZr"
+      },
+      "artists": [
+        {
+          "name": "Iceboy Violet",
+          "url": "https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C"
+        }
+      ],
+      "duration_ms": 304551,
+      "name": "Atone//Blankface",
+      "url": "https://open.spotify.com/track/2JRCY9le2r6uPJUQGNwbu5"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Snow Ball",
+        "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
+      },
+      "artists": [
+        {
+          "name": "Yobi Alan",
+          "url": "https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Snow Ball",
+      "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Amalgamation",
+        "url": "https://open.spotify.com/album/19TLkRY4h5QmHDNQLTXfps"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "duration_ms": 420893,
+      "name": "Amalgamation",
+      "url": "https://open.spotify.com/track/5UzINDcRy1ryhxq57BAmXB"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU"
+      },
+      "artists": [
+        {
+          "name": "JUNES K",
+          "url": "https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Songbook",
+      "url": "https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
+      },
+      "artists": [
+        {
+          "name": "Syntrovert",
+          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Cuarzo",
+      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
+    },
+    {
       "added_at": "2022-02-16 03:30:56",
       "album": {
         "name": "Frecuencias",
@@ -561,126 +745,6 @@
       "url": "https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU"
     },
     {
-      "added_at": "2022-02-16 03:30:56",
-      "album": {
-        "name": "Snow Ball",
-        "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
-      },
-      "artists": [
-        {
-          "name": "Yobi Alan",
-          "url": "https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Snow Ball",
-      "url": "https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY"
-    },
-    {
-      "added_at": "2022-02-16 03:30:56",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2022-02-16 03:30:56",
-      "album": {
-        "name": "Aural Drift (T.Raumschmiere Remix)",
-        "url": "https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7"
-      },
-      "artists": [
-        {
-          "name": "Martin Merz",
-          "url": "https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb"
-        },
-        {
-          "name": "T.Raumschmiere",
-          "url": "https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA"
-        }
-      ],
-      "duration_ms": 347276,
-      "name": "Aural Drift - T.Raumschmiere Remix",
-      "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Last Boy Picked",
-        "url": "https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC"
-      },
-      "artists": [
-        {
-          "name": "KUNTARI",
-          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Roseate",
-      "url": "https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k"
-    },
-    {
-      "added_at": "2022-02-16 03:30:56",
-      "album": {
-        "name": "Syphon",
-        "url": "https://open.spotify.com/album/53inN1LahHBAMWV1UMbVvz"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Rusin",
-          "url": "https://open.spotify.com/artist/0WxdhadZph0QW3C9sKB6zo"
-        },
-        {
-          "name": "Emmy Broughton",
-          "url": "https://open.spotify.com/artist/3wK6ruBkalHoh3xW8ZnLqL"
-        }
-      ],
-      "duration_ms": 240379,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/3zPWYcsJYiYWFTvMAx9W2x"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "Coral Dawn",
-        "url": "https://open.spotify.com/album/0qnqq2cJPjLgWRyA8KboQ1"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Coral Dawn",
-      "url": "https://open.spotify.com/track/6fKsCeZfS5MKpNXgu6FGbP"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU"
-      },
-      "artists": [
-        {
-          "name": "JUNES K",
-          "url": "https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Songbook",
-      "url": "https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY"
-    },
-    {
       "added_at": "2022-01-12 05:01:00",
       "album": {
         "name": "A Pale Shelter",
@@ -705,10 +769,10 @@
       "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
     },
     {
-      "added_at": "2022-02-16 03:30:56",
+      "added_at": "2022-01-19 06:00:00",
       "album": {
-        "name": "Director",
-        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
+        "name": "Broken Theme",
+        "url": "https://open.spotify.com/album/1VwRYKT7n1MF8xrSUH0XAX"
       },
       "artists": [
         {
@@ -718,23 +782,7 @@
       ],
       "duration_ms": 129953,
       "name": "Broken Theme",
-      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
-    },
-    {
-      "added_at": "2022-02-09 05:00:00",
-      "album": {
-        "name": "In Free Fall",
-        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 432993,
-      "name": "Cataphora",
-      "url": "https://open.spotify.com/track/5Xg7GVHxzbgWeRImMrcASX"
+      "url": "https://open.spotify.com/track/4YQvrMd01q1N4OLGuhnucA"
     },
     {
       "added_at": "2022-01-19 06:00:00",
@@ -755,6 +803,54 @@
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
+        "name": "Escape Cape",
+        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 265736,
+      "name": "Escape Cape",
+      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
+    },
+    {
+      "added_at": "2022-02-09 05:00:00",
+      "album": {
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 432993,
+      "name": "Cataphora",
+      "url": "https://open.spotify.com/track/5Xg7GVHxzbgWeRImMrcASX"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "There Is So Much Left To Find!",
+        "url": "https://open.spotify.com/album/5B4uEg6QahQdAsUWsRLXly"
+      },
+      "artists": [
+        {
+          "name": "Parasol",
+          "url": "https://open.spotify.com/artist/3tywWXsWJSKYn89uZbqaYw"
+        }
+      ],
+      "duration_ms": 197428,
+      "name": "There Is So Much Left To Find!",
+      "url": "https://open.spotify.com/track/1woL2xufPJSJRBih0xEKcl"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
         "name": "INTROSPECTIO",
         "url": "https://open.spotify.com/album/3CigtIBWnb5taxN4nlSFRQ"
       },
@@ -771,114 +867,6 @@
       "duration_ms": 307826,
       "name": "CHOREA DUPLEX",
       "url": "https://open.spotify.com/track/3Nu4GIq6P0HrvzGFmhpGAE"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "Outcome",
-        "url": "https://open.spotify.com/album/2hiKJhaCzdDepFJpnwxLws"
-      },
-      "artists": [
-        {
-          "name": "Diana Oliveira",
-          "url": "https://open.spotify.com/artist/1pJeRjACU3qFxh08FZ30ix"
-        }
-      ],
-      "duration_ms": 380116,
-      "name": "The Lights",
-      "url": "https://open.spotify.com/track/0auAFDUUQvCNMGNqAWYGiv"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Escape Cape",
-        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 265736,
-      "name": "Escape Cape",
-      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "Humanity",
-        "url": "https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521"
-      },
-      "artists": [
-        {
-          "name": "Koji Nakamura",
-          "url": "https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N"
-        },
-        {
-          "name": "foodman",
-          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
-        },
-        {
-          "name": "Takashi Numazawa",
-          "url": "https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx"
-        }
-      ],
-      "duration_ms": 185537,
-      "name": "no.4",
-      "url": "https://open.spotify.com/track/2zuo6BhGBhO35b9sLguoMf"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "The Loss of Wilderness",
-        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
-      },
-      "artists": [
-        {
-          "name": "ILUITEQ",
-          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
-        }
-      ],
-      "duration_ms": 357509,
-      "name": "The Loss of Wilderness",
-      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Nihiloxica",
-        "url": "https://open.spotify.com/album/5bJXJrJ6lJcdhXrdphNYhe"
-      },
-      "artists": [
-        {
-          "name": "Nihiloxica",
-          "url": "https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL"
-        }
-      ],
-      "duration_ms": 385173,
-      "name": "Endongo",
-      "url": "https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Ribbon Bone [Silk Chaser]",
-        "url": "https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky"
-      },
-      "artists": [
-        {
-          "name": "Oli XL",
-          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
-        },
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Ribbon Bone [Silk Chaser]",
-      "url": "https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

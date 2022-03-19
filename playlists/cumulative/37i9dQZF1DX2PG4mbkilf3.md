@@ -2,7 +2,7 @@
 
 ### [Mood Ring](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
-> Elevate your aura with the latest in R&B\. Cover: Sage Harris
+> This is R&B in Canada, elevate your aura\. Cover: Sage Harris
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

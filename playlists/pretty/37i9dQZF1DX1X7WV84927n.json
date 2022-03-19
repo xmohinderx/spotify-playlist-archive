@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full volume lovers. Cover: Ghost",
-  "num_followers": 245979,
+  "num_followers": 246110,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAwODU3NSwwMDAwMDE5ZDAwMDAwMTdmNzk1YzcxOWYwMDAwMDE3Zjc0YmE2ZDll",
+  "snapshot_id": "MTY0NzYwODQwMCwwMDAwMDE5ZTAwMDAwMTdmOWQxZDA5MWQwMDAwMDE3Zjc0YmE2ZDll",
   "tracks": [
     {
       "added_at": "2022-03-11 14:22:55",
@@ -141,20 +141,24 @@
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
     },
     {
-      "added_at": "2022-03-04 10:01:50",
+      "added_at": "2022-03-18 13:00:00",
       "album": {
-        "name": "Rock Believer (Deluxe)",
-        "url": "https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g"
+        "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 262146,
-      "name": "When You Know (Where You Come From)",
-      "url": "https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2"
+      "duration_ms": 189499,
+      "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
     },
     {
       "added_at": "2022-03-04 10:01:50",
@@ -225,6 +229,22 @@
       "url": "https://open.spotify.com/track/72JETKVAqfC7yX09OvfYOm"
     },
     {
+      "added_at": "2022-03-18 13:00:00",
+      "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Decompress",
+      "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
+    },
+    {
       "added_at": "2022-03-04 10:01:50",
       "album": {
         "name": "Turborider",
@@ -287,6 +307,22 @@
       "duration_ms": 213160,
       "name": "Better Times",
       "url": "https://open.spotify.com/track/2UD14Vo4iLXGRNWLlkVHXs"
+    },
+    {
+      "added_at": "2022-03-18 13:00:00",
+      "album": {
+        "name": "Turn Up That Dial",
+        "url": "https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/1sn8hpbQWGsPCxGrR8N95t"
     },
     {
       "added_at": "2022-03-04 10:01:50",
@@ -463,22 +499,6 @@
     {
       "added_at": "2022-03-04 10:01:50",
       "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
-    },
-    {
-      "added_at": "2022-03-04 10:01:50",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/1gE2hF5mhn5ZKWh3Jz9z9s"
       },
@@ -491,6 +511,22 @@
       "duration_ms": 242035,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7CrvX7hX95euhxMpZoZITg"
+    },
+    {
+      "added_at": "2022-03-18 13:00:00",
+      "album": {
+        "name": "Below (Deluxe)",
+        "url": "https://open.spotify.com/album/4vgHXHbrOmKsNBb4icJJ6G"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188164,
+      "name": "Permanently Sealed - Bonus Track",
+      "url": "https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1"
     },
     {
       "added_at": "2022-03-04 10:01:50",
@@ -543,22 +579,6 @@
     {
       "added_at": "2022-03-04 10:01:50",
       "album": {
-        "name": "Power Trio",
-        "url": "https://open.spotify.com/album/0nwpxdu7byY2YBFrcXu4zB"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Ship of Lies",
-      "url": "https://open.spotify.com/track/2vSbdtapUMqlUhOEsIc5kF"
-    },
-    {
-      "added_at": "2022-03-04 10:01:50",
-      "album": {
         "name": "Strength",
         "url": "https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA"
       },
@@ -587,22 +607,6 @@
       "duration_ms": 227266,
       "name": "Advent",
       "url": "https://open.spotify.com/track/2zwdGnjdIaocRWsAkqr7qt"
-    },
-    {
-      "added_at": "2022-03-04 10:01:50",
-      "album": {
-        "name": "Let Our Love Win",
-        "url": "https://open.spotify.com/album/659Hq9z7bn8bpsi8JPyPLY"
-      },
-      "artists": [
-        {
-          "name": "GIANT",
-          "url": "https://open.spotify.com/artist/3gKPME3EjakIpyBUZrWPTh"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Let Our Love Win",
-      "url": "https://open.spotify.com/track/2yc04zLj2JCUO8exwkikWR"
     },
     {
       "added_at": "2022-03-04 10:01:50",

@@ -3648,6 +3648,28 @@
     },
     {
       "album": {
+        "name": "Kawasaki",
+        "url": "https://open.spotify.com/album/1bStyqkV25EHm5QHf8Jk2w"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        },
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164198,
+      "name": "Kawasaki",
+      "url": "https://open.spotify.com/track/0bhUpKSeZKGKbZocH21wHX"
+    },
+    {
+      "album": {
         "name": "Kicks",
         "url": "https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl"
       },

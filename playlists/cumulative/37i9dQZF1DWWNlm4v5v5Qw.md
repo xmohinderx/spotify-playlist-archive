@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: DMV](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
-> DMV music breaking waves\. Cover: Alex Vaughn
+> DMV music breaking waves\. Cover: Eli Derby
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

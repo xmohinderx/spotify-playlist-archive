@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128312,
+  "num_followers": 128332,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMwNywzOWJhZjQxY2NiMjVlOTk4ZDk1OTk3MGViNmIwZTMwYWJhMWY4NGQz",
+  "snapshot_id": "MzMxMSxjNGZhM2IzOTZkYTFmY2IwNzgzYWQ4NTE1NTEzMTNlOTYwMjcxYjQy",
   "tracks": [
+    {
+      "added_at": "2022-03-18 16:32:40",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK"
+      },
+      "artists": [
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
+    },
+    {
+      "added_at": "2022-03-18 16:32:28",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
+      },
+      "artists": [
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        },
+        {
+          "name": "Haen",
+          "url": "https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og"
+    },
     {
       "added_at": "2022-03-17 15:03:34",
       "album": {
@@ -1107,38 +1143,6 @@
       "duration_ms": 188095,
       "name": "Ignore Them",
       "url": "https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Dream On",
-        "url": "https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA"
-      },
-      "artists": [
-        {
-          "name": "Glaue",
-          "url": "https://open.spotify.com/artist/4LLym899uwEUeuVo6KdVom"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG"
-      },
-      "artists": [
-        {
-          "name": "OVSKY",
-          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
-        }
-      ],
-      "duration_ms": 171141,
-      "name": "Warmer",
-      "url": "https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri, JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,440 likes - 110 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,455 likes - 110 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/2aIi4kmiK0wipFpm8PJm1l"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222220,
+      "name": "Pathways",
+      "url": "https://open.spotify.com/track/37MQC1HF0hiApuaSEcq5fl"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/1lHmOYabioXFvBI5WnV7HU"
       },

@@ -284,6 +284,28 @@
     },
     {
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
+      },
+      "artists": [
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        },
+        {
+          "name": "Haen",
+          "url": "https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og"
+    },
+    {
+      "album": {
         "name": "Carbonara",
         "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },
@@ -605,7 +627,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 197500,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy"
@@ -1321,6 +1343,24 @@
       "duration_ms": 260371,
       "name": "Nibbana",
       "url": "https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK"
+      },
+      "artists": [
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
     },
     {
       "album": {
@@ -2203,7 +2243,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 171141,
       "name": "Warmer",
       "url": "https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM"

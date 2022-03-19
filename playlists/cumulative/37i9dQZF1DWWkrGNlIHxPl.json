@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Nights",
+        "url": "https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD"
+      },
+      "artists": [
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "A Thousand Nights",
+      "url": "https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN"
+    },
+    {
+      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-19",
       "duration_ms": 152195,
       "name": "Drunk Calling",
       "url": "https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga"

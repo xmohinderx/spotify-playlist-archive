@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAwODM1MzkzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAwOTIwMDY5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Desde Mis Ojos (Lo Mas Pegado)",
-        "url": "https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Desde Mis Ojos (Lo Mas Pegado)",
-      "url": "https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Desde Mis Ojos (Lo Mas Pegado)",
+        "url": "https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Desde Mis Ojos (Lo Mas Pegado)",
+      "url": "https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Gonna Be Okay",
         "url": "https://open.spotify.com/album/3zUtl4EgwZCX84UD4O1FHb"
@@ -77,27 +77,23 @@
       "url": "https://open.spotify.com/track/2zZuQRgs9xNBXwdZUFEGE6"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Si Te Vieras Desde Mis Ojos Sabrias",
-        "url": "https://open.spotify.com/album/6pjEU5DFvU2pM5F620oiM1"
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
       },
       "artists": [
         {
-          "name": "castronit rodig",
-          "url": "https://open.spotify.com/artist/3Qk7ZJ3LeQNGZhQpCSrFv9"
-        },
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 124238,
-      "name": "Si Te Vieras Desde Mis Ojos Sabrias",
-      "url": "https://open.spotify.com/track/4u3r4baUDsPKE5U0wydXEO"
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
@@ -137,23 +133,7 @@
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -169,7 +149,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
@@ -189,55 +169,7 @@
       "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Nevermind (30th Anniversary Super Deluxe)",
-        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232203,
-      "name": "Something In The Way - Remastered",
-      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
@@ -261,7 +193,75 @@
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232203,
+      "name": "Something In The Way - Remastered",
+      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX"
+      },
+      "artists": [
+        {
+          "name": "Blxndy",
+          "url": "https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F"
+        },
+        {
+          "name": "Alldizy",
+          "url": "https://open.spotify.com/artist/3hY1a7dAWKcpkSw5zQnQFr"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Una Cunumi (Remix)",
         "url": "https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf"
@@ -289,27 +289,23 @@
       "url": "https://open.spotify.com/track/07sQOuFnAKkgT81abNu1m9"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Spicy",
-        "url": "https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
       "artists": [
         {
-          "name": "Blxndy",
-          "url": "https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F"
-        },
-        {
-          "name": "Alldizy",
-          "url": "https://open.spotify.com/artist/3hY1a7dAWKcpkSw5zQnQFr"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 181546,
-      "name": "Spicy",
-      "url": "https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG"
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
@@ -329,7 +325,7 @@
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -345,23 +341,7 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
@@ -377,23 +357,7 @@
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 150603,
-      "name": "Mesero",
-      "url": "https://open.spotify.com/track/5WG5YepJrJ13Fxh4V2oLCr"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
@@ -409,7 +373,43 @@
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 150603,
+      "name": "Mesero",
+      "url": "https://open.spotify.com/track/5WG5YepJrJ13Fxh4V2oLCr"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 165314,
+      "name": "Thinking with My Dick (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/4UOzvysEvszNx8c4kzqHk9"
@@ -437,43 +437,23 @@
       "url": "https://open.spotify.com/track/1T2zW5YYHxPauHtGE4Aqnz"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia"
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
       },
       "artists": [
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
         }
       ],
-      "duration_ms": 165314,
-      "name": "Thinking with My Dick (feat. Juicy J)",
-      "url": "https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz"
+      "duration_ms": 200977,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M"
@@ -489,7 +469,7 @@
       "url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Cayo La Noche X Diles X Soy Peor",
         "url": "https://open.spotify.com/album/3frhrxgFMkirkmLDu6okds"
@@ -505,7 +485,7 @@
       "url": "https://open.spotify.com/track/4rvcqtRGH7DODsK9H6J1sd"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -521,23 +501,23 @@
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "La Trampa es Ley",
-        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 141864,
-      "name": "La Trampa es Ley",
-      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Shake (Remastered)",
         "url": "https://open.spotify.com/album/3Akw69hwyc0YgbWjhnOVKJ"
@@ -553,7 +533,7 @@
       "url": "https://open.spotify.com/track/6DYM1F6kuLpa7vnmMLUS8k"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "this is what falling in love feels like",
         "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
@@ -569,99 +549,23 @@
       "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Respuesta Cero",
-        "url": "https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM"
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "BlueFire",
-          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 203951,
-      "name": "Respuesta Cero",
-      "url": "https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc"
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Envolver Remix",
-        "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 182863,
-      "name": "Envolver Remix",
-      "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Sexy Lady (Remix)",
-        "url": "https://open.spotify.com/album/5juuBV3lNewwWSJAPGTc0w"
-      },
-      "artists": [
-        {
-          "name": "Eddy Joniel",
-          "url": "https://open.spotify.com/artist/08ULGv7hfuJGSkPyfjoiCp"
-        },
-        {
-          "name": "Jossimar",
-          "url": "https://open.spotify.com/artist/1YjRQwFPu96sI1JKlv0LG9"
-        },
-        {
-          "name": "\u00c1rabe",
-          "url": "https://open.spotify.com/artist/7a0sw5zHKWUcxm4wx3Zqn4"
-        },
-        {
-          "name": "Magnus R Troy",
-          "url": "https://open.spotify.com/artist/3a1gEA7TJ1VTgLxIQdFlqh"
-        },
-        {
-          "name": "G\u00e1nster Nc",
-          "url": "https://open.spotify.com/artist/01XPTQ9ZxJr6Psmp2Tc7F0"
-        }
-      ],
-      "duration_ms": 260015,
-      "name": "Sexy Lady - Remix",
-      "url": "https://open.spotify.com/track/1GY7NGKKekV3TWGgeOQeUh"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W"
@@ -681,23 +585,23 @@
       "url": "https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
+        "name": "JOSEFINA",
+        "url": "https://open.spotify.com/album/6ljqQYbS3LX2JN3BTf4c1P"
       },
       "artists": [
         {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+          "name": "Xeuz",
+          "url": "https://open.spotify.com/artist/7DAssSa8U1Ny7iRhshYCG3"
         }
       ],
-      "duration_ms": 200977,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
+      "duration_ms": 125288,
+      "name": "JOSEFINA",
+      "url": "https://open.spotify.com/track/45ZD3R5IcDDYvFwaptyckB"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -713,7 +617,63 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Respuesta Cero",
+        "url": "https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "BlueFire",
+          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+        }
+      ],
+      "duration_ms": 203951,
+      "name": "Respuesta Cero",
+      "url": "https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 144767,
+      "name": "La Jaula Perfecta",
+      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/4ryQ5zgWSHGFuoYO4bmY92"
@@ -749,27 +709,75 @@
       "url": "https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
+        "name": "Sexy Lady (Remix)",
+        "url": "https://open.spotify.com/album/5juuBV3lNewwWSJAPGTc0w"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Eddy Joniel",
+          "url": "https://open.spotify.com/artist/08ULGv7hfuJGSkPyfjoiCp"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Jossimar",
+          "url": "https://open.spotify.com/artist/1YjRQwFPu96sI1JKlv0LG9"
+        },
+        {
+          "name": "\u00c1rabe",
+          "url": "https://open.spotify.com/artist/7a0sw5zHKWUcxm4wx3Zqn4"
+        },
+        {
+          "name": "Magnus R Troy",
+          "url": "https://open.spotify.com/artist/3a1gEA7TJ1VTgLxIQdFlqh"
+        },
+        {
+          "name": "G\u00e1nster Nc",
+          "url": "https://open.spotify.com/artist/01XPTQ9ZxJr6Psmp2Tc7F0"
         }
       ],
-      "duration_ms": 213013,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
+      "duration_ms": 260015,
+      "name": "Sexy Lady - Remix",
+      "url": "https://open.spotify.com/track/1GY7NGKKekV3TWGgeOQeUh"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "People of The Pride",
+      "url": "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Envolver Remix",
+        "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 182863,
+      "name": "Envolver Remix",
+      "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
@@ -785,123 +793,23 @@
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+      "duration_ms": 323930,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lThiyFluc0jY2O8SYg3II"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Cacao",
-        "url": "https://open.spotify.com/album/1kwOhnYMyN8RQQ83muJELC"
-      },
-      "artists": [
-        {
-          "name": "Byron Salas",
-          "url": "https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v"
-        }
-      ],
-      "duration_ms": 167608,
-      "name": "Cacao",
-      "url": "https://open.spotify.com/track/42Dg7pvCBviPP92At3vOT5"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 144767,
-      "name": "La Jaula Perfecta",
-      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Desde la Ra\u00edz",
-        "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        }
-      ],
-      "duration_ms": 201205,
-      "name": "Fumando Mota",
-      "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
@@ -917,27 +825,7 @@
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
-      "added_at": "2022-03-17 12:29:53",
-      "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-03-17 12:29:53",
+      "added_at": "2022-03-18 12:01:09",
       "album": {
         "name": "IMPERA",
         "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
@@ -951,6 +839,106 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Cacao",
+        "url": "https://open.spotify.com/album/1kwOhnYMyN8RQQ83muJELC"
+      },
+      "artists": [
+        {
+          "name": "Byron Salas",
+          "url": "https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v"
+        }
+      ],
+      "duration_ms": 167608,
+      "name": "Cacao",
+      "url": "https://open.spotify.com/track/42Dg7pvCBviPP92At3vOT5"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "Desde la Ra\u00edz",
+        "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 201205,
+      "name": "Fumando Mota",
+      "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
+    },
+    {
+      "added_at": "2022-03-18 12:01:09",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",
