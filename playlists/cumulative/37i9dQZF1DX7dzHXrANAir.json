@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/5a6AT9Zwj6fOcqJ97EU5Qn"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 278613,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/0OYYiR0CxzsXscdXH0tE2v"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 240085,
       "name": "Change Ringing",
       "url": "https://open.spotify.com/track/5GuiFlzQaTd2HLmJFUx907"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 161045,
       "name": "Deteketei Lambert",
       "url": "https://open.spotify.com/track/0tT7d3m0STxsg21oYWL0T8"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 277266,
       "name": "Enghave Lys (Reimagined by Alex Somers)",
       "url": "https://open.spotify.com/track/3fub1SpvG7w6JzIiuq72Lw"
@@ -1006,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Glass (Solo Piano)",
+        "url": "https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX"
+      },
+      "artists": [
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375809,
+      "name": "Glass - Solo Piano",
+      "url": "https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK"
+    },
+    {
+      "album": {
         "name": "Gl\u00fchw\u00fcrmchen",
         "url": "https://open.spotify.com/album/4hCUhAjYSwgi5oELIDemgD"
       },
@@ -1108,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "Hazy Day",
+        "url": "https://open.spotify.com/album/6n1pAvuKmfKQL3HHeFTZHD"
+      },
+      "artists": [
+        {
+          "name": "Venceslas Catz",
+          "url": "https://open.spotify.com/artist/3wIgEya8AysFHG4ZF0mA7E"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Hazy Day",
+      "url": "https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
@@ -1149,7 +1185,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 258043,
       "name": "Husky Train - Ah! Kosmos Remix",
       "url": "https://open.spotify.com/track/7LGyd27bEseIXw9Od7EeDr"
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 247043,
       "name": "Kassel - Robot Koch Rework",
       "url": "https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL"
@@ -1285,7 +1321,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
@@ -1343,7 +1379,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 225331,
       "name": "La promesse - Niklas Paschburg Remix",
       "url": "https://open.spotify.com/track/3Zz0A5CrwY6oXB4ohpZcka"
@@ -1397,7 +1433,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 390558,
       "name": "Leaving - Live from Studio S2",
       "url": "https://open.spotify.com/track/5pkC7Z4iKPYq92NafxFjB5"
@@ -1459,7 +1495,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 341400,
       "name": "L\u00f3a - Niklas Paschburg Rework",
       "url": "https://open.spotify.com/track/4PMekU60WqmP5RcfN8kAZ2"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
@@ -1781,7 +1817,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 278096,
       "name": "Moving Pictures",
       "url": "https://open.spotify.com/track/5Q1k4g2pDLySYHLX8fmv29"
@@ -1799,7 +1835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 261560,
       "name": "Newborn",
       "url": "https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7"
@@ -1821,6 +1857,36 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/5JxbtHrbIuw2gwrsAdOpql"
+      },
+      "artists": [
+        {
+          "name": "Paul Dixon",
+          "url": "https://open.spotify.com/artist/7cI8MDKn9CpIQjwROVhh8S"
+        },
+        {
+          "name": "James Underwood",
+          "url": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+        },
+        {
+          "name": "Fyfe",
+          "url": "https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX"
+        },
+        {
+          "name": "Iskra Strings",
+          "url": "https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/4jMOhFmabozK4cz2sQKoOs"
     },
     {
       "album": {
@@ -1911,7 +1977,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 139130,
       "name": "Overture",
       "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
@@ -1969,7 +2035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 225112,
       "name": "Passacaille",
       "url": "https://open.spotify.com/track/6QpnhxER1fhJEHo8dPry3a"
@@ -2057,7 +2123,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
@@ -2257,7 +2323,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
@@ -2493,7 +2559,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 242838,
       "name": "Transformotion",
       "url": "https://open.spotify.com/track/4RBecpK3zimf5RLUMof1f2"
@@ -2511,7 +2577,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 558400,
       "name": "Universal Kiss",
       "url": "https://open.spotify.com/track/407KvBaY2r2ctmZpY1KufZ"
@@ -2649,7 +2715,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
@@ -2711,7 +2777,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 214153,
       "name": "Wind",
       "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"

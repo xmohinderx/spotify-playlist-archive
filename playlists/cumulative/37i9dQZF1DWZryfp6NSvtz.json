@@ -6478,6 +6478,28 @@
     },
     {
       "album": {
+        "name": "Native Intelligence",
+        "url": "https://open.spotify.com/album/2nNmgEy221WV8M68AVK3yP"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Trent Reznor",
+          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "Native Intelligence",
+      "url": "https://open.spotify.com/track/2mKAZDOy4k24ktEQYVAzas"
+    },
+    {
+      "album": {
         "name": "Naturally Wild",
         "url": "https://open.spotify.com/album/6EGo7nlEgTBejeViAv1NOk"
       },

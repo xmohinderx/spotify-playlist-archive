@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 167500,
       "name": "DANSA",
       "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
@@ -4194,6 +4194,28 @@
     },
     {
       "album": {
+        "name": "G-CODE",
+        "url": "https://open.spotify.com/album/2iq0rnASwKLB5xlTzVedGp"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "G-CODE",
+      "url": "https://open.spotify.com/track/7GLqG1b18ebqXmCl7EUNt3"
+    },
+    {
+      "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
       },
@@ -4209,7 +4231,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 165253,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5"
@@ -4809,7 +4831,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 153710,
       "name": "Hallabaloo",
       "url": "https://open.spotify.com/track/03jodq9I7XgEdouxH230fd"
@@ -5143,6 +5165,24 @@
       "duration_ms": 189440,
       "name": "Hej hall\u00e5!",
       "url": "https://open.spotify.com/track/6BT8CwzsMOi2FSIDa5zZwN"
+    },
+    {
+      "album": {
+        "name": "Hela v\u00e4rlden \u00e4r min",
+        "url": "https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Hela v\u00e4rlden \u00e4r min",
+      "url": "https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G"
     },
     {
       "album": {
@@ -5559,6 +5599,24 @@
       "duration_ms": 183857,
       "name": "H\u00e5ller In H\u00e5ller Ut",
       "url": "https://open.spotify.com/track/7ahb4gwhftJCKRSG0NnNZE"
+    },
+    {
+      "album": {
+        "name": "H\u00f6ghusdr\u00f6mmar/070-xxxx xxx",
+        "url": "https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143212,
+      "name": "H\u00f6ghusdr\u00f6mmar",
+      "url": "https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m"
     },
     {
       "album": {
@@ -7529,7 +7587,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 171400,
       "name": "Lotta & Sanna - Remix",
       "url": "https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9"
@@ -9122,6 +9180,24 @@
     },
     {
       "album": {
+        "name": "Ortens Queen",
+        "url": "https://open.spotify.com/album/4CaDjbGOCUVC4MdmQhSBBL"
+      },
+      "artists": [
+        {
+          "name": "William A.",
+          "url": "https://open.spotify.com/artist/4TYk0MKaG9ITiJLUXdllc2"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188004,
+      "name": "Ortens Queen",
+      "url": "https://open.spotify.com/track/0IaKD5MGGpta1Fsu05msAM"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -9361,7 +9437,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -11221,7 +11297,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -11993,7 +12069,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -12247,7 +12323,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 152581,
       "name": "TOPP",
       "url": "https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy"
@@ -13370,6 +13446,28 @@
     },
     {
       "album": {
+        "name": "WINNER (feat. A36)",
+        "url": "https://open.spotify.com/album/2NYYASJxQRlVDysDHjqL2z"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157326,
+      "name": "WINNER (feat. A36)",
+      "url": "https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -13479,6 +13577,24 @@
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161898,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
     },
     {
       "album": {

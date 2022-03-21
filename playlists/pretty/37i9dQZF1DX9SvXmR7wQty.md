@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Lisa Leblanc
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,905 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,914 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 19 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
 | 20 | [Bébé \(feat\. Naza\)](https://open.spotify.com/track/6YII7FEfs33WdrDUSaOxDj) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Gambinerie](https://open.spotify.com/album/2Af99aK0IQ68OnjcFcEXfv) | 2:48 |
 | 21 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 |
-| 22 | [Ring\-Ring Ding\-A\-Ling](https://open.spotify.com/track/6PW3k1lfQ91PF61cnzfrmG) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Moustache Gracias](https://open.spotify.com/album/4zHHSiAPCwjfXeWAC0bCnv) | 4:57 |
+| 22 | [Ring\-Ring Ding\-A\-Ling](https://open.spotify.com/track/6PW3k1lfQ91PF61cnzfrmG) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [Moustache Gracias](https://open.spotify.com/album/4zHHSiAPCwjfXeWAC0bCnv) | 4:57 |
 | 23 | [Âmes](https://open.spotify.com/track/19JKEtWsYIV70lmtLeNHLh) | [Kaziopée](https://open.spotify.com/artist/40WmSMLxlKOHuS5jHb93QW), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw), [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23) | [État d'esprit](https://open.spotify.com/album/1VQT3br1LWQkWOMlaidMK1) | 3:25 |
 | 24 | [Moi ton roi](https://open.spotify.com/track/6CDBVkl15CLJtJaV2nGWmG) | [Andy Rubal](https://open.spotify.com/artist/4nRoe1vDJD1os7rUJE3Xko), [Florence K](https://open.spotify.com/artist/3jzd2uHziBQ9u48OSMf7hs) | [Moi ton roi](https://open.spotify.com/album/7D9mpmv7oZ2rzuccAYGdRx) | 3:24 |
 | 25 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 |

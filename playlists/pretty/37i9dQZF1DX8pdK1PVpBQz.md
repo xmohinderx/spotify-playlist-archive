@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: RONA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,697 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,779 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 3 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 |
 | 4 | [Camp Dog](https://open.spotify.com/track/3xzFmGsKwmNdglRFUwBtT8) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Camp Dog](https://open.spotify.com/album/1x20Qq55S6sqA8HsY7uUQf) | 3:39 |
 | 5 | [Mutual XO](https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Mutual XO](https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46) | 2:52 |
-| 6 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/40rNT1i7pVHi56NZetFSDt), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
+| 6 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
 | 7 | [Medicate Me](https://open.spotify.com/track/1d88UDqLKGh3QrReQ6x98O) | [DULCIE](https://open.spotify.com/artist/6hkXqvu5fT8qnUkjBJRQbF) | [Medicate Me](https://open.spotify.com/album/6km7ksCBUx4sFioGwjksS3) | 3:23 |
 | 8 | [READ](https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [READ](https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi) | 2:48 |
 | 9 | [Sister](https://open.spotify.com/track/1zPWMtCrpd6ppFoAZJSIb9) | [Dorsal Fins](https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4) | [Sister](https://open.spotify.com/album/4vykL6dZ8n9spAdzEPvn3n) | 4:04 |

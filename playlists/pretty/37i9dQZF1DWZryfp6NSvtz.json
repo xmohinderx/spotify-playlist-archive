@@ -1,6 +1,6 @@
 {
   "description": "The best new tracks every week. Cover: Weezer",
-  "num_followers": 313567,
+  "num_followers": 313869,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
       "duration_ms": 189499,
       "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "Native Intelligence",
+        "url": "https://open.spotify.com/album/2nNmgEy221WV8M68AVK3yP"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Trent Reznor",
+          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "Native Intelligence",
+      "url": "https://open.spotify.com/track/2mKAZDOy4k24ktEQYVAzas"
     },
     {
       "added_at": "2022-03-18 04:01:00",

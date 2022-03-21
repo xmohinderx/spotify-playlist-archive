@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri, JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,455 likes - 110 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,479 likes - 110 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 2 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 |
 | 3 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 |
 | 4 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:21 |
-| 5 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
+| 5 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 6 | [Dedicate](https://open.spotify.com/track/3O0hKi1N5WFvPXni0ZEmN1) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Dedicate](https://open.spotify.com/album/7vGUDgFCYolFcI7GP18ic6) | 2:20 |
 | 7 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
 | 8 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 67 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
 | 68 | [5.17](https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [5.17](https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC) | 4:01 |
 | 69 | [Skrting On The Surface](https://open.spotify.com/track/4XB9mPk0wcrWHRJSypO79z) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Skrting On The Surface](https://open.spotify.com/album/661LADBYIAySiUdlMpjZvT) | 5:31 |
-| 70 | [Playing Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playing Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 |
+| 70 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 |
 | 71 | [Ecstasy](https://open.spotify.com/track/1buitg6ANujfS4LnwRPOtH) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv) | [Ecstasy](https://open.spotify.com/album/7w3o5Agz3xqW9ggvCfJPrP) | 3:12 |
-| 72 | [Missus Superficial \(Poison\)](https://open.spotify.com/track/6Brpw6phZrAEQVfXboOm59) | [Kara Chenoa](https://open.spotify.com/artist/6ja5bJZNnyMxrmmbu70AQE) | [Missus Superficial \(Poison\)](https://open.spotify.com/album/5p7BPTP5MZL7Avcza0GeAu) | 3:24 |
+| 72 | [Missus Superficial \(Poison\)](https://open.spotify.com/track/6Brpw6phZrAEQVfXboOm59) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Missus Superficial \(Poison\)](https://open.spotify.com/album/5p7BPTP5MZL7Avcza0GeAu) | 3:24 |
 | 73 | [Middle Man](https://open.spotify.com/track/2MqNyfjnIdAKEV2sLiJ49l) | [Gabriel Mayo](https://open.spotify.com/artist/6TVHiitAAEM8gH3r89VIoF) | [Middle Man](https://open.spotify.com/album/2N7V4WLxVeEoNrJ88TXZs6) | 3:10 |
 | 74 | [Get Up \(Get Out!\)](https://open.spotify.com/track/4aFhDDQxtf7T3QoAchlgUl) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Get Up \(Get Out!\)](https://open.spotify.com/album/2hs55jTFcoJARX1dgtw4N3) | 4:15 |
 | 75 | [Velocity](https://open.spotify.com/track/7jzIGxaZ3urSrUoAVlfbBn) | [DAZI](https://open.spotify.com/artist/2bUeVsRE7j8IL8NqTpGPRf) | [Velocity](https://open.spotify.com/album/19doTFUPUIOYDCqb9ZZ8Aw) | 1:56 |

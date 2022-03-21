@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Gen and the Degenerates \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,028 likes - 110 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,123 likes - 110 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

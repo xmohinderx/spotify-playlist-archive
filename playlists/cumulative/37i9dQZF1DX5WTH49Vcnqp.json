@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Present Tense",
+        "url": "https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232907,
+      "name": "Astral Projection",
+      "url": "https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW"
+    },
+    {
+      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
       },
@@ -302,7 +320,7 @@
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196196,
+      "duration_ms": 194110,
       "name": "Better Now (feat. MARO)",
       "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 204427,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6IjCaCvKoocJrdztqumE1n"
@@ -1127,6 +1145,24 @@
       "duration_ms": 209493,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/4Ysup03MDl4uBhcdzWcKA4"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/6MnwlWt1UUPTsaaULrv2Nl"
     },
     {
       "album": {
@@ -1453,7 +1489,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 193890,
       "name": "good grief",
       "url": "https://open.spotify.com/track/1tCzRaxUdrbwgD8JhpZNZ3"
@@ -2286,6 +2322,24 @@
     },
     {
       "album": {
+        "name": "Lean Across",
+        "url": "https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ"
+      },
+      "artists": [
+        {
+          "name": "CLEWS",
+          "url": "https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Lean Across",
+      "url": "https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4"
+    },
+    {
+      "album": {
         "name": "let me breathe",
         "url": "https://open.spotify.com/album/7nYWEf73mL1ooupv4YBq9w"
       },
@@ -2315,7 +2369,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 194029,
       "name": "Lights of Leeming",
       "url": "https://open.spotify.com/track/1hi8EEfKVxaDcEqRFiQuon"
@@ -3701,7 +3755,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 387275,
       "name": "spirit boy",
       "url": "https://open.spotify.com/track/76l5SNnQAjuGiOmeISe4jP"
@@ -4575,6 +4629,42 @@
       "duration_ms": 202199,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr"
+    },
+    {
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/3W83hrUuMsRyva2PHUVDGs"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259506,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/1HtQWBViM05CjUOaA4AloV"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp"

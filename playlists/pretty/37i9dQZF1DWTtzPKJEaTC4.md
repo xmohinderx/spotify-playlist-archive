@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:6ZEUa75BqZkvpjhuVzCsdX">Swamp Dogg</a> shares his \(smooth\) jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,166 likes - 35 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,244 likes - 35 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

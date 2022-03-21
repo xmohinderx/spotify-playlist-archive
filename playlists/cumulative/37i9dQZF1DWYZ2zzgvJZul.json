@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Caifanes",
+  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Marilina Bertoldi",
   "name": "Nuevo Rock Latino",
   "published_playlist_ids": [
     "0l9Wh8w43fBjYdr4AnAill"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1, 2, 3, 4 (Los Cogelones Remix)",
+        "url": "https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        },
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "1,2,3,4 - Los Cogelones Remix",
+      "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
+    },
     {
       "album": {
         "name": "Alg\u00fan Contexto",
@@ -44,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Futurolog\u00eda Arlt",
+        "url": "https://open.spotify.com/album/3ohXbHtGxu0wDg70yOjeCn"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94921,
+      "name": "Amor Es Dinero / Remo Erdosain",
+      "url": "https://open.spotify.com/track/7pExh21ZPAIiH5mPn3sjYB"
+    },
+    {
+      "album": {
         "name": "Ando Rodando (Re Masterizado)",
         "url": "https://open.spotify.com/album/1ww5S6U7sDmgO7OHMQyVax"
       },
@@ -55,7 +95,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 205689,
       "name": "Ando Rodando - Re Masterizado",
       "url": "https://open.spotify.com/track/6WNWh7tU8VrgmqlGaMDLOC"
@@ -109,7 +149,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 196896,
       "name": "Calavera (La Muerte Del Sol)",
       "url": "https://open.spotify.com/track/3U5mJt1WYp8kL4wbPeJHU0"
@@ -131,6 +171,28 @@
       "duration_ms": 283865,
       "name": "Calendarios y Acetatos",
       "url": "https://open.spotify.com/track/5MYNZr08MS0VeYYkLPL6hW"
+    },
+    {
+      "album": {
+        "name": "Camiseta de Rokanrol",
+        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229832,
+      "name": "Camiseta de Rokanrol",
+      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
     },
     {
       "album": {
@@ -167,6 +229,28 @@
       "duration_ms": 238806,
       "name": "Coleccionando Cicatrices",
       "url": "https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv"
+    },
+    {
+      "album": {
+        "name": "Contradicci\u00f3n",
+        "url": "https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        },
+        {
+          "name": "Cachin Invernizzi",
+          "url": "https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269761,
+      "name": "Contradicci\u00f3n",
+      "url": "https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc"
     },
     {
       "album": {
@@ -247,7 +331,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 323000,
       "name": "C\u00f3mo Quieres Que No Me Enoje",
       "url": "https://open.spotify.com/track/79Nc9N3GnguZxIkc6441tq"
@@ -301,7 +385,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 225640,
       "name": "Divergencia",
       "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
@@ -337,7 +421,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 302731,
       "name": "El Farolito (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/4tjyN06YMetNt75PeFn7kO"
@@ -431,7 +515,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 285740,
       "name": "Esquina Impar",
       "url": "https://open.spotify.com/track/6WRGlxDn5cFZiiGpBdDVOc"
@@ -579,7 +663,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 159450,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/2z5DpX4H04xbi4Bla8o66p"
@@ -597,10 +681,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 294373,
       "name": "Karmadame",
       "url": "https://open.spotify.com/track/3Byvorn06uV1EebqziU3oF"
+    },
+    {
+      "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "album": {
+        "name": "Hasta Arriba",
+        "url": "https://open.spotify.com/album/1FL1DZ5Rv9p6BdvV1LoPjv"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173745,
+      "name": "La Cima",
+      "url": "https://open.spotify.com/track/3LJIeuhVmz6FKfm24m0Zu7"
     },
     {
       "album": {
@@ -619,6 +739,24 @@
       "duration_ms": 231262,
       "name": "La Ciudad Sin Alma",
       "url": "https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ"
+    },
+    {
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
     },
     {
       "album": {
@@ -712,6 +850,28 @@
     },
     {
       "album": {
+        "name": "La Pastilla",
+        "url": "https://open.spotify.com/album/0BEDzrscnDn5EhLvwsDURi"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Arquero",
+          "url": "https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "La Pastilla",
+      "url": "https://open.spotify.com/track/59NjaceY3XuGAQScvB71ze"
+    },
+    {
+      "album": {
         "name": "Mec\u00e1nica Popular",
         "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
       },
@@ -745,6 +905,24 @@
       "duration_ms": 184485,
       "name": "La Virgen de La Humanidad",
       "url": "https://open.spotify.com/track/0AVXxS4MVQnFpsNrgonoKL"
+    },
+    {
+      "album": {
+        "name": "Laberinto de Sue\u00f1os (En las Geometr\u00edas del Rayo)",
+        "url": "https://open.spotify.com/album/2U7XoLAgkVKnxrmHrhbKA7"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231492,
+      "name": "Laberinto de Sue\u00f1os (En las Geometr\u00edas del Rayo)",
+      "url": "https://open.spotify.com/track/0gYWN8f20QtE3DVLxygltZ"
     },
     {
       "album": {
@@ -867,7 +1045,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 235530,
       "name": "Maelstr\u00f6m",
       "url": "https://open.spotify.com/track/5JyeXhwxBQFEne4FxPbCxN"
@@ -929,6 +1107,24 @@
       "duration_ms": 303326,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj"
+    },
+    {
+      "album": {
+        "name": "Melod\u00edas Nublados",
+        "url": "https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB"
+      },
+      "artists": [
+        {
+          "name": "Build a Vista",
+          "url": "https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182320,
+      "name": "Melod\u00edas Nublados",
+      "url": "https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b"
     },
     {
       "album": {
@@ -1023,7 +1219,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 224172,
       "name": "No Es Mi Culpa Que Seas Mala",
       "url": "https://open.spotify.com/track/05SAS1uGeZxnCeDlQ09CfZ"
@@ -1129,6 +1325,32 @@
       "duration_ms": 216224,
       "name": "Oro",
       "url": "https://open.spotify.com/track/4dI0gr2tJqit5gg69AJvTK"
+    },
+    {
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210986,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
     },
     {
       "album": {
@@ -1309,10 +1531,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
+    },
+    {
+      "album": {
+        "name": "Sagitario (Mi Madre Me Va A Matar)",
+        "url": "https://open.spotify.com/album/23hiaBj0Cq3b8FTsqfcyNg"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171817,
+      "name": "Sagitario (Mi Madre Me Va A Matar)",
+      "url": "https://open.spotify.com/track/2FUvrVJvsDB4GsNnXc8h3A"
     },
     {
       "album": {
@@ -1392,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Soy Basura",
+        "url": "https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1jaros Vampiro",
+          "url": "https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Soy Basura",
+      "url": "https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD"
+    },
+    {
+      "album": {
         "name": "Friends And Lovers",
         "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
       },
@@ -1446,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "Tantas veces me he jugado el coraz\u00f3n que lo he perdido (feat. Loquillo)",
+        "url": "https://open.spotify.com/album/6vyif1y0Jffbo6ZTiKJ6SE"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ"
+        },
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123825,
+      "name": "Tantas veces me he jugado el coraz\u00f3n que lo he perdido (feat. Loquillo)",
+      "url": "https://open.spotify.com/track/3b1BWWQf6DK7gFnMJk8AL8"
+    },
+    {
+      "album": {
         "name": "Tarantinero",
         "url": "https://open.spotify.com/album/6BFLcO1QB0NkZy4Yqh7Qnm"
       },
@@ -1479,7 +1759,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 175939,
       "name": "Te Hace Feliz",
       "url": "https://open.spotify.com/track/67DE2XvSfMvYnuFD31E2We"
@@ -1555,7 +1835,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 227376,
       "name": "Todos los Vientos",
       "url": "https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG"
@@ -1595,7 +1875,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"

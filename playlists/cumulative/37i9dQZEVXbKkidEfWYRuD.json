@@ -3002,6 +3002,24 @@
     },
     {
       "album": {
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
+    },
+    {
+      "album": {
         "name": "Marmalade",
         "url": "https://open.spotify.com/album/19xHdM1hOWc0bkGG4eIxHE"
       },
@@ -5303,7 +5321,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 116250,
       "name": "TRAXXXMANIA",
       "url": "https://open.spotify.com/track/2rowi7dF3AqhugMtAnvQmP"

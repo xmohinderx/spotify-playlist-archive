@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Femila\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,129 likes - 47 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,120 likes - 47 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Simpleminds](https://open.spotify.com/track/4xCUWmv8GLcqTwWekFjjx7) | [Joy](https://open.spotify.com/artist/5gGVXUdRk1rnoW6k9Y4X4W) | [Simpleminds](https://open.spotify.com/album/7hMFFTEuxAlv2KzQWS07ds) | 3:26 |
 | 20 | [Tunggu Saja](https://open.spotify.com/track/3PM87gHvM73XCIuJorijPS) | [Mirakei](https://open.spotify.com/artist/5K1uuNpxgmkaxARPhzaCEP) | [Tunggu Saja](https://open.spotify.com/album/7Ipm2B9Oivwajq8OScmFIU) | 5:00 |
 | 21 | [nice to meet you](https://open.spotify.com/track/7d55CLl9Wnj0coTKnsU1EE) | [Pradipto](https://open.spotify.com/artist/6o5A8dI3v4Gq8aVBrCBPM2) | [nice to meet you](https://open.spotify.com/album/3Lg889FxufMNzs2lnf9fg0) | 3:14 |
-| 22 | [Missus Superficial \(Poison\)](https://open.spotify.com/track/6Brpw6phZrAEQVfXboOm59) | [Kara Chenoa](https://open.spotify.com/artist/6ja5bJZNnyMxrmmbu70AQE) | [Missus Superficial \(Poison\)](https://open.spotify.com/album/5p7BPTP5MZL7Avcza0GeAu) | 3:24 |
+| 22 | [Missus Superficial \(Poison\)](https://open.spotify.com/track/6Brpw6phZrAEQVfXboOm59) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Missus Superficial \(Poison\)](https://open.spotify.com/album/5p7BPTP5MZL7Avcza0GeAu) | 3:24 |
 | 23 | [Jodoh](https://open.spotify.com/track/1FYWiSSJVVJdBwurRS5HPh) | [Ressa](https://open.spotify.com/artist/7kRU7ACDQDRNAyNIQrFZ1U), [Adzando](https://open.spotify.com/artist/4njSUBlNiTHxUTp9VjQJ1T) | [Jodoh](https://open.spotify.com/album/3QyECtSvEtOaVVPhvmExhu) | 3:49 |
 | 24 | [aku mau](https://open.spotify.com/track/3GBErZUjzGaPFD5VFlbwoh) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [aku mau](https://open.spotify.com/album/7xdJ39zTLC2PgqNOMGKKOh) | 3:25 |
 | 25 | [always u](https://open.spotify.com/track/4tpUBXRCLrwe2tNBxnGbtj) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [always u](https://open.spotify.com/album/1DKsvrgmCAdpHfci5KajK1) | 3:50 |

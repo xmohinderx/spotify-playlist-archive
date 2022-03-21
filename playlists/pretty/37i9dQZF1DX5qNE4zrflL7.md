@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,490 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,685 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 30 | [Seven and Seven Is](https://open.spotify.com/track/6LbOC2J8ojSTwE6qIS4Eyh) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Da Capo](https://open.spotify.com/album/47inaDdXEosHHrQc2nT7aK) | 2:19 |
 | 31 | [Piece Of My Heart](https://open.spotify.com/track/1eujVQsT9v7ZTtvAkTEdZr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis](https://open.spotify.com/album/5Q8xyuZtzaaC0DNZ0CHXwK) | 4:26 |
 | 32 | [Making Time](https://open.spotify.com/track/5TysIim10uxdcYtUqftQlZ) | [The Creation](https://open.spotify.com/artist/2hgCDEv4mfDuEkr9M3wLaV) | [Our Music Is Red \- With Purple Flashes](https://open.spotify.com/album/0UTT9ebEZOiheAxyQrOUlS) | 2:58 |
-| 33 | [Misirlou](https://open.spotify.com/track/3yuhWcddu8hgwlMIAyFamR) | [Dick Dale and his Del\-Tones](https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4) | [Greatest Hits 1961 \- 1976](https://open.spotify.com/album/4aPZnLhBpnynrzuoXUjhTV) | 2:40 |
+| 33 | [Misirlou](https://open.spotify.com/track/3yuhWcddu8hgwlMIAyFamR) | [Dick Dale & His Del\-Tones](https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4) | [Greatest Hits 1961 \- 1976](https://open.spotify.com/album/4aPZnLhBpnynrzuoXUjhTV) | 2:40 |
 | 34 | [Mini, mini, mini](https://open.spotify.com/track/3qcyIr1omzr2MDPAvsh0it) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 1:54 |
 | 35 | [Can't Seem To Make You Mine](https://open.spotify.com/track/6nnSkEpzo8PmHsOlSopoO6) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 3:05 |
 | 36 | [Dirty Water](https://open.spotify.com/track/4z17FY23Bi8bt3n0TXA6SS) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Fever Pitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ztl5FTTZoyafzQihqAx7N) | 2:49 |

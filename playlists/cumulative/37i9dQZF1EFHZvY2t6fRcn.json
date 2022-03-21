@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk"
       },

@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 163216,
       "name": "Body (feat. brando)",
       "url": "https://open.spotify.com/track/7K7MUBCnzgBAvMVW2RTWNs"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 166933,
       "name": "Get Up (Rattle) - Vocal Edit",
       "url": "https://open.spotify.com/track/4W9KBjqf2lyUF6MdX0vsJm"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 438813,
       "name": "Home (feat. Penelope Austin) - Stefan Dabruck Remix",
       "url": "https://open.spotify.com/track/2nKVtmwXSjY0QVzrV76YfD"
@@ -2732,6 +2732,24 @@
     },
     {
       "album": {
+        "name": "Out of Touch (VIP Club Mix)",
+        "url": "https://open.spotify.com/album/4Idvc7kc2lngDeCz2THrz6"
+      },
+      "artists": [
+        {
+          "name": "Danny & Tariq",
+          "url": "https://open.spotify.com/artist/0jimbb3I5bUwovqFUom08m"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "Out of Touch - VIP Club Mix",
+      "url": "https://open.spotify.com/track/7eIO5yWQJUfdewKZ990FWK"
+    },
+    {
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -3317,7 +3335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
@@ -4011,7 +4029,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 128272,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
@@ -4169,7 +4187,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 149047,
       "name": "Weight Off",
       "url": "https://open.spotify.com/track/7b7Ti6gvV2YsXQvJqBMR2P"
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 179047,
       "name": "Whine Dat",
       "url": "https://open.spotify.com/track/6ZDQm43o1qXXOFWvu6OPHd"

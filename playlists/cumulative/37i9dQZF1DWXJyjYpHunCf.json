@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 162090,
       "name": "12345",
       "url": "https://open.spotify.com/track/6WKZjZ8Efxa5JDBEE5Qiyg"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 233760,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5wfSsLHzl4WcgkGmvOpYai"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 208972,
       "name": "Being Together",
       "url": "https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Burning Earth",
       "url": "https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 280813,
       "name": "Crazy World (Judgement Day)",
       "url": "https://open.spotify.com/track/3Iwy2ykCDExY2Z50JZtcxe"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 213453,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/5PeW97MvpM487CWIfFK3jK"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Fight and Fall",
       "url": "https://open.spotify.com/track/4pIqoJTPOAEffsWw1CW1RU"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 142453,
       "name": "Get Born, Grow up and Move Away",
       "url": "https://open.spotify.com/track/6kzo6FPHeAiJ9Fu0ep6Vyh"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 189213,
       "name": "I Got You on My Mind",
       "url": "https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 161239,
       "name": "Lover, I",
       "url": "https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti"
@@ -1719,6 +1719,24 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "album": {
+        "name": "Midnight Man",
+        "url": "https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97"
     },
     {
       "album": {
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 192659,
       "name": "Muse",
       "url": "https://open.spotify.com/track/5PAd8j7jtOnTVvqmN2ELf2"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 250426,
       "name": "pop the placebo",
       "url": "https://open.spotify.com/track/2DCsAm1Xkrttl6aREjCdhW"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "Pure Desire",
       "url": "https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 272733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4kg3VwDhN1NYZnqCV4opvs"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 266397,
       "name": "Steady My Bones",
       "url": "https://open.spotify.com/track/4asocwUbrFvs7ZLuDFuC2q"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 175946,
       "name": "Swim the River",
       "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-21",
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 212706,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ"
@@ -2889,7 +2907,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 225646,
       "name": "You Know the Way",
       "url": "https://open.spotify.com/track/5lrjZi5VNHqzr2UOBQvpka"

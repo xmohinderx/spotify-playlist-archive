@@ -1008,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I"
+    },
+    {
+      "album": {
         "name": "Mahmouma",
         "url": "https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG"
       },

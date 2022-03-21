@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Undeath
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,862 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,233 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 17 | [A Better Time](https://open.spotify.com/track/62gDOgTM9V7MKys4dJ4nYb) | [A Killer's Confession](https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM) | [A Better Time](https://open.spotify.com/album/1weudefvo6eN6BPvugC8lF) | 3:57 |
 | 18 | [The Nothing](https://open.spotify.com/track/5ax1Vrv2jvRfsWPMjj17qn) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/12eakYiYzvGy3vyG6JcEe8) | 3:59 |
 | 19 | [Death Is A Relief](https://open.spotify.com/track/3rKVRJE0yFl7Un8fMt4l28) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Is A Relief](https://open.spotify.com/album/6zWFEJ9oUQZRyqqLdEnvNt) | 5:53 |
-| 20 | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/track/47zgqG0hEFP5JpMokdHSbC) | [Zenobia](https://open.spotify.com/artist/4O7u6U3eHpMq6YeOWsmutH), [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg), [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/album/36MZQ4IBlA0BIiyQBBRGBd) | 3:59 |
+| 20 | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/track/47zgqG0hEFP5JpMokdHSbC) | [Zenobia](https://open.spotify.com/artist/4O7u6U3eHpMq6YeOWsmutH), [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [La Danza del Diablo \(feat\. Barilari\)](https://open.spotify.com/album/36MZQ4IBlA0BIiyQBBRGBd) | 3:59 |
 | 21 | [The Silence](https://open.spotify.com/track/1SY5maTduANlqZIHImpDNQ) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [The Silence](https://open.spotify.com/album/1ThzBFF4yjrPsV1tAkhDD4) | 4:03 |
 | 22 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 |
 | 23 | [Ghosts](https://open.spotify.com/track/1IC7WZE6lVVohF5ippMGET) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Ghosts](https://open.spotify.com/album/2aSZ10yKGI473OoT1s3ZXh) | 4:12 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,626 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,846 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
-| 2 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
+| 2 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 3 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 |
 | 4 | [Who Not Turnt](https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Easy Money](https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F) | 2:14 |
 | 5 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 31 | [Whole Gang \(feat\. Babyface Ray, HBK, Icewear Vezzo, Overlord Scooch & Lil Perry\)](https://open.spotify.com/track/1AUT51VbwtceSxcaOjWs8R) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [HBK](https://open.spotify.com/artist/5Px2gUGA6EDKiqqqUGR4ql), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Overlord Scooch](https://open.spotify.com/artist/7KEFFbWTInyFvAUfUtH2wH), [Lil Perry](https://open.spotify.com/artist/3u4MTDU82A6pK3H3WsNSoD) | [Ghetto Rich Niggaz](https://open.spotify.com/album/4pouaBO5mtR8Bc19crIidA) | 4:01 |
 | 32 | [Backdoor](https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Backdoor](https://open.spotify.com/album/3rCLrfv45EOFmiqCWWQC9T) | 2:05 |
 | 33 | [Beyond Turnt](https://open.spotify.com/track/6MkzFs2M02zeQMc5L2HHCF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:49 |
-| 34 | [Talkin Facts](https://open.spotify.com/track/3fTAs7ue6fA3hE46HI9A8n) | [How DBlack Do Dat](https://open.spotify.com/artist/12j4CPlHI0H9XDLNv99Ufm), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Talkin Facts](https://open.spotify.com/album/4U3B0Os8xDWnoYRdZqaNRH) | 2:39 |
+| 34 | [Talking Facts](https://open.spotify.com/track/3fTAs7ue6fA3hE46HI9A8n) | [How DBlack Do Dat](https://open.spotify.com/artist/12j4CPlHI0H9XDLNv99Ufm), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Talking Facts](https://open.spotify.com/album/4U3B0Os8xDWnoYRdZqaNRH) | 2:39 |
 | 35 | [Feel Like Bart](https://open.spotify.com/track/2phfrAiwQpJnt4gruPs1Cx) | [Lil Mello](https://open.spotify.com/artist/1vN9H1ZYksBpbz25dcdPUu) | [Hot Boy](https://open.spotify.com/album/0YGE6npbgl6LI8s21NA6Pl) | 2:34 |
 | 36 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 |
 | 37 | [Afterlife](https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Afterlife](https://open.spotify.com/album/0mU8kILJJ8QZv6C6zSSREv) | 2:29 |

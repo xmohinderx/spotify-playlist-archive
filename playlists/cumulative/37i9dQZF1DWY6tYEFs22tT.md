@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/524c90ob7nnH5efTtaRnrW)
 
-> New music from Coi Leray, Nicki Minaj, and JuiceWrld is here!
+> New music from Coi Leray, Nicki Minaj, and Juice WRLD is here!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Showgirls](https://open.spotify.com/track/6jAyGjl1JlSGBmyu993LsU) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Showgirls](https://open.spotify.com/album/3BM0aOTDJgvy9I91teD6yl) | 2:44 | 2022-02-04 | 2022-03-12 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX) | 2:28 | 2021-12-31 | 2022-01-15 |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-12-31 | 2022-03-18 |
-| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 |  |
+| [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 |  |
 | [Southside of the Moon](https://open.spotify.com/track/2HAQFYghYwBx2nX4JKvLbX) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Southside of the Moon](https://open.spotify.com/album/1XwEzmmjXdpagvWiffOBAe) | 2:18 | 2022-02-18 | 2022-02-26 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-11 |  |
 | [Steppas Freestyle \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/2FHC2xTzANdprKYAwehB68) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [The Book of Eli](https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a) | 2:32 | 2021-12-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,319 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,447 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 12 | [Hold Them](https://open.spotify.com/track/3xSaSNc8AdF0P6MCiYL1Me) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/5enppz5hOX0NQo5Jl8B1kZ) | 2:47 |
 | 13 | [The Loser](https://open.spotify.com/track/3mL3yUVgAajzONDlP0BbDW) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [A Place Called Jamaica](https://open.spotify.com/album/0iLSbiSs1GJKuEwoeu69KP) | 3:41 |
 | 14 | [Rivers Of Babylon](https://open.spotify.com/track/00OWEz3Z4t6EPZsh7Hi4Fk) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [The Harder They Come \(Remastered\)](https://open.spotify.com/album/3L6BeuI5Du0b7sl2AmYVGA) | 4:15 |
-| 15 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton and the Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
+| 15 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
 | 16 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 | 17 | [Book Of Rules](https://open.spotify.com/track/6ObB3ZyEvBhS63dnJq8Usl) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/0pCUQIGfNzmCGjgYR6iahT) | 3:31 |
 | 18 | [Everybody Needs Love](https://open.spotify.com/track/3NkNPO35ZtRaNHqBY2fj1y) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/5enppz5hOX0NQo5Jl8B1kZ) | 2:15 |
