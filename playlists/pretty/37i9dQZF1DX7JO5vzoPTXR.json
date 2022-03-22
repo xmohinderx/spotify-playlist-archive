@@ -1,29 +1,13 @@
 {
-  "description": "Highlighting <a href=\"http://noteable.spotify.com\">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2?si=e2e50b12fc7644ba\">Ethel Cain</a>, <a href=\"https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4?si=0bb176c8be7c4f8d\">Britney Spears</a>, <a href=\"https://open.spotify.com/artist/0mpgl4qEYonWABZPuDt3uc?si=7dee21e78adf4cee\">Annet Artani</a>",
-  "num_followers": 45483,
+  "description": "Highlighting <a href=\"http://noteable.spotify.com\">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6?si=a77b9c7271da472a\">SUNMI</a>, <a href=\"https://soundbetter.com/profiles/36535-lyre\">LYRE</a>",
+  "num_followers": 45504,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzgzNzA1OCwwMDAwMDAwMDNjNDI5YmNiMWZjMWEyOGI1OTJmZjgyZWM3NGIwODE1",
+  "snapshot_id": "MTY0NzkxMDUwOSwwMDAwMDAwMDlkZDZjODNiODA5MzAwMTU5NjQ1MzMzMTg2ZjMyNzFj",
   "tracks": [
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
-    },
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 155214,
       "name": "Oh Sorry Ya",
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
     },
     {
       "added_at": "2022-03-08 05:00:00",

@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8X0x7JMkJi.md) - [plain]
 
 ### [Acalmando a Mente](https://open.spotify.com/playlist/37i9dQZF1DXb8X0x7JMkJi)
 
-> Podcasts que te ajudaram a tirar um tempinho para cuidar de você em 2021.
+> Podcasts que te ajudam a tirar um tempinho para cuidar de você.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,501 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 49,508 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY0NjMxODQxNSwwMDAwMDAzOTAwMDAwMTdmNTAzOTZmZTAwMDAwMDE2ZmVkOTI5M2Zi`
+Snapshot ID: `MTY0Nzg3NjU5MiwwMDAwMDAzYTAwMDAwMTdmYWQxOTUzNGEwMDAwMDE2ZmVkOTI5M2Zi`

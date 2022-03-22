@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/687EnxJy2uBKIZj8RQdcv1"
+      },
+      "artists": [
+        {
+          "name": "Black Heart Saints",
+          "url": "https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274860,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/3a8JgRmYWnREuCLkar4jMT"
+    },
+    {
+      "album": {
         "name": "Highway Will",
         "url": "https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/2ibgPP8y0Db44RchTrmRgZ"
@@ -1545,6 +1563,24 @@
       "duration_ms": 239853,
       "name": "Reach the End",
       "url": "https://open.spotify.com/track/2EL9RNp2LEl981CY71uZJ1"
+    },
+    {
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "album": {
@@ -2053,7 +2089,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 214048,
       "name": "What's Coming To Me",
       "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"

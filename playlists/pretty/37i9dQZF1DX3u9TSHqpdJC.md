@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: KAIRO\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,377 likes - 185 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,414 likes - 185 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "In The Lab 6am",
+        "url": "https://open.spotify.com/album/4OlCUrlz1zABOys2KCoJSg"
+      },
+      "artists": [
+        {
+          "name": "Laboratory Pink Noise",
+          "url": "https://open.spotify.com/artist/5xdlDNkWf66gnF9HtSVoQs"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147565,
+      "name": "Blissful Pink Noise",
+      "url": "https://open.spotify.com/track/6TSkktejhT9O9qTDTQf7tn"
+    },
+    {
+      "album": {
         "name": "Brown & Pink Noise",
         "url": "https://open.spotify.com/album/52Hnll1fPZqjrphdXEQyVS"
       },

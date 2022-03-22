@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 148226,
       "name": "A Colossal Wreck",
       "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 182530,
       "name": "A Serpent's Touch (feat. Emma Boster)",
       "url": "https://open.spotify.com/track/4V0H8J3nTvRZ2ZCyTORRwT"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 228720,
       "name": "A Trigger Full of Promises",
       "url": "https://open.spotify.com/track/441TNI9Hkrj4SUf2FG2WnU"
@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        },
+        {
+          "name": "Max Cavalera",
+          "url": "https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "All Love Is Lost (feat. Max Cavalera)",
+      "url": "https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V"
+    },
+    {
+      "album": {
         "name": "All Mosh / No Brain",
         "url": "https://open.spotify.com/album/5DtPjn5whPrPoWd9kuppSz"
       },
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 92613,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/3tsrxws2JnnffbU1n8MJFX"
@@ -261,7 +283,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 192436,
       "name": "Become a Machine",
       "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 219692,
       "name": "Bleeding Sun",
       "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
@@ -463,7 +485,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/2gvRpECuZTqp9N9JDFhpTS"
@@ -553,7 +575,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 262880,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/4PZyMx0S5LQyi76JWOrXg0"
@@ -571,7 +593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
@@ -589,7 +611,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 153661,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
@@ -625,7 +647,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 181609,
       "name": "Choose Your Side",
       "url": "https://open.spotify.com/track/4Hbvtobp1tDBmNvZ2MHEpt"
@@ -643,7 +665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 252468,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz"
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 280683,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 186849,
       "name": "Death from Above",
       "url": "https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV"
@@ -805,7 +827,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Decompose",
       "url": "https://open.spotify.com/track/4WTDuPXwMqfMD5DdCLynpN"
@@ -823,7 +845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 230000,
       "name": "Defy the Tyrant",
       "url": "https://open.spotify.com/track/2sTMlokPk1iuh8oGpncJPZ"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Exit Signs",
       "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
@@ -1057,7 +1079,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 171813,
       "name": "Feast of the Damned",
       "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 280253,
       "name": "Kill the Cult",
       "url": "https://open.spotify.com/track/62STKumWqTi2gxwpgWOXZz"
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 189985,
       "name": "Lhhc",
       "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 127204,
       "name": "Mental Demolition",
       "url": "https://open.spotify.com/track/4Obgv6ehZRZaYCzFtXmbk9"
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 189714,
       "name": "Moaner",
       "url": "https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu"
@@ -1879,7 +1901,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 173723,
       "name": "Necessary Death",
       "url": "https://open.spotify.com/track/7z4APuNgUvfs1KjzkJOg5x"
@@ -1915,7 +1937,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 203960,
       "name": "New Salem",
       "url": "https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6"
@@ -1933,7 +1955,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Nightmare Vision",
       "url": "https://open.spotify.com/track/0FhCI4cKLfNKOyNPJt4Rku"
@@ -1951,7 +1973,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 211807,
       "name": "No Brother, No Friend",
       "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 227398,
       "name": "One Day Closer to the End of the World",
       "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 209940,
       "name": "Pariah",
       "url": "https://open.spotify.com/track/1SZQIQ8UGT1uvKBweFeVf6"
@@ -2225,7 +2247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 205669,
       "name": "Poverty of Self",
       "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
@@ -2243,7 +2265,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
@@ -2441,7 +2463,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 170320,
       "name": "Rot",
       "url": "https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi"
@@ -2535,7 +2557,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 212653,
       "name": "Silvera",
       "url": "https://open.spotify.com/track/6TubvpDV05llddNR8d2JNP"
@@ -2723,7 +2745,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 228333,
       "name": "The Antagonist",
       "url": "https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA"
@@ -2741,7 +2763,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 228826,
       "name": "The Cavalry",
       "url": "https://open.spotify.com/track/2N30U6cJfBadNeLpGI2pjW"
@@ -2795,7 +2817,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 229826,
       "name": "The Mistake",
       "url": "https://open.spotify.com/track/6HBCepBIx087vvtLndu3Q3"
@@ -2871,7 +2893,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 188370,
       "name": "The Submissive",
       "url": "https://open.spotify.com/track/4xY0dYk5cLKFRyKWRM30C8"
@@ -2907,7 +2929,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 194466,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
@@ -2943,7 +2965,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 145200,
       "name": "Too Far From That",
       "url": "https://open.spotify.com/track/1KhM9p3yfAU6r4dxhmEwkt"
@@ -3123,7 +3145,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 254118,
       "name": "Visions in My Head",
       "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"

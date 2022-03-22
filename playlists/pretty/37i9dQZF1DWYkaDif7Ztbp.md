@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=ZVT4Ei9vQ8mgAz7t1sTjFA" > Diamond Platnumz</a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=1M6y1E0lQJWOhJ5CpaFWEQ" > Pheelz </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,095 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,538 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
 | 50 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 
-Snapshot ID: `MTY0Njk1NjgwMCwwMDAwMDIzMTAwMDAwMTdmNzY0NjY4OGUwMDAwMDE3Zjc0OWU4Y2Uy`
+Snapshot ID: `MTY0Nzg0MzM1MSwwMDAwMDIzMjAwMDAwMTdmYWIxZTFjYzkwMDAwMDE3ZjlkMDdiMWY0`

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: A-Trak",
-  "num_followers": 298815,
+  "num_followers": 298812,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU4MTQ4MiwwMDAwMDMzMjAwMDAwMTdmOWI4MjRkYjcwMDAwMDE3ZjliMzI3OTI2",
+  "snapshot_id": "MTY0Nzg4MDUxMiwwMDAwMDMzMzAwMDAwMTdmYWQ1NTI1NDYwMDAwMDE3ZjliMzI3OTI2",
   "tracks": [
     {
       "added_at": "2022-03-18 05:31:22",
@@ -211,6 +211,26 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-03-21 16:35:12",
+      "album": {
+        "name": "Heaven on Loan",
+        "url": "https://open.spotify.com/album/0nLY19y9S32PPJF6oZbH0w"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Heaven on Loan",
+      "url": "https://open.spotify.com/track/4v7OqAfEwN53v6gAlDvBLg"
     },
     {
       "added_at": "2022-03-18 05:31:22",

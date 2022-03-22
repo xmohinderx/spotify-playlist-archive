@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: jupiterkid\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,176 likes - 106 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,181 likes - 106 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

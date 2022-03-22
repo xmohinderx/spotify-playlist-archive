@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,869 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,028 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 44 | [20 Signs](https://open.spotify.com/track/6wASObGcDb27c5dvv2wu5F) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [20 Signs](https://open.spotify.com/album/2A8fYB1Ma4Nih3N0lr8SPu) | 2:32 |
 | 45 | [Up](https://open.spotify.com/track/2wzNQYX6veNM0AJncAV75v) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk), [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Up](https://open.spotify.com/album/7KkBf3sycZA0JKnxOXEktz) | 2:49 |
 
-Snapshot ID: `MTY0NzU3NjA2MCwwMDAwMDMwYjAwMDAwMTdmOWIyZjkwZGIwMDAwMDE3Zjk0MTBmYmI5`
+Snapshot ID: `MTY0Nzg3Mjk0NSwwMDAwMDMwYzAwMDAwMTdmYWNlMWFkMTAwMDAwMDE3Zjk0MTBmYmI5`

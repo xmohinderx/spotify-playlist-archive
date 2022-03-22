@@ -1,18 +1,54 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447215,
+  "num_followers": 447245,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzgzNjU5NywwMDAwMDAwMGZlZTRkZWE1ZGNhZDhkZGMyNzNmZjNlNzhkODhlZGJm",
+  "snapshot_id": "MTY0NzkxMDExOSwwMDAwMDAwMDdkOTI5N2FkOGRhMzQ2YmU5MmFjMzBhY2IxMWNhOGIy",
   "tracks": [
     {
-      "added_at": "2022-01-14 03:10:10",
+      "added_at": "2022-01-05 00:49:27",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "Otomo",
+      "url": "https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a"
+    },
+    {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2022-01-21 20:14:08",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
       },
       "artists": [
         {
@@ -20,45 +56,9 @@
           "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
         }
       ],
-      "duration_ms": 282091,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
-    },
-    {
-      "added_at": "2022-02-16 03:28:04",
-      "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2022-01-14 00:54:19",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 342053,
-      "name": "Age of Phase",
-      "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "added_at": "2022-03-18 05:02:00",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
+      "added_at": "2022-02-16 03:28:04",
+      "album": {
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
       "added_at": "2022-01-03 04:25:38",
       "album": {
         "name": "Joy Squad",
@@ -123,22 +143,6 @@
       "duration_ms": 271946,
       "name": "Joy Squad",
       "url": "https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP"
-    },
-    {
-      "added_at": "2022-01-12 02:24:03",
-      "album": {
-        "name": "Firstsun",
-        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
-      },
-      "artists": [
-        {
-          "name": "Sunsick",
-          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
-        }
-      ],
-      "duration_ms": 188802,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -177,20 +181,20 @@
       "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
     },
     {
-      "added_at": "2022-01-21 20:14:08",
+      "added_at": "2022-01-14 00:54:19",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+      "duration_ms": 342053,
+      "name": "Age of Phase",
+      "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
     },
     {
       "added_at": "2022-03-11 04:44:46",
@@ -209,20 +213,24 @@
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
-      "added_at": "2022-01-20 22:50:51",
+      "added_at": "2022-01-12 02:36:16",
       "album": {
-        "name": "Parallel 43",
-        "url": "https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga"
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
       },
       "artists": [
         {
-          "name": "Dardust",
-          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
         }
       ],
-      "duration_ms": 257307,
-      "name": "Parallel 43",
-      "url": "https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP"
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
       "added_at": "2022-03-11 06:17:20",
@@ -261,110 +269,6 @@
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
-      "added_at": "2022-01-12 02:36:16",
-      "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
-      },
-      "artists": [
-        {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
-        },
-        {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
-      "added_at": "2022-03-03 01:05:29",
-      "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
-    },
-    {
-      "added_at": "2022-01-13 02:54:55",
-      "album": {
-        "name": "Talaria",
-        "url": "https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 315977,
-      "name": "Talaria",
-      "url": "https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA"
-    },
-    {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
-      "added_at": "2022-01-05 00:49:27",
-      "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "Otomo",
-      "url": "https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a"
-    },
-    {
-      "added_at": "2022-01-11 01:27:35",
-      "album": {
-        "name": "Firstsun",
-        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
-      },
-      "artists": [
-        {
-          "name": "Sunsick",
-          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "TEMPERATE",
-      "url": "https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0"
-    },
-    {
       "added_at": "2022-01-19 22:44:25",
       "album": {
         "name": "Fwd: Re: late (Ref.: karoshi)",
@@ -379,54 +283,6 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
-      "added_at": "2022-02-16 00:41:13",
-      "album": {
-        "name": "drames rurals",
-        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
-      },
-      "artists": [
-        {
-          "name": "drames rurals",
-          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
-        },
-        {
-          "name": "John Talabot",
-          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
-        },
-        {
-          "name": "juns",
-          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
-        },
-        {
-          "name": "oma totem",
-          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
-        },
-        {
-          "name": "Meritxell Bonastre",
-          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "l'empelt",
-      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-03-11 04:42:37",
-      "album": {
-        "name": "Vocoder",
-        "url": "https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "Vocoder",
-      "url": "https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD"
     },
     {
       "added_at": "2022-01-21 20:12:04",
@@ -447,42 +303,6 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
-    },
-    {
-      "added_at": "2022-01-13 03:03:49",
-      "album": {
-        "name": "Silent Talking / White Divide",
-        "url": "https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm"
-      },
-      "artists": [
-        {
-          "name": "Bing",
-          "url": "https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL"
-        },
-        {
-          "name": "French II",
-          "url": "https://open.spotify.com/artist/6ipkiHnGXAsGSRlG5RPkjt"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Silent Talking - French II Remix",
-      "url": "https://open.spotify.com/track/3aPEt4Efx0NYzhbSXtX4LD"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
         "name": "Perpetual Motion",
         "url": "https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc"
       },
@@ -497,40 +317,68 @@
       "url": "https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH"
     },
     {
-      "added_at": "2022-01-13 03:18:59",
+      "added_at": "2022-01-12 02:24:03",
       "album": {
-        "name": "See The Stars",
-        "url": "https://open.spotify.com/album/3MbrBZmGJwpbXp9TjoKwYo"
+        "name": "Firstsun",
+        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
       },
       "artists": [
         {
-          "name": "Nolan",
-          "url": "https://open.spotify.com/artist/1TtKsd7XZu2JFQtDiZQiFm"
-        },
-        {
-          "name": "Luke Brancaccio",
-          "url": "https://open.spotify.com/artist/1Wtioib1IFtGZHOJEZCwqr"
+          "name": "Sunsick",
+          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
         }
       ],
-      "duration_ms": 281697,
-      "name": "See The Stars",
-      "url": "https://open.spotify.com/track/4Wd3WrBPJrNVLlszaIT6T1"
+      "duration_ms": 188802,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-03-11 04:42:37",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "Vocoder",
+        "url": "https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+      "duration_ms": 455000,
+      "name": "Vocoder",
+      "url": "https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD"
+    },
+    {
+      "added_at": "2022-01-13 02:54:55",
+      "album": {
+        "name": "Talaria",
+        "url": "https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 315977,
+      "name": "Talaria",
+      "url": "https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA"
+    },
+    {
+      "added_at": "2022-01-14 03:10:10",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 282091,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
     },
     {
       "added_at": "2022-02-01 00:27:33",
@@ -565,20 +413,120 @@
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-02-14 05:58:50",
       "album": {
-        "name": "Persuasion System",
-        "url": "https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk"
+        "name": "Subscribe",
+        "url": "https://open.spotify.com/album/42p5J7pRDkQeW7lScyubyU"
       },
       "artists": [
         {
-          "name": "Com Truise",
-          "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
         }
       ],
-      "duration_ms": 229277,
-      "name": "Persuasion System",
-      "url": "https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI"
+      "duration_ms": 277090,
+      "name": "Subscribe",
+      "url": "https://open.spotify.com/track/2iUIHIZabSIdYFj8A17cuQ"
+    },
+    {
+      "added_at": "2022-01-13 03:18:59",
+      "album": {
+        "name": "See The Stars",
+        "url": "https://open.spotify.com/album/3MbrBZmGJwpbXp9TjoKwYo"
+      },
+      "artists": [
+        {
+          "name": "Nolan",
+          "url": "https://open.spotify.com/artist/1TtKsd7XZu2JFQtDiZQiFm"
+        },
+        {
+          "name": "Luke Brancaccio",
+          "url": "https://open.spotify.com/artist/1Wtioib1IFtGZHOJEZCwqr"
+        }
+      ],
+      "duration_ms": 281697,
+      "name": "See The Stars",
+      "url": "https://open.spotify.com/track/4Wd3WrBPJrNVLlszaIT6T1"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
+    },
+    {
+      "added_at": "2022-01-11 01:27:35",
+      "album": {
+        "name": "Firstsun",
+        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
+      },
+      "artists": [
+        {
+          "name": "Sunsick",
+          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "TEMPERATE",
+      "url": "https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0"
+    },
+    {
+      "added_at": "2022-02-09 04:02:41",
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Vitelli",
+          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
+        }
+      ],
+      "duration_ms": 506839,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
+    },
+    {
+      "added_at": "2022-02-16 00:41:13",
+      "album": {
+        "name": "drames rurals",
+        "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
+      },
+      "artists": [
+        {
+          "name": "drames rurals",
+          "url": "https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG"
+        },
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        },
+        {
+          "name": "juns",
+          "url": "https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF"
+        },
+        {
+          "name": "oma totem",
+          "url": "https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb"
+        },
+        {
+          "name": "Meritxell Bonastre",
+          "url": "https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "l'empelt",
+      "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
       "added_at": "2022-01-18 21:50:49",
@@ -599,198 +547,66 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "Datach'i",
-          "url": "https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Rockledge 3A",
-      "url": "https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F"
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
-      "added_at": "2022-02-09 04:02:41",
+      "added_at": "2022-01-11 00:01:58",
       "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU"
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb"
       },
       "artists": [
         {
-          "name": "Cosmo Vitelli",
-          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
         }
       ],
-      "duration_ms": 506839,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
+      "duration_ms": 245371,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-03-03 01:05:29",
       "album": {
-        "name": "Outer Sunset",
-        "url": "https://open.spotify.com/album/137NWAM1UiQ2cpJPidOhaG"
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
         }
       ],
-      "duration_ms": 250383,
-      "name": "Outer Sunset",
-      "url": "https://open.spotify.com/track/1PegwUCHFmpuV81dXMt3nh"
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-01-20 22:50:51",
       "album": {
-        "name": "Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+        "name": "Parallel 43",
+        "url": "https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
         }
       ],
-      "duration_ms": 398232,
-      "name": "Trains & Airports",
-      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "SLUMP DKD TODDLER",
-        "url": "https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw"
-      },
-      "artists": [
-        {
-          "name": "Club Winston",
-          "url": "https://open.spotify.com/artist/7dxIJrKyeY2cAKq6ZUCN6r"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "DKD",
-      "url": "https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA"
-    },
-    {
-      "added_at": "2022-02-14 05:58:50",
-      "album": {
-        "name": "Subscribe",
-        "url": "https://open.spotify.com/album/42p5J7pRDkQeW7lScyubyU"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 277090,
-      "name": "Subscribe",
-      "url": "https://open.spotify.com/track/2iUIHIZabSIdYFj8A17cuQ"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Full Panther",
-        "url": "https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 203255,
-      "name": "Full Panther",
-      "url": "https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dusting For Smoke",
-        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Lone Swordsman",
-      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Krautzig",
-        "url": "https://open.spotify.com/album/0o3CLwPVmejxqUgpkuJ4AK"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        },
-        {
-          "name": "Drumno",
-          "url": "https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC"
-        }
-      ],
-      "duration_ms": 247380,
-      "name": "Krautzig",
-      "url": "https://open.spotify.com/track/5wHwkOh0OSD1jTuCU0vbON"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "We",
-        "url": "https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv"
-      },
-      "artists": [
-        {
-          "name": "The Soft Pink Truth",
-          "url": "https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei"
-        }
-      ],
-      "duration_ms": 329500,
-      "name": "We",
-      "url": "https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Anasickmodular",
-        "url": "https://open.spotify.com/album/6kkA492r6X59UwnZcHW9lL"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Anasickmodular",
-      "url": "https://open.spotify.com/track/3Cxn93PO2AsL93ZnB9qHg8"
+      "duration_ms": 257307,
+      "name": "Parallel 43",
+      "url": "https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP"
     },
     {
       "added_at": "2022-01-13 02:26:31",
@@ -815,18 +631,18 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Transactional Relationship",
-        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 193535,
-      "name": "Transactional Relationship",
-      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -845,20 +661,204 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
-      "added_at": "2022-01-11 00:01:58",
+      "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb"
+        "name": "Full Panther",
+        "url": "https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725"
       },
       "artists": [
         {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 245371,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g"
+      "duration_ms": 203255,
+      "name": "Full Panther",
+      "url": "https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Outer Sunset",
+        "url": "https://open.spotify.com/album/137NWAM1UiQ2cpJPidOhaG"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Outer Sunset",
+      "url": "https://open.spotify.com/track/1PegwUCHFmpuV81dXMt3nh"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "SLUMP DKD TODDLER",
+        "url": "https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw"
+      },
+      "artists": [
+        {
+          "name": "Club Winston",
+          "url": "https://open.spotify.com/artist/7dxIJrKyeY2cAKq6ZUCN6r"
+        }
+      ],
+      "duration_ms": 320200,
+      "name": "DKD",
+      "url": "https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA"
+    },
+    {
+      "added_at": "2022-01-13 03:03:49",
+      "album": {
+        "name": "Silent Talking / White Divide",
+        "url": "https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm"
+      },
+      "artists": [
+        {
+          "name": "Bing",
+          "url": "https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL"
+        },
+        {
+          "name": "French II",
+          "url": "https://open.spotify.com/artist/6ipkiHnGXAsGSRlG5RPkjt"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Silent Talking - French II Remix",
+      "url": "https://open.spotify.com/track/3aPEt4Efx0NYzhbSXtX4LD"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Transactional Relationship",
+        "url": "https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 193535,
+      "name": "Transactional Relationship",
+      "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 398232,
+      "name": "Trains & Airports",
+      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Anasickmodular",
+        "url": "https://open.spotify.com/album/6kkA492r6X59UwnZcHW9lL"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Anasickmodular",
+      "url": "https://open.spotify.com/track/3Cxn93PO2AsL93ZnB9qHg8"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak"
+      },
+      "artists": [
+        {
+          "name": "Datach'i",
+          "url": "https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Rockledge 3A",
+      "url": "https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Persuasion System",
+        "url": "https://open.spotify.com/album/2Takb3WbmLXRVvXiFfnjnk"
+      },
+      "artists": [
+        {
+          "name": "Com Truise",
+          "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        }
+      ],
+      "duration_ms": 229277,
+      "name": "Persuasion System",
+      "url": "https://open.spotify.com/track/12RJmMBPv5onWiQosLJ6ZI"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Krautzig",
+        "url": "https://open.spotify.com/album/0o3CLwPVmejxqUgpkuJ4AK"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        },
+        {
+          "name": "Drumno",
+          "url": "https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC"
+        }
+      ],
+      "duration_ms": 247380,
+      "name": "Krautzig",
+      "url": "https://open.spotify.com/track/5wHwkOh0OSD1jTuCU0vbON"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "We",
+        "url": "https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv"
+      },
+      "artists": [
+        {
+          "name": "The Soft Pink Truth",
+          "url": "https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei"
+        }
+      ],
+      "duration_ms": 329500,
+      "name": "We",
+      "url": "https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K"
     }
   ],
   "unique_name": "Genre Glitch",

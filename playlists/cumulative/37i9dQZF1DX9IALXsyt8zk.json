@@ -152,6 +152,28 @@
     },
     {
       "album": {
+        "name": "Blue & Lemonade (Feat. Choi Cello)",
+        "url": "https://open.spotify.com/album/285AagckaF30HANKbEQnxd"
+      },
+      "artists": [
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        },
+        {
+          "name": "Choi Cello",
+          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190172,
+      "name": "Blue & Lemonade (Feat. Choi Cello)",
+      "url": "https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz"
+    },
+    {
+      "album": {
         "name": "BOBBIN",
         "url": "https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc"
       },

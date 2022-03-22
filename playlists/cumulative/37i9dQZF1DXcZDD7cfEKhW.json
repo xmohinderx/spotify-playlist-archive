@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 179541,
       "name": "Coming In Hot - Wuki Remix",
       "url": "https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 186465,
       "name": "Damage - Joel Corry Remix",
       "url": "https://open.spotify.com/track/0J9Z555r7aAx5wB8ysDjhp"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 146293,
       "name": "Deal With It (feat. Kelis) - 220 Kid Remix",
       "url": "https://open.spotify.com/track/261rpE5bM0eX0fCjjRY09V"
@@ -2499,7 +2499,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 188244,
       "name": "Headspace - GOLDHOUSE Remix",
       "url": "https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW"
@@ -4233,7 +4233,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 134318,
       "name": "Need Your Love - Jonasu Remix",
       "url": "https://open.spotify.com/track/0PeuTN6dAGOo9aWLWVXo27"
@@ -5201,7 +5201,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Show Me Love - Dubdogz Remix",
       "url": "https://open.spotify.com/track/3rawuN6ZSevOzM5FiAFRIO"
@@ -5627,7 +5627,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 133846,
       "name": "Streets - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
@@ -5745,7 +5745,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 175409,
       "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u2019\u2019 (Billen Ted Remix)",
       "url": "https://open.spotify.com/track/151NQDecgOAmEwPgAjLkg0"
@@ -5815,6 +5815,32 @@
       "duration_ms": 195483,
       "name": "Surrender - Martin Jensen Remix",
       "url": "https://open.spotify.com/track/57YMEPQhEy5F5Q715mW0n8"
+    },
+    {
+      "album": {
+        "name": "Sweet Talker (Hot Since 82 Remix)",
+        "url": "https://open.spotify.com/album/14CyZ9SYNAWp1reg3OfrHv"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207125,
+      "name": "Sweet Talker - Hot Since 82 Remix",
+      "url": "https://open.spotify.com/track/3q87fWV1hjeZqr2i4v2moY"
     },
     {
       "album": {

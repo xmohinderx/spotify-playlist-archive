@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 175020,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/2ssMpyB6X2tkKXefA1eEGY"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 109106,
       "name": "African Rotation (feat. DJ Flex)",
       "url": "https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 200869,
       "name": "Back Up On It (Jasmine)",
       "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 130080,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 142858,
       "name": "Da Fuq",
       "url": "https://open.spotify.com/track/0z5gsQSyA40rhq0EcoH35X"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 119999,
       "name": "DIGITAL DIVA 2.0",
       "url": "https://open.spotify.com/track/0on2i3aXyFzIthn5wzWh41"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 157664,
       "name": "Fantasy (feat. The Oshi)",
       "url": "https://open.spotify.com/track/3FjyHxyv4VQ37mdY21lOhx"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 108173,
       "name": "Get It TT Challenge",
       "url": "https://open.spotify.com/track/3Txdc1LG5pXtW9Lbpqcfab"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 179644,
       "name": "Glitchy Gal",
       "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 135758,
       "name": "Got Back?",
       "url": "https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA"
@@ -1210,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "Award",
+        "url": "https://open.spotify.com/album/577KGCdAfnAoAIu4MBUb3V"
+      },
+      "artists": [
+        {
+          "name": "Brenmar",
+          "url": "https://open.spotify.com/artist/713RoDl16muftBPRdCXGAX"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226225,
+      "name": "Hula Hoop",
+      "url": "https://open.spotify.com/track/6GvqVPaFlnIR1FMaBJrKk9"
+    },
+    {
+      "album": {
         "name": "I Need You, Pt. 2",
         "url": "https://open.spotify.com/album/6zrBRU2V83i49vC0850xdT"
       },
@@ -1221,7 +1243,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 111857,
       "name": "I Need You, Pt. 2",
       "url": "https://open.spotify.com/track/2TII48JCtfW8JNfsVMP0yJ"
@@ -1261,7 +1283,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 164000,
       "name": "I'm A Feak - Original Mix",
       "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 76697,
       "name": "In Lavonnah We Trust",
       "url": "https://open.spotify.com/track/0OU6IIg55B0t3GEl3eGWpN"
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 126380,
       "name": "Level Up (Jersey Club)",
       "url": "https://open.spotify.com/track/0nhlsJHrfmxMIWYKAeQYIk"
@@ -1415,7 +1437,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 176000,
       "name": "Like This - Original Mix",
       "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 192876,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/0IDuxGsdO9aKPzmLbrFO4J"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2zsSsvsJD16JbnrBKrRwRt"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 264094,
       "name": "Nxwxrk - Dj Sliink Remix",
       "url": "https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ"
@@ -1769,7 +1791,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 89652,
       "name": "Pew Pew Pew",
       "url": "https://open.spotify.com/track/6iQrwRQYIUrA7gqXtOrRve"
@@ -1823,7 +1845,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 112587,
       "name": "Posted In The Club",
       "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"
@@ -1885,7 +1907,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 113760,
       "name": "Pump It Up [Jersey Club]",
       "url": "https://open.spotify.com/track/48aHpYVBmeIMxizdTAI7yD"
@@ -1964,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "Ride 4 U (Jersey Club)",
+        "url": "https://open.spotify.com/album/6hgEBh5Qtj6lxU07AjQtyt"
+      },
+      "artists": [
+        {
+          "name": "Rhythm HB",
+          "url": "https://open.spotify.com/artist/348CWIvit5QBEkQr1K5dZA"
+        },
+        {
+          "name": "Hyped-Up Reese",
+          "url": "https://open.spotify.com/artist/6dJJNLemkrn3vek2eDrATf"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Ride 4 U - Jersey Club",
+      "url": "https://open.spotify.com/track/5uEP8nRCg5ko57dY2x5HHg"
+    },
+    {
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
       },
@@ -1993,7 +2037,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 121369,
       "name": "Rock N Roll",
       "url": "https://open.spotify.com/track/6p3eGwdNH7Psr1mBoHaZVE"
@@ -2015,7 +2059,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0at8XjfeGHOWe3DzcOkz8N"
@@ -2103,7 +2147,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
@@ -2121,7 +2165,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 56816,
       "name": "Shake Dat",
       "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
@@ -2271,7 +2315,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 104727,
       "name": "Steal Her Man Challenge (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/7kfh2iyJlRgONMJgyhZEPf"
@@ -2319,7 +2363,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 113228,
       "name": "Swamp Life Anthem - DJ Jayhood Jersey Club Remix",
       "url": "https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj"
@@ -2483,7 +2527,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 85786,
       "name": "Weak (Bend Over)",
       "url": "https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2"
@@ -2505,7 +2549,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 127007,
       "name": "When We Get Home",
       "url": "https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA"
@@ -2527,7 +2571,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 148715,
       "name": "When We Vibe - DeFalco Remix",
       "url": "https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv"
@@ -2545,7 +2589,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"

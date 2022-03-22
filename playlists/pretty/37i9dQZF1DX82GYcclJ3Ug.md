@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Machine Gun Kelly & Oli Sykes \(Bring Me The Horizon\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,485 likes - 114 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,615 likes - 114 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 113 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 |
 | 114 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 |
 
-Snapshot ID: `MTY0NzU3NjA2MCwwMDAwMDZiMjAwMDAwMTdmOWIyZjkwZGIwMDAwMDE3Zjk0NjQ4NzA3`
+Snapshot ID: `MTY0Nzg2NjYzOCwwMDAwMDZiMzAwMDAwMTdmYWM4MTZlZmQwMDAwMDE3Zjk0NjQ4NzA3`

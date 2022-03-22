@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mellow songs from the 1990s. Cover: Boyz II Men.",
+  "description": "Mellow songs from the 1990s.",
   "name": "Soft 90s",
   "published_playlist_ids": [
     "3Y9Hoox8bVt84gpOCnK26g"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 243226,
       "name": "Coming Out of the Dark",
       "url": "https://open.spotify.com/track/505MTNh5kvgYCmroWGCTTF"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 265373,
       "name": "Everybody Plays The Fool",
       "url": "https://open.spotify.com/track/0mKqVghILq1TmTDHiaRf9d"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 235106,
       "name": "From This Moment On - Pop On-Tour Version",
       "url": "https://open.spotify.com/track/5VqyLZrIifflQc5k0vfhFf"
@@ -2027,7 +2027,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 168626,
       "name": "It's So Hard To Say Goodbye To Yesterday",
       "url": "https://open.spotify.com/track/264JdkdtNRAGL4M4PnDYHC"
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 411146,
       "name": "Jesus to a Child",
       "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO"
@@ -2463,7 +2463,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 322266,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/33GJ5M8Pluf119G1PObkZM"
@@ -2535,7 +2535,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 281240,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1NRl73336Q4SFLH2DqurzS"
@@ -3235,7 +3235,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "Streets of Philadelphia - Single Edit",
       "url": "https://open.spotify.com/track/0oVSvrU612xkj7vbvbUAT2"
@@ -4173,6 +4173,24 @@
       "duration_ms": 212400,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr"
+    },
+    {
+      "album": {
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "You've Got A Way",
+      "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2syo5w7a1cu"

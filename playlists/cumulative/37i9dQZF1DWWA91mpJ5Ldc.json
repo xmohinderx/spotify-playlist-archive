@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "+ 1 Minuto",
+        "url": "https://open.spotify.com/album/4bXR0Lwwu4EbvNWvPDeY0V"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172722,
+      "name": "+ 1 Minuto",
+      "url": "https://open.spotify.com/track/7zVRqZzUEFIfjjNxZxyoLN"
+    },
+    {
+      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
@@ -63,7 +89,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 181333,
       "name": "A Coisa T\u00e1 Preta",
       "url": "https://open.spotify.com/track/5DskXnnlENZltwmHdKU2IP"
@@ -121,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 246666,
       "name": "afro futurista",
       "url": "https://open.spotify.com/track/707zgXxO0fchdraumiV1R9"
@@ -143,7 +169,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 201685,
       "name": "Alfazema",
       "url": "https://open.spotify.com/track/7hzIyUaBEYn75POSXlwjuR"
@@ -161,7 +187,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 187083,
       "name": "Alma Bonita",
       "url": "https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE"
@@ -459,7 +485,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 265557,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
@@ -503,7 +529,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Carne dos Deuses",
       "url": "https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ"
@@ -525,7 +551,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 223781,
       "name": "Casa de Rainha",
       "url": "https://open.spotify.com/track/1IVWmTRwsQ26NZaZRJBzeQ"
@@ -773,7 +799,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 175942,
       "name": "Deu Bossa",
       "url": "https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd"
@@ -791,7 +817,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 177102,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/7GZoLg9b4QggdnHBHeSmpX"
@@ -827,7 +853,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
@@ -957,7 +983,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 157418,
       "name": "Eu e Voc\u00ea",
       "url": "https://open.spotify.com/track/5SPr3nOUnQSq8xjeDTTwVY"
@@ -1153,7 +1179,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 191917,
       "name": "Gostosin",
       "url": "https://open.spotify.com/track/2O9Vl5peatdy7ihvizo67c"
@@ -1289,7 +1315,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 236524,
       "name": "L\u00e1 Vem os Homens",
       "url": "https://open.spotify.com/track/6h1C2xxnuSkmlERRD0AyYC"
@@ -1325,7 +1351,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 174361,
       "name": "Mais de N\u00f3s",
       "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
@@ -1343,7 +1369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 170288,
       "name": "Mais uma de Carnaval",
       "url": "https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B"
@@ -1365,7 +1391,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
@@ -1387,7 +1413,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 142540,
       "name": "Me Deixa Ser Mulher",
       "url": "https://open.spotify.com/track/5z5oYrfZK1o8Kr92UtZkvZ"
@@ -1497,7 +1523,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 142975,
       "name": "Mutante",
       "url": "https://open.spotify.com/track/7kTTnno8q1kjwfj8gGfQg8"
@@ -1581,7 +1607,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 212433,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
@@ -1625,7 +1651,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 188536,
       "name": "N\u00f3is Dois Coladin (feat. Bom Gosto)",
       "url": "https://open.spotify.com/track/07PlqC9FOWlcU3hRH71mcN"
@@ -1781,7 +1807,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 200259,
       "name": "Pode Ser \u00e0s Dez",
       "url": "https://open.spotify.com/track/6yGOQ6hA237ZGf1odRXtPT"
@@ -1859,7 +1885,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 156800,
       "name": "Pra Pensar",
       "url": "https://open.spotify.com/track/3cbO2LZluJv0BTMESwqZUI"
@@ -2097,7 +2123,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 163800,
       "name": "Saiba",
       "url": "https://open.spotify.com/track/13HJiaanpj9UUlM0oRdLCw"
@@ -2243,7 +2269,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 163120,
       "name": "Soul Black #1 - Penso Toda Hora",
       "url": "https://open.spotify.com/track/7j325IJcvLqi1yjfVC3lNq"
@@ -2399,7 +2425,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 175701,
       "name": "Toda Vez",
       "url": "https://open.spotify.com/track/1q6TD6FPeU0dXHgVbch96Y"
@@ -2435,7 +2461,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 269285,
       "name": "Todo Carinho",
       "url": "https://open.spotify.com/track/1YMOsfWZpOtaH6uKH4UACe"
@@ -2533,7 +2559,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 246473,
       "name": "Venus Com Jasmim",
       "url": "https://open.spotify.com/track/06DqJsk2kYMnFQBi7sOoDD"

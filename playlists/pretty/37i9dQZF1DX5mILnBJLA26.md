@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=raZ0ZXGAS021yjkW7nC0FQ">Lady Du</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,164 likes - 79 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,643 likes - 79 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

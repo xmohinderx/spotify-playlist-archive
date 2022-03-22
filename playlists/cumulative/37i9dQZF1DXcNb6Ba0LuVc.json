@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Solid Centre",
+        "url": "https://open.spotify.com/album/0z1c6gc89Bfxz9iTQDChiM"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Dust till Dawn",
+      "url": "https://open.spotify.com/track/4FTWqP9PgQ24kmVctCWREf"
+    },
+    {
+      "album": {
         "name": "Superpad",
         "url": "https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4"
       },
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 141666,
       "name": "Out Of Jazzizity",
       "url": "https://open.spotify.com/track/6LnZKT2R1jhUTXgwUPldIr"
@@ -3903,6 +3921,24 @@
       "duration_ms": 152416,
       "name": "Wee Hours",
       "url": "https://open.spotify.com/track/1AmusTPVvkxMo7pTKrGWoE"
+    },
+    {
+      "album": {
+        "name": "Weekend Slide",
+        "url": "https://open.spotify.com/album/2T8PKVKz0yyfqVG2PZZY74"
+      },
+      "artists": [
+        {
+          "name": "Ninjasister",
+          "url": "https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Weekend Slide",
+      "url": "https://open.spotify.com/track/7ugkcHNMy9tjov6VMmLoKg"
     },
     {
       "album": {

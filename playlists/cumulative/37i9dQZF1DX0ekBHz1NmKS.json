@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "H\u00f6ghusdr\u00f6mmar/070-xxxx xxx",
+        "url": "https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240849,
+      "name": "070-xxxx xxx",
+      "url": "https://open.spotify.com/track/4O3yim026F1AwaPevgl9xs"
+    },
+    {
+      "album": {
         "name": "100 G\u00c5NGER TILL",
         "url": "https://open.spotify.com/album/4llO7R9Fy8hzLQzNS7iKnP"
       },
@@ -84,6 +102,24 @@
     },
     {
       "album": {
+        "name": "4 In The Morning",
+        "url": "https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "4 In The Morning",
+      "url": "https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6"
+    },
+    {
+      "album": {
         "name": "TUTTI FRUTTI - fr\u00e5n lokalen under sushin",
         "url": "https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ"
       },
@@ -113,7 +149,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 172395,
       "name": "A Power In Letting Go",
       "url": "https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2"
@@ -297,7 +333,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 208800,
       "name": "Alone with Me",
       "url": "https://open.spotify.com/track/4LvpvKYAJY7S4oWygjyCbS"
@@ -387,7 +423,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
@@ -409,6 +445,24 @@
       "duration_ms": 193427,
       "name": "Barnasinnet - 2022",
       "url": "https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY"
+    },
+    {
+      "album": {
+        "name": "Bergs slussar",
+        "url": "https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG"
+      },
+      "artists": [
+        {
+          "name": "Nils-Pontus",
+          "url": "https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151210,
+      "name": "Bergs slussar",
+      "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
     },
     {
       "album": {
@@ -449,6 +503,24 @@
       "duration_ms": 182200,
       "name": "Bigger Than The Universe",
       "url": "https://open.spotify.com/track/2A5qivViPNykdAiRLXrxUF"
+    },
+    {
+      "album": {
+        "name": "Blicka",
+        "url": "https://open.spotify.com/album/5r7UIKuE6SdoivyjvUeC3F"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Blicka",
+      "url": "https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v"
     },
     {
       "album": {
@@ -571,7 +643,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 188986,
       "name": "Bra vibbar Del 2 (Bra vibrationer)",
       "url": "https://open.spotify.com/track/43XDyDwka658kl7tE31LcB"
@@ -607,7 +679,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 169866,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb"
@@ -1307,7 +1379,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 162413,
       "name": "Du sa (det kanske var fult)",
       "url": "https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww"
@@ -1415,7 +1487,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 164678,
       "name": "D\u00f6r F\u00f6r Er Skull",
       "url": "https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4"
@@ -1722,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "F\u00e4rger",
+        "url": "https://open.spotify.com/album/0EQWkXtKIW6AhxyfXfFJt0"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "F\u00e4rger",
+      "url": "https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU"
       },
@@ -1899,7 +1989,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 217834,
       "name": "Good Things Come to Those Who Wait",
       "url": "https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA"
@@ -2235,7 +2325,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 215700,
       "name": "Hundra \u00e5r till",
       "url": "https://open.spotify.com/track/6QnCjXSIBaUY9FgB9g0fD4"
@@ -2283,6 +2373,24 @@
       "duration_ms": 204485,
       "name": "H\u00e4r tog det vackra slut",
       "url": "https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H"
+    },
+    {
+      "album": {
+        "name": "H\u00f6ghusdr\u00f6mmar/070-xxxx xxx",
+        "url": "https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143212,
+      "name": "H\u00f6ghusdr\u00f6mmar",
+      "url": "https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m"
     },
     {
       "album": {
@@ -2645,7 +2753,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 140470,
       "name": "Jag t\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X"
@@ -2771,7 +2879,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 178555,
       "name": "Kylsk\u00e5pspoesi",
       "url": "https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C"
@@ -2825,7 +2933,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 239258,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR"
@@ -3255,7 +3363,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 178024,
       "name": "Missing You Sucks",
       "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -3453,7 +3561,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 152736,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH"
@@ -3533,6 +3641,24 @@
       "duration_ms": 161453,
       "name": "Nu Brinner \u00c4ngarna",
       "url": "https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5"
+    },
+    {
+      "album": {
+        "name": "Nu gr\u00f6nskar det",
+        "url": "https://open.spotify.com/album/7sMqoulaSuezdKiz0T9K3d"
+      },
+      "artists": [
+        {
+          "name": "Klara & Jag",
+          "url": "https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Nu gr\u00f6nskar det",
+      "url": "https://open.spotify.com/track/5ZZGRLU47Gkp8q5ERLTLP5"
     },
     {
       "album": {
@@ -3757,7 +3883,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 175384,
       "name": "Precious Cargo",
       "url": "https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU"
@@ -3775,7 +3901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 206026,
       "name": "Psykopat",
       "url": "https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo"
@@ -3865,7 +3991,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 189333,
       "name": "P\u00e5 L\u00e5tsas",
       "url": "https://open.spotify.com/track/6tmYCYP4Pszgn8gn03jMTj"
@@ -3883,7 +4009,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 188093,
       "name": "Quit Your Job",
       "url": "https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry"
@@ -3955,7 +4081,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 185876,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq"
@@ -4323,7 +4449,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 185173,
       "name": "Skies",
       "url": "https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH"
@@ -4605,7 +4731,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 217148,
       "name": "Spritdr\u00e4nkta",
       "url": "https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn"
@@ -4829,7 +4955,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 218500,
       "name": "Svart Suit Cadillac",
       "url": "https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP"
@@ -4847,7 +4973,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 196586,
       "name": "Sv\u00e5r",
       "url": "https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl"
@@ -4901,7 +5027,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 178223,
       "name": "Synd om dig",
       "url": "https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5"
@@ -5063,7 +5189,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 160827,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t"
@@ -5081,7 +5207,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 200334,
       "name": "The River",
       "url": "https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA"
@@ -5189,7 +5315,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 178832,
       "name": "Touch Yourself",
       "url": "https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf"
@@ -5283,7 +5409,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 152678,
       "name": "Used To",
       "url": "https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv"
@@ -5301,7 +5427,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 191999,
       "name": "Vad har du gjort",
       "url": "https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj"
@@ -5363,7 +5489,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Vart Jag Varit (Je Viens De Rien) [feat. Maxida M\u00e4rak]",
       "url": "https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA"
@@ -5417,7 +5543,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 160762,
       "name": "Vi har iallafall inte tr\u00e5kigt",
       "url": "https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI"
@@ -5793,6 +5919,24 @@
       "duration_ms": 243203,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161898,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
     },
     {
       "album": {

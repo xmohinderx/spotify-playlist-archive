@@ -2,7 +2,7 @@
 
 ### [Acalmando a Mente](https://open.spotify.com/playlist/4fjCM63nMwhoFiDM3I0Ewp)
 
-> Podcasts que te ajudaram a tirar um tempinho para cuidar de você em 2021.
+> Podcasts que te ajudam a tirar um tempinho para cuidar de você.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

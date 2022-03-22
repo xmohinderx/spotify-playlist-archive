@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk"
+      },
+      "artists": [
+        {
+          "name": "Anna Mvze",
+          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165478,
+      "name": "4 the Streets",
+      "url": "https://open.spotify.com/track/6RFKghJxTPFzY79UvzgYC4"
+    },
+    {
+      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/1rqgi0je1KqAeM08Apkkin"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 142191,
       "name": "Ain't No Stoppin",
       "url": "https://open.spotify.com/track/1uEqIhYf2JEYvqtlOX8Pg0"
@@ -757,10 +775,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 201108,
       "name": "Different",
       "url": "https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG"
+    },
+    {
+      "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk"
+      },
+      "artists": [
+        {
+          "name": "Anna Mvze",
+          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Don't Forget to Mention",
+      "url": "https://open.spotify.com/track/6RV5FIOchdTvz2TGLEHRBn"
     },
     {
       "album": {
@@ -2280,6 +2316,32 @@
     },
     {
       "album": {
+        "name": "Rosary",
+        "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "MoneySign $uede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238723,
+      "name": "Rosary",
+      "url": "https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN"
+    },
+    {
+      "album": {
         "name": "Run It",
         "url": "https://open.spotify.com/album/4NpVsNPZEZb1OCEWXgMRlb"
       },
@@ -2339,7 +2401,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-22",
       "duration_ms": 174541,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/4vwQmhMHgrnbiriwTDN3wO"

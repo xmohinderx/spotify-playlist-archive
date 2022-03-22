@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIjTCDpbgLL.md) - [plain]
 
 > Tales of high action and grand adventures...
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 71 songs - 21 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,083 likes - 71 songs - 21 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > write a letter to a friend today\. cover: stilly woozy & remi wolfy
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,217 likes - 129 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,351 likes - 129 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

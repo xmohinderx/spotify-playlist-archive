@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus & Kauan, Lexa com Leo Santana, ROSALÍA e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,466 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,665 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 |
 | 75 | [Congratulations](https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Congratulations](https://open.spotify.com/album/2N32BE9xsjUyzQ2jfOPAyq) | 3:16 |
 
-Snapshot ID: `MTY0NzYyOTI1NiwwMDAwMDU1MzAwMDAwMTdmOWU1YjQ2NmIwMDAwMDE3Zjk5NjcwZjRm`
+Snapshot ID: `MTY0Nzg4MjI4NSwwMDAwMDU1NDAwMDAwMTdmYWQ3MDMwNTEwMDAwMDE3Zjk5NjcwZjRm`
