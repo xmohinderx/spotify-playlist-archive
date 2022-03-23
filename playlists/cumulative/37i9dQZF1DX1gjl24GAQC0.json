@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: NU'EST(\ub274\uc774\uc2a4\ud2b8) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: CRAVITY(\ud06c\ub798\ube44\ud2f0) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]",
+        "url": "https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD"
+    },
+    {
+      "album": {
         "name": "SWITCH ON",
         "url": "https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 219760,
       "name": "Answer",
       "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 213232,
       "name": "MADE FOR TWO",
       "url": "https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 207814,
       "name": "Mixtape : On Track",
       "url": "https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 204701,
       "name": "NOT BY THE MOON",
       "url": "https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 206573,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/0lLDInOmkZTWz14Lm0dcMY"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -2991,7 +3009,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
@@ -3063,7 +3081,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 206856,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"

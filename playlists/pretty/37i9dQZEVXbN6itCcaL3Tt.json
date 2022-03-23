@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 234229,
+  "num_followers": 234289,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAxMTc1MDI4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAxMjYyODk3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Szary \u015bwiat",
         "url": "https://open.spotify.com/album/0DNh1flJav6FYwdep81NBR"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/7kHDzIjrqGw529abmoVgAa"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Narcyz",
+        "url": "https://open.spotify.com/album/6swlvP1UMJYx6ny4PBbjph"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Narcyz",
+      "url": "https://open.spotify.com/track/0tTy9lib8CQg7mwFF6lBbD"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/1kuw8HFbvgAg3tNqPj00Mb"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Jetlag (feat. The Plug)",
         "url": "https://open.spotify.com/album/7asDfD691s6DPhNyKuPyaT"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/2jG3STVcZ9fjYlhXPi7nJ1"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "amfisbena (DELUXE)",
         "url": "https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc"
@@ -117,7 +133,47 @@
       "url": "https://open.spotify.com/track/6QzEN3q6NpVFdxktMj427g"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Proste fakty",
+        "url": "https://open.spotify.com/album/3mhety6h2PwjicU8mey7a6"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "flexxy2115",
+          "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
+        },
+        {
+          "name": "BLACHA",
+          "url": "https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 218827,
+      "name": "Proste fakty",
+      "url": "https://open.spotify.com/track/6IVFyySW33VfordEuGDPHk"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -185,107 +241,7 @@
       "url": "https://open.spotify.com/track/62CHTBeGAVo9b0ivzaNdc1"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Proste fakty",
-        "url": "https://open.spotify.com/album/3mhety6h2PwjicU8mey7a6"
-      },
-      "artists": [
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        },
-        {
-          "name": "Bedoes",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        },
-        {
-          "name": "Kuqe 2115",
-          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
-        },
-        {
-          "name": "flexxy2115",
-          "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
-        },
-        {
-          "name": "BLACHA",
-          "url": "https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        }
-      ],
-      "duration_ms": 218827,
-      "name": "Proste fakty",
-      "url": "https://open.spotify.com/track/6IVFyySW33VfordEuGDPHk"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "amfisbena",
-        "url": "https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        },
-        {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Icey",
-      "url": "https://open.spotify.com/track/6BDfLF0GoHND77V6BvFeBo"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "M\u0142ody Matczak",
-        "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Trooh Hippi",
-          "url": "https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Szafir",
-      "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "W samo po\u0142udnie (Deluxe)",
-        "url": "https://open.spotify.com/album/68vOoh6kzluqI6XpnOqX4H"
-      },
-      "artists": [
-        {
-          "name": "Reto",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
-        },
-        {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
-        }
-      ],
-      "duration_ms": 146465,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "PI\u0104TEK WIECZ\u00d3R",
         "url": "https://open.spotify.com/album/62HDzNstWeU5EEN6xvXcXn"
@@ -305,7 +261,87 @@
       "url": "https://open.spotify.com/track/38ryCMNFOZ6GW5udIFnQI7"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "amfisbena",
+        "url": "https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Icey",
+      "url": "https://open.spotify.com/track/6BDfLF0GoHND77V6BvFeBo"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "W samo po\u0142udnie (Deluxe)",
+        "url": "https://open.spotify.com/album/68vOoh6kzluqI6XpnOqX4H"
+      },
+      "artists": [
+        {
+          "name": "Reto",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        }
+      ],
+      "duration_ms": 146465,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "M\u0142ody Matczak",
+        "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Trooh Hippi",
+          "url": "https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Szafir",
+      "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Mamo ty\u015b p\u0142aka\u0142a",
+        "url": "https://open.spotify.com/album/4yUgailSMAHKZkQAu1sQkQ"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mamo ty\u015b p\u0142aka\u0142a",
+      "url": "https://open.spotify.com/track/4SyOEnUogQDqYquwoJblvG"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Rozmazana kreska",
         "url": "https://open.spotify.com/album/7D4ioBCIfM9YsIIWLDw7zX"
@@ -321,7 +357,7 @@
       "url": "https://open.spotify.com/track/5Dwpfuw962xZq6mNg8OgzN"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -365,27 +401,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Mamo ty\u015b p\u0142aka\u0142a",
-        "url": "https://open.spotify.com/album/4yUgailSMAHKZkQAu1sQkQ"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mamo ty\u015b p\u0142aka\u0142a",
-      "url": "https://open.spotify.com/track/4SyOEnUogQDqYquwoJblvG"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Du\u017ce Oczy",
         "url": "https://open.spotify.com/album/5iv0i9LYnhx3qIDPGkIVnn"
@@ -413,7 +429,39 @@
       "url": "https://open.spotify.com/track/0O4OIQKow8DloWa7UzIgyd"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Hotel Maffija 2",
+        "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "co to za bluza lanek?",
+      "url": "https://open.spotify.com/track/1NiFHUcQAqgNIIaZGbbHsu"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -453,39 +501,43 @@
       "url": "https://open.spotify.com/track/5rcH7HIJH3l3eojjKmZWWi"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
-        "name": "Hotel Maffija 2",
-        "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
+        "name": "Bufor",
+        "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
       },
       "artists": [
         {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        },
-        {
-          "name": "Lanek",
-          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
         },
         {
           "name": "Kinny Zimmer",
           "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
         }
       ],
-      "duration_ms": 192480,
-      "name": "co to za bluza lanek?",
-      "url": "https://open.spotify.com/track/1NiFHUcQAqgNIIaZGbbHsu"
+      "duration_ms": 143239,
+      "name": "LAXJFK",
+      "url": "https://open.spotify.com/track/2w23b547ua2WtNyf6Z9Qar"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "SKUTE BOBO",
+        "url": "https://open.spotify.com/album/3IaygxcowZy7jtWItPO3FG"
+      },
+      "artists": [
+        {
+          "name": "SKUTE BOBO",
+          "url": "https://open.spotify.com/artist/1vQskqJ0T1gttXzjpcPff3"
+        }
+      ],
+      "duration_ms": 188566,
+      "name": "SKUTE BOBO",
+      "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Pu\u0142apka Na Motyle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj"
@@ -505,23 +557,7 @@
       "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "SKUTE BOBO",
-        "url": "https://open.spotify.com/album/3IaygxcowZy7jtWItPO3FG"
-      },
-      "artists": [
-        {
-          "name": "SKUTE BOBO",
-          "url": "https://open.spotify.com/artist/1vQskqJ0T1gttXzjpcPff3"
-        }
-      ],
-      "duration_ms": 188566,
-      "name": "SKUTE BOBO",
-      "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -549,7 +585,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -573,27 +609,7 @@
       "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Bufor",
-        "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
-      },
-      "artists": [
-        {
-          "name": "Jan-Rapowanie",
-          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
-        },
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        }
-      ],
-      "duration_ms": 143239,
-      "name": "LAXJFK",
-      "url": "https://open.spotify.com/track/2w23b547ua2WtNyf6Z9Qar"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/1eu8Sv101QfNFmDyCIi1UV"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/3205ZtwMnzMBtr7GQZ1IbH"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -629,75 +645,7 @@
       "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "COCO",
-        "url": "https://open.spotify.com/album/4lH49QkmacFg1k8kj25Itu"
-      },
-      "artists": [
-        {
-          "name": "mgng",
-          "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
-        },
-        {
-          "name": "MASNY BEN",
-          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
-        }
-      ],
-      "duration_ms": 137992,
-      "name": "COCO",
-      "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Harna\u015b ice tea",
-        "url": "https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw"
-      },
-      "artists": [
-        {
-          "name": "Gawryle",
-          "url": "https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Harna\u015b ice tea",
-      "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Jeszcze 5 minut",
-        "url": "https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        }
-      ],
-      "duration_ms": 219268,
-      "name": "Disney",
-      "url": "https://open.spotify.com/track/37xytNxwRuLRuZcJMFH8w7"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hample",
         "url": "https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1"
@@ -717,7 +665,79 @@
       "url": "https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Afryka",
+        "url": "https://open.spotify.com/album/24vmXvyLmuKtDdNEOKYEEs"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Afryka",
+      "url": "https://open.spotify.com/track/3oCymcZu2ewG2UlVlRtyo1"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Jeszcze 5 minut",
+        "url": "https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "duration_ms": 219268,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/37xytNxwRuLRuZcJMFH8w7"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/4lH49QkmacFg1k8kj25Itu"
+      },
+      "artists": [
+        {
+          "name": "mgng",
+          "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
+        }
+      ],
+      "duration_ms": 137992,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/3QrkrDpopE53v2TMgnwaR9"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Irenka (FINAL Edition)",
         "url": "https://open.spotify.com/album/3AoPslGsHZT5PpMrrBncwI"
@@ -757,43 +777,39 @@
       "url": "https://open.spotify.com/track/0dqvGZ5X6uGoypZantcLOS"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
-        "name": "Afryka",
-        "url": "https://open.spotify.com/album/24vmXvyLmuKtDdNEOKYEEs"
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
       "artists": [
         {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Afryka",
-      "url": "https://open.spotify.com/track/3oCymcZu2ewG2UlVlRtyo1"
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Harna\u015b ice tea",
+        "url": "https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Gawryle",
+          "url": "https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 176350,
+      "name": "Harna\u015b ice tea",
+      "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Kryzys Wieku Wczesnego",
         "url": "https://open.spotify.com/album/7FFyqG9TyQBQw08sYM9zjj"
@@ -813,7 +829,43 @@
       "url": "https://open.spotify.com/track/1zwuT3oMcSs6Bo1uBQMRtq"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Bufor",
+        "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "TRYB SAMOLOTOWY",
+      "url": "https://open.spotify.com/track/0d4SgsJAjJWRXIeeFdCNyh"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Aporofobia",
+        "url": "https://open.spotify.com/album/0kFsF8QMOTj8ZkHaiF1G5C"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Schwesta Ewa",
+          "url": "https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Powww!",
+      "url": "https://open.spotify.com/track/6hhRa7U5jBBXyyudOJMA0C"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -829,7 +881,71 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra 2021",
+          "url": "https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -901,7 +1017,39 @@
       "url": "https://open.spotify.com/track/1YztiL42w9fq0Z2jGcDSZR"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "Pakuje Walize",
+        "url": "https://open.spotify.com/album/0c0nhk4yuDUfXIoTon4RrO"
+      },
+      "artists": [
+        {
+          "name": "Dawid, Artysta",
+          "url": "https://open.spotify.com/artist/5io96qFvFJevk6P5NSM2pq"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        },
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "Zebraodzawsze",
+          "url": "https://open.spotify.com/artist/3uxgz8rlF99VOs4Mq4AfgD"
+        },
+        {
+          "name": "zawad",
+          "url": "https://open.spotify.com/artist/10HHYfsgM94lnk6u9vvWZN"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Pakuje Walize",
+      "url": "https://open.spotify.com/track/7CRfTE9FGb9YdSvoGhl2IP"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "U\u015bmiech",
         "url": "https://open.spotify.com/album/2IwUMMR9RGNY1VhK24kb2G"
@@ -921,23 +1069,43 @@
       "url": "https://open.spotify.com/track/3zl4Mo9YzhvWMFoG7uVkXM"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
-        "name": "EKIPA (SE4ON)",
-        "url": "https://open.spotify.com/album/7MKBCwPOH3TXjJI3swJzkH"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Ekipa",
-          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 295714,
-      "name": "EKIPA - SE4ON",
-      "url": "https://open.spotify.com/track/5uGgYYtJLHaOnU2dwtZlkE"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
+      "album": {
+        "name": "PRE-PRELUDIUM",
+        "url": "https://open.spotify.com/album/23NCUsGSaosvX7mz8WTEu6"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "duration_ms": 214064,
+      "name": "PRZEGRA\u0141EM Z FUKAJEM",
+      "url": "https://open.spotify.com/track/1QHPqNoCKBlNGa0hHRs0HT"
+    },
+    {
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -977,27 +1145,7 @@
       "url": "https://open.spotify.com/track/5Q6ZdhHJt1NF6G6chZYdJd"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Aporofobia",
-        "url": "https://open.spotify.com/album/0kFsF8QMOTj8ZkHaiF1G5C"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
-        },
-        {
-          "name": "Schwesta Ewa",
-          "url": "https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Powww!",
-      "url": "https://open.spotify.com/track/6hhRa7U5jBBXyyudOJMA0C"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Ostatnia nocka ale to DRILL",
         "url": "https://open.spotify.com/album/2KbhmBTvGG57FImHauKdwm"
@@ -1025,67 +1173,7 @@
       "url": "https://open.spotify.com/track/40ztXOcIAX26Zgh4oo6Y9k"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Bufor",
-        "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
-      },
-      "artists": [
-        {
-          "name": "Jan-Rapowanie",
-          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "TRYB SAMOLOTOWY",
-      "url": "https://open.spotify.com/track/0d4SgsJAjJWRXIeeFdCNyh"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
-      },
-      "artists": [
-        {
-          "name": "M\u0119skie Granie Orkiestra 2021",
-          "url": "https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE"
-        },
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -1101,140 +1189,24 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-03-21 10:50:28",
+      "added_at": "2022-03-22 11:14:57",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "odbicie (Mark Neve Remix)",
+        "url": "https://open.spotify.com/album/1VP3ipSBIo05SAY8ZpyXgp"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Pakuje Walize",
-        "url": "https://open.spotify.com/album/0c0nhk4yuDUfXIoTon4RrO"
-      },
-      "artists": [
-        {
-          "name": "Dawid, Artysta",
-          "url": "https://open.spotify.com/artist/5io96qFvFJevk6P5NSM2pq"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        },
-        {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
-        },
-        {
-          "name": "Zebraodzawsze",
-          "url": "https://open.spotify.com/artist/3uxgz8rlF99VOs4Mq4AfgD"
-        },
-        {
-          "name": "zawad",
-          "url": "https://open.spotify.com/artist/10HHYfsgM94lnk6u9vvWZN"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Pakuje Walize",
-      "url": "https://open.spotify.com/track/7CRfTE9FGb9YdSvoGhl2IP"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "Hotel Maffija 2",
-        "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
-      },
-      "artists": [
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Janusz Walczuk",
-          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
-        },
-        {
-          "name": "Lanek",
-          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
-        },
-        {
-          "name": "Nypel",
-          "url": "https://open.spotify.com/artist/4RkS90Z6Q6eZLmEIYbBtWX"
-        },
-        {
-          "name": "Pedro",
-          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Droga Pani",
-      "url": "https://open.spotify.com/track/5YPerXKvUZSlcETdflszBz"
-    },
-    {
-      "added_at": "2022-03-21 10:50:28",
-      "album": {
-        "name": "PRE-PRELUDIUM",
-        "url": "https://open.spotify.com/album/23NCUsGSaosvX7mz8WTEu6"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        }
-      ],
-      "duration_ms": 214064,
-      "name": "PRZEGRA\u0141EM Z FUKAJEM",
-      "url": "https://open.spotify.com/track/1QHPqNoCKBlNGa0hHRs0HT"
+      "duration_ms": 180994,
+      "name": "odbicie - Mark Neve Remix",
+      "url": "https://open.spotify.com/track/4hnztYqVVQOUw18AtGeiIk"
     }
   ],
   "unique_name": "Top 50 - Poland",

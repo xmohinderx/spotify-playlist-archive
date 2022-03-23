@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Kyle McKearney
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,696 likes - 26 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,694 likes - 26 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 25 | [Nothing Is Meaningless](https://open.spotify.com/track/3FKtv1Gu9UEM48u6MtbFZM) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:25 |
 | 26 | [High That I'm Riding](https://open.spotify.com/track/5p7dU3mxI2JGny4aa5rMcx) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [High That I'm Riding](https://open.spotify.com/album/36Lae8KGJkBdjVzCalqFEa) | 3:27 |
 
-Snapshot ID: `MTY0NzkxMDI0MywwMDAwMDAwMGJlNzBlZTFjMWM1OTQxZmRjY2E2MWViMTVlNmJkN2Zi`
+Snapshot ID: `MTY0Nzk5NzAwOSwwMDAwMDAwMGJlNzBlZTFjMWM1OTQxZmRjY2E2MWViMTVlNmJkN2Zi`

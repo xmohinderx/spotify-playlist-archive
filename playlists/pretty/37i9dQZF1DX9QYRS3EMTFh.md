@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,593 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,640 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
+| 1 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 2 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [How We Do It](https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij) | 3:02 |
 | 3 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 4 | [Rayi](https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR) | [CRAAZY](https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd), [WAH WAAH](https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Rayi](https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66) | 3:12 |

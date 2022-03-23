@@ -1162,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 141147,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 178819,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/3SxanlzIPK7fIZ57EaF7lV"
@@ -2605,6 +2623,28 @@
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140665,
+      "name": "IDGAF (with blackbear)",
+      "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
     },
     {
       "album": {
@@ -5083,7 +5123,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 195744,
       "name": "Rajosan",
       "url": "https://open.spotify.com/track/5yP7ZMMAbaZQMfBirBBCen"
@@ -5883,7 +5923,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

@@ -1,12 +1,12 @@
 {
   "description": "write a letter to a friend today. cover: stilly woozy & remi wolfy",
-  "num_followers": 916351,
+  "num_followers": 916374,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYyOTU4NSwwMDAwMDM0ODAwMDAwMTdmOWU2MDRiYjcwMDAwMDE3ZjlhMDlkZDM4",
+  "snapshot_id": "MTY0Nzk2NDg2OCwwMDAwMDM0OTAwMDAwMTdmYjI1YzRmNmIwMDAwMDE3ZjlhMDlkZDM4",
   "tracks": [
     {
       "added_at": "2022-03-17 22:41:08",
@@ -125,6 +125,26 @@
       "url": "https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk"
     },
     {
+      "added_at": "2022-03-22 16:01:08",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3Vxc7fLBmG8vNk6G6Va9Nz"
+    },
+    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "u dont kno me",
@@ -213,6 +233,22 @@
       "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
+      "added_at": "2022-03-18 18:53:05",
+      "album": {
+        "name": "Who Am I But Someone",
+        "url": "https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 162379,
+      "name": "Who Am I But Someone",
+      "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"
+    },
+    {
       "added_at": "2022-03-02 20:14:15",
       "album": {
         "name": "It's Random",
@@ -293,20 +329,20 @@
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
-      "added_at": "2022-03-18 18:53:05",
+      "added_at": "2022-03-22 16:01:08",
       "album": {
-        "name": "Who Am I But Someone",
-        "url": "https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43"
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
         }
       ],
-      "duration_ms": 162379,
-      "name": "Who Am I But Someone",
-      "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"
+      "duration_ms": 205949,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj"
     },
     {
       "added_at": "2022-02-11 00:18:07",

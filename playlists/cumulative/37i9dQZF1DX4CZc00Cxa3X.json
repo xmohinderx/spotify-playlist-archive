@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 300070,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO"
@@ -57,6 +57,24 @@
       "duration_ms": 116013,
       "name": "All We Can't See",
       "url": "https://open.spotify.com/track/5CO4UIfBWDillkIS3a1oTb"
+    },
+    {
+      "album": {
+        "name": "Ancient Pathways",
+        "url": "https://open.spotify.com/album/4lLj4XS2JmaScVyp2DElvc"
+      },
+      "artists": [
+        {
+          "name": "Luke Sanger",
+          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297615,
+      "name": "Ancient Pathways",
+      "url": "https://open.spotify.com/track/0oUWdYdMOf00SuMqLzZS1e"
     },
     {
       "album": {
@@ -115,7 +133,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 341226,
       "name": "Baker's Dolphin",
       "url": "https://open.spotify.com/track/0pvSZn0ubo1g1j1f4bihI6"
@@ -369,10 +387,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 184342,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/763djtvLAPkAhk6t5oOUoi"
+    },
+    {
+      "album": {
+        "name": "Book of Life",
+        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264683,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
     },
     {
       "album": {
@@ -423,10 +459,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 279367,
       "name": "Grat",
       "url": "https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso"
+    },
+    {
+      "album": {
+        "name": "Natsukashii",
+        "url": "https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317313,
+      "name": "I Hold Dearly (For Miles)",
+      "url": "https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE"
     },
     {
       "album": {
@@ -463,6 +517,28 @@
       "duration_ms": 1254000,
       "name": "Intorno allo schermo",
       "url": "https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH"
+    },
+    {
+      "album": {
+        "name": "Klass (Robot Koch Rework)",
+        "url": "https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Klass - Robot Koch Rework",
+      "url": "https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1"
     },
     {
       "album": {
@@ -539,6 +615,24 @@
       "duration_ms": 422407,
       "name": "Lil Bub's Story",
       "url": "https://open.spotify.com/track/6910PssSMId7YtYot1aI43"
+    },
+    {
+      "album": {
+        "name": "Love Is The Tune",
+        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220687,
+      "name": "Love Is The Tune",
+      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
     },
     {
       "album": {
@@ -756,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Resolve",
+        "url": "https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9"
+      },
+      "artists": [
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189470,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N"
+    },
+    {
+      "album": {
         "name": "Fools' Harp, Vol. 1",
         "url": "https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf"
       },
@@ -785,7 +897,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 636500,
       "name": "Scraping Bottom",
       "url": "https://open.spotify.com/track/4Ogz3gT1fLa1QbJEqRQhWM"
@@ -879,7 +991,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 235133,
       "name": "Slipping the Mooring/Pond",
       "url": "https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt"
@@ -897,7 +1009,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 240277,
       "name": "Space 5",
       "url": "https://open.spotify.com/track/3hj4aPlRreailkV20LbAYK"
@@ -923,6 +1035,24 @@
       "duration_ms": 187858,
       "name": "Spinnaker on a Southerly",
       "url": "https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC"
+    },
+    {
+      "album": {
+        "name": "Bomani",
+        "url": "https://open.spotify.com/album/0nUNrbg1HfP1COqD1AdR84"
+      },
+      "artists": [
+        {
+          "name": "Oli Bayston",
+          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "Staccato",
+      "url": "https://open.spotify.com/track/0v3OSsEGDTL2ZYHnkjur0A"
     },
     {
       "album": {
@@ -977,7 +1107,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 187992,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3"
@@ -1105,6 +1235,28 @@
       "duration_ms": 177066,
       "name": "Unfolding (feat. Goldmund)",
       "url": "https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N"
+    },
+    {
+      "album": {
+        "name": "Upstream",
+        "url": "https://open.spotify.com/album/6ckbxqv6WBX9MbmkaC3axo"
+      },
+      "artists": [
+        {
+          "name": "Halftribe",
+          "url": "https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb"
+        },
+        {
+          "name": "awakened souls",
+          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211983,
+      "name": "Upstream",
+      "url": "https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i"
     },
     {
       "album": {

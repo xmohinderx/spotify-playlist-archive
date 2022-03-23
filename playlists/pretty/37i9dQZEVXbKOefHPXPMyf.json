@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
-  "num_followers": 17964,
+  "num_followers": 17962,
   "original_name": "Viral 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAxMTc5MTY3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAxMjY4MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -45,7 +81,7 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
@@ -61,23 +97,7 @@
       "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Gonna Be Okay",
-        "url": "https://open.spotify.com/album/3zUtl4EgwZCX84UD4O1FHb"
-      },
-      "artists": [
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Gonna Be Okay",
-      "url": "https://open.spotify.com/track/2zZuQRgs9xNBXwdZUFEGE6"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb"
@@ -93,7 +113,211 @@
       "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Gonna Be Okay",
+        "url": "https://open.spotify.com/album/3zUtl4EgwZCX84UD4O1FHb"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Gonna Be Okay",
+      "url": "https://open.spotify.com/track/2zZuQRgs9xNBXwdZUFEGE6"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "People of The Pride",
+      "url": "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Best Part (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Una Cunumi (Remix)",
+        "url": "https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf"
+      },
+      "artists": [
+        {
+          "name": "Qmayb",
+          "url": "https://open.spotify.com/artist/6u5q0dSiIW3pSx4YcpgZro"
+        },
+        {
+          "name": "J.Gonzo",
+          "url": "https://open.spotify.com/artist/4KtAbxuDjz4zt0UydnQB9h"
+        },
+        {
+          "name": "Fara\u00f3n Love Shady",
+          "url": "https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn"
+        },
+        {
+          "name": "Xvideo Token",
+          "url": "https://open.spotify.com/artist/5Ug0mwuVTPzJU3tguFv6ZA"
+        }
+      ],
+      "duration_ms": 270663,
+      "name": "Una Cunumi - Remix",
+      "url": "https://open.spotify.com/track/07sQOuFnAKkgT81abNu1m9"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
@@ -133,299 +357,7 @@
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Ahora Y Siempre",
-        "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora Y Siempre",
-      "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "People of The Pride",
-      "url": "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Una Cunumi (Remix)",
-        "url": "https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf"
-      },
-      "artists": [
-        {
-          "name": "Qmayb",
-          "url": "https://open.spotify.com/artist/6u5q0dSiIW3pSx4YcpgZro"
-        },
-        {
-          "name": "J.Gonzo",
-          "url": "https://open.spotify.com/artist/4KtAbxuDjz4zt0UydnQB9h"
-        },
-        {
-          "name": "Fara\u00f3n Love Shady",
-          "url": "https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn"
-        },
-        {
-          "name": "Xvideo Token",
-          "url": "https://open.spotify.com/artist/5Ug0mwuVTPzJU3tguFv6ZA"
-        }
-      ],
-      "duration_ms": 270663,
-      "name": "Una Cunumi - Remix",
-      "url": "https://open.spotify.com/track/07sQOuFnAKkgT81abNu1m9"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Nevermind (30th Anniversary Super Deluxe)",
-        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232203,
-      "name": "Something In The Way - Remastered",
-      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Best Part (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Spicy",
-        "url": "https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX"
-      },
-      "artists": [
-        {
-          "name": "Blxndy",
-          "url": "https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F"
-        },
-        {
-          "name": "Alldizy",
-          "url": "https://open.spotify.com/artist/3hY1a7dAWKcpkSw5zQnQFr"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Spicy",
-      "url": "https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
@@ -441,7 +373,55 @@
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Breakup Rituals",
+        "url": "https://open.spotify.com/album/6HmJht7GMMMb7UF1cHreiA"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Breakup Rituals",
+      "url": "https://open.spotify.com/track/69B0lXHJA5mrVsd9p5RJB6"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232203,
+      "name": "Something In The Way - Remastered",
+      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
@@ -461,7 +441,7 @@
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -477,43 +457,7 @@
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Highlighter",
         "url": "https://open.spotify.com/album/4v30SbRAgcJeSHZl0UM9ov"
@@ -529,7 +473,59 @@
       "url": "https://open.spotify.com/track/1Y0W1bPaO6iF3QVrqrH1cY"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Ahora Y Siempre",
+        "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "Ahora Y Siempre",
+      "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX"
+      },
+      "artists": [
+        {
+          "name": "Blxndy",
+          "url": "https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
@@ -545,7 +541,7 @@
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -565,7 +561,7 @@
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -581,55 +577,39 @@
       "url": "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
-        "name": "The Rumbling",
-        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 220799,
-      "name": "The Rumbling",
-      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
-        "name": "Breakup Rituals",
-        "url": "https://open.spotify.com/album/6HmJht7GMMMb7UF1cHreiA"
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
       "artists": [
         {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Breakup Rituals",
-      "url": "https://open.spotify.com/track/69B0lXHJA5mrVsd9p5RJB6"
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Cayo La Noche X Diles X Soy Peor",
         "url": "https://open.spotify.com/album/3frhrxgFMkirkmLDu6okds"
@@ -645,23 +625,71 @@
       "url": "https://open.spotify.com/track/4rvcqtRGH7DODsK9H6J1sd"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 153960,
-      "name": "Demasiadas Mujeres",
-      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Close Friends",
+        "url": "https://open.spotify.com/album/4wViRQZsi7uVK4JIyYqUaS"
+      },
+      "artists": [
+        {
+          "name": "KAVVO",
+          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Close Friends",
+      "url": "https://open.spotify.com/track/4wMXOcFLq0e73zlOj82gtY"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia"
@@ -681,155 +709,7 @@
       "url": "https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 198658,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "12x3",
-        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "JOSEFINA",
-        "url": "https://open.spotify.com/album/6ljqQYbS3LX2JN3BTf4c1P"
-      },
-      "artists": [
-        {
-          "name": "Xeuz",
-          "url": "https://open.spotify.com/artist/7DAssSa8U1Ny7iRhshYCG3"
-        }
-      ],
-      "duration_ms": 125288,
-      "name": "JOSEFINA",
-      "url": "https://open.spotify.com/track/45ZD3R5IcDDYvFwaptyckB"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 150603,
-      "name": "Mesero",
-      "url": "https://open.spotify.com/track/5WG5YepJrJ13Fxh4V2oLCr"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
@@ -849,35 +729,59 @@
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4UOzvysEvszNx8c4kzqHk9"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "Poseidon",
-          "url": "https://open.spotify.com/artist/1gxdThXHiWiUTGIrOS7kpw"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "RVS",
-          "url": "https://open.spotify.com/artist/6ZAaL51t20ryEyzYYwb3OM"
-        },
-        {
-          "name": "Brayy Music",
-          "url": "https://open.spotify.com/artist/5fUGhPWKsteeoQfBWuIouM"
-        },
-        {
-          "name": "King Pride",
-          "url": "https://open.spotify.com/artist/5VnuplnWQXIg34e6zcTQcD"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/1T2zW5YYHxPauHtGE4Aqnz"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -893,7 +797,55 @@
       "url": "https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms"
     },
     {
-      "added_at": "2022-03-21 11:59:27",
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "JOSEFINA",
+        "url": "https://open.spotify.com/album/6ljqQYbS3LX2JN3BTf4c1P"
+      },
+      "artists": [
+        {
+          "name": "Xeuz",
+          "url": "https://open.spotify.com/artist/7DAssSa8U1Ny7iRhshYCG3"
+        }
+      ],
+      "duration_ms": 125288,
+      "name": "JOSEFINA",
+      "url": "https://open.spotify.com/track/45ZD3R5IcDDYvFwaptyckB"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 144767,
+      "name": "La Jaula Perfecta",
+      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
       "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
@@ -907,6 +859,54 @@
       "duration_ms": 285014,
       "name": "Magic",
       "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266704,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/23BO6YozrAXUta1buxFZ80"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 150603,
+      "name": "Mesero",
+      "url": "https://open.spotify.com/track/5WG5YepJrJ13Fxh4V2oLCr"
+    },
+    {
+      "added_at": "2022-03-22 12:43:20",
+      "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Demasiadas Mujeres",
+      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

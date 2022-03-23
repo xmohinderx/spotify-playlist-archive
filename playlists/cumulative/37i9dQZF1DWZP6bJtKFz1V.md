@@ -162,5 +162,6 @@
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2022-02-04 | 2022-02-26 |
 | [Wish I Was You](https://open.spotify.com/track/2wbY4rxFUCDyvK7mksf5HG) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Wish I Was You](https://open.spotify.com/album/5E8qV4Xas0bLhhZJiNbPoq) | 3:07 | 2022-02-04 |  |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 |  |
+| [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-22 |  |
 
 \*This playlist was first scraped on 2022-02-20. Prior content cannot be recovered.

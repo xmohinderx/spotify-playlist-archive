@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/0hbD19vNbfBDwO6XTujWSR"
+      },
+      "artists": [
+        {
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj"
+    },
+    {
+      "album": {
         "name": "Hombres de Tango",
         "url": "https://open.spotify.com/album/0z5WiVVrflrv0kOEK8Rp1D"
       },
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 247026,
       "name": "El Abrojito",
       "url": "https://open.spotify.com/track/0lUpFlDOBJet7WTlJFJQuN"
@@ -598,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
+    },
+    {
+      "album": {
         "name": "Tangos, Valses y Milongas",
         "url": "https://open.spotify.com/album/0zUIMASaUr80TPLQAOhpzT"
       },
@@ -693,7 +729,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
@@ -733,7 +769,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 216000,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/0sGwLqFBrk2PvQsOaRTRm2"
@@ -882,6 +918,28 @@
     },
     {
       "album": {
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+      },
+      "artists": [
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Daniel Ruggiero",
+          "url": "https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN"
+    },
+    {
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -904,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/7m1QwhnnoDSADhNR4B7MMo"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/5tAtT9VWE81LtxdOtX5tft"
+    },
+    {
+      "album": {
         "name": "Desd\u00e9n [1933-1935]",
         "url": "https://open.spotify.com/album/4DlSPp6Uy6H5CrLWla9scB"
       },
@@ -919,6 +995,24 @@
       "duration_ms": 157727,
       "name": "Mi Buenos Aires Querido",
       "url": "https://open.spotify.com/track/0iVdym2atUN2WcutBb12Ew"
+    },
+    {
+      "album": {
+        "name": "Bandoneon Es Cultura",
+        "url": "https://open.spotify.com/album/05RUxy0iXQPPeBDsQsmdAa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ruggiero",
+          "url": "https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335334,
+      "name": "Mi Tango Triste",
+      "url": "https://open.spotify.com/track/2YH37uc9M1dJGWFTcTKjDM"
     },
     {
       "album": {
@@ -955,7 +1049,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 230160,
       "name": "Mimi Pinson (with Gran Orquesta T\u00edpica OTRA)",
       "url": "https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp"
@@ -1031,7 +1125,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 291586,
       "name": "Oto\u00f1o porte\u00f1o",
       "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
@@ -1209,6 +1303,24 @@
       "duration_ms": 208133,
       "name": "Se Dice De Mi",
       "url": "https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H"
+    },
+    {
+      "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/7m1QwhnnoDSADhNR4B7MMo"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161061,
+      "name": "Se Tiran Conmigo",
+      "url": "https://open.spotify.com/track/5KYdddAIgq8X5sgUByxQEs"
     },
     {
       "album": {

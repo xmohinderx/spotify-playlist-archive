@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,250 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,299 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 2 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 |
-| 3 | [SOLO DISCO](https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF) | [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap), [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [SOLO DISCO](https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv) | 3:54 |
+| 3 | [SOLO DISCO](https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2), [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap) | [SOLO DISCO](https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv) | 3:54 |
 | 4 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 |
 | 5 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 6 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |

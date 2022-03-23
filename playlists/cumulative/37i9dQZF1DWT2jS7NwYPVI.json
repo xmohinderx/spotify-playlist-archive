@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "Disaster Girl",
+        "url": "https://open.spotify.com/album/1UCrUZHeQ7ohG9Z1H0YxsU"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150046,
+      "name": "Disaster Girl",
+      "url": "https://open.spotify.com/track/0AgZmVy57KygTp6eYHHBkk"
+    },
+    {
+      "album": {
         "name": "MAYDAY",
         "url": "https://open.spotify.com/album/2eM5RdClvGdtMXTnBDkGth"
       },

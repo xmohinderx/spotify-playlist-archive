@@ -1,12 +1,12 @@
 {
   "description": "Great songs by indisputable music legends. Cover: David Bowie\n",
-  "num_followers": 3077571,
+  "num_followers": 3077921,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDE2MywwMDAwMDAwMGMwMjdmOWVmNjk2YzNjYzNlYzFjMzNhNmY1NzBjM2Fj",
+  "snapshot_id": "MTY0Nzk5NjkzMCwwMDAwMDAwMDc3NzMxN2E4Y2RjNTQxMjQ3M2IwMjZjYjI2NzY4MmRj",
   "tracks": [
     {
       "added_at": "2022-01-21 11:38:49",
@@ -75,38 +75,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Making Movies (Remastered)",
-        "url": "https://open.spotify.com/album/2thaV3YkqjK7f2AL8LC4xF"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Romeo And Juliet",
-      "url": "https://open.spotify.com/track/2fF7mQOxo1SZuIMHTQgQD8"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -139,66 +107,34 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
+        "name": "Making Movies (Remastered)",
+        "url": "https://open.spotify.com/album/2thaV3YkqjK7f2AL8LC4xF"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
+      "duration_ms": 360666,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/2fF7mQOxo1SZuIMHTQgQD8"
     },
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/59fLzpUXqk2dx3CMfECVlG"
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 314200,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/4pU7ed71DOZozQrBQzqkdw"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -219,34 +155,34 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Dire Straits (Remastered)",
-        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
+        "name": "Electric Warrior (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 348624,
-      "name": "Sultans Of Swing",
-      "url": "https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj"
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b"
     },
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/59fLzpUXqk2dx3CMfECVlG"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+      "duration_ms": 314200,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/4pU7ed71DOZozQrBQzqkdw"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -267,8 +203,124 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Tea for the Tillerman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Dire Straits (Remastered)",
+        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 348624,
+      "name": "Sultans Of Swing",
+      "url": "https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Dancing In The Street E.P.",
+        "url": "https://open.spotify.com/album/25vNR2X4RTa0UJ9aKqaXqz"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "Dancing in the Street - 2002 Remaster",
+      "url": "https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
       "artists": [
         {
@@ -276,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -299,34 +351,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Green River (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/30sgpxWf6U9417FySmLEGK"
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/6NxsCnLeLd8Ai1TrgGxzIx"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -363,58 +399,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Tea for the Tillerman (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Electric Warrior (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn"
       },
@@ -431,18 +415,34 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Outlandos D'Amour (Remastered)",
-        "url": "https://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I"
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Roxanne - Remastered 2003",
-      "url": "https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu"
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/3ODpKosFeC5OEVV3T8oyM7"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/4iFiqGqxaEQzm1CfoGVZib"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -463,18 +463,22 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/3ODpKosFeC5OEVV3T8oyM7"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/4iFiqGqxaEQzm1CfoGVZib"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -511,34 +515,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+        "name": "Green River (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/30sgpxWf6U9417FySmLEGK"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/6NxsCnLeLd8Ai1TrgGxzIx"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -559,34 +547,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+        "name": "If You Can Believe Your Eyes And Ears",
+        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
         }
       ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+      "duration_ms": 157960,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -607,18 +579,66 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -639,22 +659,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Back In The World",
-        "url": "https://open.spotify.com/album/2rrxATdBTvNt2i9lJo68qU"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/1q4XkQXsmgDgK2S1Umqf7D"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -667,154 +671,6 @@
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono / 1997 Remastered",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "If You Can Believe Your Eyes And Ears",
-        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Dancing In The Street E.P.",
-        "url": "https://open.spotify.com/album/25vNR2X4RTa0UJ9aKqaXqz"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "Mick Jagger",
-          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "Dancing in the Street - 2002 Remaster",
-      "url": "https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5tqJNAjU163MfKLIP6DtYu"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/2KmEgiY8fQs0G6WNxtzQKr"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/6eXE4xeu9GHSa8zTEVtFep"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/4BGJSbB5rAcg4pNzD4gfxU"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Fisherman's Blues",
-        "url": "https://open.spotify.com/album/3CxjmGIpb4n6KTnbtK0n1X"
-      },
-      "artists": [
-        {
-          "name": "The Waterboys",
-          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Fisherman's Blues - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0i0yTnhVQV2J44vrLVU3dD"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -839,22 +695,98 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB"
+        "name": "Back In The World",
+        "url": "https://open.spotify.com/album/2rrxATdBTvNt2i9lJo68qU"
       },
       "artists": [
         {
           "name": "Paul McCartney",
           "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 313026,
-      "name": "Band On The Run - Remastered 2010",
-      "url": "https://open.spotify.com/track/40b31eggZB30hoqXhGm4qc"
+      "duration_ms": 184973,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/1q4XkQXsmgDgK2S1Umqf7D"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Gimme Some Lovin' / Blues In F",
+        "url": "https://open.spotify.com/album/1QIHvq5BFwNaWgamY5bNUs"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/6eXE4xeu9GHSa8zTEVtFep"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/4BGJSbB5rAcg4pNzD4gfxU"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5tqJNAjU163MfKLIP6DtYu"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/2KmEgiY8fQs0G6WNxtzQKr"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -875,22 +807,178 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "The Essential Van Morrison",
-        "url": "https://open.spotify.com/album/0RTU4KkKPJ5n8KnV18OaJs"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Gloria - Stereo Version",
-      "url": "https://open.spotify.com/track/6aMg17mRAbKDayw8pRRADw"
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Out Of Our Heads (Remastered)",
+        "url": "https://open.spotify.com/album/24V2ghp7XhGZzWKjthHq4v"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+      "url": "https://open.spotify.com/track/7fSGbZLhWlAiCC3HDPAULu"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2pGauFKmGf1hBufzPGR9ky"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/5nvjZnTa1PUFV8hfrcMKYc"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Running on Empty",
+        "url": "https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Running on Empty",
+      "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 510933,
+      "name": "Money For Nothing",
+      "url": "https://open.spotify.com/track/4WfGrAJVC3A5xhUTja0gUG"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Fisherman's Blues",
+        "url": "https://open.spotify.com/album/3CxjmGIpb4n6KTnbtK0n1X"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Fisherman's Blues - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0i0yTnhVQV2J44vrLVU3dD"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Beggars Banquet",
+        "url": "https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 377746,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -911,18 +999,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
-        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+        "name": "Don't Shoot Me I'm Only The Piano Player (Remastered)",
+        "url": "https://open.spotify.com/album/6MeZQmdd5TO3vdtyFCFNBe"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 318026,
-      "name": "Space Oddity - 2015 Remaster",
-      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/4v6koasIv1ksU2P9iWqfRV"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -959,82 +1047,50 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Gimme Some Lovin' / Blues In F",
-        "url": "https://open.spotify.com/album/1QIHvq5BFwNaWgamY5bNUs"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
       "artists": [
         {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4"
+      "duration_ms": 179760,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
     },
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player (Remastered)",
-        "url": "https://open.spotify.com/album/6MeZQmdd5TO3vdtyFCFNBe"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/4v6koasIv1ksU2P9iWqfRV"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Brothers In Arms (Remastered)",
-        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 510933,
-      "name": "Money For Nothing",
-      "url": "https://open.spotify.com/track/4WfGrAJVC3A5xhUTja0gUG"
+      "duration_ms": 244826,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4dwrL3Z5U2RZ6MZiKE2PgL"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -1055,98 +1111,38 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2pGauFKmGf1hBufzPGR9ky"
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/5nvjZnTa1PUFV8hfrcMKYc"
+      "duration_ms": 313026,
+      "name": "Band On The Run - Remastered 2010",
+      "url": "https://open.spotify.com/track/40b31eggZB30hoqXhGm4qc"
     },
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
       },
       "artists": [
         {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 243493,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
-        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "A Whiter Shade Of Pale",
-        "url": "https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K"
-      },
-      "artists": [
-        {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade Of Pale",
-      "url": "https://open.spotify.com/track/3qitymULqEibr7yknRMKU4"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 313533,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
     }
   ],
   "unique_name": "Legendary",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: 1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,765 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,260 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 47 | [Bobby Shmurda](https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/474RT27VhUBkRpOEMCTCzr) | 2:56 |
 | 48 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
 | 49 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
-| 50 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 |
 
-Snapshot ID: `MTY0NzU1ODEyMCwwMDAwMDExODAwMDAwMTdmOWExZGQyYWEwMDAwMDE3Zjg4ZDc1Y2Ex`
+Snapshot ID: `MTY0Nzk2Mzg3MiwwMDAwMDExOTAwMDAwMTdmYjI0ZDFkYjQwMDAwMDE3Zjg4ZDc1Y2Ex`

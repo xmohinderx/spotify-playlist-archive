@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: salem ilese, TOMORROW X TOGETHER, Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,047 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,319 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 38 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 |
 | 39 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [Woosung](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 |
 | 40 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 |
-| 41 | [Last Breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Last Breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 |
+| 41 | [last breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [last breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 |
 | 42 | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space \(feat\. YUNHO, SAN, JONGHO of ATEEZ\)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 |
 | 43 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 |
 | 44 | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Someday \(feat\. Sam Kim\)](https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA) | 4:10 |

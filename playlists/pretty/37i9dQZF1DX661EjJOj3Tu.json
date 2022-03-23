@@ -1,13 +1,29 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 458986,
+  "num_followers": 459066,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDQ3MiwwMDAwMDAwMDJmNTg5OGNmMWU1ODc1YWUwNTY0ODljMGJiODgzZThm",
+  "snapshot_id": "MTY0Nzk5NzI0MSwwMDAwMDAwMGEwZmU3NWJjYzM1NDk0OTI3MTI4ZGU2N2Y5M2EwNGY4",
   "tracks": [
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 119560,
+      "name": "Samba De Orfeu",
+      "url": "https://open.spotify.com/track/7qgHLXpJpbxkRQt7rgGC7s"
+    },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
@@ -31,66 +47,62 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
         }
       ],
-      "duration_ms": 119560,
-      "name": "Samba De Orfeu",
-      "url": "https://open.spotify.com/track/7qgHLXpJpbxkRQt7rgGC7s"
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
-        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
       "artists": [
         {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigua",
-      "url": "https://open.spotify.com/track/2nRmc4GL2U1Ehrqzf4eCqF"
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Sofrito",
-        "url": "https://open.spotify.com/album/4dqMy1Cc314df6rnSKD9Je"
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Sofrito",
-      "url": "https://open.spotify.com/track/727P24JrF2m6tUwVCaQDzq"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5dF8zBNO0jEBzv8BngOXC1"
-      },
-      "artists": [
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
         {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Bobby Carcass\u00e9s",
+          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
         }
       ],
-      "duration_ms": 149453,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/6B8ckWZ4p80Izvrqbywt0W"
+      "duration_ms": 417302,
+      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
+      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -135,6 +147,42 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Lagrimas Negras",
+      "url": "https://open.spotify.com/track/3fxPfBBMeYJQEzGT7oWVEy"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Latin Fever",
+        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        }
+      ],
+      "duration_ms": 314546,
+      "name": "Batida diferente",
+      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "Too Late Now",
         "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
@@ -147,6 +195,70 @@
       "duration_ms": 165933,
       "name": "Mambo Sangria",
       "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Sofrito",
+        "url": "https://open.spotify.com/album/4dqMy1Cc314df6rnSKD9Je"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Sofrito",
+      "url": "https://open.spotify.com/track/727P24JrF2m6tUwVCaQDzq"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
+        "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigua",
+      "url": "https://open.spotify.com/track/2nRmc4GL2U1Ehrqzf4eCqF"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 183902,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/3Fn6K2roSmzhKzp5BBJKJl"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -179,78 +291,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Lagrimas Negras",
-      "url": "https://open.spotify.com/track/3fxPfBBMeYJQEzGT7oWVEy"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 183902,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/3Fn6K2roSmzhKzp5BBJKJl"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Noche de Amor",
-        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        },
-        {
-          "name": "Juancho Vargas",
-          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
-        }
-      ],
-      "duration_ms": 443874,
-      "name": "Noche de Amor",
-      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "E Music",
         "url": "https://open.spotify.com/album/3pgTPEAzBxsAeTS7GCvIAw"
       },
@@ -263,6 +303,38 @@
       "duration_ms": 341066,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/60crTYYJLMAnAoCZfHMxvk"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "New Conceptions",
+        "url": "https://open.spotify.com/album/4lWVDzxHpWQbyUSrR5AyiH"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 416933,
+      "name": "La Comparsa",
+      "url": "https://open.spotify.com/track/0cWrotZwqQAUrYpEeliVuR"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5dF8zBNO0jEBzv8BngOXC1"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/6B8ckWZ4p80Izvrqbywt0W"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -307,58 +379,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "New Conceptions",
-        "url": "https://open.spotify.com/album/4lWVDzxHpWQbyUSrR5AyiH"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 416933,
-      "name": "La Comparsa",
-      "url": "https://open.spotify.com/track/0cWrotZwqQAUrYpEeliVuR"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Latin Fever",
-        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Batida diferente",
-      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Antonio Carlos Jobim: Finest Hour",
-        "url": "https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -371,46 +391,6 @@
       "duration_ms": 341560,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Bobby Carcass\u00e9s",
-          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
-        }
-      ],
-      "duration_ms": 417302,
-      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
-      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -431,274 +411,18 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 152266,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Spanish Rice (LPR)",
-        "url": "https://open.spotify.com/album/17JWWKVEpoVyTCmbEiaxQG"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        },
-        {
-          "name": "Chico O'Farrill",
-          "url": "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "Spanish Rice",
-      "url": "https://open.spotify.com/track/56NzWjVrBucaK1uw7z6BPM"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Como Traigo La Yuca - Live",
-      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Spanish Grease",
-        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Spanish Grease",
-      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Getz/Gilberto (Classics International Version)",
-        "url": "https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Corcovado - Quiet Nights Of Quiet Stars",
-      "url": "https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/2luJt11G0LhifoFxAwNIra"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/0GhWjjPsJ5xyDeu5ZAuHmu"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 505323,
-      "name": "2/3's Adventure",
-      "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Home Cookin'",
-      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Good Morning Heartache",
-        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        },
-        {
-          "name": "Leo Gasso",
-          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 193177,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 251445,
-      "name": "Kachucha",
-      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Una Noche Con Rub\u00e9n Blades",
-        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 522080,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/62qut4QWc4SptIRYikqvBK"
+      "duration_ms": 541680,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -731,122 +455,130 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+        "name": "Antonio Carlos Jobim: Finest Hour",
+        "url": "https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy"
       },
       "artists": [
         {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         },
         {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "BeboChicoChuchoTuro",
-        "url": "https://open.spotify.com/album/1SqBgxgGA4HrqCEv03Mf7I"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "Arturo O'Farrill",
-          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 536309,
-      "name": "Bebochicochuchoturo",
-      "url": "https://open.spotify.com/track/2WQNDG0KKDMczbJLxvdxnJ"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "SALSWING!",
-        "url": "https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf"
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Roberto Delgado & Orquesta",
-          "url": "https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u"
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
         }
       ],
-      "duration_ms": 336947,
-      "name": "Paula C.",
-      "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Latin Jazz, Vol. 3",
-        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
+        "name": "Getz/Gilberto (Classics International Version)",
+        "url": "https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Mongo Santamarias Men",
-          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+      "duration_ms": 253933,
+      "name": "Corcovado - Quiet Nights Of Quiet Stars",
+      "url": "https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Fantasia Cubana: Variations On Classical Themes",
-        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Chopin: Prelude In E-Minor",
-      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+      "duration_ms": 505323,
+      "name": "2/3's Adventure",
+      "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Good Morning Heartache",
+        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         },
         {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
         },
         {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+          "name": "Leo Gasso",
+          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
         }
       ],
-      "duration_ms": 287986,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
+      "duration_ms": 193177,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -867,42 +599,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "The Best Of Chick Corea",
-        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "The Composer Of \" Desafinado\", Plays",
-        "url": "https://open.spotify.com/album/1GSPic4iOEoYADG6oCWoxY"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/7G5SnYd9QRVIrjmLVyeFwJ"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Broasted or Fried",
         "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
       },
@@ -915,6 +611,94 @@
       "duration_ms": 235543,
       "name": "Broasted or Fried",
       "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Spanish Rice (LPR)",
+        "url": "https://open.spotify.com/album/17JWWKVEpoVyTCmbEiaxQG"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        },
+        {
+          "name": "Chico O'Farrill",
+          "url": "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "Spanish Rice",
+      "url": "https://open.spotify.com/track/56NzWjVrBucaK1uw7z6BPM"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Fantasia Cubana: Variations On Classical Themes",
+        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Chopin: Prelude In E-Minor",
+      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -943,106 +727,58 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
-        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
       "artists": [
         {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 255813,
-      "name": "Sombras - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
-      "url": "https://open.spotify.com/track/6ywBy5WlBJHUBdRoRdpxeE"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 375706,
-      "name": "Curacao",
-      "url": "https://open.spotify.com/track/5jmtjYXYphbhRUTJ3AZE1P"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/73Orqh8gNy6wgoCTTEN5Jd"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
         },
         {
-          "name": "Aymee Nuviola",
-          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 324066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/2QpwAPgyuRCvL6fBEWvpUN"
+      "duration_ms": 251445,
+      "name": "Kachucha",
+      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Spanish Grease",
+        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Spanish Grease",
+      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "The Best Of Chick Corea",
+        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         },
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 388426,
-      "name": "People",
-      "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Border-Free",
-        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 549366,
-      "name": "Congadanza",
-      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+      "duration_ms": 216706,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1063,70 +799,38 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+      "duration_ms": 209173,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+        "name": "BeboChicoChuchoTuro",
+        "url": "https://open.spotify.com/album/1SqBgxgGA4HrqCEv03Mf7I"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 541680,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "El Manisero",
-        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
         },
         {
-          "name": "La Orquesta Sabor De Cuba",
-          "url": "https://open.spotify.com/artist/1R2g35OcpRS3uHoqT4RqdE"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 156640,
-      "name": "El Manisero - Mambo Son",
-      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Aggua",
-      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+      "duration_ms": 536309,
+      "name": "Bebochicochuchoturo",
+      "url": "https://open.spotify.com/track/2WQNDG0KKDMczbJLxvdxnJ"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1147,98 +851,18 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
-      },
-      "artists": [
-        {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
-        }
-      ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Musica Romantica",
-        "url": "https://open.spotify.com/album/1vIx5zBOhWbOW9ayztlv26"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/3wxMLF4APGuI5s7QmaR4MI"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Salsa-Jazz-Descarga",
-        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Condiciones Que Existen",
-      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 307817,
-      "name": "Canci\u00f3n Con Todos",
-      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1259,34 +883,58 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/2luJt11G0LhifoFxAwNIra"
       },
       "artists": [
         {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+      "duration_ms": 158893,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/0GhWjjPsJ5xyDeu5ZAuHmu"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-        "url": "https://open.spotify.com/album/4aulK0TyjbHCKcUPtZBXYF"
+        "name": "Musica Romantica",
+        "url": "https://open.spotify.com/album/1vIx5zBOhWbOW9ayztlv26"
       },
       "artists": [
         {
-          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 180413,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/6OPXHnJY3NMn5Qr6K1Qqty"
+      "duration_ms": 302693,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/3wxMLF4APGuI5s7QmaR4MI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Vicente Amigo",
+          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1311,110 +959,42 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
       },
       "artists": [
         {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
         }
       ],
-      "duration_ms": 477496,
+      "duration_ms": 291733,
       "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+        "name": "Una Noche Con Rub\u00e9n Blades",
+        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 396133,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/1R6miPh5RNqX26p6QWKYQq"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Tromboniseland\u00b42",
-        "url": "https://open.spotify.com/album/4EXSPGCpUUBOuDJkPCdC02"
-      },
-      "artists": [
-        {
-          "name": "Santiago Ca\u00f1ada",
-          "url": "https://open.spotify.com/artist/3ryOCnirfx63ZdrB3YhVs3"
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
         },
         {
-          "name": "Los Yakis",
-          "url": "https://open.spotify.com/artist/0IeW4k5OZdeYhrqtILPrb1"
-        }
-      ],
-      "duration_ms": 339937,
-      "name": "Tromboniseland\u00b42",
-      "url": "https://open.spotify.com/track/6VP5Nfm3iSdxo4DLfsqZOS"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/0gepih2TtnVxAv8K45y1wD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Tir\u00e1ndote Flores II",
-      "url": "https://open.spotify.com/track/1Q3BcUqaBamQCMYteR2mAI"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Slave to Love",
-        "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
-      },
-      "artists": [
-        {
-          "name": "BossArt Ensemble",
-          "url": "https://open.spotify.com/artist/3OvwaCrQZ9yTmwuQdwHOM1"
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
         },
         {
-          "name": "Marvin",
-          "url": "https://open.spotify.com/artist/1vS37gXPQ5Ne8eDbFzaMyF"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 211191,
-      "name": "Slave to Love",
-      "url": "https://open.spotify.com/track/28xiVJLGLwEHNFDzXKUIdY"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
+      "duration_ms": 522080,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/62qut4QWc4SptIRYikqvBK"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1439,18 +1019,158 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
       },
       "artists": [
         {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
+      "duration_ms": 375706,
+      "name": "Curacao",
+      "url": "https://open.spotify.com/track/5jmtjYXYphbhRUTJ3AZE1P"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 388426,
+      "name": "People",
+      "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Poncho At Montreux",
+        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 404680,
+      "name": "El Shing-A-Ling",
+      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Africa - Single",
+        "url": "https://open.spotify.com/album/7zjOH2EziEf8LP3wgGr519"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/54goL1KjbgwruLzJvdkgCn"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+        "url": "https://open.spotify.com/album/4aulK0TyjbHCKcUPtZBXYF"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/6OPXHnJY3NMn5Qr6K1Qqty"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/73Orqh8gNy6wgoCTTEN5Jd"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Aymee Nuviola",
+          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/2QpwAPgyuRCvL6fBEWvpUN"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1464,9 +1184,173 @@
           "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Descarga Cubana",
-      "url": "https://open.spotify.com/track/7KYZCnIiupT3cO6n03HrEI"
+      "duration_ms": 171866,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/4XOYfjUT8oKKuDAE1UrUPE"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+      },
+      "artists": [
+        {
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1Qqms5OVqOfiOWZtCYpwck"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Mario Bauz\u00e1",
+          "url": "https://open.spotify.com/artist/4ac8P2JGDFcQLNdGLm227f"
+        },
+        {
+          "name": "Bobby Woodlen",
+          "url": "https://open.spotify.com/artist/57kN0Ren5D3MzulY4HvkRu"
+        },
+        {
+          "name": "Grace Sampson",
+          "url": "https://open.spotify.com/artist/7uNF5LB5XkcRuxKixtqZRf"
+        }
+      ],
+      "duration_ms": 352693,
+      "name": "Mambo Inn (Remastered)",
+      "url": "https://open.spotify.com/track/2iQzD2Nsu682Ta394Zkyc1"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
+        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 255813,
+      "name": "Sombras - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
+      "url": "https://open.spotify.com/track/6ywBy5WlBJHUBdRoRdpxeE"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/0gepih2TtnVxAv8K45y1wD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tir\u00e1ndote Flores II",
+      "url": "https://open.spotify.com/track/1Q3BcUqaBamQCMYteR2mAI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "The Composer Of \" Desafinado\", Plays",
+        "url": "https://open.spotify.com/album/1GSPic4iOEoYADG6oCWoxY"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/7G5SnYd9QRVIrjmLVyeFwJ"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh"
+      },
+      "artists": [
+        {
+          "name": "Dafnis Prieto Sextet",
+          "url": "https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze"
+        }
+      ],
+      "duration_ms": 381060,
+      "name": "Amanecer Contigo",
+      "url": "https://open.spotify.com/track/5tjmjLcIwMhBT1UQ91VZpX"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Como Traigo La Yuca - Live",
+      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Latin Jazz, Vol. 3",
+        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        },
+        {
+          "name": "Mongo Santamarias Men",
+          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1487,8 +1371,48 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
+        "name": "Tr\u00edo Oriental",
+        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
+      },
+      "artists": [
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        },
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Fabi\u00e1n Miodownik",
+          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
+        }
+      ],
+      "duration_ms": 130346,
+      "name": "La Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "El Manisero",
+        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
       },
       "artists": [
         {
@@ -1496,13 +1420,193 @@
           "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
         },
         {
+          "name": "La Orquesta Sabor De Cuba",
+          "url": "https://open.spotify.com/artist/1R2g35OcpRS3uHoqT4RqdE"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "El Manisero - Mambo Son",
+      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/2MTrACUycdhqhQ9dYpxWJb"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Border-Free",
+        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
+      },
+      "artists": [
+        {
           "name": "Chucho Vald\u00e9s",
           "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 289986,
-      "name": "Descarga Valdes",
-      "url": "https://open.spotify.com/track/29w6NHhg0ZL9OtRnnvXgQc"
+      "duration_ms": 549366,
+      "name": "Congadanza",
+      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Reza",
+      "url": "https://open.spotify.com/track/4EpucAOoGXgSW5HScC8V1F"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "SALSWING!",
+        "url": "https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u"
+        }
+      ],
+      "duration_ms": 336947,
+      "name": "Paula C.",
+      "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
+        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 198783,
+      "name": "JazzT\u00f3n",
+      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 307817,
+      "name": "Canci\u00f3n Con Todos",
+      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Los Jibaros",
+      "url": "https://open.spotify.com/track/5TN80dTN1oDq9VBPxyQm7K"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1531,6 +1635,194 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 289986,
+      "name": "Descarga Valdes",
+      "url": "https://open.spotify.com/track/29w6NHhg0ZL9OtRnnvXgQc"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Jungla",
+      "url": "https://open.spotify.com/track/6FXvLNdsIalcrIHWV89lbm"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Tu, la Tierra",
+        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Rojas",
+          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "Tu, la Tierra",
+      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Slave to Love",
+        "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
+      },
+      "artists": [
+        {
+          "name": "BossArt Ensemble",
+          "url": "https://open.spotify.com/artist/3OvwaCrQZ9yTmwuQdwHOM1"
+        },
+        {
+          "name": "Marvin",
+          "url": "https://open.spotify.com/artist/1vS37gXPQ5Ne8eDbFzaMyF"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Slave to Love",
+      "url": "https://open.spotify.com/track/28xiVJLGLwEHNFDzXKUIdY"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Descarga Cubana",
+      "url": "https://open.spotify.com/track/7KYZCnIiupT3cO6n03HrEI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Salsa-Jazz-Descarga",
+        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Condiciones Que Existen",
+      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3QWx2J5GxHhoFwBAZrTVBy"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Ivan Lins, Chucho Vald\u00e9s e Irakere (Ao Vivo em Cuba)",
+        "url": "https://open.spotify.com/album/2kfE5y7Q5cJTC7scuI9Tjw"
+      },
+      "artists": [
+        {
+          "name": "Irakere",
+          "url": "https://open.spotify.com/artist/2xbLfmO8N89nCiA55XsSeI"
+        }
+      ],
+      "duration_ms": 517106,
+      "name": "La Explosi\u00f3n (Instrumental) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OmzzOmyVL0xf7pCkDyrAj"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/5PMPoFhrdz02jWnUfzoSK7"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "Trumpet Evolution",
         "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
       },
@@ -1547,302 +1839,18 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Transparency",
-        "url": "https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh"
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
       "artists": [
         {
-          "name": "Dafnis Prieto Sextet",
-          "url": "https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze"
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
         }
       ],
-      "duration_ms": 381060,
-      "name": "Amanecer Contigo",
-      "url": "https://open.spotify.com/track/5tjmjLcIwMhBT1UQ91VZpX"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Cuchi-Frito (Fried Neck Bones)",
-        "url": "https://open.spotify.com/album/0Mw1I3FlarhlfYCROHSz5l"
-      },
-      "artists": [
-        {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        }
-      ],
-      "duration_ms": 206563,
-      "name": "Cuchi-Frito (Fried Neck Bones)",
-      "url": "https://open.spotify.com/track/4jDOmbniEHzk2mlWg6TvxY"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Poncho At Montreux",
-        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 404680,
-      "name": "El Shing-A-Ling",
-      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
-        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 161306,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Africa - Single",
-        "url": "https://open.spotify.com/album/7zjOH2EziEf8LP3wgGr519"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/54goL1KjbgwruLzJvdkgCn"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Los Jibaros",
-      "url": "https://open.spotify.com/track/5TN80dTN1oDq9VBPxyQm7K"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/3LLgK3dDBb52uEjx6zyASp"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Azucar Pa' Ti",
-        "url": "https://open.spotify.com/album/2bTm7fKu9u78a9IxNfQFrt"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 575200,
-      "name": "Azucar",
-      "url": "https://open.spotify.com/track/3zDLckmowAL02zO0tbGqIX"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
-        "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 568773,
-      "name": "Guarachi Guaro - Live",
-      "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Rareza de Siglo (En Vivo)",
-        "url": "https://open.spotify.com/album/0PaJvLUbDjC72tmSXkxzQm"
-      },
-      "artists": [
-        {
-          "name": "Cucurucho Valdes",
-          "url": "https://open.spotify.com/artist/32brnIExDRCeGX0spDmRdc"
-        }
-      ],
-      "duration_ms": 518143,
-      "name": "Rareza de siglo",
-      "url": "https://open.spotify.com/track/20GpkyaDZAit5Ty7zP2vqz"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Don\u00b4t You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/5SSN8J2KnrpW1CLpKJhXXO"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Se E Tarde, Me Perdoa",
-      "url": "https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
-        }
-      ],
-      "duration_ms": 350062,
-      "name": "Last Happy Hour (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
+      "duration_ms": 166974,
+      "name": "Aggua",
+      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
     }
   ],
   "unique_name": "Latin Jazz",

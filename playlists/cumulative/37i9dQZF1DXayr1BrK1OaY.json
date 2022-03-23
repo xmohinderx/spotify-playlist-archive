@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1ItFsGOccsIUPb8GOA8qfP"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275324,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6hPSZ19sV4IE5FUmjoo964"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
       },
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 206564,
       "name": "Bicameral - Edit",
       "url": "https://open.spotify.com/track/3r12xxC2Euv8MWsK7eSXUv"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 211250,
       "name": "Share a Little Love (feat. LOWES)",
       "url": "https://open.spotify.com/track/1rt1whcFaJIXfOMiFL0GZG"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 338181,
       "name": "The Daisy",
       "url": "https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst"
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 252106,
       "name": "Violence - Club Mix",
       "url": "https://open.spotify.com/track/5oOlKEj3vJeivb5QGYJFKt"

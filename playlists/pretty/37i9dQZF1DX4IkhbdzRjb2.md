@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buscando Guayaba](https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:47 |
 | 2 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 3 | [Back In Love Again](https://open.spotify.com/track/6dQSzIIt4gNE9BpF02Tus4) | [L.T.D.](https://open.spotify.com/artist/5P53Exo01miUunItQyR2La), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Classics Volume 27](https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r) | 4:44 |
+| 3 | [Back In Love Again](https://open.spotify.com/track/6dQSzIIt4gNE9BpF02Tus4) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Classics Volume 27](https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r) | 4:44 |
 | 4 | [Seven Days in Sunny June](https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 3:57 |
 | 5 | [Rose rouge](https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:56 |
 | 6 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |

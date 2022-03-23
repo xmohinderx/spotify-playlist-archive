@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Avril Lavigne ",
-  "num_followers": 833587,
+  "num_followers": 833545,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDEwMCwwMDAwMDAwMGU2NGY2NmZjMzhlNjZmNDZmMDIxMGNlZjZmMzNmNmI3",
+  "snapshot_id": "MTY0Nzk5Njg2NiwwMDAwMDAwMDU4MjM2MThjMzQzNzNiNzdiMDk2YmI4OTZlOTJhZGQ5",
   "tracks": [
     {
       "added_at": "2022-03-09 07:27:16",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
         "name": "we could be so electric",
         "url": "https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV"
       },
@@ -151,6 +135,38 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "De Diepte",
+        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 176603,
+      "name": "De Diepte",
+      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
         "name": "Disciplina",
         "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
       },
@@ -163,6 +179,70 @@
       "duration_ms": 157625,
       "name": "Disciplina",
       "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "raznotsvetnaya",
+        "url": "https://open.spotify.com/album/1eSUakepJzzyD2XUjY1KKh"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 185530,
+      "name": "raznotsvetnaya",
+      "url": "https://open.spotify.com/track/5FSCVRmdUhEBYtk6Add4wx"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "FOOL",
+        "url": "https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "FOOL",
+      "url": "https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Ritorno Al Futuro / Back To The Future",
+        "url": "https://open.spotify.com/album/6H5SKANQcashhGmjQ3to7O"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Show's Rollin'",
+      "url": "https://open.spotify.com/track/3EI9L3ixBWCJcquR5RTFgG"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Stroom",
+        "url": "https://open.spotify.com/album/1w3CvhsyWSGxk2OthFXAFn"
+      },
+      "artists": [
+        {
+          "name": "Eva De Roovere",
+          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
+        }
+      ],
+      "duration_ms": 164498,
+      "name": "Stroom",
+      "url": "https://open.spotify.com/track/5eTvy0yCPmVCpvIbYA0wdW"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -199,74 +279,6 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "South America",
-        "url": "https://open.spotify.com/album/7xXheXMZ0WvXThjEbZliZI"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumbers",
-          "url": "https://open.spotify.com/artist/4rnhIGvHLD8BB1gaXLj1KH"
-        }
-      ],
-      "duration_ms": 190245,
-      "name": "South America",
-      "url": "https://open.spotify.com/track/5mj6J0EGaoV2pYajrcyxAn"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Stroom",
-        "url": "https://open.spotify.com/album/1w3CvhsyWSGxk2OthFXAFn"
-      },
-      "artists": [
-        {
-          "name": "Eva De Roovere",
-          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
-        }
-      ],
-      "duration_ms": 164498,
-      "name": "Stroom",
-      "url": "https://open.spotify.com/track/5eTvy0yCPmVCpvIbYA0wdW"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Chimica",
-        "url": "https://open.spotify.com/album/2DBfhRyn8ujtwUp3pTYvgc"
-      },
-      "artists": [
-        {
-          "name": "Ditonellapiaga",
-          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
-        },
-        {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Chimica",
-      "url": "https://open.spotify.com/track/5u4WqrYhQA5BUvqN5syYil"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Moje Sve",
-        "url": "https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Moje Sve",
-      "url": "https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
         "name": "Mishta'a",
         "url": "https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I"
       },
@@ -283,94 +295,34 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "De Diepte",
-        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
+        "name": "South America",
+        "url": "https://open.spotify.com/album/7xXheXMZ0WvXThjEbZliZI"
       },
       "artists": [
         {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "Golden Slumbers",
+          "url": "https://open.spotify.com/artist/4rnhIGvHLD8BB1gaXLj1KH"
         }
       ],
-      "duration_ms": 176603,
-      "name": "De Diepte",
-      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+      "duration_ms": 190245,
+      "name": "South America",
+      "url": "https://open.spotify.com/track/5mj6J0EGaoV2pYajrcyxAn"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "FOOL",
-        "url": "https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb"
+        "name": "Meet U Again",
+        "url": "https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP"
       },
       "artists": [
         {
-          "name": "Aina Abdul",
-          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+          "name": "RIIKI REID",
+          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
         }
       ],
-      "duration_ms": 179997,
-      "name": "FOOL",
-      "url": "https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Pedra",
-        "url": "https://open.spotify.com/album/5tKiYumWylU32f3ky8FpYb"
-      },
-      "artists": [
-        {
-          "name": "MARA",
-          "url": "https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ"
-        }
-      ],
-      "duration_ms": 204112,
-      "name": "Cora\u00e7\u00e3o de Pedra",
-      "url": "https://open.spotify.com/track/3YHkxbE7bRGdGVSIEXgooD"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Bura Na Mano Yaara",
-        "url": "https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx"
-      },
-      "artists": [
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
-        },
-        {
-          "name": "Sunny M.R.",
-          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "Bura Na Mano Yaara",
-      "url": "https://open.spotify.com/track/5JScryXKuz9DwQymFKFPcY"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 156737,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
+      "duration_ms": 155409,
+      "name": "Meet U Again",
+      "url": "https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -387,38 +339,6 @@
       "duration_ms": 182400,
       "name": "Free",
       "url": "https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "RUNNING IN CIRCLES",
-        "url": "https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE"
-      },
-      "artists": [
-        {
-          "name": "lya!",
-          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "RUNNING IN CIRCLES",
-      "url": "https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Ready, Let Go. (Songwriter\u2019s Version)",
-        "url": "https://open.spotify.com/album/5qBxuMEZJvtkpEWan9fPSj"
-      },
-      "artists": [
-        {
-          "name": "Keiko Necesario",
-          "url": "https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Ready, Let Go. - Songwriter\u2019s Version",
-      "url": "https://open.spotify.com/track/70MCD7juQnnJToj7OBySw5"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -443,6 +363,22 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1M0mLsmOkBSFHpSy2qJDpY"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "duration_ms": 200715,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/1M3abg3PWOnuflwbXUhcH6"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
         "name": "Cappuccino",
         "url": "https://open.spotify.com/album/25DheoRNWjv32utcAC6I25"
       },
@@ -459,18 +395,34 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "raznotsvetnaya",
-        "url": "https://open.spotify.com/album/1eSUakepJzzyD2XUjY1KKh"
+        "name": "Envoie-moi une musique",
+        "url": "https://open.spotify.com/album/7vwFWztbV6URCr1sfZPw94"
       },
       "artists": [
         {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
         }
       ],
-      "duration_ms": 185530,
-      "name": "raznotsvetnaya",
-      "url": "https://open.spotify.com/track/5FSCVRmdUhEBYtk6Add4wx"
+      "duration_ms": 163200,
+      "name": "Envoie-moi une musique",
+      "url": "https://open.spotify.com/track/4ZAob7Di5UKtW2bjwWZ94x"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Mirror Me",
+        "url": "https://open.spotify.com/album/6y5wzKUDXEUTgJAr8yjB6i"
+      },
+      "artists": [
+        {
+          "name": "Tolstoys",
+          "url": "https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J"
+        }
+      ],
+      "duration_ms": 150007,
+      "name": "Mirror Me",
+      "url": "https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -511,66 +463,34 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Meet U Again",
-        "url": "https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP"
+        "name": "Cora\u00e7\u00e3o de Pedra",
+        "url": "https://open.spotify.com/album/5tKiYumWylU32f3ky8FpYb"
       },
       "artists": [
         {
-          "name": "RIIKI REID",
-          "url": "https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC"
+          "name": "MARA",
+          "url": "https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Meet U Again",
-      "url": "https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO"
+      "duration_ms": 204112,
+      "name": "Cora\u00e7\u00e3o de Pedra",
+      "url": "https://open.spotify.com/track/3YHkxbE7bRGdGVSIEXgooD"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/1EZNGT5hsDKH7b2tLO6s3I"
+        "name": "Moje Sve",
+        "url": "https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
         }
       ],
-      "duration_ms": 251356,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/7I5SpqksVGppahx77uNC1Q"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Envoie-moi une musique",
-        "url": "https://open.spotify.com/album/7vwFWztbV6URCr1sfZPw94"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Envoie-moi une musique",
-      "url": "https://open.spotify.com/track/4ZAob7Di5UKtW2bjwWZ94x"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "\u05d4\u05dd \u05d9\u05d1\u05d5\u05d0\u05d5 \u05d0\u05dc\u05d9\u05d9",
-        "url": "https://open.spotify.com/album/05snKTc5NqkGKVT5fNjpbK"
-      },
-      "artists": [
-        {
-          "name": "Sima Noon",
-          "url": "https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz"
-        }
-      ],
-      "duration_ms": 143625,
-      "name": "\u05d4\u05dd \u05d9\u05d1\u05d5\u05d0\u05d5 \u05d0\u05dc\u05d9\u05d9",
-      "url": "https://open.spotify.com/track/1Tvti6QOuCkdQvHAZQOKD5"
+      "duration_ms": 162500,
+      "name": "Moje Sve",
+      "url": "https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -591,6 +511,38 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
+        "name": "Zew",
+        "url": "https://open.spotify.com/album/6GDQXxPZPfJhi5qrsYkMYS"
+      },
+      "artists": [
+        {
+          "name": "Natalia Przybysz",
+          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
+        }
+      ],
+      "duration_ms": 226703,
+      "name": "Zew",
+      "url": "https://open.spotify.com/track/1rXTQ8TgC9R6ENxFwXMZyK"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "RUNNING IN CIRCLES",
+        "url": "https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE"
+      },
+      "artists": [
+        {
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "RUNNING IN CIRCLES",
+      "url": "https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
         "name": "Lychee",
         "url": "https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK"
       },
@@ -603,70 +555,6 @@
       "duration_ms": 182448,
       "name": "Marry Myself",
       "url": "https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "El Sa3a Tes3a",
-        "url": "https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
-        }
-      ],
-      "duration_ms": 202898,
-      "name": "El Sa3a Tes3a",
-      "url": "https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Mirror Me",
-        "url": "https://open.spotify.com/album/6y5wzKUDXEUTgJAr8yjB6i"
-      },
-      "artists": [
-        {
-          "name": "Tolstoys",
-          "url": "https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J"
-        }
-      ],
-      "duration_ms": 150007,
-      "name": "Mirror Me",
-      "url": "https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Ritorno Al Futuro / Back To The Future",
-        "url": "https://open.spotify.com/album/6H5SKANQcashhGmjQ3to7O"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Show's Rollin'",
-      "url": "https://open.spotify.com/track/3EI9L3ixBWCJcquR5RTFgG"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Hills",
-        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 181279,
-      "name": "Hills",
-      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -687,66 +575,54 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "El Sa3a Tes3a",
+        "url": "https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 202898,
+      "name": "El Sa3a Tes3a",
+      "url": "https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "BITTERSWEET",
-        "url": "https://open.spotify.com/album/6r9fQoaWItkUCVUJTCOFaq"
+        "name": "Chimica",
+        "url": "https://open.spotify.com/album/2DBfhRyn8ujtwUp3pTYvgc"
       },
       "artists": [
         {
-          "name": "Joplyn",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        },
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
         }
       ],
-      "duration_ms": 320718,
-      "name": "BITTERSWEET",
-      "url": "https://open.spotify.com/track/5zUGWJBqTMamOeL58dMuRR"
+      "duration_ms": 181312,
+      "name": "Chimica",
+      "url": "https://open.spotify.com/track/5u4WqrYhQA5BUvqN5syYil"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Zew",
-        "url": "https://open.spotify.com/album/6GDQXxPZPfJhi5qrsYkMYS"
+        "name": "Ready, Let Go. (Songwriter\u2019s Version)",
+        "url": "https://open.spotify.com/album/5qBxuMEZJvtkpEWan9fPSj"
       },
       "artists": [
         {
-          "name": "Natalia Przybysz",
-          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
+          "name": "Keiko Necesario",
+          "url": "https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq"
         }
       ],
-      "duration_ms": 226703,
-      "name": "Zew",
-      "url": "https://open.spotify.com/track/1rXTQ8TgC9R6ENxFwXMZyK"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "See T\u00ecnh",
-        "url": "https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd"
-      },
-      "artists": [
-        {
-          "name": "Hoang Thuy Linh",
-          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "See T\u00ecnh",
-      "url": "https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF"
+      "duration_ms": 288000,
+      "name": "Ready, Let Go. - Songwriter\u2019s Version",
+      "url": "https://open.spotify.com/track/70MCD7juQnnJToj7OBySw5"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -767,82 +643,34 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "FCKN IN LOVE",
-        "url": "https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk"
+        "name": "\u05d4\u05dd \u05d9\u05d1\u05d5\u05d0\u05d5 \u05d0\u05dc\u05d9\u05d9",
+        "url": "https://open.spotify.com/album/05snKTc5NqkGKVT5fNjpbK"
       },
       "artists": [
         {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+          "name": "Sima Noon",
+          "url": "https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz"
         }
       ],
-      "duration_ms": 194419,
-      "name": "FCKN IN LOVE",
-      "url": "https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn"
+      "duration_ms": 143625,
+      "name": "\u05d4\u05dd \u05d9\u05d1\u05d5\u05d0\u05d5 \u05d0\u05dc\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/1Tvti6QOuCkdQvHAZQOKD5"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Ulubiona",
-        "url": "https://open.spotify.com/album/0ycfirvYIdoG148CoVpjJY"
+        "name": "\u7121\u5e38\u5bb6",
+        "url": "https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h"
       },
       "artists": [
         {
-          "name": "Sophie Szklarska",
-          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+          "name": "Yoyo Sham",
+          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
         }
       ],
-      "duration_ms": 208979,
-      "name": "Ulubiona",
-      "url": "https://open.spotify.com/track/2Sii5jhzjH9rJzjYC6Ljdb"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
-        "url": "https://open.spotify.com/album/5Lf8OGtwFeGTukBu13Arpv"
-      },
-      "artists": [
-        {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
-      "url": "https://open.spotify.com/track/5iitlJJnLGmVoUatPHvGfw"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Boni Nait\u00f3",
-        "url": "https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS"
+      "duration_ms": 239916,
+      "name": "\u7121\u5e38\u5bb6",
+      "url": "https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -863,34 +691,130 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Se metieron en mi casa",
-        "url": "https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5"
+        "name": "FCKN IN LOVE",
+        "url": "https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
         }
       ],
-      "duration_ms": 203064,
-      "name": "Se metieron en mi casa",
-      "url": "https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6"
+      "duration_ms": 194419,
+      "name": "FCKN IN LOVE",
+      "url": "https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn"
     },
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1M0mLsmOkBSFHpSy2qJDpY"
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
+        "url": "https://open.spotify.com/album/5Lf8OGtwFeGTukBu13Arpv"
       },
       "artists": [
         {
-          "name": "ena mori",
-          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
         }
       ],
-      "duration_ms": 200715,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/1M3abg3PWOnuflwbXUhcH6"
+      "duration_ms": 172750,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
+      "url": "https://open.spotify.com/track/5iitlJJnLGmVoUatPHvGfw"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "See T\u00ecnh",
+        "url": "https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "See T\u00ecnh",
+      "url": "https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/6r9fQoaWItkUCVUJTCOFaq"
+      },
+      "artists": [
+        {
+          "name": "Joplyn",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 320718,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/5zUGWJBqTMamOeL58dMuRR"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Ulubiona",
+        "url": "https://open.spotify.com/album/0ycfirvYIdoG148CoVpjJY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Szklarska",
+          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Ulubiona",
+      "url": "https://open.spotify.com/track/2Sii5jhzjH9rJzjYC6Ljdb"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Boni Nait\u00f3",
+        "url": "https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Moderation",
+        "url": "https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Moderation",
+      "url": "https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/1EZNGT5hsDKH7b2tLO6s3I"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "duration_ms": 251356,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I5SpqksVGppahx77uNC1Q"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -915,18 +839,34 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Moderation",
-        "url": "https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ"
       },
       "artists": [
         {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Moderation",
-      "url": "https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680"
+      "duration_ms": 168757,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Se metieron en mi casa",
+        "url": "https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Se metieron en mi casa",
+      "url": "https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -971,50 +911,30 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "\u7121\u5e38\u5bb6",
-        "url": "https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h"
+        "name": "Bura Na Mano Yaara",
+        "url": "https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx"
       },
       "artists": [
         {
-          "name": "Yoyo Sham",
-          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
-        }
-      ],
-      "duration_ms": 239916,
-      "name": "\u7121\u5e38\u5bb6",
-      "url": "https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "K\u0131saca",
-        "url": "https://open.spotify.com/album/4QXWW41Gks5Kw6c1KqkTY7"
-      },
-      "artists": [
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 247061,
-      "name": "K\u0131saca",
-      "url": "https://open.spotify.com/track/6ilRSwSsAfxrHLPo0sW1kF"
-    },
-    {
-      "added_at": "2022-03-09 07:27:16",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI"
-      },
-      "artists": [
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
         {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        },
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
         }
       ],
-      "duration_ms": 185591,
-      "name": "I Got Your Back",
-      "url": "https://open.spotify.com/track/0WNXgTgc9xpKWJITTBnKMm"
+      "duration_ms": 158125,
+      "name": "Bura Na Mano Yaara",
+      "url": "https://open.spotify.com/track/5JScryXKuz9DwQymFKFPcY"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -1035,6 +955,22 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 181279,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
         "name": "Buena Suerte Muchacha",
         "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
       },
@@ -1047,6 +983,70 @@
       "duration_ms": 193340,
       "name": "Buena Suerte Muchacha",
       "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 156737,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "K\u0131saca",
+        "url": "https://open.spotify.com/album/4QXWW41Gks5Kw6c1KqkTY7"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 247061,
+      "name": "K\u0131saca",
+      "url": "https://open.spotify.com/track/6ilRSwSsAfxrHLPo0sW1kF"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+    },
+    {
+      "added_at": "2022-03-09 07:27:16",
+      "album": {
+        "name": "Hanya Singgah",
+        "url": "https://open.spotify.com/album/63GTbvDLzFJtmtb6tbGt1p"
+      },
+      "artists": [
+        {
+          "name": "Prinsa Mandagie",
+          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+        }
+      ],
+      "duration_ms": 272086,
+      "name": "Hanya Singgah",
+      "url": "https://open.spotify.com/track/0ujcBFznK9ayq27eCpeNiK"
     },
     {
       "added_at": "2022-03-09 07:27:16",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-03-09 07:27:16",
       "album": {
-        "name": "Hanya Singgah",
-        "url": "https://open.spotify.com/album/63GTbvDLzFJtmtb6tbGt1p"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI"
       },
       "artists": [
         {
-          "name": "Prinsa Mandagie",
-          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
         }
       ],
-      "duration_ms": 272086,
-      "name": "Hanya Singgah",
-      "url": "https://open.spotify.com/track/0ujcBFznK9ayq27eCpeNiK"
+      "duration_ms": 185591,
+      "name": "I Got Your Back",
+      "url": "https://open.spotify.com/track/0WNXgTgc9xpKWJITTBnKMm"
     },
     {
       "added_at": "2022-03-09 07:27:16",

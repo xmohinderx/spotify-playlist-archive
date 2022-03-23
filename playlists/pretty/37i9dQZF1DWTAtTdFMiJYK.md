@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Parekh & Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,692 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,764 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 36 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 | 37 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 |
 | 38 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 |
-| 39 | [Kya Dekhu](https://open.spotify.com/track/2jhl4HxYbNC5OPvqxiodUG) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:05 |
+| 39 | [Safar](https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Safar](https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC) | 3:54 |
 | 40 | [jazba](https://open.spotify.com/track/6oFj20X1bo2PwVfedRZs6G) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jazba](https://open.spotify.com/album/60HHi0QYQpi4SOvHFAu0aU) | 5:35 |
 | 41 | [Khwaaish](https://open.spotify.com/track/3fCRkNn2uWBzMuRwi841pP) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [roshni](https://open.spotify.com/artist/5jdpVcss5rApltpJ53fwyW), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Shyam Renganathan](https://open.spotify.com/artist/6FhV9mVOAu3El9CJ5PJdf0) | [Khwaaish](https://open.spotify.com/album/0dftenaNNTJO61vGBrJdK7) | 3:49 |
 | 42 | [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 79 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 |
 | 80 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 |
 
-Snapshot ID: `MTY0NzkxMDA3MCwwMDAwMDAwMDQ3YWI3NWQ0ZGYxZmM1MGVjMDU2ODdkNTI2OTAxMjk0`
+Snapshot ID: `MTY0Nzk5NjgzNSwwMDAwMDAwMGU3YWQzMDMwYjZhOWI0NTJjYjA2MGYxN2I3ZTNhMTcw`

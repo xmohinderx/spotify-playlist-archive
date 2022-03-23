@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/4ecGGCNfUtlOKLYGcxrsUp"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 214573,
       "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 177319,
       "name": "Love",
       "url": "https://open.spotify.com/track/73cik4xfvTaCcUu2wPV47I"
@@ -1948,6 +1948,32 @@
     },
     {
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Moriah",
+          "url": "https://open.spotify.com/artist/3e2CbodV67R5Jtsids32yo"
+        },
+        {
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323946,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
+    },
+    {
+      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6UVAOA3Lnz3lZPBGn1u7Wl"
       },
@@ -1977,7 +2003,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
@@ -2057,10 +2083,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 197321,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3lE2ganUNX7vhzfIrpkZlv"
+    },
+    {
+      "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
     },
     {
       "album": {
@@ -2151,7 +2195,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 169435,
       "name": "River Of Life",
       "url": "https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau"
@@ -2313,7 +2357,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 212073,
       "name": "Sparrows - Live",
       "url": "https://open.spotify.com/track/58lXS7FKsA2XcX704Qgggd"
@@ -2531,7 +2575,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 245776,
       "name": "Turn It Over",
       "url": "https://open.spotify.com/track/0B8B1CtiX1UkfWmGV0aU7m"
@@ -2603,7 +2647,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1"
@@ -2647,7 +2691,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC"

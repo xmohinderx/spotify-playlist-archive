@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 90905,
+  "num_followers": 91207,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDIyNCwwMDAwMDAwMDIyYTU0Zjc4YTQ3MzllZTk5ODM2MDBjNTI5MjUwOTgx",
+  "snapshot_id": "MTY0Nzk5Njk5MCwwMDAwMDAwMDMzODhlNTQ5NmQ3MzFlNzEyMjZhODkzNTM5MWRhZjMx",
   "tracks": [
     {
       "added_at": "2021-04-29 11:00:17",
@@ -107,8 +107,8 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Open Arms",
-        "url": "https://open.spotify.com/album/6UhbbQb8x5pesyx5lSaXbe"
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
       "artists": [
         {
@@ -116,25 +116,9 @@
           "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 253592,
-      "name": "The Best - Edit",
-      "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Jump (For My Love)",
-      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -155,6 +139,22 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -167,6 +167,38 @@
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Jump (For My Love)",
+      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -187,18 +219,18 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
+      "duration_ms": 193920,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -219,6 +251,42 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "I Knew You Were Waiting (For Me)",
+      "url": "https://open.spotify.com/track/2XgDgIsVUOt9Lov5G4Wruy"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Open Arms",
+        "url": "https://open.spotify.com/album/6UhbbQb8x5pesyx5lSaXbe"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 253592,
+      "name": "The Best - Edit",
+      "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
       },
@@ -235,6 +303,22 @@
       "duration_ms": 289680,
       "name": "(I've Had) The Time of My Life",
       "url": "https://open.spotify.com/track/5UqqOfFa9DYXALpCCF8VwB"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -271,22 +355,6 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -299,90 +367,6 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Colour By Numbers",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Knew You Were Waiting (For Me)",
-      "url": "https://open.spotify.com/track/2XgDgIsVUOt9Lov5G4Wruy"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -403,70 +387,6 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Heaven on Earth (Remastered & Expanded Special Edition)",
-        "url": "https://open.spotify.com/album/08pQhv89ezKOhOKqZner5D"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/4V9BTST4BSkvOL4xIQNHuS"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Invisible Touch - Remastered 2007",
-      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
         "name": "The Essential Kenny Loggins",
         "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
       },
@@ -479,102 +399,6 @@
       "duration_ms": 226293,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
-    },
-    {
-      "added_at": "2021-10-05 14:21:04",
-      "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
-      },
-      "artists": [
-        {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 273773,
-      "name": "You Came",
-      "url": "https://open.spotify.com/track/4EA4ybyDidKtkER5IhasZe"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 382973,
-      "name": "All Night Long (All Night)",
-      "url": "https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Dance Hits - 80s & 90s",
-        "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "It's Raining Men - Single Version",
-      "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -595,34 +419,98 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Yazz",
-          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 268373,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Invisible Touch - Remastered 2007",
+      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -639,6 +527,38 @@
       "duration_ms": 298866,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Dance Hits - 80s & 90s",
+        "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "It's Raining Men - Single Version",
+      "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
+    },
+    {
+      "added_at": "2021-10-05 14:21:04",
+      "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -663,34 +583,50 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Get Outta My Dreams, Get Into My Car",
-      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "80s 100 Hits - Volume 2",
-        "url": "https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
       "artists": [
         {
-          "name": "Bucks Fizz",
-          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
         }
       ],
-      "duration_ms": 158440,
-      "name": "Making Your Mind Up",
-      "url": "https://open.spotify.com/track/5SXH73DSNyEC7hCovUbV0q"
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Heaven on Earth (Remastered & Expanded Special Edition)",
+        "url": "https://open.spotify.com/album/08pQhv89ezKOhOKqZner5D"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/4V9BTST4BSkvOL4xIQNHuS"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -711,162 +647,34 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Shakin' Stevens - The Collection",
-        "url": "https://open.spotify.com/album/3fi0yPXUa72eJAOQRN8W9R"
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
       },
       "artists": [
         {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
         }
       ],
-      "duration_ms": 172666,
-      "name": "You Drive Me Crazy - (Single Version) [Remastered]",
-      "url": "https://open.spotify.com/track/24e9ehPkZ6FtkMOdgxSGPQ"
+      "duration_ms": 268373,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "What A Feeling",
-        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "What A Feeling",
-      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Look Sharp! (2009 Version)",
-        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Discography - Complete Singles Collection",
-        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "A Guided Tour Of Madness",
-        "url": "https://open.spotify.com/album/0GWyRaEoYgcJ2sFBMgmrpm"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/3rOD3MfHaXawznE0vrjM5B"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Speak And Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Tell Her About It",
-      "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -887,82 +695,210 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
         }
       ],
-      "duration_ms": 274066,
-      "name": "Loco in Acapulco",
-      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
+      "duration_ms": 254240,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Ghost In The Machine (Remastered)",
-        "url": "https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 259500,
-      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
-      "url": "https://open.spotify.com/track/60HDLY1Dh2Hy9wTVI3WPzO"
+      "duration_ms": 382973,
+      "name": "All Night Long (All Night)",
+      "url": "https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Music From The Edge Of Heaven",
-        "url": "https://open.spotify.com/album/099le4PQZ57X2LY9xVNOpc"
+        "name": "80s 100 Hits - Volume 2",
+        "url": "https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
         }
       ],
-      "duration_ms": 270800,
-      "name": "The Edge of Heaven",
-      "url": "https://open.spotify.com/track/5AhRNIjYPBleR1lfHphcrE"
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/5SXH73DSNyEC7hCovUbV0q"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
+      "duration_ms": 284373,
+      "name": "Get Outta My Dreams, Get Into My Car",
+      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+        "name": "Shakin' Stevens - The Collection",
+        "url": "https://open.spotify.com/album/3fi0yPXUa72eJAOQRN8W9R"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 303493,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/5OKScc0MSa9Wl8g2zrulLn"
+      "duration_ms": 172666,
+      "name": "You Drive Me Crazy - (Single Version) [Remastered]",
+      "url": "https://open.spotify.com/track/24e9ehPkZ6FtkMOdgxSGPQ"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Can't Take My Eyes Off You",
+        "url": "https://open.spotify.com/album/5UD6SOM4JtmtTTJ3SNt1cU"
+      },
+      "artists": [
+        {
+          "name": "Boys Town Gang",
+          "url": "https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H"
+        }
+      ],
+      "duration_ms": 213016,
+      "name": "Can't Take My Eyes Off Of You - Original Radio Edit",
+      "url": "https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Speak And Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 273773,
+      "name": "You Came",
+      "url": "https://open.spotify.com/track/4EA4ybyDidKtkER5IhasZe"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "A Guided Tour Of Madness",
+        "url": "https://open.spotify.com/album/0GWyRaEoYgcJ2sFBMgmrpm"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3rOD3MfHaXawznE0vrjM5B"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Tell Her About It",
+      "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -983,54 +919,18 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "You Came - Single Version",
-      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/5YGJ1MscP8Pk4H2jAkRqpy"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        },
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "A Rockin' Good Way (To Mess Around and Fall In Love)",
-      "url": "https://open.spotify.com/track/2vbTr48Vc4y4PUEcGYYlvK"
+      "duration_ms": 204440,
+      "name": "I Should Be So Lucky",
+      "url": "https://open.spotify.com/track/1MK5FOmm5ppLIS2Ga3jHlT"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -1049,136 +949,36 @@
       "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
     },
     {
-      "added_at": "2021-10-05 14:21:04",
+      "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/6s4tgwHmTtjhU1oO1bjKGq"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
       },
       "artists": [
         {
-          "name": "The Bluebells",
-          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Young at Heart",
-      "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"
+      "duration_ms": 244826,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Baggariddim",
-        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
       },
       "artists": [
         {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        },
-        {
-          "name": "Chrissie Hynde",
-          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 189093,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Hot In The City - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/0MHTpNtTcrdseMWAhh7Sdp"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Take My Time",
-        "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
-      },
-      "artists": [
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Morning Train (Nine to Five) - Edit",
-      "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "I Should Be So Lucky",
-      "url": "https://open.spotify.com/track/1MK5FOmm5ppLIS2Ga3jHlT"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2021-04-29 11:00:17",
-      "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+      "duration_ms": 274066,
+      "name": "Loco in Acapulco",
+      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -1199,34 +999,98 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Tide Is High",
-        "url": "https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b"
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 233893,
-      "name": "The Tide Is High - Edit",
-      "url": "https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9"
+      "duration_ms": 303493,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/5OKScc0MSa9Wl8g2zrulLn"
     },
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Blast",
-        "url": "https://open.spotify.com/album/2r9fw0nRxU66dI5B95GPNs"
+        "name": "Ghost In The Machine (Remastered)",
+        "url": "https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A"
       },
       "artists": [
         {
-          "name": "Holly Johnson",
-          "url": "https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/1NUDglpwwjYElxi6siVRka"
+      "duration_ms": 259500,
+      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
+      "url": "https://open.spotify.com/track/60HDLY1Dh2Hy9wTVI3WPzO"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Take My Time",
+        "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
+      },
+      "artists": [
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Morning Train (Nine to Five) - Edit",
+      "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2021-10-05 14:21:04",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/6s4tgwHmTtjhU1oO1bjKGq"
+      },
+      "artists": [
+        {
+          "name": "The Bluebells",
+          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Young at Heart",
+      "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Music From The Edge Of Heaven",
+        "url": "https://open.spotify.com/album/099le4PQZ57X2LY9xVNOpc"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "The Edge of Heaven",
+      "url": "https://open.spotify.com/track/5AhRNIjYPBleR1lfHphcrE"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -1261,28 +1125,156 @@
       "url": "https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt"
     },
     {
-      "added_at": "2021-10-05 14:21:04",
+      "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Joseph And The Amazing Technicolor Dreamcoat",
-        "url": "https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx"
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
       },
       "artists": [
         {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
-        },
-        {
-          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1991 London Cast",
-          "url": "https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4"
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Any Dream Will Do",
-      "url": "https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE"
+      "duration_ms": 208520,
+      "name": "You Came - Single Version",
+      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Hot In The City - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/0MHTpNtTcrdseMWAhh7Sdp"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Simply The Best",
+        "url": "https://open.spotify.com/album/5YGJ1MscP8Pk4H2jAkRqpy"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        },
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "A Rockin' Good Way (To Mess Around and Fall In Love)",
+      "url": "https://open.spotify.com/track/2vbTr48Vc4y4PUEcGYYlvK"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Blast",
+        "url": "https://open.spotify.com/album/2r9fw0nRxU66dI5B95GPNs"
+      },
+      "artists": [
+        {
+          "name": "Holly Johnson",
+          "url": "https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/1NUDglpwwjYElxi6siVRka"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "Baggariddim",
+        "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        },
+        {
+          "name": "Chrissie Hynde",
+          "url": "https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+    },
+    {
+      "added_at": "2021-04-29 11:00:17",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 319733,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3l0La6OOdycSjsDQ1uVJUb"
     },
     {
       "added_at": "2021-04-29 11:00:17",
@@ -1303,18 +1295,18 @@
     {
       "added_at": "2021-04-29 11:00:17",
       "album": {
-        "name": "Some Guys Have All the Luck",
-        "url": "https://open.spotify.com/album/7Iz89r0GanEDFeAxByW9wI"
+        "name": "Tide Is High",
+        "url": "https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 238013,
-      "name": "The Motown Song (with The Temptations) - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2GZ0dVvRcmtojWuPgBfKIl"
+      "duration_ms": 233893,
+      "name": "The Tide Is High - Edit",
+      "url": "https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9"
     }
   ],
   "unique_name": "Happy 80s",

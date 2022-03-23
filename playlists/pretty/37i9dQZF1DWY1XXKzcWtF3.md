@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,715 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,713 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/5P53Exo01miUunItQyR2La), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 |
+| 1 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 |
 | 2 | [Waiting](https://open.spotify.com/track/5sT72aPBgt2W74loTXoqR1) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 4:03 |
 | 3 | [Standing In The Rain](https://open.spotify.com/track/0BvHbF7tBHZrXr8AwCJ8Dv) | [Don Raye](https://open.spotify.com/artist/236dCUrpuxXxj0v6VRXXqz) | [Late Night Tales: Groove Armada \- Another Late Night \(Remastered Version\)](https://open.spotify.com/album/7d1HQ2Zjr208p3HwicaReH) | 6:37 |
 | 4 | [Do It Any Way You Wanna](https://open.spotify.com/track/5lwBIwUdOBzVkRan4v5CmP) | [People's Choice](https://open.spotify.com/artist/5OPSpcX9nVVWCIOKcoM4ot) | [Disco Super Hits](https://open.spotify.com/album/6O6qkC4nrCvK4IkHfNI8U7) | 3:11 |

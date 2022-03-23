@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 225107,
       "name": "Abrazame",
       "url": "https://open.spotify.com/track/7FHfSx42RG2pomI48MIdIQ"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 196304,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 167680,
       "name": "El Gil de Tu Ex",
       "url": "https://open.spotify.com/track/3BoHuCCm0Dr8TGtKV9kl4g"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 119898,
       "name": "Mirame a la Cara",
       "url": "https://open.spotify.com/track/0YpbQWWC1GGG2jLyf9jBi5"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 248000,
       "name": "Ninguno De Los Dos",
       "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
@@ -2041,7 +2041,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -2456,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/1AtZwXCl3sjqdD66j39g9Q"
+    },
+    {
+      "album": {
         "name": "Se Enamor\u00f3 de Mi la Soledad",
         "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
       },
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 173617,
       "name": "Se Fue el Amor",
       "url": "https://open.spotify.com/track/7ihPPfWMMkxzrvmNh1xNZH"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 260769,
       "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
       "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 168531,
       "name": "Tu - Live Session",
       "url": "https://open.spotify.com/track/748ZjU8OoEfawysf7HFPph"

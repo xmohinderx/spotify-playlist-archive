@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Zoe Wees
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,356 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,405 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 64 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
 | 65 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 66 | [Please Don't Go](https://open.spotify.com/track/14TSALJZuPFLVx21q1GxGw) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Please Don't Go](https://open.spotify.com/album/6nxFwgmLewutdg8uMGeFDI) | 2:09 |
-| 67 | [SOLO DISCO](https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF) | [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap), [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [SOLO DISCO](https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv) | 3:54 |
+| 67 | [SOLO DISCO](https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2), [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap) | [SOLO DISCO](https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv) | 3:54 |
 | 68 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
 | 69 | [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 |
 | 70 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 |

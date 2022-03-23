@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Juice WRLD, Fivio Foreign, Lil Durk and more\. Cover: Coi Leray & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,294 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,350 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 46 | [Grow](https://open.spotify.com/track/36rdlL2JnFZnC0E6nat6JL) | [3xbravo](https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH) | [Grow](https://open.spotify.com/album/7pKcJv0C0SCdst0Po3XIig) | 3:51 |
 | 47 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
 | 48 | [Forever Been Steppin'](https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Forever Been Steppin'](https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA) | 3:17 |
-| 49 | [Put You On \(feat\. Wiz Khalifa, Big K.R.I.T., Smoke DZA\)](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On \(feat\. Wiz Khalifa, Big K.R.I.T., Smoke DZA\)](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
+| 49 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa, Big K.R.I.T., Girl Talk](https://open.spotify.com/artist/3pJhszZ9pnn4xpdxtLOObE), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
 | 50 | [With The Villains](https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl) | 2:23 |
 | 51 | [Beat Em Down](https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Beat Em Down](https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6) | 2:10 |
 

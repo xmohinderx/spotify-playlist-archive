@@ -5354,6 +5354,28 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3Vxc7fLBmG8vNk6G6Va9Nz"
+    },
+    {
+      "album": {
         "name": "Crazy For Your Love",
         "url": "https://open.spotify.com/album/7s8ErTFhlpVRuRSlnDA7HQ"
       },
@@ -5571,7 +5593,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-04",
+      "date_removed": null,
       "duration_ms": 205949,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj"

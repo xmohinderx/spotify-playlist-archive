@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 249266,
       "name": "A Promessa",
       "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 244924,
       "name": "Aos P\u00e9s da Cruz",
       "url": "https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 324013,
       "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
       "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
@@ -1248,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
+      },
+      "artists": [
+        {
+          "name": "Israel Subira",
+          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465885,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 336716,
       "name": "Meu Respirar",
       "url": "https://open.spotify.com/track/6Be3DpCcfD1s6tLFgjSDLF"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 495671,
       "name": "Poderoso Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/53ocDEomVRu0LFS8SqRifj"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 266193,
       "name": "Soldado Ferido",
       "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"

@@ -556,6 +556,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cinco de Mayo](/playlists/pretty/37i9dQZF1DWW6FKfbzAFjW.md)
 - [Cinematic Chillout](/playlists/pretty/37i9dQZF1DWVFJtzvDHN4L.md)
 - [Cinematic Indie Folk](/playlists/pretty/37i9dQZF1DWZyQUsU1vj4x.md)
+- [City Sounds for Sleep](/playlists/pretty/37i9dQZF1DWZwRv0cVNFLv.md)
 - [City to City](/playlists/pretty/37i9dQZF1DWWIfrT204w7E.md)
 - [Classic Acoustic](/playlists/pretty/37i9dQZF1DX504r1DvyvxG.md)
 - [Classic Artists New Music](/playlists/pretty/37i9dQZF1DWX3wsvr7czQx.md)

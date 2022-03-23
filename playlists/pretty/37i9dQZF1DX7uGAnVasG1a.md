@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uGAnVasG1a.md) - [plain]
 
 > Beautiful and evocative lieder, performed by legendary vocalists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

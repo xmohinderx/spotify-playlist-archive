@@ -16992,6 +16992,24 @@
     },
     {
       "album": {
+        "name": "Phone Static",
+        "url": "https://open.spotify.com/album/411vVjpFLMiyash5GTxUxE"
+      },
+      "artists": [
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182507,
+      "name": "Phone Static",
+      "url": "https://open.spotify.com/track/5NZP8Sh5HsVVO83uxLfZkA"
+    },
+    {
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n"
       },

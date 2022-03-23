@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9D5dmCM8Lo3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9D5dmCM8Lo3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9D5dmCM8Lo3)
 
-### webcore
+### [webcore](https://open.spotify.com/playlist/36YqD8F3x0V42aodGC6n57)
 
 > would you like to save before closing?
 

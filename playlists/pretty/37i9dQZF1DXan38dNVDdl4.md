@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,474 likes - 57 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,658 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
+| 1 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 2 | [Verified Choppa 2](https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/3kdeQrwrOoiN3UGtB5B9gp) | 2:18 |
 | 3 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 |
 | 4 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |

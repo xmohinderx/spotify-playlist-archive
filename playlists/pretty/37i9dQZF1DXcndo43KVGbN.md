@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The beauty lo\-fi ambience record and manipulated on tape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,118 likes - 85 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,151 likes - 85 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

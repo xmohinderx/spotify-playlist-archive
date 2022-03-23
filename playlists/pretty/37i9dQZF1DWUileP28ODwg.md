@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Jordan St\. Cyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,964 likes - 97 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,026 likes - 97 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

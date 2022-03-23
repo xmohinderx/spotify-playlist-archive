@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,657 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,695 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Para Que Regreses \(En Vivo\)](https://open.spotify.com/track/0NkmRK1su043rBIUrr6HDe) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Para Que Regreses \(En Vivo\)](https://open.spotify.com/album/0GZFCSHYZCxmSDDMpI3wn8) | 2:41 |
 | 52 | [Se Acabó](https://open.spotify.com/track/4NzHAfuFyQ0DrHKQMP0kgl) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Se Acabó](https://open.spotify.com/album/5UAJwaEEEChsYH3NeUQLar) | 3:12 |
 
-Snapshot ID: `MTY0NzYyMTUyNiwwMDAwMDM2YjAwMDAwMTdmOWRlNTUzMDgwMDAwMDE3ZjkzYTJkMDBj`
+Snapshot ID: `MTY0Nzk3MzY5OSwwMDAwMDM2YzAwMDAwMTdmYjJlMzBlMjUwMDAwMDE3ZjkzYTJkMDBj`

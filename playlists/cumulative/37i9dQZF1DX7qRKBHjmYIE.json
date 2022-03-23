@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 133817,
       "name": "go bestie",
       "url": "https://open.spotify.com/track/1vpvBPCyuR5SinkAXeI7ZJ"
@@ -1975,7 +1975,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 159306,
       "name": "Kelede",
       "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -3242,6 +3242,24 @@
     },
     {
       "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "album": {
         "name": "Si nos vamos",
         "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
       },
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 159271,
       "name": "Veneno - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"

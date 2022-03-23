@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 210302,
       "name": "Dime t\u00fa",
       "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 190973,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 310860,
       "name": "En Tu Cuerpo - Remix",
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 185718,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 200593,
       "name": "Fantasias - Unplugged",
       "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
@@ -1803,6 +1803,24 @@
       "duration_ms": 171696,
       "name": "La Mujer Traiciona",
       "url": "https://open.spotify.com/track/2YpupWlGIpbkra73hHc8KW"
+    },
+    {
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/3I3NjslmEdUiChC5Wyfc5W"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/4J1Xxrqi4YEhclPzYbvo6V"
     },
     {
       "album": {
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 250841,
       "name": "NO SE OLVIDA",
       "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
@@ -3015,7 +3033,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "TBT",
       "url": "https://open.spotify.com/track/4s45VgkknMFkdiGoUcjxQU"
@@ -3059,7 +3077,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 229513,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/2Jm6Vb7FsOuzg8NVZsNik8"
@@ -3325,7 +3343,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"

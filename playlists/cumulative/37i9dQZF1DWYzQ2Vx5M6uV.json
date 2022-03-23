@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Warm Up",
+        "url": "https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "44",
+      "url": "https://open.spotify.com/track/0NipDzamAtvro0HMcZD5DK"
+    },
+    {
+      "album": {
         "name": "The Prince I Became",
         "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
       },
@@ -43,7 +65,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
@@ -287,7 +309,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
@@ -417,6 +439,28 @@
       "duration_ms": 196973,
       "name": "Diggy Dee - Remix",
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
+    },
+    {
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "album": {
@@ -1302,6 +1346,32 @@
     },
     {
       "album": {
+        "name": "Se Fue",
+        "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
+    },
+    {
+      "album": {
         "name": "ZaZa Vibes (Extended Version)",
         "url": "https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ"
       },
@@ -1619,7 +1689,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"

@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 142213,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/3TrYli5BpZzzNoyAH64k2K"
@@ -351,6 +351,24 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "album": {
+        "name": "Dirty Radio (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7I9KroNPmpw9qFYZ8Vp7pN"
+      },
+      "artists": [
+        {
+          "name": "Sallie Ford & The Sound Outside",
+          "url": "https://open.spotify.com/artist/0Z8RhQLJrLxKMWoUW2qo95"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3eTXumsY2qWG6gXM3PvW03"
     },
     {
       "album": {
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 163346,
       "name": "Holly",
       "url": "https://open.spotify.com/track/3YYmCD8ERuxyMu6GDhWDQF"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 169076,
       "name": "In and Out of Love",
       "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 166106,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"

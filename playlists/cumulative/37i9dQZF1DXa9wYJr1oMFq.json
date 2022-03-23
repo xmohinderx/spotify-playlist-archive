@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
       },
@@ -329,6 +347,24 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
     },
     {
       "album": {
@@ -595,7 +631,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"

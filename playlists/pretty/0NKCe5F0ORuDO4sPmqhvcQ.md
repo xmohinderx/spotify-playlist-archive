@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,434 likes - 48 songs - 2 hr 37 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,433 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 46 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 |
 | 47 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 |
 | 48 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 |
+| 49 | [maybe it was god](https://open.spotify.com/track/0MCt7lGPIqtAMXjkZfJLmh) | [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [maybe it was god](https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2) | 3:10 |
 
-Snapshot ID: `OTU3Myw4OTczNzAzMWFmNjE3ZGZjNjZmZjQzYTVkZDVmZGM0ODRjOTRjZjk1`
+Snapshot ID: `OTU3NCw2ODNjOGUxMGRiMDVlOGFkZWFlZTE4YmE0Y2Q5YjVlNTc4YjZhMzFh`

@@ -1,18 +1,18 @@
 {
   "description": "A collection of the hottest soul tracks from the 1970s.",
-  "num_followers": 1213237,
+  "num_followers": 1213575,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDEwNiwwMDAwMDAwMGRlYTQ4YWQ3YWMxYTk4MDc4ZDMyM2ZjZTZmYzc3Yjc5",
+  "snapshot_id": "MTY0Nzk5Njg3MSwwMDAwMDAwMDkwOGQ4MmRjNjcyYTNkZmNhM2Q4OTBlYjY3MDgyMDE5",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg"
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "We Are Marshall Soundtrack",
-        "url": "https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3uJ8zHRASayItvcSRh8TIm"
+      "duration_ms": 233293,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -59,6 +43,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "We Are Marshall Soundtrack",
+        "url": "https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3uJ8zHRASayItvcSRh8TIm"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -71,86 +71,6 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "360 Degrees Of Billy Paul",
-        "url": "https://open.spotify.com/album/3x36ONTtlbPuXrAjI3aNI6"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/4sj8qFcEDnRPNv3tBbUVUf"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -175,22 +95,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "It's A Shame - Remastered",
-      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -207,18 +111,50 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "360 Degrees Of Billy Paul",
+        "url": "https://open.spotify.com/album/3x36ONTtlbPuXrAjI3aNI6"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285760,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/4sj8qFcEDnRPNv3tBbUVUf"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -239,42 +175,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Where Is the Love",
-      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -291,198 +191,34 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
       },
       "artists": [
         {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Best Of Bill Withers: Lean On Me",
-        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 363973,
-      "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Signed Sealed And Delivered",
-        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Motown 50",
-        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 411360,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Al Green Is Love",
-        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "L-O-V-E (Love)",
-      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7saBgtVef7I2AyHzgPZPgw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/4UuaNEOM3f6yTvjqxLxNVO"
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -507,8 +243,160 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Motown 50",
+        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 411360,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Best Of Bill Withers: Lean On Me",
+        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7saBgtVef7I2AyHzgPZPgw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/4UuaNEOM3f6yTvjqxLxNVO"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 363973,
+      "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
@@ -516,9 +404,73 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL"
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "It's A Shame - Remastered",
+      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Al Green Is Love",
+        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "L-O-V-E (Love)",
+      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -539,18 +491,34 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 290933,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -571,6 +539,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/2bYqzWYuYlgTL7SS7X633n"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214973,
       "name": "Whatcha See Is Whatcha Get",
       "url": "https://open.spotify.com/track/14MN0kzWGgODPoRql1eWT8"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
       },
       "artists": [
         {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
         }
       ],
-      "duration_ms": 217520,
-      "name": "Oh Girl",
-      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
       },
       "artists": [
         {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
+      "duration_ms": 217520,
+      "name": "Oh Girl",
+      "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -699,38 +699,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "100 70s",
-        "url": "https://open.spotify.com/album/29XTmgtHnLvO1qUCqr1Sfq"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 276037,
-      "name": "Theme From Shaft",
-      "url": "https://open.spotify.com/track/68vipq4utIVcDqT40CY4E2"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
-      },
-      "artists": [
-        {
-          "name": "The Real Thing",
-          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "You To Me Are Everything",
-      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/0OV8RlPlzYfP75m1pgh0GD"
       },
@@ -747,18 +715,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+        "name": "100 70s",
+        "url": "https://open.spotify.com/album/29XTmgtHnLvO1qUCqr1Sfq"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
+      "duration_ms": 276037,
+      "name": "Theme From Shaft",
+      "url": "https://open.spotify.com/track/68vipq4utIVcDqT40CY4E2"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -779,82 +747,34 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
         }
       ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+      "duration_ms": 208840,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
     },
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Why Can't We Live Together: The Best Of The TK Years 1972-'81",
-        "url": "https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 289613,
-      "name": "Why Can't We Live Together",
-      "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Superfly (O.S.T.)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Use ta Be My Girl",
-      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -875,6 +795,86 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Why Can't We Live Together: The Best Of The TK Years 1972-'81",
+        "url": "https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y"
+      },
+      "artists": [
+        {
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Superfly (O.S.T.)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -891,34 +891,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "James Brown's Funky People",
-        "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
+        "name": "Tough Guys",
+        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
       },
       "artists": [
         {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/17wXLFsvZVX14x9SntU58w"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
+      "duration_ms": 377639,
+      "name": "Hung Up On My Baby",
+      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -943,8 +927,8 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
       "artists": [
         {
@@ -952,25 +936,25 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 413066,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
+      "duration_ms": 198173,
+      "name": "Use ta Be My Girl",
+      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
     },
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Tough Guys",
-        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
+        "name": "James Brown's Funky People",
+        "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
       },
       "artists": [
         {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
         }
       ],
-      "duration_ms": 377639,
-      "name": "Hung Up On My Baby",
-      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
+      "duration_ms": 201826,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/17wXLFsvZVX14x9SntU58w"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -991,22 +975,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
+      "duration_ms": 251466,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1031,22 +1011,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Very Best of the Stylistics ... And More!",
-        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/1Rr223L47oym6yWVg39CgA"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/3ZRpmo4encM3hourEMUE0g"
       },
@@ -1063,18 +1027,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Best Of Bobby Womack - The Soul Years",
-        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+        "name": "The Very Best of the Stylistics ... And More!",
+        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
       },
       "artists": [
         {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 210453,
-      "name": "Woman's Gotta Have It",
-      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
+      "duration_ms": 329720,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/1Rr223L47oym6yWVg39CgA"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1095,24 +1059,8 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "True Motown / Spectrum 3 CD Set",
-        "url": "https://open.spotify.com/album/1CEjdDJCspyqQjPC50CrzF"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Fair",
-          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "It Should Have Been Me",
-      "url": "https://open.spotify.com/track/5inuDU6zkebOEl1hwHaCph"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
       "artists": [
         {
@@ -1120,25 +1068,25 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 439866,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+      "duration_ms": 413066,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
     },
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Stax Volt Chartbusters Vol 1",
-        "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
       "artists": [
         {
-          "name": "Mel & Tim",
-          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 230920,
-      "name": "Starting All Over Again",
-      "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
+      "duration_ms": 210453,
+      "name": "Woman's Gotta Have It",
+      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1159,18 +1107,70 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "True Motown / Spectrum 3 CD Set",
+        "url": "https://open.spotify.com/album/1CEjdDJCspyqQjPC50CrzF"
       },
       "artists": [
+        {
+          "name": "Yvonne Fair",
+          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "It Should Have Been Me",
+      "url": "https://open.spotify.com/track/5inuDU6zkebOEl1hwHaCph"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Stax Volt Chartbusters Vol 1",
+        "url": "https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE"
+      },
+      "artists": [
+        {
+          "name": "Mel & Tim",
+          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Starting All Over Again",
+      "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "You Know How to Love Me - 7\" Version",
+      "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+      "duration_ms": 211426,
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
       "artists": [
         {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 226840,
-      "name": "You Know How to Love Me - 7\" Version",
-      "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+      "duration_ms": 439866,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Stax Number Ones",
-        "url": "https://open.spotify.com/album/6fO7nh2THPfMUX9uUZ8a7t"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Shirley Brown",
-          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 234653,
-      "name": "Woman To Woman",
-      "url": "https://open.spotify.com/track/1NZQLY50Fa7RpdRFFu62xb"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1287,18 +1287,34 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
+        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 198439,
+      "name": "(Do The) Push And Pull - Pt. 1",
+      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Stax Number Ones",
+        "url": "https://open.spotify.com/album/6fO7nh2THPfMUX9uUZ8a7t"
+      },
+      "artists": [
+        {
+          "name": "Shirley Brown",
+          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Woman To Woman",
+      "url": "https://open.spotify.com/track/1NZQLY50Fa7RpdRFFu62xb"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1319,34 +1335,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
-        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
+        "name": "Chronicle: The 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
       },
       "artists": [
         {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+          "name": "Johnnie Taylor",
+          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
         }
       ],
-      "duration_ms": 198439,
-      "name": "(Do The) Push And Pull - Pt. 1",
-      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Deeper And Deeper (The Best Of Freda Payne)",
-        "url": "https://open.spotify.com/album/50OUn0gvYuqoqn1NDaolns"
-      },
-      "artists": [
-        {
-          "name": "Freda Payne",
-          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Bring The Boys Home",
-      "url": "https://open.spotify.com/track/5EOSdLJhhq31GYCawQ5FTC"
+      "duration_ms": 180466,
+      "name": "Jody's Got Your Girl And Gone",
+      "url": "https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1387,38 +1387,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Chronicle: The 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
+        "name": "Deeper And Deeper (The Best Of Freda Payne)",
+        "url": "https://open.spotify.com/album/50OUn0gvYuqoqn1NDaolns"
       },
       "artists": [
         {
-          "name": "Johnnie Taylor",
-          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
         }
       ],
-      "duration_ms": 180466,
-      "name": "Jody's Got Your Girl And Gone",
-      "url": "https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
+      "duration_ms": 205333,
+      "name": "Bring The Boys Home",
+      "url": "https://open.spotify.com/track/5EOSdLJhhq31GYCawQ5FTC"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1439,22 +1419,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "On The Loose / Trapped By A Thing Called Love",
-        "url": "https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Trapped By a Thing Called Love",
-      "url": "https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -1471,18 +1435,38 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+        "name": "On The Loose / Trapped By A Thing Called Love",
+        "url": "https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd"
       },
       "artists": [
         {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
         }
       ],
-      "duration_ms": 227160,
-      "name": "TSOP (The Sound of Philadelphia)",
-      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
+      "duration_ms": 160626,
+      "name": "Trapped By a Thing Called Love",
+      "url": "https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1499,6 +1483,22 @@
       "duration_ms": 204413,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "TSOP (The Sound of Philadelphia)",
+      "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
     }
   ],
   "unique_name": "70s Soul Classics",

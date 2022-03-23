@@ -2,7 +2,7 @@
 
 ### [Metal Rewind](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
 
-> The best recent metal tracks\. Cover: Trivium
+> The best recent metal tracks\. Cover: Slipknot
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/6JUEcPHJGHwq6aXiN1hz3c) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/album/3PdYK4sfbEwG5Mz3FxnHnD) | 2:53 | 2021-12-11 |  |
 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 | 2021-12-11 |  |
 | [Hypnosis](https://open.spotify.com/track/5YjzcTCorDbr34bngfQIIy) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 5:35 | 2021-12-11 |  |
-| [I'm Not Right](https://open.spotify.com/track/1cunyReb6CpUqoSAxl7tPw) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/5JL4cCbpKGqDBPvQ4P8Ulx) | 3:46 | 2021-12-11 |  |
+| [I'm Not Right](https://open.spotify.com/track/1cunyReb6CpUqoSAxl7tPw) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/5JL4cCbpKGqDBPvQ4P8Ulx) | 3:46 | 2021-12-11 | 2022-03-23 |
 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 | 2021-12-11 |  |
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2021-12-11 |  |
 | [Mark Of The Grave](https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering](https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6) | 4:23 | 2021-12-11 |  |
@@ -57,6 +57,7 @@
 | [Surround, Kill, Devour](https://open.spotify.com/track/3iZOVTPjyUEq9f5HsUQCj7) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Violence Unimagined](https://open.spotify.com/album/1OSmlc9qUXmCPzox9m9J3l) | 4:10 | 2021-12-11 | 2022-01-28 |
 | [SYSTEMATIC](https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 2:56 | 2022-01-28 | 2022-02-25 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-02-24 |  |
+| [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2022-03-22 |  |
 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 | 2021-12-11 |  |
 | [The Path](https://open.spotify.com/track/1zkdINXJTDhqKaFL0kjIT8) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 4:07 | 2021-12-11 |  |
 | [The Skeleton Key](https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:06 | 2021-12-11 |  |

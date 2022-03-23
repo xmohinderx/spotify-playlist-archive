@@ -1772,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "maybe it was god",
+        "url": "https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2"
+      },
+      "artists": [
+        {
+          "name": "Dash30",
+          "url": "https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190450,
+      "name": "maybe it was god",
+      "url": "https://open.spotify.com/track/0MCt7lGPIqtAMXjkZfJLmh"
+    },
+    {
+      "album": {
         "name": "Mean It",
         "url": "https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF"
       },

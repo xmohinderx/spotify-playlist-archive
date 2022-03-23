@@ -46,6 +46,24 @@
     },
     {
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/62Y7rHyh2Xl5j3976T4tMD"
+    },
+    {
+      "album": {
         "name": "Air Drop",
         "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
       },
@@ -223,7 +241,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 132680,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd"
@@ -263,7 +281,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 161234,
       "name": "Dinero En Movimiento",
       "url": "https://open.spotify.com/track/0rcYXM0d7nsjsU480o0y1M"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
@@ -734,6 +752,28 @@
     },
     {
       "album": {
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
+    },
+    {
+      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/3fE2JhTySAjvtcb6LiHK6g"
       },
@@ -920,6 +960,32 @@
     },
     {
       "album": {
+        "name": "Super Gremlin (El Diablo Mix)",
+        "url": "https://open.spotify.com/album/32zbgvLRlhxbhlqBToS7or"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239939,
+      "name": "Super Gremlin - El Diablo Mix",
+      "url": "https://open.spotify.com/track/7n3yVYDSlkZjEJ2kYMue2W"
+    },
+    {
+      "album": {
         "name": "SUPREMO",
         "url": "https://open.spotify.com/album/0B718jcmQwzQgGKRO6OOQL"
       },
@@ -979,10 +1045,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "album": {
+        "name": "Trambo",
+        "url": "https://open.spotify.com/album/5TQJ5sVaQeRYpDdOrwxRBD"
+      },
+      "artists": [
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217279,
+      "name": "Trambo",
+      "url": "https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1"
     },
     {
       "album": {

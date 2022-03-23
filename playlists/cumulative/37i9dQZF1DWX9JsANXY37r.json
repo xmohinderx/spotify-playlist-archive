@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/6poJxrnTNulYCmha4n5GOF"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 172226,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 214578,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/3d8942VcXWNa1ezwCfNtyt"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 222290,
       "name": "Raise Up - Single Version",
       "url": "https://open.spotify.com/track/1ylTiIxsIYDSwlsaOJ4H2b"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
@@ -1571,6 +1571,24 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "album": {
+        "name": "Vibe for Me (Bob for Me)",
+        "url": "https://open.spotify.com/album/1XQYewNWBnVBFFxLv4BFeR"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151787,
+      "name": "Vibe for Me (Bob for Me)",
+      "url": "https://open.spotify.com/track/1SGhreIdQO3v7z6SOgEEHC"
     },
     {
       "album": {

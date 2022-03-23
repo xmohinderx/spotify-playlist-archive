@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic jazz songs. Cover: Nat King Cole",
-  "num_followers": 72397,
+  "num_followers": 72655,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDUwMSwwMDAwMDAwMDQwNWRhZjIyNWM3YzJjNmMwNTNjNmMxYTFjMDVlMTE0",
+  "snapshot_id": "MTY0Nzk5NzI3MCwwMDAwMDAwMDJkZGYwNjRhOWZjYWQxODQ5MzI0NzQyNjVkOTRkNjIy",
   "tracks": [
     {
       "added_at": "2022-02-25 16:17:54",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "If I Ruled The World: Songs For The Jet Set",
         "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
       },
@@ -99,18 +115,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 184466,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+      "duration_ms": 194573,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -131,38 +147,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+        "name": "Sings Sweet Songs For Swingers",
+        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 280000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+      "duration_ms": 184720,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -179,26 +175,6 @@
       "duration_ms": 192560,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -255,6 +231,26 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -271,18 +267,22 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Sings Sweet Songs For Swingers",
-        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 184720,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+      "duration_ms": 280000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "This Is Always",
+      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "Carmen McRae For Lovers",
         "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 149826,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
         "name": "Winners",
         "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 216626,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "The Very Thought Of You",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "This Is Always",
-      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
       "artists": [
         {
@@ -440,25 +424,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Etta Jones - A Collection",
-        "url": "https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 163474,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/35fAfaeEMDKYWOnZGDr6NG"
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -472,9 +440,25 @@
           "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Can't Help Lovin' That Man",
-      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -495,24 +479,24 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "The Very Thought Of You",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+        "name": "Etta Jones - A Collection",
+        "url": "https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 228693,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
+      "duration_ms": 163474,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/35fAfaeEMDKYWOnZGDr6NG"
     },
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Sweet And Hot",
-        "url": "https://open.spotify.com/album/4ATQnfLrLxwHvsMcpIYhV0"
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
       "artists": [
         {
@@ -520,25 +504,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Taking A Chance On Love",
-      "url": "https://open.spotify.com/track/5xztcbdIaombDndOibp9Su"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
+      "duration_ms": 196440,
+      "name": "I've Got A Crush On You",
+      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -555,6 +523,26 @@
       "duration_ms": 271333,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -611,70 +599,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 196440,
-      "name": "I've Got A Crush On You",
-      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+      "duration_ms": 191360,
+      "name": "Can't Help Lovin' That Man",
+      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -695,56 +631,72 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 521200,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
+      "duration_ms": 142613,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
     },
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+      "duration_ms": 232280,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
         }
       ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
+      "duration_ms": 194866,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6"
     },
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Sweet And Hot",
+        "url": "https://open.spotify.com/album/4ATQnfLrLxwHvsMcpIYhV0"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Taking A Chance On Love",
+      "url": "https://open.spotify.com/track/5xztcbdIaombDndOibp9Su"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
@@ -752,41 +704,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Dinah Sings, Previn Plays",
-        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "My Melancholy Baby",
-      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -807,6 +727,54 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Dinah Sings, Previn Plays",
+        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "My Melancholy Baby",
+      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "The Very Thought Of You",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 236173,
       "name": "Don't Blame Me",
       "url": "https://open.spotify.com/track/1EXfuimx2HlQT7MjHP0jha"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 521200,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -843,44 +843,8 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Love You Madly",
-      "url": "https://open.spotify.com/track/6fDN0uwvXXzQCusv36sjhZ"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
@@ -888,25 +852,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -927,34 +875,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+      "duration_ms": 186133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -975,34 +907,34 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         }
       ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1023,18 +955,70 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Nice 'n' Easy (2020 Mix)",
-        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 266800,
-      "name": "You Go To My Head - 2020 Mix",
-      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Jeff Rach",
+          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1051,6 +1035,74 @@
       "duration_ms": 137520,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Love You Madly",
+      "url": "https://open.spotify.com/track/6fDN0uwvXXzQCusv36sjhZ"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "The Man I Love",
+        "url": "https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "Please Be Kind",
+      "url": "https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1087,54 +1139,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+        "name": "Nice 'n' Easy (2020 Mix)",
+        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 201546,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "The Man I Love",
-        "url": "https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Please Be Kind",
-      "url": "https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Jeff Rach",
-          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
+      "duration_ms": 266800,
+      "name": "You Go To My Head - 2020 Mix",
+      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -1183,6 +1183,58 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Can't Resist You - My Summer Love",
+        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1219,18 +1271,66 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Can't Resist You - My Summer Love",
-        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
+        "name": "On the Sunny Side of the Street",
+        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
       },
       "artists": [
         {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "Helen Forrest",
+          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
         }
       ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
+      "duration_ms": 142866,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1271,74 +1371,6 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "I Feel a Song Coming On: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 167723,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 182120,
       "name": "Until The Real Thing Comes Along - Remastered/1998",
       "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "On the Sunny Side of the Street",
-        "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
-      },
-      "artists": [
-        {
-          "name": "Helen Forrest",
-          "url": "https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad"
-        }
-      ],
-      "duration_ms": 142866,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "Baby Blue Eyes",
-        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "I've Got My Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/1nYBShHiR5XZTqQTSmAfHA"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
         "name": "Mr. Top Hat",
         "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
@@ -1451,6 +1451,38 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "Baby Blue Eyes",
+        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "I've Got My Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/1nYBShHiR5XZTqQTSmAfHA"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
+        "name": "More Of The Great",
+        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 255480,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "Matt Dennis - Four Complete Albums",
         "url": "https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR"
       },
@@ -1463,22 +1495,6 @@
       "duration_ms": 166413,
       "name": "Wait 'Til You See Her",
       "url": "https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
-        "name": "More Of The Great",
-        "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 255480,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
+      "duration_ms": 196960,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1535,22 +1551,6 @@
       "duration_ms": 188266,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2022-02-25 16:17:54",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-02-25 16:17:54",
       "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+    },
+    {
+      "added_at": "2022-02-25 16:17:54",
+      "album": {
         "name": "Sarah - Dedicated to You",
         "url": "https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 362693,
       "name": "Dedicated to You - Remastered 2003",
       "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
-    },
-    {
-      "added_at": "2022-02-25 16:17:54",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
     },
     {
       "added_at": "2022-02-25 16:17:54",

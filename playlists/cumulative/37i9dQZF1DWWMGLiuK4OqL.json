@@ -520,6 +520,36 @@
     },
     {
       "album": {
+        "name": "Live Sings Sassy",
+        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+      },
+      "artists": [
+        {
+          "name": "Live Foyn Friis",
+          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
+        },
+        {
+          "name": "B\u00e5rd Helgerud",
+          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
+        },
+        {
+          "name": "Rodrigo Villagra",
+          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
+        },
+        {
+          "name": "Magnus Sefaniassen Eide",
+          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393984,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
+    },
+    {
+      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -1971,7 +2001,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA"
@@ -2713,7 +2743,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 300593,
       "name": "Surrey with the Fringe on Top",
       "url": "https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g"
@@ -3169,7 +3199,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 290880,
       "name": "Until It Happens to You",
       "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"

@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
-> Future K\-Pop hits! Cover: Solar
+> Future K\-Pop hits! Cover: Seori
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 |  |
 | [Calm & Passion](https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:29 | 2021-10-21 | 2021-12-14 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-22 |
+| [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-22 |  |
 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 | 2021-12-07 | 2022-01-04 |
 | [Can′t Live Without You](https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [YOU](https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6) | 4:04 | 2022-02-10 |  |
 | [Carabiner \(Prod\. GroovyRoom\)](https://open.spotify.com/track/0utN0m9bi6E5oqZz7cK4QD) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Carabiner](https://open.spotify.com/album/5aaApDk27rQCrgGotit7wC) | 3:31 | 2021-07-15 | 2021-08-25 |
@@ -438,6 +439,7 @@
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-02-23 | 2021-05-18 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-13 | 2022-01-05 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-09 | 2022-01-13 |
+| [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-03-22 |  |
 | [TATTOO](https://open.spotify.com/track/55YsU62Y12E5hU0gXvn5mT) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [TATTOO](https://open.spotify.com/album/5hexML5GeKyj4HCCV3zhG2) | 3:30 | 2022-01-10 |  |
 | [TEAMO](https://open.spotify.com/track/54J9MTzvuomk0V78FBDTXR) | [MINZY](https://open.spotify.com/artist/1ql28OzmgulHG2ldXFrbWp) | [TEAMO](https://open.spotify.com/album/4b744AKQ78M5SBdo7Wxzm5) | 3:08 | 2021-07-16 | 2021-09-07 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2021-07-06 | 2021-09-07 |
@@ -508,6 +510,7 @@
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-21 |  |
 | [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2021-12-28 | 2022-03-09 |
 | [Who U Are](https://open.spotify.com/track/6C9dV3oVFBYZ3CShCU300P) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [MAGENTA](https://open.spotify.com/album/7L2jDMk6IZChhMxPdJMJ6i) | 3:22 | 2020-10-13\* | 2021-01-18 |
+| [Why](https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Why](https://open.spotify.com/album/5t5kwvCqaOXrCjlRAunfLe) | 3:16 | 2022-03-22 |  |
 | [Why \(Feat\. Gaeko\)](https://open.spotify.com/track/0877whPAoQZIQw1u0r7YgM) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Why](https://open.spotify.com/album/4JILWoE6FaQltScDKW4kbO) | 3:30 | 2021-07-01 | 2021-08-05 |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2020-10-19 | 2021-03-01 |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-03-06 | 2021-06-09 |

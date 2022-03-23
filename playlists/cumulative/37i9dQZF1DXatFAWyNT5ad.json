@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "3, 2, 1",
+        "url": "https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131596,
+      "name": "3, 2, 1",
+      "url": "https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN"
+    },
+    {
+      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 146002,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/20NJF63c7zVC6kf5ViH8VG"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 179192,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/7w37gLI465w5eqp8haIwZZ"
@@ -370,6 +388,24 @@
     },
     {
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186672,
+      "name": "Body And Mind",
+      "url": "https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj"
+    },
+    {
+      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -421,7 +457,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -439,7 +475,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
@@ -501,7 +537,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
@@ -591,7 +627,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 197301,
       "name": "death wish",
       "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
@@ -749,6 +785,24 @@
       "duration_ms": 189947,
       "name": "Drop Dead (with Kesha and Travis Barker)",
       "url": "https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms"
+    },
+    {
+      "album": {
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
       "album": {
@@ -1037,7 +1091,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 190040,
       "name": "Get in the Way",
       "url": "https://open.spotify.com/track/2NhIctyVENmfuNyxf8L0ng"
@@ -1135,7 +1189,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 167693,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/4vaX8KIjBXs77lQJFU5BOu"
@@ -1157,7 +1211,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 132705,
       "name": "Head Up High",
       "url": "https://open.spotify.com/track/6WcinC5nKan2DMFUfjVerX"
@@ -1215,7 +1269,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "Hex Girl",
       "url": "https://open.spotify.com/track/58zcVszTM5EgKZSnkj06Im"
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 191992,
       "name": "Like A Virgin - Spotify Singles",
       "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
@@ -1421,7 +1475,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 237800,
       "name": "loneliness for love",
       "url": "https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF"
@@ -1545,7 +1599,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 141226,
       "name": "Lunatic",
       "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
@@ -1756,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
+    },
+    {
+      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
@@ -1857,7 +1929,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 168927,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3"
@@ -1991,7 +2063,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 195037,
       "name": "Single In September",
       "url": "https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF"
@@ -2199,7 +2271,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
@@ -2347,7 +2419,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3"
@@ -2383,10 +2455,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF"
+    },
+    {
+      "album": {
+        "name": "Young Life Crisis",
+        "url": "https://open.spotify.com/album/3rfnzcqRTs1XCQWOpyy2qA"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Young Life Crisis",
+      "url": "https://open.spotify.com/track/2yIvnjFxvfWE1WxBSO0YGN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXatFAWyNT5ad"

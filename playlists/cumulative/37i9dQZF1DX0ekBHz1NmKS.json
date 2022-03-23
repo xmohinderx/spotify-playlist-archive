@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 205953,
       "name": "All My Heroes",
       "url": "https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 151210,
       "name": "Bergs slussar",
       "url": "https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 161641,
       "name": "D\u00d6 F\u00d6R",
       "url": "https://open.spotify.com/track/35eTqDv5rQDQmBWePtbVf3"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 196506,
       "name": "F\u00e4rger",
       "url": "https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 140470,
       "name": "Jag t\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X"
@@ -2933,7 +2933,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 239258,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR"
@@ -3259,6 +3259,24 @@
       "duration_ms": 171187,
       "name": "L\u00e5tsas du \u00e4r min",
       "url": "https://open.spotify.com/track/1zwZK6nbGFzE4oJ5jSP4bq"
+    },
+    {
+      "album": {
+        "name": "L\u00c5TSAS SOM ATT ALLT \u00c4R BRA",
+        "url": "https://open.spotify.com/album/3L9f425mm6DIzpIC1LIC8B"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162057,
+      "name": "L\u00c5TSAS SOM ATT ALLT \u00c4R BRA",
+      "url": "https://open.spotify.com/track/3jUz8mlxuxFe8sZPbg0jrK"
     },
     {
       "album": {
@@ -4009,7 +4027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "Quit Your Job",
       "url": "https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry"
@@ -4611,7 +4629,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 150267,
       "name": "Someone Always Knows",
       "url": "https://open.spotify.com/track/3ws3fXwBlZRSWbPgtEcTii"
@@ -4973,7 +4991,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 196586,
       "name": "Sv\u00e5r",
       "url": "https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl"
@@ -5315,7 +5333,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 178832,
       "name": "Touch Yourself",
       "url": "https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf"
@@ -5427,7 +5445,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 191999,
       "name": "Vad har du gjort",
       "url": "https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj"
@@ -5543,7 +5561,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 160762,
       "name": "Vi har iallafall inte tr\u00e5kigt",
       "url": "https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,909 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,924 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 96 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 |
 | 97 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 |
 | 98 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 |
-| 99 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Kučka](https://open.spotify.com/artist/64AgumOJDX25OgCvYnpKkj) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 |
+| 99 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 |
 | 100 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
 Snapshot ID: `MTY0NzU3NzkzNSwwMDAwMDJiNDAwMDAwMTdmOWI0YzMwMmIwMDAwMDE3Zjk5NTI0NWQ3`

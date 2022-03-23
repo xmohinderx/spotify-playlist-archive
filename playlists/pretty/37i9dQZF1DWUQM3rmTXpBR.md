@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Dana Hourani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,555 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,579 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 5 | [Ya Binti يا بنتي](https://open.spotify.com/track/26NE022e5BfYdvYh9okReN) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Ya Binti يا بنتي](https://open.spotify.com/album/49TmFXyLavSzC02TC1sbWg) | 4:03 |
 | 6 | [Btehlawi](https://open.spotify.com/track/66UCyK1oHFYh5ZPWQ4HDM8) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Btehlawi](https://open.spotify.com/album/6RMeF8BJpHflkaQkgrgSvH) | 3:58 |
 | 7 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 |
-| 8 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 |
+| 8 | [قلبي](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [قلبي](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 |
 | 9 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 |
 | 10 | [Estana Shway \- أخرس \- استنى شوي](https://open.spotify.com/track/3TabrhNZICePlryYNcw4C9) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway \(أخرس \- استنى شوي\)](https://open.spotify.com/album/46o2uznwnj6kiw4NYa2rtc) | 3:51 |
 | 11 | [Wahda Fada'ya](https://open.spotify.com/track/5zMYGqq1UgoyyyevlTz1BD) | [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahda Fada'ya](https://open.spotify.com/album/1Vdrh8MWfQxgq1gistq2PR) | 2:58 |

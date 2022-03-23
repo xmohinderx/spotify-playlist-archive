@@ -1,13 +1,29 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 437584,
+  "num_followers": 437927,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDM2NSwwMDAwMDAwMDI4YWU4MTVhYzJjMWQxMWU0MGEwNmZkYmM4ZjMzZDQ1",
+  "snapshot_id": "MTY0Nzk5NzEzMiwwMDAwMDAwMDc0NTJhMjU0NWI2MDE4MzZkN2U1MjQ1OGQxMDQ2MTZi",
   "tracks": [
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/26cjoxtd6SxMvyy8xzLeXs"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL"
+    },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 197576,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "The Love",
-        "url": "https://open.spotify.com/album/26cjoxtd6SxMvyy8xzLeXs"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -111,34 +111,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd"
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
       "artists": [
         {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 182681,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Cabriolet",
-        "url": "https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh"
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg"
       },
       "artists": [
         {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 242831,
-      "name": "Cabriolet",
-      "url": "https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO"
+      "duration_ms": 221387,
+      "name": "Californian Soil",
+      "url": "https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -179,8 +179,8 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Maybe October",
-        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
+        "name": "This Here Island",
+        "url": "https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ"
       },
       "artists": [
         {
@@ -188,77 +188,41 @@
           "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
+      "duration_ms": 243498,
+      "name": "This Here Island",
+      "url": "https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg"
+        "name": "Cabriolet",
+        "url": "https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
         }
       ],
-      "duration_ms": 221387,
-      "name": "Californian Soil",
-      "url": "https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M"
+      "duration_ms": 242831,
+      "name": "Cabriolet",
+      "url": "https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/4ZqAXINZC0JJvCz3mUeXP5"
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd"
       },
       "artists": [
         {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
         }
       ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/2aexVjvxpayZzxuXJTaXaJ"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Arms of Who",
-        "url": "https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2"
-      },
-      "artists": [
-        {
-          "name": "Bayuk",
-          "url": "https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw"
-        },
-        {
-          "name": "Andreas Vey",
-          "url": "https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Arms Of Who",
-      "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
+      "duration_ms": 182681,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -275,22 +239,6 @@
       "duration_ms": 285386,
       "name": "Head On",
       "url": "https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Rio Grande",
-        "url": "https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 271593,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -335,6 +283,58 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
+        "name": "Arms of Who",
+        "url": "https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2"
+      },
+      "artists": [
+        {
+          "name": "Bayuk",
+          "url": "https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw"
+        },
+        {
+          "name": "Andreas Vey",
+          "url": "https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Arms Of Who",
+      "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/4ZqAXINZC0JJvCz3mUeXP5"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/2aexVjvxpayZzxuXJTaXaJ"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 271593,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
         "name": "Oh the Agony, Oh the Ecstasy",
         "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
       },
@@ -351,8 +351,8 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "This Here Island",
-        "url": "https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ"
+        "name": "Maybe October",
+        "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 243498,
-      "name": "This Here Island",
-      "url": "https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh"
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -383,54 +383,6 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Permanent Way",
-      "url": "https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Colorado (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 175348,
-      "name": "Colorado - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
         "name": "Curls",
         "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
       },
@@ -447,18 +399,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Comment Allez-Vous",
-        "url": "https://open.spotify.com/album/3PoneVSTE2Gd9PVlX6hInR"
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD"
       },
       "artists": [
         {
-          "name": "Leslie Clio",
-          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 199453,
-      "name": "Comment Allez-Vous",
-      "url": "https://open.spotify.com/track/2EuNuqsB93B7w9W2giNfWE"
+      "duration_ms": 252080,
+      "name": "Permanent Way",
+      "url": "https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -495,114 +463,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/2dUiNUFWAsFXqT7NdZQWOS"
+        "name": "Comment Allez-Vous",
+        "url": "https://open.spotify.com/album/3PoneVSTE2Gd9PVlX6hInR"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
         }
       ],
-      "duration_ms": 220229,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/0DWDoSdZa5mJGlhJrND0Zi"
+      "duration_ms": 199453,
+      "name": "Comment Allez-Vous",
+      "url": "https://open.spotify.com/track/2EuNuqsB93B7w9W2giNfWE"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/0ywaz1IM15sKDoQMZ2shoR"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "But (Radio Edit)",
-        "url": "https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ"
-      },
-      "artists": [
-        {
-          "name": "Peter Broderick",
-          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
-        }
-      ],
-      "duration_ms": 241651,
-      "name": "But - Radio Edit",
-      "url": "https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Lust and Learn",
-        "url": "https://open.spotify.com/album/6E1CJeMPuMZgW0ouhB2qoD"
-      },
-      "artists": [
-        {
-          "name": "The Slow Show",
-          "url": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
-        }
-      ],
-      "duration_ms": 289216,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/0hY2Dx5ICt9g4z7TKzcJkC"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Spiders",
-        "url": "https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
+      "duration_ms": 299299,
+      "name": "A-Train",
+      "url": "https://open.spotify.com/track/0ktYrEjj1nNE7O5fjPuZnn"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -627,50 +515,66 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "I Am Ok",
-        "url": "https://open.spotify.com/album/2geP5eBKVViSIukUx6IleE"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2dUiNUFWAsFXqT7NdZQWOS"
       },
       "artists": [
         {
-          "name": "Lea Porcelain",
-          "url": "https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
         }
       ],
-      "duration_ms": 240298,
-      "name": "I Am Ok",
-      "url": "https://open.spotify.com/track/0CALfQ4ck5wJoiRfpaZboM"
+      "duration_ms": 220229,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0DWDoSdZa5mJGlhJrND0Zi"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL"
+        "name": "Colorado (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
       },
       "artists": [
         {
-          "name": "Gabriel Vitel",
-          "url": "https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 194086,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF"
+      "duration_ms": 175348,
+      "name": "Colorado - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Voyage Voyage",
-        "url": "https://open.spotify.com/album/0ywaz1IM15sKDoQMZ2shoR"
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
       },
       "artists": [
         {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
         }
       ],
-      "duration_ms": 299299,
-      "name": "A-Train",
-      "url": "https://open.spotify.com/track/0ktYrEjj1nNE7O5fjPuZnn"
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Lust and Learn",
+        "url": "https://open.spotify.com/album/6E1CJeMPuMZgW0ouhB2qoD"
+      },
+      "artists": [
+        {
+          "name": "The Slow Show",
+          "url": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
+        }
+      ],
+      "duration_ms": 289216,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/0hY2Dx5ICt9g4z7TKzcJkC"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -691,6 +595,54 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
+        "name": "I Am Ok",
+        "url": "https://open.spotify.com/album/2geP5eBKVViSIukUx6IleE"
+      },
+      "artists": [
+        {
+          "name": "Lea Porcelain",
+          "url": "https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "I Am Ok",
+      "url": "https://open.spotify.com/track/0CALfQ4ck5wJoiRfpaZboM"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
         "name": "forest fire",
         "url": "https://open.spotify.com/album/0ekElbDxeDpFFRJZ5sSZAq"
       },
@@ -707,56 +659,8 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "The Barrel",
-        "url": "https://open.spotify.com/album/266my6GRmoIUzp0eSEJX6Q"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 219510,
-      "name": "The Barrel - Radio Edit",
-      "url": "https://open.spotify.com/track/3HJGY8vPq6zI8mEDl6a6K4"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
-      },
-      "artists": [
-        {
-          "name": "Balthazar",
-          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "A.M. RADIO",
-        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
       "artists": [
         {
@@ -764,73 +668,41 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Same Light",
-        "url": "https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm"
+        "name": "But (Radio Edit)",
+        "url": "https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
         }
       ],
-      "duration_ms": 156786,
-      "name": "Same Light",
-      "url": "https://open.spotify.com/track/2bWkBLuzrH7g1HcB833se9"
+      "duration_ms": 241651,
+      "name": "But - Radio Edit",
+      "url": "https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Belo Horizonte",
-        "url": "https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL"
       },
       "artists": [
         {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+          "name": "Gabriel Vitel",
+          "url": "https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x"
         }
       ],
-      "duration_ms": 224598,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/4FuEQNopUQZZuSWhBjIBVM"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 171890,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76zQ1pqBzrcTsmYAnLgxiE"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 218738,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/1qyKIq8hw9yWkuPJ9ZjuvK"
+      "duration_ms": 194086,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -851,86 +723,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Cold Mine",
-        "url": "https://open.spotify.com/album/5GO4gJKyaaJxxph90fBy00"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
       },
       "artists": [
         {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+          "name": "Balthazar",
+          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
         }
       ],
-      "duration_ms": 189614,
-      "name": "Cold Mine",
-      "url": "https://open.spotify.com/track/1Ptl8RBClJP2cj4QLfv09J"
+      "duration_ms": 205680,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
+        "name": "Belo Horizonte",
+        "url": "https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI"
       },
       "artists": [
         {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Our New World (with Kyson)",
-        "url": "https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Our New World - with Kyson",
-      "url": "https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN"
+      "duration_ms": 224598,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/4FuEQNopUQZZuSWhBjIBVM"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -955,54 +775,146 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "don't get caught up",
-        "url": "https://open.spotify.com/album/5N9VpacFXjtY9cl72IHM0W"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 219000,
-      "name": "don't get caught up",
-      "url": "https://open.spotify.com/track/6Bi6dsPsxx5XAFVEukl9BW"
+      "duration_ms": 171890,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Chin Up",
-        "url": "https://open.spotify.com/album/11lFb1Gx6KA0sftAS9Zn1j"
+        "name": "The Barrel",
+        "url": "https://open.spotify.com/album/266my6GRmoIUzp0eSEJX6Q"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 265213,
-      "name": "Chin Up",
-      "url": "https://open.spotify.com/track/2VfSwzDCImh8avZQ6mcUvd"
+      "duration_ms": 219510,
+      "name": "The Barrel - Radio Edit",
+      "url": "https://open.spotify.com/track/3HJGY8vPq6zI8mEDl6a6K4"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Quarantine at El Ganzo",
-        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
       },
       "artists": [
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        },
-        {
-          "name": "Sebastian Maschat & Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
         }
       ],
-      "duration_ms": 228059,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Same Light",
+        "url": "https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "Same Light",
+      "url": "https://open.spotify.com/track/2bWkBLuzrH7g1HcB833se9"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Cold Mine",
+        "url": "https://open.spotify.com/album/5GO4gJKyaaJxxph90fBy00"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 189614,
+      "name": "Cold Mine",
+      "url": "https://open.spotify.com/track/1Ptl8RBClJP2cj4QLfv09J"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76zQ1pqBzrcTsmYAnLgxiE"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 218738,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1qyKIq8hw9yWkuPJ9ZjuvK"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1023,34 +935,86 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
+      "duration_ms": 224000,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+        "name": "Our New World (with Kyson)",
+        "url": "https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
         }
       ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+      "duration_ms": 219442,
+      "name": "Our New World - with Kyson",
+      "url": "https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "A.M. RADIO",
+        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/11lFb1Gx6KA0sftAS9Zn1j"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/2VfSwzDCImh8avZQ6mcUvd"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "don't get caught up",
+        "url": "https://open.spotify.com/album/5N9VpacFXjtY9cl72IHM0W"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "don't get caught up",
+      "url": "https://open.spotify.com/track/6Bi6dsPsxx5XAFVEukl9BW"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1075,6 +1039,74 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/72aOfPivY1vqKo2iIuRw8y"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1lGASRI2JcaJ166eez49PS"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1MrElax7day41jzoztYk2k"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Quarantine at El Ganzo",
+        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "Sebastian Maschat & Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
+        }
+      ],
+      "duration_ms": 228059,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Cartoon People",
+        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Cartoon People",
+      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
         "name": "Flesh and Blood",
         "url": "https://open.spotify.com/album/21A1mTXZv6KgP7ar2RX4NQ"
       },
@@ -1091,18 +1123,82 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Speaking of the End",
-        "url": "https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN"
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe"
       },
       "artists": [
         {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Speaking of the End",
-      "url": "https://open.spotify.com/track/05WcicrMesButARnfWkrJe"
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Sink In",
+        "url": "https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "A Song for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "A Song for the Drunk and Broken Hearted",
+      "url": "https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Man Of The Universe",
+        "url": "https://open.spotify.com/album/6CGuPJQVu6WVdwAXyrgCHp"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man Of The Universe",
+      "url": "https://open.spotify.com/track/5fwhVJ7wDkLUhJwHHXojEx"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "M Field",
+        "url": "https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg"
+      },
+      "artists": [
+        {
+          "name": "M Field",
+          "url": "https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3"
+        }
+      ],
+      "duration_ms": 193892,
+      "name": "Ten Is a Number",
+      "url": "https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1127,178 +1223,18 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "A Song for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY"
+        "name": "Speaking of the End",
+        "url": "https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 239240,
-      "name": "A Song for the Drunk and Broken Hearted",
-      "url": "https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "No Fire in the Sand",
-        "url": "https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 257325,
-      "name": "Rhizome",
-      "url": "https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/6MtjgFUprKwmAIVJ9aXgdy"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/7dLJeNE5eqR0qVtVhN9fpr"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1MrElax7day41jzoztYk2k"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/72aOfPivY1vqKo2iIuRw8y"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1lGASRI2JcaJ166eez49PS"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Man Of The Universe",
-        "url": "https://open.spotify.com/album/6CGuPJQVu6WVdwAXyrgCHp"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man Of The Universe",
-      "url": "https://open.spotify.com/track/5fwhVJ7wDkLUhJwHHXojEx"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Follow The Sun",
-      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/5d2KcdIgiqHvaRcFWtjqJD"
-      },
-      "artists": [
-        {
-          "name": "Hanreti",
-          "url": "https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR"
-        }
-      ],
-      "duration_ms": 324532,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/5AjWtMkHCCBm840EzpKgDT"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "New Estate",
-        "url": "https://open.spotify.com/album/7LjH3WAeqMhvZ10kY4OCuu"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Mia & Keira (Days to Come)",
-      "url": "https://open.spotify.com/track/6j7MCjgVxioZ3Vc8r9kHWL"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Sink In",
-        "url": "https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM"
+      "duration_ms": 188800,
+      "name": "Speaking of the End",
+      "url": "https://open.spotify.com/track/05WcicrMesButARnfWkrJe"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1319,18 +1255,66 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Tenderfoot",
-        "url": "https://open.spotify.com/album/2ciwng9Z5XB98NKBPMcnik"
+        "name": "All is good",
+        "url": "https://open.spotify.com/album/6AioobHoCPBsYhnKfkTjqj"
       },
       "artists": [
         {
-          "name": "The Day",
-          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+          "name": "Friska Viljor",
+          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
         }
       ],
-      "duration_ms": 128703,
-      "name": "Tenderfoot",
-      "url": "https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y"
+      "duration_ms": 223975,
+      "name": "All is good",
+      "url": "https://open.spotify.com/track/467WHgKM4R7mpsJfNJxQk9"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "No Fire in the Sand",
+        "url": "https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 257325,
+      "name": "Rhizome",
+      "url": "https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/5d2KcdIgiqHvaRcFWtjqJD"
+      },
+      "artists": [
+        {
+          "name": "Hanreti",
+          "url": "https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR"
+        }
+      ],
+      "duration_ms": 324532,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/5AjWtMkHCCBm840EzpKgDT"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/6MtjgFUprKwmAIVJ9aXgdy"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/7dLJeNE5eqR0qVtVhN9fpr"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1351,34 +1335,82 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "Cartoon People",
-        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/2ciwng9Z5XB98NKBPMcnik"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
         }
       ],
-      "duration_ms": 213539,
-      "name": "Cartoon People",
-      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "All is good",
-        "url": "https://open.spotify.com/album/6AioobHoCPBsYhnKfkTjqj"
+        "name": "REAL HERO",
+        "url": "https://open.spotify.com/album/78g8qoMDU3S3hUDCuUANH3"
       },
       "artists": [
         {
-          "name": "Friska Viljor",
-          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
         }
       ],
-      "duration_ms": 223975,
-      "name": "All is good",
-      "url": "https://open.spotify.com/track/467WHgKM4R7mpsJfNJxQk9"
+      "duration_ms": 177245,
+      "name": "REAL HERO",
+      "url": "https://open.spotify.com/track/6rJ5oeX4hMaBpoSD02kMAs"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Blinking",
+        "url": "https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q"
+      },
+      "artists": [
+        {
+          "name": "The Slow Show",
+          "url": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
+        }
+      ],
+      "duration_ms": 220964,
+      "name": "Blinking",
+      "url": "https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Follow The Sun",
+      "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1415,18 +1447,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/6bliWGGT7KaxBNakrXZhKt"
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
       "artists": [
         {
-          "name": "The Sweet Serenades",
-          "url": "https://open.spotify.com/artist/2FBDYN1Vj8VBv3r9CwuReq"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 290773,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/4qaSjOOFUfC9Neg9RIoQeN"
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "New Estate",
+        "url": "https://open.spotify.com/album/7LjH3WAeqMhvZ10kY4OCuu"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 258260,
+      "name": "Mia & Keira (Days to Come)",
+      "url": "https://open.spotify.com/track/6j7MCjgVxioZ3Vc8r9kHWL"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1447,82 +1495,38 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "I Am Easy to Find",
-        "url": "https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN"
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF"
       },
       "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 213981,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "The National",
           "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/1QWDJMmEcR2cYrFENBZkLS"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "REAL HERO",
-        "url": "https://open.spotify.com/album/78g8qoMDU3S3hUDCuUANH3"
-      },
-      "artists": [
-        {
-          "name": "Blaudzun",
-          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "REAL HERO",
-      "url": "https://open.spotify.com/track/6rJ5oeX4hMaBpoSD02kMAs"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Somewhere in Chicago",
-        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Somewhere in Chicago",
-      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Blinking",
-        "url": "https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q"
-      },
-      "artists": [
-        {
-          "name": "The Slow Show",
-          "url": "https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "Blinking",
-      "url": "https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T"
+      "duration_ms": 275320,
+      "name": "coney island (feat. The National)",
+      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1543,70 +1547,34 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "How Lucky",
-        "url": "https://open.spotify.com/album/236ibaAindQ2qdAElNPTxL"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/6bliWGGT7KaxBNakrXZhKt"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        },
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "The Sweet Serenades",
+          "url": "https://open.spotify.com/artist/2FBDYN1Vj8VBv3r9CwuReq"
         }
       ],
-      "duration_ms": 203106,
-      "name": "How Lucky",
-      "url": "https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8"
+      "duration_ms": 290773,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/4qaSjOOFUfC9Neg9RIoQeN"
     },
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "September Pack",
-        "url": "https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5"
+        "name": "The Bottom of It",
+        "url": "https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 198000,
-      "name": "bye bye",
-      "url": "https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "M Field",
-        "url": "https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg"
-      },
-      "artists": [
-        {
-          "name": "M Field",
-          "url": "https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3"
-        }
-      ],
-      "duration_ms": 193892,
-      "name": "Ten Is a Number",
-      "url": "https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p"
-    },
-    {
-      "added_at": "2022-03-10 08:40:59",
-      "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 213981,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q"
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk"
     },
     {
       "added_at": "2022-03-10 08:40:59",
@@ -1627,18 +1595,50 @@
     {
       "added_at": "2022-03-10 08:40:59",
       "album": {
-        "name": "The Bottom of It",
-        "url": "https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA"
+        "name": "I Am Easy to Find",
+        "url": "https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk"
+      "duration_ms": 213373,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/1QWDJMmEcR2cYrFENBZkLS"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "Somewhere in Chicago",
+        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Somewhere in Chicago",
+      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
+    },
+    {
+      "added_at": "2022-03-10 08:40:59",
+      "album": {
+        "name": "September Pack",
+        "url": "https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "bye bye",
+      "url": "https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0"
     },
     {
       "added_at": "2022-03-10 08:40:59",

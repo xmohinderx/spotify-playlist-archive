@@ -1,12 +1,12 @@
 {
   "description": "Your go to Christian playlist for every day listening . ",
-  "num_followers": 12782,
+  "num_followers": 12780,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzA4NixkMDk1NDhkNzA4NWRmY2Y5M2IyZTg4NWQ1YWQ1Y2JmMWU3YTJkMDZk",
+  "snapshot_id": "MzA5Myw4NjY1MDg5NWU5Mjc2NTllMjQxYTAwZTkzNTY4YzI5YjE3NmNhZTZi",
   "tracks": [
     {
       "added_at": "2022-03-18 04:10:18",
@@ -23,22 +23,6 @@
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
-    },
-    {
-      "added_at": "2022-03-04 15:19:02",
-      "album": {
-        "name": "Hey Girl",
-        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
     },
     {
       "added_at": "2022-02-25 15:58:11",
@@ -59,6 +43,22 @@
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
+    },
+    {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
+        "name": "Sunday Sermons",
+        "url": "https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sunday Sermons",
+      "url": "https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs"
     },
     {
       "added_at": "2022-02-25 16:16:06",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
     },
     {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
+    },
+    {
       "added_at": "2022-03-18 15:47:26",
       "album": {
         "name": "JUMP (Neon Feather Remix)",
@@ -119,22 +135,6 @@
       "duration_ms": 216750,
       "name": "Jump - Neon Feather Remix",
       "url": "https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT"
-    },
-    {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
-        "name": "Sunday Sermons",
-        "url": "https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sunday Sermons",
-      "url": "https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs"
     },
     {
       "added_at": "2022-02-25 18:23:14",
@@ -171,6 +171,54 @@
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
+    },
+    {
+      "added_at": "2022-03-04 15:19:02",
+      "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
+    },
+    {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2"
+    },
+    {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
     },
     {
       "added_at": "2022-03-18 17:42:58",
@@ -247,22 +295,6 @@
       "duration_ms": 198379,
       "name": "Love Won\u2019t Let Go",
       "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
-    },
-    {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2"
     },
     {
       "added_at": "2022-03-03 17:39:26",
@@ -405,22 +437,6 @@
       "url": "https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj"
     },
     {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
-    },
-    {
       "added_at": "2022-02-18 16:11:23",
       "album": {
         "name": "Worth The Risk",
@@ -451,26 +467,6 @@
       "duration_ms": 190736,
       "name": "What A Good God",
       "url": "https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv"
-    },
-    {
-      "added_at": "2022-03-11 16:27:10",
-      "album": {
-        "name": "Confessio - Irish American Roots",
-        "url": "https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Jordyn Shellhart",
-          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Immigrant's Song",
-      "url": "https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx"
     },
     {
       "added_at": "2022-02-17 19:22:29",
@@ -571,22 +567,6 @@
       "duration_ms": 212186,
       "name": "Hills & Horizons",
       "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
-    },
-    {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2022-02-17 19:22:29",
@@ -1219,6 +1199,26 @@
       "duration_ms": 178461,
       "name": "All I See",
       "url": "https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3"
+    },
+    {
+      "added_at": "2022-03-11 16:27:10",
+      "album": {
+        "name": "Confessio - Irish American Roots",
+        "url": "https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Immigrant's Song",
+      "url": "https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx"
     },
     {
       "added_at": "2022-02-17 19:22:29",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: Stray Kids",
   "name": "K-Pop Fresh",
   "published_playlist_ids": [
     "7M2UzkWe0rrHEXaOnPr3Xw"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 223040,
       "name": "A WOO!!",
       "url": "https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn"
+    },
+    {
+      "album": {
+        "name": "CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS]",
+        "url": "https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD"
     },
     {
       "album": {
@@ -369,10 +387,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
+        "name": "Can't Stop This Party",
+        "url": "https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222849,
+      "name": "Can't Stop This Party",
+      "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
     },
     {
       "album": {
@@ -693,7 +729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 263680,
       "name": "Doughnut",
       "url": "https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy"
@@ -769,6 +805,24 @@
       "duration_ms": 194253,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0yhSuVJ4QGrFetP7cO4Y8a"
+    },
+    {
+      "album": {
+        "name": "EDELWEISS (Japanese Version)",
+        "url": "https://open.spotify.com/album/6wzoFKRFbqZr8xPop86mox"
+      },
+      "artists": [
+        {
+          "name": "T1419",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219868,
+      "name": "EDELWEISS - Japanese Version",
+      "url": "https://open.spotify.com/track/52kpniJmlFTsJw3I1mKh5c"
     },
     {
       "album": {
@@ -873,7 +927,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 220000,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/3JsTNnFiSBubzYQcAY5MIP"
@@ -1220,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Just be yourself",
+        "url": "https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Just be yourself",
+      "url": "https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp"
+    },
+    {
+      "album": {
         "name": "JUST BREATHE (feat. 3RACHA of Stray Kids)",
         "url": "https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8"
       },
@@ -1440,7 +1512,7 @@
     },
     {
       "album": {
-        "name": "My Life",
+        "name": "my life",
         "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
       "artists": [
@@ -1453,7 +1525,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174990,
-      "name": "My Life",
+      "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
@@ -1697,7 +1769,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 190950,
       "name": "RIDING (feat. \ubc15\ud604\uc9c4)",
       "url": "https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy"
@@ -2037,7 +2109,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 248133,
       "name": "The Song",
       "url": "https://open.spotify.com/track/6bqbFluyEgXV0hkLd9duMc"
@@ -2218,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe"
+    },
+    {
+      "album": {
         "name": "VOYAGER",
         "url": "https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE"
       },
@@ -2359,6 +2449,24 @@
       "duration_ms": 211213,
       "name": "Wonderful Day",
       "url": "https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL"
+    },
+    {
+      "album": {
+        "name": "Wondering",
+        "url": "https://open.spotify.com/album/6vDL2lO3D29KvIuTSMZGlt"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210911,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/3QsWvo8g0fx8ap9gkP39Kh"
     },
     {
       "album": {

@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 157555,
       "name": "Are you happy?",
       "url": "https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 215980,
       "name": "Back to Friends",
       "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/3EBdDNM1VcD8d8mJJEYIcJ"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 156505,
       "name": "parachute",
       "url": "https://open.spotify.com/track/4QvSA3gQn7DAWEwuEdHBAt"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 198607,
       "name": "Teenage Mona Lisa",
       "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"
@@ -1910,6 +1910,28 @@
     },
     {
       "album": {
+        "name": "...When Scars Become Art",
+        "url": "https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "Brooke Young",
+          "url": "https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287560,
+      "name": "When Scars Become Art",
+      "url": "https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS"
+    },
+    {
+      "album": {
         "name": "Half Written Story",
         "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"

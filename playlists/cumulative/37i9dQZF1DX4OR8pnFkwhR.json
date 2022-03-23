@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Tele",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: WurtS",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 284202,
       "name": "About me",
       "url": "https://open.spotify.com/track/3axLw3lcHemC6MMkEz4Sac"
@@ -135,6 +135,24 @@
       "duration_ms": 177666,
       "name": "Change the world",
       "url": "https://open.spotify.com/track/7vDP2DuhXm3n3JKxkxc5mm"
+    },
+    {
+      "album": {
+        "name": "Dadaism",
+        "url": "https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS"
+      },
+      "artists": [
+        {
+          "name": "ARAWA",
+          "url": "https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "Dadaism",
+      "url": "https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2"
     },
     {
       "album": {
@@ -276,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269909,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -341,7 +377,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 285987,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/4yKWOc2ZxCLm4CnhxwlzVt"
@@ -363,10 +399,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 347096,
       "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL"
+    },
+    {
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "album": {
@@ -435,7 +489,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 140000,
       "name": "Night Town",
       "url": "https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z"
@@ -587,7 +641,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 280500,
       "name": "Spirit & Gravity",
       "url": "https://open.spotify.com/track/1g2hPwrbL8y0iFKnUveXnC"
@@ -609,6 +663,24 @@
       "duration_ms": 243997,
       "name": "stage",
       "url": "https://open.spotify.com/track/627hDeE90JKWhlFpwkvXM9"
+    },
+    {
+      "album": {
+        "name": "STARR",
+        "url": "https://open.spotify.com/album/014VFwbOmXN4i4UzH0EUIA"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "STARR",
+      "url": "https://open.spotify.com/track/0clTIsciZ0bwWvpdeT6FVW"
     },
     {
       "album": {
@@ -713,7 +785,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 177313,
       "name": "U",
       "url": "https://open.spotify.com/track/729FKEauTfVhvHOspPcJUX"
@@ -879,7 +951,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 263315,
       "name": "\u3042\u3070\u3088\u3001",
       "url": "https://open.spotify.com/track/2EmNn0bH0C8YN0e6Hei0nT"
@@ -904,6 +976,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u307f\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/5NoPtytLmMigoL3IU3XsXb"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281941,
+      "name": "\u304d\u307f\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/3SlqmORmAZal8ciwUjl5qa"
+    },
+    {
+      "album": {
         "name": "\u3075\u3089\u3075\u3089",
         "url": "https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2"
       },
@@ -919,6 +1009,24 @@
       "duration_ms": 222064,
       "name": "\u3075\u3089\u3075\u3089",
       "url": "https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM"
+    },
+    {
+      "album": {
+        "name": "\u307c\u304f",
+        "url": "https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u5948",
+          "url": "https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "\u307c\u304f",
+      "url": "https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4"
     },
     {
       "album": {
@@ -1081,10 +1189,46 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 238612,
       "name": "\u30c8\u30e9\u30f3\u30b7\u30fc\u30f4",
       "url": "https://open.spotify.com/track/4MC3McX0mWwBT9C2FEVFL9"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30fc\u30dc\u30f3 and \u30b3\u30fc\u30d2\u30fc",
+        "url": "https://open.spotify.com/album/69GIVzC8NbF03BX4aZFB3E"
+      },
+      "artists": [
+        {
+          "name": "RYPPHYPE",
+          "url": "https://open.spotify.com/artist/4dmXmyquVh7wDfvJdKATvz"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "\u30d0\u30fc\u30dc\u30f3 and \u30b3\u30fc\u30d2\u30fc",
+      "url": "https://open.spotify.com/track/14PXuKMyrpbL4Vg44oSi2N"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30d5\u30ed\u30c4\u30ad\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/7fqc1N4mtjkcb0N6YwRtLN"
+      },
+      "artists": [
+        {
+          "name": "Crab \u87f9 Club",
+          "url": "https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191620,
+      "name": "\u30d5\u30a1\u30d5\u30ed\u30c4\u30ad\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/7bHaFtt6yzVixxgfomIdt6"
     },
     {
       "album": {
@@ -1168,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u7530\u8c37\u4ee3\u7530",
+        "url": "https://open.spotify.com/album/5hRvRnJcXZkJsV5yA8xE7V"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286112,
+      "name": "\u4e16\u7530\u8c37\u4ee3\u7530",
+      "url": "https://open.spotify.com/track/27B6088aPHsSSEyQ7wMcZ8"
+    },
+    {
+      "album": {
         "name": "\u4e16\u9593\u306e\u6b69\u304d\u65b9 -The Guide to Life in Public-",
         "url": "https://open.spotify.com/album/2Izrvd9XdffSNVZCnJaHdi"
       },
@@ -1197,7 +1359,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 269581,
       "name": "\u4ea4\u5dee\u70b9",
       "url": "https://open.spotify.com/track/2OSlif0ZfiSjEWpDMFE5PA"
@@ -1384,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "\u6975\u591c\u306b\u304a\u3044\u3066\u6708\u306f\u8a9e\u3089\u305a",
+        "url": "https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260320,
+      "name": "\u60b2\u3057\u3044\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx"
+    },
+    {
+      "album": {
         "name": "\u60b2\u3057\u307f\u3070\u304b\u308a\u3067\u6642\u4ee3\u306f\u9032\u3080\u304b\u3089... -Open Up The Door-",
         "url": "https://open.spotify.com/album/0tFO4D1ylnMVDGt8Vwse1P"
       },
@@ -1449,7 +1629,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 238724,
       "name": "\u6bd4\u3079\u3066\u3082\u3057\u3087\u3046\u304c\u306a\u3044",
       "url": "https://open.spotify.com/track/6OuYTbCbpIvwuUC2dqcGfB"
@@ -1539,7 +1719,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 193803,
       "name": "\u74b0\u72b6\u7dda",
       "url": "https://open.spotify.com/track/55MGgoeXHe635Ll6v7yfqK"
@@ -1557,7 +1737,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 279036,
       "name": "\u79c1\u305f\u3061\u306e\u671b\u3080\u3082\u306e\u306f",
       "url": "https://open.spotify.com/track/310yaM0YfVztKNYhZZo2tK"
@@ -1611,7 +1791,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 226833,
       "name": "\u826f\u3044\u7537",
       "url": "https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR"

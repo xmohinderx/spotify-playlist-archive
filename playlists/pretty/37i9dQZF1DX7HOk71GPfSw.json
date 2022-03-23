@@ -1,12 +1,12 @@
 {
   "description": "midwxst discord poppin rn",
-  "num_followers": 306320,
+  "num_followers": 306614,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxMTEzMiwwMDAwMDE0MTAwMDAwMTdmOWQ0NmJjMDUwMDAwMDE3ZjkzOWE0MTY0",
+  "snapshot_id": "MTY0Nzk3MDg5NywwMDAwMDE0MjAwMDAwMTdmYjJiODRlOTEwMDAwMDE3ZjkzOWE0MTY0",
   "tracks": [
     {
       "added_at": "2022-03-16 16:43:12",
@@ -189,6 +189,26 @@
       "url": "https://open.spotify.com/track/7rgPQ49TgiAc3v83doKJKK"
     },
     {
+      "added_at": "2022-03-22 17:41:37",
+      "album": {
+        "name": "Teen Week",
+        "url": "https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3"
+      },
+      "artists": [
+        {
+          "name": "dltzk",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        },
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 145183,
+      "name": "homeswitcher",
+      "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
+    },
+    {
       "added_at": "2022-03-18 13:45:32",
       "album": {
         "name": "That's All Me",
@@ -351,6 +371,22 @@
       "duration_ms": 120092,
       "name": "okayracer!",
       "url": "https://open.spotify.com/track/0rvTaYB3MkqTgkSIOoJWhl"
+    },
+    {
+      "added_at": "2022-01-26 22:13:05",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2022-03-18 13:45:32",
@@ -815,22 +851,6 @@
       "duration_ms": 160885,
       "name": "zoo",
       "url": "https://open.spotify.com/track/4Hkn88h1JbizcvddFqCluG"
-    },
-    {
-      "added_at": "2022-01-26 22:13:05",
-      "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2021-12-10 06:56:00",

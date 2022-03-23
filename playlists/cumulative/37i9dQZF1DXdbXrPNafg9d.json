@@ -38582,6 +38582,24 @@
     },
     {
       "album": {
+        "name": "sore thumb",
+        "url": "https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "nothing to do",
+      "url": "https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7"
+    },
+    {
+      "album": {
         "name": "NOTHINGTOLOSE",
         "url": "https://open.spotify.com/album/7B6H4m4fM96SQ9aFrhoAW2"
       },

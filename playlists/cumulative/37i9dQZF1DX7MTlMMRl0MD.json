@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 250000,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/205UQMjPr9vVthUghoqynT"
@@ -1382,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "It's Vicky",
+        "url": "https://open.spotify.com/album/4fsMjeI9KTMx4G2ry9p1qK"
+      },
+      "artists": [
+        {
+          "name": "Vicky Corbacho",
+          "url": "https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228869,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/20NwqE5Qo94UZ4iCzvtwMm"
+    },
+    {
+      "album": {
         "name": "K.O.B. Live",
         "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 250124,
       "name": "Me Sacaste Del Llavero",
       "url": "https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd"
@@ -1905,6 +1923,24 @@
       "duration_ms": 287960,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
+    },
+    {
+      "album": {
+        "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+        "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+      "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
     },
     {
       "album": {

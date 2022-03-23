@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: Asli Ozer \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: Dozi Ozovski \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "published_playlist_ids": [
     "2SD1ylRiXJ4kfEeC2aTpUY"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 266200,
       "name": "Bahar",
       "url": "https://open.spotify.com/track/4lHXnw5bf8Myg5xuNZVFTh"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 283166,
       "name": "Belki Bir G\u00fcn",
       "url": "https://open.spotify.com/track/2U77TsPYVZP0ip80gpBC2r"
@@ -625,6 +625,24 @@
       "duration_ms": 225200,
       "name": "Duy Beni",
       "url": "https://open.spotify.com/track/4CWpax3A8UUUdcBe7Ivgkf"
+    },
+    {
+      "album": {
+        "name": "D\u00f6nemem Hay\u0131r",
+        "url": "https://open.spotify.com/album/4N2aTtvtIWIP2R8chz65KT"
+      },
+      "artists": [
+        {
+          "name": "Kaan Din\u00e7",
+          "url": "https://open.spotify.com/artist/2KhZmkibLiVQuqvfYiCqMS"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179467,
+      "name": "D\u00f6nemem Hay\u0131r",
+      "url": "https://open.spotify.com/track/0zNwqcwscKVc7RKUCWyN8d"
     },
     {
       "album": {
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 328000,
       "name": "IDK",
       "url": "https://open.spotify.com/track/57VHmDczK9GuiShhnlup3e"
@@ -2442,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "unut",
+        "url": "https://open.spotify.com/album/4wTUoeLM920JQ9S6Eq1caj"
+      },
+      "artists": [
+        {
+          "name": "Canb",
+          "url": "https://open.spotify.com/artist/2j6Njk4Gb8Txqu7UVz1Qsk"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203395,
+      "name": "unut",
+      "url": "https://open.spotify.com/track/7yULCqs6U58u0bStynsaAr"
+    },
+    {
+      "album": {
         "name": "Uyand\u0131\u011f\u0131mda (Zeynep Oktar Remix)",
         "url": "https://open.spotify.com/album/4BDuLdgVUR2Q5pdyVcyVhR"
       },
@@ -2749,7 +2785,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 238670,
       "name": "Yok",
       "url": "https://open.spotify.com/track/3RM1XAM17LzBg3sh3ECyBl"
@@ -2828,6 +2864,24 @@
     },
     {
       "album": {
+        "name": "Y\u00fcz\u00fcmde \u00c7izgiler",
+        "url": "https://open.spotify.com/album/5ahwmRygeFWxcCL1lzJis0"
+      },
+      "artists": [
+        {
+          "name": "S\u0131cak",
+          "url": "https://open.spotify.com/artist/6feNz3Y3BLMapN0EFic6LY"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238983,
+      "name": "Y\u00fcz\u00fcmde \u00c7izgiler",
+      "url": "https://open.spotify.com/track/2NZlzEIqQvmvvACHLVlvio"
+    },
+    {
+      "album": {
         "name": "Zamanlama",
         "url": "https://open.spotify.com/album/6zUq2dYCVWTMtz9TwyXwbe"
       },
@@ -2879,6 +2933,24 @@
       "duration_ms": 277000,
       "name": "Zincir",
       "url": "https://open.spotify.com/track/4kR3uT3SSW5Q746QwjNb0m"
+    },
+    {
+      "album": {
+        "name": "\u00e7ift c",
+        "url": "https://open.spotify.com/album/5w7Pq2FeYsyBSJh6RXPTvF"
+      },
+      "artists": [
+        {
+          "name": "Yves Nisha",
+          "url": "https://open.spotify.com/artist/39OhF2kFnDtdD3bqcYha81"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "\u00e7ift c",
+      "url": "https://open.spotify.com/track/43QuR1YUnS8aDnuxpK5vrU"
     },
     {
       "album": {

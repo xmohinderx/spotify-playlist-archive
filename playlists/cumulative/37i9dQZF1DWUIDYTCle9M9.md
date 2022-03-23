@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 |  |
+| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 | 2022-03-23 |
 | [A Cor É Rosa](https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Cor É Rosa](https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF) | 3:48 | 2021-07-02 |  |
 | [A Estrada](https://open.spotify.com/track/3bS1srVDOOqGYCKcnzYwfs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:42 | 2021-07-02 |  |
 | [A Voz E O Violão](https://open.spotify.com/track/3PX5eDiq4yOCeryQg5FcFr) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Voz E O Violão](https://open.spotify.com/album/6gEnotCkoJLErkbEpoqkmk) | 3:23 | 2021-07-02 |  |
@@ -31,7 +31,7 @@
 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 | 2021-07-02 |  |
 | [Continuo a Te Esperar](https://open.spotify.com/track/7JqpAE1F38v9wbpLFaMoqf) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Continuo a Te Esperar](https://open.spotify.com/album/3afviUGgUPcgJkdgmbGBZV) | 3:37 | 2021-07-02 |  |
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2021-07-02 |  |
-| [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 | 2021-07-02 | 2022-03-18 |
+| [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 | 2021-07-02 |  |
 | [Dias Melhores](https://open.spotify.com/track/6mpiOoEcus2zYIl9qdHVyG) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Oxigênio](https://open.spotify.com/album/5enKJDDkB9Y4ElY1xHw5k6) | 4:46 | 2021-07-02 |  |
 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 | 2021-07-02 |  |
 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 | 2021-07-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Poté, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,598 likes - 124 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,695 likes - 124 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 123 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
 | 124 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 |
 
-Snapshot ID: `MTY0NzQ0ODc0MCwwMDAwMDcwMTAwMDAwMTdmOTM5OGQzMGYwMDAwMDE3ZjkzMzcyZDcy`
+Snapshot ID: `MTY0Nzk2Mjg5MiwwMDAwMDcwMjAwMDAwMTdmYjIzZTI3YjkwMDAwMDE3ZmIyM2UxMzc5`

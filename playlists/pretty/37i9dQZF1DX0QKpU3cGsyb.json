@@ -1,33 +1,13 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1510672,
+  "num_followers": 1511181,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzkxMDI5MiwwMDAwMDAwMDc1MDE0ODJlOTk3ZDBmZjhmZTkwOGVlYmZiODE1M2Ez",
+  "snapshot_id": "MTY0Nzk5NzA1NywwMDAwMDAwMDg0ODVkMTNhZWJlMTUwMGUxYzQzOGQyYmNlOTlkZDFl",
   "tracks": [
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Wild Side (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Wild Side (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
-    },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
@@ -67,6 +47,26 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Wild Side (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Wild Side (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Get Back (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 222168,
-      "name": "Get Back (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 223414,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Get Back (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 222168,
+      "name": "Get Back (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Ease My Mind (Come Over)",
-        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Ease My Mind (Come Over)",
-      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
       },
@@ -255,22 +239,46 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Red Lights (feat. Wale)",
-        "url": "https://open.spotify.com/album/1LaQ5Og0q3iP5UAKDJuMbE"
+        "name": "Wasting Time ( feat. Drake & The Neptunes )",
+        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
       "artists": [
         {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         },
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
         }
       ],
-      "duration_ms": 219686,
-      "name": "Red Lights (feat. Wale)",
-      "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
+      "duration_ms": 301304,
+      "name": "Wasting Time ( feat. Drake & The Neptunes )",
+      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -311,78 +319,54 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "FWM",
-        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
+        "name": "Ease My Mind (Come Over)",
+        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
       },
       "artists": [
         {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
         }
       ],
-      "duration_ms": 199533,
-      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
+      "duration_ms": 166293,
+      "name": "Ease My Mind (Come Over)",
+      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Waves of Blue",
-        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
+        "name": "Red Lights (feat. Wale)",
+        "url": "https://open.spotify.com/album/1LaQ5Og0q3iP5UAKDJuMbE"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
+      "duration_ms": 219686,
+      "name": "Red Lights (feat. Wale)",
+      "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3"
+        "name": "R\u00e9sum\u00e9",
+        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
       },
       "artists": [
         {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 231616,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Wasting Time ( feat. Drake & The Neptunes )",
-        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        }
-      ],
-      "duration_ms": 301304,
-      "name": "Wasting Time ( feat. Drake & The Neptunes )",
-      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
+      "duration_ms": 180357,
+      "name": "R\u00e9sum\u00e9",
+      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -423,42 +407,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 164565,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Space and Time",
         "url": "https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E"
       },
@@ -475,106 +423,6 @@
       "duration_ms": 173341,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/7A1xtIabfrZ5X3xIa7KqWj"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "LOST YOU",
-        "url": "https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "R\u00e9sum\u00e9",
-        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 180357,
-      "name": "R\u00e9sum\u00e9",
-      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Closer To Me",
-      "url": "https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/76q71iu26OY0FhR5ea54Mb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Sole",
-          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
-        },
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/2ZAz3sxhrUWAeyGcz140gB"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6SyKCp77HGNRinaWxVkTVA"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Show U Off",
-        "url": "https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 251132,
-      "name": "Show U Off",
-      "url": "https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "24hrs",
-        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 202551,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -599,102 +447,154 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Vibrate (feat. Pink Sweat$)",
-        "url": "https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3"
       },
       "artists": [
         {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 231616,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         },
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 147013,
-      "name": "Vibrate (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF"
+      "duration_ms": 164565,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
       },
       "artists": [
         {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
         }
       ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
+      "duration_ms": 202551,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "At Your Best (You Are Love) - Spotify Singles",
-        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
+        "name": "Waves of Blue",
+        "url": "https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 317890,
-      "name": "At Your Best (You Are Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Aura III",
-        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+        "name": "LOST YOU",
+        "url": "https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 188234,
-      "name": "In My Corner",
-      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "PEAKING",
-        "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/76q71iu26OY0FhR5ea54Mb"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/2ZAz3sxhrUWAeyGcz140gB"
         }
       ],
-      "duration_ms": 193234,
-      "name": "PEAKING",
-      "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
+      "duration_ms": 232712,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6SyKCp77HGNRinaWxVkTVA"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Demos For Ransom",
-        "url": "https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
       "artists": [
         {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
         }
       ],
-      "duration_ms": 168751,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/2ZS9p6DEd54quGRhUk4zaH"
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Show U Off",
+        "url": "https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 251132,
+      "name": "Show U Off",
+      "url": "https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -715,6 +615,94 @@
       "duration_ms": 206226,
       "name": "Free Like Me",
       "url": "https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Aura III",
+        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 188234,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/4hZRrCaaXzI6E2lmuRW2yk"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 191903,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2jTovHL9JKMTErPbYtyOLs"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Demos For Ransom",
+        "url": "https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU"
+      },
+      "artists": [
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/2ZS9p6DEd54quGRhUk4zaH"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -743,58 +731,38 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "Vibrate (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "IV JAY",
+          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
         },
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+      "duration_ms": 147013,
+      "name": "Vibrate (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/4hZRrCaaXzI6E2lmuRW2yk"
+        "name": "PEAKING",
+        "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 191903,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/2jTovHL9JKMTErPbYtyOLs"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Soulquarius",
-        "url": "https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg"
-      },
-      "artists": [
-        {
-          "name": "Phabo",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "Jelly",
-      "url": "https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk"
+      "duration_ms": 193234,
+      "name": "PEAKING",
+      "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -815,6 +783,46 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/0tgUE3W7ZNhpW7sypjvBkK"
+      },
+      "artists": [
+        {
+          "name": "BARii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "duration_ms": 165604,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/1snKYWnRhMsrpelhlAONGA"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Surround Me",
+        "url": "https://open.spotify.com/album/0QWjiXuZ2remhr1qKwTGWu"
+      },
+      "artists": [
+        {
+          "name": "Ayotemi",
+          "url": "https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        },
+        {
+          "name": "Tomidrey",
+          "url": "https://open.spotify.com/artist/3EoEhybMTG3lOm1ABZNvRb"
+        }
+      ],
+      "duration_ms": 228681,
+      "name": "Surround Me",
+      "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
       },
@@ -831,6 +839,38 @@
       "duration_ms": 154634,
       "name": "Rebel (feat. Jeremih)",
       "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "At Your Best (You Are Love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 317890,
+      "name": "At Your Best (You Are Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/0ivBjyy1bUlnmeq1VqF1LD"
+      },
+      "artists": [
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/4u5sbHIPXsL3ixbOVOow3M"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -867,58 +907,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/4ol1XZYOffyV3VAbOArlCw"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/0ivBjyy1bUlnmeq1VqF1LD"
-      },
-      "artists": [
-        {
-          "name": "Karl Benjamin",
-          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/4u5sbHIPXsL3ixbOVOow3M"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Time (Remix) [feat. KIRBY]",
-        "url": "https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Time (Remix) [feat. KIRBY]",
-      "url": "https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N"
+      "duration_ms": 225919,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/0w9PgFcTJOlUiadfPVefxs"
     }
   ],
   "unique_name": "Bedroom Jams",

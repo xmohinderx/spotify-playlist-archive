@@ -441,6 +441,10 @@
         {
           "name": "Shenseea",
           "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
       "date_added": "2022-03-11",
@@ -871,6 +875,28 @@
       "duration_ms": 190812,
       "name": "G Lock",
       "url": "https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC"
+    },
+    {
+      "album": {
+        "name": "Thanks For Waiting",
+        "url": "https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222178,
+      "name": "Gangsteritus",
+      "url": "https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu"
     },
     {
       "album": {

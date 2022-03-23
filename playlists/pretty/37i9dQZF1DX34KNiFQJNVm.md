@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus & Kauan, Lexa com Leo Santana, ROSALÍA e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,665 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,892 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 18 | [Figurante](https://open.spotify.com/track/0fITdKjwnlIazCHg8mkP83) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Figurante](https://open.spotify.com/album/36h9c9uQDRiIrj9cop7nRu) | 3:24 |
 | 19 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 20 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 |
-| 21 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:49 |
+| 21 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 |
 | 22 | [Nascido Pra Ser Rei](https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [nvhuel](https://open.spotify.com/artist/1FwW77wjo2Ri4RDWIXsLen) | [Nascido Pra Ser Rei](https://open.spotify.com/album/6Rq6eAjewxn9UFtx2EHTjn) | 3:03 |
 | 23 | [SIGNOS](https://open.spotify.com/track/7FKxm21YtCTJpDYSFdcpwH) | [Hodari](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [SIGNOS](https://open.spotify.com/album/6pkIJadkp2QVwqNGqwF7u4) | 3:03 |
 | 24 | [Passa Longe do Copo \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/6o6xE3VDvRdYv0l4LL7Tu1) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Passa Longe do Copo \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2lE4mAxu3dmYhuN8eBsE0G) | 2:52 |

@@ -1,13 +1,29 @@
 {
   "description": "Featuring new music by Terry Presume.",
-  "num_followers": 635558,
+  "num_followers": 635750,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxNzU5OCwwMDAwMDI3MDAwMDAwMTdmOWRhOTYyODIwMDAwMDE3Zjc5NzJmNzgw",
+  "snapshot_id": "MTY0Nzk4MzMzMiwwMDAwMDI3NDAwMDAwMTdmYjM3NjBjMTEwMDAwMDE3Zjc5NzJmNzgw",
   "tracks": [
+    {
+      "added_at": "2022-03-22 13:30:00",
+      "album": {
+        "name": "i got it",
+        "url": "https://open.spotify.com/album/0DPNAxqZmxsG5cIIRu1mUq"
+      },
+      "artists": [
+        {
+          "name": "Maasho",
+          "url": "https://open.spotify.com/artist/1JREmglx633MGQB73njWtE"
+        }
+      ],
+      "duration_ms": 213157,
+      "name": "i got it",
+      "url": "https://open.spotify.com/track/09MQjbV6eiOAMmL3Uwus6P"
+    },
     {
       "added_at": "2022-03-11 14:48:28",
       "album": {
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS"
     },
     {
-      "added_at": "2022-03-16 16:52:13",
-      "album": {
-        "name": "Lonestar",
-        "url": "https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
-        }
-      ],
-      "duration_ms": 194673,
-      "name": "Lonestar",
-      "url": "https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn"
-    },
-    {
       "added_at": "2022-03-18 15:33:18",
       "album": {
         "name": "No Effort",
@@ -73,20 +73,52 @@
       "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
     },
     {
-      "added_at": "2022-03-17 14:54:15",
+      "added_at": "2022-03-16 16:52:13",
       "album": {
-        "name": "bootleg jordans",
-        "url": "https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS"
+        "name": "Lonestar",
+        "url": "https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi"
       },
       "artists": [
         {
-          "name": "Saint Lane",
-          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
         }
       ],
-      "duration_ms": 189000,
-      "name": "bootleg jordans",
-      "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
+      "duration_ms": 194673,
+      "name": "Lonestar",
+      "url": "https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn"
+    },
+    {
+      "added_at": "2022-02-25 05:09:00",
+      "album": {
+        "name": "Crutches",
+        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Crutches",
+      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
+    },
+    {
+      "added_at": "2022-03-22 14:26:17",
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "SUCKAPUNCH",
+      "url": "https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -173,22 +205,6 @@
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "Crutches",
-        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Crutches",
-      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
-    },
-    {
       "added_at": "2022-03-18 15:33:18",
       "album": {
         "name": "My Boy",
@@ -253,22 +269,6 @@
       "url": "https://open.spotify.com/track/0vPpdNrO38ObJs71ly8yL1"
     },
     {
-      "added_at": "2022-03-18 15:33:18",
-      "album": {
-        "name": "OVER EVERYTHING",
-        "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
-        }
-      ],
-      "duration_ms": 191838,
-      "name": "OVER EVERYTHING",
-      "url": "https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV"
-    },
-    {
       "added_at": "2022-02-28 20:15:33",
       "album": {
         "name": "PORN ACTING*",
@@ -315,6 +315,22 @@
       "duration_ms": 214557,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh"
+    },
+    {
+      "added_at": "2022-03-17 14:54:15",
+      "album": {
+        "name": "bootleg jordans",
+        "url": "https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS"
+      },
+      "artists": [
+        {
+          "name": "Saint Lane",
+          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "bootleg jordans",
+      "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
     },
     {
       "added_at": "2022-03-11 14:48:28",
@@ -365,6 +381,22 @@
       "url": "https://open.spotify.com/track/08Ivl0uOeI7Eaf7Nwk6Vtw"
     },
     {
+      "added_at": "2022-03-22 21:08:52",
+      "album": {
+        "name": "cool kids",
+        "url": "https://open.spotify.com/album/57zgwmZISU2Ihn9aF1ZFiK"
+      },
+      "artists": [
+        {
+          "name": "CHRIS YONGE",
+          "url": "https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT"
+        }
+      ],
+      "duration_ms": 149341,
+      "name": "cool kids",
+      "url": "https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC"
+    },
+    {
       "added_at": "2022-03-03 15:43:56",
       "album": {
         "name": "Power Power (feat. Shaun Ross)",
@@ -403,6 +435,22 @@
       "duration_ms": 179693,
       "name": "ALIENSPEAK (feat. Curtis Waters)",
       "url": "https://open.spotify.com/track/15HLtPoII6TTHbej3R6xKz"
+    },
+    {
+      "added_at": "2022-03-18 15:33:18",
+      "album": {
+        "name": "OVER EVERYTHING",
+        "url": "https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 191838,
+      "name": "OVER EVERYTHING",
+      "url": "https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV"
     },
     {
       "added_at": "2022-03-02 15:44:12",
@@ -621,22 +669,6 @@
       "url": "https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs"
     },
     {
-      "added_at": "2021-09-20 14:37:48",
-      "album": {
-        "name": "THE ANGEL YOU DON'T KNOW",
-        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 143159,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA"
-    },
-    {
       "added_at": "2021-07-30 15:54:25",
       "album": {
         "name": "fantasize",
@@ -699,22 +731,6 @@
       "duration_ms": 160388,
       "name": "Espada Primo",
       "url": "https://open.spotify.com/track/1SnrSiotEZcuZvGWRLSBIp"
-    },
-    {
-      "added_at": "2022-02-28 20:15:33",
-      "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/3hntFDNTgOhTrwZENdPTNi"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/46qOZzUoQU2JaEiiOhunJ7"
     },
     {
       "added_at": "2022-02-28 20:15:33",
@@ -1647,26 +1663,6 @@
       "duration_ms": 195562,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L"
-    },
-    {
-      "added_at": "2021-10-15 18:59:36",
-      "album": {
-        "name": "incentivize unpaid overtime 2",
-        "url": "https://open.spotify.com/album/61DXuWPO5fHZmeORMrB5Ao"
-      },
-      "artists": [
-        {
-          "name": "ceo@business.net",
-          "url": "https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR"
-        },
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "buttercup 2",
-      "url": "https://open.spotify.com/track/2bRxQbAQ2OsPKSNc1bllEl"
     },
     {
       "added_at": "2021-11-05 04:10:00",

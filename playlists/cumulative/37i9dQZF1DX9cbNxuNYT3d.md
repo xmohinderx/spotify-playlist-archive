@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9cbNxuNYT3d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9cbNxuNYT3d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9cbNxuNYT3d)
 
-### French Touch
+### [French Touch](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 

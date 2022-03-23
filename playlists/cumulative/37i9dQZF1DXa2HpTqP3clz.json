@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 258518,
       "name": "Bad Angel - Live",
       "url": "https://open.spotify.com/track/5TZHBG5VWv4kv5VtHXijdb"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 200480,
       "name": "Empty Square",
       "url": "https://open.spotify.com/track/2JJAhyzA35yZa3wnwg6BQT"
@@ -2737,7 +2737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 187536,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0Ndz098s8LJYiArykTPM08"
@@ -2879,7 +2879,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
@@ -3183,7 +3183,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
@@ -3841,7 +3841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 154564,
       "name": "Take the Long Way Home",
       "url": "https://open.spotify.com/track/3cg9WFT5K0zizQg51QTX1f"
@@ -3875,7 +3875,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
@@ -3911,7 +3911,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 211671,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/7pYZ03HHfN3nZ6xj2jeeqZ"
@@ -4296,6 +4296,24 @@
     },
     {
       "album": {
+        "name": "The Other Side Of Love",
+        "url": "https://open.spotify.com/album/3ftHiJIrci7MzIx3YDsZr9"
+      },
+      "artists": [
+        {
+          "name": "The Bad Oats",
+          "url": "https://open.spotify.com/artist/3qod4QYLHKxmo007ymm6Gz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157214,
+      "name": "This Old Plane",
+      "url": "https://open.spotify.com/track/4VCRlqJr50b8q3zJEkc4Ei"
+    },
+    {
+      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs"
       },
@@ -4401,7 +4419,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 252630,
       "name": "Troubled Times",
       "url": "https://open.spotify.com/track/0mF8LPhWriCL78r2h2UnXU"
@@ -4909,7 +4927,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 201573,
       "name": "With Body and Soul (feat. Emmylou Harris, Tom Gray, John Starling)",
       "url": "https://open.spotify.com/track/4SiS7LvF6n8WnW5ZeB4RfL"
@@ -4963,7 +4981,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 177053,
       "name": "You Were On My Mind This Morning",
       "url": "https://open.spotify.com/track/4XHgu6RHqSyUE7pFKTAlzW"

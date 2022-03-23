@@ -304,24 +304,6 @@
     },
     {
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH"
-      },
-      "artists": [
-        {
-          "name": "Molham",
-          "url": "https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom"
-        }
-      ],
-      "date_added": "2022-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136941,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ"
-    },
-    {
-      "album": {
         "name": "GRAND CASABLANCA",
         "url": "https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY"
       },
@@ -1285,6 +1267,24 @@
       "duration_ms": 233571,
       "name": "\u0641\u064a \u0627\u0644\u0633\u0645\u0627\u0621 (Fe Samaa)",
       "url": "https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH"
+      },
+      "artists": [
+        {
+          "name": "Molham",
+          "url": "https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "\u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ"
     },
     {
       "album": {

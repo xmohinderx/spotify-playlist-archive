@@ -2991,7 +2991,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 199400,
       "name": "Good Form",
       "url": "https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 124055,
       "name": "Gucci Gang",
       "url": "https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
@@ -3151,7 +3151,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 280173,
       "name": "Hate Bein' Sober",
       "url": "https://open.spotify.com/track/3SuzCeGoNOWmbWOoDMou0B"
@@ -3249,7 +3249,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 181231,
       "name": "Hood Rat Shit",
       "url": "https://open.spotify.com/track/1hOHLiauos0RROoUxd88mL"
@@ -3297,7 +3297,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 199427,
       "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
@@ -3337,7 +3337,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 276794,
       "name": "How Did I Get Here (feat. J. Cole)",
       "url": "https://open.spotify.com/track/32iPykTXUNZ9oGyACGUybq"
@@ -3417,7 +3417,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 293840,
       "name": "I Don't Like",
       "url": "https://open.spotify.com/track/2ikkgfIIM9kGKZCXzXnTpj"
@@ -3523,7 +3523,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 207040,
       "name": "I'm Different",
       "url": "https://open.spotify.com/track/6J5sxraPPZ4b0CVOGAgpXj"
@@ -3553,10 +3553,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 298866,
       "name": "I'm On One",
       "url": "https://open.spotify.com/track/1shcX6tiTCzNcJ3dfuf3kM"
+    },
+    {
+      "album": {
+        "name": "Ice Me Out (Remix)",
+        "url": "https://open.spotify.com/album/5k1PaJqb6ds1yPWwDMUGN9"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Ice Me Out - Remix",
+      "url": "https://open.spotify.com/track/42N2niihNAqE2Os1Cw5nqj"
     },
     {
       "album": {
@@ -3611,7 +3633,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 142000,
       "name": "JAPAN",
       "url": "https://open.spotify.com/track/5PTG6rrL6EPFD9E2QMI2pl"
@@ -3629,7 +3651,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 119133,
       "name": "Jocelyn Flores",
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
@@ -3647,7 +3669,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 137133,
       "name": "Jumpin on a Jet",
       "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
@@ -3669,7 +3691,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 205879,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
@@ -3797,7 +3819,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx"
@@ -3827,7 +3849,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 229670,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
@@ -3845,7 +3867,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 275840,
       "name": "Know Yourself",
       "url": "https://open.spotify.com/track/5InOp6q2vvx0fShv3bzFLZ"
@@ -3863,7 +3885,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 199680,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/3CArFtrkJzWkxgjmX7ki9N"
@@ -3903,7 +3925,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 225573,
       "name": "Last Time That I Checc'd (feat. YG)",
       "url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p"
@@ -3921,7 +3943,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 195637,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/14mHfNsSHN0FbLftyjrV9g"
@@ -4111,7 +4133,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 221853,
       "name": "LLC",
       "url": "https://open.spotify.com/track/7CKR3FcBqSsGcgce0ECe1z"
@@ -4147,7 +4169,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 126345,
       "name": "Look At Me!",
       "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
@@ -4183,7 +4205,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 200452,
       "name": "lose",
       "url": "https://open.spotify.com/track/2AGUFka8kBWCM47h5uTlDb"
@@ -4245,7 +4267,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
@@ -4329,7 +4351,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 350120,
       "name": "m.A.A.d city",
       "url": "https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd"
@@ -4507,7 +4529,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 298826,
       "name": "MC Hammer",
       "url": "https://open.spotify.com/track/1nnEDoSsNqbUMolxXmxopa"
@@ -4657,7 +4679,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 279306,
       "name": "Moment 4 Life",
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
@@ -4679,7 +4701,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 173760,
       "name": "Momma I Hit A Lick (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE"
@@ -4697,7 +4719,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 183527,
       "name": "Money",
       "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
@@ -4737,7 +4759,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 198944,
       "name": "Money Longer",
       "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
@@ -4811,7 +4833,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
@@ -4891,7 +4913,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 161557,
       "name": "Musty",
       "url": "https://open.spotify.com/track/2bkKnaLTMCghmjlcPBoYWd"
@@ -4939,7 +4961,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
@@ -4957,7 +4979,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 126446,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
@@ -5033,7 +5055,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 258789,
       "name": "Neon Guts (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/1MJErNPIQUoEMu4YUUmecm"
@@ -5143,7 +5165,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 218283,
       "name": "NO BYSTANDERS",
       "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
@@ -5213,7 +5235,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
@@ -5323,7 +5345,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 200080,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1"
@@ -5421,7 +5443,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 213357,
       "name": "Off Deez (with J. Cole)",
       "url": "https://open.spotify.com/track/3JAeYOjyJodI4PRs44lx2l"

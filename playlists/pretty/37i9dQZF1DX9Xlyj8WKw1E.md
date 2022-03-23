@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Vic Mensa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827 likes - 54 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 54 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0Rz1KXsP4bhGxs0ffySSSn"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 246520,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng"
@@ -2128,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-23",
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/2MDdh4rbNNBiy8l6XgI6E9"
