@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Dream Theater",
-  "num_followers": 292127,
+  "num_followers": 292205,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzIzNywwMDAwMDAwMGY2MjMwN2U0ZTY0NGQ0NmQ2YWRiNTQ1ZjgwMWRmOWNl",
+  "snapshot_id": "MTY0ODA4MzM2MSwwMDAwMDAwMDYxNWRiZDM1OTVlMWQ3ZDk2ODgxNmVhMTQ5NTNmMGUy",
   "tracks": [
     {
       "added_at": "2022-03-01 15:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/6rWgutCaW1084UIJ3znx6G"
-      },
-      "artists": [
-        {
-          "name": "The Odious",
-          "url": "https://open.spotify.com/artist/1Vloojr1lQdt2vl3XQ6HtE"
-        }
-      ],
-      "duration_ms": 409200,
-      "name": "Mono No Aware",
-      "url": "https://open.spotify.com/track/59fmZqAYhaGc7rPzumREFC"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
         "name": "Moving Backwards",
         "url": "https://open.spotify.com/album/3ljdaYc9YueusEqCmMv6yM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 610569,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/3AKdPJni2bJAdUDcfW3EGg"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/6rWgutCaW1084UIJ3znx6G"
+      },
+      "artists": [
+        {
+          "name": "The Odious",
+          "url": "https://open.spotify.com/artist/1Vloojr1lQdt2vl3XQ6HtE"
+        }
+      ],
+      "duration_ms": 409200,
+      "name": "Mono No Aware",
+      "url": "https://open.spotify.com/track/59fmZqAYhaGc7rPzumREFC"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
+        "name": "Fugue",
+        "url": "https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo"
+      },
+      "artists": [
+        {
+          "name": "Wheel",
+          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+        }
+      ],
+      "duration_ms": 271856,
+      "name": "Fugue",
+      "url": "https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
         "name": "The World Without a View",
         "url": "https://open.spotify.com/album/3wOUZYGoZgJkYvZdKLWNsH"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 347682,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6DOqduiusrH8Fg6UZIwDnd"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
-        "name": "Fugue",
-        "url": "https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo"
-      },
-      "artists": [
-        {
-          "name": "Wheel",
-          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
-        }
-      ],
-      "duration_ms": 271856,
-      "name": "Fugue",
-      "url": "https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
-        "name": "Fall into the Light",
-        "url": "https://open.spotify.com/album/5J6Whs1o820DUjloUcuRsg"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 424520,
-      "name": "Fall into the Light",
-      "url": "https://open.spotify.com/track/3F8OmCcFxVdFsgo68JlBLu"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
         "name": "Assassins",
         "url": "https://open.spotify.com/album/6nMcudVxY5q322alkFs2wh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 350689,
       "name": "Assassins",
       "url": "https://open.spotify.com/track/3AG4HbsTsfWs9UxQkiZjjW"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
+        "name": "Fall into the Light",
+        "url": "https://open.spotify.com/album/5J6Whs1o820DUjloUcuRsg"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 424520,
+      "name": "Fall into the Light",
+      "url": "https://open.spotify.com/track/3F8OmCcFxVdFsgo68JlBLu"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
-        "name": "Leaves of Yesteryear",
-        "url": "https://open.spotify.com/album/7GloNSvJElEwT2rzMnvFCW"
-      },
-      "artists": [
-        {
-          "name": "Green Carnation",
-          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
-        }
-      ],
-      "duration_ms": 483315,
-      "name": "Leaves of Yesteryear",
-      "url": "https://open.spotify.com/track/1paRTCqdLLz4ohFJ9NrFFg"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
         "name": "Save Us",
         "url": "https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
+        "name": "Leaves of Yesteryear",
+        "url": "https://open.spotify.com/album/7GloNSvJElEwT2rzMnvFCW"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "duration_ms": 483315,
+      "name": "Leaves of Yesteryear",
+      "url": "https://open.spotify.com/track/1paRTCqdLLz4ohFJ9NrFFg"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
-        "name": "Aphelion",
-        "url": "https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG"
-      },
-      "artists": [
-        {
-          "name": "Leprous",
-          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
-        }
-      ],
-      "duration_ms": 424443,
-      "name": "Nighttime Disguise",
-      "url": "https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
         "name": "Eschatology",
         "url": "https://open.spotify.com/album/1qqBFEIPmJewN2KkmNxlKz"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 329333,
       "name": "Eschatology",
       "url": "https://open.spotify.com/track/3kVEOUj0OIAQUaKaLOWfgH"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
+        "name": "Aphelion",
+        "url": "https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG"
+      },
+      "artists": [
+        {
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
+        }
+      ],
+      "duration_ms": 424443,
+      "name": "Nighttime Disguise",
+      "url": "https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
-        "name": "Fall to Ascend",
-        "url": "https://open.spotify.com/album/4mQXlEaXmCJ7o3Tlyv644R"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Apollo",
-          "url": "https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f"
-        }
-      ],
-      "duration_ms": 306613,
-      "name": "Fall to Ascend",
-      "url": "https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
         "name": "Spectre At The Feast",
         "url": "https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 258800,
       "name": "Spectre At The Feast",
       "url": "https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
+        "name": "Fall to Ascend",
+        "url": "https://open.spotify.com/album/4mQXlEaXmCJ7o3Tlyv644R"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Apollo",
+          "url": "https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f"
+        }
+      ],
+      "duration_ms": 306613,
+      "name": "Fall to Ascend",
+      "url": "https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4"
     },
     {
       "added_at": "2022-03-01 15:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2022-03-01 15:00:00",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1VTVO1O1QY44xrhExlhoaP"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 401000,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3FSgcVwtlcNK1hY88qY2oe"
+    },
+    {
+      "added_at": "2022-03-01 15:00:00",
+      "album": {
         "name": "Blood Moon",
         "url": "https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 296093,
       "name": "Distraction I",
       "url": "https://open.spotify.com/track/6J1tBtCQNDBE6k8pFXiR6w"
-    },
-    {
-      "added_at": "2022-03-01 15:00:00",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1VTVO1O1QY44xrhExlhoaP"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 401000,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3FSgcVwtlcNK1hY88qY2oe"
     },
     {
       "added_at": "2022-03-01 15:00:00",

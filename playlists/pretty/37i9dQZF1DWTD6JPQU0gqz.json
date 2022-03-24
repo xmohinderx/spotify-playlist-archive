@@ -1,12 +1,12 @@
 {
   "description": "Black lives and voices matter. Cover: Ibeyi",
-  "num_followers": 44236,
+  "num_followers": 44238,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgzNiwwMDAwMDAwMDI3MWMwMTQ1M2EyOTlkMmY1ODgxZjliZjM1NTViMjAy",
+  "snapshot_id": "MTY0ODA4Mjk1MywwMDAwMDAwMGI3NTQ5MmYxOWM1NjVkMjg1ZGM5MTQ3OTAwOGZlOTRi",
   "tracks": [
     {
       "added_at": "2022-02-18 05:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "YA",
-        "url": "https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "YA",
-      "url": "https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 184761,
       "name": "Destino",
       "url": "https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "YA",
+        "url": "https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "YA",
+      "url": "https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Si Tu Quieres",
-        "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 169336,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Love and Lies",
         "url": "https://open.spotify.com/album/0HzJJJkcvpiEAaKfJQw2l2"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 204361,
       "name": "Baecation",
       "url": "https://open.spotify.com/track/6Us3xviluy7FAdOsbu4leK"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Si Tu Quieres",
+        "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 169336,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 159572,
+      "name": "PIN PIN",
+      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "15 Exitos De- Oscar D Leon",
         "url": "https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 159572,
-      "name": "PIN PIN",
-      "url": "https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/5xzr5tWqMTfBr55QGsJjzR"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Tu Vas A Tener Que Explicarme",
-        "url": "https://open.spotify.com/album/5sEysKUDlajmvi4ua5jX28"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Tu Vas A Tener Que Explicarme",
-      "url": "https://open.spotify.com/track/2W0j6uNlsMArNjjCNaCZkI"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "El Gavilan",
         "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 207013,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Tu Vas A Tener Que Explicarme",
+        "url": "https://open.spotify.com/album/5sEysKUDlajmvi4ua5jX28"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 189022,
+      "name": "Tu Vas A Tener Que Explicarme",
+      "url": "https://open.spotify.com/track/2W0j6uNlsMArNjjCNaCZkI"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 244413,
       "name": "Sue\u00f1o Americano",
       "url": "https://open.spotify.com/track/1d8KyFVxnNBAPmjY5kzJas"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "Que Tengo Que Hacer",
         "url": "https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 222226,
       "name": "Somos los Prietos (feat. Alexis Play)",
       "url": "https://open.spotify.com/track/5jHAD4oQJN0P4j5KIKTaYs"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 186588,
+      "name": "Portarse Mal",
+      "url": "https://open.spotify.com/track/2a6CLJI6zFBHIXOlpYd6Ku"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 221680,
       "name": "Que T\u00fa Esperas",
       "url": "https://open.spotify.com/track/1bkHetU9vnb9Ctwm5gXGOn"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 186588,
-      "name": "Portarse Mal",
-      "url": "https://open.spotify.com/track/2a6CLJI6zFBHIXOlpYd6Ku"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1987,22 +1987,6 @@
       "duration_ms": 160636,
       "name": "Llevo La Vainita",
       "url": "https://open.spotify.com/track/1r7AXKQ0MQt3n65UYQ4XVF"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -2059,6 +2043,22 @@
       "duration_ms": 209760,
       "name": "La Gota Fri\u0301a",
       "url": "https://open.spotify.com/track/16QlAooOKHmPRgU1WxX6aD"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -2535,6 +2535,26 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "Lado B de Patolog\u00edas del Invisible Inc\u00f3modo (Ep)",
         "url": "https://open.spotify.com/album/3z7EgJEgio0t8Leua5h4in"
       },
@@ -2555,6 +2575,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "1992 Deluxe",
+        "url": "https://open.spotify.com/album/0HDrblLFAsyyytu3xKtbnL"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Brujas",
+      "url": "https://open.spotify.com/track/4a925uZhSr6NAeD7RvgLhH"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -2567,26 +2603,6 @@
       "duration_ms": 310520,
       "name": "Pretty Wings - uncut",
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -2623,22 +2639,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "1992 Deluxe",
-        "url": "https://open.spotify.com/album/0HDrblLFAsyyytu3xKtbnL"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 178916,
-      "name": "Brujas",
-      "url": "https://open.spotify.com/track/4a925uZhSr6NAeD7RvgLhH"
     }
   ],
   "unique_name": "Orgullo Afro-Latino",

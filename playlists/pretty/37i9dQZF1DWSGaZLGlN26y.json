@@ -1,12 +1,12 @@
 {
   "description": "Songs for lovers like you've never heard before.  Cover: Miguel, Taylor Swift and Japanese Breakfast.",
-  "num_followers": 12907,
+  "num_followers": 12919,
   "original_name": "Spotify Singles: Love Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgwNiwwMDAwMDAwMGM2ZDAyZDMzMTc5MTA1ZGZjNmRhMDA2OGI5OGUzOTM3",
+  "snapshot_id": "MTY0ODA4MjkyMiwwMDAwMDAwMGFkYjY1ZTQyNmJlNmZkN2MzZDNmZDZlMjU3Mjc3ZmUy",
   "tracks": [
     {
       "added_at": "2021-04-28 14:05:55",
@@ -1148,6 +1148,22 @@
       "added_at": "2021-04-28 14:05:55",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 210897,
+      "name": "Doesn't Matter - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS"
+    },
+    {
+      "added_at": "2021-04-28 14:05:55",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
       },
       "artists": [
@@ -1180,17 +1196,17 @@
       "added_at": "2021-04-28 14:05:55",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws"
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
         {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 210897,
-      "name": "Doesn't Matter - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS"
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2021-04-28 14:05:55",
@@ -1223,22 +1239,6 @@
       "duration_ms": 159940,
       "name": "Beautiful Surprise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1gXiYI4GLRq0NhTRkAXYqZ"
-    },
-    {
-      "added_at": "2021-04-28 14:05:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2022-02-04 20:41:00",

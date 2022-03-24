@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYS4jYoOYXiN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYS4jYoOYXiN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYS4jYoOYXiN)
 
-### Boogaloo Essentials
+### [Boogaloo Essentials](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 

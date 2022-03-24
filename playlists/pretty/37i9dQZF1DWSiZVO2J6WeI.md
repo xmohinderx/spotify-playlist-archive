@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,646 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,741 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 54 | [Malin 1](https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe) | [Galaxy River](https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC) | [Cygnus A](https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc) | 3:16 |
 | 55 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 |
 | 56 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 |
-| 57 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 |
-| 58 | [Journey Within \(432hz\)](https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 |
-| 59 | [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 |
-| 60 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 |
+| 57 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 |
+| 58 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 |
+| 59 | [Journey Within \(432hz\)](https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Journey Within \(432hz](https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4) | 4:00 |
+| 60 | [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 |
 | 61 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 |
 | 62 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 |
 | 63 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 |
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 83 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 |
 | 84 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 |
 | 85 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 |
-| 86 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 |
-| 87 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
-| 88 | [Ceremonial Stone](https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji) | [Star Patterns](https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d) | [Bertrand of the Ringing](https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ) | 3:18 |
+| 86 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
+| 87 | [Ceremonial Stone](https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji) | [Star Patterns](https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d) | [Bertrand of the Ringing](https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ) | 3:18 |
+| 88 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 |
 | 89 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 |
 | 90 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 |
 | 91 | [Awakening](https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Awakening](https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo) | 2:06 |
 | 92 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 |
-| 93 | [Yellow Mountain](https://open.spotify.com/track/1E9l4kywjB6SmYxAPtsuFh) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 |
-| 94 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 |
+| 93 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 |
+| 94 | [Yellow Mountain](https://open.spotify.com/track/1E9l4kywjB6SmYxAPtsuFh) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 |
 | 95 | [Crystalline](https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR) | [Sweet Daylight](https://open.spotify.com/artist/4E4Gm63yUEsOZeL5iU4aH6) | [Crystalline](https://open.spotify.com/album/4izNnu9jPwIVw1ppeAKJuI) | 3:44 |
 | 96 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 |
 | 97 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 99 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 |
 | 100 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 |
 
-Snapshot ID: `MTY0Nzk5NjgxOCwwMDAwMDAwMDIwNDA2YzExZWIzM2Y4ZDZlNTdhZDdkZDVjY2Y3YTZl`
+Snapshot ID: `MTY0ODA4MjkzNiwwMDAwMDAwMDE1NGQ4ZjJjMTBkYzA4MTBmOWE3YjI3Y2U2MmIyNTgx`

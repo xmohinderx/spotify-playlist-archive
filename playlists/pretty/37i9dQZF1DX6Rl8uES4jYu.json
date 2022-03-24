@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 224696,
+  "num_followers": 224741,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI1MywwMDAwMDAwMDI2NDEzMzM4ZGEyNGFiNmZkYjE5MDA5YzVjYmM5YTE3",
+  "snapshot_id": "MTY0ODA4MzM3OCwwMDAwMDAwMDVkZDZmM2U5N2IyYzc2Zjc3ZDc4ZjZmMmRhM2RlYmEy",
   "tracks": [
     {
       "added_at": "2022-03-18 04:01:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/67URyvNo0ymOlShJB9JclN"
     },
     {
+      "added_at": "2021-02-05 05:01:00",
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Dance With Me",
@@ -571,22 +587,6 @@
       "duration_ms": 151324,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/0VpjgAzEZ0Vi8qLFv4E1wx"
-    },
-    {
-      "added_at": "2021-02-05 05:01:00",
-      "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Toadstool Tropics",
-        "url": "https://open.spotify.com/album/1IwN0TC7oYtmGybcTzwjyd"
-      },
-      "artists": [
-        {
-          "name": "Surfliner",
-          "url": "https://open.spotify.com/artist/6cUFVnJuI30MsRmv0EVC4y"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "Pocono Bay",
-      "url": "https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Lights",
@@ -951,6 +935,22 @@
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Toadstool Tropics",
+        "url": "https://open.spotify.com/album/1IwN0TC7oYtmGybcTzwjyd"
+      },
+      "artists": [
+        {
+          "name": "Surfliner",
+          "url": "https://open.spotify.com/artist/6cUFVnJuI30MsRmv0EVC4y"
+        }
+      ],
+      "duration_ms": 236564,
+      "name": "Pocono Bay",
+      "url": "https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv"
     },
     {
       "added_at": "2021-07-16 04:09:00",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/0d3tToV7ij5cyyuhgH7i9d"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Fine!",
-        "url": "https://open.spotify.com/album/1I1fTM2upPNWmUoOp5Ihxk"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        }
-      ],
-      "duration_ms": 200058,
-      "name": "Fine!",
-      "url": "https://open.spotify.com/track/6DU4dKmXuvzgjgaX7R5bJB"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Funk Aesthetics",
@@ -1111,6 +1095,22 @@
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Fine!",
+        "url": "https://open.spotify.com/album/1I1fTM2upPNWmUoOp5Ihxk"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 200058,
+      "name": "Fine!",
+      "url": "https://open.spotify.com/track/6DU4dKmXuvzgjgaX7R5bJB"
     },
     {
       "added_at": "2021-09-21 15:07:50",

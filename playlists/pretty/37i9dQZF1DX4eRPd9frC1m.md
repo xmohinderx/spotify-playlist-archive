@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,883 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,346,663 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 6 | [TIKTOK](https://open.spotify.com/track/0TQ2Sfay7vPm8RclGBVnGi) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/0DKuz4XKK4MSUdY2aVyXw4) | 2:30 |
 | 7 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 |
 | 8 | [Griztronics II \(Another Level\)](https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Griztronics II \(Another Level\)](https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw) | 2:45 |
-| 9 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 |
-| 10 | [Can We Be Free](https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Can We Be Free](https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP) | 3:18 |
+| 9 | [Can We Be Free](https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [Can We Be Free](https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP) | 3:18 |
+| 10 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 |
 | 11 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 |
 | 12 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 |
 | 13 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 79 | [NGMF](https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [NGMF](https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN) | 2:42 |
 | 80 | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/track/0NNHOCC22cpLt3fDF6t88l) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Staysick](https://open.spotify.com/artist/45uC5ia7f1oj4TGlOSbtC4), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/album/35FKDZS3YiNXkzuDXHOohv) | 3:51 |
 
-Snapshot ID: `MTY0Nzk5NzE4OCwwMDAwMDAwMGMyNTc4MTVjYWYxN2M2MTUwMWU2MjM2ODVmZWVkZGUw`
+Snapshot ID: `MTY0ODA4MzMxNCwwMDAwMDAwMDFhMTEwM2U3NTNlNWNkOTgwN2I2YWZjM2QxZjVkZTFm`

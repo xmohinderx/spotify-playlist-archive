@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZVuIRLEh0tE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZVuIRLEh0tE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZVuIRLEh0tE)
 
-### Flow Dominicano
+### [Flow Dominicano](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Dowba Montana
 

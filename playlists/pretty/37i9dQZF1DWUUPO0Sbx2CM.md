@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,551 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,583 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 49 | [Where the Light Dances](https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0) | [Where the Light Dances](https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP) | 3:38 |
 | 50 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 |
 | 51 | [Glorious Day \- Remix](https://open.spotify.com/track/3LEiqJm0Q2iwUNZ8t5PDqe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Jeff Lawson](https://open.spotify.com/artist/03HAheRwHmFMIrU9ThvGe0) | [Glorious Day \(Remix\)](https://open.spotify.com/album/3bmUsMqgu3e582aGytKsGa) | 4:17 |
-| 52 | [Millionaire \(Good Like That\)](https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:55 |
-| 53 | [Letting Go](https://open.spotify.com/track/3tPJHHygrSqPgZPoAxON8B) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Letting Go](https://open.spotify.com/album/3UOCEOeOpQEcLithw3QCF8) | 3:42 |
-| 54 | [Wind + Waves \(Remix\)](https://open.spotify.com/track/1WC5JP6agemSOQIfQcElzz) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA), [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Wind + Waves EP](https://open.spotify.com/album/7MjEXSHTkYlpE4asYez1sj) | 4:41 |
+| 52 | [Letting Go](https://open.spotify.com/track/3tPJHHygrSqPgZPoAxON8B) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Letting Go](https://open.spotify.com/album/3UOCEOeOpQEcLithw3QCF8) | 3:42 |
+| 53 | [Wind + Waves \(Remix\)](https://open.spotify.com/track/1WC5JP6agemSOQIfQcElzz) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA), [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Wind + Waves EP](https://open.spotify.com/album/7MjEXSHTkYlpE4asYez1sj) | 4:41 |
+| 54 | [Millionaire \(Good Like That\)](https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:55 |
 | 55 | [Good Friend](https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Good Friend](https://open.spotify.com/album/4IggY2CGPgR4IX6LHoFoT5) | 2:51 |
 | 56 | [Can't Take Away](https://open.spotify.com/track/3BpLaBxIONfs91WRj5WjWt) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Can't Take Away](https://open.spotify.com/album/5B6DRt2WvVhDxDdZQ3YdNs) | 2:33 |
 | 57 | [Conqueror](https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB) | [High Praise](https://open.spotify.com/artist/3cn684M2OtJFV8y5QAhlZU) | [Conqueror](https://open.spotify.com/album/7iIsfmogTfklo25kTEEB6H) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 74 | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/track/19o1cnz9syo7tH9zUwpelk) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/album/69HpLMayRJLXoKsmVH6Bi2) | 3:15 |
 | 75 | [Your Love Is](https://open.spotify.com/track/4fF8W36n4q1M81QzR9Qmkw) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Your Love Is](https://open.spotify.com/album/7IQvFw3QmkF2dO4dJcxFqL) | 4:06 |
 
-Snapshot ID: `MTY0Nzk5Njg3NiwwMDAwMDAwMGVmNzhhYjgzOGQ4NGQ0YzQ3MGQ0NDUxOTlmN2I1OTQ3`
+Snapshot ID: `MTY0ODA4Mjk5MSwwMDAwMDAwMGUzYzRiMmNlZGI2MTMxNWIwYjc4NWYzYjhjYTBkNDgx`

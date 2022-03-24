@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYVseajANOFG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYVseajANOFG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYVseajANOFG)
 
-### Flow Panamá
+### [Flow Panamá](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 

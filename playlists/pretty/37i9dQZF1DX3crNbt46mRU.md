@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Zoe Wees
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,830 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 |
 | 2 | [Gehen oder bleiben](https://open.spotify.com/track/2z12ajrQWhMwEtLgZGZSzQ) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Gehen oder bleiben](https://open.spotify.com/album/6z1C4bZcpal8WJTgvAkL77) | 2:36 |
 | 3 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 |
-| 4 | [Sun Valley \- Extrait de l'album SEGPA](https://open.spotify.com/track/1CRC31Y1vhXFHPt4JJ2Ykm) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [SEGPA](https://open.spotify.com/artist/4JRNtdW7IlzTeASEk0Oayo) | [Sun Valley](https://open.spotify.com/album/4PT5j8ChfiUNo7k8nShKp7) | 2:56 |
+| 4 | [Sun Valley \- Extrait de l'album SEGPA](https://open.spotify.com/track/1CRC31Y1vhXFHPt4JJ2Ykm) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [SEGPA](https://open.spotify.com/artist/4JRNtdW7IlzTeASEk0Oayo) | [Sun Valley](https://open.spotify.com/album/4PT5j8ChfiUNo7k8nShKp7) | 2:55 |
 | 5 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 | 6 | [Majestic](https://open.spotify.com/track/1Y2zqkMEu3mJPBBMBdkIsD) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/4CZgcx76lE1b3VIVLiZjCG) | 3:26 |
 | 7 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |

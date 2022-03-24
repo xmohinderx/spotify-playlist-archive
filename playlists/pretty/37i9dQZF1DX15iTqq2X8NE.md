@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > The sweet sounds of Sudan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,623 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 8 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 9 | [Malaia](https://open.spotify.com/track/2lNXc86nUMT82Qe3AahIsI) | [T.A](https://open.spotify.com/artist/0Fm8t9xIwHAkNwPcdAP9RV) | [Malaia](https://open.spotify.com/album/6JGHgcD5pS1JaqqTpGhOdV) | 3:15 |
 | 10 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 |
-| 11 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
-| 12 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
-| 13 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 14 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 |
+| 11 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
+| 12 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
+| 13 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 |
+| 14 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 15 | [Noora](https://open.spotify.com/track/28QZMziRHzyxHet8LKkv7R) | [Mohamed Gubara](https://open.spotify.com/artist/6nl9GL3qa0qk0BFYsEG37s) | [Sounds of Sudan](https://open.spotify.com/album/631O6gPniiPLl8u6fxzrVo) | 6:10 |
 | 16 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
 | 17 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/4HROyIljn4IEasWTj8rNi4) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/7gUXSut0yqiItE6HBCeRgP) | 4:13 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 45 | [Ghanja](https://open.spotify.com/track/0kpD3vlH13l7czqKVJT2ZU) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Shammasi](https://open.spotify.com/album/55A8sF5KhTiQRI6NlpdXOk) | 3:42 |
 | 46 | [Amnesia \(with Ari Lennox & Kiddominant\)](https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 3:35 |
 | 47 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 |
-| 48 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
-| 49 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 |
-| 50 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 48 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
+| 49 | [Soukura \- Boddhi Satva Ancestral Soul Remix](https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Soukura \- EP](https://open.spotify.com/album/5uIKH8R1wPDKABSt6AOv73) | 5:20 |
+| 50 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 
-Snapshot ID: `MTY0Nzk5NzA3OSwwMDAwMDAwMDg3MjYxYTQ2MjYxN2Q1YTk2MDZmMzMwY2U1MjM4NmVm`
+Snapshot ID: `MTY0ODA4MzIwNSwwMDAwMDAwMGFlYTMzNzY1MDUyZDhlYjc4NjVhOTM1NjgwNTIzMDlm`

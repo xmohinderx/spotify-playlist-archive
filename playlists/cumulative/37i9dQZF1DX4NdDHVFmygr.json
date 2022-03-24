@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 153245,
       "name": "9albi",
       "url": "https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds"
@@ -1367,6 +1367,24 @@
       "duration_ms": 201990,
       "name": "Sidi Moulay",
       "url": "https://open.spotify.com/track/4c9jl25zLUam4QYE2DaOYd"
+    },
+    {
+      "album": {
+        "name": "Slowmo",
+        "url": "https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah"
+      },
+      "artists": [
+        {
+          "name": "Chaos333",
+          "url": "https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "Slowmo",
+      "url": "https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX"
     },
     {
       "album": {

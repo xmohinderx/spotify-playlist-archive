@@ -1,12 +1,12 @@
 {
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
-  "num_followers": 206135,
+  "num_followers": 206168,
   "original_name": "Concentra\u00e7\u00e3o Perfeita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzEwNywwMDAwMDAwMDYzYjJlYTU2YWUxNTU4MGZkNDUzY2ZiODhlOGM1OTRm",
+  "snapshot_id": "MTY0ODA4MzIzMywwMDAwMDAwMDM3YmZmMzRjZWJiOTA4MjhkZDU0N2IwY2I0YWM3YjA4",
   "tracks": [
     {
       "added_at": "2022-03-16 09:40:32",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-16 09:40:32",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Forch",
-          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP"
-    },
-    {
-      "added_at": "2022-03-16 09:40:32",
-      "album": {
         "name": "Passing Robes",
         "url": "https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 163795,
       "name": "Passing Robes",
       "url": "https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d"
+    },
+    {
+      "added_at": "2022-03-16 09:40:32",
+      "album": {
+        "name": "Autumn Leaf",
+        "url": "https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7"
+      },
+      "artists": [
+        {
+          "name": "Esperanza",
+          "url": "https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Autumn Leaf",
+      "url": "https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO"
+    },
+    {
+      "added_at": "2022-03-16 09:40:32",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP"
     },
     {
       "added_at": "2022-03-16 09:40:32",
@@ -471,22 +487,6 @@
       "duration_ms": 150374,
       "name": "Aviron",
       "url": "https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE"
-    },
-    {
-      "added_at": "2022-03-16 09:40:32",
-      "album": {
-        "name": "Autumn Leaf",
-        "url": "https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7"
-      },
-      "artists": [
-        {
-          "name": "Esperanza",
-          "url": "https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Autumn Leaf",
-      "url": "https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO"
     },
     {
       "added_at": "2022-03-16 09:40:32",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2022-03-16 09:40:32",
       "album": {
-        "name": "Before We Leave",
-        "url": "https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd"
-      },
-      "artists": [
-        {
-          "name": "Niall Byrne",
-          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
-        }
-      ],
-      "duration_ms": 161339,
-      "name": "Before We Leave",
-      "url": "https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1"
-    },
-    {
-      "added_at": "2022-03-16 09:40:32",
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
+    },
+    {
+      "added_at": "2022-03-16 09:40:32",
+      "album": {
+        "name": "Before We Leave",
+        "url": "https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "duration_ms": 161339,
+      "name": "Before We Leave",
+      "url": "https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1"
     },
     {
       "added_at": "2022-03-16 09:40:32",
@@ -4087,22 +4087,6 @@
     {
       "added_at": "2022-03-16 09:40:32",
       "album": {
-        "name": "For A Gentle Morning",
-        "url": "https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ"
-      },
-      "artists": [
-        {
-          "name": "Jackson Love",
-          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
-        }
-      ],
-      "duration_ms": 164901,
-      "name": "For A Gentle Morning",
-      "url": "https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4"
-    },
-    {
-      "added_at": "2022-03-16 09:40:32",
-      "album": {
         "name": "Sk\u00e4rg\u00e5rd",
         "url": "https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV"
       },
@@ -4115,6 +4099,22 @@
       "duration_ms": 139994,
       "name": "Sk\u00e4rg\u00e5rd",
       "url": "https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX"
+    },
+    {
+      "added_at": "2022-03-16 09:40:32",
+      "album": {
+        "name": "For A Gentle Morning",
+        "url": "https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ"
+      },
+      "artists": [
+        {
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
+        }
+      ],
+      "duration_ms": 164901,
+      "name": "For A Gentle Morning",
+      "url": "https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4"
     },
     {
       "added_at": "2022-03-16 09:40:32",
@@ -5111,22 +5111,6 @@
     {
       "added_at": "2022-03-16 09:40:32",
       "album": {
-        "name": "Enouement",
-        "url": "https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 134307,
-      "name": "Enouement",
-      "url": "https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ"
-    },
-    {
-      "added_at": "2022-03-16 09:40:32",
-      "album": {
         "name": "Free Ground",
         "url": "https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ"
       },
@@ -5155,6 +5139,22 @@
       "duration_ms": 130600,
       "name": "Voyage m\u00e9latonine",
       "url": "https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J"
+    },
+    {
+      "added_at": "2022-03-16 09:40:32",
+      "album": {
+        "name": "Enouement",
+        "url": "https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 134307,
+      "name": "Enouement",
+      "url": "https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ"
     },
     {
       "added_at": "2022-03-16 09:40:32",

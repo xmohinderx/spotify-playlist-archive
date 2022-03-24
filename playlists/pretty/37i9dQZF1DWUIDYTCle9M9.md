@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,657 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,820 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 8 | [Vem Meu Amor \- Ao Vivo](https://open.spotify.com/track/2vQTjnYDhZIaLIbbSvAbpM) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Ao Vivo](https://open.spotify.com/album/0aqrvS57NXwVRYRsYjk47a) | 3:30 |
 | 9 | [A Cor É Rosa](https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Cor É Rosa](https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF) | 3:48 |
 | 10 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
-| 11 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 |
-| 12 | [Quero Te Encontrar](https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [A Forma](https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny) | 3:50 |
-| 13 | [Esperando na janela](https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Eu, Tu, Eles](https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA) | 4:16 |
-| 14 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 |
-| 15 | [Beleza Rara](https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara](https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz) | 3:55 |
-| 16 | [Onde Você Mora?](https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Onde Você Mora?](https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ) | 3:58 |
+| 11 | [Esperando na janela](https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Eu, Tu, Eles](https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA) | 4:16 |
+| 12 | [Onde Você Mora?](https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Onde Você Mora?](https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ) | 3:58 |
+| 13 | [Quero Te Encontrar](https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [A Forma](https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny) | 3:50 |
+| 14 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 |
+| 15 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 |
+| 16 | [Beleza Rara](https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara](https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz) | 3:55 |
 | 17 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
 | 18 | [Enquanto Houver Sol](https://open.spotify.com/track/4Eu11AEW4PK9Rtc3TkTwl7) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Como estão vocês?](https://open.spotify.com/album/3DDNSWI08bjLGOsK2EBY7w) | 3:02 |
 | 19 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 |
 | 60 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 
-Snapshot ID: `MTY0Nzk5Njg3MSwwMDAwMDAwMGNhYWZhYzgyMzZkNzI5OTU0OWI4MWZkNWVmNjNhNzA1`
+Snapshot ID: `MTY0ODA4Mjk4NiwwMDAwMDAwMDBiY2RiZThlZTZiZjIwYzc2MDUxMTI3ZjFhOTg1NDUy`

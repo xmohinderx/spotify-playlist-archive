@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,828 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,872 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 9 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 |
 | 10 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 |
 | 11 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
-| 12 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
-| 13 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
+| 12 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
+| 13 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
 | 14 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
 | 15 | [Mozo](https://open.spotify.com/track/6UYnSpITCrCWsmgjFwK3u0) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mozo](https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo) | 3:47 |
 | 16 | [Lo Mismo Que Usted](https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/6LY1KFmfTyYmBOkP2JTrE0) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 |
 | 100 | [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 |
 
-Snapshot ID: `MTY0Nzk5NzEzOCwwMDAwMDAwMGJjOTJhYzk3YmVmOWE3NDk1NjI4ZTViZjEyMDNlZDZm`
+Snapshot ID: `MTY0ODA4MzI2MywwMDAwMDAwMGFlOWEwNjUxMjUzMWMwMjgzMjI1NzI0ODgxMzJjMTJl`

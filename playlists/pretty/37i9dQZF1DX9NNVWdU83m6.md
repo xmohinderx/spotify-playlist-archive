@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,839 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,872 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 25 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 |
 | 26 | [Truck Fump](https://open.spotify.com/track/6Jc8Lqqcknv1mZGJ7c0U5t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Truck Fump](https://open.spotify.com/album/5X9iL0oHuuIsQIrx1OF2Dt) | 5:05 |
 | 27 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
-| 28 | [Uprising](https://open.spotify.com/track/2LCtpDYvJ8PErWnySoUiAw) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [Anti\-Hero](https://open.spotify.com/album/1ppgkZxBxvGzJ5bVr6s5QF) | 7:01 |
-| 29 | [Colliding Chimps](https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas), [Tj\. Helmerich](https://open.spotify.com/artist/4iLrFjLcUnQUEUOxUiEDl6), [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ), [Scott Kinsey](https://open.spotify.com/artist/1503sX3VD2I5aLcBA9wjjK), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Uncle Moe's Space Ranch](https://open.spotify.com/album/5V89sbJdj6RDqqUHW7bCnX) | 6:16 |
-| 30 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 |
-| 31 | [Cygnus \- Edit](https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX) | 4:17 |
+| 28 | [Colliding Chimps](https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas), [Tj\. Helmerich](https://open.spotify.com/artist/4iLrFjLcUnQUEUOxUiEDl6), [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ), [Scott Kinsey](https://open.spotify.com/artist/1503sX3VD2I5aLcBA9wjjK), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Uncle Moe's Space Ranch](https://open.spotify.com/album/5V89sbJdj6RDqqUHW7bCnX) | 6:16 |
+| 29 | [Uprising](https://open.spotify.com/track/2LCtpDYvJ8PErWnySoUiAw) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [Anti\-Hero](https://open.spotify.com/album/1ppgkZxBxvGzJ5bVr6s5QF) | 7:01 |
+| 30 | [Cygnus \- Edit](https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX) | 4:17 |
+| 31 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 |
 | 32 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
 | 33 | [Guns, Germs and Steel](https://open.spotify.com/track/5RUk3kvXN5UY4upA6ntmKQ) | [Strobes](https://open.spotify.com/artist/4s1eMHTAaIlDiBNMcBKq08) | [Brokespeak](https://open.spotify.com/album/51qMfFrWslTbRpBTYVFiD5) | 5:51 |
 | 34 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
 | 50 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 |
 
-Snapshot ID: `MTY0Nzk5NzM0MCwwMDAwMDAwMDY1ZmQzNzI1NzY1YmYyYzk5ZTBkZTQzNGJiMTgxYjFi`
+Snapshot ID: `MTY0ODA4MzQ2NywwMDAwMDAwMGU1NGRmM2E5OWMwMWIxMjI1NTY4ZmMzNDZhYmU4YTVj`

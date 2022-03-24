@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZbHJkHSDOTR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZbHJkHSDOTR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZbHJkHSDOTR)
 
-### Best R&B Songs of 2021 Canada
+### [Best R&B Songs of 2021 Canada](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 

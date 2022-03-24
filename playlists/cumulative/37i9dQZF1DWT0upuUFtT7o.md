@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
-> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Goofy Geese Artwork: Robin Clifford Ellis
+> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

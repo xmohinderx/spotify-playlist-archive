@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n!",
-  "num_followers": 93100,
+  "num_followers": 93198,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzM1MSwwMDAwMDAwMGI2ZjI2ZDJjMDQxMjlhZDdjNWFiMmFlNmQ4YzZhMGRl",
+  "snapshot_id": "MTY0ODA4MzQ3OSwwMDAwMDAwMGQ0ZTJhMTVlNjgwZDk1ZWJjODY3OTc2OTQyZDE5OWE2",
   "tracks": [
     {
       "added_at": "2022-03-18 12:30:26",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Amor de Mentiras",
-        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 178893,
       "name": "Esa Te Dej\u00f3",
       "url": "https://open.spotify.com/track/0SaboiZfblNeAdg08QwVk7"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -563,38 +563,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Sonidero Soy",
-        "url": "https://open.spotify.com/album/5lv1LpbFaRmnVfAmOOqFfk"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Te Arrepentir\u00e1s",
-      "url": "https://open.spotify.com/track/3dNA2MGyfZU4rdUVwoWI3V"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -631,18 +599,18 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Renovado",
-        "url": "https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36"
+        "name": "Sonidero Soy",
+        "url": "https://open.spotify.com/album/5lv1LpbFaRmnVfAmOOqFfk"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 258293,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV"
+      "duration_ms": 210706,
+      "name": "Te Arrepentir\u00e1s",
+      "url": "https://open.spotify.com/track/3dNA2MGyfZU4rdUVwoWI3V"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -663,6 +631,22 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 181054,
       "name": "Mi \u00danico Amor",
       "url": "https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
+        "name": "Renovado",
+        "url": "https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Baile Y M\u00e1s Baile",
         "url": "https://open.spotify.com/album/2Qv2HKKuUC2j6b1fWDu7p5"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 205306,
       "name": "Mil L\u00e1grimas",
       "url": "https://open.spotify.com/track/04P15cgMY5f0fPhr9O8TjZ"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Con El No Soportas",
+      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volveras",
-        "url": "https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volveras",
-      "url": "https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/5b70gTnDRf5A8J8iodxvyB"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
+        "name": "Alg\u00fan D\u00eda Volveras",
+        "url": "https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volveras",
+      "url": "https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
         "name": "Lo Mejor de la Diosa",
         "url": "https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 250026,
       "name": "Que Me Van a Hablar de Amor",
       "url": "https://open.spotify.com/track/6JzjdWAIgYxn7sfCw9SZ8t"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Con El No Soportas",
-      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Olvidame Si Puedes (Cumbia)",
         "url": "https://open.spotify.com/album/1LW4AaUh6rk5ETHRHXEz9F"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
         "name": "Y Amigos",
         "url": "https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
         "name": "Se Fue el Amor",
         "url": "https://open.spotify.com/album/3ZMnkcFLpocql6V3ipsDdN"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 173617,
       "name": "Se Fue el Amor",
       "url": "https://open.spotify.com/track/7ihPPfWMMkxzrvmNh1xNZH"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 256702,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -1431,22 +1447,6 @@
       "duration_ms": 260769,
       "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
       "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
-        "name": "No Llores",
-        "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 256702,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     },
     {
       "added_at": "2022-03-18 12:30:26",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-03-18 12:30:26",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/4hI5fnZyarU43UUWQUxi0o"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"
-    },
-    {
-      "added_at": "2022-03-18 12:30:26",
-      "album": {
         "name": "La Gata",
         "url": "https://open.spotify.com/album/00oXPHfuBNr2qDN7ORn6YP"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 231613,
       "name": "Yo Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6ndtFs90yTcAghotHwP6TN"
+    },
+    {
+      "added_at": "2022-03-18 12:30:26",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/4hI5fnZyarU43UUWQUxi0o"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"
     },
     {
       "added_at": "2022-03-18 12:30:26",

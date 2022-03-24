@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1381873,
+  "num_followers": 1382218,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg5NCwwMDAwMDAwMGUxYmRkZGRhMTAwMjc4YjRjNWVlMzQ0YmM3MjEwOTQz",
+  "snapshot_id": "MTY0ODA4MzAxMSwwMDAwMDAwMDUzYjlhYzViNDlhMDU1NDA3ZjZmMDYwNGQwYmFkMzkz",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "The Very Best Of After 7",
         "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 272933,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
     },
     {
       "added_at": "2021-03-05 00:03:16",

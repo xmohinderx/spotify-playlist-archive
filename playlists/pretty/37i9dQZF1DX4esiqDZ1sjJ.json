@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 276193,
+  "num_followers": 276460,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE4OCwwMDAwMDAwMDEyODI5YjRiNDkxNjNlNzE0MTQ5MzBiNzU3OGQ5NzM4",
+  "snapshot_id": "MTY0ODA4MzMxNCwwMDAwMDAwMDYwYTY5NDY3ZmYwYjRmOTkyNjA2OWE4NTQwMTYxYWI3",
   "tracks": [
     {
       "added_at": "2022-01-05 23:00:55",
@@ -259,6 +259,30 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
+        "name": "The Box Set",
+        "url": "https://open.spotify.com/album/2awFzXtI2kddQBCmpxkzi1"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Snug Brim",
+          "url": "https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h"
+        },
+        {
+          "name": "Skatterman",
+          "url": "https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq"
+        }
+      ],
+      "duration_ms": 331480,
+      "name": "Riot Maker",
+      "url": "https://open.spotify.com/track/6SB0tAvQXaVMzBT6gAFog2"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -291,30 +315,6 @@
       "duration_ms": 297786,
       "name": "'Till I Collapse",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
-        "name": "The Box Set",
-        "url": "https://open.spotify.com/album/2awFzXtI2kddQBCmpxkzi1"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Snug Brim",
-          "url": "https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h"
-        },
-        {
-          "name": "Skatterman",
-          "url": "https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq"
-        }
-      ],
-      "duration_ms": 331480,
-      "name": "Riot Maker",
-      "url": "https://open.spotify.com/track/6SB0tAvQXaVMzBT6gAFog2"
     },
     {
       "added_at": "2022-01-05 23:00:55",
@@ -411,42 +411,6 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
-        "name": "The Box Set",
-        "url": "https://open.spotify.com/album/2awFzXtI2kddQBCmpxkzi1"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3OXUdVq1TT8WDYQO69meOs"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
       },
@@ -479,6 +443,42 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
+        "name": "The Box Set",
+        "url": "https://open.spotify.com/album/2awFzXtI2kddQBCmpxkzi1"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3OXUdVq1TT8WDYQO69meOs"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
       "added_at": "2022-01-05 23:00:55",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Started From the Bottom",
+      "url": "https://open.spotify.com/track/6V2D8Lls36APk0THDjBDfE"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
-        "name": "Nothing Was The Same (Deluxe)",
-        "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
+        "name": "Infinity On High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Started From the Bottom",
-      "url": "https://open.spotify.com/track/6V2D8Lls36APk0THDjBDfE"
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/18GC3F8YPGB8CePXcTUizQ"
     },
     {
       "added_at": "2022-01-05 23:00:55",
@@ -855,22 +871,6 @@
       "duration_ms": 326280,
       "name": "Mercy.1 - Album Version (Edited)",
       "url": "https://open.spotify.com/track/0nh1o1936u4X7MaatN56j8"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
-        "name": "Infinity On High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/18GC3F8YPGB8CePXcTUizQ"
     },
     {
       "added_at": "2022-01-05 23:00:55",
@@ -907,6 +907,26 @@
       "duration_ms": 197800,
       "name": "Hands On The Wheel",
       "url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     },
     {
       "added_at": "2022-01-05 23:00:55",
@@ -963,26 +983,6 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
-        "name": "The Best In The World Pack",
-        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Money In The Grave (Drake ft. Rick Ross)",
-      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-01-05 23:00:55",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 205879,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
+    },
+    {
+      "added_at": "2022-01-05 23:00:55",
+      "album": {
         "name": "DS2 (Deluxe)",
         "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
-    },
-    {
-      "added_at": "2022-01-05 23:00:55",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 205879,
-      "name": "Jumpman",
-      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
     },
     {
       "added_at": "2022-01-05 23:00:55",

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL"
       },
@@ -713,7 +731,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 206718,
       "name": "Dress (Feat. Gyungmin)",
       "url": "https://open.spotify.com/track/6qqSrSA5dhh5LzfZNI0DaM"
@@ -941,10 +959,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 191052,
       "name": "Flow and Flow",
       "url": "https://open.spotify.com/track/0xtFlh7zuV3MwwBVoiQuSf"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 8",
+        "url": "https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul"
     },
     {
       "album": {
@@ -981,7 +1017,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -2145,7 +2181,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 203733,
       "name": "Switch",
       "url": "https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma"
@@ -2760,6 +2796,24 @@
     },
     {
       "album": {
+        "name": "UP & DOWN",
+        "url": "https://open.spotify.com/album/511rA18ahrHtgvLuKSaCDV"
+      },
+      "artists": [
+        {
+          "name": "BYUL,DAL",
+          "url": "https://open.spotify.com/artist/3IvQmmllE1X45XF8XbUsXN"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/4m4KLf6hatVwq2GYW8jmO8"
+    },
+    {
+      "album": {
         "name": "Eyes wide open",
         "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
       },
@@ -2793,6 +2847,24 @@
       "duration_ms": 198186,
       "name": "Voice",
       "url": "https://open.spotify.com/track/6tIKSYUpxyOOhE4OPDXjNi"
+    },
+    {
+      "album": {
+        "name": "VOYAGER",
+        "url": "https://open.spotify.com/album/6kuHLDgEDuujwmq4DTxot8"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191720,
+      "name": "VOYAGER",
+      "url": "https://open.spotify.com/track/5RFmdm8haNptn9Mqo7ABZ5"
     },
     {
       "album": {
@@ -2865,7 +2937,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 190840,
       "name": "what is life?",
       "url": "https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E"

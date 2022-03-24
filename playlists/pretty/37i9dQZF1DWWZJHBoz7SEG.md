@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ha\*Ash, ROSALÍA, Julieta Venegas, Tiago PZK, Natanael Cano, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,364 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,376 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

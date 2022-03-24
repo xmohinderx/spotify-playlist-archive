@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 299444,
+  "num_followers": 299550,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzEyNSwwMDAwMDAwMGU1N2NiNzJiMmQ3MjZkY2RiZWQ3N2JjYzFhOTMzYzE5",
+  "snapshot_id": "MTY0ODA4MzI1MCwwMDAwMDAwMDA5Y2MwYTQwOWRiYmIxNzc2MzdlZDkxMmU0NzkwYWIx",
   "tracks": [
     {
       "added_at": "2022-01-13 14:09:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
         "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
         "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 336960,
       "name": "Boyz-N-The-Hood",
       "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -279,38 +279,6 @@
       "duration_ms": 301893,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/3BKvVQ3g673SWAgY4ef9z9"
-      },
-      "artists": [
-        {
-          "name": "LL Cool J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Rock The Bells",
-      "url": "https://open.spotify.com/track/56849Gw5DoeiKTM4bYsv54"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Biz's Baddest Beats: The Best of Biz Markie",
-        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -363,6 +331,38 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3BKvVQ3g673SWAgY4ef9z9"
+      },
+      "artists": [
+        {
+          "name": "LL Cool J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Rock The Bells",
+      "url": "https://open.spotify.com/track/56849Gw5DoeiKTM4bYsv54"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Biz's Baddest Beats: The Best of Biz Markie",
+        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
         "name": "Best Of 3rd Bass",
         "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
       },
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
+        "name": "Paul's Boutique",
+        "url": "https://open.spotify.com/album/4DfmPm17Nz6a60BlEpGGKU"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/4RvprQhj7Ov1SFQ3HfO7FH"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
       },
@@ -391,6 +407,22 @@
       "duration_ms": 175706,
       "name": "Top Billin - Acapella",
       "url": "https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -447,22 +479,6 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
         "name": "That's the Joint",
         "url": "https://open.spotify.com/album/275LyQkw1Be2dDfYo64bOX"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 562226,
       "name": "That's the Joint",
       "url": "https://open.spotify.com/track/4E3ODD0mMJZ7iCddYGNZnS"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Paul's Boutique",
-        "url": "https://open.spotify.com/album/4DfmPm17Nz6a60BlEpGGKU"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/4RvprQhj7Ov1SFQ3HfO7FH"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -543,6 +543,42 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Planet Rock",
+        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/3hExAD9KZgxLT5qkrpEaaw"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "Planet Rock",
+      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
         "name": "Youngest in Charge",
         "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
@@ -575,42 +611,6 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "Planet Rock",
-        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/3hExAD9KZgxLT5qkrpEaaw"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "Planet Rock",
-      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back",
         "url": "https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 302666,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/068leTp1TAkIupnGoRBT9O"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "It's Tricky",
-      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -671,22 +655,6 @@
       "duration_ms": 272786,
       "name": "Cold Gettin' Dumb",
       "url": "https://open.spotify.com/track/5hGsUZIjiBZq4QRtjdulKB"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -739,6 +707,38 @@
       "duration_ms": 422493,
       "name": "Looking for the Perfect Beat - Original 12\" Version",
       "url": "https://open.spotify.com/track/3vKwjiEXL3ThZymIyfqo51"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "By All Means Necessary",
-        "url": "https://open.spotify.com/album/2Bq235xG1XzeEfSDl1Xh7s"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/74pIq8LeHDZZYPfvjChDbL"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
+        "name": "By All Means Necessary",
+        "url": "https://open.spotify.com/album/2Bq235xG1XzeEfSDl1Xh7s"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 338133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/74pIq8LeHDZZYPfvjChDbL"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back",
         "url": "https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 319360,
       "name": "Don't Believe The Hype",
       "url": "https://open.spotify.com/track/56hyMlVcfBJIBgSmmZM3qE"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -975,18 +975,34 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+        "name": "Doin' Damage",
+        "url": "https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK"
       },
       "artists": [
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "JVC Force",
+          "url": "https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw"
         }
       ],
-      "duration_ms": 308558,
-      "name": "South Bronx",
-      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
+      "duration_ms": 359693,
+      "name": "Strong Island",
+      "url": "https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
+        "name": "Schoolly D",
+        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
+      },
+      "artists": [
+        {
+          "name": "Schoolly D",
+          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
+        }
+      ],
+      "duration_ms": 388906,
+      "name": "P.S.K. 'What Does It Mean'?",
+      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -1023,34 +1039,18 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
-        "name": "Doin' Damage",
-        "url": "https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK"
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
       "artists": [
         {
-          "name": "JVC Force",
-          "url": "https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 359693,
-      "name": "Strong Island",
-      "url": "https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Schoolly D",
-        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
-      },
-      "artists": [
-        {
-          "name": "Schoolly D",
-          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
-        }
-      ],
-      "duration_ms": 388906,
-      "name": "P.S.K. 'What Does It Mean'?",
-      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
+      "duration_ms": 308558,
+      "name": "South Bronx",
+      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2022-01-13 14:09:43",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-01-13 14:09:43",
       "album": {
+        "name": "Tougher Than Leather (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Beats to the Rhyme",
+      "url": "https://open.spotify.com/track/7kUFkzmFsSIi02RTO7wAQF"
+    },
+    {
+      "added_at": "2022-01-13 14:09:43",
+      "album": {
         "name": "The Greatest Mixes",
         "url": "https://open.spotify.com/album/6wTZPwUSXTOGVXnByPqx9v"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 197933,
       "name": "Get into It",
       "url": "https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp"
-    },
-    {
-      "added_at": "2022-01-13 14:09:43",
-      "album": {
-        "name": "Tougher Than Leather (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Beats to the Rhyme",
-      "url": "https://open.spotify.com/track/7kUFkzmFsSIi02RTO7wAQF"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

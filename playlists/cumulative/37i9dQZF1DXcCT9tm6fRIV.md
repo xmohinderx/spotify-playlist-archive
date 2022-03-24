@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcCT9tm6fRIV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcCT9tm6fRIV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcCT9tm6fRIV)
 
-### Tangos y Milongas
+### [Tangos y Milongas](https://open.spotify.com/playlist/48pLdQsTopl1rcmXXDSwY6)
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 

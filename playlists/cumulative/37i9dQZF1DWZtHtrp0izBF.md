@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZtHtrp0izBF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZtHtrp0izBF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZtHtrp0izBF)
 
-### Salsa Lessons
+### [Salsa Lessons](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
@@ -51,7 +51,7 @@
 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 | 2021-11-25 |  |
 | [Regálame una Noche](https://open.spotify.com/track/6F3YJ3vWzatHA3nz6GwDoA) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Regálame Una Noche](https://open.spotify.com/album/1pr3TkFTzeQewXcoyXbpIq) | 4:38 | 2021-11-25 |  |
 | [Señora Ley](https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:12 | 2021-11-25 | 2022-03-23 |
-| [Si Te Vas](https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos Eternos](https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe) | 4:46 | 2021-11-25 | 2022-03-23 |
+| [Si Te Vas](https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos Eternos](https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe) | 4:46 | 2021-11-25 |  |
 | [Sigue Tu Camino](https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:49 | 2021-11-25 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 | 2021-11-25 |  |
 | [Sobredosis](https://open.spotify.com/track/5WNfNohnH5zSjz9odihLM9) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Tributo a La Salsa Colombiana](https://open.spotify.com/album/49m397xV5kOZlernc0Iq2d) | 4:07 | 2021-11-25 | 2022-03-23 |
@@ -69,6 +69,6 @@
 | [Ya No Te Puedo Amar](https://open.spotify.com/track/4GR1oh1QEZ5LAaj2OQzvuY) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Grandes Hits](https://open.spotify.com/album/43d93eNSEC3jfizdtuOrUE) | 5:06 | 2021-11-25 |  |
 | [Yo No Sé Mañana \(salsa\)](https://open.spotify.com/track/1nZziTuPRwCfJe1XvVC760) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/0UhRsOyE3SzdM51cjS3LVm) | 4:19 | 2021-11-25 | 2022-03-23 |
 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 | 2021-11-25 |  |
-| [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 | 2021-11-25 |  |
+| [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 | 2021-11-25 | 2022-03-24 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,544 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,735 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 19 | [O Baixo do Kassin](https://open.spotify.com/track/2rqbQFXEwBboCYy2uwSoxM) | [Sonzeira](https://open.spotify.com/artist/5ECw3EVP88QcyfvjWehLSH), [Kassin](https://open.spotify.com/artist/3KNQV3MQsTnUfJaVpZUfCk) | [Tam Tam Tam Reimagined](https://open.spotify.com/album/1uXTbo8bF8rARKVIFqnm4A) | 3:27 |
 | 20 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 21 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 |
-| 22 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 22 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 |
 | 23 | [I'm Losin' the Feelin](https://open.spotify.com/track/21mfBGEabxcfK6UtEeZRtU) | [Little Beaver](https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn) | [Joey](https://open.spotify.com/album/5AcBVnXBm6kcSA2xwX88aE) | 3:18 |
-| 24 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 |
+| 24 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 25 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
 | 26 | [Nakamarra](https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:34 |
 | 27 | [Moment to Change](https://open.spotify.com/track/1ML1hKOswbviGfAGVLXA3k) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 3:11 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 45 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
 | 46 | [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 |
 | 47 | [Clarity](https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Clarity](https://open.spotify.com/album/09bDlTcjEzOeMZJCjKwxF0) | 4:04 |
-| 48 | [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 |
-| 49 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
-| 50 | [We Go Again](https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [We Go Again](https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1) | 4:22 |
+| 48 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
+| 49 | [We Go Again](https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [We Go Again](https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1) | 4:22 |
+| 50 | [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 |
 | 51 | [Superstar](https://open.spotify.com/track/78c46mRETwOfvcaCqWLuKu) | [El Michels Affair meets Liam Bailey](https://open.spotify.com/artist/1vdL0GMTzSbXJvFbz4WxL8), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Ekundayo Inversions](https://open.spotify.com/album/54O5JucWpaQZhDNmrcIaar) | 3:09 |
 | 52 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 |
 | 53 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 75 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 |
 
-Snapshot ID: `MTY0Nzk5NzI0MywwMDAwMDAwMDA1MjY4ZTYyZTk5OTBiNzAyYTEwYjZiODgxYjRmOWZm`
+Snapshot ID: `MTY0ODA4MzM2NywwMDAwMDAwMDgzZTY4M2UyNDZkYWRlYWM2NmZjN2IyMDI3M2JhY2M4`

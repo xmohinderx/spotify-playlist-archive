@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,329 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,369 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 49 | [Déprime hostile](https://open.spotify.com/track/3aQjtAFl23kSadBxrVmrr1) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Déprime hostile](https://open.spotify.com/album/2yqWH1uIjg26bzGFNnV8RS) | 2:18 |
 | 50 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 |
 | 51 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 |
-| 52 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 |
-| 53 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 |
-| 54 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 |
+| 52 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 |
+| 53 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 |
+| 54 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 |
 | 55 | [R.I.P\. in Peace](https://open.spotify.com/track/238vQOEsppkBCz57hy3mag) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/0thTKN8gt2QXBxHF7CfAvR) | 4:38 |
 | 56 | [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 |
 | 57 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 66 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
 | 67 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 |
 | 68 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 |
-| 69 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 |
-| 70 | [Sink](https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Rhythm + Ethics](https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG) | 3:25 |
-| 71 | [The Shining of My Soul](https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [The Shining of My Soul](https://open.spotify.com/album/2S8lZl5Y49kMG4UiXpdhvn) | 3:30 |
-| 72 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 |
-| 73 | [Hypersects](https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl) | [Bison Bisou](https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1) | [Bodysick](https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM) | 2:47 |
-| 74 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 |
+| 69 | [Sink](https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Rhythm + Ethics](https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG) | 3:25 |
+| 70 | [The Shining of My Soul](https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [The Shining of My Soul](https://open.spotify.com/album/2S8lZl5Y49kMG4UiXpdhvn) | 3:30 |
+| 71 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 |
+| 72 | [Hypersects](https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl) | [Bison Bisou](https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1) | [Bodysick](https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM) | 2:47 |
+| 73 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 |
+| 74 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 |
 | 75 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 
-Snapshot ID: `MTY0Nzk5NzQyOCwwMDAwMDAwMGM0OWU1OWFmODIzZGU4YTlhZDgwOGEyYjliYzU0N2U4`
+Snapshot ID: `MTY0ODA4MzU1OCwwMDAwMDAwMDQxNTZjOGE5OWMwZWI4NTQ2YzM5ZTA0NDExNGU4NDEw`

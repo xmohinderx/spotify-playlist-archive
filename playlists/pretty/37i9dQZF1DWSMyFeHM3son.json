@@ -1,12 +1,12 @@
 {
   "description": "pigtail buns, chokers, knee socks, and chunky platforms ",
-  "num_followers": 14646,
+  "num_followers": 14675,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgwOSwwMDAwMDAwMGYzNWZmN2M3MzZlZTQ3NzUzNzUzYWNiZDA5MTc3MDRi",
+  "snapshot_id": "MTY0ODA4MjkyNiwwMDAwMDAwMGE5NjI4OTM3YmFlNTAyYzc2MWYwZTc2Y2E3YTQ3NDI3",
   "tracks": [
     {
       "added_at": "2021-12-10 23:25:05",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "added_at": "2021-12-10 23:25:05",
+      "album": {
         "name": "Disappear Here",
         "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2021-12-10 23:25:05",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+    },
+    {
+      "added_at": "2021-12-10 23:25:05",
+      "album": {
+        "name": "Pure Heroine (Extended)",
+        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 201433,
+      "name": "The Love Club",
+      "url": "https://open.spotify.com/track/2yrJ1jWo3HLksJFUqUsZE4"
     },
     {
       "added_at": "2022-02-11 21:30:02",
@@ -431,38 +447,6 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
-        "name": "Favourite Worst Nightmare",
-        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
-    },
-    {
-      "added_at": "2021-12-10 23:25:05",
-      "album": {
-        "name": "Pure Heroine (Extended)",
-        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 201433,
-      "name": "The Love Club",
-      "url": "https://open.spotify.com/track/2yrJ1jWo3HLksJFUqUsZE4"
-    },
-    {
-      "added_at": "2021-12-10 23:25:05",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
+    },
+    {
+      "added_at": "2021-12-10 23:25:05",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2021-12-10 23:25:05",
+      "album": {
+        "name": "Pure Heroine (Extended)",
+        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 246755,
+      "name": "Buzzcut Season",
+      "url": "https://open.spotify.com/track/3ShTaJBCOclymogQNzPde7"
     },
     {
       "added_at": "2021-12-10 23:25:05",
@@ -541,6 +557,22 @@
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
+      "added_at": "2022-02-11 21:30:02",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
       "added_at": "2021-12-10 23:25:05",
       "album": {
         "name": "Melophobia",
@@ -571,38 +603,6 @@
       "duration_ms": 263733,
       "name": "Holding on to You",
       "url": "https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO"
-    },
-    {
-      "added_at": "2021-12-10 23:25:05",
-      "album": {
-        "name": "Pure Heroine (Extended)",
-        "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 246755,
-      "name": "Buzzcut Season",
-      "url": "https://open.spotify.com/track/3ShTaJBCOclymogQNzPde7"
-    },
-    {
-      "added_at": "2022-02-11 21:30:02",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
       "added_at": "2021-12-10 23:25:05",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Collar Full",
-      "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
-    },
-    {
-      "added_at": "2021-12-10 23:25:05",
-      "album": {
         "name": "Man On The Moon: The End Of Day",
         "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2021-12-10 23:25:05",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/2UyWClHKt6fut3IpS2tJiR"
+      "duration_ms": 198466,
+      "name": "Collar Full",
+      "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
     },
     {
       "added_at": "2021-12-10 23:25:05",
@@ -803,6 +787,22 @@
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "added_at": "2021-12-10 23:25:05",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/2UyWClHKt6fut3IpS2tJiR"
     },
     {
       "added_at": "2021-12-10 23:25:05",

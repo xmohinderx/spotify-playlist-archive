@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover:  Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,998 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,057 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 26 | [Homecoming Freestyle](https://open.spotify.com/track/6MGro2R6Bx8zFsl8axO4nM) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Homecoming Freestyle](https://open.spotify.com/album/07I5P5PXGXGVyxspY6POWQ) | 3:12 |
 | 27 | [Wayward Girl](https://open.spotify.com/track/6QmZxAPBNA8v2Jj2Yk7Z8D) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Wayward Girl](https://open.spotify.com/album/5zZzyn6WiwiMelEMH1HPXW) | 2:27 |
 | 28 | [Suzanna \(feat\. Patoranking\)](https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:35 |
-| 29 | [No Stress](https://open.spotify.com/track/56l5nazZw2rwYmu3dqbWjo) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [No Stress](https://open.spotify.com/album/2eqVhf9whzytXH8WcHS2Y7) | 3:22 |
+| 29 | [Kilometre](https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc) | 2:33 |
 | 30 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 |
-| 31 | [Kilometre](https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc) | 2:33 |
+| 31 | [No Stress](https://open.spotify.com/track/56l5nazZw2rwYmu3dqbWjo) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [No Stress](https://open.spotify.com/album/2eqVhf9whzytXH8WcHS2Y7) | 3:22 |
 | 32 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
 | 33 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 34 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 |
-| 35 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
-| 36 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 |
-| 37 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 |
-| 38 | [Juice](https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Juice](https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq) | 2:36 |
-| 39 | [Vogue](https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Vogue](https://open.spotify.com/album/5AA9M5Uc8Kh4Uu5FOh4FqL) | 3:14 |
-| 40 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/album/1Re42ryUU8e6Mau0MfMBv0) | 2:50 |
+| 35 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 |
+| 36 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 |
+| 37 | [Juice](https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Juice](https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq) | 2:36 |
+| 38 | [Vogue](https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Vogue](https://open.spotify.com/album/5AA9M5Uc8Kh4Uu5FOh4FqL) | 3:14 |
+| 39 | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/track/5SSYzmp4B9GnT3xYswsUh7) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Crazy \(feat\. Lil Baby\)](https://open.spotify.com/album/1Re42ryUU8e6Mau0MfMBv0) | 2:50 |
+| 40 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 41 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 42 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 |
 | 43 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 50 | [Lupita](https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:37 |
 
-Snapshot ID: `MTY0Nzk5NzQ2MywwMDAwMDAwMDYzMDA2ZGI1ZTJhZDQyYTQwZTkyOThhOTVjMDUyOTFj`
+Snapshot ID: `MTY0ODA4MzU5NCwwMDAwMDAwMDdlYzIyZWQzZDY5Nzc1YzBmZTBjMjljNTQ0NjQ1NTY1`

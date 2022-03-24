@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 358426,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 241893,
       "name": "Cats In The Cradle",
       "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 299733,
       "name": "Far Behind",
       "url": "https://open.spotify.com/track/1t1NX1DJQDcmZA0lvCnFjC"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 266493,
       "name": "Glycerine",
       "url": "https://open.spotify.com/track/0l9l90a1zB3wUObtwWbqHy"
@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422600,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 267760,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/0TuMqSmrKZNH4CeRg6I9er"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 314173,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 265866,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 316426,
       "name": "Who's Gonna Ride Your Wild Horses",
       "url": "https://open.spotify.com/track/6pr4l76PYIgtp6xsvyfSqN"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 258732,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 289440,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,362 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,444 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 11 | [Contatinho \- Ao Vivo](https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Contatinho \(Ao Vivo\)](https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA) | 2:53 |
 | 12 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 |
 | 13 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
-| 14 | [Tão Linda](https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Casa 67](https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV) | 2:27 |
-| 15 | [Que Se Chama Amor](https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Maxximum \- Só Pra Contrariar](https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4) | 4:00 |
+| 14 | [Que Se Chama Amor](https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Maxximum \- Só Pra Contrariar](https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4) | 4:00 |
+| 15 | [Tão Linda](https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Casa 67](https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV) | 2:27 |
 | 16 | [Atrasadinha \- Live](https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:52 |
 | 17 | [Morena](https://open.spotify.com/track/235BOGYon3gz23rKrtNwle) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Adrenalizou](https://open.spotify.com/album/1Un9ukysYPYwQiwKWtSgMZ) | 2:44 |
 | 18 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 27 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 28 | [O Mundo Dá Voltas](https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas](https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o) | 2:56 |
 | 29 | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/track/3ugHD1hbqLwHl4ubH72EbU) | [Harmonia Do Samba](https://open.spotify.com/artist/3o1Lr9yRGJJhhLlVQFObfC), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/album/4zNaIysl3maMox9VwVLVCu) | 2:16 |
-| 30 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
-| 31 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
+| 30 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
+| 31 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 32 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
 | 33 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 34 | [Nosso Sonho](https://open.spotify.com/track/2utewTyarSbTNi8T6TB7sr) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Novo Millennium](https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 100 | [Ta Tum Tum](https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ta Tum Tum](https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI) | 2:44 |
 
-Snapshot ID: `MTY0Nzk5NzAxNywwMDAwMDAwMDFmYjljNzY3MmYxNTc3MDI0NDBjN2ZhNmEzNzM5MTYy`
+Snapshot ID: `MTY0ODA4MzEzOCwwMDAwMDAwMDU2ZDQxZDgwMTcyMTM1YjdhYjUyM2EzMzgzNTcxNmVk`

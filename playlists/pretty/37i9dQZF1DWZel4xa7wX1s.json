@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzAzMCwwMDAwMDAwMDdkMmQyMmJkYjRiMWYyODgyMDRkY2M2MjA1Nzc5NDQ1",
+  "snapshot_id": "MTY0ODA4MzE1MSwwMDAwMDAwMDEwNGQ1ZWNkYjU0YTczOGM1N2FkZTBlMDMzN2I4OWU4",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -111,22 +111,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Western Stars",
-      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -279,6 +279,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "I Guess I Just Feel Like",
+        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "There Goes My Miracle",
         "url": "https://open.spotify.com/album/54d7QpfErR8fTXeLXJMvql"
       },
@@ -295,18 +311,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "I Guess I Just Feel Like",
-        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 286426,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+      "duration_ms": 217212,
+      "name": "Shallow - Radio Edit",
+      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -343,22 +363,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+        "name": "Champion of The World / Daddy",
+        "url": "https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 217212,
-      "name": "Shallow - Radio Edit",
-      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -395,22 +411,6 @@
       "duration_ms": 234240,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/0awwOS43XbEg56EmKjyW4u"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Champion of The World / Daddy",
-        "url": "https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -831,22 +831,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Sanremo",
-        "url": "https://open.spotify.com/album/1zhMkaZCOY039KDkUl3QjC"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Sanremo",
-      "url": "https://open.spotify.com/track/4HriEdz5wMfrp4tqPdaOED"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Blind Leading The Blind",
         "url": "https://open.spotify.com/album/1sWcGlojlFQctnfRWlmUjI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 288253,
       "name": "Light On",
       "url": "https://open.spotify.com/track/7oDksGjePXQW8RlGXnfv8Q"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Sanremo",
+        "url": "https://open.spotify.com/album/1zhMkaZCOY039KDkUl3QjC"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Sanremo",
+      "url": "https://open.spotify.com/track/4HriEdz5wMfrp4tqPdaOED"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Egypt Station",
         "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 302218,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     }
   ],
   "unique_name": "The New Waltz",

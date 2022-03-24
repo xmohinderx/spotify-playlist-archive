@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 28 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,425 likes - 28 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 12 | [Desi Jatt](https://open.spotify.com/track/02utvJ5kGIQJbOJdK3WxDF) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Harjit Heera](https://open.spotify.com/artist/1QpZEY5zY0BplCb4m150fX) | [Desi Jatt](https://open.spotify.com/album/2T5qWHzjDyn8Ha3qUvLVbj) | 4:29 |
 | 13 | [Bathinda](https://open.spotify.com/track/3PXMOjduIIgqtEKCa9JEML) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:23 |
 | 14 | [Akh Surme Di](https://open.spotify.com/track/0CQfzve7uGmOSWjAsQSZSe) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv) | [Vadhayiyaan Ji Vadhayiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/200xbCAhb4tXcR8UWOkz8p) | 3:35 |
-| 15 | [Nachdi De Pairan Vich \(The TD Mix\)](https://open.spotify.com/track/37Jyck288MWxC42kimJTf7) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Tarli Digital](https://open.spotify.com/artist/3HnnQuxIRLSc69XMDesEbr) | [Romantic Jatt](https://open.spotify.com/album/0AWuL0QXKaLRjh0WwndvgL) | 3:45 |
+| 15 | [Nachdi De Pairan Vich \- The TD Mix](https://open.spotify.com/track/37Jyck288MWxC42kimJTf7) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Tarli Digital](https://open.spotify.com/artist/3HnnQuxIRLSc69XMDesEbr) | [Romantic Jatt](https://open.spotify.com/album/0AWuL0QXKaLRjh0WwndvgL) | 3:45 |
 | 16 | [Motorcycle \(feat\. Jas & Parv\)](https://open.spotify.com/track/3FCM9ml9B68NohWFkHTBBC) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Nirmal Sidhu](https://open.spotify.com/artist/5WhL0sP8YGFIVZmbSVZsMD), [Jas](https://open.spotify.com/artist/5KuD9S59fTMTIaDRDIFme2), [Parv](https://open.spotify.com/artist/71j4xwlyEnBQ92JgCXJe2i) | [Bhangra Dance Hits](https://open.spotify.com/album/1ZQKNF5ON8Ihz1YWgXF7QK) | 4:42 |
 | 17 | [Menu Tere Jeya](https://open.spotify.com/track/7oojiUzsQZz52EC36joBzT) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44) | [The Biggest UK Bhangra Hits, Vol\. 5](https://open.spotify.com/album/3cQ7UsnZzJI9NY2FLi8Dr8) | 4:17 |
 | 18 | [Painkiller](https://open.spotify.com/track/133oRYe55wNjNVFsB6fpcM) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Painkiller](https://open.spotify.com/album/7j6alVyEZyVi34VsBEXQU9) | 3:25 |

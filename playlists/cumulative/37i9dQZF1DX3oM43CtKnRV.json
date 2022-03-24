@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These songs rocked the 00s. Cover: Linkin Park",
+  "description": "These songs rocked the 00s. Cover: Muse",
   "name": "00s Rock Anthems",
   "published_playlist_ids": [
     "2YBiD0YO7GUD6vsbO2o7zT"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
@@ -617,6 +617,24 @@
       "duration_ms": 223826,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/0F2nGhgFNlkVHm81zNEvW6"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
     },
     {
       "album": {

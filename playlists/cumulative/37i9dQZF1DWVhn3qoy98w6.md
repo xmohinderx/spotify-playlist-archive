@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: toorai
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: BERNARDA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

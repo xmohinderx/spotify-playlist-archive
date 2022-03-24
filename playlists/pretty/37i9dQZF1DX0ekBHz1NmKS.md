@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,958 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,968 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 45 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 |
 | 46 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 |
 | 47 | [På låtsas](https://open.spotify.com/track/0APTVcLFgMI85RIIpX0h0P) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [På låtsas](https://open.spotify.com/album/4wC5w2OOBNksd8k7uhPmG1) | 3:59 |
-| 48 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 |
-| 49 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 |
+| 48 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 |
+| 49 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 |
 | 50 | [Fine](https://open.spotify.com/track/3p52HKLY1X9Vfvkkajpfwd) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Fine](https://open.spotify.com/album/53p4lvVH4RV76OQj6evdOx) | 3:25 |
 | 51 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 |
 | 52 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Vi har iallafall inte tråkigt](https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Vi har iallafall inte tråkigt](https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY) | 2:40 |
 | 100 | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/album/5rdfKaVdj9wKhRkPq0iBVE) | 4:12 |
 
-Snapshot ID: `MTY0Nzk5NzA2NSwwMDAwMDAwMDNhODkwZTViYjI1ODgzZDg0Mzg3ZDE2NzUyMTIwMzhm`
+Snapshot ID: `MTY0ODA4MzE5MCwwMDAwMDAwMDE4MDE0NTBhNjI3MzlkNDJhZDk4N2E2OTk4MDViYTk0`

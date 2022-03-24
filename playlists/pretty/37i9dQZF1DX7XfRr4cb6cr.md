@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,506 likes - 80 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 80 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 13 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 |
 | 14 | [Piano II](https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [That Kind Of Faint Hope / Excerpts, Outtakes & Radio Edits](https://open.spotify.com/album/2DsMCUTjNIg5VV9yp4DuG0) | 3:08 |
 | 15 | [Mälardynen](https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX) | [Linus Hillborg](https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS) | [Magelungsverket](https://open.spotify.com/album/5nup9Yq25vKalN4aMOA2Bs) | 4:39 |
-| 16 | [Little One](https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Feelings](https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw) | 2:22 |
-| 17 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 |
-| 18 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 |
+| 16 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 |
+| 17 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 |
+| 18 | [Little One](https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Feelings](https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw) | 2:22 |
 | 19 | [Kerlann](https://open.spotify.com/track/3z5526brr8uZeHJOylEibp) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber](https://open.spotify.com/album/0L9QNawAYPBbMOkHD1tZOM) | 6:32 |
 | 20 | [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 |
 | 21 | [Your Shadow Tells the Story of What We Could Have Been](https://open.spotify.com/track/0Gz0Dui1sOIEMBq5R0ZJoD) | [Frönäs](https://open.spotify.com/artist/23IOctRIyDVxUQWmKrufGk) | [That Light, As the Door Closed](https://open.spotify.com/album/4XUsuXNUUuuCTIDjeUhjNL) | 11:34 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 54 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 |
 | 55 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 56 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 |
-| 57 | [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 |
-| 58 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
+| 57 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
+| 58 | [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 |
 | 59 | [Ending Theme](https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Unfinished](https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98) | 3:43 |
 | 60 | [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 |
 | 61 | [Vaara](https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7) | 5:09 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 73 | [Fantas for Saxophone and Voice](https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Fantas for Saxophone and Voice](https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J) | 7:16 |
 | 74 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 |
 | 75 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 |
-| 76 | [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 |
-| 77 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 |
-| 78 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 |
-| 79 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 |
+| 76 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 |
+| 77 | [Of Becoming and Dying](https://open.spotify.com/track/3gxKrtlTm56lMm8Ng2vS02) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 3:47 |
+| 78 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 |
+| 79 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 |
 | 80 | [Genesis \(Version\)](https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 3:56 |
 
-Snapshot ID: `MTY0Nzk5NzI4NSwwMDAwMDAwMDM5ZTU4ZDFlYzFhNDAyZmY0MTgwY2RmYjIyODJkNWZl`
+Snapshot ID: `MTY0ODA4MzQxMCwwMDAwMDAwMDcyNjFmYTAwMGQyY2M3OTNhMzYwMjhmNzhlOTRkNTk2`

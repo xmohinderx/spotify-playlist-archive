@@ -1,12 +1,12 @@
 {
   "description": "Pura m\u00fasica fresca para vibrar en cualquier momento de la semana.",
-  "num_followers": 308585,
+  "num_followers": 308704,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQwMywwMDAwMDAwMDFjYzgyNmM0NzA2YjI2YjI4YTkxZTIxNmJmYzFmNjkz",
+  "snapshot_id": "MTY0ODA4MzUzMiwwMDAwMDAwMDQ4YTI0OTI0YmVmNjBjMzUyMTJkOTQ2Yzg4YTQ2ZGUw",
   "tracks": [
     {
       "added_at": "2022-03-20 18:45:03",
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-03-20 18:45:03",
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/0ACoUtaPRlyOY0ug6CMIZl"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 181948,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7ryxHPm6oNuVYiBLB2RuNX"
+    },
+    {
+      "added_at": "2022-03-20 18:45:03",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello",
       "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
-    },
-    {
-      "added_at": "2022-03-20 18:45:03",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/0ACoUtaPRlyOY0ug6CMIZl"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 181948,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/7ryxHPm6oNuVYiBLB2RuNX"
     },
     {
       "added_at": "2022-03-20 18:45:03",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-03-20 18:45:03",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2022-03-20 18:45:03",
-      "album": {
         "name": "Volverte a Ver",
         "url": "https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 214300,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p"
+    },
+    {
+      "added_at": "2022-03-20 18:45:03",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2022-03-20 18:45:03",

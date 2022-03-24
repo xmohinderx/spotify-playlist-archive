@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,889 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,021 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 43 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 |
 | 44 | [Consider Me](https://open.spotify.com/track/6p0xVnT5K3UdxKqQ0Fgytw) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/1WLkkZZ8O5mqGBEa7mPiZD) | 3:04 |
 | 45 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 46 | [Honey, I](https://open.spotify.com/track/1QfwkymZqi0qfwU8SXjzWH) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/65X1glJxmpe9Ak0CZV9qI1) | 2:33 |
-| 47 | [You And I](https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:44 |
+| 46 | [You And I](https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:44 |
+| 47 | [Honey, I](https://open.spotify.com/track/1QfwkymZqi0qfwU8SXjzWH) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/65X1glJxmpe9Ak0CZV9qI1) | 2:33 |
 | 48 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 |
-| 49 | [Right on Time](https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time](https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd) | 3:05 |
-| 50 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
-| 51 | [Chin Up](https://open.spotify.com/track/3oDIsWtp8eCHFEd6Rub3fm) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/5EVVPoXeuCyYN8dhjGZ9dx) | 4:25 |
-| 52 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
-| 53 | [Beyond \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:04 |
-| 54 | [Where You're At](https://open.spotify.com/track/34jjJlejyRswRpHQiX3Jgq) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/0BMS4lZqxjh2DELNAVYl8P) | 2:50 |
+| 49 | [Where You're At](https://open.spotify.com/track/34jjJlejyRswRpHQiX3Jgq) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/0BMS4lZqxjh2DELNAVYl8P) | 2:50 |
+| 50 | [Right on Time](https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time](https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd) | 3:05 |
+| 51 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
+| 52 | [Chin Up](https://open.spotify.com/track/3oDIsWtp8eCHFEd6Rub3fm) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/5EVVPoXeuCyYN8dhjGZ9dx) | 4:25 |
+| 53 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
+| 54 | [Beyond \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:04 |
 | 55 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 |
 | 56 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 |
 | 57 | [Pavement](https://open.spotify.com/track/21DTeeLwvvGlb3OFrd9rTT) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Pavement](https://open.spotify.com/album/7hjH77qbvXv66TWSWlUco7) | 3:16 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 64 | [Changes \(feat\. Joe P\)](https://open.spotify.com/track/0OZzcGFKrco8AwYD3QWIsW) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Songs For Every Condition](https://open.spotify.com/album/49ssij42QUj1TH2Pgo21ES) | 2:43 |
 | 65 | [Overnight](https://open.spotify.com/track/4L9l5x0WuzNtyEBeqzvgPE) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:20 |
 | 66 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 |
-| 67 | [Ends of the Earth](https://open.spotify.com/track/33onVefa4PMs8b705pKRGz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:44 |
-| 68 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
-| 69 | [Girl](https://open.spotify.com/track/0wcHV7AT77zzyH4ftt11vh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:32 |
-| 70 | [Musta Been Something](https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 5:46 |
-| 71 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
-| 72 | [Leader Of The Landslide](https://open.spotify.com/track/1GobnJwog1V9M7UsITz8u5) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 5:54 |
+| 67 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
+| 68 | [Ends of the Earth](https://open.spotify.com/track/33onVefa4PMs8b705pKRGz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:44 |
+| 69 | [Leader Of The Landslide](https://open.spotify.com/track/1GobnJwog1V9M7UsITz8u5) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ) | 5:54 |
+| 70 | [Girl](https://open.spotify.com/track/0wcHV7AT77zzyH4ftt11vh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:32 |
+| 71 | [Musta Been Something](https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 5:46 |
+| 72 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 73 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
 | 74 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 |
 | 75 | [Warm Animal](https://open.spotify.com/track/7oiZRx7OZbUAYUiYeFTXrf) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [What's It Like?](https://open.spotify.com/album/5LJzP85Zn7B2IAt7zhLImG) | 3:31 |
 
-Snapshot ID: `MTY0Nzk5NzExNywwMDAwMDAwMGFhYjI4NTRlNTFiMWEwNDRjYzkzYmQ2OTY0MDU3NWE5`
+Snapshot ID: `MTY0ODA4MzI0NCwwMDAwMDAwMDU5ZTAwOGRjZGMxYzljOTdkNGNhNzYwZWQxNDNhYmFh`

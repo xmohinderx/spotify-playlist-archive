@@ -5780,6 +5780,24 @@
     },
     {
       "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303866,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M"
+    },
+    {
+      "album": {
         "name": "Violator (2006 Remaster)",
         "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
       },
@@ -8887,8 +8905,8 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Robert Smith\u00a0",
-          "url": "https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk"
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
         }
       ],
       "date_added": "2020-09-10",

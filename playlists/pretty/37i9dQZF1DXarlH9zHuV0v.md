@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,767 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,736 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 6 | [Corps of Corpses](https://open.spotify.com/track/1lDFvDVZxEeeMrOqIHAuql) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future \(Bonus Track Version\)](https://open.spotify.com/album/0iPDvB9rAkq3UBfUu0I6JM) | 3:12 |
 | 7 | [Dragula](https://open.spotify.com/track/4QEFQlNFerDnWvNU8NASiV) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2kYUGuzvFalmxjhSD0q7u1) | 3:42 |
 | 8 | [Haunted](https://open.spotify.com/track/7uXVBv1Uj4lnfUHVpcCAyQ) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4) | 3:05 |
-| 9 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
-| 10 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 |
-| 11 | [This Is Halloween](https://open.spotify.com/track/6wYJJ8AEhgS2euFsuTvZ1g) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Nightmare Revisited](https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp) | 3:22 |
+| 9 | [This Is Halloween](https://open.spotify.com/track/6wYJJ8AEhgS2euFsuTvZ1g) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Nightmare Revisited](https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp) | 3:22 |
+| 10 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
+| 11 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 |
 | 12 | [Ghostbusters \- From "Ghostbusters"](https://open.spotify.com/track/20yaQDVW6gefTsdoa9Out7) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters](https://open.spotify.com/album/5yPHlWyVZRtYszki7TXfJw) | 4:04 |
 | 13 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 14 | [The Addams Family Theme](https://open.spotify.com/track/5QIVtapQoKCkzUiCLavP9l) | [Vic Mizzy & His Orchestra](https://open.spotify.com/artist/6a8HATOQDGF1wciECYb6vl) | [The Addams Family](https://open.spotify.com/album/5qSCwxD0bKiqmiD9hQXaAS) | 1:59 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 30 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [The Essential Blue Öyster Cult](https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4) | 5:08 |
 | 31 | [Stabbing In The Dark](https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:36 |
 | 32 | [Sympathy For The Devil](https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet](https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi) | 6:17 |
-| 33 | [Monster](https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(International Deluxe\)](https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6) | 4:09 |
-| 34 | [Ghosts \- Single Edit](https://open.spotify.com/track/4QIxv5yjb9TvbJeVzMQFt1) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Best of 00\-10](https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ) | 4:31 |
-| 35 | [Monster](https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 2:58 |
-| 36 | [Calling All the Monsters](https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Calling All The Monsters](https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz) | 3:26 |
-| 37 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
+| 33 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
+| 34 | [Monster](https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(International Deluxe\)](https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6) | 4:09 |
+| 35 | [Ghosts \- Single Edit](https://open.spotify.com/track/4QIxv5yjb9TvbJeVzMQFt1) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Best of 00\-10](https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ) | 4:31 |
+| 36 | [Monster](https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 2:58 |
+| 37 | [Calling All the Monsters](https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Calling All The Monsters](https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz) | 3:26 |
 | 38 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 39 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 |
 | 40 | [Thunderstorm \- Overhead](https://open.spotify.com/track/7zPLxHTkPAjy4U0QQ80JQH) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 0:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [A Nightmare on My Street](https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Greatest Hits](https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG) | 4:58 |
 | 60 | [I Put A Spell On You](https://open.spotify.com/track/1C4xjDGHbociEC1NPOfGIB) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6V8b6itvyd7N3IRMXkjSi7) | 3:36 |
 
-Snapshot ID: `MTY0Nzk5NzM4NiwwMDAwMDAwMGNhODgzMTY5MmU1ODhiMjlhMmZiZmIwYjY3OGI1MDVl`
+Snapshot ID: `MTY0ODA4MzUxNCwwMDAwMDAwMDAzMzUzYTk0NDE4MTgxYTAyNWVjY2FkNDYzZWRiMzNi`

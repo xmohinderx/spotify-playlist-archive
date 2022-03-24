@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,068 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,248 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 21 | [Bad Trip](https://open.spotify.com/track/7lFJ0T8zdByaG0cnbsCAgI) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Bad Trip](https://open.spotify.com/album/3vBR3knbax4Y8bYpSPrvTo) | 3:14 |
 | 22 | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/track/2h4tjVVBuvdwpuNnBq9gt0) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/6fAlql9r2JYYa9biWm8fhi) | 2:21 |
 | 23 | [Wind Me Up](https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe) | [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Wind Me Up](https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG) | 2:10 |
-| 24 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
-| 25 | [Touch](https://open.spotify.com/track/0Pebpt5NlciT4arOfAEgvB) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Touch](https://open.spotify.com/album/1FAG0GWOUkhCaQB7Pnvcwk) | 2:58 |
-| 26 | [I Just Wanna Dance](https://open.spotify.com/track/5mhExux66DUADHMCP1taBP) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/39Sz5oUK6YZVZ3yM9HWB1Y) | 2:34 |
+| 24 | [Touch](https://open.spotify.com/track/0Pebpt5NlciT4arOfAEgvB) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Touch](https://open.spotify.com/album/1FAG0GWOUkhCaQB7Pnvcwk) | 2:58 |
+| 25 | [I Just Wanna Dance](https://open.spotify.com/track/5mhExux66DUADHMCP1taBP) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/39Sz5oUK6YZVZ3yM9HWB1Y) | 2:34 |
+| 26 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 27 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |
 | 28 | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg) | 2:30 |
 | 29 | [Wenn du mich siehst \- RIBELLU Remix](https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [The Sound \(feat\. JUSTN X\)](https://open.spotify.com/track/6Gevh0EzBnahkjKJnwaed6) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [JUSTN X](https://open.spotify.com/artist/6a6XPqUW48oSQbIylizF5i) | [The Sound \(feat\. JUSTN X\)](https://open.spotify.com/album/2yXP0KBNYnEKQTqZIcvVJu) | 2:28 |
 | 60 | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/album/0kTaLBMa8idvVsB26NVtoV) | 2:26 |
 
-Snapshot ID: `MTY0Nzk5NzMzMiwwMDAwMDAwMDdiNjU0ZDRhMjRjMjc4MTNkNGQ5ZjYyYjQwMmQ0Mzgx`
+Snapshot ID: `MTY0ODA4MzQ1OSwwMDAwMDAwMDNhYzgwMDU2NDFhNGE4ODE0YzAxYWM3ZDU3NDk4ZDZm`

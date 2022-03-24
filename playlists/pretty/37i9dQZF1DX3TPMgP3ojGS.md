@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,824 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,953 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 49 | [Little Memories](https://open.spotify.com/track/7yqt5FexPi4P2h8KVawKDm) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Little Memories](https://open.spotify.com/album/5x8nMcUaYAE7mPNy4n9Zzh) | 2:37 |
 | 50 | [For Ruby](https://open.spotify.com/track/2LEDOIkhBTy39iu4OPE1Qk) | [Dominic Walton](https://open.spotify.com/artist/5yYhE8v7LRvK1dIBCbS4JA) | [The Loop](https://open.spotify.com/album/1RyGxuY2zYWsCtyQ5MATra) | 2:47 |
 
-Snapshot ID: `MTY0Nzk5NzE1NSwwMDAwMDAwMDhiYjE1ZWI3YjYxYTU3MjdlZDAyMDIxNDE3N2NjODBj`
+Snapshot ID: `MTY0ODA4MzI4MCwwMDAwMDAwMDhiYjE1ZWI3YjYxYTU3MjdlZDAyMDIxNDE3N2NjODBj`

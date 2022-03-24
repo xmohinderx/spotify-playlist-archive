@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,972 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,025 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 15 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 |
 | 16 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 |
 | 17 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 |
-| 18 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 |
-| 19 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 |
-| 20 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 |
+| 18 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 |
+| 19 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 |
+| 20 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 |
 | 21 | [Shimmer](https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom) | 3:25 |
 | 22 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 |
 | 23 | [Lose Your Shit](https://open.spotify.com/track/43AQsk8AnWfEwiwFB5lo8K) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Lose Your Shit](https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW) | 3:07 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 64 | [Karma Restored](https://open.spotify.com/track/3gc9Lfzz46uflZXXEx293l) | [Conrank](https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F), [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Karma Restored](https://open.spotify.com/album/4LK0Mf5151DSs8hXDoUKj1) | 3:52 |
 | 65 | [Special Guest](https://open.spotify.com/track/36ULZ4UnKmYje4E74xNd9p) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/7KLEYOgwcEUHInKhAuKbO2) | 3:31 |
 | 66 | [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 |
-| 67 | [Gunshots](https://open.spotify.com/track/3JQMhnfjxYKU9NG8vzjU9s) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Gunshots](https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9) | 3:34 |
-| 68 | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ), [TMRRW](https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y) | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi) | 3:15 |
+| 67 | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ), [TMRRW](https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y) | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi) | 3:15 |
+| 68 | [Gunshots](https://open.spotify.com/track/3JQMhnfjxYKU9NG8vzjU9s) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Gunshots](https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9) | 3:34 |
 | 69 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 |
 | 70 | [Heavyweights](https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Energy Timewarp](https://open.spotify.com/album/0RrDWUxUMo5BLBZoGPFUyD) | 3:04 |
 | 71 | [PURGE](https://open.spotify.com/track/7FdmopCkRn3XDqb5ITwff1) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [PURGE](https://open.spotify.com/album/0pCgcdzGA9ue7EimjdQ5yV) | 3:53 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 107 | [Revival](https://open.spotify.com/track/5pPZNwpwJWTfjI5UOOFWrH) | [SirensCeol](https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4) | [Revival](https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB) | 3:53 |
 | 108 | [R2](https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n) | [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa), [Veros](https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79) | [R2](https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4) | 3:05 |
 
-Snapshot ID: `MTY0Nzk5NzIyMCwwMDAwMDAwMDI2N2Q2MWRlNGQ3YTZiMGRmNTIxZTdiY2E0NjVlZTUy`
+Snapshot ID: `MTY0ODA4MzM0MywwMDAwMDAwMDg1ZTFmODMwMTY3YzhiMThhYzkxNjRiMzgwYjU3NmY0`

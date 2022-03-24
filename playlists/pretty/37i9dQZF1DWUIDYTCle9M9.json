@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima!",
-  "num_followers": 499657,
+  "num_followers": 499820,
   "original_name": "Alto Astral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg3MSwwMDAwMDAwMGNhYWZhYzgyMzZkNzI5OTU0OWI4MWZkNWVmNjNhNzA1",
+  "snapshot_id": "MTY0ODA4Mjk4NiwwMDAwMDAwMDBiY2RiZThlZTZiZjIwYzc2MDUxMTI3ZjFhOTg1NDUy",
   "tracks": [
     {
       "added_at": "2021-07-02 03:03:00",
@@ -171,18 +171,38 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+        "name": "Eu, Tu, Eles",
+        "url": "https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Girassol (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
+      "duration_ms": 256693,
+      "name": "Esperando na janela",
+      "url": "https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Onde Voc\u00ea Mora?",
+        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Onde Voc\u00ea Mora?",
+      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -203,18 +223,18 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Eu, Tu, Eles",
-        "url": "https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA"
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 256693,
-      "name": "Esperando na janela",
-      "url": "https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0"
+      "duration_ms": 249706,
+      "name": "Girassol (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -247,26 +267,6 @@
       "duration_ms": 235866,
       "name": "Beleza Rara",
       "url": "https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Onde Voc\u00ea Mora?",
-        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Onde Voc\u00ea Mora?",
-      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
     },
     {
       "added_at": "2021-07-02 03:03:00",

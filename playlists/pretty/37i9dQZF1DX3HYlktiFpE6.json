@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 91189,
+  "num_followers": 91192,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE0OSwwMDAwMDAwMGYwNmE1MDk5NmM1NzI5ODIxMTA2YjUwZDkyOGU1YjM3",
+  "snapshot_id": "MTY0ODA4MzI3NCwwMDAwMDAwMDZlYThlOTJmMTE5MDFmNDM1MzU0ZmM0MzQ2YTgzNzc0",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Glee: The Music, Volume 4",
+        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Valerie - Glee Cast Version",
+      "url": "https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "The Greatest Showman: Reimagined",
         "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Glee: The Music, Volume 4",
-        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
+        "name": "Fixate",
+        "url": "https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J"
       },
       "artists": [
         {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
         }
       ],
-      "duration_ms": 213413,
-      "name": "Valerie - Glee Cast Version",
-      "url": "https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7"
+      "duration_ms": 263173,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3WgDY81htmhTtSh7VWIl60"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -207,38 +223,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Fixate",
-        "url": "https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J"
-      },
-      "artists": [
-        {
-          "name": "The Clef Hangers",
-          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3WgDY81htmhTtSh7VWIl60"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Circle of Life/He Lives in You",
-        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Circle of Life/He Lives in You",
-      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Pitch Perfect Soundtrack",
         "url": "https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB"
+        "name": "Circle of Life/He Lives in You",
+        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
         }
       ],
-      "duration_ms": 206135,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij"
+      "duration_ms": 218386,
+      "name": "Circle of Life/He Lives in You",
+      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -303,34 +287,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Voices Only 2011 College A Cappella (Volume 1)",
-        "url": "https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe"
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB"
       },
       "artists": [
         {
-          "name": "Pitch Slapped",
-          "url": "https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7"
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "DCappella",
-        "url": "https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "How Far I'll Go",
-      "url": "https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c"
+      "duration_ms": 206135,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -367,18 +335,34 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "PTX Presents: Top Pop, Vol. I",
-        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
+        "name": "Voices Only 2011 College A Cappella (Volume 1)",
+        "url": "https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "Pitch Slapped",
+          "url": "https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Despacito x Shape Of You",
-      "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
+      "duration_ms": 278200,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "DCappella",
+        "url": "https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -395,6 +379,22 @@
       "duration_ms": 112360,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6RPb92J2rlqC1DK7BWIgpF"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "PTX Presents: Top Pop, Vol. I",
+        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Despacito x Shape Of You",
+      "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -427,38 +427,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "A Fifth",
-        "url": "https://open.spotify.com/album/4UGVns5c7hntEX7kO72sUy"
-      },
-      "artists": [
-        {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
-        }
-      ],
-      "duration_ms": 277546,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The Quarterback",
-        "url": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "If I Die Young (Glee Cast Version)",
-      "url": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Pitch Perfect Soundtrack",
         "url": "https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 223840,
       "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
       "url": "https://open.spotify.com/track/6Gds0xbRf66IPJ3Qo0pmPL"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "A Fifth",
+        "url": "https://open.spotify.com/album/4UGVns5c7hntEX7kO72sUy"
+      },
+      "artists": [
+        {
+          "name": "On The Rocks",
+          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
+        }
+      ],
+      "duration_ms": 277546,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 188549,
       "name": "I'll Make a Man Out of You",
       "url": "https://open.spotify.com/track/1jlSXth3CCNaXeioY1tRM4"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Quarterback",
+        "url": "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "If I Die Young (Glee Cast Version)",
+      "url": "https://open.spotify.com/track/1REX2q4Fverp8zH7KuSeZC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "I See Fire",
-        "url": "https://open.spotify.com/album/69iBQEH4nUH7cEpHjjuKrE"
-      },
-      "artists": [
-        {
-          "name": "Peter Hollens",
-          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
-        },
-        {
-          "name": "Taylor Davis",
-          "url": "https://open.spotify.com/artist/1pd7oUxEoJGuibO5UNhsxB"
-        }
-      ],
-      "duration_ms": 291718,
-      "name": "I See Fire",
-      "url": "https://open.spotify.com/track/5jLKhWMzfXOW3icO2fZgAO"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Kiss the Girl",
         "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
       },
@@ -623,18 +603,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Lucky Ones",
-        "url": "https://open.spotify.com/album/7dNAb67rW0niZlc2m2crHx"
+        "name": "I See Fire",
+        "url": "https://open.spotify.com/album/69iBQEH4nUH7cEpHjjuKrE"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        },
+        {
+          "name": "Taylor Davis",
+          "url": "https://open.spotify.com/artist/1pd7oUxEoJGuibO5UNhsxB"
         }
       ],
-      "duration_ms": 190960,
-      "name": "The Lucky Ones",
-      "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"
+      "duration_ms": 291718,
+      "name": "I See Fire",
+      "url": "https://open.spotify.com/track/5jLKhWMzfXOW3icO2fZgAO"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -687,6 +671,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "The Lucky Ones",
+        "url": "https://open.spotify.com/album/7dNAb67rW0niZlc2m2crHx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "The Lucky Ones",
+      "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Full Coverage",
         "url": "https://open.spotify.com/album/2ZrrNlU7Ckl9uB4YKGHhMW"
       },
@@ -715,42 +715,6 @@
       "duration_ms": 182760,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pitch Perfect 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Us79qhfgvZlWTuWBClLmR"
-      },
-      "artists": [
-        {
-          "name": "Rebel Wilson",
-          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
-        },
-        {
-          "name": "Adam Devine",
-          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/4ONGO8V1owsu27dK3mvSfK"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pand\u00e6monium",
-        "url": "https://open.spotify.com/album/3r3sAExzTK7xT8ty4a151h"
-      },
-      "artists": [
-        {
-          "name": "Tufts Beelzebubs",
-          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
-        }
-      ],
-      "duration_ms": 336693,
-      "name": "Come Sail Away",
-      "url": "https://open.spotify.com/track/2TmWgYDevPOukQGNJPeZrN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -791,18 +755,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1oj7hJLfbphNZwbvupjcvd"
+        "name": "Pitch Perfect 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Us79qhfgvZlWTuWBClLmR"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "Rebel Wilson",
+          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
+        },
+        {
+          "name": "Adam Devine",
+          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4247FwxHfmtIJgILhAKjaa"
+      "duration_ms": 214746,
+      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/4ONGO8V1owsu27dK3mvSfK"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Pand\u00e6monium",
+        "url": "https://open.spotify.com/album/3r3sAExzTK7xT8ty4a151h"
+      },
+      "artists": [
+        {
+          "name": "Tufts Beelzebubs",
+          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+        }
+      ],
+      "duration_ms": 336693,
+      "name": "Come Sail Away",
+      "url": "https://open.spotify.com/track/2TmWgYDevPOukQGNJPeZrN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -835,6 +819,38 @@
       "duration_ms": 185080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/5POcQCBI2uqf3a2179ch57"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "With a Twist (Deluxe)",
+        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1oj7hJLfbphNZwbvupjcvd"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4247FwxHfmtIJgILhAKjaa"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -875,22 +891,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "PTX Presents: Top Pop, Vol. I",
-        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/7ceKiVu2Vki1yerIJbbqWm"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "With a Twist (Deluxe)",
-        "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
+        "name": "Pitch Perfect Soundtrack (Special Edition)",
+        "url": "https://open.spotify.com/album/3rthCGaT4b1lUikhp43ACk"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "Hullabahoos",
+          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
         }
       ],
-      "duration_ms": 246706,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
+      "duration_ms": 75360,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/62CjzgjzGMO0oBKhEs9Sxj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pitch Perfect Soundtrack (Special Edition)",
-        "url": "https://open.spotify.com/album/3rthCGaT4b1lUikhp43ACk"
+        "name": "PTX Presents: Top Pop, Vol. I",
+        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
       },
       "artists": [
         {
-          "name": "Hullabahoos",
-          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         }
       ],
-      "duration_ms": 75360,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/62CjzgjzGMO0oBKhEs9Sxj"
+      "duration_ms": 171520,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
     }
   ],
   "unique_name": "All A Cappella",

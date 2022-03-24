@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,795 likes - 78 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,803 likes - 78 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 8 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
 | 9 | [Detectorists \(Original Soundtrack from the TV Series\)](https://open.spotify.com/track/0jp1YFgWn67BtAVDZRaSqM) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Detectorists \(Original Soundtrack from the TV Series\)](https://open.spotify.com/album/7ARZyHk8iMle3e3iYHtMkx) | 2:05 |
 | 10 | [Brandy Alexander](https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:36 |
-| 11 | [Changes](https://open.spotify.com/track/6bmytjj9ePNgm9ALqs1Xa7) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [Changes](https://open.spotify.com/album/0GAT2qiShXzVQ0CZ9NJLuG) | 2:41 |
-| 12 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
-| 13 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
-| 14 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
+| 11 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
+| 12 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
+| 13 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
+| 14 | [Changes](https://open.spotify.com/track/6bmytjj9ePNgm9ALqs1Xa7) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [Changes](https://open.spotify.com/album/0GAT2qiShXzVQ0CZ9NJLuG) | 2:41 |
 | 15 | [October Skies](https://open.spotify.com/track/3JD5xfa8pgJi0AzdRCRETW) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/3thbkS5Ijz41mAbAOat7wc) | 3:43 |
 | 16 | [There Can Be Only One](https://open.spotify.com/track/0wy9UHwhV8o78L3F17WuDF) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [There Can Be Only One](https://open.spotify.com/album/3JfmakKwvTSZETeh0BrUIe) | 4:17 |
 | 17 | [Man On Fire](https://open.spotify.com/track/7is9tMXN65NMBWAVI36ajW) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6WucLv9SLrpr5Z8y6hDWpQ) | 4:19 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 31 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
 | 32 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
 | 33 | [Blue Spotted Tail](https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 3:05 |
-| 34 | [No Woman](https://open.spotify.com/track/0URtGENIORu1ruWHbh27F7) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [No Woman](https://open.spotify.com/album/4VgC9s8QkpCDggIeD2MJp1) | 3:58 |
-| 35 | [Wood](https://open.spotify.com/track/7EN9HHkjySM5Eratx2zaMo) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Wood](https://open.spotify.com/album/5tDwiXJnVZY3eg5RObPFh0) | 5:42 |
-| 36 | [Ghosts](https://open.spotify.com/track/0up48KQvGzMCrgqrfT07i2) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1kl17TCIaR1GCVxY2elQOA) | 2:59 |
+| 34 | [Ghosts](https://open.spotify.com/track/0up48KQvGzMCrgqrfT07i2) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1kl17TCIaR1GCVxY2elQOA) | 2:59 |
+| 35 | [No Woman](https://open.spotify.com/track/0URtGENIORu1ruWHbh27F7) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [No Woman](https://open.spotify.com/album/4VgC9s8QkpCDggIeD2MJp1) | 3:58 |
+| 36 | [Wood](https://open.spotify.com/track/7EN9HHkjySM5Eratx2zaMo) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Wood](https://open.spotify.com/album/5tDwiXJnVZY3eg5RObPFh0) | 5:42 |
 | 37 | [17](https://open.spotify.com/track/7GDbkrFBGrCb8ntbQPY3hQ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/0mcvDycoex7ANLZOmVVRoD) | 3:56 |
 | 38 | [Tears of Joy](https://open.spotify.com/track/0hcWKHCgdvsBAHkbLCrwQN) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/5VKfS5xelWpc76avtJ7UvC) | 4:05 |
 | 39 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 50 | [Had To Hear](https://open.spotify.com/track/6hBmL5yVbXDHSWX6GbuogP) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/7lAYJiypiPbCDvjKOBX1TV) | 4:50 |
 | 51 | [Take The Night Off](https://open.spotify.com/track/4VcCAbIwuMaIFzokHrrebn) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E) | 4:12 |
 | 52 | [Dead Sea](https://open.spotify.com/track/6wDKGtbPpF9xPMRv7bswQN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 4:07 |
-| 53 | [Cavalier](https://open.spotify.com/track/240ElV9j5kjT14OR8RPMoZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/5oXfO26Js29rB7FvKFI2Ud) | 4:43 |
-| 54 | [Suffering](https://open.spotify.com/track/0GBcfTDD4OjGTGeVVgFl8v) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 6:02 |
+| 53 | [Suffering](https://open.spotify.com/track/0GBcfTDD4OjGTGeVVgFl8v) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 6:02 |
+| 54 | [Cavalier](https://open.spotify.com/track/240ElV9j5kjT14OR8RPMoZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/5oXfO26Js29rB7FvKFI2Ud) | 4:43 |
 | 55 | [The Greatest](https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/2ErZHHnKWGdpUWCwYLjHxU) | 3:22 |
 | 56 | [Line Of Fire](https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO) | 5:39 |
 | 57 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 |
 | 78 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 
-Snapshot ID: `MTY0Nzk5NzE5MSwwMDAwMDAwMDU0NzJlNTc2NTY5M2U2OWJlZTZkZmRmNjdkZjg4MmUx`
+Snapshot ID: `MTY0ODA4MzMxNywwMDAwMDAwMGU0OTE2ZDA3M2Y4MzAwYTQ5NmNmYjUzOWM2YTVkNzEx`

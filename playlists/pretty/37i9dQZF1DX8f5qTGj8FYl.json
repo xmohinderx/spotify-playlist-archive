@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 284444,
+  "num_followers": 284607,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzMxNywwMDAwMDAwMGE4ZTRlMzZiMWFiYTAxYTc0MTE0N2MxYjFjYjc3ZDk0",
+  "snapshot_id": "MTY0ODA4MzQ0MywwMDAwMDAwMDQzZTllYjI1ZTcxYTUzMTU2OGU0NWM2MzMyZTI3Yjk2",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Good Luck With That",
+        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
+      },
+      "artists": [
+        {
+          "name": "Wolcott Curran Collective",
+          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Good Luck With That",
+      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 381040,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Tailwinds ...",
-        "url": "https://open.spotify.com/album/2i6hdvwt1k6jewsrGmkj56"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        }
-      ],
-      "duration_ms": 249295,
-      "name": "Kenni and the Jets",
-      "url": "https://open.spotify.com/track/0uSbzFgJG9ve03a9Qfx7JE"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/4z1iO0enp7c919GrpOnttF"
+        "name": "Tailwinds ...",
+        "url": "https://open.spotify.com/album/2i6hdvwt1k6jewsrGmkj56"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
         }
       ],
-      "duration_ms": 274853,
-      "name": "Hole In One",
-      "url": "https://open.spotify.com/track/0jaTaEBXfjYRp5jwLlOrXf"
+      "duration_ms": 249295,
+      "name": "Kenni and the Jets",
+      "url": "https://open.spotify.com/track/0uSbzFgJG9ve03a9Qfx7JE"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -207,6 +207,22 @@
       "duration_ms": 216699,
       "name": "Fried Soul",
       "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/7qz2BSHveJFW2HNhWZu2kV"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/7v3AjcrNK5pd3pBunzI4DI"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -251,54 +267,6 @@
       "duration_ms": 174740,
       "name": "Do Yourself a Favor",
       "url": "https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Good Luck With That",
-        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
-      },
-      "artists": [
-        {
-          "name": "Wolcott Curran Collective",
-          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Good Luck With That",
-      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/7qz2BSHveJFW2HNhWZu2kV"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/7v3AjcrNK5pd3pBunzI4DI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Nate Smith Is the Ace of Aces",
-        "url": "https://open.spotify.com/album/674MeO7IYsMSW91v5cONMN"
-      },
-      "artists": [
-        {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        }
-      ],
-      "duration_ms": 137288,
-      "name": "Nate Smith Is the Ace of Aces",
-      "url": "https://open.spotify.com/track/2JeuBlzjd1CHxDJCabav45"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -363,8 +331,24 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Call Your Mom",
-        "url": "https://open.spotify.com/album/0OdzFifcrPoBzKYCzSq9r2"
+        "name": "Nate Smith Is the Ace of Aces",
+        "url": "https://open.spotify.com/album/674MeO7IYsMSW91v5cONMN"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 137288,
+      "name": "Nate Smith Is the Ace of Aces",
+      "url": "https://open.spotify.com/track/2JeuBlzjd1CHxDJCabav45"
+    },
+    {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/4z1iO0enp7c919GrpOnttF"
       },
       "artists": [
         {
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Call Your Mom",
-      "url": "https://open.spotify.com/track/2RkwQ3o9LzollOfk1bnjG4"
+      "duration_ms": 274853,
+      "name": "Hole In One",
+      "url": "https://open.spotify.com/track/0jaTaEBXfjYRp5jwLlOrXf"
     },
     {
       "added_at": "2021-03-05 05:00:00",
@@ -457,10 +441,10 @@
       "url": "https://open.spotify.com/track/19PYtP657yQEAwmduEf1R0"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Don't Worry 'Bout What I Do",
-        "url": "https://open.spotify.com/album/24GTxaUWlSRJnxxMZ7VTQk"
+        "name": "Call Your Mom",
+        "url": "https://open.spotify.com/album/0OdzFifcrPoBzKYCzSq9r2"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/4kp5U4OFRtXdZuqo8hmMB3"
+      "duration_ms": 239080,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/2RkwQ3o9LzollOfk1bnjG4"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -589,6 +573,22 @@
       "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
     },
     {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Don't Worry 'Bout What I Do",
+        "url": "https://open.spotify.com/album/24GTxaUWlSRJnxxMZ7VTQk"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/4kp5U4OFRtXdZuqo8hmMB3"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Gun Metal Grey",
@@ -619,22 +619,6 @@
       "duration_ms": 352374,
       "name": "False Prophets",
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
-    },
-    {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Get Da Steppin'",
-        "url": "https://open.spotify.com/album/3tNWwvjgLdL7ayKGaUagrN"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 296856,
-      "name": "Get Da Steppin'",
-      "url": "https://open.spotify.com/track/5E7o2WFaD9ZrYp4i9dSeEl"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -685,6 +669,22 @@
       "url": "https://open.spotify.com/track/561DcDl3hPXFdW9bI7mTbn"
     },
     {
+      "added_at": "2022-01-28 05:02:00",
+      "album": {
+        "name": "Get Da Steppin'",
+        "url": "https://open.spotify.com/album/3tNWwvjgLdL7ayKGaUagrN"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 296856,
+      "name": "Get Da Steppin'",
+      "url": "https://open.spotify.com/track/5E7o2WFaD9ZrYp4i9dSeEl"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Assassin (The Paisley Park Session)",
@@ -715,6 +715,22 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Tailwinds.",
+        "url": "https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 152344,
+      "name": "Colonel Panic",
+      "url": "https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -771,18 +787,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tailwinds.",
-        "url": "https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt"
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/4S1FJKbcxCtEl5nzreGZ3E"
       },
       "artists": [
         {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 152344,
-      "name": "Colonel Panic",
-      "url": "https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684"
+      "duration_ms": 308546,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -815,22 +831,6 @@
       "duration_ms": 241306,
       "name": "Hot Chicken",
       "url": "https://open.spotify.com/track/5h5URObZVNCoGurOurIN1p"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/4S1FJKbcxCtEl5nzreGZ3E"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 308546,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/6wKBPuUZ7XP6eCxe4aFlZG"
     },
     {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "The Black Stone Affair",
+        "url": "https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE"
+      },
+      "artists": [
+        {
+          "name": "Whatitdo Archive Group",
+          "url": "https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Ethiopian Airlines",
+      "url": "https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Bruise Cruise",
@@ -1087,22 +1103,6 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "The Black Stone Affair",
-        "url": "https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE"
-      },
-      "artists": [
-        {
-          "name": "Whatitdo Archive Group",
-          "url": "https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Ethiopian Airlines",
-      "url": "https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9"
     },
     {
       "added_at": "2021-05-14 04:01:00",

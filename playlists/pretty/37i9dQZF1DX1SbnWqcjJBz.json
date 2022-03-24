@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026",
-  "num_followers": 8536,
+  "num_followers": 8725,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA4OCwwMDAwMDAwMDkwODUzNTdjMmY4ODczNDRjNmU0YjEyZTliOTEzM2Fh",
+  "snapshot_id": "MTY0ODA4MzIxNCwwMDAwMDAwMDVhZDg4NDRjYWQ3ZTFmMWYxYWFmMmM4Nzc4MDBiMzY0",
   "tracks": [
     {
       "added_at": "2022-03-18 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Let\u2019s Get Lost",
-      "url": "https://open.spotify.com/track/6dAj7di0SClcosyapzeH9r"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 185480,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Let\u2019s Get Lost",
+      "url": "https://open.spotify.com/track/6dAj7di0SClcosyapzeH9r"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 216520,
       "name": "If U Seek Amy",
       "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -679,18 +695,18 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
+        "name": "Stranger Songs",
+        "url": "https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 202906,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
+      "duration_ms": 208226,
+      "name": "Young And In Love",
+      "url": "https://open.spotify.com/track/4uBwFIBwZcgHNvwNjOqICX"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 197651,
       "name": "There Will Be Blood",
       "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Stranger Songs",
-        "url": "https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Young And In Love",
-      "url": "https://open.spotify.com/track/4uBwFIBwZcgHNvwNjOqICX"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -755,38 +755,6 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Julien",
-      "url": "https://open.spotify.com/track/5ovKXoPXsaCydETxiqbt80"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -855,8 +823,24 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
       "artists": [
         {
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 251320,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
+      "duration_ms": 234520,
+      "name": "Julien",
+      "url": "https://open.spotify.com/track/5ovKXoPXsaCydETxiqbt80"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251320,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Better Mistakes",
         "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Gimmie Love",
-      "url": "https://open.spotify.com/track/24Kh0nzBsFEenB80Ud1wSN"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 172133,
       "name": "911",
       "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Gimmie Love",
+      "url": "https://open.spotify.com/track/24Kh0nzBsFEenB80Ud1wSN"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "EMOTION SIDE B",
-        "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "EMOTION SIDE B",
+        "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Cuz I Love You (Deluxe)",
         "url": "https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 185594,
       "name": "Water Me",
       "url": "https://open.spotify.com/track/3rmpb2RKPlbdbMjlc7SOlX"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 222280,
       "name": "Boy Problems",
       "url": "https://open.spotify.com/track/2YalDCU0tWxJfNdFPor3Rh"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 161173,
       "name": "My Own Dance",
       "url": "https://open.spotify.com/track/1JWQRZr8rlmTAb74rFBUO5"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "OMG (with Carly Rae Jepsen)",
         "url": "https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 226666,
       "name": "He Loves You Not",
       "url": "https://open.spotify.com/track/2ozJmnjqCMJavEKoHqiou0"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Emotion (Deluxe)",
-        "url": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 276653,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/334OYHo9TjSvJTE6UI440p"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Emotion (Deluxe)",
+        "url": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 276653,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/334OYHo9TjSvJTE6UI440p"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 202600,
       "name": "Song for the Lonely",
       "url": "https://open.spotify.com/track/1nu7ec0zCNvyHRrFXZsFHy"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Emotion (Deluxe)",
-        "url": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Warm Blood",
-      "url": "https://open.spotify.com/track/4g9s3kTi4rHo1s52q6miZM"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1575,22 +1559,6 @@
       "duration_ms": 270851,
       "name": "Don't Cry for Me Argentina - Miami Mix Edit",
       "url": "https://open.spotify.com/track/6rpPOIl2uqjBVJD9TxY2K9"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "Gold Trans Am",
-      "url": "https://open.spotify.com/track/5pOeKpXet0UPJyjjM2k7v0"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1639,6 +1607,38 @@
       "duration_ms": 241866,
       "name": "Leave Get Out",
       "url": "https://open.spotify.com/track/1bYubJyLO1fCa6umTXpUeJ"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Emotion (Deluxe)",
+        "url": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Warm Blood",
+      "url": "https://open.spotify.com/track/4g9s3kTi4rHo1s52q6miZM"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "Gold Trans Am",
+      "url": "https://open.spotify.com/track/5pOeKpXet0UPJyjjM2k7v0"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/705K6lFN9wm3bifelyuQS4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "G.U.Y.",
+      "url": "https://open.spotify.com/track/5ve8saw5u0CbP9fcyNzmxN"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 200838,
       "name": "I\u2019m Ready (with Demi Lovato)",
       "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/705K6lFN9wm3bifelyuQS4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "G.U.Y.",
-      "url": "https://open.spotify.com/track/5ve8saw5u0CbP9fcyNzmxN"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -2123,18 +2139,18 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "ARTPOP",
-        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+        "name": "SuperLove",
+        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+      "duration_ms": 193163,
+      "name": "SuperLove",
+      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -2211,22 +2227,6 @@
       "duration_ms": 62613,
       "name": "Agatha All Along",
       "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "SuperLove",
-        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193163,
-      "name": "SuperLove",
-      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
     },
     {
       "added_at": "2022-03-18 04:00:00",

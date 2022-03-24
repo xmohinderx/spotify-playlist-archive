@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Catherine Russell",
-  "num_followers": 84866,
+  "num_followers": 84955,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzEyOSwwMDAwMDAwMDJmN2Q4OTJlYTg0MWZkN2UyYTVmMzFiZDNkM2EwMTM1",
+  "snapshot_id": "MTY0ODA4MzI1NCwwMDAwMDAwMGQ4ODQ5MjVhYjVkZDgwMWEzZWQ4NWJmNDk3N2VlZDUy",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -149,42 +149,6 @@
       "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Michael Valeanu",
-          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
-        }
-      ],
-      "duration_ms": 199423,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Spring Can Really Hang You Up The Most / Come Away With Me",
-        "url": "https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Spring Can Really Hang You Up The Most - Demo",
-      "url": "https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3"
-    },
-    {
       "added_at": "2021-03-26 04:01:00",
       "album": {
         "name": "Bonita",
@@ -205,24 +169,40 @@
       "url": "https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "C\u2019est Magnifique",
-        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
+        "name": "Spring Can Really Hang You Up The Most / Come Away With Me",
+        "url": "https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Ant\u00f3nio Zambujo",
-          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 292146,
-      "name": "C\u2019est Magnifique",
-      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
+      "duration_ms": 230106,
+      "name": "Spring Can Really Hang You Up The Most - Demo",
+      "url": "https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
+        }
+      ],
+      "duration_ms": 199423,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -259,6 +239,26 @@
       "duration_ms": 266213,
       "name": "The Art of Conversation",
       "url": "https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "C\u2019est Magnifique",
+        "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "duration_ms": 292146,
+      "name": "C\u2019est Magnifique",
+      "url": "https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Come Away With Me (Alternate Version)",
+        "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Come Away With Me - Alternate Version",
+      "url": "https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "I've Got You Under My Skin",
@@ -343,42 +359,6 @@
       "duration_ms": 238266,
       "name": "Jim",
       "url": "https://open.spotify.com/track/484pBdixjCdJfQJCuB47nA"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Come Away With Me (Alternate Version)",
-        "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Come Away With Me - Alternate Version",
-      "url": "https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD"
-    },
-    {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Sunset In The Blue (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 325659,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -437,6 +417,42 @@
       "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
     },
     {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Sunset In The Blue (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 325659,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Don't Know Why (Live)",
+        "url": "https://open.spotify.com/album/2yGVmc5mQIom9Tp5nPHfe6"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 305946,
+      "name": "Don't Know Why - Live",
+      "url": "https://open.spotify.com/track/5pUnoMX7OVSS2hI1xPEK06"
+    },
+    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "I Get A Kick Out Of You",
@@ -455,6 +471,22 @@
       "duration_ms": 213960,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -489,22 +521,6 @@
       "url": "https://open.spotify.com/track/7o8q6PWBhavXyOSsDMQOhO"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF"
-    },
-    {
       "added_at": "2021-12-10 05:01:00",
       "album": {
         "name": "My Favorite Things",
@@ -519,22 +535,6 @@
       "duration_ms": 175318,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Don't Know Why (Live)",
-        "url": "https://open.spotify.com/album/2yGVmc5mQIom9Tp5nPHfe6"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 305946,
-      "name": "Don't Know Why - Live",
-      "url": "https://open.spotify.com/track/5pUnoMX7OVSS2hI1xPEK06"
     },
     {
       "added_at": "2021-12-17 05:02:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
-      "added_at": "2021-03-12 05:00:00",
-      "album": {
-        "name": "Steppin' Out With My Baby",
-        "url": "https://open.spotify.com/album/1UkCpyDCYHCPFpE6WpiRvs"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 170574,
-      "name": "Steppin' Out With My Baby",
-      "url": "https://open.spotify.com/track/7umb7Pna2hNvbeMpYAzrit"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Love For Sale (Deluxe)",
@@ -875,6 +859,38 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "added_at": "2021-03-05 05:02:00",
+      "album": {
+        "name": "Secret Safe",
+        "url": "https://open.spotify.com/album/0CnKDRFJ2IEBFrf08F5P8T"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 169564,
+      "name": "Secret Safe",
+      "url": "https://open.spotify.com/track/55kbBJHChu7rIc1kApJnN6"
+    },
+    {
+      "added_at": "2021-03-12 05:00:00",
+      "album": {
+        "name": "Steppin' Out With My Baby",
+        "url": "https://open.spotify.com/album/1UkCpyDCYHCPFpE6WpiRvs"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 170574,
+      "name": "Steppin' Out With My Baby",
+      "url": "https://open.spotify.com/track/7umb7Pna2hNvbeMpYAzrit"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -953,22 +969,6 @@
       "url": "https://open.spotify.com/track/6if2WRZeszHp2LWeKasFJc"
     },
     {
-      "added_at": "2021-03-05 05:02:00",
-      "album": {
-        "name": "Secret Safe",
-        "url": "https://open.spotify.com/album/0CnKDRFJ2IEBFrf08F5P8T"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 169564,
-      "name": "Secret Safe",
-      "url": "https://open.spotify.com/track/55kbBJHChu7rIc1kApJnN6"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Some Other Time",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/2qe7O9lFVGJDeOSz9VBn0T"
     },
     {
+      "added_at": "2021-06-01 17:36:12",
+      "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
+    },
+    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Black Acid Soul",
@@ -1077,26 +1093,6 @@
       "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Just Piano and Voice",
-        "url": "https://open.spotify.com/album/5Drw1E1AcMDGljUThTHi7P"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Anna Alvarez",
-          "url": "https://open.spotify.com/artist/6ovfepfhHnYUZ2G4I8mhmi"
-        }
-      ],
-      "duration_ms": 166630,
-      "name": "Alice in Wonderland",
-      "url": "https://open.spotify.com/track/740uVBdbe9lthL3py12aRJ"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Lumi\u00e9re",
@@ -1141,22 +1137,6 @@
       "url": "https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul"
     },
     {
-      "added_at": "2021-06-01 17:36:12",
-      "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
       "added_at": "2022-01-07 05:02:00",
       "album": {
         "name": "Bei Mir Bist Du Sch\u00f6n",
@@ -1171,6 +1151,26 @@
       "duration_ms": 276579,
       "name": "Bei Mir Bist Du Sch\u00f6n",
       "url": "https://open.spotify.com/track/5EHm4yYpUnpWcwhfJ31wUj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Just Piano and Voice",
+        "url": "https://open.spotify.com/album/5Drw1E1AcMDGljUThTHi7P"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Anna Alvarez",
+          "url": "https://open.spotify.com/artist/6ovfepfhHnYUZ2G4I8mhmi"
+        }
+      ],
+      "duration_ms": 166630,
+      "name": "Alice in Wonderland",
+      "url": "https://open.spotify.com/track/740uVBdbe9lthL3py12aRJ"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Let's Do It",
-        "url": "https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY"
-      },
-      "artists": [
-        {
-          "name": "Jaimee Paul",
-          "url": "https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr"
-        },
-        {
-          "name": "Andre Reiss",
-          "url": "https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
         "name": "Leeward (Live)",
         "url": "https://open.spotify.com/album/6W3efhsZYo8o4lfRSXk3fY"
       },
@@ -1403,30 +1371,6 @@
       "duration_ms": 316564,
       "name": "Leeward - Live",
       "url": "https://open.spotify.com/track/2dJNiYyeZhY9kbJgQExAte"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Greenbacks",
-        "url": "https://open.spotify.com/album/6ykOQZclgVl40sbOe1dsy7"
-      },
-      "artists": [
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        },
-        {
-          "name": "Alexander Claffy",
-          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "Greenbacks",
-      "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1463,6 +1407,62 @@
       "duration_ms": 351904,
       "name": "Finis",
       "url": "https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi"
+    },
+    {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Greenbacks",
+        "url": "https://open.spotify.com/album/6ykOQZclgVl40sbOe1dsy7"
+      },
+      "artists": [
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        },
+        {
+          "name": "Alexander Claffy",
+          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "Greenbacks",
+      "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Let's Do It",
+        "url": "https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY"
+      },
+      "artists": [
+        {
+          "name": "Jaimee Paul",
+          "url": "https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr"
+        },
+        {
+          "name": "Andre Reiss",
+          "url": "https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM"
     },
     {
       "added_at": "2021-08-20 04:01:00",
@@ -1523,6 +1523,34 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
+        "name": "At Long Last Love (Live)",
+        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Barry Stephenson",
+          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "At Long Last Love - Live",
+      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
         "name": "Tell Him I Said Hello",
         "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
@@ -1569,34 +1597,6 @@
       "url": "https://open.spotify.com/track/7xA2g7J5vjbOlEhsPQeQLs"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "At Long Last Love (Live)",
-        "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Barry Stephenson",
-          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "At Long Last Love - Live",
-      "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
-    },
-    {
       "added_at": "2021-03-05 05:02:00",
       "album": {
         "name": "Alone With My Faith",
@@ -1631,6 +1631,38 @@
       "duration_ms": 378498,
       "name": "I Get a Kick out of You",
       "url": "https://open.spotify.com/track/2Z7CqgFDRqbx8ia0VG4a2F"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/6e9PZpDpLY3k0BhM4xdBvm"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 261648,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/1jd4ocgBWkiOT7NESoTBME"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1689,38 +1721,6 @@
       "url": "https://open.spotify.com/track/1AENORylP9nFZusZyoeQgY"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/6e9PZpDpLY3k0BhM4xdBvm"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 261648,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/1jd4ocgBWkiOT7NESoTBME"
-    },
-    {
       "added_at": "2021-03-05 05:02:00",
       "album": {
         "name": "I'm Gonna Live Till I Die",
@@ -1765,6 +1765,22 @@
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "I Feel Foolish",
+        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Feel Foolish",
+      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
+    },
+    {
       "added_at": "2022-03-04 05:02:00",
       "album": {
         "name": "Ghost Song",
@@ -1795,22 +1811,6 @@
       "duration_ms": 153103,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/4LFtCJkH995aMpERGP7jxf"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "I Feel Foolish",
-        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Feel Foolish",
-      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -2177,6 +2177,22 @@
       "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Spinning Round",
+        "url": "https://open.spotify.com/album/3ejPqGb6wDzkMcDAjZZEyG"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Spinning Round",
+      "url": "https://open.spotify.com/track/7MQMlrJnYXM7zH7fbqTmPZ"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "I'd Do It for Your Love",
@@ -2219,22 +2235,6 @@
       "duration_ms": 390420,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/4L9d16l92WzqzUziUFfZ4B"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "In France they kiss on main street",
-        "url": "https://open.spotify.com/album/6EN1IxzMj7MYji81Mt18Hq"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
-        }
-      ],
-      "duration_ms": 228550,
-      "name": "In France they kiss on main street",
-      "url": "https://open.spotify.com/track/17Ck9L9rEHlugzfZqF5mfH"
     }
   ],
   "unique_name": "Vocal Jazz",

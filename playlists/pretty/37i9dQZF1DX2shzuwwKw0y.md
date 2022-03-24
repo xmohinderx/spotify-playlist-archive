@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Luis R Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974,536 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975,825 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [La Plebada Belica](https://open.spotify.com/track/0Liq4rybSdxhZ5oCeVZWup) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/64Dj5lN4cxi8nacidPCbvs) | 2:45 |
 | 75 | [Denver Ruleteamos](https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Denver Ruleteamos](https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY) | 3:32 |
 
-Snapshot ID: `MTY0Nzk5NzEzNSwwMDAwMDAwMGViMDlkZTZhMTNhZjc5NWM1YzIxOWU5ZmVmOTVkZjU3`
+Snapshot ID: `MTY0ODA4MzI2MCwwMDAwMDAwMGViMDlkZTZhMTNhZjc5NWM1YzIxOWU5ZmVmOTVkZjU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: BEN\(벤\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,741 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,005 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 20 | [Fixed On You](https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Fixed On You \(new.MAKE20 \#10\)](https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e) | 4:23 |
 | 21 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 |
 | 22 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
-| 23 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
-| 24 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 |
-| 25 | [Not Fine](https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Not Fine](https://open.spotify.com/album/3QXZxmPaI5GaiLn1rfOSiW) | 4:04 |
+| 23 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 |
+| 24 | [Not Fine](https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Not Fine](https://open.spotify.com/album/3QXZxmPaI5GaiLn1rfOSiW) | 4:04 |
+| 25 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
 | 26 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 27 | [Nobody else](https://open.spotify.com/track/5nq9Sj7bH80RAARWo08jIT) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Under the Oak Tree \(Original Soundtrack\), Part\. 2](https://open.spotify.com/album/0gJ7pmSDOSWTBEhibnuOuw) | 3:45 |
 | 28 | [U Hoo Hoo](https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/1LRhRZYaIhHtoMOupKaZUP) | 3:20 |
 | 29 | [Lonely Night](https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT) | 4:02 |
 | 30 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 |
-| 31 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
-| 32 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 |
-| 33 | [I should not have loved you](https://open.spotify.com/track/7Lh0QrzQGaGT9kRL5Qh1VO) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [I should not have loved you](https://open.spotify.com/album/5LpHtHXao9VkOGwci1aFLZ) | 3:59 |
-| 34 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
-| 35 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 |
+| 31 | [My Love](https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST Part.1](https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b) | 3:13 |
+| 32 | [I should not have loved you](https://open.spotify.com/track/7Lh0QrzQGaGT9kRL5Qh1VO) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [I should not have loved you](https://open.spotify.com/album/5LpHtHXao9VkOGwci1aFLZ) | 3:59 |
+| 33 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
+| 34 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 |
+| 35 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
 | 36 | [Beautiful](https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Oh My Baby \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/0bSiD69h6j7OFrw8KB0Da4) | 4:10 |
 | 37 | [Linger On](https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Linger On](https://open.spotify.com/album/5Y0hziji128L0bXg9Dvl6G) | 3:49 |
 | 38 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Things We Took For Granted](https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Things We Took For Granted](https://open.spotify.com/album/75GSaOr3SumTiFaHCzYVSD) | 3:21 |
 | 50 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 |
 
-Snapshot ID: `MTY0Nzk5NzIxNiwwMDAwMDAwMGU3ZTIyNjIwZmUyYzA1NTQ1MTJjMzgxZjViY2E2NjAx`
+Snapshot ID: `MTY0ODA4MzMzOSwwMDAwMDAwMGJlMTQzOTU3OTRlNGQ3ZGE5OGE3MmMwN2JkZjEwOTcx`

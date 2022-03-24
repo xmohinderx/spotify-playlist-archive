@@ -7209,7 +7209,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 273684,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
@@ -8117,6 +8117,32 @@
       "duration_ms": 224500,
       "name": "Good Day Bad Day - Snakehips Remix",
       "url": "https://open.spotify.com/track/6eJEvusOC02GMOArociVqe"
+    },
+    {
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235417,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
     },
     {
       "album": {
@@ -20787,7 +20813,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -20963,6 +20989,24 @@
       "duration_ms": 157280,
       "name": "That Thing",
       "url": "https://open.spotify.com/track/7ESz6391xBQrfiTXeua3Ay"
+    },
+    {
+      "album": {
+        "name": "The Beat Goes",
+        "url": "https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189523,
+      "name": "The Beat Goes",
+      "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
     },
     {
       "album": {

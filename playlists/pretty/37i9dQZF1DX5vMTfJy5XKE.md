@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,185 likes - 130 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,141 likes - 130 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 81 | [Driving Home for Christmas](https://open.spotify.com/track/70j4eEbliNTlcjMc3ZUPIR) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/3lkwhwqbhPzmraMH7uDJ72) | 3:48 |
 | 82 | [Santa Visits Everyone](https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo) | 3:08 |
 | 83 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
-| 84 | [Sleigh Ride](https://open.spotify.com/track/7d5mB4fn8vIM5qGVr5FDy2) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:21 |
-| 85 | [Tis The Season](https://open.spotify.com/track/1FyYqRWeCWiO5jfY2BiGvs) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Tis The Season](https://open.spotify.com/album/7yftpLeSwkbgPFVVJ2TgtV) | 2:45 |
-| 86 | [Wonderful Christmastime](https://open.spotify.com/track/6fYQ6Dk1UKdEEJvthH9Zn9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/4stLntb5hPUR6BQsZdIQSq) | 2:25 |
+| 84 | [Wonderful Christmastime](https://open.spotify.com/track/6fYQ6Dk1UKdEEJvthH9Zn9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/4stLntb5hPUR6BQsZdIQSq) | 2:25 |
+| 85 | [Sleigh Ride](https://open.spotify.com/track/7d5mB4fn8vIM5qGVr5FDy2) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:21 |
+| 86 | [Tis The Season](https://open.spotify.com/track/1FyYqRWeCWiO5jfY2BiGvs) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Tis The Season](https://open.spotify.com/album/7yftpLeSwkbgPFVVJ2TgtV) | 2:45 |
 | 87 | [It's Christmas](https://open.spotify.com/track/1O5SDSBclXo7t3yWdIOugN) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [It's Christmas](https://open.spotify.com/album/5TiuPbm20D55Tpwr6lF4pj) | 3:33 |
 | 88 | [Winter Wonderland](https://open.spotify.com/track/26J814l8U6LStsCqnKSTHm) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Allie Moss](https://open.spotify.com/artist/2IfLIO3nsSn1CqNUeJ8sWE), [Hannah Winkler](https://open.spotify.com/artist/7xuy4P5ZINJne9QNaGF3Mh) | [Winter Wonderland](https://open.spotify.com/album/30Nlx6iQO4tvrCQktn5O3F) | 2:07 |
 | 89 | [Little Saint Nick \- Spotify Singles Holiday](https://open.spotify.com/track/1Rnj5WqanhxJgDZSaDvAUe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Little Saint Nick \(Spotify Singles Holiday\)](https://open.spotify.com/album/7qI9SiNVambiVT3ukvvnHQ) | 1:57 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/7faG1XjcABFEEHc1HNnoJs) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happy Xmas \(War is Over\) / 2000 Miles](https://open.spotify.com/album/5EBioioxvDUDwr7hR4uxZM) | 3:27 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0Nzk5NzIzNiwwMDAwMDAwMDUwYjIxOTM0NmQwMTJkZjViZDE2OTRmNDdhYTY0NmEy`
+Snapshot ID: `MTY0ODA4MzM2MCwwMDAwMDAwMDBhYzI5MjQ2YjE3NmI1MzUxOTAzZmQ1ZjMxZTFkMTEz`

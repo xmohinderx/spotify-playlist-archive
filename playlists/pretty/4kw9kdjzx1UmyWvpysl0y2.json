@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128356,
+  "num_followers": 128363,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMxMywxNzMzN2I2NGU3Mjc1ZDg4YmY0NDcxOGMxNTAyMTgwNmRlNGZmMmMw",
+  "snapshot_id": "MzMxNywyMTdkZjU5MmJhNWJiNjZkMTg0YjZhYmVhMjgwNzllNGE1Yjk5MmRi",
   "tracks": [
+    {
+      "added_at": "2022-03-23 16:09:40",
+      "album": {
+        "name": "wonder years pt. 1",
+        "url": "https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        },
+        {
+          "name": "Mr. Hilroy",
+          "url": "https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "begin again",
+      "url": "https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo"
+    },
+    {
+      "added_at": "2022-03-23 16:09:26",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/7klufynHglkdPiPu82O4wB"
+      },
+      "artists": [
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "duration_ms": 183300,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D"
+    },
     {
       "added_at": "2022-03-21 16:26:47",
       "album": {
@@ -1099,42 +1135,6 @@
       "duration_ms": 223067,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Love For You",
-        "url": "https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Madalen Duke",
-          "url": "https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU"
-        }
-      ],
-      "duration_ms": 203530,
-      "name": "Love For You",
-      "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Nibbana",
-        "url": "https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nibbana",
-      "url": "https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

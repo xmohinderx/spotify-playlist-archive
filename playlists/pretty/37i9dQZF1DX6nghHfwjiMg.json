@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Sael.",
-  "num_followers": 50214,
+  "num_followers": 50216,
   "original_name": "Radar Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI2MSwwMDAwMDAwMDFlMjRmYWZjNGZhNDlmNDVlMGExNjFhYjUxNjYyMTVh",
+  "snapshot_id": "MTY0ODA4MzM4NSwwMDAwMDAwMDJjYzVmMzVjNWI2NDU5NjE3YzkyMmIwNzUyZjFkNTU4",
   "tracks": [
     {
       "added_at": "2021-11-11 23:56:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Bamb\u00fa",
-        "url": "https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Tal Como Soy",
         "url": "https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Bamb\u00fa",
+        "url": "https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "M\u00e1gica",
-        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 136132,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 179387,
       "name": "Fc",
       "url": "https://open.spotify.com/track/5FkQO91uFQ3TEIiivsvhTT"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
     },
     {
       "added_at": "2021-11-11 23:56:41",

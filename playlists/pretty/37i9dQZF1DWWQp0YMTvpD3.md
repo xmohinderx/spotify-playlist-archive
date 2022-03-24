@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,051 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,136 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 15 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
 | 16 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 17 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 |
-| 18 | [Alaska](https://open.spotify.com/track/6hxdw7ZDj7dmhpEo1TB0Fh) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Alaska](https://open.spotify.com/album/7b5SamKOOk1ryczb0JSVUk) | 1:48 |
-| 19 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 |
-| 20 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
+| 18 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
+| 19 | [Alaska](https://open.spotify.com/track/6hxdw7ZDj7dmhpEo1TB0Fh) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Alaska](https://open.spotify.com/album/7b5SamKOOk1ryczb0JSVUk) | 1:48 |
+| 20 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 |
 | 21 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 |
 | 22 | [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 |
 | 23 | [You Made It](https://open.spotify.com/track/7fnpXZDBGalvFttIoWy0hx) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 64 | [Summerbreeze](https://open.spotify.com/track/1KXFkPjqBiOJzm8lk2Zrjz) | [Mative](https://open.spotify.com/artist/2HqeAlknsWkZNva1RsII8U) | [Summerbreeze](https://open.spotify.com/album/6zgDETRt2rzi2tOQwQZ6jV) | 1:50 |
 | 65 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 |
 
-Snapshot ID: `MTY0Nzk5NjkzNywwMDAwMDAwMDNiZTUwMzNjMjdkYzUzMGFhMzI0ZWFhNzA0YjgwMjQ4`
+Snapshot ID: `MTY0ODA4MzA1NSwwMDAwMDAwMGFkMDE2M2EwZDhlOTlmMzE3ZTA4Yzg3MjM0NTI0OGNl`

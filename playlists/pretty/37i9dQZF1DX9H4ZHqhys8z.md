@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Eleonora Zouganeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,088 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,127 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 33 | [Diafero](https://open.spotify.com/track/5iMzMIurJXJpehEJMgIcIU) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44) | [Grande](https://open.spotify.com/album/3lr7FDjfQm9sd1lp0RtItm) | 3:04 |
 | 34 | [86](https://open.spotify.com/track/3hDm0iua25s6WHuED0dXWP) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [86](https://open.spotify.com/album/0FQSsbiBaegnrTS0ULEbqX) | 3:08 |
 | 35 | [Last Dance](https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Last Dance](https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk) | 3:00 |
-| 36 | [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 |
+| 36 | [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 |
 | 37 | [Who Are They](https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD) | [Danai Nielsen](https://open.spotify.com/artist/1V81ZJyFmiadP8c8ra4kDa) | [Who Are They](https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx) | 4:02 |
 | 38 | [Petra](https://open.spotify.com/track/1FrZIMZWk9IaSYikIcD9uT) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Petra](https://open.spotify.com/album/7LEaQPgQK1He4m1HTFQsg0) | 3:49 |
 | 39 | [Palia Pligi \- Original Tv Series "Sasmos" Soundtrack](https://open.spotify.com/track/1TTbdZFPGr9HPI3bpYKPOo) | [Melina Kana](https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT), [Nicos Terzis](https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j) | [Palia Pligi \(Original Tv Series "Sasmos" Soundtrack\)](https://open.spotify.com/album/7ALslO5cOYArHie3y7SVTY) | 3:56 |

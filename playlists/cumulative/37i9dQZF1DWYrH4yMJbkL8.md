@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYrH4yMJbkL8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYrH4yMJbkL8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYrH4yMJbkL8)
 
-### Indigenous
+### [Indigenous](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
 
 > A free space for Indigenous creators in Canada\. Currently curated by Kyle McKearney
 

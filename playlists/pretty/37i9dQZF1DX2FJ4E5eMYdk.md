@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > A little psychedelic, a little groovy, and very rootsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,246 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,326 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 22 | [Eno Nothing](https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [Eno Nothing](https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp) | 3:36 |
 | 23 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
 | 24 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 |
-| 25 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
-| 26 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
+| 25 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
+| 26 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
 | 27 | [Replica](https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2) | [Cory Hanson](https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6) | [The Unborn Capitalist From Limbo](https://open.spotify.com/album/6yg69QGmlM2MDcX1Bdo2RN) | 4:08 |
 | 28 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 29 | [No Quit](https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/3If5SivukLSxu4S7DCWbOd) | 3:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 46 | [Roulette \(feat\. Ruby Amanfu\)](https://open.spotify.com/track/6l8joEnsFzO05Uy7LVT3HD) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Roulette \(feat\. Ruby Amanfu\)](https://open.spotify.com/album/4wccD7Vpkx9Grut1VFTTUm) | 4:31 |
 | 47 | [Sorry Is Gone](https://open.spotify.com/track/0xP8XkPdZ4ETCKLUegJ6By) | [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Sorry Is Gone](https://open.spotify.com/album/5cvmGD2Ymr1UlGEEZDfdYB) | 3:21 |
 | 48 | [Nighthawks](https://open.spotify.com/track/3eTCd9Vrjl3EwaitvfcmbG) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/6uFReUE0X1oqtumrJLdy26) | 3:23 |
-| 49 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
-| 50 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
+| 49 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
+| 50 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
 | 51 | [Defection](https://open.spotify.com/track/6o6tIXVvITarKUoU8kKpOY) | [Nixon Mask](https://open.spotify.com/artist/3qd7SVOfNjhMKmIOqDRbDC) | [Defection](https://open.spotify.com/album/4NKAlFl6tzcsuRmW0D9xPw) | 4:44 |
 | 52 | [Out The Door](https://open.spotify.com/track/3qQhgP33KDnEdF1XdVJGwK) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [There Will Come Soft Rains](https://open.spotify.com/album/4hfr4fU8gI3kqxgY9Exx0o) | 2:14 |
 | 53 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Island Time](https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N) | [Island Time](https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj) | 3:55 |
 | 60 | [All In My Head](https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:21 |
 
-Snapshot ID: `MTY0Nzk5NzExNCwwMDAwMDAwMDQ5MTQ4ODU0ZDY1ODE4Njc1MTIyZmFiODU1NDQxNjc1`
+Snapshot ID: `MTY0ODA4MzI0MCwwMDAwMDAwMDY1ODJkY2Q4MjQ0NDc0MDJjOTE0YmMzODA1M2NhZTEx`

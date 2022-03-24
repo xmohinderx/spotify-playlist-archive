@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 149647,
+  "num_followers": 149743,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQzNCwwMDAwMDAwMDZhNTU2Njk2MjYyYjZmMzQxNzBkOGEzZWI3NTE3NDhk",
+  "snapshot_id": "MTY0ODA4MzU2NCwwMDAwMDAwMDY0MDdlYjkzNzY2M2FiYTExMGEwODJiNTZiOWUxZDkw",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "V\u00f4o de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
       },
@@ -167,6 +135,38 @@
       "duration_ms": 281293,
       "name": "Menina Veneno",
       "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Tempos modernos (2001 Remasterizado)",
-        "url": "https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Tempos modernos - Remasterizado em 2001",
-      "url": "https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212586,
       "name": "O Nosso Amor A Gente Inventa (Est\u00f3ria Rom\u00e2ntica)",
       "url": "https://open.spotify.com/track/4OQCnf6Jx0cZzzTh7fU0TF"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Tempos modernos (2001 Remasterizado)",
+        "url": "https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Tempos modernos - Remasterizado em 2001",
+      "url": "https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -351,38 +351,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "O \u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/3m2FNr5FlOyf94Slpae7vy"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Me Chama",
-      "url": "https://open.spotify.com/track/7GNJgRUNRACGYH8ySNyqgj"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "As Quatro Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7AMgXBVw9ViHswkQ71wyju"
       },
@@ -415,34 +383,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "O Passo Do Lui",
-        "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
       },
       "artists": [
         {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 219600,
-      "name": "\u00d3culos",
-      "url": "https://open.spotify.com/track/1LphXGnd5o9F0hOE61Zf9T"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Esot\u00e9rico",
-      "url": "https://open.spotify.com/track/0tVxzsIpzTIj41DTHAvFxs"
+      "duration_ms": 252306,
+      "name": "O \u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/3m2FNr5FlOyf94Slpae7vy"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -463,18 +415,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
       },
       "artists": [
         {
-          "name": "Legi\u00e3o Urbana",
-          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
         }
       ],
-      "duration_ms": 271440,
-      "name": "Eduardo E M\u00f4nica",
-      "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
+      "duration_ms": 230600,
+      "name": "Me Chama",
+      "url": "https://open.spotify.com/track/7GNJgRUNRACGYH8ySNyqgj"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -495,18 +447,66 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "\"Todas\"",
-        "url": "https://open.spotify.com/album/73K3NqKElr5xju7BY9PDl5"
+        "name": "O Passo Do Lui",
+        "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
       },
       "artists": [
         {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Eu Te Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/04x5nZaJ3ZlTivI2DiAxZd"
+      "duration_ms": 219600,
+      "name": "\u00d3culos",
+      "url": "https://open.spotify.com/track/1LphXGnd5o9F0hOE61Zf9T"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Eduardo E M\u00f4nica",
+      "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Esot\u00e9rico",
+      "url": "https://open.spotify.com/track/0tVxzsIpzTIj41DTHAvFxs"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -547,34 +547,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+        "name": "\"Todas\"",
+        "url": "https://open.spotify.com/album/73K3NqKElr5xju7BY9PDl5"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Eclipse Oculto - Remixed Original Album",
-      "url": "https://open.spotify.com/track/3n5wWhXZKyowsRQ4QiSCVD"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
+      "duration_ms": 194666,
+      "name": "Eu Te Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/04x5nZaJ3ZlTivI2DiAxZd"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -595,18 +579,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
       "artists": [
         {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 247533,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
+      "duration_ms": 225373,
+      "name": "Eclipse Oculto - Remixed Original Album",
+      "url": "https://open.spotify.com/track/3n5wWhXZKyowsRQ4QiSCVD"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -655,6 +639,22 @@
       "duration_ms": 229600,
       "name": "F\u00e1tima",
       "url": "https://open.spotify.com/track/7e4lwINwaHLGaQRsLR9mWR"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Seu Espi\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
-          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Alice (N\u00e3o escreva aquela carta de amor)",
-      "url": "https://open.spotify.com/track/1YjmdYvNMgSnXwENY2zErk"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Circulado",
         "url": "https://open.spotify.com/album/6jclg8GUlvPIiFWBhphdnw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 353493,
       "name": "Fora Da Ordem",
       "url": "https://open.spotify.com/track/1Sd8ttUlcuF8FXEDc625mt"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Seu Espi\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/4NLVOcRYthD3SL6gm7fyVN"
+      },
+      "artists": [
+        {
+          "name": "Kid Abelha e os Ab\u00f3boras Selvagens",
+          "url": "https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Alice (N\u00e3o escreva aquela carta de amor)",
+      "url": "https://open.spotify.com/track/1YjmdYvNMgSnXwENY2zErk"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Look Sharp! (2009 Version)",
-        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/39MMaY4ampwjkSOFahHnKi"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "I Want To Break Free",
+      "url": "https://open.spotify.com/track/3mvoMBK8QDtnhz8U2L2XK2"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/39MMaY4ampwjkSOFahHnKi"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "I Want To Break Free",
-      "url": "https://open.spotify.com/track/3mvoMBK8QDtnhz8U2L2XK2"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 299240,
-      "name": "Eyes Without A Face",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Let's Dance (1999 Remaster)",
         "url": "https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "War (Remastered)",
         "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 335613,
       "name": "New Year's Day - Remastered 2008",
       "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1YQCRXscu8xE74BVVMUCRr"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1551,6 +1535,22 @@
       "duration_ms": 269786,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1YQCRXscu8xE74BVVMUCRr"
     },
     {
       "added_at": "2020-06-24 14:37:20",

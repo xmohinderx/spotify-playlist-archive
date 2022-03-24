@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVNQeZtY2TDM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNQeZtY2TDM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNQeZtY2TDM)
 
-### Chinese Hip Hop Stars
+### [Chinese Hip Hop Stars](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: That's My Shhh
 

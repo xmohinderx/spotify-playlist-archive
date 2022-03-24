@@ -1,12 +1,12 @@
 {
   "description": "A little psychedelic, a little groovy, and very rootsy.",
-  "num_followers": 110246,
+  "num_followers": 110326,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzExNCwwMDAwMDAwMDQ5MTQ4ODU0ZDY1ODE4Njc1MTIyZmFiODU1NDQxNjc1",
+  "snapshot_id": "MTY0ODA4MzI0MCwwMDAwMDAwMDY1ODJkY2Q4MjQ0NDc0MDJjOTE0YmMzODA1M2NhZTEx",
   "tracks": [
     {
       "added_at": "2021-10-08 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Ain't Nothin' New",
-        "url": "https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Ain't Nothin' New",
-      "url": "https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
         "name": "Caught It from the Rye",
         "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 169160,
       "name": "Real You",
       "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Ain't Nothin' New",
+        "url": "https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Ain't Nothin' New",
+      "url": "https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Confidence Man",
-        "url": "https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 282975,
-      "name": "Confidence Man",
-      "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 318826,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Confidence Man",
+        "url": "https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 282975,
+      "name": "Confidence Man",
+      "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
     },
     {
       "added_at": "2021-10-08 04:00:00",

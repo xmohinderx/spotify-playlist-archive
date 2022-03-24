@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 242565,
+  "num_followers": 243095,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg0NiwwMDAwMDAwMDY0YzFlNzcyNjk1YmM1NjkwMWU1Yzk2YWQ3MDBlMGI5",
+  "snapshot_id": "MTY0ODA4Mjk2MywwMDAwMDAwMGJjYTQ4YWU2ZTA2ZDUyMDIxZmE0ODUzNmYwMTU2NGI4",
   "tracks": [
     {
       "added_at": "2022-01-06 13:47:16",
@@ -151,6 +151,26 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "One, Two Step (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 259720,
       "name": "Love in This Club (feat. Young Jeezy)",
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "One, Two Step (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/4TlzQ4FABU9yI2lDvoGVb9"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
         }
       ],
-      "duration_ms": 319466,
-      "name": "Partition",
-      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -463,6 +447,22 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "Partition",
+      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -511,26 +511,6 @@
       "duration_ms": 220639,
       "name": "Long Way 2 Go",
       "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -643,6 +623,26 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
         "name": "No Plans for Love (with Ne-Yo & Kent Jones)",
         "url": "https://open.spotify.com/album/6KhNL7xE9vbfCcx6brXPiO"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
         "name": "SweetSexySavage (Deluxe)",
         "url": "https://open.spotify.com/album/32jei6omhyLZDCg8Ijvoym"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
-        "name": "#1's",
-        "url": "https://open.spotify.com/album/01gnLdVDtDGFd8nmLL1U18"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Bootylicious",
-      "url": "https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 193093,
       "name": "Peaches & Cream",
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
+        "name": "#1's",
+        "url": "https://open.spotify.com/album/01gnLdVDtDGFd8nmLL1U18"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Bootylicious",
+      "url": "https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
-        "name": "Destiny's Child",
-        "url": "https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "No, No, No Pt. 2 (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 172240,
       "name": "I'm Gonna Be Alright (feat. Nas)",
       "url": "https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
+        "name": "Destiny's Child",
+        "url": "https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "No, No, No Pt. 2 (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-01-06 13:47:16",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+    },
+    {
+      "added_at": "2022-01-06 13:47:16",
+      "album": {
         "name": "My Own Lane (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 217800,
       "name": "Show Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
-    },
-    {
-      "added_at": "2022-01-06 13:47:16",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
     },
     {
       "added_at": "2022-01-06 13:47:16",
@@ -1817,20 +1817,20 @@
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
-      "added_at": "2022-01-06 13:47:16",
+      "added_at": "2022-03-23 10:48:44",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz"
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Trick Me",
-      "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"
+      "duration_ms": 241466,
+      "name": "If I Had No Loot",
+      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
     }
   ],
   "unique_name": "Energy Booster: R&B",

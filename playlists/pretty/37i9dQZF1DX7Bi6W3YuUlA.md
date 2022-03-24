@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,444 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,461 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 70 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
 | 71 | [Odyssey \- Radio Edit](https://open.spotify.com/track/3Rt7HZcSExQXhEW6E52GVB) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Odyssey \(Radio Edit\)](https://open.spotify.com/album/2PZwfloWHk9eVnFBPcFKgT) | 3:00 |
 | 72 | [FRESH AIR](https://open.spotify.com/track/0CO1g6pZRFD93JZJOTM79e) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [THE PANDEMIC PROJECT](https://open.spotify.com/album/69S4wWFLBEnM8nfC1h6rPm) | 3:15 |
-| 73 | [Liu Kang](https://open.spotify.com/track/7s0QYpPQzvxGm3rmPS9xb7) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Liu Kang](https://open.spotify.com/album/6Kzebxl4WfKvdWS0zZ5g9H) | 2:14 |
-| 74 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
+| 73 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
+| 74 | [Liu Kang](https://open.spotify.com/track/7s0QYpPQzvxGm3rmPS9xb7) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Liu Kang](https://open.spotify.com/album/6Kzebxl4WfKvdWS0zZ5g9H) | 2:14 |
 | 75 | [Clocked In \(feat\. Aklesso & Derek Minor\)](https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clocked In \(feat\. Aklesso & Derek Minor\)](https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt) | 4:26 |
 | 76 | [Wasabi](https://open.spotify.com/track/1EY9yIaC22QYdf5n5WbcYg) | [Makeba](https://open.spotify.com/artist/2eXB6r7mW1lHEWJo7q8CTv) | [Seat at the Table](https://open.spotify.com/album/1MZfqyaPPWPufCSWWV9WEY) | 3:26 |
 | 77 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Solar System](https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Solar System](https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5) | 2:57 |
 | 80 | [MLB \(Juan Pierre\)](https://open.spotify.com/track/4QLkyXq3ta5cqy1vuNWDnw) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [MLB \(Juan Pierre\)](https://open.spotify.com/album/7jjy2k7RgU9x6bShePk1mV) | 1:46 |
 
-Snapshot ID: `MTY0Nzk5NzI3MywwMDAwMDAwMGVkMjg5NTRjZTM1ZWEyOTUwMzVmMTkzY2U4Mzc2MjU2`
+Snapshot ID: `MTY0ODA4MzM5NywwMDAwMDAwMDkxNjUyZTQxYTlkMWM4M2RiODhiZTI1NWZjNDdmN2Y5`

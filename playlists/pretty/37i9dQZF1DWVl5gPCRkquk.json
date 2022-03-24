@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 840975,
+  "num_followers": 841035,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjkxMiwwMDAwMDAwMDk1NjM4MTljOTI5ODFmODJkMDVjNzgxOTRjODcyYTIw",
+  "snapshot_id": "MTY0ODA4MzAyOCwwMDAwMDAwMDgyZGMyY2I4N2E0Njg3OWRiMWJhYWQ1ZDY4YWVkMGMz",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Crowded Table / Redesigning Women",
         "url": "https://open.spotify.com/album/3ecYV2HE7noz8UI8rq1Oti"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/4CQWR7selY38Hi5UJcn7Yx"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2022-02-11 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,420 likes - 250 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,688 likes - 250 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 6 | [In a Stranger's Arms](https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [In a Stranger's Arms](https://open.spotify.com/album/5fc9yi6CWLJltzalAhLOQg) | 3:20 |
 | 7 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 | 8 | [Losing Me](https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Losing Me](https://open.spotify.com/album/5MS4jSKio1OjUOKOnTEEat) | 3:00 |
-| 9 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
-| 10 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 |
+| 9 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 |
+| 10 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 |
 | 11 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
-| 12 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
-| 13 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 |
-| 14 | [OK](https://open.spotify.com/track/7dWHp7cExG7vL34i5v5hxC) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/0BIuEAg3nDClb11R1SNTyM) | 3:32 |
+| 12 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 |
+| 13 | [OK](https://open.spotify.com/track/7dWHp7cExG7vL34i5v5hxC) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/0BIuEAg3nDClb11R1SNTyM) | 3:32 |
+| 14 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
 | 15 | [Hope Is A Heartache](https://open.spotify.com/track/3w1P8nwsVi9vxrGvxYLzAC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:21 |
 | 16 | [Good Stuff](https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Good Stuff](https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc) | 3:13 |
 | 17 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 59 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
 | 60 | [Ocean](https://open.spotify.com/track/5G6Nf4Ytk3dzxnhfP2AhKR) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:30 |
 | 61 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
-| 62 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
-| 63 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 |
+| 62 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 |
+| 63 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
 | 64 | [Forever Young](https://open.spotify.com/track/0Kjkp9SLw8uhBAiSrSgdcB) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Forever Young](https://open.spotify.com/album/7yAbp4rF8KN1cT7q09rNbX) | 3:31 |
 | 65 | [Oceans \- Acoustic Version](https://open.spotify.com/track/5vZrslgryUYs5C4kpUnQoz) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Oceans](https://open.spotify.com/album/0iF1j9nhAxi2yMw61iHtXc) | 4:01 |
 | 66 | [Dancing in the Dark](https://open.spotify.com/track/1Lmm7Nz42ecjZn2WZU64JA) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dancing in the Dark](https://open.spotify.com/album/1DWOO7WkQznqcuPVDR8LHJ) | 2:58 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 90 | [The Killing Kind](https://open.spotify.com/track/1jomA4BE5pOmL3XvmalpfX) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [EGO \(super/trip/maniac\)](https://open.spotify.com/album/2pPQfg4D54rDN1bQ5Ibm75) | 3:51 |
 | 91 | [Monsters in My Mind](https://open.spotify.com/track/0EvGTXrk4HaxNpzwN6yqZJ) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Monsters in My Mind](https://open.spotify.com/album/5GJTp8jPSwJApV02QGUujl) | 4:09 |
 | 92 | [Haloes \- Acoustic](https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Haloes \(Acoustic\)](https://open.spotify.com/album/0zfZHVd16gHfXWnlBXrswq) | 3:02 |
-| 93 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 |
-| 94 | [This Could Be Love](https://open.spotify.com/track/6pYWX2sqfzlfao3irB9iXw) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [This Could Be Love](https://open.spotify.com/album/6KBXkshoN7saKqCqMz9tdu) | 2:43 |
-| 95 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 |
+| 93 | [This Could Be Love](https://open.spotify.com/track/6pYWX2sqfzlfao3irB9iXw) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [This Could Be Love](https://open.spotify.com/album/6KBXkshoN7saKqCqMz9tdu) | 2:43 |
+| 94 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 |
+| 95 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 |
 | 96 | [if you weren't you](https://open.spotify.com/track/0Orpd7icIIR6tp5cmJcHsu) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [If You Weren't You](https://open.spotify.com/album/34HGxfz7qE6dRtaKoYx4KU) | 4:09 |
 | 97 | [Let It Happen](https://open.spotify.com/track/0UgndjnIWYSIHvg98SR12J) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Let It Happen](https://open.spotify.com/album/0UIpnAsOEMbsUtcyw32rjZ) | 2:48 |
 | 98 | [Dreams](https://open.spotify.com/track/7x7DOytG3tRbZsaLMt4JBq) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Dreams](https://open.spotify.com/album/2LH8xN3t9OREDNJhAo99F5) | 3:34 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Make It Work](https://open.spotify.com/track/6Bjq10d3F4Vcm2czZT6UJX) | [Brennan Villines](https://open.spotify.com/artist/2rq6Vk4SwBUmRWmSq0Pd5V) | [Make It Work](https://open.spotify.com/album/73rDYgFjHAGZ5yGcpHwhkW) | 3:59 |
 | 250 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
 
-Snapshot ID: `MTY0Nzk5NzQ0MSwwMDAwMDAwMDNmZTczZGFiMWNhMDA5MGJiM2Q0YTUwYThmZjZkY2E5`
+Snapshot ID: `MTY0ODA4MzU3MiwwMDAwMDAwMDE5YTY1N2JmY2ViZGUwMjBlMjhlMzM5NmZjNDVhMTQ3`

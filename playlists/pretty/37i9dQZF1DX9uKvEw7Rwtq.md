@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,914 likes - 55 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,068 likes - 55 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 46 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [Tidecruz](https://open.spotify.com/artist/1JRXfBThwZCQ5dexOjNEy2) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 47 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 |
 | 48 | [Leaking Light](https://open.spotify.com/track/3lrOAT65wFVEc0XApazcJq) | [Lachlan R\. Dale](https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9) | [Leaking Light](https://open.spotify.com/album/4cqfOx0iyHRYJiJR7hYt28) | 2:54 |
-| 49 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
-| 50 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
+| 49 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
+| 50 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
 | 51 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 |
 | 52 | [10](https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR) | [10](https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP) | 2:51 |
 | 53 | [Untitled \#3 \- Samskeyti](https://open.spotify.com/track/1QUiA9aecDOOnf32A9ZrtW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [\( \)](https://open.spotify.com/album/3FR8CV7OSyZDnxneavnh8t) | 6:33 |
 | 54 | [The First Glimmer of Wind](https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [James](https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z) | 5:54 |
 | 55 | [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 |
 
-Snapshot ID: `MTY0Nzk5NzM1NSwwMDAwMDAwMGFjMmI3OTZjN2RhMmUyNmJhZTIxMTcxMTcxNDJkNDdh`
+Snapshot ID: `MTY0ODA4MzQ4MywwMDAwMDAwMDI1MjI0YWM4ZTk0NGM3YTBhOTc5OGEwNjJhZDVhODVh`

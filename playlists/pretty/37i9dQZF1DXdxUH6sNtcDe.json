@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Keith Urban, Carrie Underwood, Kenny Chesney",
-  "num_followers": 455696,
+  "num_followers": 456320,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQ3MywwMDAwMDAwMDlmZTI4OWI0ZWJkYzZlMjdmMGQ3N2U0OTU1MjBlNWU2",
+  "snapshot_id": "MTY0ODA4MzYwMywwMDAwMDAwMGY5N2VmZWJhNWEwNGQ3MTQ0YWY1NGI0NjJmZjFjNGI4",
   "tracks": [
     {
       "added_at": "2022-02-09 04:13:07",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+      "duration_ms": 220573,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 220573,
-      "name": "She's Country",
-      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
+      "duration_ms": 199413,
+      "name": "Ain't Nothing 'Bout You",
+      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 242946,
       "name": "Watching Airplanes",
       "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 230549,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
         "name": "Man With A Memory",
         "url": "https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 262773,
       "name": "Toes",
       "url": "https://open.spotify.com/track/2Esf7NTKQNCPE4G17QvVCs"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 230549,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Ol' Red",
-      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "Tim McGraw And The Dancehall Doctors",
         "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 283560,
       "name": "Red Ragtop",
       "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Ol' Red",
+      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Born To Fly",
-        "url": "https://open.spotify.com/album/15s0UqAh203Hztsmta1CSn"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 336360,
-      "name": "Born to Fly",
-      "url": "https://open.spotify.com/track/1zmvaeDthBdtthb4RgYr9a"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 248800,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Born To Fly",
+        "url": "https://open.spotify.com/album/15s0UqAh203Hztsmta1CSn"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 336360,
+      "name": "Born to Fly",
+      "url": "https://open.spotify.com/track/1zmvaeDthBdtthb4RgYr9a"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "My Front Porch Looking In",
-      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 283000,
       "name": "Forever And For Always",
       "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "My Front Porch Looking In",
+      "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Blake Shelton's Barn & Grill",
-        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Some Beach",
-      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Blake Shelton's Barn & Grill",
+        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Some Beach",
+      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Rascal Flatts",
-        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Prayin' For Daylight",
-      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "Chris Cagle",
         "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 213733,
       "name": "Why",
       "url": "https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Rascal Flatts",
+        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Prayin' For Daylight",
+      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
     },
     {
       "added_at": "2022-02-09 04:13:07",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-02-09 04:13:07",
       "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Love Don't Live Here",
-      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
-    },
-    {
-      "added_at": "2022-02-09 04:13:07",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
+    },
+    {
+      "added_at": "2022-02-09 04:13:07",
+      "album": {
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
     },
     {
       "added_at": "2022-02-09 04:13:07",

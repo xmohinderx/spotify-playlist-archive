@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1201433,
+  "num_followers": 1201950,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk3NywwMDAwMDAwMDcyYzA4ODRkOTFjNTc1NGMxZThiNWRlMTI2NGEzMTE2",
+  "snapshot_id": "MTY0ODA4MzA5NiwwMDAwMDAwMDlkNzJmZjdlNDJhNzA0OTliZWU0OGY5ZDhmYmMzNGE1",
   "tracks": [
     {
       "added_at": "2022-01-25 16:40:12",
@@ -171,6 +171,30 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "El Incomprendido",
+      "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
         "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
         "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Dj Adoni",
-          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "El Incomprendido",
-      "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
         "name": "Rotate",
         "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
+        "name": "No Puede Ser (with Eladio Carrion)",
+        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "No Puede Ser - with Eladio Carrion",
+      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
         "name": "Honey Boo",
         "url": "https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr"
       },
@@ -723,46 +743,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
-        "name": "QueLoQue (feat. Paloma Mami)",
-        "url": "https://open.spotify.com/album/1ohE8YZHkUqDlihibN9ZYi"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "QueLoQue (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/1mqmmL4IxVBXqsjg4Er1gT"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
-        "name": "No Puede Ser (with Eladio Carrion)",
-        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Puede Ser - with Eladio Carrion",
-      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -835,6 +815,50 @@
       "duration_ms": 207899,
       "name": "Roses - Imanbek Remix [Latino Gang]",
       "url": "https://open.spotify.com/track/2zJ2jLVDrl1tfMZkR89j4k"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "QueLoQue (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/1ohE8YZHkUqDlihibN9ZYi"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "QueLoQue (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/1mqmmL4IxVBXqsjg4Er1gT"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -991,30 +1015,6 @@
       "duration_ms": 175008,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/5fBu65kNJJchxn4a2FzqFU"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/4w7X6ojBPCALJIII9GcXt6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 173834,
-      "name": "MALA SANTA",
-      "url": "https://open.spotify.com/track/3Cq4jRxYpWHHgQGOaGZcMj"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
         "name": "Cuba (Tiene Sabor) [feat. Omara Portuondo]",
         "url": "https://open.spotify.com/album/1IYev94TKpjt8s563JwM3S"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 168017,
       "name": "Cuba (Tiene Sabor) [feat. Omara Portuondo]",
       "url": "https://open.spotify.com/track/5QhDqbqLk759MNSjegdlzw"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/4w7X6ojBPCALJIII9GcXt6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 173834,
+      "name": "MALA SANTA",
+      "url": "https://open.spotify.com/track/3Cq4jRxYpWHHgQGOaGZcMj"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
         "name": "Pa' Lante",
         "url": "https://open.spotify.com/album/03oX3KPyi8ydzOaMNTpX0N"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 174893,
       "name": "Pa' Lante",
       "url": "https://open.spotify.com/track/24wIxeVejXRhYJPrOFpJbg"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2022-01-25 16:40:12",
@@ -1803,6 +1803,54 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
+        "name": "Muito Calor",
+        "url": "https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Muito Calor",
+      "url": "https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
+        "name": "Que te Enamore",
+        "url": "https://open.spotify.com/album/6HGWl9OVyyUAuQQno0KR1W"
+      },
+      "artists": [
+        {
+          "name": "Marko Silva",
+          "url": "https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY"
+        },
+        {
+          "name": "Snova",
+          "url": "https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj"
+        },
+        {
+          "name": "Lionel Ferro",
+          "url": "https://open.spotify.com/artist/7eCV5haSJZFNswFd6asIZp"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 244621,
+      "name": "Que te Enamore",
+      "url": "https://open.spotify.com/track/6tlcsQaZmwhJjEd8cGCsMr"
+    },
+    {
+      "added_at": "2022-01-25 16:40:12",
+      "album": {
         "name": "MIA (feat. Drake)",
         "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
       },
@@ -1847,34 +1895,6 @@
     {
       "added_at": "2022-01-25 16:40:12",
       "album": {
-        "name": "Que te Enamore",
-        "url": "https://open.spotify.com/album/6HGWl9OVyyUAuQQno0KR1W"
-      },
-      "artists": [
-        {
-          "name": "Marko Silva",
-          "url": "https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY"
-        },
-        {
-          "name": "Snova",
-          "url": "https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj"
-        },
-        {
-          "name": "Lionel Ferro",
-          "url": "https://open.spotify.com/artist/7eCV5haSJZFNswFd6asIZp"
-        },
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 244621,
-      "name": "Que te Enamore",
-      "url": "https://open.spotify.com/track/6tlcsQaZmwhJjEd8cGCsMr"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
         "name": "Don Omar Presents MTO2: New Generation",
         "url": "https://open.spotify.com/album/24j7U1hm7C8WDr8cMdKcxt"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 263973,
       "name": "Zumba",
       "url": "https://open.spotify.com/track/43CL49bukqUMNxontuQtR2"
-    },
-    {
-      "added_at": "2022-01-25 16:40:12",
-      "album": {
-        "name": "Muito Calor",
-        "url": "https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Muito Calor",
-      "url": "https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga"
     },
     {
       "added_at": "2022-01-25 16:40:12",

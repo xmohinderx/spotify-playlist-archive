@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 49068,
+  "num_followers": 49091,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk5OCwwMDAwMDAwMGYyYjUxZDQzMjIyNGNiZThjZGE3ZTdiMWNlN2U4NDU1",
+  "snapshot_id": "MTY0ODA4MzExOSwwMDAwMDAwMDUzNjVlMWU0YTZhZjNkM2FmN2FlMWY0YjhkNWM1MDc1",
   "tracks": [
     {
       "added_at": "2021-09-07 18:02:03",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Fania Latin Boogaloo Essentials",
-        "url": "https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Back On The Streets Of Spanish Harlem",
         "url": "https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 200240,
       "name": "You're Moving Much Too Fast",
       "url": "https://open.spotify.com/track/0CHCDzy0qWlTClcArjpxhG"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Fania Latin Boogaloo Essentials",
+        "url": "https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 247480,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
     },
     {
       "added_at": "2021-09-07 18:02:03",

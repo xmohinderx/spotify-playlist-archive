@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Arcade Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,341 likes - 206 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,485 likes - 206 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

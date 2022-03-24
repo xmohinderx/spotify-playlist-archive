@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,429 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,497 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Climb That Mountain](https://open.spotify.com/track/1oaiSt6OgsFKNXUZUcDAMx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Climb That Mountain](https://open.spotify.com/album/22L0pi8vwKqLp8mdaERXOY) | 3:00 |
 | 50 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 
-Snapshot ID: `MTY0Nzk5NzIzOCwwMDAwMDAwMDNkNDE4NTlmZWEyMzlkN2M3Yjk1MjUyYTVlZWViYjkz`
+Snapshot ID: `MTY0ODA4MzM2MiwwMDAwMDAwMDNkNDE4NTlmZWEyMzlkN2M3Yjk1MjUyYTVlZWViYjkz`

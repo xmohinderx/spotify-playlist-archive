@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,371 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,511 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 46 | [It's a Moot Point](https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7xoKAS8YKaD85hP4FjOKyL) | 4:02 |
 | 47 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 |
 | 48 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/2FuMGSJC5lI08kWandk65f) | 4:54 |
-| 49 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
-| 50 | [ALLSTAR](https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:54 |
-| 51 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
-| 52 | [Here to Dance](https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Here to Dance](https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9) | 3:07 |
-| 53 | [You and Me](https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rising With It](https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4) | 3:56 |
-| 54 | [Get By \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/19qPt0RZapWvOKsACyvfQF) | 3:42 |
+| 49 | [Get By \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/19qPt0RZapWvOKsACyvfQF) | 3:42 |
+| 50 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
+| 51 | [ALLSTAR](https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:54 |
+| 52 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
+| 53 | [Here to Dance](https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Here to Dance](https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9) | 3:07 |
+| 54 | [You and Me](https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rising With It](https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4) | 3:56 |
 | 55 | [Time Machine](https://open.spotify.com/track/7jaRUZ8V1ilINYddN4wtrB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Time Machine](https://open.spotify.com/album/0BXH5e0AzD0Dn7x5u2y02n) | 5:30 |
 | 56 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 |
 | 57 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 60 | [Them Changes](https://open.spotify.com/track/6NbLghSV5wmjGINBeSo1xA) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Red Focus](https://open.spotify.com/album/4V4qdKRONWcZxKfRAMv4IS) | 3:54 |
 
-Snapshot ID: `MTY0Nzk5NzI5NiwwMDAwMDAwMDI0ZjFkMGJjZjRhNjgyOGRkOWU3ZTcwYzdhYzVlMTcy`
+Snapshot ID: `MTY0ODA4MzQyMiwwMDAwMDAwMDIwY2FiMTk0Yzk0Y2QzMzcyMTVkODA3NjlhOGRmZDA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Steady rain without any thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,281 likes - 192 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,484 likes - 192 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

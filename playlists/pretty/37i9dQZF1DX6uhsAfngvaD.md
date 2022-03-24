@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,574 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,681 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 65 | [Fuzz Captain](https://open.spotify.com/track/4QgIkSyVxv6FmsWO2dZz4J) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Fuzz Captain](https://open.spotify.com/album/5iuMY4LG0VhuRzDUep1uJm) | 4:04 |
 | 66 | [Lie Love Lullaby](https://open.spotify.com/track/1NR4gSR1iITXlbm6qTksHP) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Lie Love Lullaby](https://open.spotify.com/album/6r5op7sLZfwyUjoUCHIHjC) | 3:20 |
 | 67 | [Last Time](https://open.spotify.com/track/2wlqQfTm8x7RY0WldjFmT3) | [Good Posture](https://open.spotify.com/artist/1jQeZUi0AmxfRqjpF4ZFQQ) | [Last Time](https://open.spotify.com/album/0JNB7rlI8Q3tB2Wm2BpJ8W) | 2:26 |
-| 68 | [Self Aware](https://open.spotify.com/track/0zxaeEmN9uxdvx7mrnmZAJ) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Do It Again](https://open.spotify.com/album/7KIGWJhK1TUev0tHh7CnGH) | 4:46 |
-| 69 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
-| 70 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
-| 71 | [Delicadeza](https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Delicadeza](https://open.spotify.com/album/6irEnIp0EJnBsUE97CFa2u) | 2:58 |
-| 72 | [Skin](https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Skin](https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX) | 3:45 |
+| 68 | [Skin](https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Skin](https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX) | 3:45 |
+| 69 | [Self Aware](https://open.spotify.com/track/0zxaeEmN9uxdvx7mrnmZAJ) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Do It Again](https://open.spotify.com/album/7KIGWJhK1TUev0tHh7CnGH) | 4:46 |
+| 70 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
+| 71 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 |
+| 72 | [Delicadeza](https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Delicadeza](https://open.spotify.com/album/6irEnIp0EJnBsUE97CFa2u) | 2:58 |
 | 73 | [What We Left Behind](https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5) | 3:55 |
 | 74 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
 | 75 | [Jeune](https://open.spotify.com/track/3HV9YnoYACjlrJ5CiZ3hLj) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Jeune](https://open.spotify.com/album/0ra3Nkh7kqEUEtReZ6rbEY) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
 | 80 | [Even True Love](https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Even True Love](https://open.spotify.com/album/4cMrZSmZziTfor1wqUZgGV) | 4:46 |
 
-Snapshot ID: `MTY0Nzk5NzI2NSwwMDAwMDAwMDA4NGVlNDQxMzkzZjViYmE2YjFkNjdhZGI4Y2EyZWY1`
+Snapshot ID: `MTY0ODA4MzM4OSwwMDAwMDAwMDRmMTg0NWRmNDcxNDc4ZWFlNDZiY2RhZmUxNmQ3N2Zk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Juice WRLD, Fivio Foreign, Lil Durk and more\. Cover: Coi Leray & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,350 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,425 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

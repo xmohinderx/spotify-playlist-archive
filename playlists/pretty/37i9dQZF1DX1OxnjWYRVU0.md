@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,692 likes - 222 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,897 likes - 222 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 74 | [Clint Eastwood](https://open.spotify.com/track/1hzT2Tv7whPOSMzXZDwIKp) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [IMKK](https://open.spotify.com/artist/5dtKB0tw4Yc39wYRzA9u4R) | [Clint Eastwood](https://open.spotify.com/album/7qcJuxZEUDrqSdAkaxhFmd) | 2:36 |
 | 75 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK) | [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN) | 2:12 |
 | 76 | [In the Shadows](https://open.spotify.com/track/08CHIJpxNSHJzxAfvkbQlc) | [JETFIRE](https://open.spotify.com/artist/1flYnVP7znbiEcL0ELwwTt), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [In the Shadows](https://open.spotify.com/album/0QgbNWzG6iH9F9oUtl2lIT) | 2:20 |
-| 77 | [Funky Nutcracker](https://open.spotify.com/track/6fuz8f4OPpqwxU1RK8KUIs) | [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W), [Ruff Ryders](https://open.spotify.com/artist/49pQfWTLlSww8C7K7unpUC) | [Funky Nutcracker](https://open.spotify.com/album/5W8i1VEtyWkYXiqhoXNoiw) | 1:52 |
+| 77 | [Funky Nutcracker](https://open.spotify.com/track/6fuz8f4OPpqwxU1RK8KUIs) | [Miku Hatsune](https://open.spotify.com/artist/0ZhOfyJgDIrn8ktsYByYr4), [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W), [Ruff Ryders](https://open.spotify.com/artist/49pQfWTLlSww8C7K7unpUC) | [Funky Nutcracker](https://open.spotify.com/album/5W8i1VEtyWkYXiqhoXNoiw) | 1:52 |
 | 78 | [Cry For You](https://open.spotify.com/track/1Y7GfGztj5Djt2DWT7Gbgt) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/2GQCnQigOLkPacuPotRygB) | 2:29 |
 | 79 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
 | 80 | [All The Things She Said](https://open.spotify.com/track/6a3xD7m0pqeBpmbOS5OmpI) | [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [Трибьют t.A.T.u\. "200 по встречной"](https://open.spotify.com/album/6vGQST667kLKUriMXcmTft) | 3:00 |

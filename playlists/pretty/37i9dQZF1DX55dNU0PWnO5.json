@@ -1,12 +1,12 @@
 {
   "description": "Where jazz meets electronic music. Cover: Blue Lab Beats",
-  "num_followers": 527768,
+  "num_followers": 527815,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzIwNCwwMDAwMDAwMDhkY2M5MDNlYzA5N2QzYjA0NDZiZGZmNWVhYTU3ZDhj",
+  "snapshot_id": "MTY0ODA4MzMyOCwwMDAwMDAwMDE4ZjAwYzZlNTgwNWU5MTE3NGYzZjRlNTI3M2E5OTI4",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/2G5EwHX39hSGhQkTCubRR1"
     },
     {
+      "added_at": "2021-03-12 05:00:00",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
+    },
+    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -375,38 +391,6 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
-    },
-    {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Joy Techniques",
-        "url": "https://open.spotify.com/album/1SPHbwwnXsKMk0pFvMPpon"
-      },
-      "artists": [
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "The Trees Are Starting to Have Personality",
-      "url": "https://open.spotify.com/track/2ggJ03NNDqBvO1HjuRuEbP"
-    },
-    {
-      "added_at": "2021-03-12 05:00:00",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -467,6 +451,22 @@
       "duration_ms": 175986,
       "name": "The Message Continues - DJ Harrison Remix",
       "url": "https://open.spotify.com/track/0VRNvK97f4msLjvfcAZOcb"
+    },
+    {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Joy Techniques",
+        "url": "https://open.spotify.com/album/1SPHbwwnXsKMk0pFvMPpon"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "The Trees Are Starting to Have Personality",
+      "url": "https://open.spotify.com/track/2ggJ03NNDqBvO1HjuRuEbP"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -669,6 +669,30 @@
       "url": "https://open.spotify.com/track/54a8NWHfkiTRTDeEnPU80O"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Uncertain",
+        "url": "https://open.spotify.com/album/516YKC5Jgn0oki21nZ7CFP"
+      },
+      "artists": [
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        },
+        {
+          "name": "anu",
+          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        }
+      ],
+      "duration_ms": 191153,
+      "name": "Uncertain",
+      "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Saga of Robert and Lauryn",
@@ -703,30 +727,6 @@
       "duration_ms": 162633,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0gK9406OcLfxwjnkQt8HDv"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Uncertain",
-        "url": "https://open.spotify.com/album/516YKC5Jgn0oki21nZ7CFP"
-      },
-      "artists": [
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        },
-        {
-          "name": "anu",
-          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        }
-      ],
-      "duration_ms": 191153,
-      "name": "Uncertain",
-      "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"
     },
     {
       "added_at": "2021-12-17 05:02:00",
@@ -1041,30 +1041,6 @@
       "url": "https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw"
     },
     {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "On the Fly",
-        "url": "https://open.spotify.com/album/1YLHsSg3sGQP98rTWIqnT7"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "On the Fly",
-      "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
-    },
-    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Ultraviolet",
@@ -1095,6 +1071,30 @@
       "duration_ms": 114078,
       "name": "PPL -PingPongLounge-",
       "url": "https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk"
+    },
+    {
+      "added_at": "2021-05-07 04:01:00",
+      "album": {
+        "name": "On the Fly",
+        "url": "https://open.spotify.com/album/1YLHsSg3sGQP98rTWIqnT7"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "On the Fly",
+      "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -1201,46 +1201,6 @@
       "url": "https://open.spotify.com/track/4GQkfmR9uGh24hZ7OBVw05"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Morse Code",
-        "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        },
-        {
-          "name": "Raghav Mehrotra",
-          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
-        },
-        {
-          "name": "Aidan McKeon",
-          "url": "https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk"
-        },
-        {
-          "name": "Noah Wise",
-          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Morse Code",
-      "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Soulsea (Cut Chemist Remix)",
@@ -1267,22 +1227,6 @@
       "duration_ms": 143013,
       "name": "Soulsea - Cut Chemist Remix",
       "url": "https://open.spotify.com/track/7w7pSGtnp1XyEdQ4ik1SfN"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Maybe We Should",
-        "url": "https://open.spotify.com/album/7tLBoZLNzAc5s2BpV61dhp"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Maybe We Should",
-      "url": "https://open.spotify.com/track/6kBRT0AJelJimAZhx62va0"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -1367,6 +1311,62 @@
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/27uch9EAZVr8BW6MmqprZy"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Morse Code",
+        "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        },
+        {
+          "name": "Raghav Mehrotra",
+          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
+        },
+        {
+          "name": "Aidan McKeon",
+          "url": "https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk"
+        },
+        {
+          "name": "Noah Wise",
+          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Morse Code",
+      "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "Maybe We Should",
+        "url": "https://open.spotify.com/album/7tLBoZLNzAc5s2BpV61dhp"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 237419,
+      "name": "Maybe We Should",
+      "url": "https://open.spotify.com/track/6kBRT0AJelJimAZhx62va0"
     },
     {
       "added_at": "2021-01-29 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Lucille Croft.",
-  "num_followers": 943356,
+  "num_followers": 943493,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA2NywwMDAwMDAwMGVmMmEwZmE1YzBmYzMzZGJmYzA1YjBkNDBhN2NjOTk5",
+  "snapshot_id": "MTY0ODA4MzE5MiwwMDAwMDAwMGFkZmY4YzEzMTk5YWEwNzg2ZTRhZmJhYjNjZGNkOWE3",
   "tracks": [
     {
       "added_at": "2022-03-18 04:00:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Losing My Mind (with Elohim)",
+        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 206141,
+      "name": "Losing My Mind (with Elohim)",
+      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 160000,
       "name": "Alive - 12th Planet Remix",
       "url": "https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Losing My Mind (with Elohim)",
-        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 206141,
-      "name": "Losing My Mind (with Elohim)",
-      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Mackenzie Sol",
+          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
+        }
+      ],
+      "duration_ms": 178519,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "As Above So Below",
         "url": "https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 254834,
       "name": "POTIONS",
       "url": "https://open.spotify.com/track/1PTbEooTqwpzCPvbx9zJWr"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Mackenzie Sol",
-          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
-        }
-      ],
-      "duration_ms": 178519,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 193292,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "UNSOUND EP",
         "url": "https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
+        "name": "Kill Me With Your Love",
+        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 193292,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+      "duration_ms": 174736,
+      "name": "Kill Me With Your Love",
+      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Kill Me With Your Love",
-        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 174736,
-      "name": "Kill Me With Your Love",
-      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
     },
     {
       "added_at": "2022-03-18 04:00:00",

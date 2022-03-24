@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,805 likes - 91 songs - 8 hr 31 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,801 likes - 91 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 21 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
 | 22 | [Hope Is Awake](https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP) | 5:18 |
 | 23 | [Resurrender \- Live](https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 7:02 |
-| 24 | [Rest on Us](https://open.spotify.com/track/5eb1zSp4vkky4i3nN5xCzt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Eniola Abioye](https://open.spotify.com/artist/3j9C4kOSV5gjlkQFK0bE8W) | [Move Your Heart](https://open.spotify.com/album/2rOZswj1Kdxl7mQgVeqjNq) | 5:37 |
+| 24 | [Rest on Us](https://open.spotify.com/track/5eb1zSp4vkky4i3nN5xCzt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Move Your Heart](https://open.spotify.com/album/2rOZswj1Kdxl7mQgVeqjNq) | 5:37 |
 | 25 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 |
 | 26 | [The Good Thief \(Hallelujah\) \- Live](https://open.spotify.com/track/4jaMzKsUKz42S4tI1hfKdk) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [The Good Thief \(Hallelujah\) \[Live\]](https://open.spotify.com/album/6rCcZL8tO4yNTfDlf3O3s3) | 5:24 |
 | 27 | [Hosanna](https://open.spotify.com/track/7J0lCOIaInKTSNclKJL1kU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Take Heart \(Again\)](https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O) | 4:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,223 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 9 | [Je redeviens le vent](https://open.spotify.com/track/19syK4KYHY3aCikgB9d7C9) | [Martin Léon](https://open.spotify.com/artist/51SMAYhZKYFb6aKxwxHuXY) | [Les atomes](https://open.spotify.com/album/1Q7L9YyEdo1t6VojO6fnvS) | 3:54 |
 | 10 | [J'aurai cent ans \(feat\. Louis\-Jean Cormier\)](https://open.spotify.com/track/2XPEuiPJS6mSCoyCmD2eSV) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/0WURqGbcrllLHCsJe0zTR9) | 4:52 |
 | 11 | [Je veux de la lumière](https://open.spotify.com/track/2Ai6JxSdC8pYe6LoDvhstv) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'été](https://open.spotify.com/album/0BWPiGzJX7metY5xFS5q1y) | 4:28 |
-| 12 | [La mort des étoiles](https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063) | 4:19 |
-| 13 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 |
-| 14 | [Elles](https://open.spotify.com/track/6EpNuGPeUHHyQajZuhbJvp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/2Ci9LGrl1wf24m2ckMb4hR) | 4:13 |
-| 15 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 |
+| 12 | [Le courant](https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Le courant](https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr) | 3:14 |
+| 13 | [La mort des étoiles](https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063) | 4:19 |
+| 14 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 |
+| 15 | [Elles](https://open.spotify.com/track/6EpNuGPeUHHyQajZuhbJvp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/2Ci9LGrl1wf24m2ckMb4hR) | 4:13 |
 | 16 | [Un Autre Été](https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Un Autre Été](https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf) | 3:09 |
 | 17 | [Blanche](https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B) | 2:36 |
 | 18 | [Je ne t'oublie pas \- Bonus](https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 3:31 |
-| 19 | [Une lettre](https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [La science du cœur](https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR) | 3:21 |
-| 20 | [Prière](https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [4488 de l'amour](https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa) | 2:45 |
+| 19 | [Prière](https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [4488 de l'amour](https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa) | 2:45 |
+| 20 | [Une lettre](https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [La science du cœur](https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR) | 3:21 |
 | 21 | [Nuit 17 à 52](https://open.spotify.com/track/4x39DNNw3rlg4G8vL9DFXH) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/7dkefkuwuoZC4ye1xysgKh) | 4:22 |
 | 22 | [Les terres de la couronne \(Feat\. Ariane Moffatt\)](https://open.spotify.com/track/4CPoOjxiFIhcppc6keC96T) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Almanach](https://open.spotify.com/album/3FkUgZeQvwuVwIKUQUNnSg) | 4:03 |
 | 23 | [L'oiseau mécanique](https://open.spotify.com/track/1Ejncf31O6GHVMI5gsZRPN) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/11T9d2RtUrwFYRisTUgStp) | 3:38 |
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 95 | [Nous restions là](https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Sentiments humains](https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS) | 3:57 |
 | 96 | [Nostos](https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr), [BUFFLO](https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2) | [Il](https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS) | 4:31 |
 | 97 | [Elton d'août \- Remix](https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Étienne d'août](https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE) | 5:12 |
-| 98 | [Le loup \- Version Vingt](https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Le loup \- Single \(Version Vingt\)](https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V) | 4:49 |
-| 99 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 |
+| 98 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 |
+| 99 | [Le loup \- Version Vingt](https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Le loup \- Single \(Version Vingt\)](https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V) | 4:49 |
 | 100 | [Nord\-est](https://open.spotify.com/track/46sn5XL1p64JBI7YwpsrGz) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Nord\-est](https://open.spotify.com/album/2McznR3vgPxnnBH9Knu6PE) | 4:03 |
 | 101 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MTY0Nzk5NzIyNiwwMDAwMDAwMGIwOWI2ZTk4MjJhZjA1NDhiZGFlNTYzMjRhMDJiODMx`
+Snapshot ID: `MTY0ODA4MzM1MCwwMDAwMDAwMDBjZWVmMTM2YTBiOGM0NDAzZDgyM2VlOGYyNGY3ODBm`

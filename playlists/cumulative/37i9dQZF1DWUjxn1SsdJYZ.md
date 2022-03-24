@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUjxn1SsdJYZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUjxn1SsdJYZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUjxn1SsdJYZ)
 
-### Local Hype
+### [Local Hype](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 > The best Hip Hop coming out of Australia\. Cover: MONTELLEM, Hooligan Skinny
 

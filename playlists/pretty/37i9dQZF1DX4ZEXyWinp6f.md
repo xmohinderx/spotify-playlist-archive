@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,530 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,643 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 54 | [Tikkun Olam](https://open.spotify.com/track/4uzkkLpiJXVswYUdU2uiHH) | [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [Neon Genesis: Soul Into Matter²](https://open.spotify.com/album/31ToNV27dxPMXiF6EsAqcN) | 2:53 |
 | 55 | [Song for Making Things Right](https://open.spotify.com/track/4G5iBmHIxjFsCmABeCWo99) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Song for Making Things Right](https://open.spotify.com/album/12G34y4Wn7IP64xrQYFrMB) | 4:26 |
 | 56 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 57 | [Flux](https://open.spotify.com/track/4975MKYLdyA753h8tGt1Pb) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 4:25 |
-| 58 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 57 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 58 | [Flux](https://open.spotify.com/track/4975MKYLdyA753h8tGt1Pb) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 4:25 |
 | 59 | [Ciclo del agua](https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:45 |
 | 60 | [G](https://open.spotify.com/track/7aoYhqeYY3svMj6V77Zg9Y) | [Iguana Moonlight](https://open.spotify.com/artist/4nzxzYUyLUfWstdyBS5Hzx) | [Jaguar](https://open.spotify.com/album/3jSsWkEw99Vi36G1GFezGv) | 5:00 |
 | 61 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [Hum](https://open.spotify.com/track/1EoNcqSjklMV54lit84QJJ) | [Holographic Field](https://open.spotify.com/artist/3Cv5jiNHUHUvWwdmclhgOe) | [Hum](https://open.spotify.com/album/3gvlvki92U5vjWBWDXuPxm) | 7:44 |
 | 75 | [This Causes Consciousness to Fracture](https://open.spotify.com/track/21L7J4iZDUIo5ZfigixcaH) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 14:45 |
 
-Snapshot ID: `MTY0Nzk5NzE4NiwwMDAwMDAwMDExYjk5NTQ2YzU1MGFjNWMzYWU1NWY3ZWMyZmJlMjA2`
+Snapshot ID: `MTY0ODA4MzMxMSwwMDAwMDAwMGYxOGFmZmQ3NTlkZjJiNzRlZTc2Y2JiZGQ3NDQ3NjEy`

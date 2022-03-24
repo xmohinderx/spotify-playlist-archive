@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Novedades del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,483 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,488 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 43 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 |
 | 44 | [Pasarela](https://open.spotify.com/track/4nWQcZu84VTHqWJBac6KMI) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Pasarela](https://open.spotify.com/album/7LlkJqeKRlr3rALJN4mCYB) | 3:51 |
 | 45 | [Tu y Yo](https://open.spotify.com/track/06hD30iJU6ZumfH0k4YyIi) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Tu y Yo](https://open.spotify.com/album/1iftc4u0mOHPH5cdkZb9eO) | 4:32 |
-| 46 | [Dime Que Me Amas](https://open.spotify.com/track/2SEypzXYAHVxK31W7QhOZI) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/5H96OR41CZ6eqodDCTFqNV) | 2:38 |
-| 47 | [Para Mi Viejo](https://open.spotify.com/track/1XLBz0hJhf7lDG6pFGDwt9) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Para Mi Viejo](https://open.spotify.com/album/3HhN9SDOMxvTRGp82PAIK0) | 3:49 |
-| 48 | [No Necesito](https://open.spotify.com/track/2JF8yg6KMD8CXmYRThVFPH) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:05 |
-| 49 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 |
-| 50 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 |
+| 46 | [Para Mi Viejo](https://open.spotify.com/track/1XLBz0hJhf7lDG6pFGDwt9) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Para Mi Viejo](https://open.spotify.com/album/3HhN9SDOMxvTRGp82PAIK0) | 3:49 |
+| 47 | [No Necesito](https://open.spotify.com/track/2JF8yg6KMD8CXmYRThVFPH) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:05 |
+| 48 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 |
+| 49 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 |
+| 50 | [Dime Que Me Amas](https://open.spotify.com/track/2SEypzXYAHVxK31W7QhOZI) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/5H96OR41CZ6eqodDCTFqNV) | 2:38 |
 | 51 | [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 |
 | 52 | [Se Va a Beber](https://open.spotify.com/track/7nthB8BE4K8aTYJcw1M1iV) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Se Va a Beber](https://open.spotify.com/album/5aZmDgnv8aUx5B2Ir7VYYT) | 3:39 |
 | 53 | [La Otra / Mi Forma de Ser \(Medley\)](https://open.spotify.com/track/1Rrd1LflwcO1vbDq7CRAmA) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [On Fire](https://open.spotify.com/album/6YNKw4ToWPZYy1AFzaCIBP) | 6:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 79 | [Tan Bonita Pero Tan Mala](https://open.spotify.com/track/2aHmvCzSXQufbPovXdnVFt) | [Max Cortés](https://open.spotify.com/artist/7iMqYM5dnlCfhcklOAb9qX) | [Tan Bonita Pero Tan Mala](https://open.spotify.com/album/0pEG5qV58gXVwi65yEsIZZ) | 3:59 |
 | 80 | [Por Qué](https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:22 |
 
-Snapshot ID: `MTY0Nzk5NzA0NCwwMDAwMDAwMGMxNWFkNThlOTUzMWY2ZDM0MGNlM2FiMTk2NTdjZjIw`
+Snapshot ID: `MTY0ODA4MzE2OCwwMDAwMDAwMGE3MDc5YzljY2M5MWIzMDBjNTVhNzJhMmZlZmIyYmNj`

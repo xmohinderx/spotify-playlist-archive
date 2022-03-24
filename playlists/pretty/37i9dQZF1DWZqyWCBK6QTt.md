@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,415 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,455 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [What's Going On \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/5CPWcXuqQ2QSXJmc1sT19u) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/0zWW54V3be9Nv7VvmmmYL2) | 3:51 |
 | 150 | [00000 Million \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Spotify Singles](https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli) | 2:50 |
 
-Snapshot ID: `MTY0Nzk5NzAzNiwwMDAwMDAwMGIwOTdkODkyN2E3Yjk2NDFhNTAwMTg0ZTRiNTRhZGU5`
+Snapshot ID: `MTY0ODA4MzE1OSwwMDAwMDAwMGIwOTdkODkyN2E3Yjk2NDFhNTAwMTg0ZTRiNTRhZGU5`

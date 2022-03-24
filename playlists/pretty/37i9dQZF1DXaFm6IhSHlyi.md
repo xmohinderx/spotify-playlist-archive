@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR?si=N0egSx\-tQT6tflfVl3Er1A">Lana Lubany</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,218 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,274 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,19 +49,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 39 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
 | 40 | [Can We Kiss Forever?](https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS) | 3:07 |
 | 41 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
-| 42 | [It Scares Me to Death](https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:32 |
-| 43 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
+| 42 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
+| 43 | [It Scares Me to Death](https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:32 |
 | 44 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
 | 45 | [Black](https://open.spotify.com/track/7gXjbG3rJerOKKy7xhGuc7) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 4:31 |
 | 46 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 |
 | 47 | [1000 REASONS](https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [1000 REASONS](https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo) | 3:38 |
 | 48 | [tere bina \- Acoustic](https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [tere bina \(Acoustic\)](https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW) | 2:12 |
-| 49 | [Mala](https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Mala](https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7) | 2:54 |
-| 50 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
-| 51 | [Bad Dreams \- Stripped](https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Bad Dreams \(Stripped\)](https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P) | 2:51 |
-| 52 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 |
-| 53 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
-| 54 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 |
+| 49 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 |
+| 50 | [Mala](https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Mala](https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7) | 2:54 |
+| 51 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
+| 52 | [Bad Dreams \- Stripped](https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Bad Dreams \(Stripped\)](https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P) | 2:51 |
+| 53 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 |
+| 54 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
 | 55 | [Sick](https://open.spotify.com/track/5iPUaIFK1NW6gzPxxm32Ds) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [Sick](https://open.spotify.com/album/6TTWmDPxy1IDIl6MB1ENOY) | 3:59 |
 | 56 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 |
 | 57 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [The Book of Love](https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe Version\)](https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn) | 2:58 |
 | 150 | [Tutto questo sei tu](https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Tutto questo sei tu](https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB) | 4:04 |
 
-Snapshot ID: `MTY0Nzk5NzM2NiwwMDAwMDAwMDUyMDI1MjFmOTk1Zjk5ZmJlMmIwOGUxZDdiNjMxYTgz`
+Snapshot ID: `MTY0ODA4MzQ5NCwwMDAwMDAwMDg2NmU4ZTM5NzdjMjYxYzFhNDNhYjI2ZGMzN2U0ZDVm`

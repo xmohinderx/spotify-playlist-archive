@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Behind the Clouds",
       "url": "https://open.spotify.com/track/6l8mSWXw3Jy7TvM0r8W6LR"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 200922,
       "name": "dropout",
       "url": "https://open.spotify.com/track/6BI0Na9AtisZ3PpkPqEeXk"
@@ -3363,7 +3363,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 255329,
       "name": "the bottom of the well",
       "url": "https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi"
@@ -3411,6 +3411,24 @@
       "duration_ms": 131586,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
+    },
+    {
+      "album": {
+        "name": "The Peak of My Existence",
+        "url": "https://open.spotify.com/album/7pJL0AQYy9ceXjDtaF2JPk"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352340,
+      "name": "The Peak of My Existence",
+      "url": "https://open.spotify.com/track/1shhCs4jt261mJ5JEIwB6Y"
     },
     {
       "album": {

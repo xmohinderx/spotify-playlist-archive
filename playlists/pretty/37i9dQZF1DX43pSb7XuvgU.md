@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,601 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,709 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 9 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 10 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
 | 11 | [Insensible](https://open.spotify.com/track/12Z6WbrPi4RM6lF5ssEvVU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 2:47 |
-| 12 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/5r2BZAr0eblp9p7SboOt3s) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Duetos, Mis Amigos, Mis Canciones](https://open.spotify.com/album/6y32AnLnhc4u6Xpm3H7uDd) | 3:43 |
-| 13 | [Eso Nomás](https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil) | 4:19 |
+| 12 | [Eso Nomás](https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil) | 4:19 |
+| 13 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/5r2BZAr0eblp9p7SboOt3s) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Duetos, Mis Amigos, Mis Canciones](https://open.spotify.com/album/6y32AnLnhc4u6Xpm3H7uDd) | 3:43 |
 | 14 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 |
 | 15 | [Yo Te Recuerdo \- Version Salsa](https://open.spotify.com/track/4rJ0gZnmLl9CxWqRKz7S0E) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 3:34 |
 | 16 | [Gotas de Fuego](https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:50 |
 | 17 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
 | 18 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 |
-| 19 | [Te Lo Pido por Favor](https://open.spotify.com/track/5oHzPMj9BR8eRJ2TV2FnkC) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 3:40 |
-| 20 | [Fue un Placer Conocerte \(En Vivo\) \- Desde el Auditorio Nacional](https://open.spotify.com/track/70dimICYQOFTG9tepBWBCR) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 3:10 |
+| 19 | [Fue un Placer Conocerte \(En Vivo\) \- Desde el Auditorio Nacional](https://open.spotify.com/track/70dimICYQOFTG9tepBWBCR) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 3:10 |
+| 20 | [Te Lo Pido por Favor](https://open.spotify.com/track/5oHzPMj9BR8eRJ2TV2FnkC) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mi Historia Musical \- Juan Gabriel](https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe) | 3:40 |
 | 21 | [Mujeriego](https://open.spotify.com/track/2djCa914hXJtSJPxN3ziCX) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mujeriego](https://open.spotify.com/album/4YHcmItN6rTUvpqee34QxL) | 3:48 |
 | 22 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 23 | [Mi Vida](https://open.spotify.com/track/5R7C9FzhN3l7T01xASxcQ4) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Mi Vida](https://open.spotify.com/album/1HuSZHj0dzSOaqNQbyv9R2) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [El Amor Acaba \- Revisitado](https://open.spotify.com/track/6anqUM48ATNGIKMDi7lyyf) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Amor Acaba \(Revisitado\)](https://open.spotify.com/album/6szyEthvepQ6WGIwVVhspT) | 4:28 |
 | 100 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
 
-Snapshot ID: `MTY0Nzk5NzE2OSwwMDAwMDAwMGM1YmQyMjQwOGVmZGQ2N2U1ODdjODVhOWViNzcwNzcz`
+Snapshot ID: `MTY0ODA4MzI5NCwwMDAwMDAwMGEzYzgyODk3NWNiZjg2YWYxMWUyMjU4MzQzNDFkZDFi`

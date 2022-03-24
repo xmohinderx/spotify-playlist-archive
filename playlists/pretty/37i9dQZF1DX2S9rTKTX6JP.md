@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: AWOLNATION, Brandon Boyd, Portugal\. The Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,399 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,502 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 45 | [Land of Confusion](https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:47 |
 | 46 | [Heroes](https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N), [The Circle](https://open.spotify.com/artist/3AltEY6Hu4mXfegvDuDtqI) | [Heroes](https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p) | 3:07 |
 | 47 | [Yellow \- Torch Songs](https://open.spotify.com/track/2b5OTshtoFvtctAsKJOwyw) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Yellow \(Torch Songs\)](https://open.spotify.com/album/27ENhkMbawDNqLdLNeN5vC) | 4:27 |
-| 48 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
-| 49 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
+| 48 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
+| 49 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 50 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 51 | [Enter Sandman](https://open.spotify.com/track/5zpubzwKoDQupHOCI6kgMf) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 4:22 |
 | 52 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 53 | [If I Ever Lose My Faith in You](https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [If I Ever Lose My Faith in You](https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g) | 4:34 |
-| 54 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 |
+| 53 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 |
+| 54 | [If I Ever Lose My Faith in You](https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [If I Ever Lose My Faith in You](https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g) | 4:34 |
 | 55 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 |
 | 56 | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/track/5ncrAJweQsGKQWOhf2isOK) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/2nTs39rXgArWOd9Z8Pcc4t) | 4:07 |
 | 57 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 |
 | 100 | [Blank Generation \- Studio Version \- Recorded at Electric Lady Studios](https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Live At Electric Lady](https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ) | 3:53 |
 
-Snapshot ID: `MTY0Nzk5NzEyMSwwMDAwMDAwMDUwNDM2ZGNmZWUxYTc0YjUxMjQ2MjM2Y2IzYTVhNGQ3`
+Snapshot ID: `MTY0ODA4MzI0NywwMDAwMDAwMGMzODhiZjFhM2U5ZmY1Y2ZlMmNiZDc5M2VhY2E2MzAw`

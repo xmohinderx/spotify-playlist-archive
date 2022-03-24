@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,832 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,015 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 13 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
 | 14 | [the angel of 8th ave.](https://open.spotify.com/track/1ZBAWvkQlpd87kCfHopEH4) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/128oVGwfkxHAthA6WTW4Hl) | 3:58 |
 | 15 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
-| 16 | [Not Your Summer](https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Community Spirit](https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe) | 3:44 |
-| 17 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
-| 18 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 |
-| 19 | [Peach](https://open.spotify.com/track/7paJq7qC0xBrgoHV887VEG) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp) | 3:32 |
-| 20 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
+| 16 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
+| 17 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 |
+| 18 | [Not Your Summer](https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Community Spirit](https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe) | 3:44 |
+| 19 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
+| 20 | [Peach](https://open.spotify.com/track/7paJq7qC0xBrgoHV887VEG) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp) | 3:32 |
 | 21 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 |
 | 22 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
 | 23 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 33 | [Okay](https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Okay](https://open.spotify.com/album/4zuOje7GYsDwFL3ZkAxJ4W) | 2:03 |
 | 34 | [Your Girlfriend](https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Foolish Loving Spaces \(Deluxe Edition\)](https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru) | 2:41 |
 | 35 | [Sympathetic Vibrations](https://open.spotify.com/track/0y8HL66eDhCCT7dLCHoHZd) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Escaping from a Violent Time, Vol\. 1](https://open.spotify.com/album/2RSxh9GKlkFEAJUL8igKa4) | 3:36 |
-| 36 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 |
-| 37 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 |
-| 38 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
-| 39 | [Dayglow](https://open.spotify.com/track/6Mi8q6mFuC2U5pPBNYGyOv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Dayglow](https://open.spotify.com/album/5Xr2av8BUCDDdvhaJ0Mm0n) | 2:57 |
-| 40 | [Oh My Love](https://open.spotify.com/track/1QhgiugfuhT7f515ETBqCm) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Oh My Love](https://open.spotify.com/album/53HvPUAiz9koVujf0YIwud) | 2:20 |
+| 36 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 |
+| 37 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
+| 38 | [Dayglow](https://open.spotify.com/track/6Mi8q6mFuC2U5pPBNYGyOv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Dayglow](https://open.spotify.com/album/5Xr2av8BUCDDdvhaJ0Mm0n) | 2:57 |
+| 39 | [Oh My Love](https://open.spotify.com/track/1QhgiugfuhT7f515ETBqCm) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Oh My Love](https://open.spotify.com/album/53HvPUAiz9koVujf0YIwud) | 2:20 |
+| 40 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 |
 | 41 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 |
 | 42 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 43 | [Take Back The Track](https://open.spotify.com/track/1oUnzYmReVbOPaFK7e06fk) | [The Magic Gang](https://open.spotify.com/artist/52pNByiBWx6SVMMqqcCA74) | [Take Back The Track](https://open.spotify.com/album/1omzsIGc6EJzxYifCYwgDi) | 3:28 |
 | 44 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 |
 | 45 | [Automatic](https://open.spotify.com/track/3cAZ0A6Mmwcowrnu8r7b7o) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Automatic](https://open.spotify.com/album/6Z5o62tAOsM7gIeMVhm0WC) | 2:55 |
-| 46 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 |
-| 47 | [Kids \(Don’t End Up Like Me\)](https://open.spotify.com/track/6bcm4WKb0SlHqssKZyoGrB) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Kids \(Don’t End Up Like Me\)](https://open.spotify.com/album/47RlVIsoWC6hL0N1nYiNUw) | 3:21 |
-| 48 | [Sick](https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Sick](https://open.spotify.com/album/5l0kOd4WdDI44FLnEgpBkC) | 3:17 |
+| 46 | [Kids \(Don’t End Up Like Me\)](https://open.spotify.com/track/6bcm4WKb0SlHqssKZyoGrB) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Kids \(Don’t End Up Like Me\)](https://open.spotify.com/album/47RlVIsoWC6hL0N1nYiNUw) | 3:21 |
+| 47 | [Sick](https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Sick](https://open.spotify.com/album/5l0kOd4WdDI44FLnEgpBkC) | 3:17 |
+| 48 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 |
 | 49 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
 | 50 | [Patio](https://open.spotify.com/track/4g3WTTn3b4SH7euXZXBElU) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [Patio](https://open.spotify.com/album/3ofIUN12C1UIv5WxPskA6t) | 3:10 |
 | 51 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 70 | [What You Want](https://open.spotify.com/track/6GY5yMRXIN3tkXgnjbXOWH) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [What You Want](https://open.spotify.com/album/3p5IopEM2vh7z8nZNED2lz) | 3:21 |
 | 71 | [Draw Down the Moon](https://open.spotify.com/track/3dfR4iZwOxuYldXTjzBykP) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/0BY19FXSzQ2HwgRlE7FDg0) | 4:21 |
 | 72 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
-| 73 | [Start Again](https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Start Again](https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA) | 2:57 |
-| 74 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 |
-| 75 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 76 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 |
-| 77 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
+| 73 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 |
+| 74 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 75 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 |
+| 76 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
+| 77 | [Start Again](https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Start Again](https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA) | 2:57 |
 | 78 | [Riding a Wave](https://open.spotify.com/track/7rDGQlhnLN8JTBuHDsue6i) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Riding a Wave](https://open.spotify.com/album/0TvYM5hCEQXANviZOKssIz) | 2:44 |
 | 79 | [Yeah!](https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Yeah!](https://open.spotify.com/album/0Ja4rfpa2qWvijmcTuAk2y) | 2:48 |
 | 80 | [Sending Me Ur Loving](https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Sending Me Ur Loving](https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1) | 4:13 |
 
-Snapshot ID: `MTY0Nzk5NjkxOCwwMDAwMDAwMGQxMzY3NmI1YTYzZDA2MjIzMzE5OGViM2I4YTAyMDM2`
+Snapshot ID: `MTY0ODA4MzAzNiwwMDAwMDAwMGUxMjMyOTM0Yzk1ZGVhN2IzYjRiZGQ3MzVmYjJlZTYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,613 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,617 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 39 | [Next to You](https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next to You](https://open.spotify.com/album/1TdEFwpJ5LAmfdFNSjdok3) | 3:52 |
 | 40 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 41 | [The Limit](https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [The Limit](https://open.spotify.com/album/4qrRtK8B87gcp9S4aWZwPt) | 5:21 |
-| 42 | [Deadline](https://open.spotify.com/track/1aUOZefupdIGf4ohZayFbO) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deadline](https://open.spotify.com/album/2qaw9qJCDhB7zddI7rXLcq) | 3:38 |
-| 43 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
+| 42 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
+| 43 | [Deadline](https://open.spotify.com/track/1aUOZefupdIGf4ohZayFbO) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deadline](https://open.spotify.com/album/2qaw9qJCDhB7zddI7rXLcq) | 3:38 |
 | 44 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 |
 | 45 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 |
 | 46 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 84 | [Difficult](https://open.spotify.com/track/6TV5YIX27b0ewliqXo5gWx) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:56 |
 | 85 | [Daddy](https://open.spotify.com/track/750nf0mcnSAuL3FV8IG93o) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/4l1MLKyDun3edi5lrDwtZG) | 2:50 |
 | 86 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 |
-| 87 | [Get Precious](https://open.spotify.com/track/4xsjelvEjWH5nb2rk9PRKa) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Get Precious](https://open.spotify.com/album/1Yxd6VqgDQvLBKYn87PF7V) | 3:33 |
-| 88 | [Fade Away](https://open.spotify.com/track/31bXHF3fVn03w6NmtmYsYA) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Fade Away](https://open.spotify.com/album/5zpLCZ2fiRscmKQ0inrp5g) | 3:30 |
-| 89 | [Flesh and Blood](https://open.spotify.com/track/2KTJVSyWl3HzUnKFDHJm2S) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Flesh and Blood](https://open.spotify.com/album/21A1mTXZv6KgP7ar2RX4NQ) | 4:57 |
-| 90 | [Feel You](https://open.spotify.com/track/7q2XN4LJ80HgdbUac3aRi8) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/2REQNxpDxpwIUU7hxoZEsQ) | 6:13 |
-| 91 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 |
+| 87 | [Fade Away](https://open.spotify.com/track/31bXHF3fVn03w6NmtmYsYA) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Fade Away](https://open.spotify.com/album/5zpLCZ2fiRscmKQ0inrp5g) | 3:30 |
+| 88 | [Flesh and Blood](https://open.spotify.com/track/2KTJVSyWl3HzUnKFDHJm2S) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Flesh and Blood](https://open.spotify.com/album/21A1mTXZv6KgP7ar2RX4NQ) | 4:57 |
+| 89 | [Feel You](https://open.spotify.com/track/7q2XN4LJ80HgdbUac3aRi8) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/2REQNxpDxpwIUU7hxoZEsQ) | 6:13 |
+| 90 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 |
+| 91 | [Get Precious](https://open.spotify.com/track/4xsjelvEjWH5nb2rk9PRKa) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Get Precious](https://open.spotify.com/album/1Yxd6VqgDQvLBKYn87PF7V) | 3:33 |
 | 92 | [Arm's Length](https://open.spotify.com/track/4UaRFwdpv9JFBxOvW6Xr11) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Arm's Length](https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs) | 4:11 |
 | 93 | [C'est tout](https://open.spotify.com/track/4GJE2R4A0VGUQjndarcFuq) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Grouillades](https://open.spotify.com/album/4v00M4ceOB1ZNO6Hq3xcty) | 2:37 |
 | 94 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/31qXplFmLu7xuTfvBEgDij) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Find My Way \(feat\. Beck\)](https://open.spotify.com/album/2XxT1xJT1xrDUdHm9xC0dx) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Love That Boy](https://open.spotify.com/track/7orA2rOxOj9yDHxqe1HQxR) | [Plants and Animals](https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c) | [The Jungle](https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx) | 3:44 |
 | 100 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
 
-Snapshot ID: `MTY0Nzk5NzQzMCwwMDAwMDAwMDc1MjdmNjhiODUyZGQ0NGVjYWI0OTU2ZGMyMzI0MDhm`
+Snapshot ID: `MTY0ODA4MzU2MCwwMDAwMDAwMDEyZDg1ODNhNTY0Yzg3M2M4Mzk4YzI1YmNlYzc0YmUx`

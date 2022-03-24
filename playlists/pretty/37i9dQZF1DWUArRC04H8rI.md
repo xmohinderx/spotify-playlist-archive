@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: Sofia Delfino
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,023 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,049 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 46 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 47 | [Fuck It!](https://open.spotify.com/track/3uyUgtEuTCL9T9ib1iPshk) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Fuck It!](https://open.spotify.com/album/6pmjmjsk2ke2r7exWdAcnn) | 2:14 |
 | 48 | [Bailamos](https://open.spotify.com/track/1fwJxWnjiNefiUzePmehIi) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Bailamos](https://open.spotify.com/album/3sEZGPKPOMtlyFTqWu8KCj) | 2:39 |
-| 49 | [no eres tu soy yo](https://open.spotify.com/track/0IvlHe6K0YCAtOMSEpZ9FB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Alan Matheus](https://open.spotify.com/artist/0YFYRpgJX7gM7elqpovTW9) | [no eres tu soy yo](https://open.spotify.com/album/4S9DBKH30bRTRi9gG9Y1Ab) | 2:34 |
-| 50 | [BOY BYE](https://open.spotify.com/track/1rskNLiG7qPmvaJWnQ6Ijw) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [BOY BYE](https://open.spotify.com/album/7DoGqiWF84pl0Rh4xUGOC7) | 3:08 |
+| 49 | [BOY BYE](https://open.spotify.com/track/1rskNLiG7qPmvaJWnQ6Ijw) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [BOY BYE](https://open.spotify.com/album/7DoGqiWF84pl0Rh4xUGOC7) | 3:08 |
+| 50 | [no eres tu soy yo](https://open.spotify.com/track/0IvlHe6K0YCAtOMSEpZ9FB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Alan Matheus](https://open.spotify.com/artist/0YFYRpgJX7gM7elqpovTW9) | [no eres tu soy yo](https://open.spotify.com/album/4S9DBKH30bRTRi9gG9Y1Ab) | 2:34 |
 | 51 | [Químico](https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Químico](https://open.spotify.com/album/5Rf4NA823SjUQRrmGcFmaZ) | 3:19 |
 | 52 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 |
 | 53 | [Perder el Control](https://open.spotify.com/track/6gbFfMS5FgNMn5pix083wh) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Piek](https://open.spotify.com/artist/43nO5CZZAubCVReVSXGR13) | [Deseo](https://open.spotify.com/album/4HxKCcnwWiyzRAvXUaen2h) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Feelings](https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Feelings](https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv) | 3:02 |
 | 60 | [ascensor](https://open.spotify.com/track/0wcDnGqnDotHBxntD9A2uf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ascensor](https://open.spotify.com/album/1aeJpuLkIW1IeNqY1PBqZR) | 2:59 |
 
-Snapshot ID: `MTY0Nzk5Njg2NywwMDAwMDAwMDBkZGNjMTA5N2M0NzFlYTRmMDEyNzA2MjQ2ZGI0Yzc3`
+Snapshot ID: `MTY0ODA4Mjk4MywwMDAwMDAwMGFiZWViMzljYTc5NTViY2I4NTI4ZTQ4MGExMDkzYWVm`

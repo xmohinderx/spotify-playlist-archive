@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,181 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,733 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [OMW](https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [OMW](https://open.spotify.com/album/1GxmqRRHpfU87ijFpDmLvh) | 3:17 |
 | 50 | [Situations](https://open.spotify.com/track/0w9PgFcTJOlUiadfPVefxs) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [MOVIE](https://open.spotify.com/album/4ol1XZYOffyV3VAbOArlCw) | 3:45 |
 
-Snapshot ID: `MTY0Nzk5NzA1NywwMDAwMDAwMDg0ODVkMTNhZWJlMTUwMGUxYzQzOGQyYmNlOTlkZDFl`
+Snapshot ID: `MTY0ODA4MzE4MiwwMDAwMDAwMDg0ODVkMTNhZWJlMTUwMGUxYzQzOGQyYmNlOTlkZDFl`

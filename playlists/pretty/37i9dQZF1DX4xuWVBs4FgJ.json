@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1390504,
+  "num_followers": 1390610,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzIwMSwwMDAwMDAwMGNmMzZiOWVmYzRiYTU4NTlhNTZlZTQ2YTFiYmIxMTgy",
+  "snapshot_id": "MTY0ODA4MzMyNSwwMDAwMDAwMGY1Mjg3MjFlMDk0NzdiYzJjNzcxMjI2YTY2OTZjNDEx",
   "tracks": [
     {
       "added_at": "2021-06-22 07:40:49",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Come Home To Me",
-      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
         "url": "https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 238639,
       "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
       "url": "https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Come Home To Me",
+      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/1c1hJ610qZdUBs0eSavbB4"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/67H8U1DqJMTv9vCg7P95uR"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 288731,
       "name": "Bigger Heart (Acoustic)",
       "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/1c1hJ610qZdUBs0eSavbB4"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/67H8U1DqJMTv9vCg7P95uR"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
+        "name": "What A Day",
+        "url": "https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "What A Day",
+      "url": "https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 147946,
       "name": "All Love Everything",
       "url": "https://open.spotify.com/track/7g5bq2JSKV0eNKTFluoQNt"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
-        "name": "What A Day",
-        "url": "https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "What A Day",
-      "url": "https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH"
     },
     {
       "added_at": "2021-06-22 07:40:49",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-22 07:40:49",
       "album": {
-        "name": "I Believe in Us",
-        "url": "https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "I Believe in Us",
-      "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
-    },
-    {
-      "added_at": "2021-06-22 07:40:49",
-      "album": {
         "name": "Amidst the Chaos",
         "url": "https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/1kjrgWG47wJgVqvQOvyb7C"
+    },
+    {
+      "added_at": "2021-06-22 07:40:49",
+      "album": {
+        "name": "I Believe in Us",
+        "url": "https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "I Believe in Us",
+      "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
     },
     {
       "added_at": "2021-06-22 07:40:49",

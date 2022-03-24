@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Bad Tattoo",
+        "url": "https://open.spotify.com/album/0QZiZ4kkbKGIQBt1sFnrRU"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212503,
+      "name": "Bad Tattoo",
+      "url": "https://open.spotify.com/track/1LMJqH5xAtsgzGnjpRJAPf"
+    },
+    {
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 123949,
       "name": "don't miss me",
       "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
@@ -1438,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Gibson Girl",
+        "url": "https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342099,
+      "name": "Gibson Girl",
+      "url": "https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ"
+    },
+    {
+      "album": {
         "name": "Give You Everything",
         "url": "https://open.spotify.com/album/7Kun6EouwhyDRRTku3xGgi"
       },
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 167722,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh"
@@ -3315,7 +3351,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 236261,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2"
@@ -4285,6 +4321,28 @@
       "duration_ms": 256620,
       "name": "Touch Back Down",
       "url": "https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V"
+    },
+    {
+      "album": {
+        "name": "Troubles [Feat. T-Pain]",
+        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Troubles [Feat. T-Pain]",
+      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,125 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,157 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Chains](https://open.spotify.com/track/2z89w2POOafemX8yVmaA21) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn), [Ron Wilson](https://open.spotify.com/artist/4kVhiLOxWz73xXtBJcZ069) | [Vault Sessions 1](https://open.spotify.com/album/6HZl2GQr43KvIDKrrk6NBE) | 6:18 |
 | 50 | [Soul Shoes \- Edit](https://open.spotify.com/track/58cSF5Hp2cib67QVwExSbu) | [Vincent Caira](https://open.spotify.com/artist/7k7rFBWrEfJJWjDubjkRNw) | [Soul Shoes](https://open.spotify.com/album/6NQqSfD1zmuzzk9pH2HbS6) | 4:08 |
 
-Snapshot ID: `MTY0Nzk5NzIwNiwwMDAwMDAwMDFkYzM2NWJlZjAyNTM3MDFjNTU5MjJhMjk3MjI1NGEx`
+Snapshot ID: `MTY0ODA4MzMzMCwwMDAwMDAwMDFkYzM2NWJlZjAyNTM3MDFjNTU5MjJhMjk3MjI1NGEx`

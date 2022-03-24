@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jacklyn",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Debbie Debonaire",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -59,6 +59,42 @@
       "duration_ms": 230000,
       "name": "2 high 2 cry",
       "url": "https://open.spotify.com/track/41xFGToa6BtRrh8vg01XLS"
+    },
+    {
+      "album": {
+        "name": "314",
+        "url": "https://open.spotify.com/album/1bWDHlaZGX5F7qprl2noDg"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "314",
+      "url": "https://open.spotify.com/track/3tpn5K8b7LMSPunlF4NR3V"
+    },
+    {
+      "album": {
+        "name": "5683",
+        "url": "https://open.spotify.com/album/6ANMAvzqKaD6iOuLhuWJoL"
+      },
+      "artists": [
+        {
+          "name": "Kemi Ade",
+          "url": "https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193818,
+      "name": "5683",
+      "url": "https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq"
     },
     {
       "album": {
@@ -538,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Blooming",
+        "url": "https://open.spotify.com/album/161LWOFteLoBDzzNqq03AI"
+      },
+      "artists": [
+        {
+          "name": "Raheem Bakare",
+          "url": "https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/06RnC0JLSzmDyR7uww6DTG"
+    },
+    {
+      "album": {
         "name": "blue peter",
         "url": "https://open.spotify.com/album/3OCX6sUSr8x6t8kOjTFvNa"
       },
@@ -607,6 +661,24 @@
       "duration_ms": 196500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Tca7XSzaHo2v69VLHFjbM"
+    },
+    {
+      "album": {
+        "name": "Common Wealth",
+        "url": "https://open.spotify.com/album/2jRl59FsHGrtMGtyfodP00"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133554,
+      "name": "Common Wealth",
+      "url": "https://open.spotify.com/track/5S7mN5HEz1IWsNiZ9rv50B"
     },
     {
       "album": {
@@ -924,6 +996,24 @@
     },
     {
       "album": {
+        "name": "eternal",
+        "url": "https://open.spotify.com/album/4yvQhzG9jWblbxClkz1vuS"
+      },
+      "artists": [
+        {
+          "name": "Debbie Debonaire",
+          "url": "https://open.spotify.com/artist/5GjlbUc4GXwle6SF0WrHg6"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "eternal",
+      "url": "https://open.spotify.com/track/3ZZ8gLCf740Hns3ZeQ4dNV"
+    },
+    {
+      "album": {
         "name": "everything looks darker now",
         "url": "https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc"
       },
@@ -1163,6 +1253,28 @@
       "duration_ms": 206500,
       "name": "Get Like This",
       "url": "https://open.spotify.com/track/6fHER01tPJ8haziKUojE4C"
+    },
+    {
+      "album": {
+        "name": "Ghost Mode",
+        "url": "https://open.spotify.com/album/1q3QZ0LQsoFion1XOa1jCA"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "Ghost Mode",
+      "url": "https://open.spotify.com/track/0ySOIxE6MgF1204gdTScV3"
     },
     {
       "album": {
@@ -1765,7 +1877,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 206617,
       "name": "I'm not looking for a friend",
       "url": "https://open.spotify.com/track/3Wc1E2zg5JYSKEPPpek6p2"
@@ -2171,7 +2283,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 151185,
       "name": "Love Me No One Else",
       "url": "https://open.spotify.com/track/1Ii2Axxjdjn73lvLuqND0t"
@@ -2189,7 +2301,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 151110,
       "name": "LS6",
       "url": "https://open.spotify.com/track/0km9KTXFmx9tXNkyRnk0t2"
@@ -2594,6 +2706,24 @@
     },
     {
       "album": {
+        "name": "NEW DREAM",
+        "url": "https://open.spotify.com/album/0cRB7PNPx4kEPkq4QMGiYJ"
+      },
+      "artists": [
+        {
+          "name": "V.RI",
+          "url": "https://open.spotify.com/artist/0S4IQu9l1tbbntMQGfwDjA"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "NEW DREAM",
+      "url": "https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu"
+    },
+    {
+      "album": {
         "name": "NICE GUY",
         "url": "https://open.spotify.com/album/0mtx9dGXwuHypJUDk8g7wU"
       },
@@ -2695,10 +2825,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 179277,
       "name": "No Sleep.",
       "url": "https://open.spotify.com/track/5OQKxn1x3NsafzId9kOtkE"
+    },
+    {
+      "album": {
+        "name": "Not a Vibe",
+        "url": "https://open.spotify.com/album/4aY3IeMsbi1J2Q349VRHBE"
+      },
+      "artists": [
+        {
+          "name": "it's just Cat",
+          "url": "https://open.spotify.com/artist/7vq7I1JhmEPWA6Lr9pU6d9"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157818,
+      "name": "Not a Vibe",
+      "url": "https://open.spotify.com/track/5shCS2mZchvAFWYBKNgi4D"
     },
     {
       "album": {
@@ -2800,6 +2948,24 @@
     },
     {
       "album": {
+        "name": "Out The Box",
+        "url": "https://open.spotify.com/album/0fKTLodsy7ZxNNk58X8e0a"
+      },
+      "artists": [
+        {
+          "name": "JM7",
+          "url": "https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154772,
+      "name": "Out The Box",
+      "url": "https://open.spotify.com/track/2R4fmNfm9FnUKCc2kUUJYu"
+    },
+    {
+      "album": {
         "name": "Glory Days Deluxe Mixtape",
         "url": "https://open.spotify.com/album/7zgEcp2PvFgpyuiPaDda8J"
       },
@@ -2887,10 +3053,28 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 214868,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/482PWIMxaww2mR8Yq4P5Hv"
+    },
+    {
+      "album": {
+        "name": "pause,",
+        "url": "https://open.spotify.com/album/35Vi0tfG91rhou3I3vHtPE"
+      },
+      "artists": [
+        {
+          "name": "2b.Frank",
+          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137916,
+      "name": "pause,",
+      "url": "https://open.spotify.com/track/0UwDa1tJUHtUjN8HdgI2r3"
     },
     {
       "album": {
@@ -2923,7 +3107,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 123715,
       "name": "peakdistrict",
       "url": "https://open.spotify.com/track/3ual6nHhNYc75u8p62BNAK"
@@ -3179,7 +3363,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 188666,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4gNZbJwt2oJ08xoHVSZfm9"
@@ -3295,6 +3479,24 @@
       "duration_ms": 178766,
       "name": "Sefton in the Summertime",
       "url": "https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn"
+    },
+    {
+      "album": {
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/1ukWs5qkKzIcYUiOUDNgmN"
+      },
+      "artists": [
+        {
+          "name": "Lua.",
+          "url": "https://open.spotify.com/artist/6mmawxELp9o7kFYDPL5NeK"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166562,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/5UldDT6jv6i7AwMZ4IZrZ5"
     },
     {
       "album": {
@@ -3613,7 +3815,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 190750,
       "name": "STERLING",
       "url": "https://open.spotify.com/track/3iDOaf2y140vraQVpyIZOA"
@@ -3649,7 +3851,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 221789,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/4v1WZvjAic2aDNDfTklLZ8"
@@ -3797,7 +3999,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 218595,
       "name": "The Basics Are Coming Back",
       "url": "https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB"
@@ -3913,7 +4115,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 163688,
       "name": "Twenty-two",
       "url": "https://open.spotify.com/track/0E4XFbSbafR9jnqEImhF0O"
@@ -3996,6 +4198,24 @@
     },
     {
       "album": {
+        "name": "Vitamins",
+        "url": "https://open.spotify.com/album/23BeLPQELGC6Xw3vvmsQsP"
+      },
+      "artists": [
+        {
+          "name": "Causier",
+          "url": "https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Vitamins",
+      "url": "https://open.spotify.com/track/2ttcXPZZwD6Fqsx1Ep91AZ"
+    },
+    {
+      "album": {
         "name": "Want You To Know EP",
         "url": "https://open.spotify.com/album/3TEfMOJw4s49e1ZrGN3uLN"
       },
@@ -4007,7 +4227,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 331551,
       "name": "Want You To Know",
       "url": "https://open.spotify.com/track/34tJ9TMKTojbTwaiDBhtoh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,862 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,132 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 20 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 21 | [Lucky](https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Lucky](https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu) | 2:33 |
 | 22 | [Down the Line](https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Down the Line](https://open.spotify.com/album/2rejwIeesDOudIQpbwDZFM) | 2:38 |
-| 23 | [Peace Blossom Boogy](https://open.spotify.com/track/5qNNanYonpCwahfJGuFVRQ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 3:14 |
-| 24 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 |
-| 25 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 |
+| 23 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 |
+| 24 | [Try Hard Fool](https://open.spotify.com/track/2HMTLM3uA0NsOU1IkNufSj) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Try Hard Fool](https://open.spotify.com/album/7Mpq98LzwU04b1u69x61uf) | 3:10 |
+| 25 | [Peace Blossom Boogy](https://open.spotify.com/track/5qNNanYonpCwahfJGuFVRQ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 3:14 |
 | 26 | [You Make Me Wanna Die](https://open.spotify.com/track/3ymrocM8jJ2czu3JlznNyJ) | [The Shivas](https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9) | [You Know What to Do](https://open.spotify.com/album/1R3j8poukXWe4ipHFkciSt) | 2:50 |
 | 27 | [Country](https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Country](https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro) | 4:00 |
 | 28 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 48 | [Saltwater](https://open.spotify.com/track/1zXpHPdBAUxnOCQqFMFLk3) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Saltwater](https://open.spotify.com/album/0UZ3qmizHl1AqFbCCCtA1N) | 4:07 |
 | 49 | [Petals](https://open.spotify.com/track/21DCAUa5hBGdNhDBSDAuCI) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Petals](https://open.spotify.com/album/3S3BIsaQzGl7WfdV8OZQfh) | 2:54 |
 | 50 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/3h1iu4HvBlLqRuft2kJEcr) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 2:45 |
-| 51 | [One Another](https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 2:46 |
-| 52 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 |
-| 53 | [City Club](https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 3:16 |
-| 54 | [Origins](https://open.spotify.com/track/3UFa8A2LDIh5wlHeETguP4) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Young & Old](https://open.spotify.com/album/0iYMIu3RfxzlhcJ9oK6TvB) | 3:28 |
+| 51 | [Origins](https://open.spotify.com/track/3UFa8A2LDIh5wlHeETguP4) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Young & Old](https://open.spotify.com/album/0iYMIu3RfxzlhcJ9oK6TvB) | 3:28 |
+| 52 | [One Another](https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 2:46 |
+| 53 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 |
+| 54 | [City Club](https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 3:16 |
 | 55 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 |
 | 56 | [Fire Flower](https://open.spotify.com/track/4zSZfVqbXLFFvNfT4RLDlM) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Fire Flower](https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA) | 4:10 |
 | 57 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Warned You](https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/5CsiKKVYjYSu7yQqqxW5Wi) | 2:13 |
 | 80 | [Hey \(feat\. Alfie Templeman\)](https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK) | 3:01 |
 
-Snapshot ID: `MTY0Nzk5NzAxNCwwMDAwMDAwMGExMTYwMTA1OGNjMmNjMmI3YWYzYjYxZjhlYmU1MWMx`
+Snapshot ID: `MTY0ODA4MzEzNSwwMDAwMDAwMDYxNTRkM2Q5MWU1MGRkYjIxNTJmZGIxYThiYjQxZWU0`

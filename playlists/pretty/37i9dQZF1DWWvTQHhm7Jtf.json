@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 2054,
+  "num_followers": 2114,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk1MiwwMDAwMDAwMDI4ZWQ5ZmQ0YTYyY2M2NjQ2NDRjN2UyYzA5N2IwNTJh",
+  "snapshot_id": "MTY0ODA4MzA3MSwwMDAwMDAwMDAyNTNlNjNjZWMzNzVlZDE4MjM5NmZmZTZiZWQxZDc2",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 229861,
-      "name": "Toucan Ocean",
-      "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls"
       },
@@ -1125,6 +1109,22 @@
       "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
+    },
+    {
       "added_at": "2021-11-25 22:14:03",
       "album": {
         "name": "Haut",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2021-11-12 02:58:17",
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi"
       },
       "artists": [
         {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
         }
       ],
-      "duration_ms": 127040,
-      "name": "Caracas Night September 11, 1975",
-      "url": "https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp"
+      "duration_ms": 231760,
+      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
+      "url": "https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO"
     }
   ],
   "unique_name": "Planetary Soul",

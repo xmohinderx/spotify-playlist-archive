@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,519 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,719 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 13 | [Mirror in the Bathroom](https://open.spotify.com/track/2JV6DM5CGcpThMVZtucCqC) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [I Just Can't Stop It \[Deluxe Edition\]](https://open.spotify.com/album/4loqJOnMNURLM7LEpZ57cu) | 3:09 |
 | 14 | [Mad World](https://open.spotify.com/track/0fW13W2PZe6zq87vqUBR66) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3lP0Pu6a0jUWGPM83XYPip) | 3:35 |
 | 15 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
-| 16 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
-| 17 | [Town Called Malice](https://open.spotify.com/track/6sX5sm1wrYYV6ooAirEXAa) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Remastered Version\)](https://open.spotify.com/album/3GrWDe1D3ScuU8Ya90r6VN) | 2:53 |
-| 18 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0egYMfS7hjEneR86a9K61w) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:35 |
+| 16 | [Town Called Malice](https://open.spotify.com/track/6sX5sm1wrYYV6ooAirEXAa) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Remastered Version\)](https://open.spotify.com/album/3GrWDe1D3ScuU8Ya90r6VN) | 2:53 |
+| 17 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0egYMfS7hjEneR86a9K61w) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:35 |
+| 18 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
 | 19 | [Don't Change](https://open.spotify.com/track/3W5V3fnZGcWb1EPSspF7lW) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah \(Remastered\)](https://open.spotify.com/album/3TgBFSeiKspqODV8Ivk6Zl) | 4:28 |
 | 20 | [I Will Follow](https://open.spotify.com/track/4E0LjJ2894jsfvLMQb6Ti7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/3GCEpIo4vFVQx1hO6UHSsY) | 3:38 |
 | 21 | [Ghost Town](https://open.spotify.com/track/2vEUFrRByOKob8yqOd6LuA) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/1BbtfepZFGgd58Ln2Rir8f) | 3:39 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 53 | [The High Road](https://open.spotify.com/track/42qPwHyVPx26gdgXqY2LUE) | [The Feelies](https://open.spotify.com/artist/4UETUdF77BfyJ7fEFVztr3) | [The Good Earth](https://open.spotify.com/album/5pLXMKpukvYhaWW89pT0Kz) | 4:24 |
 | 54 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 |
 | 55 | [I Love a Man In a Uniform](https://open.spotify.com/track/1J29QeogPD0TRdjLfJ7lv0) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:07 |
-| 56 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
-| 57 | [E=MC2](https://open.spotify.com/track/3ZWjCefMm9tfTZL5L3rNqN) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 5:55 |
+| 56 | [E=MC2](https://open.spotify.com/track/3ZWjCefMm9tfTZL5L3rNqN) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 5:55 |
+| 57 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 58 | [The Cutter](https://open.spotify.com/track/5UrmKv9c4nau5uiW9Shz4N) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 3:52 |
 | 59 | [The Chauffeur](https://open.spotify.com/track/3ncm3RlvFkSevHb6sXykl9) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 5:21 |
 | 60 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 80 | [Birth, School, Work, Death](https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:07 |
 
-Snapshot ID: `MTY0Nzk5Njg0NCwwMDAwMDAwMDQ1MjY4Y2YyNzI4ZTFmMjUyMmZkOTk4MzBhNzI2N2M2`
+Snapshot ID: `MTY0ODA4Mjk2MSwwMDAwMDAwMGMxZjU0YTA2NzIwYzZiMzcwNzBhZjVmY2IyMjNlOTJj`

@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1183436,
+  "num_followers": 1183746,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzM5MiwwMDAwMDAwMGIzZGFkZWNlYmY0MmZlYzA4ZjViODgwODVmMjI5OTVm",
+  "snapshot_id": "MTY0ODA4MzUyMCwwMDAwMDAwMDNlZDI0ODEwZDViY2Y0MzFiNDQzOGZiNjcyMDE4YmQx",
   "tracks": [
     {
       "added_at": "2022-02-12 04:59:37",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 240693,
       "name": "Thunder Island",
       "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Chinese Wall (Expanded Edition)",
         "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-02-12 04:59:37",

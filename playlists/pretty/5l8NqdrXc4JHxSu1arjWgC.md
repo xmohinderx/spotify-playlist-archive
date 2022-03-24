@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,474 likes - 633 songs - 1 day 18 hr 33 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,473 likes - 634 songs - 1 day 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 73 | [2000 Light Years From Home \- Stereo / Remastered](https://open.spotify.com/track/4EPtqZQeTpMTAzFey8wCIa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request \(50th Anniversary Special Edition / Remastered\)](https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC) | 4:44 |
 | 74 | [Unglued \- 2019 Remaster](https://open.spotify.com/track/24U1h00cprjT12WiDL1YX8) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 2:34 |
 | 75 | [Walking in My Shoes \- 2006 Remaster](https://open.spotify.com/track/0VokHXtSNOpnlMWDMT9kPD) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Alan Wilder](https://open.spotify.com/artist/2HBRMiRk7dAjCwBlBJmJva), [Steve Lyon](https://open.spotify.com/artist/5f4sO8x6n2ZFqghAOU4nto) | [Songs of Faith and Devotion \(2006 Remaster\)](https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb) | 5:26 |
-| 76 | [Strange Timez \(feat\. Robert Smith\)](https://open.spotify.com/track/3KvnDOxmZNgw3OE0e5ckGQ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [Song Machine Episode 6](https://open.spotify.com/album/5Bwya934UjdQS5XAo32Z1K) | 3:47 |
+| 76 | [Strange Timez \(feat\. Robert Smith\)](https://open.spotify.com/track/3KvnDOxmZNgw3OE0e5ckGQ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [Song Machine Episode 6](https://open.spotify.com/album/5Bwya934UjdQS5XAo32Z1K) | 3:47 |
 | 77 | [Pretty Pink Rose \(Duet with David Bowie\)](https://open.spotify.com/track/06ejjWuJnfvtb71bHlinaM) | [Adrian Belew](https://open.spotify.com/artist/67ACRXvvMXGf3zGJMefM63) | [Young Lions](https://open.spotify.com/album/7L0r2dXQ6EuS2srm199ZcV) | 4:44 |
 | 78 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
 | 79 | [Waiting Room](https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:53 |
@@ -641,5 +641,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 631 | [Wind Of Change](https://open.spotify.com/track/2lCuCNqtqSKMOqED1XXHzm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:52 |
 | 632 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
 | 633 | [In The Fade](https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6) | 3:50 |
+| 634 | [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 |
 
-Snapshot ID: `MTY1NCxmZTRhYTA5NWZiNjBkMzI1ZDVhYTRlOTBkMTg0NzQzMThhMzkzZjc5`
+Snapshot ID: `MTY1NSwwM2FmMDIwZjZmZTFkNTllMDg0ZTA0ZDE2MWM4N2U0OGM1ZjdkM2Vh`

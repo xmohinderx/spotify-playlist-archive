@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some uplifting party jazz.",
-  "num_followers": 5590,
+  "num_followers": 5622,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQzOSwwMDAwMDAwMDI3ZWM2YzYxNzRlZDgxNDBhYWI0NjA1N2FlODgxODc0",
+  "snapshot_id": "MTY0ODA4MzU3MCwwMDAwMDAwMGRiMDhlOGFjZWI0NWI1M2NkNjJhM2FjNmU5ZGJhNzYz",
   "tracks": [
     {
       "added_at": "2022-01-26 10:00:50",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "Jazz Queens of the 50's",
+        "url": "https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 139133,
       "name": "The Critic's Choice",
       "url": "https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "Jazz Queens of the 50's",
-        "url": "https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "Ultimate Sinatra: The Centennial Collection",
-        "url": "https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 127613,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0IucuP0LDbGVqxvncB17Kf"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 245146,
       "name": "Blues March",
       "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 127613,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0IucuP0LDbGVqxvncB17Kf"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        }
+      ],
+      "duration_ms": 635586,
+      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 635586,
-      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Shades Of Redd (Remastered)",
         "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
       },
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "Jackie's Bag",
         "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 317733,
       "name": "Swingin' The Samba - Rudy Van Gelder Edition / Remastered",
       "url": "https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 451626,
+      "name": "Smokin' - Remastered 2005",
+      "url": "https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 353106,
       "name": "Move",
       "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "Workout",
-        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 451626,
-      "name": "Smokin' - Remastered 2005",
-      "url": "https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "Minor Move (Expanded Edition)",
         "url": "https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH"
       },
@@ -1671,6 +1687,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Avila And Tequila - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -1687,38 +1719,6 @@
       "duration_ms": 236240,
       "name": "Carvin' The Rock - Remastered",
       "url": "https://open.spotify.com/track/0nMCpAhJZRXtVn3CkVjPyE"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Avila And Tequila - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
     },
     {
       "added_at": "2022-01-26 10:00:50",

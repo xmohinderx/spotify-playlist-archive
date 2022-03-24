@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: BODEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,367 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,448 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,27 +18,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 8 | [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 |
 | 9 | [Fruit](https://open.spotify.com/track/0cd8BhLPz3ZyJSkfuD4bN1) | [Pill](https://open.spotify.com/artist/6E16nSEJi8onSUTrpY8asH) | [Fruit](https://open.spotify.com/album/6hrYJSQ0lpKLw5QKxaByGo) | 4:08 |
 | 10 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 |
-| 11 | [Skeleton Key](https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Skeleton Key](https://open.spotify.com/album/3Ttd4RpgA0mZq7rxGIvc3A) | 3:41 |
-| 12 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 |
-| 13 | [Miami Lounge](https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5) | [Peeping Drexels](https://open.spotify.com/artist/3TNNTRfUlgZFC8cbI4CVYk) | [Miami Lounge](https://open.spotify.com/album/0MWdbibdZXvw1KKca0ZZ6n) | 5:30 |
-| 14 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 |
-| 15 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 |
+| 11 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 |
+| 12 | [Miami Lounge](https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5) | [Peeping Drexels](https://open.spotify.com/artist/3TNNTRfUlgZFC8cbI4CVYk) | [Miami Lounge](https://open.spotify.com/album/0MWdbibdZXvw1KKca0ZZ6n) | 5:30 |
+| 13 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 |
+| 14 | [Skeleton Key](https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Skeleton Key](https://open.spotify.com/album/3Ttd4RpgA0mZq7rxGIvc3A) | 3:41 |
+| 15 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 |
 | 16 | [Camel Crew](https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 3:33 |
 | 17 | [Jackie Down The Line](https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q) | 4:01 |
 | 18 | [Best Behavior](https://open.spotify.com/track/3wb6i8PrbGwneMBvE6ZJis) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Best Behavior](https://open.spotify.com/album/44l3PKV5u5oZhcbWKEMiyx) | 3:24 |
 | 19 | [Chondromalacia Patella](https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Chondromalacia Patella](https://open.spotify.com/album/0iqxSiIsizsq6ivdiiUp2a) | 4:49 |
-| 20 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
-| 21 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 |
-| 22 | [Total Football](https://open.spotify.com/track/5fsfk1Oogb99koL8wyzomw) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 4:01 |
-| 23 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 |
+| 20 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 |
+| 21 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
+| 22 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 |
+| 23 | [Total Football](https://open.spotify.com/track/5fsfk1Oogb99koL8wyzomw) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 4:01 |
 | 24 | [Switching On \- IDLES Remix](https://open.spotify.com/track/5o351ccYqmwl4Nc5E7YE2z) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Switching On \(IDLES Remix\)](https://open.spotify.com/album/4pOEyrIgpZbPOboNsm7463) | 4:28 |
 | 25 | [Too Real](https://open.spotify.com/track/072FXhjdSibK3wSavEBnIc) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Too Real](https://open.spotify.com/album/3MhReQSMxXH9P4QdzzPDAL) | 4:08 |
-| 26 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 |
-| 27 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 |
-| 28 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 |
-| 29 | [Paddling](https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Paddling](https://open.spotify.com/album/12cKLUnzTxo6ToFGjSEv5v) | 6:15 |
-| 30 | [Talking Pictures](https://open.spotify.com/track/41rEc1qxuC6RSD9Kmgrokw) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 2:31 |
-| 31 | [Down in the Basement](https://open.spotify.com/track/3EQGADvujDRkbRVBXV0fr8) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:36 |
+| 26 | [Down in the Basement](https://open.spotify.com/track/3EQGADvujDRkbRVBXV0fr8) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:36 |
+| 27 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 |
+| 28 | [Wired/Weird](https://open.spotify.com/track/6HpelWP42NVal2WShBobNt) | [Beige Banquet](https://open.spotify.com/artist/1RD0sw23ETXTCQRmDHsmbW) | [Beta](https://open.spotify.com/album/6MzBXj52MbmhKrORPzWY9W) | 3:39 |
+| 29 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 |
+| 30 | [Paddling](https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Paddling](https://open.spotify.com/album/12cKLUnzTxo6ToFGjSEv5v) | 6:15 |
+| 31 | [Talking Pictures](https://open.spotify.com/track/41rEc1qxuC6RSD9Kmgrokw) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 2:31 |
 | 32 | [South](https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [South](https://open.spotify.com/album/3Od0bk7TUgTbSdkA0K4axE) | 3:56 |
 | 33 | [Trials And Tribulations](https://open.spotify.com/track/6RL8zPiCh34CcBjQhnjGJp) | [Roxy Girls](https://open.spotify.com/artist/1gtmuSSPr9dQKaLWHooNew) | [Trials And Tribulations](https://open.spotify.com/album/0m4EQ6UKYYoaxhDIGF9Qk7) | 2:54 |
 | 34 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Contain It](https://open.spotify.com/track/7wRsYOvFDUhnmx2I76Ml68) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Contain It](https://open.spotify.com/album/7Js653WBxlF7904HZdjqpO) | 4:01 |
 | 55 | [Modern Job](https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Modern Job](https://open.spotify.com/album/0o9ihh6as2nRsaAbrtDyFO) | 3:22 |
 
-Snapshot ID: `MTY0Nzk5NzAxMSwwMDAwMDAwMGVlODNiYmRjNDQwZTc2YjU4Njk4ZGU1OWE2YmVlYjgw`
+Snapshot ID: `MTY0ODA4MzEzMiwwMDAwMDAwMDJlNTlhZDEwYTFlNjYwMTBhNmQ4OTFiNzU4NjAxYWY4`

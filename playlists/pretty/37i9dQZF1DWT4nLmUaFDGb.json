@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of jazz. Cover: Norah Jones",
-  "num_followers": 112244,
+  "num_followers": 112781,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgzMSwwMDAwMDAwMDljNjhmNjFkN2MxYWU2NDJiZjY1YWY1NjIyNDlhZjI3",
+  "snapshot_id": "MTY0ODA4Mjk0OCwwMDAwMDAwMDAxZjczMTM1MzQzZDk2MTYxN2Q4ODA4MTQ1ZWIwNTll",
   "tracks": [
     {
       "added_at": "2022-03-17 23:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "Currency Of Man (The Artist's Cut)",
-        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305578,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "The Boy Next Door",
         "url": "https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP"
       },
@@ -179,6 +163,22 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
+        "name": "Currency Of Man (The Artist's Cut)",
+        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305578,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "The Lemonade Song",
-        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 154871,
-      "name": "The Lemonade Song",
-      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -243,34 +227,18 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "The Changing Lights (Bonus Edition)",
-        "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
+        "name": "The Lemonade Song",
+        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        },
-        {
-          "name": "Graham Harvey",
-          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
-        },
-        {
-          "name": "Matt Home",
-          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
-        },
-        {
-          "name": "Jeremy Brown",
-          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 244123,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+      "duration_ms": 154871,
+      "name": "The Lemonade Song",
+      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -311,22 +279,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -339,6 +291,54 @@
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "The Changing Lights (Bonus Edition)",
+        "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "Graham Harvey",
+          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
+        },
+        {
+          "name": "Matt Home",
+          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
+        },
+        {
+          "name": "Jeremy Brown",
+          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
+        }
+      ],
+      "duration_ms": 244123,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "(Getting Some) Fun out of Life",
+      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
         "name": "Love Stories",
         "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "(Getting Some) Fun out of Life",
-      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
+        "name": "Dance Me To The End Of Love",
+        "url": "https://open.spotify.com/album/5380nsfTQ6t2L23nU0JVlC"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/2M5ay3RpHTMURKWD2trCo4"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
         "name": "Lover Man (Oh, Where Can You Be?)",
         "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 228173,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Dance Me To The End Of Love",
-        "url": "https://open.spotify.com/album/5380nsfTQ6t2L23nU0JVlC"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/2M5ay3RpHTMURKWD2trCo4"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "The Girl In The Other Room",
-        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "The Girl In The Other Room",
+        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "The Molly Johnson Songbook",
-        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 206386,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/2zRdwxJioA8ID32oJAEngl"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 224933,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3xpujyLU8E8AsGTpxji437"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk"
     },
     {
       "added_at": "2022-03-17 23:00:00",

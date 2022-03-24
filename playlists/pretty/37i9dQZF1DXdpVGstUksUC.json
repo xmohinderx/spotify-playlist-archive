@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers. Cover: Josh Homme",
-  "num_followers": 419860,
+  "num_followers": 420086,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQ3MCwwMDAwMDAwMDJiMjBjYzMwODdlMTBkMzNhYWJlYTI3YjUzMThhY2Nm",
+  "snapshot_id": "MTY0ODA4MzYwMCwwMDAwMDAwMGE5MDhjMTFhNjI2NTM5ZTIxYWU4YTViNjI4ZGJmNDAx",
   "tracks": [
     {
       "added_at": "2022-03-17 20:49:40",
@@ -171,18 +171,34 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI"
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
         }
       ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob"
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+    },
+    {
+      "added_at": "2022-02-18 10:22:39",
+      "album": {
+        "name": "Damned by Fate",
+        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
+      },
+      "artists": [
+        {
+          "name": "Red Desert",
+          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
+        }
+      ],
+      "duration_ms": 336720,
+      "name": "Older No Wiser",
+      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -203,18 +219,18 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI"
       },
       "artists": [
         {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -231,22 +247,6 @@
       "duration_ms": 435200,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2022-02-18 10:22:39",
-      "album": {
-        "name": "Damned by Fate",
-        "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
-      },
-      "artists": [
-        {
-          "name": "Red Desert",
-          "url": "https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9"
-        }
-      ],
-      "duration_ms": 336720,
-      "name": "Older No Wiser",
-      "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
-    },
-    {
-      "added_at": "2022-02-18 10:22:39",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 422533,
       "name": "Space Cadet",
       "url": "https://open.spotify.com/track/07HF5tFmwh6ahN93JC6LmE"
+    },
+    {
+      "added_at": "2022-02-18 10:22:39",
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
-      "added_at": "2022-02-18 10:22:39",
-      "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 209643,
-      "name": "Enemy of My Enemy",
-      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
-    },
-    {
       "added_at": "2022-03-17 20:49:40",
       "album": {
         "name": "Samsara",
@@ -807,6 +791,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2022-02-18 10:22:39",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 209643,
+      "name": "Enemy of My Enemy",
+      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/7xSi5UDcfXAzR7NWSpFJiL"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 104610,
-      "name": "Crucifire",
-      "url": "https://open.spotify.com/track/088A0d0aV3nWsBVABC1SHE"
-    },
-    {
-      "added_at": "2022-02-18 10:22:39",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/0lF4uvIJba3SNIDCwTTLkQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 1113465,
       "name": "Wei\u00dfensee",
       "url": "https://open.spotify.com/track/4oi9uwVORDwDShiauc1Naq"
+    },
+    {
+      "added_at": "2022-02-18 10:22:39",
+      "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/7xSi5UDcfXAzR7NWSpFJiL"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 104610,
+      "name": "Crucifire",
+      "url": "https://open.spotify.com/track/088A0d0aV3nWsBVABC1SHE"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/7BhnTcuoW88fqT1ePpvTYe"
-      },
-      "artists": [
-        {
-          "name": "John Garcia",
-          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
-        }
-      ],
-      "duration_ms": 216455,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/7fa5wGIhTt9VTOVUID8aqs"
-    },
-    {
-      "added_at": "2022-02-18 10:22:39",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-02-18 10:22:39",
       "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/7BhnTcuoW88fqT1ePpvTYe"
       },
       "artists": [
         {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
         }
       ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+      "duration_ms": 216455,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7fa5wGIhTt9VTOVUID8aqs"
     },
     {
       "added_at": "2022-02-18 10:22:39",
@@ -1575,6 +1559,22 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2022-02-18 10:22:39",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2022-02-18 10:22:39",

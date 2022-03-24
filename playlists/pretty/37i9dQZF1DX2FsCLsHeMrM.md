@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,998 likes - 156 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,323 likes - 156 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 46 | [Morning Light \(feat\. Alicia Keys\)](https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:03 |
 | 47 | [Turnin' Me Up](https://open.spotify.com/track/0FZTAm6OyJoAzAtLAsH0f9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/70fkHUXk9O9pl3XsDr046i) | 4:29 |
 | 48 | [You're the Reason Why](https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [The Long Way Home](https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5) | 3:17 |
-| 49 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
-| 50 | [There It Is](https://open.spotify.com/track/7hIXnKU8VkOGFftj3DAiUL) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night To Remember](https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY) | 4:25 |
+| 49 | [There It Is](https://open.spotify.com/track/7hIXnKU8VkOGFftj3DAiUL) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night To Remember](https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY) | 4:25 |
+| 50 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 51 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 |
 | 52 | [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 |
 | 53 | [No Time To Play](https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [DC Lee](https://open.spotify.com/artist/5KbqBh2kNs9JzwTtcQrgss) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:54 |
@@ -154,15 +154,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 144 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 |
 | 145 | [Brick Road](https://open.spotify.com/track/3NH9gfw5qQCApVmhL6KXiO) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Brick Road](https://open.spotify.com/album/1FVRbROEgWHgOd3dQL9mRs) | 3:21 |
 | 146 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
-| 147 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
-| 148 | [Chunks](https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Weird Invitations](https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh) | 3:31 |
-| 149 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
-| 150 | [Ordinary Things](https://open.spotify.com/track/6f1xXhYfCzE1dNrsPYmvjY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(International Version\)](https://open.spotify.com/album/4sDGo9aQ0A2SUzYBkh6pGd) | 3:28 |
-| 151 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
-| 152 | [Is This Love](https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5) | 3:51 |
-| 153 | [Easy](https://open.spotify.com/track/156QgQpZ4z9tKSeucOLIPy) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9) | [Easy](https://open.spotify.com/album/62lSpThmG3IDdieVfrzQA6) | 3:02 |
-| 154 | [Let Me Love You](https://open.spotify.com/track/5xV0Czdqefft6sPDqjmFBu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/332c3yPZilz3OnqZKpRxl7) | 4:09 |
+| 147 | [Chunks](https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Weird Invitations](https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh) | 3:31 |
+| 148 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
+| 149 | [Ordinary Things](https://open.spotify.com/track/6f1xXhYfCzE1dNrsPYmvjY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(International Version\)](https://open.spotify.com/album/4sDGo9aQ0A2SUzYBkh6pGd) | 3:28 |
+| 150 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
+| 151 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
+| 152 | [Easy](https://open.spotify.com/track/156QgQpZ4z9tKSeucOLIPy) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9) | [Easy](https://open.spotify.com/album/62lSpThmG3IDdieVfrzQA6) | 3:02 |
+| 153 | [Let Me Love You](https://open.spotify.com/track/5xV0Czdqefft6sPDqjmFBu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/332c3yPZilz3OnqZKpRxl7) | 4:09 |
+| 154 | [Is This Love](https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5) | 3:51 |
 | 155 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 | 156 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 
-Snapshot ID: `MTY0Nzk5NzExNCwwMDAwMDAwMGFjZmM0NzQ5ZTkyZDUxY2MwZmQ4MDFmMTBiODc5YTVi`
+Snapshot ID: `MTY0ODA4MzI0MCwwMDAwMDAwMDE1OWRkMDA5MGY0NjY5NjdiZjExNGIxZDRjM2IxOTVl`

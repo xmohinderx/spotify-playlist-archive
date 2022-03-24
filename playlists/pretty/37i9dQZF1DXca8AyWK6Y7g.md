@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > girl power 🌱  Cover: UPSAHL, GAYLE & Blu DeTiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,760 likes - 149 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,027 likes - 149 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 54 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
 | 55 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 |
 | 56 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 57 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
-| 58 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 57 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 58 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
 | 59 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 |
 | 60 | [Headphones](https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Headphones](https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj) | 2:47 |
 | 61 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 104 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 |
 | 105 | [What Everybody Wants](https://open.spotify.com/track/6xkghIDZwnZtTfpjEqccrr) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes \(Deluxe\)](https://open.spotify.com/album/6M3X8VGDuFXvqoj1mLS0eV) | 2:30 |
 | 106 | [Enjoy The Weather](https://open.spotify.com/track/2txs7OQeD9qOOhlmhcCO6J) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Weather](https://open.spotify.com/album/2y82EbzL8FRX92BUT3Ehq1) | 2:30 |
-| 107 | [25X](https://open.spotify.com/track/4eoS4VxtZHeBvGIY3oB5Sx) | [shmavana shmantos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [25X](https://open.spotify.com/album/7xy3lPOkLQeQgj4wodcxN1) | 2:22 |
-| 108 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
+| 107 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
+| 108 | [25X](https://open.spotify.com/track/4eoS4VxtZHeBvGIY3oB5Sx) | [shmavana shmantos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [25X](https://open.spotify.com/album/7xy3lPOkLQeQgj4wodcxN1) | 2:22 |
 | 109 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 |
 | 110 | [Palpitations](https://open.spotify.com/track/4jS4EhXJT0Rj2SzjsgYIo5) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6J5xwFqJZkOdv9xKx8jHTQ) | 2:33 |
 | 111 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 144 | [Chandelier](https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Vol\. 1](https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF) | 2:07 |
 | 145 | [COUNT ON ME](https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [COUNT ON ME](https://open.spotify.com/album/2S60rvhdR33rjng6tLmErA) | 2:35 |
 | 146 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 |
-| 147 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 |
-| 148 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 |
-| 149 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 |
+| 147 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 |
+| 148 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 |
+| 149 | [Sick To My Stomach](https://open.spotify.com/track/0RR2jiJKt8vNQkmPkud2qn) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Sick To My Stomach](https://open.spotify.com/album/3lNRbSSLlU09m1fYqPk3JZ) | 3:14 |
 
-Snapshot ID: `MTY0Nzk5NzQzMSwwMDAwMDAwMGE0YjdkZDk3ZTBjNzk2YmE1YTEyMGZjNDlkZDc0NGJk`
+Snapshot ID: `MTY0ODA4MzU2MSwwMDAwMDAwMDJmZmJiMTA1NGM5OGFmZjE5OWViNTdkOGFhYzJlNGNm`

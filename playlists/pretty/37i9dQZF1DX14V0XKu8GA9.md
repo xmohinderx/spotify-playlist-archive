@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Trap Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,156 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,187 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 25 | [Fuck Wit A Mexican](https://open.spotify.com/track/2yHCEou5cKjIQHRkmBNcLN) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Fuck Wit A Mexican](https://open.spotify.com/album/0oQ4yygV9JN2ujxxBvUmmn) | 3:41 |
 | 26 | [Am I Wrong](https://open.spotify.com/track/2DR6rE1D0eSSq7EUYWoGAo) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Am I Wrong](https://open.spotify.com/album/65rm4eHYHM9Fsv42nYApXk) | 3:16 |
 | 27 | [Life I Live](https://open.spotify.com/track/475IQZKm10iyevNov2C371) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 3:22 |
-| 28 | [Business](https://open.spotify.com/track/19jjMLKWsMToP26n5DZO45) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Business](https://open.spotify.com/album/3dqpUnvUkce6byO27lPrqc) | 2:11 |
-| 29 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 28 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 29 | [Business](https://open.spotify.com/track/19jjMLKWsMToP26n5DZO45) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Business](https://open.spotify.com/album/3dqpUnvUkce6byO27lPrqc) | 2:11 |
 | 30 | [Don't Forget to Mention](https://open.spotify.com/track/6RV5FIOchdTvz2TGLEHRBn) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [TTYL](https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk) | 3:34 |
 | 31 | [Coke & Molly](https://open.spotify.com/track/0Wc90GQbCjdipkhnViw5zp) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Coke & Molly](https://open.spotify.com/album/4sgIhUypcPiDSeKOB2W3l0) | 3:44 |
 | 32 | [True 2 This \(feat\. Bravo The Bagchaser\)](https://open.spotify.com/track/1pb5KSuYRZgmSuVseAmnbB) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Fenix Flexin Vol\. 1](https://open.spotify.com/album/2Iiyf1OLVobPU2OVhB2h04) | 2:38 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 46 | [Breeze](https://open.spotify.com/track/4AN8pvSD3HgwqydO8xAyrU) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [West Coast](https://open.spotify.com/album/7DKCyo6tF5srXozTAL8C0z) | 2:31 |
 | 47 | [The King](https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [El Camino](https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK) | 2:43 |
 | 48 | [Trials n Tribulations](https://open.spotify.com/track/6F4tbGwVmjjAlTcgLfSNZm) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/13dvej0VDvrJhmGQHXBU6M) | 4:31 |
-| 49 | [Moonwalk](https://open.spotify.com/track/5cPfJgcnZLtyUitz9CylpR) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Moonwalk](https://open.spotify.com/album/5pqbrQJlvFOahCU9L7uoIS) | 3:41 |
-| 50 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
+| 49 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
+| 50 | [Moonwalk](https://open.spotify.com/track/5cPfJgcnZLtyUitz9CylpR) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Moonwalk](https://open.spotify.com/album/5pqbrQJlvFOahCU9L7uoIS) | 3:41 |
 | 51 | [Woke Up](https://open.spotify.com/track/6AKeP4wcLsgKvDk2K4cSX6) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Lil Traphouse](https://open.spotify.com/artist/3TjIpBnhmxi42yQvOWsCRV) | [Woke Up](https://open.spotify.com/album/1ilqbReRZgqei0FMfwD41t) | 1:47 |
 | 52 | [Outta My Way](https://open.spotify.com/track/6Dy7WKIGsQWmKxjqipAYqY) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Karlaaa](https://open.spotify.com/artist/0lCjXVMo21Jb79tBcVoSr1) | [Outta My Way](https://open.spotify.com/album/5C6wwu6ezmZ0kLURZHsWUi) | 1:45 |
 | 53 | [Put My Life on It](https://open.spotify.com/track/1dpTlkDdSAMTCPhu28FM92) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 4:22 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 63 | [Boy George](https://open.spotify.com/track/4fgQ6iLebKXIkCJM90qg0F) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [Boy George](https://open.spotify.com/album/1KZwaUkErd9SjHRk5g1YHq) | 3:00 |
 | 64 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 | 65 | [Scandalous](https://open.spotify.com/track/4vwQmhMHgrnbiriwTDN3wO) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk) | [Scandalous](https://open.spotify.com/album/7K842WY9oRlovScLiSDgTS) | 2:54 |
-| 66 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
-| 67 | [Out My Mind](https://open.spotify.com/track/1e6mDNnl7rF3ozf1OpWhZa) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Out My Mind](https://open.spotify.com/album/1Q5G8OllXFVel0CzOXnbS7) | 2:18 |
+| 66 | [Minding My Business](https://open.spotify.com/track/7d8G85NDTSNaAtIlYJxsbv) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 3](https://open.spotify.com/album/0USm0ZdHwNFnTbEvNwRfmH) | 2:42 |
+| 67 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
 | 68 | [Reminded](https://open.spotify.com/track/5MoYcdxHSgIxJK03vSUFey) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [Reminded](https://open.spotify.com/album/1i5FTTaYgGD8IFBRPiX8Xi) | 2:52 |
-| 69 | [Minding My Business](https://open.spotify.com/track/7d8G85NDTSNaAtIlYJxsbv) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 3](https://open.spotify.com/album/0USm0ZdHwNFnTbEvNwRfmH) | 2:42 |
+| 69 | [Out My Mind](https://open.spotify.com/track/1e6mDNnl7rF3ozf1OpWhZa) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Out My Mind](https://open.spotify.com/album/1Q5G8OllXFVel0CzOXnbS7) | 2:18 |
 
-Snapshot ID: `MTY0Nzk5NzA3OCwwMDAwMDAwMDU2YzcyZDE5NTcyZjUxOTI5ZjgxODRhMmVjNjgyMGFh`
+Snapshot ID: `MTY0ODA4MzIwMywwMDAwMDAwMDBkZTQ1OTZlNGQ5YWUxZTg4Y2UzZDU1ZWY0MmNjZWM5`

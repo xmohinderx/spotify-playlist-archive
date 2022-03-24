@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Karol G",
-  "num_followers": 7796,
+  "num_followers": 8008,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzM5MSwwMDAwMDAwMGYzOGMwMThmNzg2NDRjNmJlNDMxYTZhMjIyMzllNzFj",
+  "snapshot_id": "MTY0ODA4MzUxOSwwMDAwMDAwMDliMWRhZDU3ODZjNDhmMTNkNGJhZTRlMzE2N2FkNDFj",
   "tracks": [
     {
       "added_at": "2022-03-22 22:09:46",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
         "name": "LOCATION",
         "url": "https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -363,6 +363,42 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 206674,
+      "name": "Lo Que en Ti Veo",
+      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -403,58 +439,6 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 206674,
-      "name": "Lo Que en Ti Veo",
-      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
         "name": "Flow Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 169541,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/5rFUGWLsPZ8nf8arlIxrHA"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 172400,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/10cuEFxGFk2fh874O9KfNc"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
         "name": "Ella (Remix De Ellas)",
         "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 190813,
       "name": "Ella - Remix De Ellas",
       "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
         "name": "Flotando",
         "url": "https://open.spotify.com/album/5oauhyLdeLTkCcv8bqjjZK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 201600,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
         "name": "Lo Nuestro Vale M\u00e1s",
         "url": "https://open.spotify.com/album/3YLLprZSzUxIhuTPiUqIqQ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 207653,
       "name": "Lo Nuestro Vale M\u00e1s",
       "url": "https://open.spotify.com/track/6y5oTJz2ch5Xw8LNbOSEgj"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
         "name": "Despacio (feat. Myke Towers, Dj Luian & Mambo Kingz)",
         "url": "https://open.spotify.com/album/3XlpaakfUClovZhA2lCJqX"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2022-03-22 22:09:46",
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
         "name": "Index",
         "url": "https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 206000,
       "name": "Ya Es Hora",
       "url": "https://open.spotify.com/track/2SKNarYKa7W0iCOq7u96N8"
-    },
-    {
-      "added_at": "2022-03-22 22:09:46",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Mi Tierra",
-      "url": "https://open.spotify.com/track/41LiGcvaTkXHyPjfsxKvWv"
     },
     {
       "added_at": "2022-03-22 22:09:46",
@@ -1699,6 +1683,22 @@
       "duration_ms": 215257,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
+    },
+    {
+      "added_at": "2022-03-22 22:09:46",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/41LiGcvaTkXHyPjfsxKvWv"
     },
     {
       "added_at": "2022-03-22 22:09:46",

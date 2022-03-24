@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSAqa5cw6DxQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSAqa5cw6DxQ)
 
-### Meditative Guitar
+### [Meditative Guitar](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 > Clear your mind with soothing new age guitar.
 

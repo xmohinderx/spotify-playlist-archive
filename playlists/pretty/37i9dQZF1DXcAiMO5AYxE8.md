@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,267 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,348 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 54 | [I Love You More](https://open.spotify.com/track/5cXFnZmxsPswg3h9CnHpyo) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master Of The Game](https://open.spotify.com/album/3n5lfplQw8UdL3d5XaRDJT) | 3:06 |
 | 55 | [Turn the Beat Around](https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:24 |
 | 56 | [More, More, More \- Single Version](https://open.spotify.com/track/105PDCSRSsFPoTPxBI0M92) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [Disco Fever](https://open.spotify.com/album/5FQrUtk7oZmMFaatVJBW5r) | 3:00 |
-| 57 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
-| 58 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
-| 59 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:26 |
-| 60 | [Boogie Oogie Oogie](https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Masters Series \- 70's Disco Party](https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF) | 4:13 |
+| 57 | [Boogie Oogie Oogie](https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Masters Series \- 70's Disco Party](https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF) | 4:13 |
+| 58 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
+| 59 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
+| 60 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:26 |
 | 61 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 | 62 | [Holdin' Out for Love](https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [The Definitive Collection](https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB) | 3:24 |
 
-Snapshot ID: `MTY0Nzk5NzQyMSwwMDAwMDAwMDZhZmRjM2FlYWI1YTE4ZDk5YmViMWVhOTRmODFiYmE2`
+Snapshot ID: `MTY0ODA4MzU1MSwwMDAwMDAwMDFiYTRjYWU1ZDQzMGYzNjJjMWY0NTlhMmI0N2Y1MzQy`

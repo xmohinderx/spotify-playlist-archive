@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,485 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,763 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 32 | [Thinking of You](https://open.spotify.com/track/66DsfRM8bCpAEQ2NT4PMs9) | [Elina Filice](https://open.spotify.com/artist/1ozRHfan0aL3oaalAzusCn) | [Thinking of You](https://open.spotify.com/album/002YXNYbFsTksUxIdaA13C) | 4:20 |
 | 33 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 |
 | 34 | [Family](https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family](https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ) | 3:27 |
-| 35 | [Like Some Dream](https://open.spotify.com/track/0ATT8gRJUtLO1Dj59A3dGg) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sol](https://open.spotify.com/album/6zzUVzCwLMH3eBIviBlLQH) | 5:14 |
-| 36 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 |
+| 35 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 |
+| 36 | [Like Some Dream](https://open.spotify.com/track/0ATT8gRJUtLO1Dj59A3dGg) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sol](https://open.spotify.com/album/6zzUVzCwLMH3eBIviBlLQH) | 5:14 |
 | 37 | [Thin Lines](https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Thin Lines](https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO) | 2:51 |
 | 38 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 |
 | 39 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Slush](https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Slush](https://open.spotify.com/album/5WI4Iwq4M6g4enr4ZCUozH) | 3:57 |
 | 100 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 
-Snapshot ID: `MTY0Nzk5NjkyMiwwMDAwMDAwMDZjODlkYmJhMDUzYzhjZGJmMDM2ZGQ3N2I4ZWFkMjk4`
+Snapshot ID: `MTY0ODA4MzAzOSwwMDAwMDAwMDU4YmRmY2IxOWRmNzI3NTgxZGJmZmNiYzYzNWIwMDQ1`

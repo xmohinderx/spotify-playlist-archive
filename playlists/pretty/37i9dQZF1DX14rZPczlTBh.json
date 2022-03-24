@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for the function.",
-  "num_followers": 22822,
+  "num_followers": 22839,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA3OCwwMDAwMDAwMDVkNTJjOTIxZjNhYjEzYmE0MjhiODE0ZDRjZTMzNWM0",
+  "snapshot_id": "MTY0ODA4MzIwNCwwMDAwMDAwMGM4ZmVmNmM3M2EwMDJlZTI5NzkzZTg5MjUwZWEzMGYw",
   "tracks": [
     {
       "added_at": "2021-06-24 14:44:57",
@@ -687,6 +687,70 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Saaho",
+        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Psycho Saiyaan",
+      "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "MCA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 197321,
+      "name": "MCA",
+      "url": "https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/2bP0035NHBzesL59OgAu0M"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Ramuloo Ramulaa - Duet",
+      "url": "https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Nenu Local",
         "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
       },
@@ -723,70 +787,6 @@
       "duration_ms": 201576,
       "name": "Freak Pilla",
       "url": "https://open.spotify.com/track/529gQ4C2Ny0Rnm16HQSoAa"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/2bP0035NHBzesL59OgAu0M"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Ramuloo Ramulaa - Duet",
-      "url": "https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "MCA (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 197321,
-      "name": "MCA",
-      "url": "https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Saaho",
-        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Psycho Saiyaan",
-      "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -995,26 +995,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Khaidi No 150",
-        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
-        }
-      ],
-      "duration_ms": 208157,
-      "name": "Ammadu Let's Do Kummudu",
-      "url": "https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Chintakayala Ravi",
         "url": "https://open.spotify.com/album/1nHiBkB9AwH5ULXkdBrXEl"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 273639,
       "name": "Most Wanted Abbayi",
       "url": "https://open.spotify.com/track/5hnfqyw3CPgmTXcQ7lmGW0"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Khaidi No 150",
+        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 208157,
+      "name": "Ammadu Let's Do Kummudu",
+      "url": "https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Jai Lava Kusa",
+        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 260588,
+      "name": "Tring Tring",
+      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Chal Mohan Ranga (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2gaopiyX0WtLuTMgQvZeUo"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 222750,
       "name": "Miami",
       "url": "https://open.spotify.com/track/3yTT15CQlhscT81BcImuqk"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Jai Lava Kusa",
-        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
-      },
-      "artists": [
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
-        }
-      ],
-      "duration_ms": 260588,
-      "name": "Tring Tring",
-      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
     },
     {
       "added_at": "2021-06-24 14:44:57",

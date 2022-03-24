@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del Trap chileno\. Foto: Foreign & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,410 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,447 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 15 | [No Days Off](https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [No Days Off](https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm) | 2:04 |
 | 16 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 |
 | 17 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 |
-| 18 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/74oqJhlo7P09hchtoYrrb8) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 |
+| 18 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 |
 | 19 | [CELULAR](https://open.spotify.com/track/0g0Ipiv8a9kWSq4acp8L1H) | [KAZE KENZO](https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P), [Max Valenzuela](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [CELULAR](https://open.spotify.com/album/7zpODfVIHAMlfw0wNXWRFN) | 2:35 |
 | 20 | [La Casualidad](https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [La Casualidad](https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw) | 3:39 |
 | 21 | [Nexus](https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Nexus](https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq) | 2:25 |

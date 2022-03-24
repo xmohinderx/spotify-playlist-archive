@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1114442,
+  "num_followers": 1114450,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk5MCwwMDAwMDAwMGY0ZThmNzRhNGM4ZGNkOTNiZjE2Y2QxNDEwZjRhN2Uw",
+  "snapshot_id": "MTY0ODA4MzExMCwwMDAwMDAwMDUxNjM5ZThmZmE5MmExY2ExZGI2NDdiMWIzODVkOGE1",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Crying My Eyes Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5FQiRzFDZ1mRaz0MyPoS73"
-      },
-      "artists": [
-        {
-          "name": "Stephen Puth",
-          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Crying My Eyes Out - Acoustic",
-      "url": "https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Before You Go (Acoustic)",
-        "url": "https://open.spotify.com/album/69SQohr3ZqG0Mx0qcTk0h3"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Before You Go (Acoustic)",
-      "url": "https://open.spotify.com/track/0eJsowcx9g02cKPkohJ2fe"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/5bjptaMVXrsgzIjTjw2L24"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 184285,
       "name": "Never Let You Go - Acoustic",
       "url": "https://open.spotify.com/track/06VK1j4uZTHLb4SnpGY0Z8"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Crying My Eyes Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5FQiRzFDZ1mRaz0MyPoS73"
+      },
+      "artists": [
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "Crying My Eyes Out - Acoustic",
+      "url": "https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Before You Go (Acoustic)",
+        "url": "https://open.spotify.com/album/69SQohr3ZqG0Mx0qcTk0h3"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "Before You Go (Acoustic)",
+      "url": "https://open.spotify.com/track/0eJsowcx9g02cKPkohJ2fe"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
+        "name": "How Do You Sleep? (Acoustic)",
+        "url": "https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 205590,
+      "name": "How Do You Sleep? - Acoustic",
+      "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
         "name": "Lifetime (VIP & Acoustic)",
         "url": "https://open.spotify.com/album/1Ax5labB08CGc2CDHmyqKF"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 236952,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "How Do You Sleep? (Acoustic)",
-        "url": "https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 205590,
-      "name": "How Do You Sleep? - Acoustic",
-      "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5SOx3JrYf5fHDde9CscIDw"
+      },
+      "artists": [
+        {
+          "name": "Justin Morgan",
+          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+        }
+      ],
+      "duration_ms": 219378,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5SOx3JrYf5fHDde9CscIDw"
+        "name": "Haloes (Acoustic)",
+        "url": "https://open.spotify.com/album/0zfZHVd16gHfXWnlBXrswq"
       },
       "artists": [
         {
-          "name": "Justin Morgan",
-          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 219378,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
+      "duration_ms": 182502,
+      "name": "Haloes - Acoustic",
+      "url": "https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Haloes (Acoustic)",
-        "url": "https://open.spotify.com/album/0zfZHVd16gHfXWnlBXrswq"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 182502,
-      "name": "Haloes - Acoustic",
-      "url": "https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "If I'm Being Honest",
         "url": "https://open.spotify.com/album/1xtPhACexlKPMpTO8YTMxc"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 231924,
       "name": "If I'm Being Honest",
       "url": "https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 243955,
-      "name": "America",
-      "url": "https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -879,6 +863,22 @@
       "duration_ms": 227413,
       "name": "Sorry I'm Gone (feat. Emily Reid)",
       "url": "https://open.spotify.com/track/5n7qpik8TgQGGNYBsAktkr"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 243955,
+      "name": "America",
+      "url": "https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
+        "name": "Girl I Wish I Didn't Know (Acoustic)",
+        "url": "https://open.spotify.com/album/6zZMRz63RPLtyB0GnqDNXO"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Girl I Wish I Didn't Know (Acoustic)",
+      "url": "https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 145217,
       "name": "Whiplash - Acoustic",
       "url": "https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "Girl I Wish I Didn't Know (Acoustic)",
-        "url": "https://open.spotify.com/album/6zZMRz63RPLtyB0GnqDNXO"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Girl I Wish I Didn't Know (Acoustic)",
-      "url": "https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL"
     },
     {
       "added_at": "2021-03-11 23:02:00",

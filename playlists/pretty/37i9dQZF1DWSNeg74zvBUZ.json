@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 17627,
+  "num_followers": 17647,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgxMCwwMDAwMDAwMGMwMjg0NmMyNTdiNzU2ZGYxMDlkZTdmMzZlOTNhN2E0",
+  "snapshot_id": "MTY0ODA4MjkyNiwwMDAwMDAwMGVmYmVlYWY1ODllMjZhNmUwNTkyYTYyMWUxMTVlNDY3",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 250040,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2021-09-10 04:35:25",

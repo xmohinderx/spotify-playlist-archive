@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZdsS73T1ogG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZdsS73T1ogG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZdsS73T1ogG)
 
-### New Urbano
+### [New Urbano](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 > Descubre lo más nuevo del movimiento\. Cover: Aleesha, Nicki Nicole, TAICHU Juicy BAE
 

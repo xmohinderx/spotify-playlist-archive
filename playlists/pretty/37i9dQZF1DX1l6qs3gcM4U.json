@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dynamo",
-  "num_followers": 124998,
+  "num_followers": 125060,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA5NywwMDAwMDAwMDE0M2JlOWZiMjEyN2U0ZmMyMjQzZjlhODFmODVkMGVk",
+  "snapshot_id": "MTY0ODA4MzIyMywwMDAwMDAwMDJkMzgwMzMyNTBiZTMwYTU1MmRkNDQ4NmE2MDMyOTYy",
   "tracks": [
     {
       "added_at": "2022-03-14 15:58:09",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2022-03-14 15:58:09",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
+        "name": "Na Bo Mon",
+        "url": "https://open.spotify.com/album/72mZfjW41yycIsoeRfXoox"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 200115,
+      "name": "Na Bo Mon",
+      "url": "https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 201780,
       "name": "So Nos",
       "url": "https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
-        "name": "Na Bo Mon",
-        "url": "https://open.spotify.com/album/72mZfjW41yycIsoeRfXoox"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 200115,
-      "name": "Na Bo Mon",
-      "url": "https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3"
     },
     {
       "added_at": "2022-03-14 15:58:09",
@@ -859,6 +859,26 @@
       "duration_ms": 194851,
       "name": "Bonequinha",
       "url": "https://open.spotify.com/track/6BbmAv609s7flNYFKhmnGG"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
+        "name": "Plena",
+        "url": "https://open.spotify.com/album/3sm5aFmxL0Wle47WKnjeQk"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Plena",
+      "url": "https://open.spotify.com/track/5DbCRhNJEROHB1VlMaVMsU"
     },
     {
       "added_at": "2022-03-14 15:58:09",
@@ -935,26 +955,6 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
-        "name": "Plena",
-        "url": "https://open.spotify.com/album/3sm5aFmxL0Wle47WKnjeQk"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Plena",
-      "url": "https://open.spotify.com/track/5DbCRhNJEROHB1VlMaVMsU"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
         "name": "Tempo Sabi",
         "url": "https://open.spotify.com/album/0WJ1eBTUSk4OzMpIb5vRYb"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
+        "name": "Nubian Queen",
+        "url": "https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 244929,
+      "name": "Nubian Queen",
+      "url": "https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2"
     },
     {
       "added_at": "2022-03-14 15:58:09",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
-        "name": "Nubian Queen",
-        "url": "https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 244929,
-      "name": "Nubian Queen",
-      "url": "https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
         "name": "Don't Judge Me (Saxo-Kizomba)",
         "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
       },
@@ -1123,34 +1123,6 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
-        "name": "Deusa do Amor",
-        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        },
-        {
-          "name": "Anderson Mario",
-          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
-        },
-        {
-          "name": "Button",
-          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
-        }
-      ],
-      "duration_ms": 279024,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
         "name": "J\u00e1 Deu",
         "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
       },
@@ -1183,6 +1155,34 @@
       "duration_ms": 234971,
       "name": "Kuyuyu",
       "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
+        "name": "Deusa do Amor",
+        "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        },
+        {
+          "name": "Anderson Mario",
+          "url": "https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh"
+        },
+        {
+          "name": "Button",
+          "url": "https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL"
+        }
+      ],
+      "duration_ms": 279024,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
     },
     {
       "added_at": "2022-03-14 15:58:09",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-03-14 15:58:09",
       "album": {
-        "name": "Do Teu Jeito",
-        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        }
-      ],
-      "duration_ms": 193045,
-      "name": "Do Teu Jeito",
-      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
-    },
-    {
-      "added_at": "2022-03-14 15:58:09",
-      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 283973,
       "name": "Criola",
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
+    },
+    {
+      "added_at": "2022-03-14 15:58:09",
+      "album": {
+        "name": "Do Teu Jeito",
+        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        }
+      ],
+      "duration_ms": 193045,
+      "name": "Do Teu Jeito",
+      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
     },
     {
       "added_at": "2022-03-14 15:58:09",

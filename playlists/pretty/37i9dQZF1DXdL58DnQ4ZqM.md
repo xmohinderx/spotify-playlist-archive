@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,223 likes - 80 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,340 likes - 80 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 65 | [How I Feel](https://open.spotify.com/track/2i9pf2ND4dFpbmXvwyuYEA) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Forest Of Dreams](https://open.spotify.com/album/4Ncvj3VT68hPbjLv7LT0Hh) | 3:18 |
 | 66 | [Pines](https://open.spotify.com/track/2z6dyUh6MUaPPAMlzaLV5g) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 1:39 |
 | 67 | [Dreamland](https://open.spotify.com/track/3Xnj3T6IMbPgw56KFvYku2) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 2:11 |
-| 68 | [Kingdom 8](https://open.spotify.com/track/0xbt52iPJMXdiCIb1lut4M) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kingdom 8](https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w) | 1:30 |
-| 69 | [L’ Eau](https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3) | [Deanna Devore](https://open.spotify.com/artist/33ZWQlxgrQJGHCo82XqhWJ), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [JokerB](https://open.spotify.com/artist/2PZenj9yNHY0BN5AUw7s4s) | [A better World](https://open.spotify.com/album/0ZdSFLnuddK3AW40GQoXvB) | 2:44 |
-| 70 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 |
+| 68 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 |
+| 69 | [Kingdom 8](https://open.spotify.com/track/0xbt52iPJMXdiCIb1lut4M) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kingdom 8](https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w) | 1:30 |
+| 70 | [L’ Eau](https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3) | [Deanna Devore](https://open.spotify.com/artist/33ZWQlxgrQJGHCo82XqhWJ), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [JokerB](https://open.spotify.com/artist/2PZenj9yNHY0BN5AUw7s4s) | [A better World](https://open.spotify.com/album/0ZdSFLnuddK3AW40GQoXvB) | 2:44 |
 | 71 | [frozen in time](https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Elizabeth Cutler](https://open.spotify.com/artist/3gWhWKKgCrFezDHBSG1Uvw) | [frozen in time](https://open.spotify.com/album/7iOmyPmJFZWrIKR8r4sYBP) | 2:08 |
 | 72 | [Come With Me](https://open.spotify.com/track/5Lgti8Xh7NxSbjzDC3T0kg) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Come With Me](https://open.spotify.com/album/1qOFhBtbVOUvA4j0HDLihd) | 2:28 |
 | 73 | [Midnight Voyage](https://open.spotify.com/track/4oenxadz35pWdKMIkr8jr2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [mtch.](https://open.spotify.com/artist/5c9Xrr1IzKEbGhRNeLYppn) | [Midnight Voyage](https://open.spotify.com/album/3e3Rc8LBc2JEnmdZgOneXZ) | 2:11 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 75 | [Botanist](https://open.spotify.com/track/6fgQ4P7VrKTwFwVJJNMadk) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Botanist](https://open.spotify.com/album/6ZWNZC3NNLOp7d0wnOaoPX) | 2:29 |
 | 76 | [Poésie](https://open.spotify.com/track/3T2kjtBlnBqnynfX1VRos8) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Poésie](https://open.spotify.com/album/583KJVvpxgx3sFiqYmqciy) | 2:27 |
 | 77 | [Embrace](https://open.spotify.com/track/3mnhlLOswWkDX4myxwq4Ru) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Embrace](https://open.spotify.com/album/1MLCJzyzug1A9bHm9eekDI) | 2:21 |
-| 78 | [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 2:30 |
-| 79 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 |
-| 80 | [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 |
+| 78 | [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 |
+| 79 | [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 2:30 |
+| 80 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 |
 
-Snapshot ID: `MTY0Nzk5NzQ1MiwwMDAwMDAwMDljOWJkYWNmYzZjYmQ1MmUzNTU5OWEwYTI0OWIyYzYw`
+Snapshot ID: `MTY0ODA4MzU4MiwwMDAwMDAwMDFmZTRkYzE0Yjc1MDc5NGYzYTMwNmMzMzlkNjM0ZmE0`

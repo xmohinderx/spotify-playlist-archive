@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: St\. Vincent, Death Cab for Cutie and MUNA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,121 likes - 125 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,137 likes - 125 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 6 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 2:34 |
 | 7 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 8 | [Mr\. Tillman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2g5Qvxi7uiwl8SIpu5hg8e) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 3:18 |
-| 9 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 |
-| 10 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0CLtsfTgbVXORxfwqUbcVc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 3:35 |
+| 9 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0CLtsfTgbVXORxfwqUbcVc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 3:35 |
+| 10 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 |
 | 11 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI) | 4:39 |
-| 12 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 5:14 |
-| 13 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
-| 14 | [Gold Rush \- Live at Spotify Studios NYC](https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 4:08 |
-| 15 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:27 |
+| 12 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
+| 13 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 5:14 |
+| 14 | [Turn \- Recorded at RAK Studios, London](https://open.spotify.com/track/1c9Kzty5YdO84q009wXcVH) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Spotify Singles](https://open.spotify.com/album/07jKdMs5gxb6sl1iWTVWwM) | 3:27 |
+| 15 | [Gold Rush \- Live at Spotify Studios NYC](https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 4:08 |
 | 16 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 |
 | 17 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 18 | [Holding On \- Recorded at Spotify Studios NYC, 6/07/2017](https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Spotify Singles](https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt) | 5:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 |
 | 125 | [Whole Wide World \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Spotify Singles](https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI) | 3:41 |
 
-Snapshot ID: `MTY0Nzk5Njk2NiwwMDAwMDAwMGQ4NmY0M2Y5MDRiMTc2OTg5ZmMxNjY3YTc4MTc1YTBl`
+Snapshot ID: `MTY0ODA4MzA4NSwwMDAwMDAwMDZhM2VmNWNhNjJkZGE0YTIyYTg3MWQ3YzIyZDIwYTk3`

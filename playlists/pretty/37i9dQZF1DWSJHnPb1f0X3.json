@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 3464493,
+  "num_followers": 3465165,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjgwNywwMDAwMDAwMDJlN2NkMWVlOTNhNWJjNzY0ZGE1YWQwZWNlMWUxMzEx",
+  "snapshot_id": "MTY0ODA4MjkyNCwwMDAwMDAwMDM4Njc3MmVkZTY0ZGU5MjBkMmM5MjVhNDc1NmVmZjZj",
   "tracks": [
     {
       "added_at": "2022-03-18 14:21:19",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2022-03-18 14:21:19",
-      "album": {
         "name": "EveryTime I Cry (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2vBz1iYx315biPiOAQbq1g"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 191338,
       "name": "EveryTime I Cry - R3HAB Remix",
       "url": "https://open.spotify.com/track/752n2yiIZZdxNAMTXmrObn"
+    },
+    {
+      "added_at": "2022-03-18 14:21:19",
+      "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2022-03-18 14:21:19",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2022-03-18 14:21:19",
+      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
-    },
-    {
-      "added_at": "2022-03-18 14:21:19",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "added_at": "2022-03-18 14:21:19",
@@ -503,6 +503,30 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+    },
+    {
+      "added_at": "2022-03-18 14:21:19",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
-    },
-    {
-      "added_at": "2022-03-18 14:21:19",
-      "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
       "added_at": "2022-03-18 14:21:19",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
+        "name": "Shivers (Navos Remix)",
+        "url": "https://open.spotify.com/album/69DRYXihs3DVdAPNMiikJk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 155646,
+      "name": "Shivers - Navos Remix",
+      "url": "https://open.spotify.com/track/7G8bZSpRNFOj3nc8SbFXWP"
+    },
+    {
+      "added_at": "2022-03-18 14:21:19",
+      "album": {
         "name": "Dumb",
         "url": "https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 135661,
       "name": "Lifestyle (feat. Adam Levine) - David Guetta Slap House Mix",
       "url": "https://open.spotify.com/track/0cVWsZDecQYXWY4j1KjhDg"
-    },
-    {
-      "added_at": "2022-03-18 14:21:19",
-      "album": {
-        "name": "Shivers (Navos Remix)",
-        "url": "https://open.spotify.com/album/69DRYXihs3DVdAPNMiikJk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 155646,
-      "name": "Shivers - Navos Remix",
-      "url": "https://open.spotify.com/track/7G8bZSpRNFOj3nc8SbFXWP"
     },
     {
       "added_at": "2022-03-18 14:21:19",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
-        "name": "When The Lights Go Down (feat. Cody Simpson)",
-        "url": "https://open.spotify.com/album/5HnqX5N3qsMW31YfPTpQ3q"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 189265,
-      "name": "When The Lights Go Down (feat. Cody Simpson)",
-      "url": "https://open.spotify.com/track/3J3EdH1ZgXqk1ROTzQOF0U"
-    },
-    {
-      "added_at": "2022-03-18 14:21:19",
-      "album": {
         "name": "Don't Wanna Stop (feat. Conor Maynard)",
         "url": "https://open.spotify.com/album/2JoOuHWI3FX6tWyyc9hOMA"
       },
@@ -1507,6 +1483,26 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
+        "name": "Don't You Hold Me Down",
+        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 132597,
+      "name": "Don't You Hold Me Down",
+      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": "2022-03-18 14:21:19",
+      "album": {
         "name": "you broke me first (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/5QYeXQ4AewfkmtDBlsxDtA"
       },
@@ -1527,22 +1523,26 @@
     {
       "added_at": "2022-03-18 14:21:19",
       "album": {
-        "name": "Don't You Hold Me Down",
-        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
+        "name": "When The Lights Go Down (feat. Cody Simpson)",
+        "url": "https://open.spotify.com/album/5HnqX5N3qsMW31YfPTpQ3q"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
         },
         {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 132597,
-      "name": "Don't You Hold Me Down",
-      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+      "duration_ms": 189265,
+      "name": "When The Lights Go Down (feat. Cody Simpson)",
+      "url": "https://open.spotify.com/track/3J3EdH1ZgXqk1ROTzQOF0U"
     },
     {
       "added_at": "2022-03-18 14:21:19",

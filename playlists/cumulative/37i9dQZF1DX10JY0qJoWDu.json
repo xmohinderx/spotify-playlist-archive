@@ -1405,7 +1405,7 @@
       },
       "artists": [
         {
-          "name": "Cast - Phineas and Ferb",
+          "name": "The Cast of Phineas and Ferb",
           "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
         }
       ],
@@ -1456,24 +1456,6 @@
     },
     {
       "album": {
-        "name": "Phineas and Ferb Holiday Favorites",
-        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
-      },
-      "artists": [
-        {
-          "name": "Cast - Phineas and Ferb",
-          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
-        }
-      ],
-      "date_added": "2021-12-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140533,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
-    },
-    {
-      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
       },
@@ -1489,6 +1471,24 @@
       "duration_ms": 89400,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Phineas and Ferb",
+          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
     },
     {
       "album": {

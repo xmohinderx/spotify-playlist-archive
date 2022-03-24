@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: NEYKID, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Philippa Kinsky, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 187391,
       "name": "2nd Floor",
       "url": "https://open.spotify.com/track/1Z5PMuV1AOBokmmEXupSpt"
@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "always okay",
+        "url": "https://open.spotify.com/album/33Ps1v8rCTYbZJE2vPk2zF"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188728,
+      "name": "always okay",
+      "url": "https://open.spotify.com/track/70sd0T6eTCowGMu9m1n0mz"
+    },
+    {
+      "album": {
         "name": "Anger",
         "url": "https://open.spotify.com/album/20o4ut6m2xBL7pCcp0i1cD"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 136000,
       "name": "Apotropaion",
       "url": "https://open.spotify.com/track/6wjHOZzykb9tf3C8RqI9xT"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 272511,
       "name": "Creeper Deeper",
       "url": "https://open.spotify.com/track/3Nx8BjUdk3hRUSxVpKU8xY"
@@ -968,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Am I Slow Enough?",
+        "url": "https://open.spotify.com/album/44Q6i6BguYKfXJKGx3ZECo"
+      },
+      "artists": [
+        {
+          "name": "Luce",
+          "url": "https://open.spotify.com/artist/5Sr7CnNL23dTAWDetyUIAQ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Fruit Of Mine",
+      "url": "https://open.spotify.com/track/4IlNF4KfjZn09M6H4o7vLD"
+    },
+    {
+      "album": {
         "name": "Fruitarian Girl",
         "url": "https://open.spotify.com/album/6vZtIGnwoYjnky8Livu4WU"
       },
@@ -1044,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5vMSekPuz03yAxQPAuWhl1"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Ghost Orchestra",
+          "url": "https://open.spotify.com/artist/29wk9Z0KZ8624OPtrFB08j"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278263,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5ixbUgxUGrLAPpMkXywRyW"
+    },
+    {
+      "album": {
         "name": "Goldjunge",
         "url": "https://open.spotify.com/album/7kzvyOuPRnwDnXpvfsGK8B"
       },
@@ -1099,6 +1153,24 @@
       "duration_ms": 159071,
       "name": "Gun to My Head",
       "url": "https://open.spotify.com/track/4qcabnkx8E5JBU6sJqgoP5"
+    },
+    {
+      "album": {
+        "name": "Guter Rath",
+        "url": "https://open.spotify.com/album/6pp9PCxaF5jNcLsSyGovtI"
+      },
+      "artists": [
+        {
+          "name": "Rathmann",
+          "url": "https://open.spotify.com/artist/7iAcfPZIZ0YmpUmT43RR0G"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209104,
+      "name": "Guter Rath",
+      "url": "https://open.spotify.com/track/1PdbggqDIikGd2BSLh1S0L"
     },
     {
       "album": {
@@ -1437,7 +1509,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 190013,
       "name": "Imaginary Boy",
       "url": "https://open.spotify.com/track/470qFnD2xdsZqOvXEubpj9"
@@ -1841,7 +1913,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 185669,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/4Pi2uAbu29ro4kckXpi30u"
@@ -2205,7 +2277,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 199245,
       "name": "My Head",
       "url": "https://open.spotify.com/track/3Yg9FWPMUswuXTITnH7Ci3"
@@ -2356,6 +2428,32 @@
     },
     {
       "album": {
+        "name": "Passos",
+        "url": "https://open.spotify.com/album/4Jy8Zu3kSbVv1LJMgOqRtH"
+      },
+      "artists": [
+        {
+          "name": "Carlifornia",
+          "url": "https://open.spotify.com/artist/35zmWY1Vg28Fb8ltQ1qtnz"
+        },
+        {
+          "name": "Ish",
+          "url": "https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI"
+        },
+        {
+          "name": "Sira",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Passos",
+      "url": "https://open.spotify.com/track/6HjTOWkQeWdw897OlUBvDW"
+    },
+    {
+      "album": {
         "name": "Patti's Words",
         "url": "https://open.spotify.com/album/09PMUIzZqVNUjCKklfXsmk"
       },
@@ -2439,7 +2537,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 198910,
       "name": "Purgatory",
       "url": "https://open.spotify.com/track/4xcWGy89zMgFmbiJMvkeFf"
@@ -2944,6 +3042,24 @@
     },
     {
       "album": {
+        "name": "Swimsuit",
+        "url": "https://open.spotify.com/album/3c0DG8vqU65mDcKoNVhmwo"
+      },
+      "artists": [
+        {
+          "name": "Johanna Amelie",
+          "url": "https://open.spotify.com/artist/1OVLF0FsXQ3bUlVPNmOP9j"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209049,
+      "name": "Swimsuit",
+      "url": "https://open.spotify.com/track/7zZcrAmAVkKL1xvHeorQeY"
+    },
+    {
+      "album": {
         "name": "Take Away Your Pain",
         "url": "https://open.spotify.com/album/4zb2VUjvwJH0h3TOhhuwwJ"
       },
@@ -2955,10 +3071,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 193095,
       "name": "Take Away Your Pain",
       "url": "https://open.spotify.com/track/06GeHRPeB2vh9PkHX2CWcU"
+    },
+    {
+      "album": {
+        "name": "Take Me Out Tonight",
+        "url": "https://open.spotify.com/album/2l8ESHUuKaQJMdTViuIG1V"
+      },
+      "artists": [
+        {
+          "name": "Annelu",
+          "url": "https://open.spotify.com/artist/4STMcsAtacU1KB3EOW5M5o"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Take Me Out Tonight",
+      "url": "https://open.spotify.com/track/5ugsTuNRDfjaiejmQ8GwFL"
     },
     {
       "album": {
@@ -3009,7 +3143,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 252670,
       "name": "The Bakery",
       "url": "https://open.spotify.com/track/2VS5CV8LOK0mPzJhMmpl9S"
@@ -3142,6 +3276,24 @@
     },
     {
       "album": {
+        "name": "Tuts Dir Weh?",
+        "url": "https://open.spotify.com/album/1AqaJ4bsNR1M0QvVa5kvSN"
+      },
+      "artists": [
+        {
+          "name": "Dirty Red Bandanas",
+          "url": "https://open.spotify.com/artist/3wpIMzbP4sia8LbYd8Apl3"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131574,
+      "name": "Tuts Dir Weh?",
+      "url": "https://open.spotify.com/track/0trMYgAetwuKs5CKX24Q6n"
+    },
+    {
+      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/2eoOFXIlJqliP10nfbRw7n"
       },
@@ -3157,6 +3309,24 @@
       "duration_ms": 182074,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx"
+    },
+    {
+      "album": {
+        "name": "Viel Zu Viel",
+        "url": "https://open.spotify.com/album/0Eb3u9j1v7e9B8kng94EVQ"
+      },
+      "artists": [
+        {
+          "name": "Triplet",
+          "url": "https://open.spotify.com/artist/2OmZnboxyFtF1UdRW6YA0k"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141213,
+      "name": "Viel Zu Viel",
+      "url": "https://open.spotify.com/track/1qKGHV21b77MwwHc0dlLIc"
     },
     {
       "album": {
@@ -3304,6 +3474,24 @@
     },
     {
       "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/46bI8wj7xKlTMWzPTZX7ei"
+      },
+      "artists": [
+        {
+          "name": "The Roofs",
+          "url": "https://open.spotify.com/artist/4AiqOsKSL7r6CyuY4A1Mws"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267484,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/3plJVEZEsbm6kgvSa4rawM"
+    },
+    {
+      "album": {
         "name": "wie verliebt",
         "url": "https://open.spotify.com/album/41id0WlZVcSoNIC1qMsZtm"
       },
@@ -3387,7 +3575,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 191053,
       "name": "Zeitgeist",
       "url": "https://open.spotify.com/track/7fx8i2fIR19xPqhnvNMyxX"

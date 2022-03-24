@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Goofy Geese Artwork: Robin Clifford Ellis
+> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,362 likes - 113 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,729 likes - 113 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 112 | [bad blood](https://open.spotify.com/track/7dBkm3Do2kXEP5i2HcyztW) | [godz](https://open.spotify.com/artist/4Gj9jOgigJwU8CQtcwoZp3) | [bad blood](https://open.spotify.com/album/3PopWvKnG25CMn87mbP9Ia) | 3:23 |
 | 113 | [Looking Backward](https://open.spotify.com/track/478ZW3J7G43YjMRLUlisaq) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Cryo](https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp) | 3:29 |
 
-Snapshot ID: `MTY0Nzk4NDg3OSwwMDAwMDBkMTAwMDAwMTdmYjM4ZGE4MGIwMDAwMDE3ZjkyZDQ4NmVj`
+Snapshot ID: `MTY0ODA0MTQ4NCwwMDAwMDBkMjAwMDAwMTdmYjZlZDYyNTUwMDAwMDE3ZmI2ZWQyMDRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,331 likes - 200 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,524 likes - 200 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 19 | [The City](https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The City](https://open.spotify.com/album/1XbD968N9Kh3NsAG5sDYMS) | 3:41 |
 | 20 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 21 | [Tiger Lilies](https://open.spotify.com/track/3UTtblnDHe2GOuP3Pil8MV) | [Sun On Shade](https://open.spotify.com/artist/7uYtZH0hRJ7VwvaSCiQpFX), [Lloyd Buchanan](https://open.spotify.com/artist/7jO0KHj4AAwPxABUWH9bD4) | [Sun On Shade](https://open.spotify.com/album/3dOOK4Lw9War8p8WA15P2E) | 5:07 |
-| 22 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/3UOvd4bfGqepCVx4EJLy57) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Thinking 'Bout Love \(Acoustic\)](https://open.spotify.com/album/4RuXbV8f3JjPJzTtGmBtss) | 3:04 |
-| 23 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
-| 24 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 |
-| 25 | [The Weather \(Acoustic\)](https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [The Weather \(Acoustic & Gospel Reprise\)](https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH) | 3:10 |
-| 26 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
+| 22 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 23 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 |
+| 24 | [The Weather \(Acoustic\)](https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [The Weather \(Acoustic & Gospel Reprise\)](https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH) | 3:10 |
+| 25 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
+| 26 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/3UOvd4bfGqepCVx4EJLy57) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Thinking 'Bout Love \(Acoustic\)](https://open.spotify.com/album/4RuXbV8f3JjPJzTtGmBtss) | 3:04 |
 | 27 | [Every Colour](https://open.spotify.com/track/7nNq5Q2Khh1bOyF1QQFLjd) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/0DtpBbI7QACD3pt5vNPGfc) | 3:56 |
 | 28 | [Be](https://open.spotify.com/track/2qemAIX6nDVNAfbRcsDUWB) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Be](https://open.spotify.com/album/5xzQZ83mBH5k6ulLwxBMEC) | 2:29 |
 | 29 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 82 | [Good to Be Alone](https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up) | [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Heartbreak Hits](https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I) | 3:41 |
 | 83 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
 | 84 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 3:37 |
-| 85 | [Under The Sun](https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 2:49 |
-| 86 | [29 \#Strafford APTS](https://open.spotify.com/track/7wAEw2zU5ls6NvXdisz5DJ) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 4:02 |
+| 85 | [29 \#Strafford APTS](https://open.spotify.com/track/7wAEw2zU5ls6NvXdisz5DJ) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 4:02 |
+| 86 | [Under The Sun](https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 2:49 |
 | 87 | [Song for B](https://open.spotify.com/track/1m7R5WgnPGcJpp7MXvJJqC) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Song for B](https://open.spotify.com/album/0k3KbV5dUIwbugAh6o7Wc0) | 2:56 |
 | 88 | [I Hope You Change Your Mind](https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S) | 2:52 |
 | 89 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 |
 | 200 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 |
 
-Snapshot ID: `MTY0Nzk5NzQzNiwwMDAwMDAwMDM0NzlhOWIxYThlNzc0MzAwOTQyZTI1OGQ0YmQzOWRl`
+Snapshot ID: `MTY0ODA4MzU2NiwwMDAwMDAwMDU2ZmYxYjRiODI0NzI2YzcyMGI3ZTFmYzMzODQ0ZTRm`

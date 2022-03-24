@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 62401,
+  "num_followers": 62382,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE3NSwwMDAwMDAwMDlmNmVmODc1MjE5ODFmYTM5OGE2NWRjZDdiYzcwMzkw",
+  "snapshot_id": "MTY0ODA4MzI5OSwwMDAwMDAwMDNjMTBlMDg2NGY2ZjkzYzEzMDQ5ZTg0YWE3YTVhMWM3",
   "tracks": [
     {
       "added_at": "2022-01-03 08:54:03",
@@ -143,6 +143,30 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
+        "name": "The Pianoman at Christmas (The Complete Edition)",
+        "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        },
+        {
+          "name": "Kansas Smitty's",
+          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
+        }
+      ],
+      "duration_ms": 173585,
+      "name": "This Winter",
+      "url": "https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp"
+    },
+    {
+      "added_at": "2022-01-03 08:54:03",
+      "album": {
         "name": "Christmas Calling (Jolly Jones)",
         "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
       },
@@ -175,30 +199,6 @@
       "duration_ms": 241293,
       "name": "The Twelve Days Of Christmas",
       "url": "https://open.spotify.com/track/3mN4d5mTIRhejm0ZjOuBVA"
-    },
-    {
-      "added_at": "2022-01-03 08:54:03",
-      "album": {
-        "name": "The Pianoman at Christmas (The Complete Edition)",
-        "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        },
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        },
-        {
-          "name": "Kansas Smitty's",
-          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
-        }
-      ],
-      "duration_ms": 173585,
-      "name": "This Winter",
-      "url": "https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp"
     },
     {
       "added_at": "2022-01-03 08:54:03",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
-    },
-    {
-      "added_at": "2022-01-03 08:54:03",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "added_at": "2022-01-03 08:54:03",
+      "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
     },
     {
       "added_at": "2022-01-03 08:54:03",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
-    },
-    {
-      "added_at": "2022-01-03 08:54:03",
-      "album": {
         "name": "Give the Love Around",
         "url": "https://open.spotify.com/album/1iouCZ6xeyFzHbTuTiD5Jk"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
-        "name": "Traditionalism Revisited",
-        "url": "https://open.spotify.com/album/2iL2VCxjoVWAtpkKpTOGrI"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
         }
       ],
-      "duration_ms": 345133,
-      "name": "Santa Claus Blues",
-      "url": "https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH"
+      "duration_ms": 255066,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
     },
     {
       "added_at": "2022-01-03 08:54:03",
@@ -539,6 +523,22 @@
       "duration_ms": 220133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
+    },
+    {
+      "added_at": "2022-01-03 08:54:03",
+      "album": {
+        "name": "Traditionalism Revisited",
+        "url": "https://open.spotify.com/album/2iL2VCxjoVWAtpkKpTOGrI"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "Santa Claus Blues",
+      "url": "https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH"
     },
     {
       "added_at": "2022-01-03 08:54:03",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
-    },
-    {
-      "added_at": "2022-01-03 08:54:03",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 212880,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r"
+    },
+    {
+      "added_at": "2022-01-03 08:54:03",
+      "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
       "added_at": "2022-01-03 08:54:03",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-01-03 08:54:03",
       "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Christmas Waltz - Remastered 1999",
+      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
+    },
+    {
+      "added_at": "2022-01-03 08:54:03",
+      "album": {
         "name": "Here's Love",
         "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
-    },
-    {
-      "added_at": "2022-01-03 08:54:03",
-      "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Christmas Waltz - Remastered 1999",
-      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

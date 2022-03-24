@@ -1076,6 +1076,40 @@
     },
     {
       "album": {
+        "name": "Naino Waaleya",
+        "url": "https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Darshan Doshi",
+          "url": "https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy"
+        },
+        {
+          "name": "Kamran Zafar",
+          "url": "https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des"
+        },
+        {
+          "name": "Kshitij Mathur",
+          "url": "https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387473,
+      "name": "Naino Waaleya",
+      "url": "https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0"
+    },
+    {
+      "album": {
         "name": "MidIval Punditz",
         "url": "https://open.spotify.com/album/3Gt2rSnTmlwjowHKV5vsIX"
       },
@@ -1325,6 +1359,24 @@
       "duration_ms": 398571,
       "name": "Rang - Raga Baageshri",
       "url": "https://open.spotify.com/track/2L5XVJGJBrDmG7W8ImYvwZ"
+    },
+    {
+      "album": {
+        "name": "Rang Daaroongi",
+        "url": "https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa"
+      },
+      "artists": [
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255449,
+      "name": "Rang Daaroongi",
+      "url": "https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3"
     },
     {
       "album": {

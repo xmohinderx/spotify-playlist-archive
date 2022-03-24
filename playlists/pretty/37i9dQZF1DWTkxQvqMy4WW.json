@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 2857523,
+  "num_followers": 2858317,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg1NCwwMDAwMDAwMDUwNDc3MDk5YzgzMjUwN2RmZTg1YmU0YjYzMDc0Mzkw",
+  "snapshot_id": "MTY0ODA4Mjk3MSwwMDAwMDAwMDI1ZTYxMDhjNDQ4MWRjNzE3ZGZkZTM1N2Y2NmU0NTcy",
   "tracks": [
     {
       "added_at": "2022-03-11 05:07:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
-    },
-    {
-      "added_at": "2022-03-11 05:07:01",
-      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2022-03-11 05:07:01",
+      "album": {
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
     },
     {
       "added_at": "2022-03-11 05:07:01",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2022-03-11 05:07:01",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3yYIlnqvZvOs6R0nyee7sg"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/2u7Nm46dAujcAi5Rw79CJL"
     },
     {
       "added_at": "2022-03-11 05:07:01",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3yYIlnqvZvOs6R0nyee7sg"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/2u7Nm46dAujcAi5Rw79CJL"
-    },
-    {
-      "added_at": "2022-03-11 05:07:01",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 190640,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/4EpLU30bi1KNWkBTfgZkoK"
+    },
+    {
+      "added_at": "2022-03-11 05:07:01",
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
       "added_at": "2022-03-11 05:07:01",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/2USjde8Y8z21QTCw6akgJU"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3UZ9aPaYlBBlAvpdh3kK0U"
-    },
-    {
-      "added_at": "2022-03-11 05:07:01",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 230226,
       "name": "Damn Strait",
       "url": "https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b"
+    },
+    {
+      "added_at": "2022-03-11 05:07:01",
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/2USjde8Y8z21QTCw6akgJU"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3UZ9aPaYlBBlAvpdh3kK0U"
     },
     {
       "added_at": "2022-03-11 05:07:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-03-11 05:07:01",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
-    },
-    {
-      "added_at": "2022-03-11 05:07:01",
-      "album": {
         "name": "Florida Georgia Line",
         "url": "https://open.spotify.com/album/6V431Aaa3zSvu9OyxbqtNw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 185200,
       "name": "Simple",
       "url": "https://open.spotify.com/track/4P92FrvmYQSAfOpp4cpFEi"
+    },
+    {
+      "added_at": "2022-03-11 05:07:01",
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2022-03-11 05:07:01",

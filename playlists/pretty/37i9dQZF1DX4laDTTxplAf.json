@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 190274,
+  "num_followers": 190414,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE5MiwwMDAwMDAwMGMzNmZlNjNjNTA5ZjYxNDVjYmU1YmUzN2QzYjBkOGZh",
+  "snapshot_id": "MTY0ODA4MzMxOCwwMDAwMDAwMDNhNmE2NTJhMTgzNmIxNTAyMGYyMDk1NjBlZThmZWVh",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "The Best of Mandy Moore",
+        "url": "https://open.spotify.com/album/551186Jr75bHrh58ZdEMhW"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7068X4wz4hhlhzj0cTlXU4"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "The Best of Mandy Moore",
-        "url": "https://open.spotify.com/album/551186Jr75bHrh58ZdEMhW"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/7068X4wz4hhlhzj0cTlXU4"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "In This Skin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7AHZb0GnILBBitj0MxObO5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "In This Skin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7AHZb0GnILBBitj0MxObO5"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "I Thought She Knew",
-      "url": "https://open.spotify.com/track/1ppDgqS367qa6BKS3QTjvQ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "I Thought She Knew",
+      "url": "https://open.spotify.com/track/1ppDgqS367qa6BKS3QTjvQ"
     },
     {
       "added_at": "2021-02-10 17:52:46",

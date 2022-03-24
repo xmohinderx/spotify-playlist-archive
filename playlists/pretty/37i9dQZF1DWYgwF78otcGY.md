@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,942 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,944 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 13 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
 | 14 | [Shout It Out](https://open.spotify.com/track/1FzbswEKtDxxvpx6S5tnQ4) | [David Lindgren](https://open.spotify.com/artist/7qWB1MNQHOkDdSVGjBtvMX) | [Get Started](https://open.spotify.com/album/1AElgWL3RUmcvhhYPfgYWT) | 3:03 |
 | 15 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 16 | [I Do](https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [I Do](https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT) | 3:04 |
-| 17 | [Stad i ljus](https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Är](https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z) | 3:08 |
-| 18 | [You](https://open.spotify.com/track/0apqDPK578iRoiR9VIRA0a) | [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [You](https://open.spotify.com/album/4r6y9PwyyY5uRv9if3zWsN) | 3:04 |
+| 16 | [Stad i ljus](https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Är](https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z) | 3:08 |
+| 17 | [You](https://open.spotify.com/track/0apqDPK578iRoiR9VIRA0a) | [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [You](https://open.spotify.com/album/4r6y9PwyyY5uRv9if3zWsN) | 3:04 |
+| 18 | [I Do](https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [I Do](https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT) | 3:04 |
 | 19 | [Kom](https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t) | 2:58 |
 | 20 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 21 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
-| 22 | [Just A Minute](https://open.spotify.com/track/2eAgErGWqrXow47SjwTqMp) | [Rongedal](https://open.spotify.com/artist/3LjwAlxDC5bWQG5wOTIEyB) | [Rongedal](https://open.spotify.com/album/2yMlEILxOsbQdEfiukJ8GO) | 3:01 |
-| 23 | [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL) | 3:01 |
+| 22 | [Fångad av en stormvind \- Swedish Version](https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL) | 3:01 |
+| 23 | [Just A Minute](https://open.spotify.com/track/2eAgErGWqrXow47SjwTqMp) | [Rongedal](https://open.spotify.com/artist/3LjwAlxDC5bWQG5wOTIEyB) | [Rongedal](https://open.spotify.com/album/2yMlEILxOsbQdEfiukJ8GO) | 3:01 |
 | 24 | [Guld och gröna skogar](https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773) | [Hasse Andersson](https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH) | [Guld och gröna skogar](https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW) | 3:03 |
 | 25 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
 | 26 | [Sing for Me](https://open.spotify.com/track/03vteAFjN5267GCpKBeN0I) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Mr Johnson, your room is on fire \(2006 version\)](https://open.spotify.com/album/5mu9IxNIHk09uefw7iTccU) | 3:05 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [La Voix](https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo) | [La Voix du Nord](https://open.spotify.com/album/5aOtux3Yx9MZV7IBhSVV5B) | 2:57 |
 | 52 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 
-Snapshot ID: `MTY0Nzk5NzAwNCwwMDAwMDAwMDljNTc2MTQ3Njc4YWMzZTFmNzliMGZmNWFiOGE2MmIw`
+Snapshot ID: `MTY0ODA4MzEyNSwwMDAwMDAwMDU4OWY5NDY0M2Y2NTY2OGY0ZjE4NjhiMTFkMmE0NDM2`

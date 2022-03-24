@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 61544,
+  "num_followers": 61735,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI0MywwMDAwMDAwMDA1MjY4ZTYyZTk5OTBiNzAyYTEwYjZiODgxYjRmOWZm",
+  "snapshot_id": "MTY0ODA4MzM2NywwMDAwMDAwMDgzZTY4M2UyNDZkYWRlYWM2NmZjN2IyMDI3M2JhY2M4",
   "tracks": [
     {
       "added_at": "2021-12-03 22:58:19",
@@ -379,22 +379,22 @@
     {
       "added_at": "2021-12-03 22:58:19",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         },
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "OSHUN",
+          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+      "duration_ms": 237973,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
     },
     {
       "added_at": "2021-12-03 22:58:19",
@@ -415,22 +415,22 @@
     {
       "added_at": "2021-12-03 22:58:19",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         },
         {
-          "name": "OSHUN",
-          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 237973,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
     },
     {
       "added_at": "2021-12-03 22:58:19",
@@ -835,26 +835,6 @@
     {
       "added_at": "2021-12-03 22:58:19",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm"
-    },
-    {
-      "added_at": "2021-12-03 22:58:19",
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 262092,
       "name": "We Go Again",
       "url": "https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw"
+    },
+    {
+      "added_at": "2021-12-03 22:58:19",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm"
     },
     {
       "added_at": "2021-12-03 22:58:19",

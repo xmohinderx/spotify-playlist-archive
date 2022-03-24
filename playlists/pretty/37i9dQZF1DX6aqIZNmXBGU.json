@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 15108,
+  "num_followers": 15105,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI1NiwwMDAwMDAwMDliZTkwOWZjOGQ4NDQ1MGIyNzU4M2UzMTY5NzVhNjBi",
+  "snapshot_id": "MTY0ODA4MzM4MSwwMDAwMDAwMGM5ZmE4MDJkMjRhMTc3MzBkZGEzYzNhNTdhYmQxZmFk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Freedom's Goblin",
-        "url": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 232386,
-      "name": "My Lady's On Fire",
-      "url": "https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Can't Get No",
         "url": "https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ"
+        "name": "Freedom's Goblin",
+        "url": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/6vTtMyCg96xwpoIBws9K0Q"
+      "duration_ms": 232386,
+      "name": "My Lady's On Fire",
+      "url": "https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -235,6 +219,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/6vTtMyCg96xwpoIBws9K0Q"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "High Visibility",
         "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Love Fuzz",
-        "url": "https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 456200,
-      "name": "Love Fuzz",
-      "url": "https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Their Satanic Majesties' Second Request",
         "url": "https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 334466,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Love Fuzz",
+        "url": "https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 456200,
+      "name": "Love Fuzz",
+      "url": "https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Bass Drum of Death",
-        "url": "https://open.spotify.com/album/1MrxEuHaKd4EF1DLsciXYV"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Crawling After You",
-      "url": "https://open.spotify.com/track/449QkOGQPg3z3mnLiE3Bl5"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Aeons",
         "url": "https://open.spotify.com/album/6iq57usboyGlSQMv9a6zaK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 211764,
       "name": "Aeons",
       "url": "https://open.spotify.com/track/7u0h3YWV24zGDMmmALRlzN"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Bass Drum of Death",
+        "url": "https://open.spotify.com/album/1MrxEuHaKd4EF1DLsciXYV"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Crawling After You",
+      "url": "https://open.spotify.com/track/449QkOGQPg3z3mnLiE3Bl5"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "BoiSad",
         "url": "https://open.spotify.com/album/3QZ3YT5ULnVuDYqVmbdpKm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 211253,
       "name": "Reservoir Dawgs",
       "url": "https://open.spotify.com/track/5PcajS32GzEYgnBKRX0d9p"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
     },
     {
       "added_at": "2021-04-09 06:19:31",

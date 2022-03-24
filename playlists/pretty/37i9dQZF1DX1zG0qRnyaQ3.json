@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 179926,
+  "num_followers": 180009,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzEwNiwwMDAwMDAwMGI5MTk5NjExYjJjMjk2NTYxN2YxNjQ5MTZkZmU1MzI1",
+  "snapshot_id": "MTY0ODA4MzIzMywwMDAwMDAwMDllODBhODM1ZmIxZjBhNmRhNDdhYThhM2IwZDM2YjIz",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Kids Are Alt-Right",
-        "url": "https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 163203,
-      "name": "The Kids Are Alt-Right",
-      "url": "https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Peace in Our Time",
         "url": "https://open.spotify.com/album/2eMQ2OV3EuEvFemz5H0RKu"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Fish in a Gun Barrel",
-        "url": "https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo"
+        "name": "The Kids Are Alt-Right",
+        "url": "https://open.spotify.com/album/25K4K0LEoyu1pgbg1JGAvX"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 218310,
-      "name": "Fish in a Gun Barrel",
-      "url": "https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y"
+      "duration_ms": 163203,
+      "name": "The Kids Are Alt-Right",
+      "url": "https://open.spotify.com/track/2jaarBZJE7yviC71Gkggif"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -235,6 +219,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "Fish in a Gun Barrel",
+        "url": "https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 218310,
+      "name": "Fish in a Gun Barrel",
+      "url": "https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Hate Conquers All",
         "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 166893,
       "name": "Hate Conquers All",
       "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 105826,
-      "name": "Do The Paranoid Style",
-      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -299,6 +283,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Womanarchist",
         "url": "https://open.spotify.com/album/07tZfE1asICV1CBXpPPaPc"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 189933,
       "name": "The Guns of Brixton - Remastered",
       "url": "https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "The War On Errorism",
-        "url": "https://open.spotify.com/album/0D6YPfv9u2JHdp1kiieR25"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 145466,
-      "name": "Franco Un-American",
-      "url": "https://open.spotify.com/track/00AgttKx4gRJghhPETFrOE"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -379,22 +363,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Suffrage",
-        "url": "https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 142861,
-      "name": "On You",
-      "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The War On Errorism",
+        "url": "https://open.spotify.com/album/0D6YPfv9u2JHdp1kiieR25"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/00AgttKx4gRJghhPETFrOE"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -427,6 +411,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "Suffrage",
+        "url": "https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 142861,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Pursuit of Liberty",
-        "url": "https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF"
-      },
-      "artists": [
-        {
-          "name": "Bad Cop, Bad Cop",
-          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
-        }
-      ],
-      "duration_ms": 203150,
-      "name": "Pursuit of Liberty",
-      "url": "https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 139133,
       "name": "State Of The Union",
       "url": "https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "Pursuit of Liberty",
+        "url": "https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF"
+      },
+      "artists": [
+        {
+          "name": "Bad Cop, Bad Cop",
+          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+        }
+      ],
+      "duration_ms": 203150,
+      "name": "Pursuit of Liberty",
+      "url": "https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw"
     },
     {
       "added_at": "2021-01-16 16:36:48",

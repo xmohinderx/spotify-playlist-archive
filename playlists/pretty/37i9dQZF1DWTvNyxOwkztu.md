@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,441 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,878 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 16 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
 | 17 | [Malin's Song](https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [For Love](https://open.spotify.com/album/4LBj9X5oIwy48MNG74H8jy) | 4:03 |
 | 18 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
-| 19 | [Dire, Dire Docks](https://open.spotify.com/track/6RNny5ViT14jcQsgh8Eb6J) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Dire, Dire Docks](https://open.spotify.com/album/22BuW6nNJDBDOsRfUIXU8g) | 2:37 |
-| 20 | [Waves](https://open.spotify.com/track/6O1nKsN1VUQDic17dTaZmw) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Waves](https://open.spotify.com/album/5i6qghXwHblajkE2DeV9yE) | 3:30 |
+| 19 | [Waves](https://open.spotify.com/track/6O1nKsN1VUQDic17dTaZmw) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Waves](https://open.spotify.com/album/5i6qghXwHblajkE2DeV9yE) | 3:30 |
+| 20 | [Dire, Dire Docks](https://open.spotify.com/track/6RNny5ViT14jcQsgh8Eb6J) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Dire, Dire Docks](https://open.spotify.com/album/22BuW6nNJDBDOsRfUIXU8g) | 2:37 |
 | 21 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 |
 | 22 | [Must Have Forgotten](https://open.spotify.com/track/5D7P5pFRBubnuKzAQkBz6c) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Zebrawood](https://open.spotify.com/album/4dWOHUf6hyWQRa9S7WZwk7) | 3:23 |
 | 23 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 51 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 |
 | 52 | [Motion](https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd) | [Ambyion](https://open.spotify.com/artist/1OX2MZhepUtYnq7FCGMVj5) | [Motion](https://open.spotify.com/album/2P9fBxIqlvZmTztyhPaNTD) | 3:41 |
 | 53 | [Feel Good](https://open.spotify.com/track/3BOcy4WD4qgILGC3D9SyUH) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Feel Good](https://open.spotify.com/album/4O2cQ8Oz8v2TMm7kGXlHfy) | 3:50 |
-| 54 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 |
-| 55 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 |
+| 54 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 |
+| 55 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 |
 | 56 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
 | 57 | [Schwimmend](https://open.spotify.com/track/21h7q9ltYVFeHZKNRhqsec) | [Karl Rosskopf](https://open.spotify.com/artist/4kpLFREUgmoCqpRrAjYhRw) | [Schwimmend](https://open.spotify.com/album/4ybnnLESuLEhUtEFq1W5WP) | 4:25 |
 | 58 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 |
 | 100 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 
-Snapshot ID: `MTY0Nzk5Njg1OSwwMDAwMDAwMDQwMDg4OWQ2NDZkZGJlY2FjMjc4NjBiNTZlZjM0MTQ4`
+Snapshot ID: `MTY0ODA4Mjk3NSwwMDAwMDAwMGJmMTQ4NDYxYjEwZWM0MzRkM2Q4MTQ3NzRlODFhZjU2`

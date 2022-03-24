@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,328 likes - 131 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,421 likes - 131 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 45 | [My Music](https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [My Music](https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE) | 3:27 |
 | 46 | [I've Got A Feeling](https://open.spotify.com/track/6pVJiHCsqp5supHsm5GAJk) | [Baby Washington](https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH) | [That's How Heartaches Are Made](https://open.spotify.com/album/1qg0TpPP1jwSiPlxhAYuPj) | 2:54 |
 | 47 | [I Learned the Hard Way](https://open.spotify.com/track/4yGKuj0prNvMW7ikeXv57x) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Daptone Summer Jams](https://open.spotify.com/album/5SXUzvribtNUgJ5UXsoU1H) | 3:47 |
-| 48 | [Keep Him](https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 2:04 |
-| 49 | [One Life to Live](https://open.spotify.com/track/4uW41encpb6TYP6329O6FY) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [A Million to One](https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d) | 4:26 |
+| 48 | [One Life to Live](https://open.spotify.com/track/4uW41encpb6TYP6329O6FY) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [A Million to One](https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d) | 4:26 |
+| 49 | [Keep Him](https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 2:04 |
 | 50 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
 | 51 | [As Long As She Needs Me](https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Motown Unreleased 1965: Marvin Gaye](https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V) | 2:31 |
 | 52 | [Let Me Go](https://open.spotify.com/track/5dQn02IFMtt6Uvzauousbz) | [Chicago Gangsters](https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF) | [I Choose You](https://open.spotify.com/album/3eOwF8CEKSy8L4H5UbloAe) | 2:47 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 70 | [My Love Don't Come Easy](https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:36 |
 | 71 | [I'll Make It Easy \(If You'll Come On Home\)](https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt) | [The Incredibles](https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj) | [Greatest Hits](https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj) | 2:38 |
 | 72 | [Start All Over](https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK) | [Soul Survivors](https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx) | [Soul Survivors](https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl) | 4:34 |
-| 73 | [The Whole Town's Laughing at Me](https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:27 |
-| 74 | [I'll Come Running](https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW) | [Carolyn Crawford](https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS) | [The Complete Motown Singles Vol\. 4: 1964](https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk) | 2:37 |
-| 75 | [Time's a Wasting](https://open.spotify.com/track/6kOCUC0SQTcpwQPV9fWOcU) | [Fuller Brothers](https://open.spotify.com/artist/33l1j7RAHw6aW8WipBBsYx) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:32 |
+| 73 | [I'll Come Running](https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW) | [Carolyn Crawford](https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS) | [The Complete Motown Singles Vol\. 4: 1964](https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk) | 2:37 |
+| 74 | [Time's a Wasting](https://open.spotify.com/track/6kOCUC0SQTcpwQPV9fWOcU) | [Fuller Brothers](https://open.spotify.com/artist/33l1j7RAHw6aW8WipBBsYx) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:32 |
+| 75 | [The Whole Town's Laughing at Me](https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:27 |
 | 76 | [Poor\-Unfortunate\-Me](https://open.spotify.com/track/4umvQxT5ZKCIOS4rC42DXK) | [J.J\. Barnes](https://open.spotify.com/artist/2hIOIluaknpeTzdniBzj8A) | [Dusty Vintage Records, Vol\. 2](https://open.spotify.com/album/2HjVIn73iQqKjd89UeFGjT) | 2:44 |
 | 77 | [One Minute Babe](https://open.spotify.com/track/3ZICESL9CkbCQ8tJWj4R7l) | [The Brothers Of Soul](https://open.spotify.com/artist/7EOBpvnonNT0gPAPU1hjYF) | [I Guess That Don't Make Me a Loser](https://open.spotify.com/album/5SDAtEZmXo8uRRiGAqCZtr) | 2:55 |
 | 78 | [Even Though You're Gone](https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Goin' Places](https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3) | 4:33 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 127 | [Yellow Sunshine](https://open.spotify.com/track/2qmmw7HDfGNVFr3e9s26Cc) | [Yellow Sunshine](https://open.spotify.com/artist/7m64pEAzGkLbAlbX2g0Mmj) | [Conquer The World: The Lost Soul Of Philadelphia International Records](https://open.spotify.com/album/36EyfRc4KIyWtqdIZw1xSX) | 3:23 |
 | 128 | [Alone](https://open.spotify.com/track/5rkpxPKDNDEVzFshqyLwqS) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:48 |
 | 129 | [Baby Hit And Run \- Alternate Vocal](https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 3:02 |
-| 130 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
-| 131 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 |
+| 130 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 |
+| 131 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 
-Snapshot ID: `MTY0Nzk5NzQyMCwwMDAwMDAwMDI0ZjY3ZjlkYTUzOGExMTU1YTdjNmJlNWE2OTEyZmE3`
+Snapshot ID: `MTY0ODA4MzU1MCwwMDAwMDAwMDk1ZTkzMDA4ZDAxYjlhNGM1MmQ5OTkzOGY4OTU1Zjcy`

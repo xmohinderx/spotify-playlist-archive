@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 31088,
+  "num_followers": 31213,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI5MSwwMDAwMDAwMDVlZTY4ODZjNmQwMzhhNjI0NzFmZTNjOTgzODQwZDJm",
+  "snapshot_id": "MTY0ODA4MzQxNSwwMDAwMDAwMDMxOTNkYTE5ODNkNDA5ZjBkODg2N2UyYmM0MGNmODg2",
   "tracks": [
     {
       "added_at": "2022-02-11 08:15:50",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
-        "name": "Grandes \u00c9xitos: Raphael",
-        "url": "https://open.spotify.com/album/7D8r6nBnVxK4mw87aWGYo5"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Como yo te amo",
-      "url": "https://open.spotify.com/track/0OyQxLc7aa6tT8WPSThh9v"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
+        "name": "Grandes \u00c9xitos: Raphael",
+        "url": "https://open.spotify.com/album/7D8r6nBnVxK4mw87aWGYo5"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Como yo te amo",
+      "url": "https://open.spotify.com/track/0OyQxLc7aa6tT8WPSThh9v"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Entra en Mi Vida",
-      "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -547,6 +547,26 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 245560,
       "name": "Hoy tengo ganas de ti",
       "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
         "name": "Bustamante",
         "url": "https://open.spotify.com/album/0JrTD4R9NmcjAmOkFX2QXZ"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
         "name": "A Las Cinco En El Astoria",
         "url": "https://open.spotify.com/album/1Fl1Nz4DNgUcaUoC97ArXC"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/0z0rIUnGrpIyQ4mQwmbfeh"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -727,22 +743,6 @@
       "duration_ms": 180493,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6svomc2OrfHEqm6bIDqddz"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/273buPXMrWCNebglkJodUr"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00fa",
-          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/01GOfcFj720XJOKwnpv6I9"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/273buPXMrWCNebglkJodUr"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/01GOfcFj720XJOKwnpv6I9"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 242000,
       "name": "Siete Vidas",
       "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
+        "name": "The Studio Albums 1990-2011",
+        "url": "https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/1krPRCgaaG2k8QDZo16Qae"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -967,22 +983,6 @@
       "duration_ms": 219586,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
-        "name": "The Studio Albums 1990-2011",
-        "url": "https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/1krPRCgaaG2k8QDZo16Qae"
     },
     {
       "added_at": "2022-02-11 08:15:50",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-02-11 08:15:50",
       "album": {
-        "name": "Esencial Mocedades",
-        "url": "https://open.spotify.com/album/6nd5Lgj54ThSlY9nwryi7P"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5ETDazN24XkAEvf00KT2jU"
-    },
-    {
-      "added_at": "2022-02-11 08:15:50",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 230646,
       "name": "Lo siento",
       "url": "https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1"
+    },
+    {
+      "added_at": "2022-02-11 08:15:50",
+      "album": {
+        "name": "Esencial Mocedades",
+        "url": "https://open.spotify.com/album/6nd5Lgj54ThSlY9nwryi7P"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5ETDazN24XkAEvf00KT2jU"
     },
     {
       "added_at": "2022-02-11 08:15:50",

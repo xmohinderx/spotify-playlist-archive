@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,181 likes - 115 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,179 likes - 115 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 90 | [Ballad of a Thin Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/25iR1fL2TQwkO7QG5UWZxf) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/7Kk6sx9YaaYs3LQ6FlnZui) | 5:01 |
 | 91 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 |
 | 92 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
-| 93 | [I Can't Stop Thinking About You \- Recorded At Spotfiy Studios NYC](https://open.spotify.com/track/59Eg6uKmmowid9K4UV8Q8e) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Spotify Singles](https://open.spotify.com/album/2k9GXGAAlqHX8gZ6fXWfVr) | 3:32 |
-| 94 | [Girls Just Wanna Have Fun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:43 |
-| 95 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 |
+| 93 | [Girls Just Wanna Have Fun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:43 |
+| 94 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 |
+| 95 | [I Can't Stop Thinking About You \- Recorded At Spotfiy Studios NYC](https://open.spotify.com/track/59Eg6uKmmowid9K4UV8Q8e) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Spotify Singles](https://open.spotify.com/album/2k9GXGAAlqHX8gZ6fXWfVr) | 3:32 |
 | 96 | [Time Fades Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4k8gS9jSq9707NumLSkssT) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 6:17 |
 | 97 | [Accidentally Like a Martyr \- Recorded at Spotify Studios NYC, 6/07/2017](https://open.spotify.com/track/6JVrRGTD8lra7CFS1FMOr4) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Spotify Singles](https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt) | 4:17 |
 | 98 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 3:26 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [Golden Slumbers \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 2:47 |
 | 115 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
 
-Snapshot ID: `MTY0Nzk5NzE5NCwwMDAwMDAwMDE4YjhlOTA3NmQ3YThiNjI1Y2FjYjJjZTY4NjVmM2Vi`
+Snapshot ID: `MTY0ODA4MzMxOSwwMDAwMDAwMDQyNGZhZDA5ZDFkZDI2NTQ5YjM1YmM5YTIwOWM2OWE1`

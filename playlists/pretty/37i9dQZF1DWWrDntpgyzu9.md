@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,735 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,745 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 6 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
 | 7 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 |
 | 8 | [Evidências](https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Do Tamanho do Nosso Amor](https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077) | 4:39 |
-| 9 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 |
-| 10 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
+| 9 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
+| 10 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 |
 | 11 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 |
 | 12 | [Como Eu Quero \- Live](https://open.spotify.com/track/2O4UvB3S7PFKIy0UPyVavJ) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF) | [Acústico \(Live\)](https://open.spotify.com/album/5v4f06g11UyBtDZS5x8p4u) | 3:03 |
 | 13 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 16 | [Praieiro \- Ao Vivo](https://open.spotify.com/track/7iK8Osp7BFdJ6EDqb05s9W) | [Jammil E Uma Noites](https://open.spotify.com/artist/0drNUQoEie9lmZKhCdIE6n) | [Jammil de Todas As Praias \- Ao Vivo](https://open.spotify.com/album/3MoZhMldIHBVV15xHBgMba) | 3:49 |
 | 17 | [Epitáfio](https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [A Melhor Banda De Todos Os Tempos Da Última Semana](https://open.spotify.com/album/71XhBGySJjyGOSHGVelZ4K) | 2:55 |
 | 18 | [A Lenda](https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações \(Ao Vivo\)](https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2) | 4:31 |
-| 19 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
-| 20 | [Deixa Acontecer](https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [100% Grupo Revelação](https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a) | 4:06 |
-| 21 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
+| 19 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
+| 20 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
+| 21 | [Deixa Acontecer](https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [100% Grupo Revelação](https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a) | 4:06 |
 | 22 | [100% Você](https://open.spotify.com/track/2msjqUjA6Eg5TI2M5EwJ8A) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [Sou Chicleteiro](https://open.spotify.com/album/6Zk5747wyErfiINmWALlO4) | 4:03 |
 | 23 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
 | 24 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 31 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 | 32 | [Loka](https://open.spotify.com/track/257tme6AhneIKAqVF1HTH4) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Loka](https://open.spotify.com/album/2Z00ZTcD2GLiloQQyzf5m5) | 3:35 |
 | 33 | [Pesadão](https://open.spotify.com/track/1BkyiAw1L0BOHYckwpRX4V) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Pesadão](https://open.spotify.com/album/1lTqQFgYroGTUZp1e7BoSp) | 3:19 |
-| 34 | [Liberdade Provisória \- Ao Vivo](https://open.spotify.com/track/3Ghyp3X5Ua9ypHnBIgOObI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo no Ibirapuera, Vol\. 1](https://open.spotify.com/album/0P8BJygXjQmRzkyTFHTBIQ) | 3:07 |
-| 35 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
-| 36 | [Que Se Chama Amor](https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Maxximum \- Só Pra Contrariar](https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4) | 4:00 |
+| 34 | [Que Se Chama Amor](https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Maxximum \- Só Pra Contrariar](https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4) | 4:00 |
+| 35 | [Liberdade Provisória \- Ao Vivo](https://open.spotify.com/track/3Ghyp3X5Ua9ypHnBIgOObI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo no Ibirapuera, Vol\. 1](https://open.spotify.com/album/0P8BJygXjQmRzkyTFHTBIQ) | 3:07 |
+| 36 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
 | 37 | [Café](https://open.spotify.com/track/6i9ToXS6CAfjpp8veBklg1) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 3:10 |
 | 38 | [Romance Com Safadeza](https://open.spotify.com/track/0RBOFW5424gCCCZrgECbt6) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Romance Com Safadeza](https://open.spotify.com/album/02W8NoSx4nKkg3Sybws8IS) | 2:52 |
 | 39 | [Infiel \- Ao Vivo](https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 49 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
 | 50 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 
-Snapshot ID: `MTY0Nzk5Njk1MCwwMDAwMDAwMDE3YTlmNjFhMjk0OGFmMmZjODdkMzA3YzE1MWIwMWQw`
+Snapshot ID: `MTY0ODA4MzA2OSwwMDAwMDAwMDAzOTRmZTMyYjFmZWUwNWEwOTFhOWQyMjFmNTViZjNj`

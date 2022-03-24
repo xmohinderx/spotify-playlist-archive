@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3300289,
+  "num_followers": 3301546,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI1NCwwMDAwMDAwMGRmOWU0N2UwMDcwMjA4MTMzMGEyYjU3NGFjNDY5NWFj",
+  "snapshot_id": "MTY0ODA4MzM3OSwwMDAwMDAwMDY0MzY4YjQxYTA5N2Y0MmEyNTQ2NTk2OWYwYWJiNTU4",
   "tracks": [
     {
       "added_at": "2022-03-18 04:00:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+        "name": "Leave Me Low",
+        "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
+      "duration_ms": 178560,
+      "name": "Leave Me Low",
+      "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -255,22 +259,18 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Leave Me Low",
-        "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Leave Me Low",
-      "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Assassin",
         "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
       },
@@ -419,26 +403,6 @@
       "duration_ms": 326000,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Marea (We\u2019ve Lost Dancing)",
-      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -463,6 +427,42 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Marea (We\u2019ve Lost Dancing)",
+      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Settle",
         "url": "https://open.spotify.com/album/5PsQzh0gLIPqgM3GK3DV42"
       },
@@ -479,6 +479,26 @@
       "duration_ms": 252000,
       "name": "Settle",
       "url": "https://open.spotify.com/track/5kVRGfWiIOcJwxIjLjesuM"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Reviver",
+        "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4CXjBd66mtIoIXDwVi8H0B"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Reviver",
-        "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4CXjBd66mtIoIXDwVi8H0B"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "The Making of a Paracosm",
         "url": "https://open.spotify.com/album/4yrjPmonSHiJIHum5TrqEe"
       },
@@ -631,46 +631,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/5Lff84RX5y2zZ6eIvv75vF"
-      },
-      "artists": [
-        {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        },
-        {
-          "name": "Koala Karlous",
-          "url": "https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/3fY7n6r6Ky1OuFyf0qgE1O"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "My Breath",
-        "url": "https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs"
-      },
-      "artists": [
-        {
-          "name": "Dezza",
-          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "My Breath",
-      "url": "https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Reviver",
         "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
       },
@@ -707,6 +667,26 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "My Breath",
+        "url": "https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs"
+      },
+      "artists": [
+        {
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "My Breath",
+      "url": "https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Rolling Back",
         "url": "https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 238000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5Lff84RX5y2zZ6eIvv75vF"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Koala Karlous",
+          "url": "https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3fY7n6r6Ky1OuFyf0qgE1O"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Another Dawn",
+        "url": "https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Benjamin Roustaing",
+          "url": "https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI"
+        }
+      ],
+      "duration_ms": 228447,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Coastin'",
         "url": "https://open.spotify.com/album/6cEJyUi9menuL1sZTOnRdh"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 270853,
       "name": "Survive - Sultan + Shepard Remix",
       "url": "https://open.spotify.com/track/149qn5c7JpsXg2YJLOmzUH"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Another Dawn",
-        "url": "https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Benjamin Roustaing",
-          "url": "https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI"
-        }
-      ],
-      "duration_ms": 228447,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Ozon",
         "url": "https://open.spotify.com/album/0TKtSI3a1VhYoa9rrZfZ7z"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 224726,
       "name": "Underwater - Leossa Remix",
       "url": "https://open.spotify.com/track/02tKAxBF9EazkMi4pBXb3o"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Erase",
-      "url": "https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Sweet Disposition (Vijay & Sofia Edit)",
         "url": "https://open.spotify.com/album/0CT73LsnOCHVq2F7CG6Yla"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 231250,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -2543,18 +2543,18 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Pearly",
-        "url": "https://open.spotify.com/album/2NcfxAHWAIfCknd3OFPqNF"
+        "name": "Letter EP",
+        "url": "https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms"
       },
       "artists": [
         {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 239016,
-      "name": "Pearly",
-      "url": "https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn"
+      "duration_ms": 235435,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Pearly",
+        "url": "https://open.spotify.com/album/2NcfxAHWAIfCknd3OFPqNF"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 239016,
+      "name": "Pearly",
+      "url": "https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/6WtQdf95tahhXN2OPupN7H"
       },
@@ -2607,22 +2623,6 @@
       "duration_ms": 166956,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/30c3t4nCmnst0ink5jMpJR"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Letter EP",
-        "url": "https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 235435,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -3543,6 +3543,22 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/1hTekpIUKOslOqgT35cZI2"
       },
@@ -3587,22 +3603,6 @@
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     }
   ],
   "unique_name": "Chill Tracks",

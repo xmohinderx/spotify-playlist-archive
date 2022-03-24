@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "A Heart Don't Break Like That",
+        "url": "https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "A Heart Don't Break Like That",
+      "url": "https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO"
+    },
+    {
+      "album": {
         "name": "about me.",
         "url": "https://open.spotify.com/album/0Nf7CdcN5HeDZJusJtzqTp"
       },
@@ -257,7 +279,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 242891,
       "name": "Another Whiskey",
       "url": "https://open.spotify.com/track/24DOHRr8IX1npa2cRxMZ1l"
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 225156,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/1xMTryybLDviCRWPUy9zw6"
@@ -1075,7 +1097,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 219090,
       "name": "Candles To Burn",
       "url": "https://open.spotify.com/track/52kO7RJTJIY8KYYNyCQRxw"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 186360,
       "name": "Coldest Beer In Town",
       "url": "https://open.spotify.com/track/3wxxyy1kvTOX59vxrYJESI"
@@ -1277,6 +1299,24 @@
       "duration_ms": 178408,
       "name": "Comin' from",
       "url": "https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG"
+    },
+    {
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7GH8JO6KGEzYtPDsn5a6ce"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202994,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/5avVT8FvGTcVfjO0B9pvVl"
     },
     {
       "album": {
@@ -1331,7 +1371,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 150000,
       "name": "Country in Me",
       "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
@@ -1468,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Cut Myself Off",
+        "url": "https://open.spotify.com/album/14I6ubYKauqbrlnppuUmZf"
+      },
+      "artists": [
+        {
+          "name": "Tyra Madison",
+          "url": "https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171736,
+      "name": "Cut Myself Off",
+      "url": "https://open.spotify.com/track/19GU9XHaVRunMfm9ZqOSpS"
+    },
+    {
+      "album": {
         "name": "Damn I Need a Drink",
         "url": "https://open.spotify.com/album/73s6nWYz7v9knI8ryE1b09"
       },
@@ -1519,6 +1577,24 @@
       "duration_ms": 242116,
       "name": "Day with Jesus",
       "url": "https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/5HuigVCy5PqK4EfRXoeqbf"
+      },
+      "artists": [
+        {
+          "name": "Cam Allen",
+          "url": "https://open.spotify.com/artist/7H0xTw1Db9fziT2JzwNRR3"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259700,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1wgaRB10yl1nX4RtHE5gXx"
     },
     {
       "album": {
@@ -2037,7 +2113,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 245368,
       "name": "Favorite Heartbreak",
       "url": "https://open.spotify.com/track/0Utgtxl79uhN9TT5WGeha0"
@@ -2304,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "Girl Behind The Bar",
+        "url": "https://open.spotify.com/album/3WKKeMDIN7BUmdGVA6i2Xf"
+      },
+      "artists": [
+        {
+          "name": "Holiday State",
+          "url": "https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190559,
+      "name": "Girl Behind The Bar",
+      "url": "https://open.spotify.com/track/3CiJvkj1BjznTlJlIWS7ml"
+    },
+    {
+      "album": {
         "name": "Girl That Got Away Comes Back",
         "url": "https://open.spotify.com/album/1EvsHYXIiG7o5oC60yUehB"
       },
@@ -2337,6 +2431,24 @@
       "duration_ms": 186666,
       "name": "Girl That Got Away Comes Back",
       "url": "https://open.spotify.com/track/5VNt2tPn5RCa25icl4hiMJ"
+    },
+    {
+      "album": {
+        "name": "Girls, Trucks and Beer",
+        "url": "https://open.spotify.com/album/6UNTNRES3DAuxqd2DldETh"
+      },
+      "artists": [
+        {
+          "name": "Martin McDaniel",
+          "url": "https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Girls, Trucks and Beer",
+      "url": "https://open.spotify.com/track/4dUnNIZwiCweeMYaKJCYZB"
     },
     {
       "album": {
@@ -2391,6 +2503,24 @@
       "duration_ms": 252001,
       "name": "Godspeed, Los Angeles",
       "url": "https://open.spotify.com/track/2d7P7PkbNQj25MbAzs0aUD"
+    },
+    {
+      "album": {
+        "name": "Good Liar",
+        "url": "https://open.spotify.com/album/022dE0m6nktpQRinQ025Wl"
+      },
+      "artists": [
+        {
+          "name": "Joey Green",
+          "url": "https://open.spotify.com/artist/4xlGJGo6v3IVOkJVYyskKa"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198485,
+      "name": "Good Liar",
+      "url": "https://open.spotify.com/track/7td9zkCVDSn51GXEfGMsDy"
     },
     {
       "album": {
@@ -2463,6 +2593,24 @@
       "duration_ms": 166967,
       "name": "Grey Sky Blue",
       "url": "https://open.spotify.com/track/41uuv3ZxqclyxmHHjbFk2U"
+    },
+    {
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169881,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX"
     },
     {
       "album": {
@@ -2603,7 +2751,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 193023,
       "name": "Hate This Hometown",
       "url": "https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP"
@@ -2711,7 +2859,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 211397,
       "name": "Headfirst",
       "url": "https://open.spotify.com/track/4so29BBcUm3yIdBd45UQHO"
@@ -2853,6 +3001,24 @@
       "duration_ms": 187113,
       "name": "Hometown Girl",
       "url": "https://open.spotify.com/track/0vZAKkSdmJUZRGDMD6GgMO"
+    },
+    {
+      "album": {
+        "name": "Hometown Highway",
+        "url": "https://open.spotify.com/album/464qbeF75hopqROBcbpOIR"
+      },
+      "artists": [
+        {
+          "name": "Jessi Pugh",
+          "url": "https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233519,
+      "name": "Hometown Highway",
+      "url": "https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS"
     },
     {
       "album": {
@@ -3148,6 +3314,24 @@
     },
     {
       "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/1FqSMCJUME9iMrHPcEVSNp"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Woys",
+          "url": "https://open.spotify.com/artist/7Cd2vxQIgOuzmYYbzSExR3"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213512,
+      "name": "I Don't Want You Back",
+      "url": "https://open.spotify.com/track/3TB0HmL1FnNYpqBz71iI8z"
+    },
+    {
+      "album": {
         "name": "I Get That With You",
         "url": "https://open.spotify.com/album/5GclVHfgWVglhbVOom2TIx"
       },
@@ -3231,7 +3415,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 169000,
       "name": "I Lose Things",
       "url": "https://open.spotify.com/track/5Pob0FJaLtnLXRjArALqer"
@@ -3890,6 +4074,24 @@
     },
     {
       "album": {
+        "name": "Lied To Too",
+        "url": "https://open.spotify.com/album/1WITPsGTdEkeXTOp1Seqn5"
+      },
+      "artists": [
+        {
+          "name": "Shelby Darrall",
+          "url": "https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203957,
+      "name": "Lied To Too",
+      "url": "https://open.spotify.com/track/7d8egfPuKy25BAlrSMPqBq"
+    },
+    {
+      "album": {
         "name": "Lightning In A Bottle",
         "url": "https://open.spotify.com/album/0cpBj2fBJO1DoD0xXfhLGe"
       },
@@ -4348,6 +4550,24 @@
     },
     {
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/00PK1guE8SsOL4c0OnG83w"
+      },
+      "artists": [
+        {
+          "name": "Noah West",
+          "url": "https://open.spotify.com/artist/1Lh1fsAZIPhk4bbFgL1LZl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215397,
+      "name": "Miss Me in Tennessee",
+      "url": "https://open.spotify.com/track/4xUz1bfkO2FYQ75qxd4UPH"
+    },
+    {
+      "album": {
         "name": "Miss Us Then",
         "url": "https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw"
       },
@@ -4366,6 +4586,24 @@
     },
     {
       "album": {
+        "name": "Missin' Mississippi",
+        "url": "https://open.spotify.com/album/11vS60ZJPJ2cHR80Ni6inN"
+      },
+      "artists": [
+        {
+          "name": "Paxton Peay",
+          "url": "https://open.spotify.com/artist/7sI7QXm4piVQNtGozUoEtg"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221144,
+      "name": "Missin' Mississippi",
+      "url": "https://open.spotify.com/track/0q0k2XXYBODoz6uaZFcdce"
+    },
+    {
+      "album": {
         "name": "Mississippi",
         "url": "https://open.spotify.com/album/6s3uKgI7aHLDAcZ6Vaqn8O"
       },
@@ -4381,6 +4619,24 @@
       "duration_ms": 216083,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2pBJNHBB0Hqdhx7gOnDNvt"
+    },
+    {
+      "album": {
+        "name": "Wildflower EP",
+        "url": "https://open.spotify.com/album/2tb87bX13nVaN875CfpLLY"
+      },
+      "artists": [
+        {
+          "name": "Matt Roy",
+          "url": "https://open.spotify.com/artist/00hgDE113euRrneQug8LV7"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261032,
+      "name": "Morning In New Orleans",
+      "url": "https://open.spotify.com/track/0wEnzFB18EXWbLmH3xX0Eu"
     },
     {
       "album": {
@@ -4431,7 +4687,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 193599,
       "name": "My Kind of Paradise",
       "url": "https://open.spotify.com/track/4H3auEbmMoWqc13ns3u2MS"
@@ -4716,6 +4972,24 @@
     },
     {
       "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/6biJOoeTaSl6u12yqMOvUC"
+      },
+      "artists": [
+        {
+          "name": "Kassandra Clack",
+          "url": "https://open.spotify.com/artist/5ntCMePGaJQhirbZam4Ocw"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178886,
+      "name": "Optimist",
+      "url": "https://open.spotify.com/track/01kqZxidoL8N9enJKy5MbL"
+    },
+    {
+      "album": {
         "name": "Out of That Memory",
         "url": "https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K"
       },
@@ -4752,6 +5026,24 @@
     },
     {
       "album": {
+        "name": "Outta This Town",
+        "url": "https://open.spotify.com/album/641zQocMBosy8sOG40iTTq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Oates",
+          "url": "https://open.spotify.com/artist/0i2w9FqP8jRzT6YVwfYLcg"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172381,
+      "name": "Outta This Town",
+      "url": "https://open.spotify.com/track/1L3PUuavc9Tk1YkjAvoql4"
+    },
+    {
+      "album": {
         "name": "Overdrinkin'",
         "url": "https://open.spotify.com/album/52Ih2SKMgZwUMFhmalJRzG"
       },
@@ -4785,6 +5077,24 @@
       "duration_ms": 188927,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/3KiL9l1aZLvwbQaGu0Vox0"
+    },
+    {
+      "album": {
+        "name": "Port City",
+        "url": "https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Port City",
+      "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
     },
     {
       "album": {
@@ -5516,6 +5826,24 @@
     },
     {
       "album": {
+        "name": "Something's Better Than Nothing",
+        "url": "https://open.spotify.com/album/2zqDTszF75ieoctWNdaSg5"
+      },
+      "artists": [
+        {
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Something's Better Than Nothing",
+      "url": "https://open.spotify.com/track/3MtpNksWn0Z4ryBsyy8PYp"
+    },
+    {
+      "album": {
         "name": "Somewhere in Middle America",
         "url": "https://open.spotify.com/album/3dFecYLR08BLmbgSnGcWhZ"
       },
@@ -5527,7 +5855,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 141960,
       "name": "Somewhere in Middle America",
       "url": "https://open.spotify.com/track/4qBsg15tarx6s5l4nG6lXq"
@@ -5549,6 +5877,24 @@
       "duration_ms": 199890,
       "name": "Song I Wanna Sing",
       "url": "https://open.spotify.com/track/3caLlURxWTjGsf7syCKU6q"
+    },
+    {
+      "album": {
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "album": {
@@ -5678,6 +6024,24 @@
     },
     {
       "album": {
+        "name": "Take You Home",
+        "url": "https://open.spotify.com/album/7j6OiggqBD0tWJ30GoNrWX"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lay",
+          "url": "https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196908,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/5UxwWCUE7PVTVCLVCxaCkp"
+    },
+    {
+      "album": {
         "name": "Tall Boys",
         "url": "https://open.spotify.com/album/1TVzkgTMdb921yDrq6ImhK"
       },
@@ -5747,6 +6111,24 @@
       "duration_ms": 186906,
       "name": "Teardrops In The Rain",
       "url": "https://open.spotify.com/track/2iZ3QfOBrPshWKw3aZdL9Q"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4hmU2BXKGj9VpQ79lEBylq"
+      },
+      "artists": [
+        {
+          "name": "Ben Kadlecek",
+          "url": "https://open.spotify.com/artist/5K9jAxnRYkrFuJewJKOMpx"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223829,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3ornj7TZRUUOA8X7mEPt1D"
     },
     {
       "album": {
@@ -6381,7 +6763,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 222772,
       "name": "Water My Roots",
       "url": "https://open.spotify.com/track/2vIA6ImJ8DhlsH6ML7Lug1"

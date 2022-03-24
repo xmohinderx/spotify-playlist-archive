@@ -1,12 +1,12 @@
 {
   "description": "Groovy jazz fusion. Cover: Jamiroquai",
-  "num_followers": 186127,
+  "num_followers": 186312,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk2MywwMDAwMDAwMGRiMzMwNjI1NjBlNTM3Njc5N2Y5ZDZmYjkyM2MzZGNi",
+  "snapshot_id": "MTY0ODA4MzA4MiwwMDAwMDAwMDQ5YjFhYzk3YTI4NGYyOGQyNTdkZWMzNDExZGYwYjk3",
   "tracks": [
     {
       "added_at": "2021-12-12 17:55:08",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-12-12 17:55:08",
       "album": {
+        "name": "Friends & Strangers",
+        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 420493,
+      "name": "Life In Paradise",
+      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
+    },
+    {
+      "added_at": "2021-12-12 17:55:08",
+      "album": {
         "name": "The Low End Theory",
         "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/08lDRv5Gh3fqlBZUqLSToo"
-    },
-    {
-      "added_at": "2021-12-12 17:55:08",
-      "album": {
-        "name": "Friends & Strangers",
-        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
-        }
-      ],
-      "duration_ms": 420493,
-      "name": "Life In Paradise",
-      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
     },
     {
       "added_at": "2021-12-12 17:55:08",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-12-12 17:55:08",
       "album": {
-        "name": "On The One",
-        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
-      },
-      "artists": [
-        {
-          "name": "All Good Funk Alliance",
-          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
-        }
-      ],
-      "duration_ms": 332933,
-      "name": "Pete's Sake",
-      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
-    },
-    {
-      "added_at": "2021-12-12 17:55:08",
-      "album": {
         "name": "Bring It On",
         "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 260973,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
+    },
+    {
+      "added_at": "2021-12-12 17:55:08",
+      "album": {
+        "name": "On The One",
+        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
+      },
+      "artists": [
+        {
+          "name": "All Good Funk Alliance",
+          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
+        }
+      ],
+      "duration_ms": 332933,
+      "name": "Pete's Sake",
+      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
     },
     {
       "added_at": "2021-12-12 17:55:08",

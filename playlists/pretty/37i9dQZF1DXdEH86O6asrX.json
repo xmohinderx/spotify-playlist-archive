@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 394322,
+  "num_followers": 394329,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQ0OCwwMDAwMDAwMDRkMDUwNDM2NjQ2YzkyNmI4Mjk0N2NlZDI0YmNlZmZj",
+  "snapshot_id": "MTY0ODA4MzU3OSwwMDAwMDAwMGY4ZmI1MmRhODYwYThjYzIxNzdlMGQ4MzdkNTY1NzM2",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "The Life Aquatic With Steve Zissou",
+        "url": "https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "Life On Mars?",
+      "url": "https://open.spotify.com/track/5MbymuUrV9rmtnk3CwyenH"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 253800,
       "name": "Easy",
       "url": "https://open.spotify.com/track/471eUUcbGi51YG8mooiuYF"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "The Life Aquatic With Steve Zissou",
-        "url": "https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "Life On Mars?",
-      "url": "https://open.spotify.com/track/5MbymuUrV9rmtnk3CwyenH"
     },
     {
       "added_at": "2022-01-27 04:35:36",

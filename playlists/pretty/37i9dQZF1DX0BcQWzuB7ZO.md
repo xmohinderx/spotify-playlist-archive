@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Jax Jones & MNEK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,468,456 likes - 73 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,468,994 likes - 73 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

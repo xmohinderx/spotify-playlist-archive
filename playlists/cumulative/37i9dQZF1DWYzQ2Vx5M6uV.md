@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYzQ2Vx5M6uV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzQ2Vx5M6uV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzQ2Vx5M6uV)
 
-### Afro Ritmo
+### [Afro Ritmo](https://open.spotify.com/playlist/6kK6tTD8lFWXvgmb9EWxhw)
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 

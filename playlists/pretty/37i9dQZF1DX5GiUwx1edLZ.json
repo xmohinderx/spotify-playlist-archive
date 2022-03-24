@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272343,
+  "num_followers": 272357,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzIxMywwMDAwMDAwMDhjODQ5MWNjY2Q2MTVhMmI3NzAwYWQ4MzEwNzczZWU2",
+  "snapshot_id": "MTY0ODA4MzMzNiwwMDAwMDAwMDAyZGFiNWE1NGI2ZDk3MGM4YjdhZjUwZTUzNWI4ODc4",
   "tracks": [
     {
       "added_at": "2022-01-28 05:01:00",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Lullaby (Acoustic)",
-        "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 237923,
-      "name": "Lullaby - Acoustic",
-      "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "I Wish (feat. Mabel) [Acoustic]",
         "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 184000,
       "name": "I Wish (feat. Mabel) - Acoustic",
       "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Lullaby (Acoustic)",
+        "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 237923,
+      "name": "Lullaby - Acoustic",
+      "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -351,6 +351,26 @@
       "duration_ms": 176917,
       "name": "Into You - Acoustic Version",
       "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Safe With Me (with Audrey Mika) [Acoustic]",
+        "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 203258,
+      "name": "Safe With Me (with Audrey Mika) - Acoustic",
+      "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -395,26 +415,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Safe With Me (with Audrey Mika) [Acoustic]",
-        "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 203258,
-      "name": "Safe With Me (with Audrey Mika) - Acoustic",
-      "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Starlight Remixes",
         "url": "https://open.spotify.com/album/6IZpH59rXpdusTqgheflIA"
       },
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Alive (Acoustic Version)",
+        "url": "https://open.spotify.com/album/57O0bwkfvbaxM28mvYwTQg"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "Alive - Acoustic Version",
+      "url": "https://open.spotify.com/track/1eh4iPma8RQsu6sjKrMZ8p"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "BED (The BEDtime Mixes)",
         "url": "https://open.spotify.com/album/6N5kkUQ8tqA7EMwtdjFjDT"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 177364,
       "name": "BED - Acoustic",
       "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Alive (Acoustic Version)",
-        "url": "https://open.spotify.com/album/57O0bwkfvbaxM28mvYwTQg"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "Alive - Acoustic Version",
-      "url": "https://open.spotify.com/track/1eh4iPma8RQsu6sjKrMZ8p"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Ones You Miss (Acoustic)",
+        "url": "https://open.spotify.com/album/3sAYbVwY1PvETs9zs4ZTUz"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 112173,
+      "name": "Ones You Miss - Acoustic",
+      "url": "https://open.spotify.com/track/0AOI0bkKmKx1DUdDn6oGyP"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Show You Love (Acoustic)",
         "url": "https://open.spotify.com/album/3XyhtAnGjXWuDUtF1TlvPy"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 208065,
       "name": "Easier (feat. LOWES) - Acoustic",
       "url": "https://open.spotify.com/track/5gp0o3PZi4MswWq9Mf1iUJ"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Ones You Miss (Acoustic)",
-        "url": "https://open.spotify.com/album/3sAYbVwY1PvETs9zs4ZTUz"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 112173,
-      "name": "Ones You Miss - Acoustic",
-      "url": "https://open.spotify.com/track/0AOI0bkKmKx1DUdDn6oGyP"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Painkiller (The Radio Mixes)",
         "url": "https://open.spotify.com/album/22x8y61IBmnVhRPvbccf6h"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Paradise (The Acoustics)",
         "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 198985,
+      "name": "Shivers - Acoustic Version",
+      "url": "https://open.spotify.com/track/7pp1dAz4SXWz052k2idxTn"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Finest Hour (feat. Abir) [Acoustic Version]",
         "url": "https://open.spotify.com/album/2ZoXU7gFyx2bzlgRWU595e"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 181240,
       "name": "Finest Hour (feat. Abir) - Acoustic Version",
       "url": "https://open.spotify.com/track/7fYJmTX4SXWfli0je1JK5h"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 198985,
-      "name": "Shivers - Acoustic Version",
-      "url": "https://open.spotify.com/track/7pp1dAz4SXWz052k2idxTn"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Watch the World (Acoustic Versions)",
-        "url": "https://open.spotify.com/album/7dWgNVjh2aG5C3l5cvswKy"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 201748,
-      "name": "Fears (Acoustic)",
-      "url": "https://open.spotify.com/track/6wasfRwIrmrsjjaPvpvAFs"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Not Coming Down",
         "url": "https://open.spotify.com/album/3IO55ctM6Jx0AIJyF2z8kA"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 216716,
       "name": "Not Coming Down (Acoustic Radio Edit)",
       "url": "https://open.spotify.com/track/6j48XiveQU46nkWQ1ekpHx"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Watch the World (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/7dWgNVjh2aG5C3l5cvswKy"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 201748,
+      "name": "Fears (Acoustic)",
+      "url": "https://open.spotify.com/track/6wasfRwIrmrsjjaPvpvAFs"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Acoustic - Live At The Hollywood Bowl",
-        "url": "https://open.spotify.com/album/6aSqfBHBWBHZq72VGp0MTA"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 274080,
-      "name": "Thing Called Love - Live At The Hollywood Bowl",
-      "url": "https://open.spotify.com/track/4NoJp7ek8ZcuHoq3DzhKCo"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Mad World (Acoustic Version)",
         "url": "https://open.spotify.com/album/1gIRc9FnLBNpKvOAE7xiBl"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Acoustic - Live At The Hollywood Bowl",
+        "url": "https://open.spotify.com/album/6aSqfBHBWBHZq72VGp0MTA"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 274080,
+      "name": "Thing Called Love - Live At The Hollywood Bowl",
+      "url": "https://open.spotify.com/track/4NoJp7ek8ZcuHoq3DzhKCo"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Starting Fires",
-        "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Emma Hewitt",
-          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
-        }
-      ],
-      "duration_ms": 229701,
-      "name": "Waiting - Strings & Vocals Mix",
-      "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Scared to Be Lonely (Acoustic Version)",
         "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Starting Fires",
+        "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        }
+      ],
+      "duration_ms": 229701,
+      "name": "Waiting - Strings & Vocals Mix",
+      "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/4CCNRl3bANuibEIqarPLV6"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Fire (M&F's in Session Edit)",
         "url": "https://open.spotify.com/album/70YGjwVHQd8CzHIIXirXHA"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 189464,
       "name": "Fire - M&F's in Session Edit",
       "url": "https://open.spotify.com/track/6BU8Zh86mwohDsmSyvB6hg"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/4CCNRl3bANuibEIqarPLV6"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 304983,
+      "name": "Satellite / Stealing Time",
+      "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 194000,
       "name": "Shockwave - Acoustic Version",
       "url": "https://open.spotify.com/track/57A8SCoG3YamyeNzizCtaH"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 304983,
-      "name": "Satellite / Stealing Time",
-      "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
     },
     {
       "added_at": "2022-01-28 05:01:00",

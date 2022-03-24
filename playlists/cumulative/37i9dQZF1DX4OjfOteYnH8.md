@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OjfOteYnH8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OjfOteYnH8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OjfOteYnH8)
 
-### Urbano Rising
+### [Urbano Rising](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Maxiolly, Totoy El Frio
 

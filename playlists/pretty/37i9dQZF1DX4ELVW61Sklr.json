@@ -1,12 +1,12 @@
 {
   "description": "A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 141358,
+  "num_followers": 141353,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE3NSwwMDAwMDAwMDc5N2FjNzI1Y2I5ZTBkNzFhYjM2NzkzNzQwNjliYWVl",
+  "snapshot_id": "MTY0ODA4MzMwMCwwMDAwMDAwMDVkNDlkNTYwNjMxNDg2ZTViNzliMDZmYmYyYjc4MTQw",
   "tracks": [
     {
       "added_at": "2021-12-15 17:30:29",
@@ -391,26 +391,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Joy to the World (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 154920,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/0FrDmnNXlOjRyTb0HtK75Q"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Joy to the World (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
       "added_at": "2021-12-15 17:30:29",

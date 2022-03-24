@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 394951,
+  "num_followers": 395224,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI2NSwwMDAwMDAwMGEwMDViODQ2NjEzM2M0M2I3NjI4MjBkY2JmNGY5MWVk",
+  "snapshot_id": "MTY0ODA4MzM5MCwwMDAwMDAwMGUwN2I5YjhlMTI1YjAxNWEzMjE3YjFjMzBiY2YwMWM3",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 359066,
-      "name": "Souvlaki Space Station",
-      "url": "https://open.spotify.com/track/4VSH2Mz6pJqJU51ba1zoMk"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In Streams",
         "url": "https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 455000,
       "name": "The Same Place",
       "url": "https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 359066,
+      "name": "Souvlaki Space Station",
+      "url": "https://open.spotify.com/track/4VSH2Mz6pJqJU51ba1zoMk"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -347,38 +347,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Taker",
-        "url": "https://open.spotify.com/album/12Iv5xAKpg2fnS1apJ0lp5"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Taker",
-      "url": "https://open.spotify.com/track/0ZdSPHnoFUAE1tck8oxSyJ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 418706,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Pink (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO"
       },
@@ -427,6 +395,38 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Taker",
+        "url": "https://open.spotify.com/album/12Iv5xAKpg2fnS1apJ0lp5"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Taker",
+      "url": "https://open.spotify.com/track/0ZdSPHnoFUAE1tck8oxSyJ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -471,38 +471,6 @@
       "duration_ms": 251142,
       "name": "One",
       "url": "https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -571,18 +539,34 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
       "artists": [
         {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 298946,
-      "name": "",
-      "url": "https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -599,22 +583,6 @@
       "duration_ms": 254706,
       "name": "We're Not Done (End Title)",
       "url": "https://open.spotify.com/track/17F08YdvPhnvj8LEq2sMSa"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Drive Blind - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -667,6 +635,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Drive Blind - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Star Roving",
         "url": "https://open.spotify.com/album/6pUMKhdr42lTqhzoqC3CBa"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 338869,
       "name": "Star Roving",
       "url": "https://open.spotify.com/track/0eNeturRjWHoi2SxITY0XC"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Tremolo",
-        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "Swallow (EP Version)",
-      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -795,6 +779,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 293840,
+      "name": "Swallow (EP Version)",
+      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Brickbat",
         "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -919,6 +903,22 @@
       "duration_ms": 198946,
       "name": "Something More",
       "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/6ebK1vEcESDStL6bMvnsQw"
-      },
-      "artists": [
-        {
-          "name": "Almighty Mighty",
-          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/1K8BOrMP2OvhC3nLEghysM"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Isn't Anything",
         "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/6ebK1vEcESDStL6bMvnsQw"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "Almighty Mighty",
+          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
         }
       ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
+      "duration_ms": 318560,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/1K8BOrMP2OvhC3nLEghysM"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1675,6 +1659,22 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Silver - EP",
-        "url": "https://open.spotify.com/album/6h9R85MGIcZ1RTafY0PMbm"
-      },
-      "artists": [
-        {
-          "name": "Jesu",
-          "url": "https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP"
-        }
-      ],
-      "duration_ms": 406226,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/1siSC5Cy4tSD42yJuuP4uK"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Souvenirs d'un autre monde",
         "url": "https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 368626,
       "name": "Souvenirs d'un autre monde",
       "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Silver - EP",
+        "url": "https://open.spotify.com/album/6h9R85MGIcZ1RTafY0PMbm"
+      },
+      "artists": [
+        {
+          "name": "Jesu",
+          "url": "https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP"
+        }
+      ],
+      "duration_ms": 406226,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/1siSC5Cy4tSD42yJuuP4uK"
     },
     {
       "added_at": "2021-06-03 02:39:04",

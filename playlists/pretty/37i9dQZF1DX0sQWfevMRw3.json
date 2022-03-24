@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 92978,
+  "num_followers": 92998,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA3MSwwMDAwMDAwMDQ1OGQ1ZWFlNmQ3N2Y1MTU0MmQ3YWQ1MzdmZDdlMzYw",
+  "snapshot_id": "MTY0ODA4MzE5NiwwMDAwMDAwMGM2YTZkMzEwZDdhNDg4NDM5YTQ4MDMzZmZlYjRkNDQx",
   "tracks": [
     {
       "added_at": "2022-03-17 23:01:00",
@@ -171,18 +171,26 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
-        "name": "Raggarbil",
-        "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
+        "name": "Nostradamus",
+        "url": "https://open.spotify.com/album/6XjgASEBXSPf32Vu2uYMID"
       },
       "artists": [
         {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Mike Emilio",
+          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
         }
       ],
-      "duration_ms": 135227,
-      "name": "Raggarbil",
-      "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
+      "duration_ms": 163000,
+      "name": "Nostradamus",
+      "url": "https://open.spotify.com/track/51jLcSqCubb02eMBD0rMWA"
     },
     {
       "added_at": "2022-03-17 23:01:00",
@@ -207,26 +215,18 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
-        "name": "Nostradamus",
-        "url": "https://open.spotify.com/album/6XjgASEBXSPf32Vu2uYMID"
+        "name": "Raggarbil",
+        "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
       },
       "artists": [
         {
-          "name": "LBSB",
-          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
-        },
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "Mike Emilio",
-          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Nostradamus",
-      "url": "https://open.spotify.com/track/51jLcSqCubb02eMBD0rMWA"
+      "duration_ms": 135227,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
     },
     {
       "added_at": "2022-03-17 23:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
-        "name": "Se p\u00e5 mig (Crunk Rock)",
-        "url": "https://open.spotify.com/album/2xg4KYRyKvSHxmV2GM39Xq"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 160490,
-      "name": "Se p\u00e5 mig (Crunk Rock)",
-      "url": "https://open.spotify.com/track/7uhGNnp1hrGSyElAtKKec5"
-    },
-    {
-      "added_at": "2022-03-17 23:01:00",
-      "album": {
         "name": "Sova n\u00e4r vi d\u00f6r",
         "url": "https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
+        "name": "Se p\u00e5 mig (Crunk Rock)",
+        "url": "https://open.spotify.com/album/2xg4KYRyKvSHxmV2GM39Xq"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 160490,
+      "name": "Se p\u00e5 mig (Crunk Rock)",
+      "url": "https://open.spotify.com/track/7uhGNnp1hrGSyElAtKKec5"
+    },
+    {
+      "added_at": "2022-03-17 23:01:00",
+      "album": {
         "name": "Buffalo Soldiers 2022",
         "url": "https://open.spotify.com/album/60CsUaaGzZ85my1UkPVNC1"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 139750,
       "name": "Violin",
       "url": "https://open.spotify.com/track/2L1AKmvqjSLPdm2OWYvm3I"
-    },
-    {
-      "added_at": "2022-03-17 23:01:00",
-      "album": {
-        "name": "Rave i mitt garage",
-        "url": "https://open.spotify.com/album/3xLJqNbBCSeixdOhLtVtao"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rave i mitt garage",
-      "url": "https://open.spotify.com/track/1Yz57hFbrcXU335FfcE677"
     },
     {
       "added_at": "2022-03-17 23:01:00",
@@ -515,6 +499,26 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
+        "name": "Watch You Die",
+        "url": "https://open.spotify.com/album/37fNjEulOggx4HWRMfkQID"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        }
+      ],
+      "duration_ms": 159379,
+      "name": "Watch You Die",
+      "url": "https://open.spotify.com/track/0YPqcXgz1OZ4MwyPRYjff9"
+    },
+    {
+      "added_at": "2022-03-17 23:01:00",
+      "album": {
         "name": "Stad i ljus (feat. Oscar Zia)",
         "url": "https://open.spotify.com/album/4YTWBQvvnpfeIHJIb8yMIH"
       },
@@ -559,6 +563,22 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
+        "name": "Rave i mitt garage",
+        "url": "https://open.spotify.com/album/3xLJqNbBCSeixdOhLtVtao"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rave i mitt garage",
+      "url": "https://open.spotify.com/track/1Yz57hFbrcXU335FfcE677"
+    },
+    {
+      "added_at": "2022-03-17 23:01:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 120000,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
-    },
-    {
-      "added_at": "2022-03-17 23:01:00",
-      "album": {
-        "name": "Watch You Die",
-        "url": "https://open.spotify.com/album/37fNjEulOggx4HWRMfkQID"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
-        }
-      ],
-      "duration_ms": 159379,
-      "name": "Watch You Die",
-      "url": "https://open.spotify.com/track/0YPqcXgz1OZ4MwyPRYjff9"
     },
     {
       "added_at": "2022-03-17 23:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
-        "name": "Lai Lai (Radio Edit)",
-        "url": "https://open.spotify.com/album/6MNTkGgLptRlTYLf3zkTzE"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        }
-      ],
-      "duration_ms": 163998,
-      "name": "Lai Lai - Radio Edit",
-      "url": "https://open.spotify.com/track/2dxMU41k1sCboEDE7DNLtX"
-    },
-    {
-      "added_at": "2022-03-17 23:01:00",
-      "album": {
         "name": "Get in Trouble (So What) [Lilo Remix]",
         "url": "https://open.spotify.com/album/29ys9S9fKqmXBhMluO4HA0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 167546,
       "name": "Bam Billy Bam",
       "url": "https://open.spotify.com/track/5dK6wLZaACbBXyE3EIfns4"
+    },
+    {
+      "added_at": "2022-03-17 23:01:00",
+      "album": {
+        "name": "Lai Lai (Radio Edit)",
+        "url": "https://open.spotify.com/album/6MNTkGgLptRlTYLf3zkTzE"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        }
+      ],
+      "duration_ms": 163998,
+      "name": "Lai Lai - Radio Edit",
+      "url": "https://open.spotify.com/track/2dxMU41k1sCboEDE7DNLtX"
     },
     {
       "added_at": "2022-03-17 23:01:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-03-17 23:01:00",
       "album": {
-        "name": "Kraken",
-        "url": "https://open.spotify.com/album/1JhYcDwdTDMr7jDfeRFkKT"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Popcorn!",
-          "url": "https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ"
-        }
-      ],
-      "duration_ms": 144079,
-      "name": "Kraken",
-      "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
-    },
-    {
-      "added_at": "2022-03-17 23:01:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+    },
+    {
+      "added_at": "2022-03-17 23:01:00",
+      "album": {
+        "name": "Kraken",
+        "url": "https://open.spotify.com/album/1JhYcDwdTDMr7jDfeRFkKT"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Popcorn!",
+          "url": "https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ"
+        }
+      ],
+      "duration_ms": 144079,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
     }
   ],
   "unique_name": "Det blir kaoz!",

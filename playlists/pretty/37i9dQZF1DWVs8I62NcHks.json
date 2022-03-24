@@ -1,6 +1,6 @@
 {
   "description": "All your favorite <a href=\"spotify:user:128899670\">Disney</a> classics, new and old. Cover: <a href=\"spotify:album:6WjuMbjLJHdI0EwjJR9ChA\">Forky and Woody</a>",
-  "num_followers": 1833462,
+  "num_followers": 1833745,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
@@ -214,6 +214,10 @@
         {
           "name": "Olivia Rodrigo",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 177322,
@@ -310,6 +314,10 @@
         {
           "name": "Olivia Rodrigo",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 101176,
@@ -1574,10 +1582,14 @@
         {
           "name": "High School Musical Cast",
           "url": "https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 231426,
-      "name": "We're All In This Together - From \"High School Musical\"/Soundtrack Version",
+      "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys"
     }
   ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vũ Thanh Vân; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,768 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,787 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 84 | [Kẻ Đáng Thương](https://open.spotify.com/track/0uYlDhNMjcJzOhDAA5kew7) | [Lưu Nhược Ni](https://open.spotify.com/artist/353pRfQ5LTOpsj1SNkuBqx) | [Kẻ Đáng Thương](https://open.spotify.com/album/4Ajn78VcYnVabznryriN22) | 4:20 |
 | 85 | [Cogaido](https://open.spotify.com/track/3rJHMjGXixxqvu3NSrf5dn) | [Minhtriet](https://open.spotify.com/artist/1Sa0tIuciBv3CPSIdtSNLB) | [Cogaido](https://open.spotify.com/album/2MuurUeX78jrfS7PnLEFh8) | 4:02 |
 | 86 | [Chưa Về Được Nhà](https://open.spotify.com/track/4MEyA3U4lXndTenIb8dTXy) | [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te), [RyoT](https://open.spotify.com/artist/2UfA7WI5TFvWFGtSFuSytZ) | [Chưa Về Được Nhà](https://open.spotify.com/album/2iwJHXi6LJSEEEAeMiscqd) | 4:59 |
-| 87 | [PEACH 2](https://open.spotify.com/track/5YPH5jvgUdz2idFDTnv6rY) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Quân R.E.V](https://open.spotify.com/artist/5UgQxRnX0fvTuUgD3SUKjo) | [PEACH 2](https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ) | 4:20 |
+| 87 | [PEACH 2](https://open.spotify.com/track/5YPH5jvgUdz2idFDTnv6rY) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Quân R.E.V](https://open.spotify.com/artist/5UgQxRnX0fvTuUgD3SUKjo), [hổ](https://open.spotify.com/artist/2nN082YbHkqvJYvJiwpc4R) | [PEACH 2](https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ) | 4:20 |
 | 88 | [Little Love](https://open.spotify.com/track/384G1DRiMFfBUsCvsE7hA1) | [SanV](https://open.spotify.com/artist/7bzac928gV4FoBOGGI7p8D), [Hữu Nhân](https://open.spotify.com/artist/74k6VP66NCUizZzaKmUWTG) | [Little Love](https://open.spotify.com/album/5MtEGa7os2p7HZdwJWqFIc) | 3:26 |
 | 89 | [hát ca lala](https://open.spotify.com/track/06mV7KZmVdEYZbZTO8Baq9) | [crayons](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [hát ca lala](https://open.spotify.com/album/17g3eudc2rWum0iURrVcWo) | 4:11 |
 | 90 | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/track/343Evi2l3pQ48UnpA9REPK) | [Thái Tuyết Trâm](https://open.spotify.com/artist/6VaHKM9MMuOzRaZovKL8Bk) | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/album/5mXUg02AvvrelVgQEOqFeT) | 4:40 |

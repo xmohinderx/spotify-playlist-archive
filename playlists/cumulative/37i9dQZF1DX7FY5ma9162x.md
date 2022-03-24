@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7FY5ma9162x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FY5ma9162x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FY5ma9162x)
 
-### R&B Favourites
+### [R&B Favourites](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 

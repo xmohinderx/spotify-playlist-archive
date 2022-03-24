@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,633 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,679 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 16 | [Fake Happy](https://open.spotify.com/track/50G7lMNbVsf9M2f5gcbvQh) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [Fake Happy](https://open.spotify.com/album/3PlriZDZCVrueDePu6CRn9) | 4:46 |
 | 17 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 |
 | 18 | [Crazier](https://open.spotify.com/track/1KUZUkyEGDvWxT4l1D9gGF) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/6VA0F9GSo9tASAQtUQkLmZ) | 3:53 |
-| 19 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
-| 20 | [only in my dreams](https://open.spotify.com/track/7q1Nj5yVFAMgAo5zxfEpS8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [only in my dreams](https://open.spotify.com/album/7EADAHIIQMWrBkH9lYx7Uj) | 3:59 |
+| 19 | [only in my dreams](https://open.spotify.com/track/7q1Nj5yVFAMgAo5zxfEpS8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [only in my dreams](https://open.spotify.com/album/7EADAHIIQMWrBkH9lYx7Uj) | 3:59 |
+| 20 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
 | 21 | [Scenery](https://open.spotify.com/track/2BKvuUNunH9q9UoQhaDLmJ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Scenery](https://open.spotify.com/album/2mEDVox5VIgw7y7KaqPSxy) | 3:42 |
 | 22 | [Satu Tuju](https://open.spotify.com/track/0ZmQmIgQyq3tKMuqX29REw) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/62EM85nf6Nzn0ChiUzWDvJ) | 4:06 |
 | 23 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 |
 | 24 | [so in love \(tonight\)](https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [so in love \(tonight\)](https://open.spotify.com/album/0Q4t7FACl7vtiMYAsgjCxR) | 2:28 |
 | 25 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 |
-| 26 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 |
-| 27 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 |
-| 28 | [Miss Those Days](https://open.spotify.com/track/14CMnDIXlTyuNwpw6fTdMi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:52 |
-| 29 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
+| 26 | [Miss Those Days](https://open.spotify.com/track/14CMnDIXlTyuNwpw6fTdMi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:52 |
+| 27 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 |
+| 28 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
+| 29 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 |
 | 30 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:56 |
 | 31 | [Love You Bae!](https://open.spotify.com/track/4YFEQfiGTDoyRNuJs2wrED) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [Love You Bae!](https://open.spotify.com/album/2nzxTLGnQttMP4O4IVgTHn) | 3:23 |
 | 32 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 99 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 |
 | 100 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 |
 
-Snapshot ID: `MTY0Nzk5Njg0NiwwMDAwMDAwMGFkMGQ0YmI2MGZkOGIyMWU0NWZmNTkyNDhiZWMwMmM0`
+Snapshot ID: `MTY0ODA4Mjk2MywwMDAwMDAwMDA4ZGEzMDA0MWIyNmY0ZmE4Mjg1MmFiYjg3YTA2NWFi`

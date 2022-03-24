@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 372540,
+  "num_followers": 372698,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQwNCwwMDAwMDAwMDgzZDVmYjI5ZWJhNGY1OTg4NGQwMGQ5NzIxNWNmYmEz",
+  "snapshot_id": "MTY0ODA4MzUzMywwMDAwMDAwMDBmZjE1NTZkNWVmMjkyMjEwYmRlNzgxNmNhZWEyNmM5",
   "tracks": [
     {
       "added_at": "2022-02-18 15:57:33",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-02-18 15:57:33",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
-    },
-    {
-      "added_at": "2022-02-18 15:57:33",
-      "album": {
         "name": "New Nkalo",
         "url": "https://open.spotify.com/album/0EwDujZufAB6ScPehLcCsM"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 268717,
       "name": "New Nkalo",
       "url": "https://open.spotify.com/track/7Cr69VwLjFKZqjFXRoxRUe"
+    },
+    {
+      "added_at": "2022-02-18 15:57:33",
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
     },
     {
       "added_at": "2022-02-18 15:57:33",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-02-18 15:57:33",
       "album": {
-        "name": "dos pilas",
-        "url": "https://open.spotify.com/album/6UkRev7qgjhhALeXGgbPpF"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "dos pilas",
-      "url": "https://open.spotify.com/track/67lqtS6kISdqzFVb4E0jWU"
-    },
-    {
-      "added_at": "2022-02-18 15:57:33",
-      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta"
+    },
+    {
+      "added_at": "2022-02-18 15:57:33",
+      "album": {
+        "name": "dos pilas",
+        "url": "https://open.spotify.com/album/6UkRev7qgjhhALeXGgbPpF"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "dos pilas",
+      "url": "https://open.spotify.com/track/67lqtS6kISdqzFVb4E0jWU"
     },
     {
       "added_at": "2022-02-18 15:57:33",

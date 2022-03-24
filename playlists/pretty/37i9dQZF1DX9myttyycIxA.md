@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,425 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,505 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 49 | [RAPID & COMPLETE RECOVERY](https://open.spotify.com/track/434j2XfgpKRzKFbE9tnxUH) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ) | 4:01 |
 | 50 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 |
 | 51 | [Cherry Blossom](https://open.spotify.com/track/6CrknTtSyM7xv9mOIhVoB6) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Ow](https://open.spotify.com/album/2SS3XY9hgkYRASjq80s2xV) | 2:47 |
-| 52 | [Bodysurfing](https://open.spotify.com/track/0bzx5Wcd20O3STx0cdP755) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/0GmKKh1yQBjJycHkMGUBPp) | 3:44 |
-| 53 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 |
-| 54 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 |
+| 52 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 |
+| 53 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 |
+| 54 | [Bodysurfing](https://open.spotify.com/track/0bzx5Wcd20O3STx0cdP755) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/0GmKKh1yQBjJycHkMGUBPp) | 3:44 |
 | 55 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/2sGh1PZ7zG7Ug1kLsh8BtV) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/0cnXGba9Av81uL1K6v9pby) | 3:29 |
 | 56 | [Ballroom Dance Scene](https://open.spotify.com/track/12AvvUwWyOQJEW7YTLzG5M) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Ballroom Dance Scene](https://open.spotify.com/album/6AH9ryaXe4mZBDlAXiEMdo) | 3:28 |
-| 57 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 |
-| 58 | [Grass Stains](https://open.spotify.com/track/41apFRmVxrzvdQtJErhYFd) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Grass Stains](https://open.spotify.com/album/4uFULh1RHlQH8TfOKhr0GL) | 4:00 |
-| 59 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 60 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 |
+| 57 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 |
+| 58 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 |
+| 59 | [Grass Stains](https://open.spotify.com/track/41apFRmVxrzvdQtJErhYFd) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Grass Stains](https://open.spotify.com/album/4uFULh1RHlQH8TfOKhr0GL) | 4:00 |
+| 60 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 61 | [Txt](https://open.spotify.com/track/6zP5inrTYPpCmkFxGkX7YT) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Txt](https://open.spotify.com/album/4paWrcIvxtZ9YgBUM4ljtO) | 2:14 |
 | 62 | [Stacking Chairs](https://open.spotify.com/track/32H8YnMqJVD7OXwJZh7fIj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/0rzgO44IxONae6AEPpww41) | 3:08 |
 | 63 | [September](https://open.spotify.com/track/6PFnjv46kOBFeS7LxECpmW) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [September](https://open.spotify.com/album/5aFPMP0QGfvZJ7jn45MNLr) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Soft Blood](https://open.spotify.com/track/3VzbX4GWZgEpwmZWuNW2Ik) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Soft Blood](https://open.spotify.com/album/2Xzu9hEsXtsO2nw54J2ubK) | 1:40 |
 | 100 | [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 |
 
-Snapshot ID: `MTY0Nzk5NzM1MCwwMDAwMDAwMGU5ZWFhNGVhMWZlMGY2MjJjYzM3OWMzNzlkZmY2Yjhm`
+Snapshot ID: `MTY0ODA4MzQ3OCwwMDAwMDAwMGZkYTJmYTFiMDUxZjZiZDkzNWI0NmEyMWNjNGQwNWU1`

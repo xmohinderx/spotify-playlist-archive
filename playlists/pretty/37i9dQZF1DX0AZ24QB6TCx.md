@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,612 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,679 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 6 | [Kenger](https://open.spotify.com/track/6naCXLqx0qvSnYWkrbioFm) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Kenger](https://open.spotify.com/album/3sQxzAKNFiFq7NSSTnMzKL) | 5:40 |
 | 7 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 |
 | 8 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
-| 9 | [Plastic](https://open.spotify.com/track/48tZBJB3xt7Shf2vqstMOn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Plastic](https://open.spotify.com/album/5Sv6SboZD9rQBI5LnExW3O) | 6:55 |
-| 10 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
+| 9 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
+| 10 | [Plastic](https://open.spotify.com/track/48tZBJB3xt7Shf2vqstMOn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Plastic](https://open.spotify.com/album/5Sv6SboZD9rQBI5LnExW3O) | 6:55 |
 | 11 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 |
 | 12 | [Beyond Beliefs](https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Beyond Beliefs](https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru) | 5:13 |
 | 13 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Lost \- Nils Hoffmann Remix](https://open.spotify.com/track/6m2jWjTE6CmYfWpMtp8V1u) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Lost \(Nils Hoffmann Remix\)](https://open.spotify.com/album/2JvBQTfM3z0FhcyCn2mNoq) | 4:01 |
 | 70 | [No Silence](https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Woods, Tales & Friends \(Part One\)](https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV) | 4:46 |
 
-Snapshot ID: `MTY0Nzk5NzA0NywwMDAwMDAwMDRjNThhNzEzMjdiMWZiNDE1OWE0M2NhOTE3OWY3Mjhl`
+Snapshot ID: `MTY0ODA4MzE3MSwwMDAwMDAwMDQ3YWE4YmI1YTc5YzE3NjRlZDEwZTY0NGYwZWYzZGI1`

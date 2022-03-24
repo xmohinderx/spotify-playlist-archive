@@ -1,12 +1,12 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 709418,
+  "num_followers": 709543,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg5MiwwMDAwMDAwMDlhMDQ2NjEwNzM2YmM3YTY0MGI5MmEwNGE5ZjMwZGE4",
+  "snapshot_id": "MTY0ODA4MzAwOCwwMDAwMDAwMDI3MDgzNGVkYjZmZGEwN2VhMWFjMGFlMTI2ZDFlYzk4",
   "tracks": [
     {
       "added_at": "2020-07-08 17:47:52",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-07-08 17:47:52",
       "album": {
-        "name": "Postcards From Heaven",
-        "url": "https://open.spotify.com/album/5yK7iXnoIpuJwW8FsAdgYf"
-      },
-      "artists": [
-        {
-          "name": "Lighthouse Family",
-          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
-        }
-      ],
-      "duration_ms": 309666,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1KP6ieHBqTmEjqLy75gAEn"
-    },
-    {
-      "added_at": "2020-07-08 17:47:52",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 265000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
+    },
+    {
+      "added_at": "2020-07-08 17:47:52",
+      "album": {
+        "name": "Postcards From Heaven",
+        "url": "https://open.spotify.com/album/5yK7iXnoIpuJwW8FsAdgYf"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Family",
+          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
+        }
+      ],
+      "duration_ms": 309666,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1KP6ieHBqTmEjqLy75gAEn"
     },
     {
       "added_at": "2020-07-08 17:47:52",

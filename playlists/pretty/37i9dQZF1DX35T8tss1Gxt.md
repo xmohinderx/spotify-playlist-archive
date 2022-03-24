@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Jor'Dan Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,957 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,002 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 53 | [I Will](https://open.spotify.com/track/5ALPne4FwgXQSsbeZcmtUZ) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [I Will](https://open.spotify.com/album/3RIFpzK5MUgN7lsIYWnf0Q) | 5:11 |
 | 54 | [Your Love Is Simple \- Chris Howland Remix](https://open.spotify.com/track/5tGLlErR37eyo9Md7rdEe8) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Your Love Is Simple \(Chris Howland Remix\)](https://open.spotify.com/album/2EyMMxClHFpDYVBmRGhdwf) | 3:05 |
 | 55 | [Let Him In](https://open.spotify.com/track/00JwSM2j1iwqba0cEZUJNu) | [JOKIA](https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E) | [Let Him In](https://open.spotify.com/album/7vsjLmKmDaM5d6X6jk8Mtc) | 3:39 |
-| 56 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 |
-| 57 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 |
+| 56 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 |
+| 57 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 |
 | 58 | [Let Go \(Remix\)](https://open.spotify.com/track/3xU3enlRz3j3e5Y5CXCKXP) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Let Go \(Remix\)](https://open.spotify.com/album/7iobX163wJn1S1iCpruapL) | 2:52 |
 | 59 | [Shout to the Lord](https://open.spotify.com/track/5QbdIj9omsOxwpkZXGWDTU) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Shout to the Lord](https://open.spotify.com/album/48USOS8BlA33ib4hR7HhLn) | 2:38 |
 | 60 | [E6 \- Hot Mix](https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [E6 \(Hot Mix\)](https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Rejoice](https://open.spotify.com/track/7FwjUHTuAFPSZCKcAiify8) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Rebekah Young](https://open.spotify.com/artist/2aQ4P1aMRdmmvpVutYPZTu) | [Rejoice](https://open.spotify.com/album/7GHrX5eKy33USZZUplAw91) | 2:56 |
 | 100 | [WAITING](https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [WAITING](https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w) | 2:57 |
 
-Snapshot ID: `MTY0Nzk5NzE0MiwwMDAwMDAwMGQzNjE4MmEwMzI5ZTVjYWFlZDMyOGQ2NjFmYzlmNjgy`
+Snapshot ID: `MTY0ODA4MzI2NywwMDAwMDAwMGU1MjAxYjFmNWNjMDk2MDAxMzVjYmZmNTYyOTYxYzQ2`

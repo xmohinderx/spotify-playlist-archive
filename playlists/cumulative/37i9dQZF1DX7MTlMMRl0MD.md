@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7MTlMMRl0MD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7MTlMMRl0MD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7MTlMMRl0MD)
 
-### Bachata Lovers
+### [Bachata Lovers](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
 
 > Tu lista favorita de Bachata\. Cover: Romeo Santos
 

@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 745998,
+  "num_followers": 746323,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzExNCwwMDAwMDAwMGFjZmM0NzQ5ZTkyZDUxY2MwZmQ4MDFmMTBiODc5YTVi",
+  "snapshot_id": "MTY0ODA4MzI0MCwwMDAwMDAwMDE1OWRkMDA5MGY0NjY5NjdiZjExNGIxZDRjM2IxOTVl",
   "tracks": [
     {
       "added_at": "2022-03-02 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-03-02 23:00:00",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2022-03-02 23:00:00",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 265360,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/7hIXnKU8VkOGFftj3DAiUL"
+    },
+    {
+      "added_at": "2022-03-02 23:00:00",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2022-03-02 23:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2022-03-02 23:00:00",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
-    },
-    {
-      "added_at": "2022-03-02 23:00:00",
-      "album": {
         "name": "Weird Invitations",
         "url": "https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2022-03-02 23:00:00",
       "album": {
-        "name": "Kaya - Deluxe Edition",
-        "url": "https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 231546,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2022-03-02 23:00:00",
@@ -2599,6 +2583,22 @@
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5xV0Czdqefft6sPDqjmFBu"
+    },
+    {
+      "added_at": "2022-03-02 23:00:00",
+      "album": {
+        "name": "Kaya - Deluxe Edition",
+        "url": "https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh"
     },
     {
       "added_at": "2022-03-02 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,865 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,930 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 84 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
 | 85 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 |
 | 86 | [Previouscats \- Album Version \(Edited\)](https://open.spotify.com/track/0a5tdYXOZHfpr4WJFJrQf3) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/7EziKiSrU9g1Lz0pLlMsfR) | 3:57 |
-| 87 | [For Lovers Only \- Remastered 2021](https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 3:41 |
-| 88 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
-| 89 | [Let Me](https://open.spotify.com/track/7B8TZlK6uFFVMr3JcUS50y) | [The Floacist](https://open.spotify.com/artist/2vlbiZTuFOGEwyCZbXOCPL) | [Floetic Soul](https://open.spotify.com/album/4llUif7fTmYmKQ07y634mN) | 3:53 |
-| 90 | [GOAT](https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [PHO EP](https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU) | 2:27 |
-| 91 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 |
+| 87 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
+| 88 | [Let Me](https://open.spotify.com/track/7B8TZlK6uFFVMr3JcUS50y) | [The Floacist](https://open.spotify.com/artist/2vlbiZTuFOGEwyCZbXOCPL) | [Floetic Soul](https://open.spotify.com/album/4llUif7fTmYmKQ07y634mN) | 3:53 |
+| 89 | [GOAT](https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [PHO EP](https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU) | 2:27 |
+| 90 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 |
+| 91 | [For Lovers Only \- Remastered 2021](https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 3:41 |
 | 92 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 |
 | 93 | [Message in a Bottle](https://open.spotify.com/track/1k8WWnvxDpM3pv57GwxUhc) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 2:32 |
 | 94 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 |
 | 95 | [Itis](https://open.spotify.com/track/5IZljTHEboD11DdPe9Ddpo) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:07 |
 | 96 | [Summer in November](https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 3:49 |
-| 97 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 98 | [silhouette](https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [silhouette](https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH) | 2:28 |
+| 97 | [silhouette](https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [silhouette](https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH) | 2:28 |
+| 98 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 99 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
 | 100 | [The Pressure](https://open.spotify.com/track/6y6349tNafoiPlduSVAz9A) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out](https://open.spotify.com/album/5woG5ibnPu19KmlOL9Olw4) | 3:57 |
 
-Snapshot ID: `MTY0Nzk5NzQzOSwwMDAwMDAwMDVjY2YxOGNkYzgxNGUxNDFhYWM0MzBjODE2MmMwOWQ5`
+Snapshot ID: `MTY0ODA4MzU2OSwwMDAwMDAwMDZiYWExYjExMGRlZDYwNWE1NGJkMDhlMTA3MmNjM2Ez`

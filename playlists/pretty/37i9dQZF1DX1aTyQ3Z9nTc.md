@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,346 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,407 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 41 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 |
 | 42 | [Lavender](https://open.spotify.com/track/2zFmInJW8nn2O8hJRpgt0O) | [aloe.401](https://open.spotify.com/artist/0hCbj8C1be4UO4iFhzXtF6), [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Truvi](https://open.spotify.com/artist/1N8Iu7UNyNLPkpzdXClOvj) | [Lavender](https://open.spotify.com/album/2BkuqqT7CCE6ZZpKe3tp31) | 3:10 |
 | 43 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 |
-| 44 | [24k](https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 3:53 |
-| 45 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 |
-| 46 | [The Wheel \(feat\. Reva DeVito\)](https://open.spotify.com/track/24lQFc4lt65TynrdW72E2x) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Ride](https://open.spotify.com/album/2VmViaYZiLCABRP78yvsep) | 3:20 |
-| 47 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 |
+| 44 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 |
+| 45 | [24k](https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 3:53 |
+| 46 | [Quick \- KMB Remix](https://open.spotify.com/track/6vJbcwhdOcmg5QmE03MV8m) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq), [KMB](https://open.spotify.com/artist/0ihliQqviJjnWKiG0XSRqN) | [Quick \(KMB Remix\)](https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs) | 3:05 |
+| 47 | [The Wheel \(feat\. Reva DeVito\)](https://open.spotify.com/track/24lQFc4lt65TynrdW72E2x) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Ride](https://open.spotify.com/album/2VmViaYZiLCABRP78yvsep) | 3:20 |
 | 48 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 |
 | 49 | [What I Want](https://open.spotify.com/track/58e40p8zCiVLRwFF6oX9iY) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [What I Want](https://open.spotify.com/album/0nMQ3ZO6LfCvGY20mEEeQq) | 3:12 |
 | 50 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 |
 
-Snapshot ID: `MTY0Nzk5NzA5MiwwMDAwMDAwMGYxYjlkYTFkNWY3ZmRkMzdhNmE5YTg2YjQzMGMzYzA5`
+Snapshot ID: `MTY0ODA4MzIxOCwwMDAwMDAwMDc0ZmE2MTdiM2IxZmUxYzk2ZmJhMmViOTY5ODQyZmI5`

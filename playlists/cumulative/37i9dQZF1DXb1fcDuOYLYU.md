@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb1fcDuOYLYU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb1fcDuOYLYU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb1fcDuOYLYU)
 
-### Women of Latin
+### [Women of Latin](https://open.spotify.com/playlist/3pQFKhnY33a9QIrCBLbj5H)
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Karol G
 

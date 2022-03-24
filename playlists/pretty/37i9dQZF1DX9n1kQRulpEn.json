@@ -1,12 +1,12 @@
 {
   "description": "A swinging soundtrack for your drivetime.",
-  "num_followers": 22242,
+  "num_followers": 22299,
   "original_name": "Jazz on the Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzM1MCwwMDAwMDAwMDQyNGQ1MTEwMTM2MTkzNzhlNGRkMGM4OGExYjJkODE3",
+  "snapshot_id": "MTY0ODA4MzQ3OCwwMDAwMDAwMDg2Mjc0YmZhOGU1YTIwZjc0ZDkzYmRkZWE3MjgwZGQy",
   "tracks": [
     {
       "added_at": "2022-03-10 23:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-03-10 23:01:00",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/0dpDKGE9JbqbpEMzVTkHWq"
-      },
-      "artists": [
-        {
-          "name": "Bart-Jan Hogenhuis",
-          "url": "https://open.spotify.com/artist/7m6f9S82i8F66yr6Efpgjk"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "Coffee Break",
-      "url": "https://open.spotify.com/track/48Zzx8FS8tF8pzw6ZqQYaX"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
         "name": "Ralph Bowen",
         "url": "https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 416342,
       "name": "A Pademonium of Parrots",
       "url": "https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt"
+    },
+    {
+      "added_at": "2022-03-10 23:01:00",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/0dpDKGE9JbqbpEMzVTkHWq"
+      },
+      "artists": [
+        {
+          "name": "Bart-Jan Hogenhuis",
+          "url": "https://open.spotify.com/artist/7m6f9S82i8F66yr6Efpgjk"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "Coffee Break",
+      "url": "https://open.spotify.com/track/48Zzx8FS8tF8pzw6ZqQYaX"
     },
     {
       "added_at": "2022-03-10 23:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-03-10 23:01:00",
       "album": {
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+    },
+    {
+      "added_at": "2022-03-10 23:01:00",
+      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -1651,38 +1667,6 @@
     {
       "added_at": "2022-03-10 23:01:00",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
         "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
@@ -1695,22 +1679,6 @@
       "duration_ms": 511853,
       "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2022-03-10 23:01:00",
-      "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-03-10 23:01:00",
@@ -1731,18 +1699,34 @@
     {
       "added_at": "2022-03-10 23:01:00",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 429266,
-      "name": "Watermelon Man - Remastered",
-      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+    },
+    {
+      "added_at": "2022-03-10 23:01:00",
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-03-10 23:01:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 367266,
       "name": "The Outlaw - Remastered",
       "url": "https://open.spotify.com/track/0AVsLKbGvkZTN3728YE44l"
+    },
+    {
+      "added_at": "2022-03-10 23:01:00",
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 429266,
+      "name": "Watermelon Man - Remastered",
+      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
     },
     {
       "added_at": "2022-03-10 23:01:00",

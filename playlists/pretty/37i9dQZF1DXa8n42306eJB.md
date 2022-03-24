@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,542 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,590 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
-| 2 | [Iko Iko](https://open.spotify.com/track/4qlBvxOwFy6og73eik75Ro) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/4q7TFzYz9PSdakqnHotCgV) | [Iko Iko](https://open.spotify.com/album/4XPwYCtmyrjrA83g0ClH9H) | 3:02 |
+| 2 | [Iko Iko](https://open.spotify.com/track/4qlBvxOwFy6og73eik75Ro) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko](https://open.spotify.com/album/4XPwYCtmyrjrA83g0ClH9H) | 3:02 |
 | 3 | [Banana \(feat\. Shaggy\)](https://open.spotify.com/track/13OdVDwHdPlGkKHyjPoadB) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Banana \(feat\. Shaggy\) \[DJ FLe \- Minisiren Remix\]](https://open.spotify.com/album/4txsHyrnh5YNezMNlknYv4) | 3:04 |
 | 4 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
 | 5 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 |

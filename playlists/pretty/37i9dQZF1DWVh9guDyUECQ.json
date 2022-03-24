@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Lizzy Parra",
-  "num_followers": 137785,
+  "num_followers": 137871,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjkwOCwwMDAwMDAwMGFlYjhhZTgzMjc5YWJhMTcyOTE2NzRiZGRlODE5MDA5",
+  "snapshot_id": "MTY0ODA4MzAyNSwwMDAwMDAwMGZlZjRlMjczOWQ5NzFiNGMwYzZmYTVkOTljNWYzMzU1",
   "tracks": [
     {
       "added_at": "2021-11-05 07:00:12",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
-        "name": "Si T\u00fa Me Llamas (Worship Version)",
-        "url": "https://open.spotify.com/album/7aCrKi0RoL2DtzSnGs2KLs"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        }
-      ],
-      "duration_ms": 216486,
-      "name": "Si T\u00fa Me Llamas - Worship Version",
-      "url": "https://open.spotify.com/track/7G4vh3oIjhbVpJlIpAakpX"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
         "name": "Jhoni",
         "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
       },
@@ -443,6 +427,26 @@
       "duration_ms": 201600,
       "name": "Haremos",
       "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
+        "name": "Qui\u00e9brame",
+        "url": "https://open.spotify.com/album/1UR4VD3TTpvk7Wed2lkPxE"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+        }
+      ],
+      "duration_ms": 220980,
+      "name": "Qui\u00e9brame",
+      "url": "https://open.spotify.com/track/3fu91LqqesBrdvxwTiBvLL"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -467,22 +471,18 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
-        "name": "Qui\u00e9brame",
-        "url": "https://open.spotify.com/album/1UR4VD3TTpvk7Wed2lkPxE"
+        "name": "Si T\u00fa Me Llamas (Worship Version)",
+        "url": "https://open.spotify.com/album/7aCrKi0RoL2DtzSnGs2KLs"
       },
       "artists": [
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Cales Louima",
-          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 220980,
-      "name": "Qui\u00e9brame",
-      "url": "https://open.spotify.com/track/3fu91LqqesBrdvxwTiBvLL"
+      "duration_ms": 216486,
+      "name": "Si T\u00fa Me Llamas - Worship Version",
+      "url": "https://open.spotify.com/track/7G4vh3oIjhbVpJlIpAakpX"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
-        "name": "Lente",
-        "url": "https://open.spotify.com/album/5ERkznsAlQ08Ha962OBMwr"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 191936,
-      "name": "Lente",
-      "url": "https://open.spotify.com/track/42jzCcL5qdr1zJxnShsy6M"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4BBUsdtyMbVF0DcE2pYRrs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 205333,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/0rLTlPI6pHkqaWD4aMgQGz"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/5ERkznsAlQ08Ha962OBMwr"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 191936,
+      "name": "Lente",
+      "url": "https://open.spotify.com/track/42jzCcL5qdr1zJxnShsy6M"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -875,6 +875,34 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
+        "name": "Jes\u00fas (Remix)",
+        "url": "https://open.spotify.com/album/14rFBqiAzDlBiyhYyGD89U"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Jes\u00fas (Remix)",
+      "url": "https://open.spotify.com/track/75c5EjkdwC3Ot4TZNOzOiH"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
         "name": "Buena Onda",
         "url": "https://open.spotify.com/album/7A8XQQfQmqv43Wb5Rpyg50"
       },
@@ -903,34 +931,6 @@
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/34XLtADuzGmudXQtdReX26"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
-        "name": "Jes\u00fas (Remix)",
-        "url": "https://open.spotify.com/album/14rFBqiAzDlBiyhYyGD89U"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Jes\u00fas (Remix)",
-      "url": "https://open.spotify.com/track/75c5EjkdwC3Ot4TZNOzOiH"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -987,6 +987,22 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
+        "name": "Miro Al Horizonte",
+        "url": "https://open.spotify.com/album/647Fc9VbrPoarhFHGZVa1a"
+      },
+      "artists": [
+        {
+          "name": "Imprenta Fragante",
+          "url": "https://open.spotify.com/artist/0aRuSv9WkCvxeZOgYJL9G3"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Miro Al Horizonte",
+      "url": "https://open.spotify.com/track/35DMGGY7ZKNGHHyzE8FraV"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/5NcGfTjTPr24Cg8pA6MTdr"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 240582,
       "name": "Vida",
       "url": "https://open.spotify.com/track/52JxQo33h5RyHbrx8Iymzo"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
-        "name": "Miro Al Horizonte",
-        "url": "https://open.spotify.com/album/647Fc9VbrPoarhFHGZVa1a"
-      },
-      "artists": [
-        {
-          "name": "Imprenta Fragante",
-          "url": "https://open.spotify.com/artist/0aRuSv9WkCvxeZOgYJL9G3"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Miro Al Horizonte",
-      "url": "https://open.spotify.com/track/35DMGGY7ZKNGHHyzE8FraV"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/3sKRE6i0r98zJ59GDKBfB0"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 227001,
-      "name": "Revol\u00fa",
-      "url": "https://open.spotify.com/track/1zaQLu8zWH6C3BZXR4vS6I"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
         "name": "Vives en Mi",
         "url": "https://open.spotify.com/album/40KwN0OaizIoyiiyzzFaoH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 216000,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/2RNHVytRWQfVpTmG7MG6yj"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/3sKRE6i0r98zJ59GDKBfB0"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 227001,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/1zaQLu8zWH6C3BZXR4vS6I"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -1267,6 +1267,34 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
+        "name": "Encontre Tu Amor (Remix)",
+        "url": "https://open.spotify.com/album/24zKAnw9dTligp97G89XeC"
+      },
+      "artists": [
+        {
+          "name": "Mikey A",
+          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/0fYfYphxFJlUiyqGvvNlkF"
+        }
+      ],
+      "duration_ms": 263478,
+      "name": "Encontre Tu Amor (Remix)",
+      "url": "https://open.spotify.com/track/4U4IsZZurZhVnkxnkzXqsJ"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
         "name": "UNO",
         "url": "https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE"
       },
@@ -1299,34 +1327,6 @@
       "duration_ms": 441070,
       "name": "UNO feat. Alex Zurdo, Funky, Redimi2, Christian Ponce, Almighty, Ander Bock",
       "url": "https://open.spotify.com/track/39x9KIWRgk5upXiHbbVTu2"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
-        "name": "Encontre Tu Amor (Remix)",
-        "url": "https://open.spotify.com/album/24zKAnw9dTligp97G89XeC"
-      },
-      "artists": [
-        {
-          "name": "Mikey A",
-          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/0fYfYphxFJlUiyqGvvNlkF"
-        }
-      ],
-      "duration_ms": 263478,
-      "name": "Encontre Tu Amor (Remix)",
-      "url": "https://open.spotify.com/track/4U4IsZZurZhVnkxnkzXqsJ"
     },
     {
       "added_at": "2021-11-05 07:00:12",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
-        "name": "Uno M\u00e1s",
-        "url": "https://open.spotify.com/album/0pjWvwnqnS7N2Zx8L0bAwp"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0gUbFih2IAriDVXxUZilQ6"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
         "name": "No Te Vas",
         "url": "https://open.spotify.com/album/0Gl3EtmzpF49ZcnHt49lA0"
       },
@@ -1431,6 +1415,38 @@
     {
       "added_at": "2021-11-05 07:00:12",
       "album": {
+        "name": "Uno M\u00e1s",
+        "url": "https://open.spotify.com/album/0pjWvwnqnS7N2Zx8L0bAwp"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0gUbFih2IAriDVXxUZilQ6"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
+        "name": "Tiene Que Doler",
+        "url": "https://open.spotify.com/album/0dmqPNCl9Nm3rvB2pIwadA"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 252201,
+      "name": "Tiene Que Doler",
+      "url": "https://open.spotify.com/track/0bDyORtU8rnoeGiL6swHVB"
+    },
+    {
+      "added_at": "2021-11-05 07:00:12",
+      "album": {
         "name": "Dejarme Llevar",
         "url": "https://open.spotify.com/album/2fkd1AkzmQqxR2Dis88ffD"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 226666,
       "name": "Dejarme Llevar",
       "url": "https://open.spotify.com/track/3uk8hBCkJTOOPyEJgikqOa"
-    },
-    {
-      "added_at": "2021-11-05 07:00:12",
-      "album": {
-        "name": "Tiene Que Doler",
-        "url": "https://open.spotify.com/album/0dmqPNCl9Nm3rvB2pIwadA"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 252201,
-      "name": "Tiene Que Doler",
-      "url": "https://open.spotify.com/track/0bDyORtU8rnoeGiL6swHVB"
     },
     {
       "added_at": "2021-11-05 07:00:12",

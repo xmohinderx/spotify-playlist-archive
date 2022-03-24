@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con ROSALÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,446 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,533 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [El Menú](https://open.spotify.com/track/3uKXWxlwMylUhATAZkUbHi) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [El Menú](https://open.spotify.com/album/5Py7OkUjuJqN4EvlxWtgiQ) | 2:30 |
 | 53 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 |
 | 54 | [Se Acabó](https://open.spotify.com/track/4NzHAfuFyQ0DrHKQMP0kgl) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Se Acabó](https://open.spotify.com/album/5UAJwaEEEChsYH3NeUQLar) | 3:12 |
-| 55 | [Brillando Alto](https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [A Plus](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:10 |
+| 55 | [Brillando Alto](https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:10 |
 | 56 | [Tengo La Luz](https://open.spotify.com/track/2v4kYoVwudJuLyi0ZxExLO) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Tengo La Luz](https://open.spotify.com/album/5eFXo33sZK2GNW9Efuhavn) | 3:21 |
 | 57 | [Calzón](https://open.spotify.com/track/1DvSbb8RdgyjDccLGBoTKq) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Mosaik](https://open.spotify.com/artist/1RFw7tiQ4abAZBxtvwL0aH), [Rodo Stornfelt](https://open.spotify.com/artist/0O4iqrHvT0vKclTwvT8jSc) | [Calzón](https://open.spotify.com/album/6eKGPjxwPBay51dKrIhEzr) | 5:37 |
 | 58 | [Ribelli](https://open.spotify.com/track/4ElZMZM9imovaP3WeKPSWy) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Ribelli](https://open.spotify.com/album/3m8CH7rmsnU7giyuGuf0CB) | 3:05 |

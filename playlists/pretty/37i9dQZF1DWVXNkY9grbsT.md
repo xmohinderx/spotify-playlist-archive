@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,768 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,840 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Portico](https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Portico](https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr) | 6:42 |
 | 100 | [Shortwave Memories](https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/19qBP7vJMQXgn78B3LfqRN) | 7:53 |
 
-Snapshot ID: `MTY0Nzk5NjkwMywwMDAwMDAwMDU4ZDRkMTYwY2FiMTliOTA1NmIwNTRiMWJlYTE4YWI5`
+Snapshot ID: `MTY0ODA4MzAxOSwwMDAwMDAwMDU4ZDRkMTYwY2FiMTliOTA1NmIwNTRiMWJlYTE4YWI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,149 likes - 110 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,200 likes - 110 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 76 | [The Magic Place](https://open.spotify.com/track/5Cr0fRWrB5C8AcfpkuxwL9) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Magic Place](https://open.spotify.com/album/3URSIUAf32gpsqPhp1ItuT) | 3:51 |
 | 77 | [Changes](https://open.spotify.com/track/6bmytjj9ePNgm9ALqs1Xa7) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [Changes](https://open.spotify.com/album/0GAT2qiShXzVQ0CZ9NJLuG) | 2:41 |
 | 78 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
-| 79 | [Michael](https://open.spotify.com/track/0YD4XcqaWkia83HhMZlYVo) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:21 |
-| 80 | [Bird](https://open.spotify.com/track/2SPPW7Ra8VLOnzQHXfRIOu) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird](https://open.spotify.com/album/6gdMuuforEhKQ3UEf5cb82) | 5:17 |
+| 79 | [Bird](https://open.spotify.com/track/2SPPW7Ra8VLOnzQHXfRIOu) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird](https://open.spotify.com/album/6gdMuuforEhKQ3UEf5cb82) | 5:17 |
+| 80 | [Michael](https://open.spotify.com/track/0YD4XcqaWkia83HhMZlYVo) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:21 |
 | 81 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 |
 | 82 | [Flume](https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 3:42 |
 | 83 | [Dreams](https://open.spotify.com/track/0TvEtOKh0AS1S0pkPVihWJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dreams](https://open.spotify.com/album/2hfWwGFFKnNs19lM3XYVND) | 3:13 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 110 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 |
 
-Snapshot ID: `MTY0Nzk5NzA3MywwMDAwMDAwMGYzOWM5ZTc4NzYxOGQ1N2NhYmM4MTBlNzZjMmFjNzcy`
+Snapshot ID: `MTY0ODA4MzE5OCwwMDAwMDAwMDVjM2YyMTQ1NjA5MjNkYmNkZDEwMTRkNmE0MTAxZDBh`

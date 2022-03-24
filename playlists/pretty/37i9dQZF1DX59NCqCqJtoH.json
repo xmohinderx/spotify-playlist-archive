@@ -1,12 +1,12 @@
 {
   "description": "We hear you",
-  "num_followers": 803746,
+  "num_followers": 804217,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzIwNywwMDAwMDAwMDhkODZhZjU1MzQ0OGMzYTcyMTkyOTEzOTE0MzQ1ZDM2",
+  "snapshot_id": "MTY0ODA4MzMzMSwwMDAwMDAwMDBhZjAyZTZlODMxNzNmNDRjNmE1M2UzMjEzMmRhNTA2",
   "tracks": [
     {
       "added_at": "2021-04-02 17:44:37",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
     },
     {
-      "added_at": "2022-01-25 17:32:00",
+      "added_at": "2022-03-23 17:43:31",
       "album": {
-        "name": "the bottom of the well",
-        "url": "https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy"
+        "name": "The Peak of My Existence",
+        "url": "https://open.spotify.com/album/7pJL0AQYy9ceXjDtaF2JPk"
       },
       "artists": [
         {
-          "name": "amy michelle",
-          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+          "name": "Jessica Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
         }
       ],
-      "duration_ms": 255329,
-      "name": "the bottom of the well",
-      "url": "https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi"
+      "duration_ms": 352340,
+      "name": "The Peak of My Existence",
+      "url": "https://open.spotify.com/track/1shhCs4jt261mJ5JEIwB6Y"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Pluto Projector",
-      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Pluto Projector",
+      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
-        "name": "Forever Misunderstood",
-        "url": "https://open.spotify.com/album/0FYHgjUYWthtF0hpsgDqg3"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Thomas Reid",
-          "url": "https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 154959,
-      "name": "Falling Asleep in Your Arms, Dreading the Sunrise",
-      "url": "https://open.spotify.com/track/7m18m0pH4WEFqOeUKrxZkw"
+      "duration_ms": 220866,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2021-10-08 16:03:06",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/5zR2NTKJbgLrQXBDApRfvp"
     },
     {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
-    },
-    {
       "added_at": "2022-01-25 17:32:00",
       "album": {
         "name": "Leaving (feat. the bootleg boy & Heroe)",
@@ -775,6 +759,22 @@
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "Forever Misunderstood",
+        "url": "https://open.spotify.com/album/0FYHgjUYWthtF0hpsgDqg3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Reid",
+          "url": "https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo"
+        }
+      ],
+      "duration_ms": 154959,
+      "name": "Falling Asleep in Your Arms, Dreading the Sunrise",
+      "url": "https://open.spotify.com/track/7m18m0pH4WEFqOeUKrxZkw"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -847,26 +847,6 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Do You Ever Think of Me?",
-      "url": "https://open.spotify.com/track/3UsCeel9NuKKmpls5B4osK"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
         "name": "West Coast City",
         "url": "https://open.spotify.com/album/5lbDm1Ere07s0xf78mdeFY"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 298312,
       "name": "I Walked Right Into It",
       "url": "https://open.spotify.com/track/5maC2QGPrm1E4WYMwwpDj7"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Do You Ever Think of Me?",
+      "url": "https://open.spotify.com/track/3UsCeel9NuKKmpls5B4osK"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/4V7xZ1AiCLwFbNMNc4Gj1f"
     },
     {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "far away from here",
+        "url": "https://open.spotify.com/album/40XB91INBVWZ5v9CwYE5Xw"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "far away from here",
+      "url": "https://open.spotify.com/track/7nnpU2iHbi2k23GNPJMKUM"
+    },
+    {
       "added_at": "2021-07-19 15:06:53",
       "album": {
         "name": "could cry just thinkin about you (Full Version)",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
-        "name": "far away from here",
-        "url": "https://open.spotify.com/album/40XB91INBVWZ5v9CwYE5Xw"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "far away from here",
-      "url": "https://open.spotify.com/track/7nnpU2iHbi2k23GNPJMKUM"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
         "name": "the way that you see me (feat. Ayleen Valentine)",
         "url": "https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 205905,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/2lf0nT2QF3AXBuOLGKwLnv"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "I Need U",
+        "url": "https://open.spotify.com/album/3c9n16f0gLbXdpmYYoRZ6O"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/5lbdxt9C6rsELTimTkyMn8"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -1317,58 +1333,6 @@
       "url": "https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR"
     },
     {
-      "added_at": "2021-06-01 16:12:44",
-      "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
-        "name": "I Need U",
-        "url": "https://open.spotify.com/album/3c9n16f0gLbXdpmYYoRZ6O"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/5lbdxt9C6rsELTimTkyMn8"
-    },
-    {
-      "added_at": "2021-10-08 16:03:06",
-      "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        },
-        {
-          "name": "Charlie Oriain",
-          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
-    },
-    {
       "added_at": "2021-04-02 17:44:37",
       "album": {
         "name": "some boring love stories pt 5",
@@ -1391,6 +1355,58 @@
       "duration_ms": 193170,
       "name": "the fire in your eyes keeps me warm",
       "url": "https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/5TveGocdKCuekZq3OiJemZ"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 114857,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/1QulgzFcNHJswXIGev88wJ"
+    },
+    {
+      "added_at": "2021-06-01 16:12:44",
+      "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
+    },
+    {
+      "added_at": "2021-10-08 16:03:06",
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        },
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -1459,8 +1475,8 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/5TveGocdKCuekZq3OiJemZ"
+        "name": "Lost In Between",
+        "url": "https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00"
       },
       "artists": [
         {
@@ -1468,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 114857,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/1QulgzFcNHJswXIGev88wJ"
+      "duration_ms": 124500,
+      "name": "Lost In Between",
+      "url": "https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3"
     },
     {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
-        "name": "Lost In Between",
-        "url": "https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Lost In Between",
-      "url": "https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y"
-    },
-    {
       "added_at": "2021-10-26 16:07:13",
       "album": {
         "name": "Patched Up",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
+        "name": "Town I Called My Home",
+        "url": "https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Town I Called My Home",
+      "url": "https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/09ZCg2F8tmAjuAYvJTKVGa"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
-        "name": "Town I Called My Home",
-        "url": "https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Town I Called My Home",
-      "url": "https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m"
     },
     {
       "added_at": "2021-04-02 17:44:37",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2021-04-02 17:44:37",
       "album": {
+        "name": "Behind the Clouds",
+        "url": "https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Behind the Clouds",
+      "url": "https://open.spotify.com/track/6l8mSWXw3Jy7TvM0r8W6LR"
+    },
+    {
+      "added_at": "2021-04-02 17:44:37",
+      "album": {
         "name": "expectations",
         "url": "https://open.spotify.com/album/4PNWVFBlAIBfY1ovxtxlap"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 316556,
       "name": "A Soulmate Who Wasn\u2019t Meant to Be",
       "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2021-04-02 17:44:37",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/5vXLLAWKw01J4GnT3qOcdv"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 200922,
-      "name": "dropout",
-      "url": "https://open.spotify.com/track/6BI0Na9AtisZ3PpkPqEeXk"
     }
   ],
   "unique_name": "idk.",

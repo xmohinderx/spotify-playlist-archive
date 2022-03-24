@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Lisa Leblanc
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,919 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,922 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 2 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 |
 | 3 | [Rêvalité](https://open.spotify.com/track/0TXw4Bf24hMYaZrIQFLyyJ) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité](https://open.spotify.com/album/1XNjmVAarNS7T7cy99Ctt5) | 2:32 |
 | 4 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 |
-| 5 | [Sun Valley \- Extrait de l'album SEGPA](https://open.spotify.com/track/1CRC31Y1vhXFHPt4JJ2Ykm) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [SEGPA](https://open.spotify.com/artist/4JRNtdW7IlzTeASEk0Oayo) | [Sun Valley](https://open.spotify.com/album/4PT5j8ChfiUNo7k8nShKp7) | 2:56 |
+| 5 | [Sun Valley \- Extrait de l'album SEGPA](https://open.spotify.com/track/1CRC31Y1vhXFHPt4JJ2Ykm) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [SEGPA](https://open.spotify.com/artist/4JRNtdW7IlzTeASEk0Oayo) | [Sun Valley](https://open.spotify.com/album/4PT5j8ChfiUNo7k8nShKp7) | 2:55 |
 | 6 | [Vis\-moi](https://open.spotify.com/track/3XddDjvpId6o2WsoRumEFM) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [Vis\-moi](https://open.spotify.com/album/6TFanzjpxlq7DcBzwLSUGG) | 3:45 |
 | 7 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 |
 | 8 | [Monochrome](https://open.spotify.com/track/0JQH0Q5DSDr5sHi5bRQ9hm) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/7xr77ACg7LvPSKQAzbVEQ6) | 2:46 |

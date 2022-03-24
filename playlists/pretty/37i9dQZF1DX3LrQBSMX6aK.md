@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,020 likes - 50 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,042 likes - 50 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 10 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
 | 11 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 12 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 |
-| 13 | [Romance \- Jayant Malhaar in Teent](https://open.spotify.com/track/3ON2mBMQpsGiPjaDkVRx9O) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Mita Nag](https://open.spotify.com/artist/19K7sawt1hIsF6EafVW4as) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:15 |
+| 13 | [Romance \- Jayant Malhaar in Teentaal](https://open.spotify.com/track/3ON2mBMQpsGiPjaDkVRx9O) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Mita Nag](https://open.spotify.com/artist/19K7sawt1hIsF6EafVW4as) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:15 |
 | 14 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
 | 15 | [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 |
 | 16 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |

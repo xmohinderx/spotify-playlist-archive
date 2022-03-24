@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Coi Leray\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,500 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,536 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

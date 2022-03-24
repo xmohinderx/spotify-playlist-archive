@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: toorai
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: BERNARDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,525 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,567 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [crush](https://open.spotify.com/track/5oirZkcyiZbgj5yG35BzTI) | [marjei](https://open.spotify.com/artist/7ezBmmHgTL0tj341girz15) | [crush](https://open.spotify.com/album/685xhWQuF5l14RhDgt7930) | 3:14 |
 | 50 | [ALMAR](https://open.spotify.com/track/368LrnK95Ab3OEqq0vNzrL) | [Merina Gris](https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD) | [Zerua Orain](https://open.spotify.com/album/1JbIFQ1DWYe7ZGnnmuXrEi) | 3:11 |
 
-Snapshot ID: `MTY0Nzk5MDAwMCwwMDAwMDA0NDAwMDAwMTdmYjNkYmM5ZjkwMDAwMDE3ZjhkNTBjYTAz`
+Snapshot ID: `MTY0ODAyMzk0OSwwMDAwMDA0NTAwMDAwMTdmYjVlMWNmYTcwMDAwMDE3ZmI1ZTFhNzMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,353,210 likes - 200 songs - 18 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,353,689 likes - 200 songs - 18 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 16 | [Yuregine Deprem](https://open.spotify.com/track/4WyEKbKh03uvJRcdKRnBBi) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Yuregine Deprem](https://open.spotify.com/album/2sdxUgB4Oit1CtucCTaqhm) | 3:47 |
 | 17 | [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 |
 | 18 | [Far Away](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso), [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Far Away](https://open.spotify.com/album/1A20CLLIpdw7tsZu25xZ7C) | 2:58 |
-| 19 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 |
+| 19 | [Reflections](https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/61ifkR2UdZXUWyPMOZ0y0N) | 3:51 |
 | 20 | [The Truth](https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:42 |
-| 21 | [Reflections](https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/61ifkR2UdZXUWyPMOZ0y0N) | 3:51 |
+| 21 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 |
 | 22 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
 | 23 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 |
 | 24 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 |
@@ -187,10 +187,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 177 | [Coyhaique \- Original Mix](https://open.spotify.com/track/5lvx0HcLnbXBjHIC7LcwUD) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/6JA0rBf9SqYOkSMWQOKbYS) | 6:32 |
 | 178 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 |
 | 179 | [Sunday Afterglow](https://open.spotify.com/track/2Q6raM7fnrzaN8qDOj00VF) | [C.Vogt](https://open.spotify.com/artist/2XF2p5UcFOtNOB7vj45zEG), [Patrick Jeremic](https://open.spotify.com/artist/4nixajrQNA6kBkQar8yPr6) | [Diperin EP](https://open.spotify.com/album/6TaRqP26rF2ufuN9HL45jb) | 9:00 |
-| 180 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 |
-| 181 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 |
-| 182 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 |
-| 183 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 |
+| 180 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 |
+| 181 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 |
+| 182 | [Faded Memory](https://open.spotify.com/track/30sWK9of3ll8689n12qV0b) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Alone In Parallel / Faded Memory](https://open.spotify.com/album/7mZsqsu1FHR3QKnF4eH3sV) | 4:14 |
+| 183 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 |
 | 184 | [Floss](https://open.spotify.com/track/3I7cvFHNwanYTnGiK6qrQ0) | [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Ed Nine](https://open.spotify.com/artist/50QUJcqIIHO67CGSYDw0eI) | [Provide](https://open.spotify.com/album/47HMFd7cpiPHhTAw5Zp3cQ) | 6:50 |
 | 185 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 |
 | 186 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Zikaron](https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d) | [Sahar Z](https://open.spotify.com/artist/47YdOgVXS5hzu5spoFFpHU) | [Mixed Feelings / Zikaron](https://open.spotify.com/album/02f2VvjIA20aM11fkIExdd) | 7:46 |
 | 200 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 |
 
-Snapshot ID: `MTY0Nzk5NzEyMiwwMDAwMDAwMGZjOTg3Yzc3OWM1Zjg1NGI5NjFlN2QwMjZkMWU3NjM0`
+Snapshot ID: `MTY0ODA4MzI0OCwwMDAwMDAwMDA2ODJhODdhODRkOWJiMTIzMGFlODkwNzEyZjllZTVi`

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 156484,
+  "num_followers": 156765,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQ0NiwwMDAwMDAwMDkwN2Y0NDNmMTc3ZDM5MmQzM2NhYzc4NGMyZTc5Mjgy",
+  "snapshot_id": "MTY0ODA4MzU3NywwMDAwMDAwMDZhMDg5NGVmOWM5YWFhMmMxZTRjZjlhMmE2NGRkMWU5",
   "tracks": [
     {
       "added_at": "2022-03-21 14:27:51",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-03-21 14:27:51",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2022-03-21 14:27:51",
+      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
-    },
-    {
-      "added_at": "2022-03-21 14:27:51",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2022-03-21 14:27:51",
@@ -343,6 +343,26 @@
     {
       "added_at": "2022-03-21 14:27:51",
       "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2022-03-21 14:27:51",
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 304091,
       "name": "The Long March - Remix",
       "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
-    },
-    {
-      "added_at": "2022-03-21 14:27:51",
-      "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2022-03-21 14:27:51",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-03-21 14:27:51",
       "album": {
+        "name": "OUD",
+        "url": "https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo"
+      },
+      "artists": [
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "duration_ms": 435187,
+      "name": "OUD",
+      "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
+    },
+    {
+      "added_at": "2022-03-21 14:27:51",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2022-03-21 14:27:51",
-      "album": {
-        "name": "OUD",
-        "url": "https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo"
-      },
-      "artists": [
-        {
-          "name": "FNX OMAR",
-          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
-        }
-      ],
-      "duration_ms": 435187,
-      "name": "OUD",
-      "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
     },
     {
       "added_at": "2022-03-21 14:27:51",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2022-03-21 14:27:51",
       "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        },
+        {
+          "name": "DJ Ego",
+          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
+        }
+      ],
+      "duration_ms": 377704,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
+    },
+    {
+      "added_at": "2022-03-21 14:27:51",
+      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 221962,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ"
-    },
-    {
-      "added_at": "2022-03-21 14:27:51",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ Ego",
-          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
-        }
-      ],
-      "duration_ms": 377704,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
     },
     {
       "added_at": "2022-03-21 14:27:51",

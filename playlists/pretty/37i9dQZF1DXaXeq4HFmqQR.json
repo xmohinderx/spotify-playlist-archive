@@ -1,12 +1,12 @@
 {
   "description": "Rubio y m\u00e1s mujeres, a todo volumen.",
-  "num_followers": 8109,
+  "num_followers": 8110,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzM3NywwMDAwMDAwMDY3YWNiNjkwZjU2OWE1NjVmZmQxZjY2ZTMyMTRkZWY0",
+  "snapshot_id": "MTY0ODA4MzUwNSwwMDAwMDAwMDVlYmNjMmIyMDViMjc2NzNjMWZiZTg5MzkxNjBjODhm",
   "tracks": [
     {
       "added_at": "2022-03-08 03:00:00",
@@ -175,38 +175,6 @@
     {
       "added_at": "2022-03-08 03:00:00",
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 277434,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP"
-    },
-    {
-      "added_at": "2022-03-08 03:00:00",
-      "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
-    },
-    {
-      "added_at": "2022-03-08 03:00:00",
-      "album": {
         "name": "Playa",
         "url": "https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ"
       },
@@ -235,6 +203,38 @@
       "duration_ms": 249337,
       "name": "S\u00f3lo Vine a Bailar",
       "url": "https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL"
+    },
+    {
+      "added_at": "2022-03-08 03:00:00",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2022-03-08 03:00:00",
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 277434,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP"
     },
     {
       "added_at": "2022-03-08 03:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-03-08 03:00:00",
       "album": {
+        "name": "Cruz Dimensional",
+        "url": "https://open.spotify.com/album/3hfAxSd1RAJUOVaT3fKPk2"
+      },
+      "artists": [
+        {
+          "name": "Andrea Paz",
+          "url": "https://open.spotify.com/artist/3BWRpRawstkB7kVgwhzLTd"
+        }
+      ],
+      "duration_ms": 540009,
+      "name": "Puerta",
+      "url": "https://open.spotify.com/track/604hGA64E1UAZuTN3tHiTu"
+    },
+    {
+      "added_at": "2022-03-08 03:00:00",
+      "album": {
         "name": "I. Entusiasmo (Deluxe)",
         "url": "https://open.spotify.com/album/0o4jDvbgrcERBrAFhVIrE9"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 195563,
       "name": "Pasi\u00f3n Aka Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/7jhPBSMQy1uFfoIRqwQCXt"
-    },
-    {
-      "added_at": "2022-03-08 03:00:00",
-      "album": {
-        "name": "Cruz Dimensional",
-        "url": "https://open.spotify.com/album/3hfAxSd1RAJUOVaT3fKPk2"
-      },
-      "artists": [
-        {
-          "name": "Andrea Paz",
-          "url": "https://open.spotify.com/artist/3BWRpRawstkB7kVgwhzLTd"
-        }
-      ],
-      "duration_ms": 540009,
-      "name": "Puerta",
-      "url": "https://open.spotify.com/track/604hGA64E1UAZuTN3tHiTu"
     },
     {
       "added_at": "2022-03-08 03:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-03-08 03:00:00",
       "album": {
-        "name": "Olvidarte Es un Arte",
-        "url": "https://open.spotify.com/album/75av1suHOIbgUY9G42Dzv9"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        },
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        }
-      ],
-      "duration_ms": 187302,
-      "name": "Olvidarte Es un Arte",
-      "url": "https://open.spotify.com/track/55z2lCvu4NB29myyLvbT9s"
-    },
-    {
-      "added_at": "2022-03-08 03:00:00",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/6kTwvd9Tkn9xuPxByRDds7"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 254040,
       "name": "Temores",
       "url": "https://open.spotify.com/track/3TOCH8ZjLvmIRfyAe2niE8"
+    },
+    {
+      "added_at": "2022-03-08 03:00:00",
+      "album": {
+        "name": "Olvidarte Es un Arte",
+        "url": "https://open.spotify.com/album/75av1suHOIbgUY9G42Dzv9"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        }
+      ],
+      "duration_ms": 187302,
+      "name": "Olvidarte Es un Arte",
+      "url": "https://open.spotify.com/track/55z2lCvu4NB29myyLvbT9s"
     }
   ],
   "unique_name": "EQUAL Chile",

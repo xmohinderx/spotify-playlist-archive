@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoK39RtbDqZ.md) - [plain]
 
 > Environmental compositions bringing together the worlds of field recording and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,335 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,370 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoK39RtbDqZ.md) - [plain]
 | 70 | [Great Song](https://open.spotify.com/track/5GAzhXkor5Gmic5ttwkRLP) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [An Afternoon Whine](https://open.spotify.com/album/2kzV6Wo1oi59dNhBlcPXpc) | 3:03 |
 | 71 | [Cityscape](https://open.spotify.com/track/0DVIhUCMKhwvZ16OL8rc1Z) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Cityscape](https://open.spotify.com/album/5PorxYDZjbHvA3L8GQgqtI) | 3:57 |
 | 72 | [we break, but we keep going](https://open.spotify.com/track/590EROuFnElGKZC6ZZCcfG) | [Paper Ocean](https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS) | [we break, but we keep going](https://open.spotify.com/album/5jHaOc3PFzPYZvHhbw2wPF) | 2:51 |
-| 73 | [Prudence](https://open.spotify.com/track/7xIzl5AzUj3pxJe1GjhATB) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [Prudence](https://open.spotify.com/album/69c3b9keIH5KIZCE87bNqD) | 3:37 |
-| 74 | [396hz light mist](https://open.spotify.com/track/6YhTEllekuI3Y7VZKGnkOB) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Planetary Music : Tokyo Yoga Sleep Meditation 001](https://open.spotify.com/album/6U5pCWnuIcxvnM0Jzc8RgB) | 2:16 |
-| 75 | [M49](https://open.spotify.com/track/2RfNDjeTtnmW8x2tGiu8Qi) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [M49](https://open.spotify.com/album/03KPnQBLuPDmF7dgiuKElp) | 4:03 |
+| 73 | [M49](https://open.spotify.com/track/2RfNDjeTtnmW8x2tGiu8Qi) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [M49](https://open.spotify.com/album/03KPnQBLuPDmF7dgiuKElp) | 4:03 |
+| 74 | [Prudence](https://open.spotify.com/track/7xIzl5AzUj3pxJe1GjhATB) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [Prudence](https://open.spotify.com/album/69c3b9keIH5KIZCE87bNqD) | 3:37 |
+| 75 | [396hz light mist](https://open.spotify.com/track/6YhTEllekuI3Y7VZKGnkOB) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Planetary Music : Tokyo Yoga Sleep Meditation 001](https://open.spotify.com/album/6U5pCWnuIcxvnM0Jzc8RgB) | 2:16 |
 | 76 | [Havel River](https://open.spotify.com/track/4alPNYeS2OYK2Nmkh8GHQc) | [Ale Hop](https://open.spotify.com/artist/1Ef3JUYNrOM5JfOo9oThPV) | [Havel River](https://open.spotify.com/album/0gNosv4GelDOgppaRqgrhf) | 4:01 |
 | 77 | [Vatnajökull \- Liminal Remix](https://open.spotify.com/track/1PCJhnXs7FUvoAXWioS6BX) | [Chris Watson](https://open.spotify.com/artist/6hCSDeCfwXsR3Mg6AVlvvk) | [Liminal 2](https://open.spotify.com/album/3782PrciYMnXHXBJGbfrE6) | 1:09 |
 | 78 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 2:07 |
-| 79 | [Discrete \(The Market\)](https://open.spotify.com/track/0PCgqohjmihlrkkyrOkIS7) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0JqII2rTqN5dOuv778ayhJ) | 6:34 |
-| 80 | [Shrine \(Still Life With Glass Bottle, Flower and Microphone\)](https://open.spotify.com/track/3h3QqtD9LxZWeoM4Pik5qN) | [Marja Ahti](https://open.spotify.com/artist/2KaOFH64b8IFQJyVthWLll) | [Still Lives](https://open.spotify.com/album/0Rh9B4Cgu9FDXxVMDY1nYs) | 5:09 |
+| 79 | [Shrine \(Still Life With Glass Bottle, Flower and Microphone\)](https://open.spotify.com/track/3h3QqtD9LxZWeoM4Pik5qN) | [Marja Ahti](https://open.spotify.com/artist/2KaOFH64b8IFQJyVthWLll) | [Still Lives](https://open.spotify.com/album/0Rh9B4Cgu9FDXxVMDY1nYs) | 5:09 |
+| 80 | [Discrete \(The Market\)](https://open.spotify.com/track/0PCgqohjmihlrkkyrOkIS7) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0JqII2rTqN5dOuv778ayhJ) | 6:34 |
 
-Snapshot ID: `MTY0Nzk5NjkxNCwwMDAwMDAwMDU3NWJjM2I3MTNmNjFkNTE2MmIyYWY2MjlkNWQ3NjNj`
+Snapshot ID: `MTY0ODA4MzAzMSwwMDAwMDAwMDNmZDc1MjBjMjBkMGQ0ZDZmZGI0ZTIyODYyZjhkNjEw`

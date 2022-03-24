@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. Cover: \u00d6wnboss & Sevek",
-  "num_followers": 822714,
+  "num_followers": 822961,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg4NCwwMDAwMDAwMGZlNDUwZmJjOWJkZjhhZGVhYmI0OTg4OTgxYTU2ZTQ3",
+  "snapshot_id": "MTY0ODA4MzAwMCwwMDAwMDAwMDIxNGJmNzgwNGUwNzcxODUyZTAzMTc2MmM5N2FmYzY3",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/60eBNPOrnPEY2Ao4RIdw12"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Look at You",
         "url": "https://open.spotify.com/album/5uamDROrRYS2UObpW4WRhP"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 169426,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/60eBNPOrnPEY2Ao4RIdw12"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Thrills (feat. Jaxon Rose)",
         "url": "https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 202524,
       "name": "Thrills (feat. Jaxon Rose)",
       "url": "https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "hiiigh",
         "url": "https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 171984,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88"
     },
     {
       "added_at": "2022-03-18 05:00:00",

@@ -129,12 +129,12 @@
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
           "name": "Ozuna",
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
       "date_added": "2021-12-10",
@@ -3757,7 +3757,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 195734,
       "name": "Te Lo Vamo a Da",
       "url": "https://open.spotify.com/track/15TcdGsX08XSZ4B8hXN2sy"
@@ -3819,7 +3819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 228655,
       "name": "Tecnobow (feat. Diplo)",
       "url": "https://open.spotify.com/track/1roaN9AUTbYfiSDcpxdjr9"

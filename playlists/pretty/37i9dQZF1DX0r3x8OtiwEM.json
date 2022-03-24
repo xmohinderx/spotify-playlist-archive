@@ -1,12 +1,12 @@
 {
   "description": "Chill techno and tech house.",
-  "num_followers": 703480,
+  "num_followers": 703819,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA2OSwwMDAwMDAwMDJmMzE1Y2MxZmFmZjdiMGE3ODcxMDk3MjFjMjI4MzRh",
+  "snapshot_id": "MTY0ODA4MzE5NSwwMDAwMDAwMDc0MTk0YmYwNTg5NWFjNmM5YmNhN2NiYTc0ZGFjNGIx",
   "tracks": [
     {
       "added_at": "2022-02-25 20:09:26",
@@ -127,30 +127,6 @@
     {
       "added_at": "2022-02-25 20:09:26",
       "album": {
-        "name": "Follow (Max Manie Remix)",
-        "url": "https://open.spotify.com/album/29nHlh98BX8btGwsApWfih"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "GIVVEN",
-          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
-        },
-        {
-          "name": "Max Manie",
-          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
-        }
-      ],
-      "duration_ms": 292179,
-      "name": "Follow (Max Manie Remix)",
-      "url": "https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI"
-    },
-    {
-      "added_at": "2022-02-25 20:09:26",
-      "album": {
         "name": "Hypnotease",
         "url": "https://open.spotify.com/album/4fT1pJeDDNgdpIXXVUoiQS"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2022-02-25 20:09:26",
+      "album": {
+        "name": "Follow (Max Manie Remix)",
+        "url": "https://open.spotify.com/album/29nHlh98BX8btGwsApWfih"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        },
+        {
+          "name": "Max Manie",
+          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
+        }
+      ],
+      "duration_ms": 292179,
+      "name": "Follow (Max Manie Remix)",
+      "url": "https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-02-25 20:09:26",
       "album": {
+        "name": "Thermal / Oblivion",
+        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-02-25 20:09:26",
+      "album": {
         "name": "Claire",
         "url": "https://open.spotify.com/album/7cCOKtUAAyXgCa8oIdqU34"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
-    },
-    {
-      "added_at": "2022-02-25 20:09:26",
-      "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-02-25 20:09:26",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 365172,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
+    },
+    {
+      "added_at": "2022-02-25 20:09:26",
+      "album": {
         "name": "Bring You Back",
         "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
-    },
-    {
-      "added_at": "2022-02-25 20:09:26",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 365172,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-02-25 20:09:26",
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/3KArNyUMUdAXmnwP72PQSz"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        },
+        {
+          "name": "Aalson",
+          "url": "https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
+    },
+    {
+      "added_at": "2022-02-25 20:09:26",
+      "album": {
         "name": "Tantrum",
         "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
       },
@@ -623,22 +643,6 @@
       "duration_ms": 229512,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
-    },
-    {
-      "added_at": "2022-02-25 20:09:26",
-      "album": {
-        "name": "Little Girl",
-        "url": "https://open.spotify.com/album/3XakrfPUGzwHSo9pbf0bIq"
-      },
-      "artists": [
-        {
-          "name": "Fran&co",
-          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
-        }
-      ],
-      "duration_ms": 296661,
-      "name": "Little Girl",
-      "url": "https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -663,18 +667,18 @@
     {
       "added_at": "2022-02-25 20:09:26",
       "album": {
-        "name": "The Center Will Not Hold",
-        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+        "name": "Little Girl",
+        "url": "https://open.spotify.com/album/3XakrfPUGzwHSo9pbf0bIq"
       },
       "artists": [
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "Fran&co",
+          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
         }
       ],
-      "duration_ms": 230239,
-      "name": "The Center Will Not Hold",
-      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
+      "duration_ms": 296661,
+      "name": "Little Girl",
+      "url": "https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -695,26 +699,6 @@
       "duration_ms": 426885,
       "name": "The Parallel - Miss Monique Remix",
       "url": "https://open.spotify.com/track/6IoSsOgcDI8BadBDp7AZ5E"
-    },
-    {
-      "added_at": "2022-02-25 20:09:26",
-      "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/3KArNyUMUdAXmnwP72PQSz"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        },
-        {
-          "name": "Aalson",
-          "url": "https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
     },
     {
       "added_at": "2022-02-25 20:09:26",
@@ -755,6 +739,22 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2022-02-25 20:09:26",
+      "album": {
+        "name": "The Center Will Not Hold",
+        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 230239,
+      "name": "The Center Will Not Hold",
+      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
     },
     {
       "added_at": "2022-02-25 20:09:26",

@@ -2,7 +2,7 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
-> La casa del Trap de Argentino\. Foto: Bhavi & LIT killah.
+> La casa del Trap de Argentino\. Foto: KAKTOV.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

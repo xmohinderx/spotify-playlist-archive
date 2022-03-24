@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=MI3fnm0tSg6h8gLvE4fJWQ\" > Oxlade </a>",
-  "num_followers": 298440,
+  "num_followers": 298752,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzAxMCwwMDAwMDAwMGM1ZGZhYjJiODY4YzM2Yjg4NmNlYmFiMjBmYmJjNTBk",
+  "snapshot_id": "MTY0ODA4MzEzMSwwMDAwMDAwMDI4MjYyZmVkMDJkMzUyMGI1YTVkNTRmMTU1MTFjMWNk",
   "tracks": [
     {
       "added_at": "2021-09-27 05:47:22",
@@ -277,26 +277,6 @@
       "url": "https://open.spotify.com/track/35056uy2b4M1qJ3Z1ed3sf"
     },
     {
-      "added_at": "2021-09-27 05:47:22",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
       "added_at": "2021-10-15 00:00:00",
       "album": {
         "name": "Cold Outside",
@@ -331,6 +311,26 @@
       "duration_ms": 273600,
       "name": "Summer YoMuthi",
       "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
+    },
+    {
+      "added_at": "2021-09-27 05:47:22",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
-      "added_at": "2021-09-27 05:47:22",
-      "album": {
-        "name": "Somewhere Between Beauty & Magic",
-        "url": "https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/7cwCQuoy7273J4XUr05OCR"
-    },
-    {
       "added_at": "2021-11-25 23:01:00",
       "album": {
         "name": "The Second Wave",
@@ -563,6 +547,22 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2021-09-27 05:47:22",
+      "album": {
+        "name": "Somewhere Between Beauty & Magic",
+        "url": "https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/7cwCQuoy7273J4XUr05OCR"
     },
     {
       "added_at": "2021-10-22 05:43:43",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
     },
     {
-      "added_at": "2022-01-20 23:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
-    },
-    {
       "added_at": "2021-09-27 05:47:22",
       "album": {
         "name": "WONDALAND",
@@ -741,22 +725,6 @@
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
     },
     {
-      "added_at": "2021-09-27 05:47:22",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
-      },
-      "artists": [
-        {
-          "name": "Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "CLOUD 9",
@@ -797,6 +765,38 @@
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
     },
     {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
+    },
+    {
+      "added_at": "2021-09-27 05:47:22",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+      },
+      "artists": [
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+    },
+    {
       "added_at": "2021-09-27 05:47:22",
       "album": {
         "name": "AFROSOUL (Deluxe)",
@@ -811,26 +811,6 @@
       "duration_ms": 179080,
       "name": "CHOP N PRAY",
       "url": "https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF"
-    },
-    {
-      "added_at": "2022-03-03 23:00:00",
-      "album": {
-        "name": "Bad n Rude (feat. WSTRN)",
-        "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        }
-      ],
-      "duration_ms": 226019,
-      "name": "Bad n Rude (feat. WSTRN)",
-      "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -867,6 +847,26 @@
       "duration_ms": 187500,
       "name": "IDG",
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
+    },
+    {
+      "added_at": "2022-03-03 23:00:00",
+      "album": {
+        "name": "Bad n Rude (feat. WSTRN)",
+        "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "duration_ms": 226019,
+      "name": "Bad n Rude (feat. WSTRN)",
+      "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
       },
@@ -961,20 +977,20 @@
       "url": "https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-02-17 23:00:00",
       "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
+      "duration_ms": 190000,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
     },
     {
       "added_at": "2021-09-27 05:47:22",
@@ -1007,22 +1023,6 @@
       "duration_ms": 158400,
       "name": "Commander",
       "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -1061,20 +1061,32 @@
       "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
     },
     {
-      "added_at": "2022-01-27 23:00:00",
+      "added_at": "2021-10-11 06:18:56",
       "album": {
-        "name": "LET YOU DOWN",
-        "url": "https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA"
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
       "artists": [
         {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         }
       ],
-      "duration_ms": 179000,
-      "name": "LET YOU DOWN",
-      "url": "https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq"
+      "duration_ms": 225683,
+      "name": "My Size",
+      "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
     }
   ],
   "unique_name": "Afropop",

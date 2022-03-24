@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 649004,
+  "num_followers": 649231,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzEyMSwwMDAwMDAwMDViYWQ3ZDgzYjA4OWFjNTgwYzBjNDBkMjNiN2M3MjFm",
+  "snapshot_id": "MTY0ODA4MzI0NywwMDAwMDAwMDQyYjkxYzFiODFiY2I5MGZjNmExN2U2MDliMmI5YTQ1",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td"
+        "name": "Hometown Heroes",
+        "url": "https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp"
       },
       "artists": [
         {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
         }
       ],
-      "duration_ms": 177106,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4"
+      "duration_ms": 186586,
+      "name": "Hometown Heroes",
+      "url": "https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Hometown Heroes",
-        "url": "https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/3Z62dgkhjWCfLeZ8v9p2Td"
       },
       "artists": [
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Hometown Heroes",
-      "url": "https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW"
+      "duration_ms": 177106,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "The Idea of You",
         "url": "https://open.spotify.com/album/0ISJFgFpHxZzn82nNHB1kb"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 178000,
       "name": "The Idea of You",
       "url": "https://open.spotify.com/track/2q0wGZoUjHbnQsmd3J3lQf"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Sunroof",
-        "url": "https://open.spotify.com/album/2i4t0YIgyLyIC7DOGKU1m7"
-      },
-      "artists": [
-        {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/2ivkl6Gefp1tMg3LcjuzQB"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "The Original Motion Picture Soundtrack: Pt. 1",
         "url": "https://open.spotify.com/album/58m5trM2xJ9sXj49bjCAIg"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 161120,
       "name": "Van Horn",
       "url": "https://open.spotify.com/track/4UgLRXh1z9NorzrdawpIgj"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/2i4t0YIgyLyIC7DOGKU1m7"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/2ivkl6Gefp1tMg3LcjuzQB"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "In The Wind",
         "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Turn",
         "url": "https://open.spotify.com/album/0FaTTMkGSHyPYZ6QVxRmph"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Outside Voices",
-        "url": "https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 170881,
-      "name": "Nothing Can Kill Us",
-      "url": "https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "teche",
         "url": "https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 186790,
       "name": "Lose Money",
       "url": "https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Outside Voices",
+        "url": "https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 170881,
+      "name": "Nothing Can Kill Us",
+      "url": "https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 189423,
+      "name": "Apple Crumble",
+      "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 175894,
       "name": "Melt",
       "url": "https://open.spotify.com/track/4Axn3CdPeSAciEvCa2p7Xs"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 189423,
-      "name": "Apple Crumble",
-      "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Problematic",
-        "url": "https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR"
-      },
-      "artists": [
-        {
-          "name": "TWIN XL",
-          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
-        }
-      ],
-      "duration_ms": 164764,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 175449,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1dRaYeS22TQZ3jRLFfe7vM"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/1VnsCdPvjuIlEdPmUTLPCR"
+      },
+      "artists": [
+        {
+          "name": "TWIN XL",
+          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
+        }
+      ],
+      "duration_ms": 164764,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/19Thkk14i1aKLVYyosk0lx"
     },
     {
       "added_at": "2022-03-11 05:00:00",

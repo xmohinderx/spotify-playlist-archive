@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,463 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,525 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 67 | [Eucalyptus](https://open.spotify.com/track/4CFX1ahXjEL4aE0KdtuVOs) | [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY) | [Holy Wind](https://open.spotify.com/album/122Og5x68k4EnTaK4ETH4Q) | 5:12 |
 | 68 | [Archaeans](https://open.spotify.com/track/1kHbjqdVYRQZHwI1abKgEj) | [Domingæ](https://open.spotify.com/artist/43UALB725slLtqdyze6RZp) | [Archaeans](https://open.spotify.com/album/0bUfKOHhJQGTEn59ZatDFy) | 4:22 |
 | 69 | [The Trembling of Glass](https://open.spotify.com/track/2qxSI6WgvlUYjKNVH9pdf0) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [The Trembling of Glass](https://open.spotify.com/album/0TE1ALYdYkclAsNZYunqg5) | 3:28 |
-| 70 | [Gravity that Binds](https://open.spotify.com/track/2HhmgZpEPxIbndxrmX4l9L) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 15:47 |
-| 71 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
-| 72 | [Selvas De Ewaipanomas](https://open.spotify.com/track/5OhqhMt96PNX9wNczhhGg1) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 6:00 |
+| 70 | [Selvas De Ewaipanomas](https://open.spotify.com/track/5OhqhMt96PNX9wNczhhGg1) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 6:00 |
+| 71 | [Gravity that Binds](https://open.spotify.com/track/2HhmgZpEPxIbndxrmX4l9L) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 15:47 |
+| 72 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 73 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 |
 | 74 | [Qat](https://open.spotify.com/track/2KczCgTKhkBWpmJz4PKpao) | [Minotaur Shock](https://open.spotify.com/artist/0th6kjDjrhxTcb8vytnH30) | [Qat](https://open.spotify.com/album/0ZoheaNPsZsrT7ghPunX0c) | 6:16 |
 | 75 | [Emergence in Nature](https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Ecovocative](https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 3:48 |
 | 100 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
 
-Snapshot ID: `MTY0Nzk5NzAxNSwwMDAwMDAwMDY1ODc0YzdmNmZjMWU3ZTkwYjliN2IyNWVmOTk5NDQ0`
+Snapshot ID: `MTY0ODA4MzEzNiwwMDAwMDAwMDIyZjUxNDVmODVlNDYwNGI0OGVkZDdiZWNlYmYxMjQ2`

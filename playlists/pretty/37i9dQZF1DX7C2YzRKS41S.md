@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,377 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,397 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,19 +29,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 19 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 |
 | 20 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
 | 21 | [Abraço](https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Abraço](https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX) | 4:04 |
-| 22 | [Era amor](https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/6Mm1M4h84mJcptcSmkf2iE) | 3:19 |
-| 23 | [Amador Demais](https://open.spotify.com/track/6N53rACGAW7u96F5NYKgXW) | [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn), [Duo Avesso](https://open.spotify.com/artist/76IWpyiJZ2yrXoSOLfcpc5) | [Amador Demais](https://open.spotify.com/album/4EfmqgKeQkVvAzWuRcMtCn) | 3:18 |
-| 24 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
-| 25 | [Você Chegou](https://open.spotify.com/track/6tyWzVdRd6loW3mkfhh4xV) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp), [Arthur Favero](https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK) | [Você Chegou](https://open.spotify.com/album/2H0srRA21uGJ4UMleEPvWK) | 2:20 |
-| 26 | [Fantasia \- Acústico](https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Fantasia \(Acústico\)](https://open.spotify.com/album/4uRZNPrsAVaPGKoMsDjRIw) | 2:55 |
+| 22 | [Amador Demais](https://open.spotify.com/track/6N53rACGAW7u96F5NYKgXW) | [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn), [Duo Avesso](https://open.spotify.com/artist/76IWpyiJZ2yrXoSOLfcpc5) | [Amador Demais](https://open.spotify.com/album/4EfmqgKeQkVvAzWuRcMtCn) | 3:18 |
+| 23 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
+| 24 | [Você Chegou](https://open.spotify.com/track/6tyWzVdRd6loW3mkfhh4xV) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp), [Arthur Favero](https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK) | [Você Chegou](https://open.spotify.com/album/2H0srRA21uGJ4UMleEPvWK) | 2:20 |
+| 25 | [Fantasia \- Acústico](https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Fantasia \(Acústico\)](https://open.spotify.com/album/4uRZNPrsAVaPGKoMsDjRIw) | 2:55 |
+| 26 | [Era amor](https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/6Mm1M4h84mJcptcSmkf2iE) | 3:19 |
 | 27 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
-| 28 | [Dia de Sorte](https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [UM SÓ](https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9) | 3:02 |
-| 29 | [Pro Mundo Que Virá](https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:23 |
-| 30 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 31 | [Todas As Cores \- Versão Acústica](https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Todas As Cores](https://open.spotify.com/album/3ASmfjCtnCsvv0PrYoSevq) | 3:43 |
-| 32 | [Te Prometo](https://open.spotify.com/track/3f6pYpPQWc743GiTJs1bQB) | [Cris Romagna](https://open.spotify.com/artist/4ITd00e5r2QhotcIdfNMRW) | [Te Prometo](https://open.spotify.com/album/2HW7lYQioR0kgwjRKWwPEv) | 2:45 |
-| 33 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
-| 34 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
+| 28 | [Pro Mundo Que Virá](https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:23 |
+| 29 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 30 | [Todas As Cores \- Versão Acústica](https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Todas As Cores](https://open.spotify.com/album/3ASmfjCtnCsvv0PrYoSevq) | 3:43 |
+| 31 | [Te Prometo](https://open.spotify.com/track/3f6pYpPQWc743GiTJs1bQB) | [Cris Romagna](https://open.spotify.com/artist/4ITd00e5r2QhotcIdfNMRW) | [Te Prometo](https://open.spotify.com/album/2HW7lYQioR0kgwjRKWwPEv) | 2:45 |
+| 32 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
+| 33 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
+| 34 | [Dia de Sorte](https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [UM SÓ](https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9) | 3:02 |
 | 35 | [Recomeçaria](https://open.spotify.com/track/2vy56ZXuKeDYZmuqSAdVmk) | [Luiz Gabriel Lopes](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Presente](https://open.spotify.com/album/3SziD5Z2skKqvr2wobYG2e) | 2:17 |
 | 36 | [Quanto Tempo](https://open.spotify.com/track/4f2MvdVt8mhv91klmGlXFQ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:34 |
 | 37 | [de Manhã](https://open.spotify.com/track/1nNYZCoVeWiTTCseNu9ZcK) | [Oliveira](https://open.spotify.com/artist/2XbtSN9obA46AlRp5mNc0T) | [de Manhã](https://open.spotify.com/album/1PPLKhNWZZQ4A1iIGVBlmb) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Parece Vício](https://open.spotify.com/track/40Jxk3ML7GVFbQ6cvoJVfe) | [Luzia](https://open.spotify.com/artist/4ythpEeZW1WSpJtfbOM4BX), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Parece Vício](https://open.spotify.com/album/1imy252ia6q40XYYCexSTV) | 3:17 |
 | 60 | [Barco No Seu Mar](https://open.spotify.com/track/3Tnrv3tsK9IUtMbwibB3Fy) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Barco No Seu Mar](https://open.spotify.com/album/1BzlF4CXvACWpwn3iQlfxT) | 2:25 |
 
-Snapshot ID: `MTY0Nzk5NzI3MywwMDAwMDAwMDk2ZTBjN2JlZGE1OTBlZmYyYjlkMGVmZjlkNjJkYjhh`
+Snapshot ID: `MTY0ODA4MzM5NywwMDAwMDAwMDhkZDZiMWE1OWEyNWNmMWEyZGYzZWQ3NzRhMDM5Mzlm`

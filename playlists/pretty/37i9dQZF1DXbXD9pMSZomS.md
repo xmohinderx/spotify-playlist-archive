@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,540 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,698 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 11 | [Love Is](https://open.spotify.com/track/1eaFEHIMGrTJ5hyPoPhq9v) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/3yiqXQbtkNBn25h3ZA8ciM) | 3:30 |
 | 12 | [Tempted \- Athlete Whippet Remix](https://open.spotify.com/track/4rOoDToHEC7ddVWfM0wdO8) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fluid Motion Remixed](https://open.spotify.com/album/0L83zL3xIZnFFJ1digfx81) | 4:19 |
 | 13 | [Faded \- Sandunes Remix](https://open.spotify.com/track/330YzcDouOmiahaJah92Bd) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn) | [Faded \(Sandunes Remix\) \(feat\. Jordan Rakei\)](https://open.spotify.com/album/5X1FLjENnnSwkP0Vc3WYBX) | 3:48 |
-| 14 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
-| 15 | [New Nkalo](https://open.spotify.com/track/7Cr69VwLjFKZqjFXRoxRUe) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [New Nkalo](https://open.spotify.com/album/0EwDujZufAB6ScPehLcCsM) | 4:28 |
+| 14 | [New Nkalo](https://open.spotify.com/track/7Cr69VwLjFKZqjFXRoxRUe) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [New Nkalo](https://open.spotify.com/album/0EwDujZufAB6ScPehLcCsM) | 4:28 |
+| 15 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 16 | [wantuback](https://open.spotify.com/track/4U3jZQF6mMTwotTroneb9P) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [wantuback](https://open.spotify.com/album/1U001o6Qt9iKI2z8Em4ASk) | 2:22 |
 | 17 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
 | 18 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 19 | [78 to Stanley Bay](https://open.spotify.com/track/0VjNH48OVNKqrv9EjUOL72) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [816 to Nunhead](https://open.spotify.com/album/6ynX8yOzI2C3uUgA2cym7I) | 5:07 |
-| 20 | [dos pilas](https://open.spotify.com/track/67lqtS6kISdqzFVb4E0jWU) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [dos pilas](https://open.spotify.com/album/6UkRev7qgjhhALeXGgbPpF) | 3:52 |
-| 21 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
-| 22 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 |
+| 20 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
+| 21 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 |
+| 22 | [dos pilas](https://open.spotify.com/track/67lqtS6kISdqzFVb4E0jWU) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [dos pilas](https://open.spotify.com/album/6UkRev7qgjhhALeXGgbPpF) | 3:52 |
 | 23 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 24 | [Make It Last](https://open.spotify.com/track/3GcQOMGQ8cXwitx8Koe7NG) | [Lunchbag](https://open.spotify.com/artist/0wpNQXkeGHEGwq5oQ5rKJo), [Theo Spazzatura](https://open.spotify.com/artist/0CtUtQnYbMoO34lexNEojz) | [Beats On Boat: Lunchbag](https://open.spotify.com/album/7bGOZvIRLW5Lie8eJv1tRb) | 3:22 |
 | 25 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Raining Outside](https://open.spotify.com/track/6l8Er0cKQkgreamtwBkr2j) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 4:32 |
 | 60 | [Feels Like](https://open.spotify.com/track/0toIIfv4yFxvmJKXqdkt0c) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Les Geddit](https://open.spotify.com/artist/42EKMIU9LxY94lUTBDLW4e) | [Beats On Boat: illiterate](https://open.spotify.com/album/54oaiRZEeMNtZvOhYIIG20) | 2:52 |
 
-Snapshot ID: `MTY0Nzk5NzQwNCwwMDAwMDAwMDgzZDVmYjI5ZWJhNGY1OTg4NGQwMGQ5NzIxNWNmYmEz`
+Snapshot ID: `MTY0ODA4MzUzMywwMDAwMDAwMDBmZjE1NTZkNWVmMjkyMjEwYmRlNzgxNmNhZWEyNmM5`

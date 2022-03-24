@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,857 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,897 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

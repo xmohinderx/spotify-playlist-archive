@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,322 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,329 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 15 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 |
 | 16 | [Heroes And Villians \- Remastered](https://open.spotify.com/track/6YeaunurT3mGLOXpgadkje) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Fantastic Mr\. Fox \(Original Soundtrack\)](https://open.spotify.com/album/1aJ1OS2xdkKGvmLvkU9qn3) | 3:37 |
 | 17 | [The Pure and the Damned](https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 4:29 |
-| 18 | [Hush](https://open.spotify.com/track/56g4uLimIX2Y6IQM7mCk6Z) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack](https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7) | 4:08 |
-| 19 | [Easy](https://open.spotify.com/track/471eUUcbGi51YG8mooiuYF) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 4:13 |
-| 20 | [Life On Mars?](https://open.spotify.com/track/5MbymuUrV9rmtnk3CwyenH) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic With Steve Zissou](https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6) | 3:24 |
+| 18 | [Life On Mars?](https://open.spotify.com/track/5MbymuUrV9rmtnk3CwyenH) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic With Steve Zissou](https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6) | 3:24 |
+| 19 | [Hush](https://open.spotify.com/track/56g4uLimIX2Y6IQM7mCk6Z) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack](https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7) | 4:08 |
+| 20 | [Easy](https://open.spotify.com/track/471eUUcbGi51YG8mooiuYF) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 4:13 |
 | 21 | [Play With Fire \- Mono Version](https://open.spotify.com/track/5d5TFtxmlr3MFcx73Zu2ei) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Darjeeling Limited](https://open.spotify.com/album/5ZYgdnOWgfgruHFLt1J3Ss) | 2:13 |
 | 22 | [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:46 |
 | 23 | [Love My Way](https://open.spotify.com/track/3GITxE9ghA1r7iOZXRbS6O) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 |
 | 50 | [I’m So Humble](https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:32 |
 
-Snapshot ID: `MTY0Nzk5NzQ0OCwwMDAwMDAwMDRkMDUwNDM2NjQ2YzkyNmI4Mjk0N2NlZDI0YmNlZmZj`
+Snapshot ID: `MTY0ODA4MzU3OSwwMDAwMDAwMGY4ZmI1MmRhODYwYThjYzIxNzdlMGQ4MzdkNTY1NzM2`

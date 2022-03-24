@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 
 > Escape the world with the best, most relaxing Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 | 45 | [The Way You Look Tonight](https://open.spotify.com/track/2dHnHyKAfKpRjJS55rPg9Q) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [I'll Take Romance](https://open.spotify.com/album/5gtY51XQOhFTEVDOO1U4Xy) | 4:28 |
 | 46 | [Spellbound](https://open.spotify.com/track/5V54sGZrYzQHkaGRJ8OGsq) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Soul Shadows](https://open.spotify.com/album/1yRXy8NJobwcSzLpoUoara) | 3:45 |
 | 47 | [One Bass Hit](https://open.spotify.com/track/6mqBtwOUZsxJK4pkNPnxD7) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Looking Back At The Modern Jazz Quartet](https://open.spotify.com/album/3InPNu32SCQAFfJcsF3STy) | 2:58 |
-| 48 | [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 5:21 |
+| 48 | [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 0:00 |
 | 49 | [Body And Soul](https://open.spotify.com/track/2W0aHErMSTAP2NTBAJlIrZ) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chris Anderson](https://open.spotify.com/artist/7GqvcADuInnGBhPzJphrpO) | [None But The Lonely Heart](https://open.spotify.com/album/3AIPq30cOmfWnDQgc1OHxI) | 6:24 |
 | 50 | [Chelsea bridge](https://open.spotify.com/track/2Jy6tT44Ay0m5kTUQs2GJB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/4zNw4NpLg78Rgog4Ath5aM) | 7:23 |
 

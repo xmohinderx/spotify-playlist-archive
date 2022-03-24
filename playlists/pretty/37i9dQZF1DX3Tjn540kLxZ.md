@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > no thoughts, just non\-stop alt bops
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,855 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,978 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 11 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
 | 12 | [Film Scene Daydream](https://open.spotify.com/track/50DeaEmRXG4sRuryKQEgyH) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 4:08 |
 | 13 | [Booster Seat](https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex) | 4:28 |
-| 14 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 |
+| 14 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 15 | [Carried Away](https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 3:41 |
-| 16 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
+| 16 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 |
 | 17 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 |
 | 18 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 | 19 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 60 | [Solar Power](https://open.spotify.com/track/2WKjP0l2Y25Tp14RPjIAqJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4nLTdxvGBp9ykHIvY5QJFS) | 3:12 |
 | 61 | [Alter Ego \- 2020 Mix](https://open.spotify.com/track/457sndKohlwTU6dW6amBMU) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 4:49 |
 | 62 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 |
-| 63 | [Adore You](https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Adore You](https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK) | 3:12 |
-| 64 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 |
+| 63 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 |
+| 64 | [Adore You](https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Adore You](https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK) | 3:12 |
 | 65 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 |
 | 66 | [Palms \(with Channel Tres\)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms \(with Channel Tres\)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 |
 | 67 | [Fuck June](https://open.spotify.com/track/6zIjeRxHPybvw7ZjWsEa8i) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Fuck June](https://open.spotify.com/album/2HXUqQUzY12VNpdlEmyLvK) | 2:58 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 90 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 |
 | 91 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 |
 | 92 | [Lala](https://open.spotify.com/track/2d7PaI8n3uJv6K4lZtWXLm) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Lala](https://open.spotify.com/album/5UTSNFVplH0puzFLbvBOzM) | 2:54 |
-| 93 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 |
-| 94 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/5QLG4LB186lFqtZ28Zm7PC) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/album/6LqjK0AZPEVfDJndQLskMT) | 2:49 |
-| 95 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 |
-| 96 | [Drama Queen](https://open.spotify.com/track/7ojngZF30QLSk5yRBpDAQk) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [Drama Queen](https://open.spotify.com/album/4OhlOxCucVO6BAeTN83OHr) | 3:58 |
-| 97 | [Paper Cup](https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup/Different](https://open.spotify.com/album/5LZTxhttQ5VoCwlSd5wpwQ) | 2:37 |
+| 93 | [Paper Cup](https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup/Different](https://open.spotify.com/album/5LZTxhttQ5VoCwlSd5wpwQ) | 2:37 |
+| 94 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 |
+| 95 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/5QLG4LB186lFqtZ28Zm7PC) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/album/6LqjK0AZPEVfDJndQLskMT) | 2:49 |
+| 96 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 |
+| 97 | [Drama Queen](https://open.spotify.com/track/7ojngZF30QLSk5yRBpDAQk) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [Drama Queen](https://open.spotify.com/album/4OhlOxCucVO6BAeTN83OHr) | 3:58 |
 | 98 | [Yeah!](https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Yeah!](https://open.spotify.com/album/0Ja4rfpa2qWvijmcTuAk2y) | 2:48 |
 | 99 | [April](https://open.spotify.com/track/7l94AyvXRwnQgKccUU3PRN) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 3:18 |
 | 100 | [Cocoa Beach](https://open.spotify.com/track/1uEuKU2y2rjjjLXgZbReh1) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Cocoa Beach](https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN) | 3:58 |
 
-Snapshot ID: `MTY0Nzk5NzE1NSwwMDAwMDAwMGM1OTllZTkxYTkzZWZlYjVhMWRhNmI0MjZjMGI2NTQz`
+Snapshot ID: `MTY0ODA4MzI4MSwwMDAwMDAwMGU1MTczNGM1ZWMzMWIyMTg2NzVjYWI1YzdiMTIzNTk2`

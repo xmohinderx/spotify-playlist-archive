@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,808 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,862 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 88 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
 | 89 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 |
 | 90 | [Infant Eyes \- Edit](https://open.spotify.com/track/51WaGUFBND6XOLcJ1HcP7Y) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/7anJAMptW5jyQ9bbnZFe9g) | 6:29 |
-| 91 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 |
-| 92 | [Gran Torino](https://open.spotify.com/track/34LFbjLKIgASznt0EJ9jFX) | [Kyle Eastwood](https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Gran Torino](https://open.spotify.com/album/2mcBexma2TuSeJkWPZDSzo) | 4:36 |
+| 91 | [Gran Torino](https://open.spotify.com/track/34LFbjLKIgASznt0EJ9jFX) | [Kyle Eastwood](https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Gran Torino](https://open.spotify.com/album/2mcBexma2TuSeJkWPZDSzo) | 4:36 |
+| 92 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 |
 | 93 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 |
 | 94 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
 | 95 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 |
 | 150 | [Do It Anyway](https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG) | [Keith Cuts](https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN) | [Do It Anyway](https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa) | 3:35 |
 
-Snapshot ID: `MTY0Nzk5Njg1NiwwMDAwMDAwMDZkNWI5YmU0MjYzNzlmOTgwNTZlNTBlYjExOWNiMjM5`
+Snapshot ID: `MTY0ODA4Mjk3MywwMDAwMDAwMDQ0NjhjODUzYWFiMzlkMzFmMDhmZWYwYzhkNDU5ZGEz`

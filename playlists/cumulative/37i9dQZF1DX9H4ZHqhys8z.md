@@ -83,6 +83,6 @@
 | [Xamos](https://open.spotify.com/track/340mjrAt2nnKPVr7mGgmnF) | [Fani Drakopoulou](https://open.spotify.com/artist/5AZEySJDP1cM2lSE4gmNfX) | [Xamos](https://open.spotify.com/album/1cGIhaWkSSJufEesb4W8da) | 3:27 | 2022-02-01 |  |
 | [Yayo](https://open.spotify.com/track/2R49jde0XRhZbTrpbiZCNV) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Yayo](https://open.spotify.com/album/6NKS9FwnJQb36uqDgXY0Fd) | 2:48 | 2021-12-16 | 2022-01-05 |
 | [YIATI POULI M'](https://open.spotify.com/track/6kSweWKTZOF2oorQ7V5jNX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [YIATI POULI M'](https://open.spotify.com/album/6oomBcZTbG7cYEl66oY1Gq) | 3:13 | 2022-03-07 |  |
-| [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 | 2021-12-16 |  |
+| [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 | 2021-12-16 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

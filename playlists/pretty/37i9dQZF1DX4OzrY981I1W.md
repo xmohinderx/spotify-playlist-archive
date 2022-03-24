@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,919 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,518 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 99 | [Begin Again](https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Begin Again](https://open.spotify.com/album/2V3TNPXvdNjqXAHPKYXUAT) | 3:46 |
 | 100 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 
-Snapshot ID: `MTY0Nzk5NzE3OSwwMDAwMDAwMDcwMzllYmM0Y2RiMjZlYzlkNTEyYjVmZjM0ZTQxYTIz`
+Snapshot ID: `MTY0ODA4MzMwNCwwMDAwMDAwMDcwMzllYmM0Y2RiMjZlYzlkNTEyYjVmZjM0ZTQxYTIz`

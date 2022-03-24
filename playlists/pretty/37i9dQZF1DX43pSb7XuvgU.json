@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 53601,
+  "num_followers": 53709,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE2OSwwMDAwMDAwMGM1YmQyMjQwOGVmZGQ2N2U1ODdjODVhOWViNzcwNzcz",
+  "snapshot_id": "MTY0ODA4MzI5NCwwMDAwMDAwMGEzYzgyODk3NWNiZjg2YWYxMWUyMjU4MzQzNDFkZDFi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -351,6 +351,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "40 Y 20",
+        "url": "https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Eso Nom\u00e1s",
+      "url": "https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Mis Duetos, Mis Amigos, Mis Canciones",
         "url": "https://open.spotify.com/album/6y32AnLnhc4u6Xpm3H7uDd"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 223013,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/5r2BZAr0eblp9p7SboOt3s"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "40 Y 20",
-        "url": "https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Eso Nom\u00e1s",
-      "url": "https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -476,22 +476,6 @@
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/5oHzPMj9BR8eRJ2TV2FnkC"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Mi Historia Musical - Juan Gabriel",
-        "url": "https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe"
-      },
-      "artists": [
-        {
           "name": "Roc\u00edo D\u00farcal",
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         },
@@ -503,6 +487,22 @@
       "duration_ms": 190026,
       "name": "Fue un Placer Conocerte (En Vivo) - Desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/70dimICYQOFTG9tepBWBCR"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Mi Historia Musical - Juan Gabriel",
+        "url": "https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/5oHzPMj9BR8eRJ2TV2FnkC"
     },
     {
       "added_at": "2021-12-29 23:33:57",

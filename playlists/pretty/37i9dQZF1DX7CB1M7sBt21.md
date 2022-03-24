@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,157 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,177 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 58 | [Someone You Loved \- Madism Radio Mix](https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Someone You Loved \(Madism Radio Mix\)](https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju) | 2:37 |
 | 59 | [Kiss Somebody](https://open.spotify.com/track/17XU1PTSv4OfcBUE8rNYWm) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Kiss Somebody](https://open.spotify.com/album/3irowXEVy9J7eOsdbRInIh) | 2:18 |
 | 60 | [Falling Free](https://open.spotify.com/track/33IWraG5z0avudEgDLOI4S) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Falling Free](https://open.spotify.com/album/2yfil7vZeOHAbhidpm6tJm) | 2:41 |
-| 61 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 |
-| 62 | [Forget To Miss You](https://open.spotify.com/track/03YtO8sZFmkBPo6BtrzU3k) | [iamsimon](https://open.spotify.com/artist/7pcSKgv5UuVxHPVU61q6do) | [Forget To Miss You](https://open.spotify.com/album/4HycDHpwjv22BJqpxHKxlf) | 2:45 |
+| 61 | [Forget To Miss You](https://open.spotify.com/track/03YtO8sZFmkBPo6BtrzU3k) | [iamsimon](https://open.spotify.com/artist/7pcSKgv5UuVxHPVU61q6do) | [Forget To Miss You](https://open.spotify.com/album/4HycDHpwjv22BJqpxHKxlf) | 2:45 |
+| 62 | [Crazy](https://open.spotify.com/track/3pRRXFGlAQ5yNnLQV9pMqV) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Crazy](https://open.spotify.com/album/0O2tiR10gbrCgORjVWiSX4) | 2:27 |
 | 63 | [Think You Should](https://open.spotify.com/track/4QZHDAf0lw2PN6olVg0ztp) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO), [Linnea Dale](https://open.spotify.com/artist/3wuG1n9nWNz4szSzITG7wO) | [Think You Should](https://open.spotify.com/album/7itxK8CyOVj7nJEMlqWFYv) | 3:01 |
 | 64 | [Down Under](https://open.spotify.com/track/0K3F6uP4XEmYSAPvpSDx7J) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6) | [Down Under](https://open.spotify.com/album/2G98Mtl6h6ONfPLldnGz3y) | 3:22 |
-| 65 | [Crazy](https://open.spotify.com/track/3pRRXFGlAQ5yNnLQV9pMqV) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Crazy](https://open.spotify.com/album/0O2tiR10gbrCgORjVWiSX4) | 2:27 |
+| 65 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 |
 | 66 | [I Found You](https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [I Found You](https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ) | 2:47 |
 | 67 | [Knockout](https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Knockout](https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI) | 2:27 |
 | 68 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 80 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 |
 
-Snapshot ID: `MTY0Nzk5NzI3MywwMDAwMDAwMGEwMDI4M2RjYzMyNDhkYTI4ZGNjNzExNmNiMGZlYzMz`
+Snapshot ID: `MTY0ODA4MzM5OCwwMDAwMDAwMDc0OGM3MDhkN2VhYjZlZTEyNTE2OWMxODNlZDkyZDBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,088 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,278 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 22 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
 | 23 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
 | 24 | [Rock Steady \- Radio Edit](https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Just Gets Better With Time](https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH) | 4:03 |
-| 25 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 26 | [Love Changes \(with Meli'sa Morgan\) \- Digitally Remastered 1998](https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn) | [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M), [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [The Definitive Collection](https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ) | 4:42 |
-| 27 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
-| 28 | [\(You're Puttin'\) A Rush On Me](https://open.spotify.com/track/4aLQ6VBFJl7i8msvDOjIsp) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [If I Were Your Woman](https://open.spotify.com/album/33ZjFOflHRioMTsDCxIYaS) | 5:52 |
+| 25 | [\(You're Puttin'\) A Rush On Me](https://open.spotify.com/track/4aLQ6VBFJl7i8msvDOjIsp) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [If I Were Your Woman](https://open.spotify.com/album/33ZjFOflHRioMTsDCxIYaS) | 5:52 |
+| 26 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
+| 27 | [Love Changes \(with Meli'sa Morgan\) \- Digitally Remastered 1998](https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn) | [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M), [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [The Definitive Collection](https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ) | 4:42 |
+| 28 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
 | 29 | [Back To Life \(However Do You Want Me\)](https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:52 |
 | 30 | [Jam Tonight](https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [The Greatest Hits Of Freddie Jackson](https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ) | 4:31 |
 | 31 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
 | 40 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 
-Snapshot ID: `MTY0Nzk5NzA1MSwwMDAwMDAwMDExZjc1MGU2MzhiOTA2ZDBjYmY2NjZjNDdmYzgyZTRi`
+Snapshot ID: `MTY0ODA4MzE3NSwwMDAwMDAwMDViOGU1MDM0MTcwMTk5OWIzMDNlMGNlNmU2ZGUyYmRk`

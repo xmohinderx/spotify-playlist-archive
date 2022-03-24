@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWM5o62BfFWh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWM5o62BfFWh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWM5o62BfFWh)
 
-### Cubatón
+### [Cubatón](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 > ¡Música urbana representando a Cuba! Cover: Combinación de la Habana, Kimiko y El Yordy
 

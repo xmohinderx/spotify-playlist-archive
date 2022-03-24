@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,693 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,775 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 39 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 |
 | 40 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 |
 | 41 | [Blindsided](https://open.spotify.com/track/3Bcr5fRN2SQ0jIVWsJHes8) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Blindsided](https://open.spotify.com/album/21NvjYBnFikMWyL3fUY0jg) | 4:20 |
-| 42 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 |
-| 43 | [Move Me](https://open.spotify.com/track/3zyBMnHwaDlf1xsRwJ5tzq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 2:58 |
+| 42 | [Move Me](https://open.spotify.com/track/3zyBMnHwaDlf1xsRwJ5tzq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 2:58 |
+| 43 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 |
 | 44 | [Stupid Me](https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Stupid Me](https://open.spotify.com/album/2e0sawtfwsMGQWd1RLvM2I) | 3:47 |
 | 45 | [Until Your Heart Breaks](https://open.spotify.com/track/1KMRQT3HgJ4xKGhBr6BhTz) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5GlFPzvXhHqsYxbcLANITK) | 3:27 |
 | 46 | [I Found A Love](https://open.spotify.com/track/4X1pp61d0eFrOx07WHrRmx) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [Have It Your Way](https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm) | [Nina Soro](https://open.spotify.com/artist/3uzkKm1uj1EWWY0uxkEqZA) | [Have It Your Way](https://open.spotify.com/album/46YLWCQYjiqZ3M1lC40fym) | 4:25 |
 | 70 | [Little Bird](https://open.spotify.com/track/5tPyzRPQpJszN4KLCPEUHz) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [Little Bird](https://open.spotify.com/album/12aN2RNHcq6NI6nYizfOPJ) | 4:25 |
 
-Snapshot ID: `MTY0Nzk5Njk1NywwMDAwMDAwMDM5Yjg0NDc5ZmVjODg2MTVhZTcyYjdjZDA4YzNkODVi`
+Snapshot ID: `MTY0ODA4MzA3NiwwMDAwMDAwMDJiYjBiOWJkOWRiYTllYmU1NWI1ZDU3YTM1ZmM2Yjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,108 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,105 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 6 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
 | 7 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 |
 | 8 | [Goatfuzz](https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Requiem](https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF) | 6:56 |
-| 9 | [My Lady's On Fire](https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i) | 3:52 |
-| 10 | [On Your Own](https://open.spotify.com/track/2uDFhZYPUUp89iET130ZEm) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0) | 2:34 |
-| 11 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/6vTtMyCg96xwpoIBws9K0Q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ) | 3:12 |
-| 12 | [Black Moon Spell](https://open.spotify.com/track/2SIgTrGrUzm9k5oOElXRJY) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) | 4:53 |
-| 13 | [I Sat By The Ocean](https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |
-| 14 | [San Berdoo Sunburn](https://open.spotify.com/track/1UjyNAfP9grmHnou5c5orN) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/6alFQi9OFVzSE0sud9e7GT) | 3:42 |
+| 9 | [On Your Own](https://open.spotify.com/track/2uDFhZYPUUp89iET130ZEm) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0) | 2:34 |
+| 10 | [My Lady's On Fire](https://open.spotify.com/track/2hSd5IqIBoR5Ck5EDVL4kZ) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i) | 3:52 |
+| 11 | [Black Moon Spell](https://open.spotify.com/track/2SIgTrGrUzm9k5oOElXRJY) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) | 4:53 |
+| 12 | [I Sat By The Ocean](https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |
+| 13 | [San Berdoo Sunburn](https://open.spotify.com/track/1UjyNAfP9grmHnou5c5orN) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/6alFQi9OFVzSE0sud9e7GT) | 3:42 |
+| 14 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/6vTtMyCg96xwpoIBws9K0Q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/76vY9yohh4kVwSKkyKbyEQ) | 3:12 |
 | 15 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 | 16 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
-| 17 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 |
-| 18 | [Anemone](https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz) | 5:34 |
+| 17 | [Anemone](https://open.spotify.com/track/5KaCn0CGbo2Mynq5VSgSya) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/5KzWrpVIPOWzY42Tkl4XHz) | 5:34 |
+| 18 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 |
 | 19 | [Barbacoa](https://open.spotify.com/track/5a7uskQ3CAOniRFSQo6DBp) | [Guantanamo Baywatch](https://open.spotify.com/artist/2uZajWbkMRUYdyCHvsh494) | [Chest Crawl](https://open.spotify.com/album/7xgsyqkVXJD8PChs2mUEiA) | 3:08 |
 | 20 | [Hot Wax](https://open.spotify.com/track/7akxzzetf06jvqQEEIf55y) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/3DZKitIBszx0EZ7xZ3zJcW) | 3:29 |
 | 21 | [Buick Mackane](https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider](https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE) | 3:34 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 51 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 52 | [Buick Mackane](https://open.spotify.com/track/69XHHSqv6aZp1js1NPC2A3) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Ty Rex](https://open.spotify.com/album/4l1dguE5eoTrKuyHZKVY40) | 2:45 |
 | 53 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
-| 54 | [Crawling After You](https://open.spotify.com/track/449QkOGQPg3z3mnLiE3Bl5) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/1MrxEuHaKd4EF1DLsciXYV) | 3:49 |
-| 55 | [Aeons](https://open.spotify.com/track/7u0h3YWV24zGDMmmALRlzN) | [Chemtrails](https://open.spotify.com/artist/2AvNtsTKAOkaoD7aonyHHJ) | [Aeons](https://open.spotify.com/album/6iq57usboyGlSQMv9a6zaK) | 3:31 |
+| 54 | [Aeons](https://open.spotify.com/track/7u0h3YWV24zGDMmmALRlzN) | [Chemtrails](https://open.spotify.com/artist/2AvNtsTKAOkaoD7aonyHHJ) | [Aeons](https://open.spotify.com/album/6iq57usboyGlSQMv9a6zaK) | 3:31 |
+| 55 | [Crawling After You](https://open.spotify.com/track/449QkOGQPg3z3mnLiE3Bl5) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/1MrxEuHaKd4EF1DLsciXYV) | 3:49 |
 | 56 | [Alone & Stoned](https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [King Tuff](https://open.spotify.com/album/1aR5ucNgsjrtLMowsaMgcd) | 3:10 |
-| 57 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
-| 58 | [Reservoir Dawgs](https://open.spotify.com/track/5PcajS32GzEYgnBKRX0d9p) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [BoiSad](https://open.spotify.com/album/3QZ3YT5ULnVuDYqVmbdpKm) | 3:31 |
+| 57 | [Reservoir Dawgs](https://open.spotify.com/track/5PcajS32GzEYgnBKRX0d9p) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [BoiSad](https://open.spotify.com/album/3QZ3YT5ULnVuDYqVmbdpKm) | 3:31 |
+| 58 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
 | 59 | [My Sunshine](https://open.spotify.com/track/1hR1K837ZhhMpZ8LFbFlTC) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:11 |
 | 60 | [Think Of You](https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX) | 2:41 |
 
-Snapshot ID: `MTY0Nzk5NzI1NiwwMDAwMDAwMDliZTkwOWZjOGQ4NDQ1MGIyNzU4M2UzMTY5NzVhNjBi`
+Snapshot ID: `MTY0ODA4MzM4MSwwMDAwMDAwMGM5ZmE4MDJkMjRhMTc3MzBkZGEzYzNhNTdhYmQxZmFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,162 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,174 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 36 | [Go Outside](https://open.spotify.com/track/732dEpPH51goNx2ZPoxL4P) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Go Outside](https://open.spotify.com/album/3W5tSRICU2loEbYx0Cpv8u) | 2:49 |
 | 37 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
 | 38 | [Happy Birthday, Baby](https://open.spotify.com/track/0lPhxCOJ4RrJL8gzfFEdcf) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:45 |
-| 39 | [Where Ya Been?](https://open.spotify.com/track/1SBWd6YX7RhwyX8n0bd37Z) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Where Ya Been?](https://open.spotify.com/album/4W96Vh6jSbgzeQveohdoVc) | 3:29 |
-| 40 | [Turn on the Dark](https://open.spotify.com/track/4w3onFNS34k4XqMEBdlCt8) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Turn on the Dark](https://open.spotify.com/album/6ifEePgVw8lxcOpH6InUvz) | 4:22 |
+| 39 | [Turn on the Dark](https://open.spotify.com/track/4w3onFNS34k4XqMEBdlCt8) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Turn on the Dark](https://open.spotify.com/album/6ifEePgVw8lxcOpH6InUvz) | 4:22 |
+| 40 | [Where Ya Been?](https://open.spotify.com/track/1SBWd6YX7RhwyX8n0bd37Z) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Where Ya Been?](https://open.spotify.com/album/4W96Vh6jSbgzeQveohdoVc) | 3:29 |
 | 41 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
 | 42 | [Lonesome City](https://open.spotify.com/track/3GK8qlVjiLpdmcw6bvLYaF) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/5uFF8Q8WlrvtK2WfK9VupC) | 3:34 |
 | 43 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 | 75 | [Sufferer \(Love My Conqueror\)](https://open.spotify.com/track/4OFD7AHoOsVzdJju9DoWQa) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Haw \(Remastered\)](https://open.spotify.com/album/3MW2UxwssKtnWrcEoS8UAl) | 4:49 |
 
-Snapshot ID: `MTY0Nzk5NzI2NCwwMDAwMDAwMGJhYzUwOTU3MTY1NTI4MmFkYWNhZWMxOTNhYjM1OTVh`
+Snapshot ID: `MTY0ODA4MzM4OCwwMDAwMDAwMGVhYTYyN2IzMDk5NzFmMTcyNjdiOGVjZGI5NWI1YzQx`

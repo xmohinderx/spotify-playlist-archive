@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-22",
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
   "name": "Salsa Lessons",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4XDAKmGxhqFedp5hyrO7jw"
+  ],
   "tracks": [
     {
       "album": {
@@ -847,7 +849,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 286133,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q"
@@ -1179,7 +1181,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 370960,
       "name": "You Gotta Love Me",
       "url": "https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo"

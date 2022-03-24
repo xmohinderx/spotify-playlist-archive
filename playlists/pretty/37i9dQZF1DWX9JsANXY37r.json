@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 102984,
+  "num_followers": 103005,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njk2MSwwMDAwMDAwMDhhYjkyNzY2NjQ2NDA2ODQ2ZjI2NzU1NmQ2OGQ2MTJk",
+  "snapshot_id": "MTY0ODA4MzA4MCwwMDAwMDAwMDEyMmYwNGE5OGY1NTcwMTY3NWNhZTU1YWVhOTY1YTBk",
   "tracks": [
     {
       "added_at": "2022-03-22 13:46:39",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-03-22 13:46:39",
       "album": {
-        "name": "Blue Sky",
-        "url": "https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9"
-      },
-      "artists": [
-        {
-          "name": "Lou Berry",
-          "url": "https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ"
-        },
-        {
-          "name": "Eylia",
-          "url": "https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Burning Eyes",
-      "url": "https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd"
-    },
-    {
-      "added_at": "2022-03-22 13:46:39",
-      "album": {
         "name": "Keeping Me Under",
         "url": "https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "added_at": "2022-03-22 13:46:39",
+      "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9"
+      },
+      "artists": [
+        {
+          "name": "Lou Berry",
+          "url": "https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ"
+        },
+        {
+          "name": "Eylia",
+          "url": "https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Burning Eyes",
+      "url": "https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd"
     },
     {
       "added_at": "2022-03-22 13:46:39",

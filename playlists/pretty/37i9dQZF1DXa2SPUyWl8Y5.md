@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,746 likes - 80 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,952 likes - 80 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 45 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 |
 | 46 | [Crossing](https://open.spotify.com/track/1Lko0eAz8inPzFDSbEVS4Y) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Crossing](https://open.spotify.com/album/5XuCKnhO815k8InduVnMeS) | 5:34 |
 | 47 | [Symbiotic Nature](https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Symbiotic Nature](https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l) | 6:14 |
-| 48 | [Amantes amentes](https://open.spotify.com/track/4LKS7ed36wRifpsBjXzTbz) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Amantes amentes](https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7) | 7:28 |
-| 49 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
+| 48 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
+| 49 | [Amantes amentes](https://open.spotify.com/track/4LKS7ed36wRifpsBjXzTbz) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Amantes amentes](https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7) | 7:28 |
 | 50 | [India](https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [India](https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd) | 8:55 |
 | 51 | [Lapislazuli](https://open.spotify.com/track/1eoCPqc4PZQfC8Li7DwoTE) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Lapislazuli](https://open.spotify.com/album/4ExtDGNIDCRIQWWyaJBP3S) | 8:35 |
 | 52 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Beyond](https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Speicher 114](https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE) | 9:08 |
 | 80 | [Odyssee](https://open.spotify.com/track/2PimOJBhxyKvvgrWKgBpAH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Odyssee](https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO) | 7:40 |
 
-Snapshot ID: `MTY0Nzk5NzM1OSwwMDAwMDAwMDY2NTQ5MjMwYjM0NzJkYzI5MjU0ZjI1ZmIwYjlmM2Uz`
+Snapshot ID: `MTY0ODA4MzQ4NywwMDAwMDAwMGU5YjI4MWIwMTZiNTQyNThmOTUzNmVmNDg1OTU0Mzhi`

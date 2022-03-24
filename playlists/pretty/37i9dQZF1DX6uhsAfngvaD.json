@@ -1,12 +1,12 @@
 {
   "description": "Dream your way through the day to these blissful indie tunes.",
-  "num_followers": 242574,
+  "num_followers": 242681,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzI2NSwwMDAwMDAwMDA4NGVlNDQxMzkzZjViYmE2YjFkNjdhZGI4Y2EyZWY1",
+  "snapshot_id": "MTY0ODA4MzM4OSwwMDAwMDAwMDRmMTg0NWRmNDcxNDc4ZWFlNDZiY2RhZmUxNmQ3N2Zk",
   "tracks": [
     {
       "added_at": "2022-02-24 17:41:07",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-02-24 17:41:07",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX"
+      },
+      "artists": [
+        {
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+        }
+      ],
+      "duration_ms": 225140,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3"
+    },
+    {
+      "added_at": "2022-02-24 17:41:07",
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/7KIGWJhK1TUev0tHh7CnGH"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo"
-    },
-    {
-      "added_at": "2022-02-24 17:41:07",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX"
-      },
-      "artists": [
-        {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
-        }
-      ],
-      "duration_ms": 225140,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3"
     },
     {
       "added_at": "2022-02-24 17:41:07",

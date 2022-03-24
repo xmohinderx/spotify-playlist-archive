@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,640 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,755 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 11 | [Thanks For Nothing](https://open.spotify.com/track/1397WZ49cHvrfYP0iYsJft) | [Bent Life](https://open.spotify.com/artist/1Je5yTaCj3lKVnYUZx7OgD) | [Never Asked For Heaven](https://open.spotify.com/album/5awzgVHH13IKKD2WdS8aUM) | 2:33 |
 | 12 | [BITE DOWN](https://open.spotify.com/track/2ona4vTfiM1Ei4RMmYIhMm) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [BITE DOWN](https://open.spotify.com/album/5eTPRtCrysT1vs5lg45O8y) | 3:01 |
 | 13 | [Fed Up](https://open.spotify.com/track/4I5pSHolmUZVGEs0uKYQxg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Fed Up](https://open.spotify.com/album/00w2FrAMwLPaYSJe7Pqx4i) | 3:21 |
-| 14 | [The Hardest Drug](https://open.spotify.com/track/6BwNwNj55X8x0Q5OwN76ZP) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is in Your Way](https://open.spotify.com/album/1oAb6I5iO6bTprK6z3mFwb) | 3:40 |
-| 15 | [Sink to The Hell](https://open.spotify.com/track/6PM5Y0C4dL4wXApx3NRAFz) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Sink to The Hell](https://open.spotify.com/album/5ZXWshDvKfkmVLqN6gZAxM) | 2:13 |
-| 16 | [No Easy Way Out](https://open.spotify.com/track/1O6C6wl0KdS9cXHsmLWhyG) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [No Easy Way Out](https://open.spotify.com/album/5sZwVxwIS7C97S3MX5Xrza) | 2:35 |
-| 17 | [Self\-Destruct](https://open.spotify.com/track/3x8dXVhkdHZQ1LbcoHxDkS) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Self\-Destruct](https://open.spotify.com/album/48ZtLRQkOxnTJ0o05QHCXi) | 2:19 |
-| 18 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1ggFKjGRZvWCfnFjLHgeQc) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language \- EP](https://open.spotify.com/album/112Zz11dPwFC5QoenIzVF6) | 1:52 |
+| 14 | [Sink to The Hell](https://open.spotify.com/track/6PM5Y0C4dL4wXApx3NRAFz) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Sink to The Hell](https://open.spotify.com/album/5ZXWshDvKfkmVLqN6gZAxM) | 2:13 |
+| 15 | [The Hardest Drug](https://open.spotify.com/track/6BwNwNj55X8x0Q5OwN76ZP) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is in Your Way](https://open.spotify.com/album/1oAb6I5iO6bTprK6z3mFwb) | 3:40 |
+| 16 | [Self\-Destruct](https://open.spotify.com/track/3x8dXVhkdHZQ1LbcoHxDkS) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Self\-Destruct](https://open.spotify.com/album/48ZtLRQkOxnTJ0o05QHCXi) | 2:19 |
+| 17 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1ggFKjGRZvWCfnFjLHgeQc) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language \- EP](https://open.spotify.com/album/112Zz11dPwFC5QoenIzVF6) | 1:52 |
+| 18 | [No Easy Way Out](https://open.spotify.com/track/1O6C6wl0KdS9cXHsmLWhyG) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [No Easy Way Out](https://open.spotify.com/album/5sZwVxwIS7C97S3MX5Xrza) | 2:35 |
 | 19 | [Cruel Intent](https://open.spotify.com/track/71UI8PrpB2JW52cnx1DyTE) | [Ratking](https://open.spotify.com/artist/033SbxhTUZBwoxtUDxJ9Vl) | [Cruel Intent](https://open.spotify.com/album/7kiAFWWqfRq26Q8u4k6Asd) | 2:08 |
 | 20 | [Growing](https://open.spotify.com/track/2vjHGibZ2ba3BgQi2rmmLa) | [Dispeller](https://open.spotify.com/artist/6EnX4cWIoI1bX1pOqCQTsM) | [Growing](https://open.spotify.com/album/4op1PbopsX0a1aZTuA3LhR) | 3:07 |
 | 21 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
-| 22 | [Absolute](https://open.spotify.com/track/5PlA40awjSFJbfWhB1J7ZR) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Outsider](https://open.spotify.com/album/5PGuzkoIbHAvua019CnujY) | 3:23 |
-| 23 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 |
-| 24 | [Wolf Hunt](https://open.spotify.com/track/4pvPHw2fGSr4RxqK07tjLL) | [No Turning Back](https://open.spotify.com/artist/2eDRyrfpPeBdcS6T1wiunh) | [Destroy](https://open.spotify.com/album/64HEwa2Xcap1JNgDVEcOSW) | 2:05 |
+| 22 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 |
+| 23 | [Wolf Hunt](https://open.spotify.com/track/4pvPHw2fGSr4RxqK07tjLL) | [No Turning Back](https://open.spotify.com/artist/2eDRyrfpPeBdcS6T1wiunh) | [Destroy](https://open.spotify.com/album/64HEwa2Xcap1JNgDVEcOSW) | 2:05 |
+| 24 | [Absolute](https://open.spotify.com/track/5PlA40awjSFJbfWhB1J7ZR) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Outsider](https://open.spotify.com/album/5PGuzkoIbHAvua019CnujY) | 3:23 |
 | 25 | [Are You Ok?](https://open.spotify.com/track/2omMookAoi8U2Czx1DBsAF) | [Liberties](https://open.spotify.com/artist/4CP3wygFL8WyBsb6c1AZem) | [Are You Ok?](https://open.spotify.com/album/5Ah7BBVLJkvJx4MGbC6wko) | 2:54 |
 | 26 | [The Truest Love](https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [The Truest Love](https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP) | 3:51 |
 | 27 | [Fearless](https://open.spotify.com/track/15vYmN6zHjCkA0nMrPFhnE) | [Trail of Lies](https://open.spotify.com/artist/6CfRUJrNjN17MgF4sfKE0Z) | [Fearless](https://open.spotify.com/album/3ljztPRaFp4AgUC950UPj1) | 2:40 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 35 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
 | 36 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/2NYlvB3IyqGXmX3jExxsPL) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/album/4ljiJFZYAC8W9H0q8N0fNs) | 3:28 |
 | 37 | [...And Still I Wander South](https://open.spotify.com/track/62xtfRRf2dHkcmY9v0IogE) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [...And Still I Wander South](https://open.spotify.com/album/64CI3MKi5JRjavcARBfKzQ) | 3:42 |
-| 38 | [Kickback](https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm), [Brendan Murphy](https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym) | [Kickback](https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv) | 3:27 |
-| 39 | [Stay Awake](https://open.spotify.com/track/34LgpotHyyQdJhrhNrMQ8p) | [These Streets](https://open.spotify.com/artist/4jCskb7XjucQB5tG8x2mQq) | [Stay Awake](https://open.spotify.com/album/0IzGvsSH19yvrfsltAIjFe) | 2:42 |
-| 40 | [Mean Brain](https://open.spotify.com/track/4y3cQcv7FpBiD4DPKEjjQO) | [Sharptooth](https://open.spotify.com/artist/6R5GQvYQr67s9YIjIJ5nnv) | [Mean Brain](https://open.spotify.com/album/6MkQ7yiNkj5J4LCBQhP3pK) | 2:37 |
+| 38 | [Stay Awake](https://open.spotify.com/track/34LgpotHyyQdJhrhNrMQ8p) | [These Streets](https://open.spotify.com/artist/4jCskb7XjucQB5tG8x2mQq) | [Stay Awake](https://open.spotify.com/album/0IzGvsSH19yvrfsltAIjFe) | 2:42 |
+| 39 | [Mean Brain](https://open.spotify.com/track/4y3cQcv7FpBiD4DPKEjjQO) | [Sharptooth](https://open.spotify.com/artist/6R5GQvYQr67s9YIjIJ5nnv) | [Mean Brain](https://open.spotify.com/album/6MkQ7yiNkj5J4LCBQhP3pK) | 2:37 |
+| 40 | [Kickback](https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm), [Brendan Murphy](https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym) | [Kickback](https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv) | 3:27 |
 | 41 | [Most Dangerous Game](https://open.spotify.com/track/1ZXpTgdX88v2cGPa5h5LDg) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Most Dangerous Game](https://open.spotify.com/album/3Qk4iENuTz2IGRv6gCHa1C) | 1:29 |
 | 42 | [Gumshield](https://open.spotify.com/track/5iyR3KO0W7aRs8rrg2MOBI) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Gumshield](https://open.spotify.com/album/4ogwZVLvS3KEJg4gscFUSQ) | 3:37 |
 | 43 | [Temple](https://open.spotify.com/track/2AtUHCnljKAfSGNmPVNaKa) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Temple](https://open.spotify.com/album/2aXMS54S3Rdb9fVySt7e56) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 |
 | 100 | [Wage War](https://open.spotify.com/track/0cMYr5QwzbNWATsKl3aZBP) | [Prison](https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq) | [Still Alive](https://open.spotify.com/album/5DDovcRwzH0qblH2en7Xd7) | 3:19 |
 
-Snapshot ID: `MTY0Nzk5NzA5NCwwMDAwMDAwMDQxYzliM2E1MWM4NjNmZTg4MTQ4NTQ3ZmI5NGIyZTc4`
+Snapshot ID: `MTY0ODA4MzIyMCwwMDAwMDAwMGE4MjJlYjhmMjU2ZGEyZDUyYzE3NDQzYTI1ZmI3MDVj`

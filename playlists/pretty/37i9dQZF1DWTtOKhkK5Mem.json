@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 635230,
+  "num_followers": 635391,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg1NywwMDAwMDAwMDU4YTYwYWFhYTk3YmYxNmM0NjAwMDZhNjgyYzgxMTM3",
+  "snapshot_id": "MTY0ODA4Mjk3MywwMDAwMDAwMGFmNTkxNDEwYzcyMzhiYzY2MTA3MDVhN2ZiNzFkNmQ1",
   "tracks": [
     {
       "added_at": "2021-11-23 14:31:35",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
         "name": "The Lion King: Special Edition Original Soundtrack (English Version)",
         "url": "https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO"
       },
@@ -223,22 +207,6 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/0Kqw8feGAz7zQ7cELaIeBs"
       },
@@ -255,18 +223,34 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "The One Thing",
-        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 304866,
-      "name": "Said I Loved You...But I Lied",
-      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -303,18 +287,18 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+        "name": "The One Thing",
+        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+      "duration_ms": 304866,
+      "name": "Said I Loved You...But I Lied",
+      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -331,6 +315,22 @@
       "duration_ms": 244226,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
+        "name": "Anthology (set - UK)",
+        "url": "https://open.spotify.com/album/4cJi2jbJOy2TBYt7F46lcb"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/1mTW4qdqPxjxJMZvNr66Ek"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
         "name": "Glenn Medeiros",
         "url": "https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 231066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
-        "name": "Anthology (set - UK)",
-        "url": "https://open.spotify.com/album/4cJi2jbJOy2TBYt7F46lcb"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/1mTW4qdqPxjxJMZvNr66Ek"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
+        "name": "Anthology (set - UK)",
+        "url": "https://open.spotify.com/album/4cJi2jbJOy2TBYt7F46lcb"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 292493,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+      "url": "https://open.spotify.com/track/5NwRwZeoQ6AduxQlnbqeik"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 251106,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
-        "name": "Anthology (set - UK)",
-        "url": "https://open.spotify.com/album/4cJi2jbJOy2TBYt7F46lcb"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 292493,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
-      "url": "https://open.spotify.com/track/5NwRwZeoQ6AduxQlnbqeik"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
+        "name": "Never Forget: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 236760,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
-        "name": "Never Forget: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6lJFfj7wWeKiYRjLMHN4SN"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Chicago 16 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 304813,
-      "name": "Hard to Say I'm Sorry / Get Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
+        "name": "Chicago 16 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Hard to Say I'm Sorry / Get Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1"
     },
     {
       "added_at": "2021-11-23 14:31:35",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2021-11-23 14:31:35",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Who You Love (feat. Katy Perry)",
-      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
-    },
-    {
-      "added_at": "2021-11-23 14:31:35",
-      "album": {
         "name": "When I Was Your Man (Acoustic)",
         "url": "https://open.spotify.com/album/6mGOR0rhxlECjseK1wmUcQ"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 259066,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
+    },
+    {
+      "added_at": "2021-11-23 14:31:35",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
     },
     {
       "added_at": "2021-11-23 14:31:35",

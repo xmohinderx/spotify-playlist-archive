@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: SANO, Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,394 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,407 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 2 | [Sciura Milanese](https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh) | 3:10 |
 | 3 | [Ku](https://open.spotify.com/track/7tzxOWVf9ibdVSbIAYVJUr) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM) | 4:35 |
 | 4 | [Quattro pareti](https://open.spotify.com/track/7COhIpIAija8bWiHXp7MYu) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Tutti ammassati senza affetto](https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH) | 3:09 |
-| 5 | [NCSP :\)](https://open.spotify.com/track/1KQ1ioUw4HefOjCAanvZhY) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Exynos](https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s) | [NCSP :\)](https://open.spotify.com/album/2DHSdz8V81aV2uX3x8WgO7) | 2:19 |
-| 6 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 |
-| 7 | [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 |
-| 8 | [Dopo di te](https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Dopo di te](https://open.spotify.com/album/7Kv5OKvnfaUrJ9qRvlCzXu) | 3:54 |
+| 5 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 |
+| 6 | [.specchi spettri](https://open.spotify.com/track/6HWpyoshIc2WxL3JPkIuyL) | [.ANAMIRTA](https://open.spotify.com/artist/152NNCTZGUSRhS2geGSN4n) | [.specchi spettri](https://open.spotify.com/album/50Wjxg4Ds2CxDmEF6flWOs) | 3:38 |
+| 7 | [Dopo di te](https://open.spotify.com/track/6f9SqDEOWEVFpXEBEYqdIE) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Dopo di te](https://open.spotify.com/album/7Kv5OKvnfaUrJ9qRvlCzXu) | 3:54 |
+| 8 | [tutto e niente](https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb) | [Collettivo HMCF](https://open.spotify.com/artist/7tHM6vqXaYJ8T0WK0i0hS7), [fleurmicol](https://open.spotify.com/artist/3pkpv5wdvjKWcS8NaN6DQ0) | [DROP.02](https://open.spotify.com/album/4gWqsqqBq4veVq35GJO7OE) | 3:48 |
 | 9 | [Da solo](https://open.spotify.com/track/6Ecd6qmTNg38sUr7OgbKBd) | [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [Madness](https://open.spotify.com/album/2KxMNtEBqTyzemxrEcrr2r) | 3:16 |
-| 10 | [tutto e niente](https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb) | [Collettivo HMCF](https://open.spotify.com/artist/7tHM6vqXaYJ8T0WK0i0hS7), [fleurmicol](https://open.spotify.com/artist/3pkpv5wdvjKWcS8NaN6DQ0) | [DROP.02](https://open.spotify.com/album/4gWqsqqBq4veVq35GJO7OE) | 3:48 |
-| 11 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
-| 12 | [STARS ALIGN](https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STARS ALIGN](https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6) | 2:33 |
-| 13 | [UMMA](https://open.spotify.com/track/0hNNpnNncQWrxa1kr2er67) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [UMMA](https://open.spotify.com/album/4sGiaA89JRuo3IdIxAJfKd) | 3:48 |
-| 14 | [risveglio](https://open.spotify.com/track/1Ag3vPKeWC7UPdE0Cjp1tL) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [risveglio](https://open.spotify.com/album/5URmMFHRSSz0VkAQ676C12) | 4:03 |
-| 15 | [Non andare via](https://open.spotify.com/track/4WF0UUXCu6810tgEl3AEIb) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [Non andare via](https://open.spotify.com/album/1uCrMx4jf7Nsipum2rpnTg) | 2:46 |
+| 10 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
+| 11 | [STARS ALIGN](https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STARS ALIGN](https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6) | 2:33 |
+| 12 | [UMMA](https://open.spotify.com/track/0hNNpnNncQWrxa1kr2er67) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1) | [UMMA](https://open.spotify.com/album/4sGiaA89JRuo3IdIxAJfKd) | 3:48 |
+| 13 | [risveglio](https://open.spotify.com/track/1Ag3vPKeWC7UPdE0Cjp1tL) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [risveglio](https://open.spotify.com/album/5URmMFHRSSz0VkAQ676C12) | 4:03 |
+| 14 | [Non andare via](https://open.spotify.com/track/4WF0UUXCu6810tgEl3AEIb) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [Non andare via](https://open.spotify.com/album/1uCrMx4jf7Nsipum2rpnTg) | 2:46 |
+| 15 | [NCSP :\)](https://open.spotify.com/track/1KQ1ioUw4HefOjCAanvZhY) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Exynos](https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s) | [NCSP :\)](https://open.spotify.com/album/2DHSdz8V81aV2uX3x8WgO7) | 2:19 |
 | 16 | [Specchi Sporchi](https://open.spotify.com/track/6nXjlXPeuidNoahUQfCsUu) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Specchi Sporchi](https://open.spotify.com/album/4QSybDIKqCGjxxMvvf5CId) | 2:50 |
 | 17 | [Umano](https://open.spotify.com/track/1FyF0EXkDP7uwDDwiNzYMl) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Umano](https://open.spotify.com/album/0vEbDtsw49Rtpdwoi6tetH) | 3:55 |
 | 18 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [A voc ro padron](https://open.spotify.com/track/2qZdZw7wAo6URlj1j0edfJ) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Discomoneta](https://open.spotify.com/album/5FzsFijou9m3iNCAxSdYMj) | 3:19 |
 | 50 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 |
 
-Snapshot ID: `MTY0Nzg3Mzg4OSwwMDAwMDA0ODAwMDAwMTdmYWNmMDEzMWIwMDAwMDE3ZjkyOTdmMmFm`
+Snapshot ID: `MTY0ODAzMzg3NCwwMDAwMDA0OTAwMDAwMTdmYjY3OTQzYzkwMDAwMDE3ZjkyOTdmMmFm`

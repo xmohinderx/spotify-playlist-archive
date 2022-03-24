@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4CZc00Cxa3X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4CZc00Cxa3X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4CZc00Cxa3X)
 
-### The Listening Room
+### [The Listening Room](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 

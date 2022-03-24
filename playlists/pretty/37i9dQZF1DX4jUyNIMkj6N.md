@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana\. Cover: Silver Lining
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,293 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,298 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 9 | [The Man Who Isn't Here](https://open.spotify.com/track/6ZiL7k1BRddpLgrS484kc7) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/27zpUxeNAiCvCmHLOTpqWt) | 3:50 |
 | 10 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 11 | [Gold Laces](https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD) | 3:40 |
-| 12 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
-| 13 | [Love is All](https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J) | 4:15 |
+| 12 | [Love is All](https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J) | 4:15 |
+| 13 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
 | 14 | [Cold](https://open.spotify.com/track/5DpTlBdTHCvdbjg9Nl9mCx) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [=](https://open.spotify.com/album/3hgmDOXMqt6KQLRZNi4ZUj) | 4:43 |
 | 15 | [The Devil's Tongue](https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 2:13 |
-| 16 | [Dreamer](https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Flora Kuriosa](https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk) | 3:03 |
-| 17 | [Away](https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic) | 2:58 |
-| 18 | [Winter never lasts forever](https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:46 |
-| 19 | [Aha\-Aha](https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03) | [Sofia Talvik](https://open.spotify.com/artist/4Hd0rNhaixhFLrjZ2WRCCM) | [Big Sky Country](https://open.spotify.com/album/773tK2NDvFS4uNp5v4gttg) | 2:56 |
-| 20 | [Wolf](https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV) | 3:40 |
+| 16 | [Away](https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic) | 2:58 |
+| 17 | [Winter never lasts forever](https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:46 |
+| 18 | [Dreamer](https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Flora Kuriosa](https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk) | 3:03 |
+| 19 | [Wolf](https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV) | 3:40 |
+| 20 | [Aha\-Aha](https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03) | [Sofia Talvik](https://open.spotify.com/artist/4Hd0rNhaixhFLrjZ2WRCCM) | [Big Sky Country](https://open.spotify.com/album/773tK2NDvFS4uNp5v4gttg) | 2:56 |
 | 21 | [Ain't nobody like me](https://open.spotify.com/track/4MzstnWuONzS5gYlBTnVBc) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1) | [Ain't nobody like me](https://open.spotify.com/album/7I7MDoKMtJdFzwQBe8LVh3) | 3:25 |
 | 22 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 |
 | 23 | [Baltic Sea](https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ) | [Firstnighter](https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q) | [100 words for fear](https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D) | 3:00 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 31 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 32 | [Signals](https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [EP](https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw) | 4:01 |
 | 33 | [When the Mourning Comes](https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I saw her from here/I saw here from her](https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW) | 3:44 |
-| 34 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
-| 35 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 |
-| 36 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 |
+| 34 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 |
+| 35 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
+| 36 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 |
 | 37 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 |
 | 38 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 39 | [Was There Nothing?](https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Was There Nothing?](https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Morgan, I might](https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right](https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z) | 3:17 |
 | 60 | [I Wanna Be Sedated \(feat\. Mirel Wagner\)](https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/6k9ZeshOIpS8OCXEk9x5pF) | 3:38 |
 
-Snapshot ID: `MTY0Nzk5NzE5MSwwMDAwMDAwMGE0OGRmNGMzYTk5MmE4ZDA2MGJhYmMyMDA0YmUyZTVh`
+Snapshot ID: `MTY0ODA4MzMxNywwMDAwMDAwMDM1YTdhOGUzNGJlOGMwZjYzMzhmYmEzZDg4NzM0NzNm`

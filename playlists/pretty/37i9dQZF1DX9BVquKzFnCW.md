@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with jazzy sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,486 likes - 100 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,519 likes - 100 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 46 | [Vibraphone Blues](https://open.spotify.com/track/58KI7NBx1svFzde8ucIAIM) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [You Better Know It!!!](https://open.spotify.com/album/6N2Q966OZ2emwFpGXi81QZ) | 5:07 |
 | 47 | [A Handful Of Stars](https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI) | [Serge Chaloff](https://open.spotify.com/artist/1Ic9vseHq7wmDPdsZyjMdv) | [Blue Serge](https://open.spotify.com/album/5i1fTxPtjfONNBEuIStYIM) | 5:35 |
 | 48 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
-| 49 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 |
-| 50 | [Smoke Rings](https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:41 |
-| 51 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
-| 52 | [Light Blue](https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 4:47 |
-| 53 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 |
-| 54 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
+| 49 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
+| 50 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 |
+| 51 | [Smoke Rings](https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:41 |
+| 52 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
+| 53 | [Light Blue](https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 4:47 |
+| 54 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 |
 | 55 | [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 |
 | 56 | [Love Is Here To Stay](https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:24 |
 | 57 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Jacqui](https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:11 |
 | 100 | [La Valse Bleue](https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 7:03 |
 
-Snapshot ID: `MTY0Nzk5NzMzNCwwMDAwMDAwMGZjZTZmZGRjOTNlMzExNGExNTgxNDNiYzFmYjU4NWI0`
+Snapshot ID: `MTY0ODA4MzQ2MSwwMDAwMDAwMDczZDNmNDE1NGEzNzZmNzc2Y2MxYjBiZTE5NjU4NGM4`

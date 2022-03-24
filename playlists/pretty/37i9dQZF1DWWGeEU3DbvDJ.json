@@ -1,12 +1,12 @@
 {
   "description": "The freshest jams from this year\u2019s BBMAs finalists and performers, airing May 23 on NBC! Cover: The Weeknd",
-  "num_followers": 62694,
+  "num_followers": 62688,
   "original_name": "2021 Billboard Music Awards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjkzMCwwMDAwMDAwMGI0ZjBjYjE2YTc0Y2Y4NmIyNTU2ZDExMTkyMjQ5YTcw",
+  "snapshot_id": "MTY0ODA4MzA0OCwwMDAwMDAwMDJhZTQ5ODAyYTNlN2I4OGU3NzJiNDUyNThiNzgwZDk1",
   "tracks": [
     {
       "added_at": "2021-05-11 19:27:38",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2021-05-11 19:27:38",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 228340,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/4H3rqFTUsyeMOLhTXjxmDn"
-    },
-    {
-      "added_at": "2021-05-11 19:27:38",
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 507306,
       "name": "The Blessing (Live)",
       "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "added_at": "2021-05-11 19:27:38",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 228340,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/4H3rqFTUsyeMOLhTXjxmDn"
     },
     {
       "added_at": "2021-05-11 19:27:38",

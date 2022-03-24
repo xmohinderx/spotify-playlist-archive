@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 176640,
+  "num_followers": 176755,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzA5NCwwMDAwMDAwMDQxYzliM2E1MWM4NjNmZTg4MTQ4NTQ3ZmI5NGIyZTc4",
+  "snapshot_id": "MTY0ODA4MzIyMCwwMDAwMDAwMGE4MjJlYjhmMjU2ZGEyZDUyYzE3NDQzYTI1ZmI3MDVj",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "The World Is in Your Way",
-        "url": "https://open.spotify.com/album/1oAb6I5iO6bTprK6z3mFwb"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "The Hardest Drug",
-      "url": "https://open.spotify.com/track/6BwNwNj55X8x0Q5OwN76ZP"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Sink to The Hell",
         "url": "https://open.spotify.com/album/5ZXWshDvKfkmVLqN6gZAxM"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "No Easy Way Out",
-        "url": "https://open.spotify.com/album/5sZwVxwIS7C97S3MX5Xrza"
+        "name": "The World Is in Your Way",
+        "url": "https://open.spotify.com/album/1oAb6I5iO6bTprK6z3mFwb"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 155760,
-      "name": "No Easy Way Out",
-      "url": "https://open.spotify.com/track/1O6C6wl0KdS9cXHsmLWhyG"
+      "duration_ms": 220773,
+      "name": "The Hardest Drug",
+      "url": "https://open.spotify.com/track/6BwNwNj55X8x0Q5OwN76ZP"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -311,6 +295,22 @@
       "duration_ms": 112305,
       "name": "Power (feat. Frank Carter)",
       "url": "https://open.spotify.com/track/1ggFKjGRZvWCfnFjLHgeQc"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "No Easy Way Out",
+        "url": "https://open.spotify.com/album/5sZwVxwIS7C97S3MX5Xrza"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "No Easy Way Out",
+      "url": "https://open.spotify.com/track/1O6C6wl0KdS9cXHsmLWhyG"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/5PGuzkoIbHAvua019CnujY"
-      },
-      "artists": [
-        {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
-        },
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/5PlA40awjSFJbfWhB1J7ZR"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "See-Thru",
         "url": "https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 125536,
       "name": "Wolf Hunt",
       "url": "https://open.spotify.com/track/4pvPHw2fGSr4RxqK07tjLL"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/5PGuzkoIbHAvua019CnujY"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        },
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/5PlA40awjSFJbfWhB1J7ZR"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Kickback",
-        "url": "https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        },
-        {
-          "name": "Brendan Murphy",
-          "url": "https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym"
-        }
-      ],
-      "duration_ms": 207206,
-      "name": "Kickback",
-      "url": "https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Stay Awake",
         "url": "https://open.spotify.com/album/0IzGvsSH19yvrfsltAIjFe"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 157173,
       "name": "Mean Brain",
       "url": "https://open.spotify.com/track/4y3cQcv7FpBiD4DPKEjjQO"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Kickback",
+        "url": "https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        },
+        {
+          "name": "Brendan Murphy",
+          "url": "https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym"
+        }
+      ],
+      "duration_ms": 207206,
+      "name": "Kickback",
+      "url": "https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g"
     },
     {
       "added_at": "2022-03-11 00:00:00",

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-22",
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
   "name": "Planetary Soul",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0ykWqecK3jiRY8qdI86lLb"
+  ],
   "tracks": [
     {
       "album": {
@@ -191,7 +193,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 127040,
       "name": "Caracas Night September 11, 1975",
       "url": "https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp"
@@ -429,7 +431,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 231760,
       "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
       "url": "https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO"

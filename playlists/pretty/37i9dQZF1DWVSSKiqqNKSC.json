@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 162898,
+  "num_followers": 163025,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjkwMSwwMDAwMDAwMDdmZWU3ZGVjOWIwNWVhZjJmYjg5MDcwOGFiYTI3ZmM4",
+  "snapshot_id": "MTY0ODA4MzAxOCwwMDAwMDAwMDYyYjJhYzU5MDE3NGEzNjQ3ZmY5NDc0NDRkYmQxMWEz",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -151,26 +151,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Celia y Johnny",
-        "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Celia y Johnny",
+        "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+        "name": "Privilegio 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZHOSr8oTScyC7vk199jXg"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
         }
       ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+      "duration_ms": 307336,
+      "name": "Mi Historia Entre Tus",
+      "url": "https://open.spotify.com/track/2hl7R0VVe4OphNXZ50XEtZ"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -315,38 +315,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Privilegio 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZHOSr8oTScyC7vk199jXg"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 307336,
-      "name": "Mi Historia Entre Tus",
-      "url": "https://open.spotify.com/track/2hl7R0VVe4OphNXZ50XEtZ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Pa Bravo Yo",
-        "url": "https://open.spotify.com/album/7Hi3Xst5cdbaaAqpNm5vgC"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa Bravo Yo",
-      "url": "https://open.spotify.com/track/13gvFt3Eji2xEuCb0PKkMZ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Qu\u00e9 Sorpresa",
         "url": "https://open.spotify.com/album/5R00tENfLRFZWUJIjs65sn"
       },
@@ -363,6 +331,38 @@
       "duration_ms": 360992,
       "name": "Qu\u00e9 Sorpresa",
       "url": "https://open.spotify.com/track/5D2iEMBHykpE1BE7V6cDFX"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Pa Bravo Yo",
+        "url": "https://open.spotify.com/album/7Hi3Xst5cdbaaAqpNm5vgC"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa Bravo Yo",
+      "url": "https://open.spotify.com/track/13gvFt3Eji2xEuCb0PKkMZ"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -411,6 +411,26 @@
       "duration_ms": 289219,
       "name": "Ya T\u00fa No Coronas",
       "url": "https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 300451,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -511,8 +531,8 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
@@ -524,9 +544,9 @@
           "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 300451,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -611,26 +631,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Palabras y Palabras",
         "url": "https://open.spotify.com/album/7BlD9VgQD5CB5dFpAKeHGa"
       },
@@ -675,6 +675,26 @@
       "duration_ms": 313133,
       "name": "\u00bfD\u00f3nde va Chichi?",
       "url": "https://open.spotify.com/track/5DPfEdyjJpt1PpFOKSAcW3"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -759,26 +779,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
     },
     {
       "added_at": "2020-08-25 16:57:45",

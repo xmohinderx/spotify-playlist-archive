@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. <br/>Cover: Brent Cobb
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,380 likes - 98 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,422 likes - 98 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

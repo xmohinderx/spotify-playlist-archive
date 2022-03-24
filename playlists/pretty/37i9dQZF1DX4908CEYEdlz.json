@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bloc Party",
-  "num_followers": 695593,
+  "num_followers": 695632,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzE3MiwwMDAwMDAwMGM1NzQ0YTc1MWU4ZDExODhmNGYyNzY3MDQxMGY2OGJh",
+  "snapshot_id": "MTY0ODA4MzI5OCwwMDAwMDAwMGFjNzkxZGQ2ZjBhOWQ1NGJlYzJmMzhiYTIxZTM2MmYy",
   "tracks": [
     {
       "added_at": "2022-03-18 03:01:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "Poster Child",
+        "url": "https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 318421,
+      "name": "Poster Child",
+      "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
-        "name": "Poster Child",
-        "url": "https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 318421,
-      "name": "Poster Child",
-      "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "\u00c5NOM\u00c5LY",
+        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
-        "name": "\u00c5NOM\u00c5LY",
-        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
-        "name": "Nowhere Sessions",
-        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Fortunate Son - Nowhere Sessions",
-      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -327,6 +311,22 @@
       "duration_ms": 207445,
       "name": "The Steeple",
       "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Fortunate Son - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "Keep It Away",
-        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Keep It Away",
-      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "BURIED ALIVE",
         "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 213774,
       "name": "BURIED ALIVE",
       "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "Never Gonna Learn EP",
         "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "Kill The Noise",
         "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -683,6 +683,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "Trouble\u2019s Coming",
-        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Trouble\u2019s Coming",
-      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
+        "name": "Black Lungs",
+        "url": "https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 231161,
+      "name": "Black Lungs",
+      "url": "https://open.spotify.com/track/1nIw3ohgilArczHubneGxD"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
-        "name": "Black Lungs",
-        "url": "https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 231161,
-      "name": "Black Lungs",
-      "url": "https://open.spotify.com/track/1nIw3ohgilArczHubneGxD"
     },
     {
       "added_at": "2022-03-18 03:01:00",

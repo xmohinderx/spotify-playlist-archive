@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvTQHhm7Jtf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvTQHhm7Jtf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvTQHhm7Jtf)
 
-### Planetary Soul
+### [Planetary Soul](https://open.spotify.com/playlist/0ykWqecK3jiRY8qdI86lLb)
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
@@ -15,7 +15,7 @@
 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 | 2022-03-11 |  |
 | [Broken Clouds](https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 5:24 | 2021-10-20 |  |
 | [Cabaraú](https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0) | 6:32 | 2022-01-14 |  |
-| [Caracas Night September 11, 1975](https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 2:07 | 2021-10-20 |  |
+| [Caracas Night September 11, 1975](https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 2:07 | 2021-10-20 | 2022-03-24 |
 | [Carbon Cycle](https://open.spotify.com/track/0MkYSjZN0rgEHXujksVTY8) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Carbon Cycle](https://open.spotify.com/album/2nwP6MkhQwwJQGFjMKk2Pp) | 5:23 | 2021-10-20 | 2022-03-23 |
 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 | 2021-10-20 |  |
 | [Closed \- Yosemite Version](https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/1pYLmFYO15uH1goGDy4xUn) | 3:52 | 2021-10-20 |  |
@@ -28,7 +28,7 @@
 | [Duet 1](https://open.spotify.com/track/4tJKvqxSriGHKPS8QpqBjs) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 6:53 | 2021-10-20 |  |
 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 | 2022-02-16 |  |
 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 | 2021-10-20 |  |
-| [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-03-23 |
+| [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 |  |
 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2021-10-20 |  |
 | [Fearless](https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Fearless](https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd) | 8:02 | 2021-10-20 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2021-10-20 |  |

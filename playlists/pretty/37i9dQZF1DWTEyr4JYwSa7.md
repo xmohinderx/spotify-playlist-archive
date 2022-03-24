@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,908 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,905 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 8 | [Noël est arrivé](https://open.spotify.com/track/5YUJQ7oqZXOnh4GnzgqCkZ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Noël est arrivé \- Single](https://open.spotify.com/album/7etmMuXqoH2RYdWoqzoOIZ) | 3:11 |
 | 9 | [Minuit, chrétiens](https://open.spotify.com/track/0kGfNwm2SyhhcddlMpvvUr) | [Boom Desjardins](https://open.spotify.com/artist/6ZbXEwK2HJD1puxQCCL9LW) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:36 |
 | 10 | [Noël des enfants / Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7iSLi3BBHdybGxjefz0xQg) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Noël des enfants / Happy Xmas \(War Is Over\)](https://open.spotify.com/album/2aIzVmUqsvT1oS3Y9lpxw7) | 4:00 |
-| 11 | [Doux Noël](https://open.spotify.com/track/77YWf8hm0teYjhoL5S8bLV) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Un air d'hiver](https://open.spotify.com/album/0RUe6nqKd06UO2DZmCjOCy) | 4:08 |
+| 11 | [Aujourd'hui le roi des cieux \(The First Noël\)](https://open.spotify.com/track/4WGZjwXf20jU5LuFXgmqu0) | [Michaël](https://open.spotify.com/artist/1IBfb2dNgk90Z4s5ZipI0z) | [Nuit de Noël](https://open.spotify.com/album/6lLZCMznuhA54wAD6oCPKC) | 4:08 |
 | 12 | [Noël c't'année](https://open.spotify.com/track/3T1dIiiwjVC7V7IXWgYeHT) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Noël c't'année](https://open.spotify.com/album/3NrO8sbnHetQewg5MSHNJt) | 3:24 |
-| 13 | [Aujourd'hui le roi des cieux \(The First Noël\)](https://open.spotify.com/track/4WGZjwXf20jU5LuFXgmqu0) | [Michaël](https://open.spotify.com/artist/1IBfb2dNgk90Z4s5ZipI0z) | [Nuit de Noël](https://open.spotify.com/album/6lLZCMznuhA54wAD6oCPKC) | 4:08 |
+| 13 | [Joie dans le monde](https://open.spotify.com/track/1biyfmYffp1k90JwirelVl) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:38 |
 | 14 | [Le sentier de neige](https://open.spotify.com/track/5y1U1ZcRR2P9xPSIeYLTaI) | [Les Classels](https://open.spotify.com/artist/4AoIv0whQbnXND8lj08eVs) | [Les 16 plus grands succès](https://open.spotify.com/album/6BkrWmXC9uhHG3qxXrQ9Nc) | 2:17 |
 | 15 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
-| 16 | [Joie dans le monde](https://open.spotify.com/track/1biyfmYffp1k90JwirelVl) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:38 |
+| 16 | [Doux Noël](https://open.spotify.com/track/77YWf8hm0teYjhoL5S8bLV) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Un air d'hiver](https://open.spotify.com/album/0RUe6nqKd06UO2DZmCjOCy) | 4:08 |
 | 17 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 18 | [Last Christmas](https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:33 |
 | 19 | [Amoureux](https://open.spotify.com/track/4YvF9F72EMjqelsz380ytc) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Noël \# 1](https://open.spotify.com/album/1Gn7pjm8t9Mr3YZjlTa9oA) | 3:05 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 68 | [Ô traîneau dans le ciel](https://open.spotify.com/track/1kotZfGh3Whdpvs3mze4oz) | [Maryse Letarte](https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n) | [Des pas dans la neige \(Bonus track version\)](https://open.spotify.com/album/0zosKa4OSEVZx2AydZGfRY) | 3:51 |
 | 69 | [Ave maria](https://open.spotify.com/track/0SnM2ceBc70ktED1Og5ywY) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:16 |
 | 70 | [O Holy Night](https://open.spotify.com/track/7KmDDxUC8EzZq456O6kVLB) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [A Very Special Christmas Playlist Plus](https://open.spotify.com/album/5w93ZPNXFPKRcRniDPS10d) | 4:28 |
-| 71 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
-| 72 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
+| 71 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
+| 72 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
 | 73 | [Cheers](https://open.spotify.com/track/6ZCAkrXjyPfsRsIZdiFqTX) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/0Wg2bATi2bsehYd23NBqpP) | 2:26 |
 | 74 | [Première neige](https://open.spotify.com/track/6ZOgwSp6niuOtYjkmw8dU0) | [Les Chiclettes](https://open.spotify.com/artist/1fsdDqHNWr3PyqQHZ9kJuE) | [Voyage à trois](https://open.spotify.com/album/0FGkrQbj04tNprzso2U947) | 2:27 |
 | 75 | [Noël, parle\-moi](https://open.spotify.com/track/2KCMOY9ErnI9KLn5GAGr6v) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Noël, parle\-moi](https://open.spotify.com/album/4RDHyPV39Ux7Wa1GtVOEtw) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Joyeux Noël](https://open.spotify.com/track/1xRBTzIffG760rUzbGeAf3) | [Charlēne](https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 2:39 |
 | 100 | [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 |
 
-Snapshot ID: `MTY0Nzk5NjgzNiwwMDAwMDAwMGQyNzliZThmZGM2NDIxZmQwZWI1N2EzMGE5NmJiYjcy`
+Snapshot ID: `MTY0ODA4Mjk1NCwwMDAwMDAwMGQxMTdiY2Y1Yjg5OTU4ZmQ3M2MxMjNiODY2YzU0ZTA5`

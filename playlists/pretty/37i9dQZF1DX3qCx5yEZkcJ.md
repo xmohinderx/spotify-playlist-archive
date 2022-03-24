@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,571 likes - 80 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,604 likes - 80 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 76 | [Laguna Beach](https://open.spotify.com/track/50KNAbOm2LU4B1p1uSLeyH) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Laguna Beach](https://open.spotify.com/album/40tyH7ZihvCmfUysxHoiBx) | 1:49 |
 | 77 | [Kumomi](https://open.spotify.com/track/142Kgio2pmQXmOx2Izsynl) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [February: A Rest in Beats Tribute to the Sounds of Nujabes](https://open.spotify.com/album/4bY9u3kqWLOzsr6KnRvhjR) | 3:47 |
 | 78 | [Skies the Limit](https://open.spotify.com/track/26mpkkyZBtcWJz3LiWCr4K) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Skies the Limit](https://open.spotify.com/album/5ljrbXsoNN1fUoe8iIh86R) | 4:32 |
-| 79 | [Pieces Of A Past](https://open.spotify.com/track/2BBDuwV65BW07iFfXYOXO7) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Pieces Of A Past](https://open.spotify.com/album/2F4y0NoL00IZMoJ57pi6UT) | 2:46 |
-| 80 | [settle down](https://open.spotify.com/track/6uyitNldOLr44QmicuClak) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [keep going](https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL) | 1:42 |
+| 79 | [settle down](https://open.spotify.com/track/6uyitNldOLr44QmicuClak) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [keep going](https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL) | 1:42 |
+| 80 | [Pieces Of A Past](https://open.spotify.com/track/2BBDuwV65BW07iFfXYOXO7) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Pieces Of A Past](https://open.spotify.com/album/2F4y0NoL00IZMoJ57pi6UT) | 2:46 |
 
-Snapshot ID: `MTY0Nzk5NzE2NSwwMDAwMDAwMGE2OTE4NjY0YzEyMjIzMDBjNjFmY2Y1N2QwM2ZlN2Iz`
+Snapshot ID: `MTY0ODA4MzI5MCwwMDAwMDAwMDZiZmE1YjJmYTE4ZWJmODBhZDdlYzU0YjZhNTIzZjk4`

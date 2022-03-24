@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 179412,
+  "num_followers": 179450,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5Njg2NiwwMDAwMDAwMDkxMzU5MjdhNzFlOGI5OTRjODE5Y2YxZjJkYmMyYjhh",
+  "snapshot_id": "MTY0ODA4Mjk4MiwwMDAwMDAwMDNhY2M1MTcwMzFmNTEyYjMxNDI3Y2YyNTU1YmZlMDlh",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "This Town",
         "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/7GgQi7JTG4b6J4iEF4RTjF"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
       },
@@ -167,6 +135,38 @@
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/7GgQi7JTG4b6J4iEF4RTjF"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -251,22 +251,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "When We Were Young",
-        "url": "https://open.spotify.com/album/70zIL23Ro6CSxuFYL3dKn0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290906,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7A2eDNBgJrEVE87C8pOMqN"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/70zIL23Ro6CSxuFYL3dKn0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290906,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7A2eDNBgJrEVE87C8pOMqN"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -347,22 +347,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Water Under the Bridge",
-      "url": "https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "I Guess I Just Feel Like",
         "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Water Under the Bridge",
+      "url": "https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -459,6 +459,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Heart's On Fire",
         "url": "https://open.spotify.com/album/4sD3nshhs8KTTN7SGwYEaE"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 244600,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/0B5KeB25moPkcQUnbDvj3t"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Heavier Things",
-        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -555,6 +555,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -691,6 +691,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/3f8Uygfz3CIpUCo6H6iNOJ"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/3f8Uygfz3CIpUCo6H6iNOJ"
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -751,22 +767,6 @@
       "duration_ms": 185093,
       "name": "Lego House",
       "url": "https://open.spotify.com/track/53Pgsvu3qSYO2aXt5J2vcL"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -823,6 +823,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 244354,
       "name": "The Few Things",
       "url": "https://open.spotify.com/track/4T5tKuQBjol779cYZyL9D2"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "The Heart of Life",
-      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Fire Within",
-        "url": "https://open.spotify.com/album/0r94AFhRLvpfXvha7vx2dK"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 268711,
-      "name": "All You Never Say",
-      "url": "https://open.spotify.com/track/6X39LR0glRm9Gfqbv0VCUe"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Wanted on Voyage",
         "url": "https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M"
       },
@@ -2083,6 +2067,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Fire Within",
+        "url": "https://open.spotify.com/album/0r94AFhRLvpfXvha7vx2dK"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 268711,
+      "name": "All You Never Say",
+      "url": "https://open.spotify.com/track/6X39LR0glRm9Gfqbv0VCUe"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -2111,26 +2111,6 @@
       "duration_ms": 225076,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Let It All Go",
-        "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
-        {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
-        }
-      ],
-      "duration_ms": 280757,
-      "name": "Let It All Go",
-      "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2243,6 +2223,26 @@
       "duration_ms": 229014,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/6x69yrZAJvsYxhk0CJS4uT"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Let It All Go",
+        "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 280757,
+      "name": "Let It All Go",
+      "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Overexposed (Deluxe)",
+        "url": "https://open.spotify.com/album/7i1Ej2Ix9aIiLKqhNwAB2l"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Overexposed (Deluxe)",
-        "url": "https://open.spotify.com/album/7i1Ej2Ix9aIiLKqhNwAB2l"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/6D5ic12r3twNk7EjwEYFIP"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/7oAraczbemGSNWqnbkU87R"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "To Be Loved",
-        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "It's a Beautiful Day",
-      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/2GlLxQyrrOtIIinzdb8rO2"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/6obMmMuVhvB0VMTZa5EJIP"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "It's a Beautiful Day",
+      "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
     },
     {
       "added_at": "2019-06-21 00:09:37",

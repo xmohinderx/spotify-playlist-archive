@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Springtime's arrival has \#SpotifyTBT chilling to carefree oldies\. Cover: Carole King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,057,227 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,057,120 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

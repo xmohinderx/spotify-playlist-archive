@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> La casa del Trap de Argentino\. Foto: Bhavi & LIT killah.
+> La casa del Trap de Argentino\. Foto: KAKTOV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,794 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,933 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
-| 2 | [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 |
+| 1 | [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 |
+| 2 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
 | 3 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 |
 | 4 | [Maldad](https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Maldad](https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf) | 2:20 |
 | 5 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [Sangre](https://open.spotify.com/track/3ODrnuH1Qx2iX6P7MEo3lF) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Sangre](https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW) | 2:47 |
 | 100 | [Vigente](https://open.spotify.com/track/0EJjw2F8pprvoeTynVr5C6) | [POYØ](https://open.spotify.com/artist/4WksZwKLv0WltX37kvkSHJ), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Vigente](https://open.spotify.com/album/3fCEhr4u7sdoqklmsvk7xj) | 3:26 |
 
-Snapshot ID: `MTY0Njk2NzYwMCwwMDAwMDEzNjAwMDAwMTdmNzZlYjM0MzkwMDAwMDE3ZWMxNTI3OWQx`
+Snapshot ID: `MTY0ODA1OTYxMCwwMDAwMDEzNzAwMDAwMTdmYjgwMWYzOTMwMDAwMDE3Zjk4MDgyNDQw`

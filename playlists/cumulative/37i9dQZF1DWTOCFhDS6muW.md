@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTOCFhDS6muW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTOCFhDS6muW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTOCFhDS6muW)
 
-### Punta
+### [Punta](https://open.spotify.com/playlist/3CugKSm2PhA83VrYcz2ukm)
 
 > ¡Esto es punta!
 
@@ -8,11 +8,12 @@
 |---|---|---|---|---|---|
 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 | 2020-05-26 |  |
 | [Baila Conmigo](https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 3:19 | 2020-05-26 |  |
-| [Balabaa](https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Balabaa](https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l) | 2:38 | 2020-05-26 |  |
+| [Balabaa](https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Balabaa](https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l) | 2:38 | 2020-05-26 | 2022-03-24 |
 | [Banana](https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 6:35 | 2020-05-26 |  |
 | [Banana](https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR) | 3:16 | 2020-05-26 |  |
 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 | 2020-05-26 | 2022-03-23 |
 | [Carolina \(Club Mix\)](https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Gold, Vol\. 1](https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk) | 3:13 | 2020-05-26 |  |
+| [Cartel Mix](https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 6:13 | 2020-05-26 |  |
 | [Dona Amidi](https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:42 | 2020-05-26 |  |
 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 | 2020-05-26 |  |
 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 | 2020-05-26 |  |
@@ -21,7 +22,7 @@
 | [Fiesta](https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 7:29 | 2020-05-26 |  |
 | [Gasolina](https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 10](https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I) | 3:50 | 2020-05-26 |  |
 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 | 2020-05-26 |  |
-| [Imagenes](https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:10 | 2020-05-26 |  |
+| [Imagenes](https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:10 | 2020-05-26 | 2022-03-24 |
 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 | 2020-05-26 |  |
 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI) | 3:12 | 2020-05-26 |  |
 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 | 2020-05-26 |  |
@@ -39,7 +40,7 @@
 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 | 2020-05-26 |  |
 | [Punta MIX 2019](https://open.spotify.com/track/4w4DKjVsfiOyzrDmmaKkKF) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Punta MIX 2019](https://open.spotify.com/album/3ZLQoQNQidVeEyoO3SwM1T) | 5:01 | 2020-05-26 |  |
 | [Punta Power Mix \#1](https://open.spotify.com/track/6ShPz1zUeNRSvqd1PEDbGA) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc), [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP), [Los Gatos Bravos](https://open.spotify.com/artist/23x4x5UNEViCHjSH5OjBFL), [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3), [Los Profesionales](https://open.spotify.com/artist/1TqVXHYQ9N6jdjW0cWDbzs) | [Batalla de Puntas 3: Power Mix](https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT) | 6:52 | 2020-05-26 |  |
-| [Punta Raton \- Remix](https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 4:08 | 2020-05-26 | 2022-03-23 |
+| [Punta Raton \- Remix](https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 4:08 | 2020-05-26 |  |
 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 | 2020-05-26 |  |
 | [Puntas Garifunas Criollas](https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/1vEUcr8MsYafqKDkSF4ptW) | 7:23 | 2020-05-26 |  |
 | [Quemala](https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc) | [Quemala](https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB) | 2:25 | 2020-05-26 | 2022-03-23 |

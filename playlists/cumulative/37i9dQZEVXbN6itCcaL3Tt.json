@@ -38,6 +38,24 @@
     },
     {
       "album": {
+        "name": "10 PAK",
+        "url": "https://open.spotify.com/album/2MvtfvyGItiXoBf0IziZrK"
+      },
+      "artists": [
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "10 PAK",
+      "url": "https://open.spotify.com/track/4kYAHxCk0u2yRsqkCb43GK"
+    },
+    {
+      "album": {
         "name": "100 dni do matury",
         "url": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL"
       },
@@ -2385,6 +2403,28 @@
       "duration_ms": 206332,
       "name": "Coraz bli\u017cej \u015bwi\u0119ta",
       "url": "https://open.spotify.com/track/0Hi0V7XGoYN8Y9rO41LxJY"
+    },
+    {
+      "album": {
+        "name": "Czes\u0142awa",
+        "url": "https://open.spotify.com/album/2SAtG4FkiHBVdx9USZG3AH"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263437,
+      "name": "Czes\u0142awa",
+      "url": "https://open.spotify.com/track/2N0Id1zJJdDy0ijcQXBAAn"
     },
     {
       "album": {
@@ -7615,7 +7655,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 260299,
       "name": "Ostatnia nocka ale to DRILL",
       "url": "https://open.spotify.com/track/40ztXOcIAX26Zgh4oo6Y9k"
@@ -8971,7 +9011,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 180586,
       "name": "Prometazyna",
       "url": "https://open.spotify.com/track/5Q6ZdhHJt1NF6G6chZYdJd"
@@ -9959,7 +9999,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -11097,6 +11137,36 @@
       "duration_ms": 153402,
       "name": "TRYB SAMOLOTOWY",
       "url": "https://open.spotify.com/track/5kXqZe2VBK3fb3jEVWjI6X"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f3jk\u0105t Bermudzki",
+        "url": "https://open.spotify.com/album/3eejvm9X17uuCloqeGMb3M"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6qSWMnlKT3MeeXAEJJPdR1"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
+        },
+        {
+          "name": "mgng",
+          "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tr\u00f3jk\u0105t Bermudzki",
+      "url": "https://open.spotify.com/track/6L84MxeCGyg7fjTXzWYdmQ"
     },
     {
       "album": {

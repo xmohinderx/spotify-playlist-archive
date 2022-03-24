@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,984 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,005 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 24 | [Equals](https://open.spotify.com/track/3n5wEMIL3crQC96d872RYv) | [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [Equals](https://open.spotify.com/album/49zBMJYpQKcA8NnsbYah83) | 3:33 |
 | 25 | [Stronger Than Me](https://open.spotify.com/track/1O92Kw6CTPxdp3jzdbUaEN) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(US e\-Version\)](https://open.spotify.com/album/5WkNPVYW7QyUmNqW5yiodh) | 3:31 |
 | 26 | [Geen Liefde](https://open.spotify.com/track/7F7J5Q5k73iuFDEBMDdNFn) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Liefde](https://open.spotify.com/album/1pc1OgFrfFmQPwDDeiKmXg) | 2:28 |
-| 27 | [Burning Eyes](https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd) | [Lou Berry](https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Blue Sky](https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9) | 3:15 |
-| 28 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 |
-| 29 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
+| 27 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 |
+| 28 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
+| 29 | [Burning Eyes](https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd) | [Lou Berry](https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Blue Sky](https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9) | 3:15 |
 | 30 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 31 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 32 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
 | 60 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 
-Snapshot ID: `MTY0Nzk5Njk2MSwwMDAwMDAwMDhhYjkyNzY2NjQ2NDA2ODQ2ZjI2NzU1NmQ2OGQ2MTJk`
+Snapshot ID: `MTY0ODA4MzA4MCwwMDAwMDAwMDEyMmYwNGE5OGY1NTcwMTY3NWNhZTU1YWVhOTY1YTBk`

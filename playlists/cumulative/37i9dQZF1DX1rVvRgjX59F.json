@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These songs rocked the 90s. Cover: Rage Against The Machine",
+  "description": "These songs rocked the 90s. Cover: Nirvana",
   "name": "90s Rock Anthems",
   "published_playlist_ids": [
     "3ssq6CMYUOuOSUXgLz3W6D"
@@ -95,6 +95,24 @@
       "duration_ms": 168000,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx"
+    },
+    {
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 331573,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
@@ -725,6 +743,24 @@
       "duration_ms": 207360,
       "name": "Hedonism (Just Because You Feel Good)",
       "url": "https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN"
+    },
+    {
+      "album": {
+        "name": "Polythene",
+        "url": "https://open.spotify.com/album/44Ey0omZSf2M9pVyrfaw1p"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273280,
+      "name": "High",
+      "url": "https://open.spotify.com/track/136biHnnfSnXsp9Bi2hZ4f"
     },
     {
       "album": {
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-24",
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"

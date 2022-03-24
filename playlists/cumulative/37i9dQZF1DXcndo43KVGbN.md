@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcndo43KVGbN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcndo43KVGbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcndo43KVGbN)
 
-### Sonic Artefacts
+### [Sonic Artefacts](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 > The beauty lo\-fi ambience record and manipulated on tape.
 

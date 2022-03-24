@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 70865,
+  "num_followers": 70930,
   "original_name": "lockdengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NzQzOSwwMDAwMDAwMDVjY2YxOGNkYzgxNGUxNDFhYWM0MzBjODE2MmMwOWQ5",
+  "snapshot_id": "MTY0ODA4MzU2OSwwMDAwMDAwMDZiYWExYjExMGRlZDYwNWE1NGJkMDhlMTA3MmNjM2Ez",
   "tracks": [
     {
       "added_at": "2022-03-18 03:01:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "For Lovers Only - Remastered 2021",
-      "url": "https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 221960,
       "name": "Bone + Tissue",
       "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "For Lovers Only - Remastered 2021",
+      "url": "https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ"
     },
     {
       "added_at": "2022-03-18 03:01:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-03-18 03:01:00",
       "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2022-03-18 03:01:00",
-      "album": {
         "name": "silhouette",
         "url": "https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 148062,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4"
+    },
+    {
+      "added_at": "2022-03-18 03:01:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-03-18 03:01:00",

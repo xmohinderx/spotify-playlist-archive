@@ -2748,6 +2748,24 @@
     },
     {
       "album": {
+        "name": "If We Get Caught",
+        "url": "https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194651,
+      "name": "If We Get Caught",
+      "url": "https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u"
+    },
+    {
+      "album": {
         "name": "IM NOT SORRY",
         "url": "https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC"
       },
@@ -5637,6 +5655,24 @@
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
+    },
+    {
+      "album": {
+        "name": "Think Big",
+        "url": "https://open.spotify.com/album/5g1cXHCYzolOF8JiKd5C5v"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Think Big",
+      "url": "https://open.spotify.com/track/4lX4jH7rruAPMuOwdSOaH9"
     },
     {
       "album": {

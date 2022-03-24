@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 249832,
+  "num_followers": 250015,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk5NjkxOCwwMDAwMDAwMGQxMzY3NmI1YTYzZDA2MjIzMzE5OGViM2I4YTAyMDM2",
+  "snapshot_id": "MTY0ODA4MzAzNiwwMDAwMDAwMGUxMjMyOTM0Yzk1ZGVhN2IzYjRiZGQ3MzVmYjJlZTYx",
   "tracks": [
     {
       "added_at": "2022-03-22 17:52:40",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-22 17:52:40",
       "album": {
-        "name": "Community Spirit",
-        "url": "https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 224119,
-      "name": "Not Your Summer",
-      "url": "https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa"
-    },
-    {
-      "added_at": "2022-03-22 17:52:40",
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2022-03-22 17:52:40",
       "album": {
-        "name": "Boys Cry",
-        "url": "https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp"
+        "name": "Community Spirit",
+        "url": "https://open.spotify.com/album/6sZWhOHdFpgAZSdR8NJwTe"
       },
       "artists": [
         {
-          "name": "Oscar Scheller",
-          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 212252,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/7paJq7qC0xBrgoHV887VEG"
+      "duration_ms": 224119,
+      "name": "Not Your Summer",
+      "url": "https://open.spotify.com/track/0TGNIoCn8bQJyN6AIT0fOa"
     },
     {
       "added_at": "2022-03-22 17:52:40",
@@ -327,6 +311,22 @@
       "duration_ms": 226610,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
+    },
+    {
+      "added_at": "2022-03-22 17:52:40",
+      "album": {
+        "name": "Boys Cry",
+        "url": "https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "duration_ms": 212252,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/7paJq7qC0xBrgoHV887VEG"
     },
     {
       "added_at": "2022-03-22 17:52:40",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-03-22 17:52:40",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ"
-    },
-    {
-      "added_at": "2022-03-22 17:52:40",
-      "album": {
         "name": "The Shave Experiment (Director's Cut)",
         "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 140188,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/1QhgiugfuhT7f515ETBqCm"
+    },
+    {
+      "added_at": "2022-03-22 17:52:40",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ"
     },
     {
       "added_at": "2022-03-22 17:52:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-22 17:52:40",
       "album": {
-        "name": "I'll Get By",
-        "url": "https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150106,
-      "name": "I'll Get By",
-      "url": "https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ"
-    },
-    {
-      "added_at": "2022-03-22 17:52:40",
-      "album": {
         "name": "Kids (Don\u2019t End Up Like Me)",
         "url": "https://open.spotify.com/album/47RlVIsoWC6hL0N1nYiNUw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197880,
       "name": "Sick",
       "url": "https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P"
+    },
+    {
+      "added_at": "2022-03-22 17:52:40",
+      "album": {
+        "name": "I'll Get By",
+        "url": "https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150106,
+      "name": "I'll Get By",
+      "url": "https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ"
     },
     {
       "added_at": "2022-03-22 17:52:40",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-03-22 17:52:40",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN"
-    },
-    {
-      "added_at": "2022-03-22 17:52:40",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "added_at": "2022-03-22 17:52:40",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN"
     },
     {
       "added_at": "2022-03-22 17:52:40",
