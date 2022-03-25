@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Música Mexicana hits of today! The playlist sin fronteras\. Cover: Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,824,452 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,824,616 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 84 | [La Cabrona](https://open.spotify.com/track/5yNk9vdrUkNzUuAsElwd2k) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [La Cabrona](https://open.spotify.com/album/4Vq7B4CKTu6pHH1BxX8l75) | 2:31 |
 | 85 | [Hay Que Brindar \(En Vivo\)](https://open.spotify.com/track/1taKZ8KtQxp55AJWR6ziBP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Hay Que Brindar \(En Vivo\)](https://open.spotify.com/album/46U0OPt1e7Iw18skESGmw0) | 3:38 |
 
-Snapshot ID: `MTY0ODA4MzUxOCwwMDAwMDAwMDNiNWIwZjIzZjZjNGFlNDQ2YmUwMGUxMzU0MjcxMDk2`
+Snapshot ID: `MTY0ODE2OTcyNywwMDAwMDAwMDNiNWIwZjIzZjZjNGFlNDQ2YmUwMGUxMzU0MjcxMDk2`

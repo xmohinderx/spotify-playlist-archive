@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,322 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,497 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 |
 | 50 | [Nothing Better](https://open.spotify.com/track/1oqniN5rzgvhAWoq4HgY2W) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Nothing Better](https://open.spotify.com/album/3Hg4lAQWbxSJTnblm1jsS8) | 3:38 |
 
-Snapshot ID: `MTY0ODA4MzM1MiwwMDAwMDAwMGExY2VjZmIzM2IxZWI1ZTFmZGFjNjA3NTdiZGI4ZGRk`
+Snapshot ID: `MTY0ODE2OTU2MywwMDAwMDAwMGExY2VjZmIzM2IxZWI1ZTFmZGFjNjA3NTdiZGI4ZGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,323 likes - 156 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,651 likes - 156 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 155 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 | 156 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 
-Snapshot ID: `MTY0ODA4MzI0MCwwMDAwMDAwMDE1OWRkMDA5MGY0NjY5NjdiZjExNGIxZDRjM2IxOTVl`
+Snapshot ID: `MTY0ODE2OTQ1MCwwMDAwMDAwMDE1OWRkMDA5MGY0NjY5NjdiZjExNGIxZDRjM2IxOTVl`

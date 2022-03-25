@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,086 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,304 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Evaporate](https://open.spotify.com/track/53mkH3YBERbdpBNte7hlb7) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/5Y88pvJ3kx62BkJ15E16Vs) | 5:53 |
 | 100 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 |
 
-Snapshot ID: `MTY0ODA4MzYwMCwwMDAwMDAwMGE5MDhjMTFhNjI2NTM5ZTIxYWU4YTViNjI4ZGJmNDAx`
+Snapshot ID: `MTY0ODE2OTgxMSwwMDAwMDAwMGE5MDhjMTFhNjI2NTM5ZTIxYWU4YTViNjI4ZGJmNDAx`

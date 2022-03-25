@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,044 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,089 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [With Body and Soul \(feat\. Emmylou Harris, Tom Gray, John Starling\)](https://open.spotify.com/track/4SiS7LvF6n8WnW5ZeB4RfL) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Tom Gray](https://open.spotify.com/artist/2434vw9EkATF9WgATK7V0g), [John Starling](https://open.spotify.com/artist/5WNmvkYvn4ua4IAM1xHbzk) | [Long Time..\. Seldom Scene](https://open.spotify.com/album/4mOall8iANwKOGCcIvUcgw) | 3:21 |
 | 100 | [Mule](https://open.spotify.com/track/3gDTqq3iQorFpb5Zi5wJM9) | [Danny Barnes](https://open.spotify.com/artist/0DhucXNLPVQdnrfuKZva7h) | [Man On Fire](https://open.spotify.com/album/3AtOkjs6sAQrLC9Pt0hiEJ) | 4:28 |
 
-Snapshot ID: `MTY0ODA4MzQ4NywwMDAwMDAwMDY3NGMzNTNiZTk3YWNiMTQ5NDkyN2JkNTk4NDllZDFl`
+Snapshot ID: `MTY0ODE2OTY5NCwwMDAwMDAwMDY3NGMzNTNiZTk3YWNiMTQ5NDkyN2JkNTk4NDllZDFl`

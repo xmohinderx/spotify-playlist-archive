@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,205 likes - 130 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,320 likes - 130 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [Gordian Naught](https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/4NZVjgBQQw9iscGkydO5J2) | 4:48 |
 | 130 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 |
 
-Snapshot ID: `MTY0ODA4MzM2MSwwMDAwMDAwMDYxNWRiZDM1OTVlMWQ3ZDk2ODgxNmVhMTQ5NTNmMGUy`
+Snapshot ID: `MTY0ODE2OTU3MiwwMDAwMDAwMDYxNWRiZDM1OTVlMWQ3ZDk2ODgxNmVhMTQ5NTNmMGUy`

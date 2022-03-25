@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Soulful & gritty with more bars than the Mars factory, welcome to The Skate Shop
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,321 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,828 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [All Bidness](https://open.spotify.com/track/0qYSIdzs22OZre2O1C961Y) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Tha Wolf On Wall St](https://open.spotify.com/album/41bBQZueZm6V7ellQ37jAA) | 4:16 |
 | 100 | [Teriyaki](https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Teriyaki](https://open.spotify.com/album/6w7cg9sdj8gwmi27nvGoOQ) | 2:56 |
 
-Snapshot ID: `MTY0ODA4MzI0NSwwMDAwMDAwMGI5OTdjZWM5NmQyMjRiMTYyZTI1ZmQwNWY1ZWNjNzAw`
+Snapshot ID: `MTY0ODE2OTQ1NCwwMDAwMDAwMGI5OTdjZWM5NmQyMjRiMTYyZTI1ZmQwNWY1ZWNjNzAw`

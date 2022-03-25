@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,968 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,980 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Vi har iallafall inte tråkigt](https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Vi har iallafall inte tråkigt](https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY) | 2:40 |
 | 100 | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/album/5rdfKaVdj9wKhRkPq0iBVE) | 4:12 |
 
-Snapshot ID: `MTY0ODA4MzE5MCwwMDAwMDAwMDE4MDE0NTBhNjI3MzlkNDJhZDk4N2E2OTk4MDViYTk0`
+Snapshot ID: `MTY0ODE2OTQwMCwwMDAwMDAwMDI2NTEyZmU3MDAxOTNjNDA5M2UwZTQxMWFlMTdlNDIz`

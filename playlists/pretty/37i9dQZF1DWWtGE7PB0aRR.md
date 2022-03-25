@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Robin Trower
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,831 likes - 65 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,880 likes - 65 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 |
 | 65 | [Shapes of Things](https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 3:17 |
 
-Snapshot ID: `MTY0ODA4MzA3MCwwMDAwMDAwMGRmZTY5NGVmYWI5YTg0ODJmNmQzYzc1MDJkNmRlYTMz`
+Snapshot ID: `MTY0ODE2OTI4NCwwMDAwMDAwMGRmZTY5NGVmYWI5YTg0ODJmNmQzYzc1MDJkNmRlYTMz`

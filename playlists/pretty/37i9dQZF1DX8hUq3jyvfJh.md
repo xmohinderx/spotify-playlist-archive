@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > LUDMILLA e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,630 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,532 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Start](https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Cravo & Rosa](https://open.spotify.com/artist/7CZY4fkg3glgemUoc8fOcJ) | [Quartzo](https://open.spotify.com/album/3go0N6khdsiwn2msqeBno6) | 3:16 |
 | 50 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
 
-Snapshot ID: `MTY0ODA4MzQ0NSwwMDAwMDAwMDllNjM4NGVmODA5M2VlM2U1OTg2OTg0NjdmOWVlZjFj`
+Snapshot ID: `MTY0ODE2OTY1NCwwMDAwMDAwMDQzNGU2MmUyOGI5OGZhZWZlYzY2N2QwODkzNTM5YWI0`

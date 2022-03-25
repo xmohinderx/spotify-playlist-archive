@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,248 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,452 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [The Sound \(feat\. JUSTN X\)](https://open.spotify.com/track/6Gevh0EzBnahkjKJnwaed6) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [JUSTN X](https://open.spotify.com/artist/6a6XPqUW48oSQbIylizF5i) | [The Sound \(feat\. JUSTN X\)](https://open.spotify.com/album/2yXP0KBNYnEKQTqZIcvVJu) | 2:28 |
 | 60 | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Pop Off \(feat\. Lost Boy\)](https://open.spotify.com/album/0kTaLBMa8idvVsB26NVtoV) | 2:26 |
 
-Snapshot ID: `MTY0ODA4MzQ1OSwwMDAwMDAwMDNhYzgwMDU2NDFhNGE4ODE0YzAxYWM3ZDU3NDk4ZDZm`
+Snapshot ID: `MTY0ODE2OTY2OCwwMDAwMDAwMDNhYzgwMDU2NDFhNGE4ODE0YzAxYWM3ZDU3NDk4ZDZm`

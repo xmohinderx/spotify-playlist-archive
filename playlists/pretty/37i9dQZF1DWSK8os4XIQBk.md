@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Steven Lee Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,797 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,814 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 98 | [Devil in a Bottle](https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Devil in a Bottle](https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc) | 3:47 |
 | 99 | [Blindspot](https://open.spotify.com/track/7esYMuwrOfO33o1wGP8WHK) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI) | [6 Songs to Midnight](https://open.spotify.com/album/3ByapYH3dkjtEmc868ucv8) | 2:42 |
 
-Snapshot ID: `MTY0NzYzMTg4NSwwMDAwMDM2NTAwMDAwMTdmOWU4MzY0ZjUwMDAwMDE3Zjk0MDcxODUx`
+Snapshot ID: `MTY0ODEzNTEyNiwwMDAwMDM2NjAwMDAwMTdmYmM4MjNkOGMwMDAwMDE3Zjk0MDcxODUx`

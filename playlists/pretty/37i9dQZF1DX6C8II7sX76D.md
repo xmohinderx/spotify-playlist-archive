@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,754 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,091 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Я буду ебать](https://open.spotify.com/track/3lFrFQcZWPLa8WEG7xoc4b) | [Moreart](https://open.spotify.com/artist/3IuK4FcT3hsjH1GbqHEb9j), [IHI](https://open.spotify.com/artist/0bcKHsji3iZ7gIayl43Xan) | [Я буду ебать](https://open.spotify.com/album/7KmkBV5L8rYExv79lF7Pxp) | 2:21 |
 | 50 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 
-Snapshot ID: `MTY0ODA4MzM2NywwMDAwMDAwMDU1ZmE0NTRjNzdiOTQzYWMyNTcyYjg2MTRhYTNhNjQ5`
+Snapshot ID: `MTY0ODE2OTU3OCwwMDAwMDAwMDU1ZmE0NTRjNzdiOTQzYWMyNTcyYjg2MTRhYTNhNjQ5`

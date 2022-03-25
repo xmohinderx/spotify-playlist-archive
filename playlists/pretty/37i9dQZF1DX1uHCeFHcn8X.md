@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,911 likes - 250 songs - 15 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,872 likes - 250 songs - 15 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
 | 250 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 
-Snapshot ID: `MTY0ODA4MzIzMCwwMDAwMDAwMGFlYzllNjA5MWQ3YmQ0Y2ZmZjUyNGFiODkxZDkxMGVm`
+Snapshot ID: `MTY0ODE2OTQzOSwwMDAwMDAwMGFlYzllNjA5MWQ3YmQ0Y2ZmZjUyNGFiODkxZDkxMGVm`

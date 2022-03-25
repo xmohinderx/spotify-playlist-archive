@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Trap Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,187 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,223 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 68 | [Reminded](https://open.spotify.com/track/5MoYcdxHSgIxJK03vSUFey) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [Reminded](https://open.spotify.com/album/1i5FTTaYgGD8IFBRPiX8Xi) | 2:52 |
 | 69 | [Out My Mind](https://open.spotify.com/track/1e6mDNnl7rF3ozf1OpWhZa) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Out My Mind](https://open.spotify.com/album/1Q5G8OllXFVel0CzOXnbS7) | 2:18 |
 
-Snapshot ID: `MTY0ODA4MzIwMywwMDAwMDAwMDBkZTQ1OTZlNGQ5YWUxZTg4Y2UzZDU1ZWY0MmNjZWM5`
+Snapshot ID: `MTY0ODE2OTQxMiwwMDAwMDAwMDBkZTQ1OTZlNGQ5YWUxZTg4Y2UzZDU1ZWY0MmNjZWM5`

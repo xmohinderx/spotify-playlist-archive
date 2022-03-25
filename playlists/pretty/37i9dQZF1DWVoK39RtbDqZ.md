@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoK39RtbDqZ.md) - [plain]
 
 > Environmental compositions bringing together the worlds of field recording and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,370 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,406 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoK39RtbDqZ.md) - [plain]
 | 79 | [Shrine \(Still Life With Glass Bottle, Flower and Microphone\)](https://open.spotify.com/track/3h3QqtD9LxZWeoM4Pik5qN) | [Marja Ahti](https://open.spotify.com/artist/2KaOFH64b8IFQJyVthWLll) | [Still Lives](https://open.spotify.com/album/0Rh9B4Cgu9FDXxVMDY1nYs) | 5:09 |
 | 80 | [Discrete \(The Market\)](https://open.spotify.com/track/0PCgqohjmihlrkkyrOkIS7) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0JqII2rTqN5dOuv778ayhJ) | 6:34 |
 
-Snapshot ID: `MTY0ODA4MzAzMSwwMDAwMDAwMDNmZDc1MjBjMjBkMGQ0ZDZmZGI0ZTIyODYyZjhkNjEw`
+Snapshot ID: `MTY0ODE2OTI0NiwwMDAwMDAwMGQ2ZTgzYzJhMDM4NDVmOGY3NmJkMWYxMWIwZGZlODNl`

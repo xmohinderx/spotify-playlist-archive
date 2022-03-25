@@ -3700,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "lining the cloud",
+        "url": "https://open.spotify.com/album/0BmNMIxXMh3QwIjDur3mZG"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152485,
+      "name": "lining the cloud",
+      "url": "https://open.spotify.com/track/2UPZhccmKlfIV1oWZxDhXN"
+    },
+    {
+      "album": {
         "name": "Stories From Elsewhere",
         "url": "https://open.spotify.com/album/415i3x5EwVM58FG06K0WlS"
       },
@@ -4385,6 +4403,24 @@
       "duration_ms": 171613,
       "name": "My World Is Changing",
       "url": "https://open.spotify.com/track/3tlfW4oTd2nNQVD6SNMc91"
+    },
+    {
+      "album": {
+        "name": "Hv\u00edtserkur",
+        "url": "https://open.spotify.com/album/5yEeoWMXD3Z1GNC6ADnhO6"
+      },
+      "artists": [
+        {
+          "name": "Haltura Arnadottir",
+          "url": "https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "M\u00fdvatn",
+      "url": "https://open.spotify.com/track/4BLroGG5pTJwGui3vurqql"
     },
     {
       "album": {

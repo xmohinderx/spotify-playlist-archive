@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Amo",
+        "url": "https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188776,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/422lbxDt4LGd8EvqwNLLq9"
+    },
+    {
+      "album": {
         "name": "DEJAVU",
         "url": "https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx"
       },
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 177802,
       "name": "ANARKI (Intro)",
       "url": "https://open.spotify.com/track/1jGrLbNXSl6WQFTgn91Zxl"
@@ -429,10 +447,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 173509,
       "name": "Aurinho",
       "url": "https://open.spotify.com/track/07ULdTS8i7EmTv6235EVfK"
+    },
+    {
+      "album": {
+        "name": "AYE",
+        "url": "https://open.spotify.com/album/1Fv76NDmDuQVZwW4NMOOI8"
+      },
+      "artists": [
+        {
+          "name": "Macky",
+          "url": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145871,
+      "name": "AYE",
+      "url": "https://open.spotify.com/track/6Gtyvsh8AOGGuO5mpcriS5"
     },
     {
       "album": {
@@ -645,7 +681,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 135000,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID"
@@ -836,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Coca Cola (feat. Greekazo)",
+        "url": "https://open.spotify.com/album/58RhlH18p4imaWDVEN45bC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142687,
+      "name": "Coca Cola (feat. Greekazo)",
+      "url": "https://open.spotify.com/track/1iVDF9OECddDwnBVkP0zrk"
+    },
+    {
+      "album": {
         "name": "COME MY WAY (D1MA X VC Barre)",
         "url": "https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi"
       },
@@ -1019,7 +1073,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 155558,
       "name": "Dikembe Mutombo",
       "url": "https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP"
@@ -1063,7 +1117,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 135861,
       "name": "DJ\u00c4VULEN ELLER JAG",
       "url": "https://open.spotify.com/track/1NTnTGBvViL9wlG3YTKkux"
@@ -1244,6 +1298,24 @@
     },
     {
       "album": {
+        "name": "Eywah",
+        "url": "https://open.spotify.com/album/118qcA7hZCrqUkJDMpUZNp"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134003,
+      "name": "Eywah",
+      "url": "https://open.spotify.com/track/79Kjd4UfzhR1VkRHRDYV2t"
+    },
+    {
+      "album": {
         "name": "F*CK MINA OPPS",
         "url": "https://open.spotify.com/album/3U29jASVemqFqtaviWlnfI"
       },
@@ -1259,6 +1331,28 @@
       "duration_ms": 144000,
       "name": "F*CK MINA OPPS",
       "url": "https://open.spotify.com/track/02g6wZQZ0cByIqVgjSHBzy"
+    },
+    {
+      "album": {
+        "name": "FAKKA UR",
+        "url": "https://open.spotify.com/album/59GopT59Iddwz6PtVi05LH"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132682,
+      "name": "FAKKA UR",
+      "url": "https://open.spotify.com/track/0pmtQ4i3MxdWeqnZtrLOuA"
     },
     {
       "album": {
@@ -1379,6 +1473,32 @@
       "duration_ms": 209164,
       "name": "Fastna",
       "url": "https://open.spotify.com/track/0e9OD1TSS0d7rwb86TdDLD"
+    },
+    {
+      "album": {
+        "name": "Feelar (Remix)",
+        "url": "https://open.spotify.com/album/6fWQAo0qJax6EmLsECgrTK"
+      },
+      "artists": [
+        {
+          "name": "Mokke",
+          "url": "https://open.spotify.com/artist/1miuiUk8Xya3zRHZzqAYAW"
+        },
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "Feelar - Remix",
+      "url": "https://open.spotify.com/track/3PlZHzd7NGLJvW7dKsnq1j"
     },
     {
       "album": {
@@ -1514,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6rst\u00e5 Mig",
+        "url": "https://open.spotify.com/album/37JRDrV3GVedifYAwx32HO"
+      },
+      "artists": [
+        {
+          "name": "Jashua K",
+          "url": "https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "F\u00f6rst\u00e5 Mig",
+      "url": "https://open.spotify.com/track/5B8djcGqRbS0aUJXMUvBGr"
+    },
+    {
+      "album": {
         "name": "G-CODE",
         "url": "https://open.spotify.com/album/2iq0rnASwKLB5xlTzVedGp"
       },
@@ -1623,7 +1761,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 180923,
       "name": "Gelatin",
       "url": "https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL"
@@ -1820,6 +1958,28 @@
     },
     {
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/2KyOs1fncVeyUX3qc3IytV"
+      },
+      "artists": [
+        {
+          "name": "C3 Too Loose",
+          "url": "https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA"
+        },
+        {
+          "name": "Primo Beats",
+          "url": "https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/1eYsZaXm9dwOduVcsDucjB"
+    },
+    {
+      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/3LgXFc6nP5eIqMvOYgMlE6"
       },
@@ -1875,7 +2035,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 150216,
       "name": "Hood Party",
       "url": "https://open.spotify.com/track/72hHT9csJqUN3ZvBxWd8W5"
@@ -1915,7 +2075,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 127089,
       "name": "Hunger Games",
       "url": "https://open.spotify.com/track/0SIiyWC3DWdR31j4M7CTdF"
@@ -2257,7 +2417,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 144123,
       "name": "KARANT\u00c4N",
       "url": "https://open.spotify.com/track/505kSNIUlxBUiDIgP2JFsz"
@@ -2620,6 +2780,24 @@
     },
     {
       "album": {
+        "name": "Lyssna",
+        "url": "https://open.spotify.com/album/2HrB2P1OVp0XpYn3ZPUbXF"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139393,
+      "name": "Lyssna",
+      "url": "https://open.spotify.com/track/4g5Lzk6B5DnAqA8iPto1f5"
+    },
+    {
+      "album": {
         "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
         "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"
       },
@@ -2913,7 +3091,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 127947,
       "name": "Milli",
       "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
@@ -2993,7 +3171,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 141764,
       "name": "Min Tid",
       "url": "https://open.spotify.com/track/6RAKfOFmUcFJP96OkmYiPL"
@@ -3222,6 +3400,24 @@
     },
     {
       "album": {
+        "name": "OH OH",
+        "url": "https://open.spotify.com/album/33qHqxfP0PfWjqKzfcUG3Q"
+      },
+      "artists": [
+        {
+          "name": "Fl4ppie",
+          "url": "https://open.spotify.com/artist/2Mc2vYVF2Mta7gBwhgc716"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147109,
+      "name": "OH OH",
+      "url": "https://open.spotify.com/track/55wgQM8KMi2vExJ5v7mDwV"
+    },
+    {
+      "album": {
         "name": "Omr\u00e5det",
         "url": "https://open.spotify.com/album/4h86rIg3Evn1bmrhnRTHmI"
       },
@@ -3407,7 +3603,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 126774,
       "name": "Pompeji",
       "url": "https://open.spotify.com/track/34s3YjW9iYYAxlSjGYLD2x"
@@ -3505,7 +3701,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 145333,
       "name": "R2D",
       "url": "https://open.spotify.com/track/3SClMZgefvLryRNC8lziLf"
@@ -3918,6 +4114,24 @@
     },
     {
       "album": {
+        "name": "SooYs",
+        "url": "https://open.spotify.com/album/6RrhFZOEy4qD3K9WtSP8Wy"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154761,
+      "name": "SooYs",
+      "url": "https://open.spotify.com/track/4ubIs1XE6iHqi8UbI5Xz7g"
+    },
+    {
+      "album": {
         "name": "CHASE THE BABY",
         "url": "https://open.spotify.com/album/5RLd6S0wRY2YDNuLtdIR99"
       },
@@ -3985,7 +4199,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 151603,
       "name": "SPRIT & KNARK",
       "url": "https://open.spotify.com/track/4gWZK1DGIxSwo1gzRXyq5v"
@@ -4039,7 +4253,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 190869,
       "name": "Storm",
       "url": "https://open.spotify.com/track/6nNxpXPvbZGP0cPunh7JQS"
@@ -4155,7 +4369,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 125165,
       "name": "SYNDROMET TAKEOVER",
       "url": "https://open.spotify.com/track/0qIsziO7hb197jtR4Ar9oV"
@@ -4191,7 +4405,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 124705,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/6jPl7GZeCsfatf2tQZC8hv"
@@ -4209,7 +4423,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 160421,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/0xcMGWAdU3Z7hIn3867I3c"
@@ -4297,7 +4511,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 135000,
       "name": "TBX",
       "url": "https://open.spotify.com/track/56pC18AuAtMsZ9v9Zvlawk"
@@ -4482,6 +4696,24 @@
     },
     {
       "album": {
+        "name": "TRYCKA AV",
+        "url": "https://open.spotify.com/album/4ugkgsFa5SMebEFI7x2paf"
+      },
+      "artists": [
+        {
+          "name": "Kev1n",
+          "url": "https://open.spotify.com/artist/1IyxRn0N23zPoQNCp2Keap"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "TRYCKA AV",
+      "url": "https://open.spotify.com/track/4QtKYs6PFoueIfkf0J6PJY"
+    },
+    {
+      "album": {
         "name": "MP3",
         "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
       },
@@ -4569,7 +4801,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 182000,
       "name": "VCFlow",
       "url": "https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od"
@@ -4635,6 +4867,24 @@
       "duration_ms": 144133,
       "name": "VitaminW",
       "url": "https://open.spotify.com/track/6xtS6yo7Zc4wvN01Qnbsqj"
+    },
+    {
+      "album": {
+        "name": "V\u00c4GSP\u00c4RR",
+        "url": "https://open.spotify.com/album/7fYJJ2AOkkl2l83xH3DXg5"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200555,
+      "name": "V\u00c4GSP\u00c4RR",
+      "url": "https://open.spotify.com/track/0kJ7Ji6FiHR3dtOAr4tdd1"
     },
     {
       "album": {
@@ -4769,6 +5019,24 @@
       "duration_ms": 150000,
       "name": "Young 22",
       "url": "https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD"
+    },
+    {
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/3Yo9TFSeGrUPaXqEo81P2l"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7tuPdKiqInoAO6LJ0rN5YQ"
     },
     {
       "album": {

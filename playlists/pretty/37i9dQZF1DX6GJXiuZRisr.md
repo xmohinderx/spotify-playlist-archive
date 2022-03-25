@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,628 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,187 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [bygones](https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [bygones](https://open.spotify.com/album/5v0F0Z4KcAM9yqkPc8fsNh) | 3:15 |
 | 100 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 |
 
-Snapshot ID: `MTY0ODA4MzM3MCwwMDAwMDAwMDk5NDk1NWVmNWRkMjBhNDJlMzgwNGVhNDJjYTAwMjk4`
+Snapshot ID: `MTY0ODE2OTU4MSwwMDAwMDAwMDk5NDk1NWVmNWRkMjBhNDJlMzgwNGVhNDJjYTAwMjk4`

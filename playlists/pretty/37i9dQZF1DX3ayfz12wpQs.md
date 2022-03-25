@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 
 > Sunny chill songs and that beach vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,052 likes - 68 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,062 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 | 67 | [Exodus](https://open.spotify.com/track/1fQxtJ2yrBn6l20VVuGuJF) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 7:40 |
 | 68 | [Kaya](https://open.spotify.com/track/1rAAub2bS5jlu1FBwROU3K) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:15 |
 
-Snapshot ID: `MTY0ODA4MzI4NSwwMDAwMDAwMGY2NzU3ZGFhYzU5NmU4NzYyZjM4NjY3ZjE0NjQ2NGZh`
+Snapshot ID: `MTY0ODE2OTQ5NSwwMDAwMDAwMGY2NzU3ZGFhYzU5NmU4NzYyZjM4NjY3ZjE0NjQ2NGZh`

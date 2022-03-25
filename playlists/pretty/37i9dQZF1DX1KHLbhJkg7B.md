@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\.  Cover: Garth Brooks and Trisha Yearwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,554 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,617 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 |
 | 100 | [Prop Me Up Beside The Jukebox \(If I Die\)](https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 3:48 |
 
-Snapshot ID: `MTY0ODA4MzIwOSwwMDAwMDAwMGUzNTFkZmJkYTEwODBiNjg1OGQ0MDc3NWQwNTkzNWE0`
+Snapshot ID: `MTY0ODE2OTQxOSwwMDAwMDAwMGUzNTFkZmJkYTEwODBiNjg1OGQ0MDc3NWQwNTkzNWE0`

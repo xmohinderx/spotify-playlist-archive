@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo calor latino está aqui! 🔥 Foto: GIULIA BE
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,119 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,226 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [Balance](https://open.spotify.com/track/5CCwiWnf0TP0vtYv4TBvWv) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Balance](https://open.spotify.com/album/4hW18Z6rea01280WSafLt8) | 2:26 |
 | 75 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 |
 
-Snapshot ID: `MTY0ODA4MzQxMywwMDAwMDAwMDAzOGQ0MTY3MGU4NTQ0OWI5ZTk2MDk5MjBjMzA0Y2M0`
+Snapshot ID: `MTY0ODE2OTYyMywwMDAwMDAwMDAzOGQ0MTY3MGU4NTQ0OWI5ZTk2MDk5MjBjMzA0Y2M0`

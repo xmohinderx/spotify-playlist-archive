@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,136 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,210 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 64 | [Summerbreeze](https://open.spotify.com/track/1KXFkPjqBiOJzm8lk2Zrjz) | [Mative](https://open.spotify.com/artist/2HqeAlknsWkZNva1RsII8U) | [Summerbreeze](https://open.spotify.com/album/6zgDETRt2rzi2tOQwQZ6jV) | 1:50 |
 | 65 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 |
 
-Snapshot ID: `MTY0ODA4MzA1NSwwMDAwMDAwMGFkMDE2M2EwZDhlOTlmMzE3ZTA4Yzg3MjM0NTI0OGNl`
+Snapshot ID: `MTY0ODE2OTI3MCwwMDAwMDAwMGFkMDE2M2EwZDhlOTlmMzE3ZTA4Yzg3MjM0NTI0OGNl`

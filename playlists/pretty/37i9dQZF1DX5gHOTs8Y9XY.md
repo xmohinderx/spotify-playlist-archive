@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > An introduction to the beauty of jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,072 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,297 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [Come Rain or Come Shine](https://open.spotify.com/track/3aVYJ1IPXaWAA24pRE2BQX) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Milestones of a Legend: Sammy Davis Jr., Vol\. 1](https://open.spotify.com/album/0ygYq42Zni7UTDtdlXlfSp) | 3:43 |
 | 100 | [Body And Soul](https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 3:15 |
 
-Snapshot ID: `MTY0ODA4MzM1MSwwMDAwMDAwMDA5ODY0MWU2YTEzNjQ5ZTU4ZjA0MTc4ZjlmZmU0NTg2`
+Snapshot ID: `MTY0ODE2OTU2MiwwMDAwMDAwMDA5ODY0MWU2YTEzNjQ5ZTU4ZjA0MTc4ZjlmZmU0NTg2`

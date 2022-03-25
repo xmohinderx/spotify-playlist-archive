@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,030 likes - 126 songs - 7 hr 58 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,030 likes - 133 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,15 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 121 | [Enter Martian Pedestrian](https://open.spotify.com/track/4gZoYIiqL4sJKbY9zrP1s6) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [Enter Martian Pedestrian](https://open.spotify.com/album/5r1bdOZBr2fbYWZyDdeXHK) | 5:24 |
 | 122 | [5683](https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP) | [5683](https://open.spotify.com/album/6ANMAvzqKaD6iOuLhuWJoL) | 3:13 |
 | 123 | [LAY WITH ME \(REMIX\)](https://open.spotify.com/track/3LbyMox8uvUT1uX6OSSNXZ) | [BAM.](https://open.spotify.com/artist/4b6sRvbiJdiUvlEMGx4TjX) | [SEXTAPE \(DELUXE\)](https://open.spotify.com/album/3QaHKMwrqImPnxzZvfqRcD) | 3:00 |
-| 124 | [Tempo](https://open.spotify.com/track/0EpF9ueIy6tG0cnk0r3HXf) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5), [Tony Cardinal](https://open.spotify.com/artist/5pPrK8OjAUiZH4ELm9EiA7) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:08 |
-| 125 | [Just Listen](https://open.spotify.com/track/5YVJEcClByWmKj8DakxL08) | [Partial Sum](https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w) | [Just Listen](https://open.spotify.com/album/1QkCknre3jUmOp3u5NdIEp) | 3:48 |
-| 126 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 |
+| 124 | [Sirens Found Me](https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67) | [Sean Hartofilis](https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA) | [Seas](https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V) | 3:41 |
+| 125 | [Mañanas de Cristal](https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mañanas de Cristal](https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C) | 3:48 |
+| 126 | [It Will Happen](https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [It Will Happen](https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x) | 2:31 |
+| 127 | [All Alone](https://open.spotify.com/track/30TJfcL9CThxV59oQNDn5z) | [Lazz](https://open.spotify.com/artist/5MQbx82uV5IHs6A2kEhwpd) | [All Alone](https://open.spotify.com/album/4GUVHqPWHZ9annyGjQ9lon) | 1:59 |
+| 128 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 |
+| 129 | [Tempo](https://open.spotify.com/track/0EpF9ueIy6tG0cnk0r3HXf) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5), [Tony Cardinal](https://open.spotify.com/artist/5pPrK8OjAUiZH4ELm9EiA7) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:08 |
+| 130 | [Routine](https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m) | [Sim Paul](https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC) | [SADBOIBURNERACCOUNT](https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa) | 2:24 |
+| 131 | [Just Listen](https://open.spotify.com/track/5YVJEcClByWmKj8DakxL08) | [Partial Sum](https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w) | [Just Listen](https://open.spotify.com/album/1QkCknre3jUmOp3u5NdIEp) | 3:48 |
+| 132 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
+| 133 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 |
 
-Snapshot ID: `MjY0MyxhNGE5Y2EzMDE4NzRlMjhkYjdmMGQ2NWE1MGU4ODNhNmQ2NWJhMDhm`
+Snapshot ID: `MjY1MCw2NDYzNTFjZjdiYjIwYjY0YjY0Njc3YTMwM2Y5NGMwYzMwMmQ1ZmM0`

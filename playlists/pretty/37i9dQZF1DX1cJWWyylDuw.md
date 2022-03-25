@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Last Ten Seconds of Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,984 likes - 120 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,134 likes - 120 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [The Blvck Sun \|](https://open.spotify.com/track/43GeseGjfyB4RWH4Dhhv4E) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [The Blvck Sun \|](https://open.spotify.com/album/2ohfUODwY6bkItYtk41nP0) | 4:49 |
 | 120 | [Vagabond](https://open.spotify.com/track/4EFuZ53kf1sFPonGzm91Tn) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Vagabond](https://open.spotify.com/album/6S1zbRqOtLompF42QCyA0N) | 3:11 |
 
-Snapshot ID: `MTY0ODA4MzIxOSwwMDAwMDAwMGVkOTdjMDBiN2VlODU4MTNiNzFjYzhjYTczNWRjMGI5`
+Snapshot ID: `MTY0ODE2OTQyOCwwMDAwMDAwMGVkOTdjMDBiN2VlODU4MTNiNzFjYzhjYTczNWRjMGI5`

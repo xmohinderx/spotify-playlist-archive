@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,491 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,640 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 |
 | 100 | [When I´m Still Getting Over You \(feat\. Paige\)](https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [When I´m Still Getting Over You \(feat\. Paige\)](https://open.spotify.com/album/22DgDTv6KXY6rpEyFbzcPR) | 2:53 |
 
-Snapshot ID: `MTY0ODA4MzAyOSwwMDAwMDAwMDI5ZTFlMWJjZmE1NGYyZjA4NTM0YmU1OGNiZGEwNmU3`
+Snapshot ID: `MTY0ODE2OTI0NCwwMDAwMDAwMDk3OWJiMjExNWQzZjc3YzA5ZTRmZmU1ZGI5NjgzMjZl`

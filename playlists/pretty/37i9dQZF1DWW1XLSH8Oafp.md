@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring nia archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,458 likes - 105 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,010 likes - 105 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

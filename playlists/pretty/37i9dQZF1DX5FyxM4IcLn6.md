@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 63rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,164 likes - 299 songs - 21 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,157 likes - 299 songs - 21 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 298 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
 | 299 | [Who I Am](https://open.spotify.com/track/1Xb5aSausq6GIh3DOhhlDx) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 3:46 |
 
-Snapshot ID: `MTY0ODA4MzMzNiwwMDAwMDAwMGRmYWU0NDNhOWRhOTcxMjQ5YjY1NTFiNjkwOGVkZTYx`
+Snapshot ID: `MTY0ODE2OTU0NywwMDAwMDAwMGRmYWU0NDNhOWRhOTcxMjQ5YjY1NTFiNjkwOGVkZTYx`

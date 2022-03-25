@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,368 likes - 129 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,881 likes - 129 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 128 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 |
 | 129 | [The World's Smiling Now](https://open.spotify.com/track/0uih5xFdBDFIUrqqLbMbXh) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/36C2aKoHatN8ZQRmyW5z3z) | 4:53 |
 
-Snapshot ID: `MTY0ODA4MzUxNywwMDAwMDAwMDY1ZWFjYzllNTVjZDYzZTllNGNiODJjYzUzMDBjYTgw`
+Snapshot ID: `MTY0ODE2OTcyNSwwMDAwMDAwMDY1ZWFjYzllNTVjZDYzZTllNGNiODJjYzUzMDBjYTgw`

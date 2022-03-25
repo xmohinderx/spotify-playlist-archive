@@ -1,157 +1,13 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 18840,
+  "num_followers": 18923,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA4MzAxOSwwMDAwMDAwMDU4ZDRkMTYwY2FiMTliOTA1NmIwNTRiMWJlYTE4YWI5",
+  "snapshot_id": "MTY0ODE2NjQwMCwwMDAwMDAyZjAwMDAwMTdmYmU1ZjcwOGEwMDAwMDE3ZjhlNWE2MWQ1",
   "tracks": [
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Dances",
-        "url": "https://open.spotify.com/album/6rtwIMPDxFz8xPwMOBUYoE"
-      },
-      "artists": [
-        {
-          "name": "Reinartz",
-          "url": "https://open.spotify.com/artist/2NkrL5Vs3OZtvckPD0vPbg"
-        }
-      ],
-      "duration_ms": 449538,
-      "name": "A1",
-      "url": "https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Ghosts (Cv313 Re-Imagined Dub)",
-        "url": "https://open.spotify.com/album/4ZjcUNtguZ4vlINu42nCLr"
-      },
-      "artists": [
-        {
-          "name": "Om Unit",
-          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
-        },
-        {
-          "name": "Cv313",
-          "url": "https://open.spotify.com/artist/4uFSKwuGRG3kzMqXy1lZ03"
-        }
-      ],
-      "duration_ms": 672000,
-      "name": "Ghosts - Cv313 Re-Imagined Dub",
-      "url": "https://open.spotify.com/track/4jRmU7kU5pmyDqN3YIiIsi"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Contain (In Key)",
-        "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        },
-        {
-          "name": "Plastikman",
-          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
-        },
-        {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        }
-      ],
-      "duration_ms": 488706,
-      "name": "Contain (In Key)",
-      "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "CYCLES 7 \u5b97\u5f5d",
-        "url": "https://open.spotify.com/album/6Z3bAzBc8D8gT4Okjcec2g"
-      },
-      "artists": [
-        {
-          "name": "Aleksi Per\u00e4l\u00e4",
-          "url": "https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx"
-        }
-      ],
-      "duration_ms": 516000,
-      "name": "FI3AC2266010",
-      "url": "https://open.spotify.com/track/7uKSKoL10ubpCseB5jIPYq"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "White Cells",
-        "url": "https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO"
-      },
-      "artists": [
-        {
-          "name": "Stelios Vassiloudis",
-          "url": "https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn"
-        }
-      ],
-      "duration_ms": 348152,
-      "name": "White Cells",
-      "url": "https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Mixed Signals II",
-        "url": "https://open.spotify.com/album/3kf978n2Cj73i6KtV2ts6D"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Braulio Lam",
-          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/7HN4GQgB6wH0smJQacudtq"
-    },
     {
       "added_at": "2022-03-18 00:00:00",
       "album": {
@@ -1039,6 +895,30 @@
     {
       "added_at": "2022-03-18 00:00:00",
       "album": {
+        "name": "Contain (In Key)",
+        "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Contain (In Key)",
+      "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
         "name": "Silvercoat the throng",
         "url": "https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM"
       },
@@ -1799,6 +1679,22 @@
     {
       "added_at": "2022-03-18 00:00:00",
       "album": {
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/19qBP7vJMQXgn78B3LfqRN"
       },
@@ -1811,6 +1707,106 @@
       "duration_ms": 473820,
       "name": "Shortwave Memories",
       "url": "https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7wJPlHBGWBzZp6mk7xAJXa"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "duration_ms": 278974,
+      "name": "Movement Maps",
+      "url": "https://open.spotify.com/track/2eqxZLjPXF8i1xxcQsRCab"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Vergers",
+        "url": "https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 512724,
+      "name": "Ghosts and All",
+      "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Der Lange Marsch",
+        "url": "https://open.spotify.com/album/0ZjxidVJXnDaOh4w2HMQKa"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 192064,
+      "name": "Der Lange Marsch 7",
+      "url": "https://open.spotify.com/track/0G5XaZuNtWp5WAT59JZ4Cf"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9"
+      },
+      "artists": [
+        {
+          "name": "Feral",
+          "url": "https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        }
+      ],
+      "duration_ms": 401696,
+      "name": "All the Mornings in the World",
+      "url": "https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2"
     }
   ],
   "unique_name": "Electronic X",

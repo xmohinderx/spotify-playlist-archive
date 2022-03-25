@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,698 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,881 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Raining Outside](https://open.spotify.com/track/6l8Er0cKQkgreamtwBkr2j) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 4:32 |
 | 60 | [Feels Like](https://open.spotify.com/track/0toIIfv4yFxvmJKXqdkt0c) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Les Geddit](https://open.spotify.com/artist/42EKMIU9LxY94lUTBDLW4e) | [Beats On Boat: illiterate](https://open.spotify.com/album/54oaiRZEeMNtZvOhYIIG20) | 2:52 |
 
-Snapshot ID: `MTY0ODA4MzUzMywwMDAwMDAwMDBmZjE1NTZkNWVmMjkyMjEwYmRlNzgxNmNhZWEyNmM5`
+Snapshot ID: `MTY0ODE2OTc0MiwwMDAwMDAwMDBmZjE1NTZkNWVmMjkyMjEwYmRlNzgxNmNhZWEyNmM5`

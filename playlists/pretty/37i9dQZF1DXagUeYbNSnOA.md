@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Cover: Niño Etc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,949 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,055 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Entre Aguas](https://open.spotify.com/track/1EU9q3nfPzd6YN9JbBGqtR) | [vmbral](https://open.spotify.com/artist/5TtDqTTJc1Vajv66YwO4lp) | [Piramidal](https://open.spotify.com/album/5uRgJieBSoiFVMbLFnKxGf) | 5:52 |
 | 50 | [Ella](https://open.spotify.com/track/4NP6fGgGHkllbAEUBCnHOc) | [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8), [Ricky Blanco](https://open.spotify.com/artist/1opTHYMTFaZzyLYqKCAJTl) | [Ella](https://open.spotify.com/album/66fJP5SDCyDQtRmBAkyA2P) | 2:58 |
 
-Snapshot ID: `MTY0ODA4MzUwOSwwMDAwMDAwMGJmN2E4NDBhNGUxMTNhYzZmNWQwMTQ0Yzc5YjBmYzkz`
+Snapshot ID: `MTY0ODE2OTcxNywwMDAwMDAwMGJmN2E4NDBhNGUxMTNhYzZmNWQwMTQ0Yzc5YjBmYzkz`

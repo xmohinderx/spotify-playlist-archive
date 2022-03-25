@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,025 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,059 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 107 | [Revival](https://open.spotify.com/track/5pPZNwpwJWTfjI5UOOFWrH) | [SirensCeol](https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4) | [Revival](https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB) | 3:53 |
 | 108 | [R2](https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n) | [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa), [Veros](https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79) | [R2](https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4) | 3:05 |
 
-Snapshot ID: `MTY0ODA4MzM0MywwMDAwMDAwMDg1ZTFmODMwMTY3YzhiMThhYzkxNjRiMzgwYjU3NmY0`
+Snapshot ID: `MTY0ODE2OTU1NCwwMDAwMDAwMDg1ZTFmODMwMTY3YzhiMThhYzkxNjRiMzgwYjU3NmY0`

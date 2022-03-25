@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,434 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,603 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Amor De Adolescentes](https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:22 |
 | 100 | [Nunca otra historia / Soy / Tu tenías razón \- En Vivo](https://open.spotify.com/track/216M8V1qJvLCkgJg8Im5C0) | [Vanguardia](https://open.spotify.com/artist/4b8053kRI5DVOOO5lnjUqB) | [CD5 Quality Espacio Parte 1 \(En Vivo\)](https://open.spotify.com/album/4sTw5oG6E5u2QgjHMHcdNI) | 7:26 |
 
-Snapshot ID: `MTY0ODA4MzI5OCwwMDAwMDAwMGYxNjJkNTE4Y2FkOTlhNGJmM2QzYTA2OGM1NDA0MzJm`
+Snapshot ID: `MTY0ODE2OTUwOCwwMDAwMDAwMGYxNjJkNTE4Y2FkOTlhNGJmM2QzYTA2OGM1NDA0MzJm`

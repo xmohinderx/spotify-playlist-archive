@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,618 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,636 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Tru](https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Tru](https://open.spotify.com/album/24bEVRFOtWz8JgNQD07PWM) | 4:11 |
 | 50 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 
-Snapshot ID: `MTY0ODA4MzA4MCwwMDAwMDAwMDc1Mjc4NzIyNzEwZGE0N2I2OGRkYjlmMDRlZjc4NmNi`
+Snapshot ID: `MTY0ODE2OTI5NCwwMDAwMDAwMDc1Mjc4NzIyNzEwZGE0N2I2OGRkYjlmMDRlZjc4NmNi`

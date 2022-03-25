@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Duyam\u0131yorum",
+        "url": "https://open.spotify.com/album/5pQQB7NwbaJ6wNMwjxeL3Y"
+      },
+      "artists": [
+        {
+          "name": "Grena",
+          "url": "https://open.spotify.com/artist/0ew1wBEesa0J1AF4G0akH6"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Duyam\u0131yorum",
+      "url": "https://open.spotify.com/track/4CyoAIoPjVHOK8SuVevq2I"
+    },
+    {
+      "album": {
         "name": "D\u00f6nemem Hay\u0131r",
         "url": "https://open.spotify.com/album/4N2aTtvtIWIP2R8chz65KT"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 258187,
       "name": "Kadeh",
       "url": "https://open.spotify.com/track/5tukqOMacyfrlIL0mWTHhF"
@@ -1844,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "in february",
+        "url": "https://open.spotify.com/album/7embqqq2PQnFQbgzEtjo3M"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166990,
+      "name": "pineapples and lime",
+      "url": "https://open.spotify.com/track/6bmkWdR2YuSlPUPhuR7VOZ"
+    },
+    {
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/7mgKFq4vLQxgYNGOV1c4l8"
       },
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 197333,
       "name": "R\u00fcya Tamircisi",
       "url": "https://open.spotify.com/track/7ftX2ttNRMTNVUdQ9Ed1Jv"

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "18 \u00c5R (Vennepunktet)",
+        "url": "https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "18 \u00c5R (Vennepunktet)",
+      "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
+    },
+    {
+      "album": {
         "name": "20 i hue",
         "url": "https://open.spotify.com/album/3UUjJpEjmSMSTdJGy3nsXI"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 192947,
       "name": "2010",
       "url": "https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3"
@@ -313,7 +331,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 163053,
       "name": "Bjudar p\u00e5",
       "url": "https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 154433,
       "name": "Polisen",
       "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
@@ -2655,6 +2673,14 @@
       },
       "artists": [
         {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Morten Ramm",
+          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
+        },
+        {
           "name": "Mr. Pimp-Lotion",
           "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
         },
@@ -2663,16 +2689,8 @@
           "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
           "name": "DJ Dan",
           "url": "https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe"
-        },
-        {
-          "name": "Morten Ramm",
-          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
         }
       ],
       "date_added": "2022-03-03",

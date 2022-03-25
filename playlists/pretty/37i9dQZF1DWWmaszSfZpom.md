@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,742 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,761 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 32 | [Se Prepara 2](https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Se Prepara 2](https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN) | 2:27 |
 | 33 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:20 |
 | 34 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
-| 35 | [MTG É Sempre Assim](https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ) | [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [Mc Gui Andrade](https://open.spotify.com/artist/7pBfgBAALr6pzat9hF3lTh), [Mc Faelzin](https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Vitin do Pc](https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K) | [MTG É Sempre Assim](https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp) | 2:42 |
+| 35 | [MTG É Sempre Assim](https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ) | [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI), [Mc Faelzin](https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Vitin do Pc](https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K) | [MTG É Sempre Assim](https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp) | 2:42 |
 | 36 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 37 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
 | 38 | [Ela É do Tipo](https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Ela É do Tipo](https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8) | 3:24 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Baile de Favela](https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Baile de Favela](https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS) | 3:00 |
 | 74 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 
-Snapshot ID: `MTY0ODA4MzA2NSwwMDAwMDAwMDEzNzc2YTViY2VkY2E1MTg4MWQ0YWRkYjExMDRkM2Fl`
+Snapshot ID: `MTY0ODE2OTI3OSwwMDAwMDAwMDEzNzc2YTViY2VkY2E1MTg4MWQ0YWRkYjExMDRkM2Fl`

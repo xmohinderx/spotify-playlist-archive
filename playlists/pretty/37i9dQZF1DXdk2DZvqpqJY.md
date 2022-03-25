@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,509 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,613 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 |
 | 100 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 |
 
-Snapshot ID: `MTY0ODA4MzU5NywwMDAwMDAwMDcwYjI3MTU0YmZkNmNjNDUyNWU3YTkyZmIzZWI1ODY5`
+Snapshot ID: `MTY0ODE2OTgwOSwwMDAwMDAwMDBjOTVhNGFmMmQzNTJiZmEwNTE2NzEyNTU5MTA3ZDQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the sweetest voices in Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,119 likes - 150 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,332 likes - 150 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 149 | [Why Should I Care](https://open.spotify.com/track/2tn72FK3r3Ky0j9oQpwcvK) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 3:56 |
 | 150 | [Blame It On My Youth](https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 3:27 |
 
-Snapshot ID: `MTY0ODA4MzA1MCwwMDAwMDAwMGRkYzM1OGRiYTVmMjlkY2U2YzIyZDM4NDg5MTY1ZDNj`
+Snapshot ID: `MTY0ODE2OTI2NCwwMDAwMDAwMGRkYzM1OGRiYTVmMjlkY2U2YzIyZDM4NDg5MTY1ZDNj`

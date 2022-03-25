@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,816 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,135 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Capitol Years](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 |
 | 80 | [Honeysuckle Rose](https://open.spotify.com/track/3CmK6pngGPK0F4GlzE7VxH) | [Jose Gonzales Trio](https://open.spotify.com/artist/1ZdQ1Yj2c5p3ceRI9SBTCt) | [Jose Gonzales Trio](https://open.spotify.com/album/3kLlL43KXL8O2hZW788HN6) | 5:05 |
 
-Snapshot ID: `MTY0ODA4MzAyNCwwMDAwMDAwMDFjZjJhYzEwMTU3NGU0NmE3OWMwZWNkZjI2Y2E3Nzdj`
+Snapshot ID: `MTY0ODE2OTIzOCwwMDAwMDAwMDFjZjJhYzEwMTU3NGU0NmE3OWMwZWNkZjI2Y2E3Nzdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover:  Mad Tsai
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,651 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,803 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Love me for me](https://open.spotify.com/track/73MmbnDCRABCDJUcyWi6b1) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Love me for me](https://open.spotify.com/album/1DlHUjJEhDHAU3oWbTPzXf) | 3:29 |
 | 75 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
 
-Snapshot ID: `MTY0ODA4MzI3NywwMDAwMDAwMDEzMzY5ZWI3NjBmNzMwNzI4OTdlNTBmZDRhYzM1MTRk`
+Snapshot ID: `MTY0ODE2OTQ4NywwMDAwMDAwMDEzMzY5ZWI3NjBmNzMwNzI4OTdlNTBmZDRhYzM1MTRk`

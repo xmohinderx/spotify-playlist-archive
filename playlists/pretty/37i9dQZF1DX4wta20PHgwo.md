@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,850 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,146 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Tarde](https://open.spotify.com/track/2EXxg3UZwWqMCgs1gUHEgU) | [Ryan Keberle’s Collectiv do Brasil](https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg) | [Sonhos da Esquina](https://open.spotify.com/album/7mKm2xYfdqz3DUzxOVaSAQ) | 5:32 |
 | 100 | [Where or When](https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard time volume 3: The revolution of romance](https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0) | 2:48 |
 
-Snapshot ID: `MTY0ODA4MzMyNSwwMDAwMDAwMDY2NTlhNmU0NDE5OWFiZjIwODU1NTMwNTQ4OWY4MjVi`
+Snapshot ID: `MTY0ODE2OTUzNSwwMDAwMDAwMDY2NTlhNmU0NDE5OWFiZjIwODU1NTMwNTQ4OWY4MjVi`

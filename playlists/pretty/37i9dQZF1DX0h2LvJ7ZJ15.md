@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,379 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,785 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Within These Walls \- Slow Down Rework](https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Within These Walls \(Slow Down Rework\)](https://open.spotify.com/album/5LauFnwiHWZCYyAwpFDwH5) | 2:47 |
 | 50 | [loving you is a losing game](https://open.spotify.com/track/2BQJFATEPDJNdRw3bpjwCJ) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [loving you is a losing game](https://open.spotify.com/album/48yT3hsRcA3Ts3ctTNoHPy) | 1:40 |
 
-Snapshot ID: `MTY0ODA4MzE5MSwwMDAwMDAwMDZiMDY2YzlkYmE4M2Y2OTBkYThiNTI0NzBmOGNhMzJh`
+Snapshot ID: `MTY0ODE2OTQwMSwwMDAwMDAwMDZiMDY2YzlkYmE4M2Y2OTBkYThiNTI0NzBmOGNhMzJh`

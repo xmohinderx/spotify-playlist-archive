@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "A Life in Color",
+        "url": "https://open.spotify.com/album/1ry5ikCYhK3SZvaQYiaGIU"
+      },
+      "artists": [
+        {
+          "name": "Ramsey the Fourth",
+          "url": "https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202243,
+      "name": "A Life in Color",
+      "url": "https://open.spotify.com/track/70ppxZHlN9AC2kEALCJGD6"
+    },
+    {
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
       },
@@ -427,6 +445,24 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "album": {
+        "name": "Dirtball",
+        "url": "https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4"
+      },
+      "artists": [
+        {
+          "name": "Modern Nun",
+          "url": "https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "Dirtball",
+      "url": "https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz"
     },
     {
       "album": {
@@ -898,6 +934,24 @@
     },
     {
       "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7"
+    },
+    {
+      "album": {
         "name": "Razorlight",
         "url": "https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj"
       },
@@ -1111,7 +1165,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
@@ -1277,7 +1331,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 209933,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/6GnUEM9DQduEKTHZSOS8fg"
@@ -1757,7 +1811,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 184760,
       "name": "Vowels",
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"

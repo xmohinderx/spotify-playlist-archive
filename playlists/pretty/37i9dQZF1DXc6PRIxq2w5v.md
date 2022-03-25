@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,198 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,217 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 63 | [Somos Somas](https://open.spotify.com/track/3b5fgFO5I5Nry6IyLKNJDL) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Eólico Vapor](https://open.spotify.com/album/4oFtfz9PbciRua5exHsMsa) | 3:10 |
 | 64 | [LEVANTAR](https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7) | [Levantar](https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR) | 2:47 |
 
-Snapshot ID: `MTY0ODA4MzU0OCwwMDAwMDAwMDZmZGVhZmU0ZmZiYjBjOGU3YjAzYjAzNzdlODkzY2E5`
+Snapshot ID: `MTY0ODE2OTc1NywwMDAwMDAwMDZmZGVhZmU0ZmZiYjBjOGU3YjAzYjAzNzdlODkzY2E5`

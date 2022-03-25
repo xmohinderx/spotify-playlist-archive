@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,305 likes - 233 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,052 likes - 233 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 232 | [Under Pressure](https://open.spotify.com/track/1mSClObliRtgPVT399COQH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE) | 4:05 |
 | 233 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 
-Snapshot ID: `MTY0ODA4MzQxNiwwMDAwMDAwMDc0MWU5MWJhYjhlOWU5MmQ0Y2JiYmZkNTBmYzRjNjE2`
+Snapshot ID: `MTY0ODE2OTYyNiwwMDAwMDAwMDc0MWU5MWJhYjhlOWU5MmQ0Y2JiYmZkNTBmYzRjNjE2`

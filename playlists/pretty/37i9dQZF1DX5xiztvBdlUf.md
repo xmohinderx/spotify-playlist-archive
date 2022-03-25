@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,385 likes - 80 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,639 likes - 80 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 |
 | 80 | [Azure](https://open.spotify.com/track/50uP3LQRrc7Sv2NSrYYlON) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Azure](https://open.spotify.com/album/4hWmiRig0GOIbfoDZUV6ar) | 2:41 |
 
-Snapshot ID: `MTY0ODA4MzM2MiwwMDAwMDAwMDhmNWQyODU5YjRmNTllZGMwMzhjMWY3OGVhMTQ2ZGQy`
+Snapshot ID: `MTY0ODE2OTU3MywwMDAwMDAwMDhmNWQyODU5YjRmNTllZGMwMzhjMWY3OGVhMTQ2ZGQy`

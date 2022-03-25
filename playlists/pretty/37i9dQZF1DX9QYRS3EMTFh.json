@@ -1,131 +1,39 @@
 {
   "description": "Les hits dancehall du moment. Photo : Shenseea",
-  "num_followers": 95677,
+  "num_followers": 95730,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU1ODAwMCwwMDAwMDBiYTAwMDAwMTdmOWExYmZlM2QwMDAwMDE3Zjk4ODI4NzQ5",
+  "snapshot_id": "MTY0ODE2MjgwMCwwMDAwMDBiYjAwMDAwMTdmYmUyODgyM2QwMDAwMDE3Zjk4ODI4NzQ5",
   "tracks": [
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "How We Do It",
-        "url": "https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
         },
         {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 182672,
-      "name": "How We Do It (feat. Pia Mia)",
-      "url": "https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P"
+      "duration_ms": 152941,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Rayi",
-        "url": "https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66"
-      },
-      "artists": [
-        {
-          "name": "CRAAZY",
-          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
-        },
-        {
-          "name": "WAH WAAH",
-          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        }
-      ],
-      "duration_ms": 192180,
-      "name": "Rayi",
-      "url": "https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3Z6ZcEMuSZcYSImbBwrOBD"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5WMGYicc8RIo80wdcbiLTx"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU"
-      },
-      "artists": [
-        {
-          "name": "Krys",
-          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
-        },
-        {
-          "name": "Shanel Hill",
-          "url": "https://open.spotify.com/artist/7lBnpvzrON0Y8EmW7hjrO4"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Lov'la",
-      "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Money & Done (Remix)",
         "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
@@ -153,279 +61,7 @@
       "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Slap",
-        "url": "https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5"
-      },
-      "artists": [
-        {
-          "name": "Its Natascha",
-          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
-        },
-        {
-          "name": "Joli Rouge Sound",
-          "url": "https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Slap",
-      "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "PVDV",
-        "url": "https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m"
-      },
-      "artists": [
-        {
-          "name": "Young Chang MC",
-          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
-        },
-        {
-          "name": "Reyel Ay",
-          "url": "https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "PVDV",
-      "url": "https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Dancehall Wine",
-        "url": "https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "Dancehall Wine",
-      "url": "https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Super Bae",
-        "url": "https://open.spotify.com/album/1Snpt0fbUYC6A0q7HTYqfr"
-      },
-      "artists": [
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Super Bae",
-      "url": "https://open.spotify.com/track/5uiSL5KX6qdvNnaDvpAKHq"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Whine O'Clock",
-        "url": "https://open.spotify.com/album/6OoO4JDWKvR6gOX84s7Tft"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Sleazy Stereo",
-          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        }
-      ],
-      "duration_ms": 141322,
-      "name": "Whine O'Clock",
-      "url": "https://open.spotify.com/track/1jAVJ1836ceDp2ozcNs6Uh"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/3uQcLuTdxCOxt4dAUj1yqM"
-      },
-      "artists": [
-        {
-          "name": "Gold Up",
-          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
-        },
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/4ViOwdjYrRj1dRhid30mvb"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Skeleton Cartier",
-        "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Skeleton Cartier",
-      "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Porte pas plainte",
-        "url": "https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87"
-      },
-      "artists": [
-        {
-          "name": "R2.0",
-          "url": "https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT"
-        },
-        {
-          "name": "TMatt",
-          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Porte pas plainte - Edit",
-      "url": "https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Bayo",
-        "url": "https://open.spotify.com/album/7dpJ4kKlz3k6GcEVXmNqgn"
-      },
-      "artists": [
-        {
-          "name": "DonLex",
-          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
-        },
-        {
-          "name": "Steves J Bryan",
-          "url": "https://open.spotify.com/artist/5rfHaJPYw1SDaybRXPfKlJ"
-        }
-      ],
-      "duration_ms": 162008,
-      "name": "Bayo",
-      "url": "https://open.spotify.com/track/0xfOVPlLHkoTWuD4sEy9eY"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Vaisseau - Embarquement",
-        "url": "https://open.spotify.com/album/5pcYJRJmOrqw5sQfqvjaUc"
-      },
-      "artists": [
-        {
-          "name": "Black-T",
-          "url": "https://open.spotify.com/artist/1nFZ21xwCakE48rU514Ao6"
-        },
-        {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "Boom Bap",
-      "url": "https://open.spotify.com/track/0I9krFoejUlaxEA73x73uZ"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Enticin",
-        "url": "https://open.spotify.com/album/40V00ljeQ86zOvuzU2lDFk"
-      },
-      "artists": [
-        {
-          "name": "Albeezy",
-          "url": "https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs"
-        }
-      ],
-      "duration_ms": 196318,
-      "name": "Enticin",
-      "url": "https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Hypocrite (Edit)",
-        "url": "https://open.spotify.com/album/1MexCMhRAQqt9M5yje1P5o"
-      },
-      "artists": [
-        {
-          "name": "St Unit",
-          "url": "https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU"
-        },
-        {
-          "name": "VJ Awax",
-          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Hypocrite - Edit",
-      "url": "https://open.spotify.com/track/2uEgtB82CP9q8zQqci8pAo"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "P Skinna",
-          "url": "https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV"
-        },
-        {
-          "name": "Liondub",
-          "url": "https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB"
-        }
-      ],
-      "duration_ms": 177087,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Manslaughter",
         "url": "https://open.spotify.com/album/0Pw1KzR7hPbh1pce9nTlIW"
@@ -449,7 +85,403 @@
       "url": "https://open.spotify.com/track/76XPtMKet4TM5RE9bOejdF"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Super Bae",
+        "url": "https://open.spotify.com/album/1Snpt0fbUYC6A0q7HTYqfr"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        }
+      ],
+      "duration_ms": 184315,
+      "name": "Super Bae",
+      "url": "https://open.spotify.com/track/5uiSL5KX6qdvNnaDvpAKHq"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "PVDV",
+        "url": "https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        },
+        {
+          "name": "Reyel Ay",
+          "url": "https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "PVDV",
+      "url": "https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Ya Skin Fit",
+        "url": "https://open.spotify.com/album/7as7BKLUNomHcfn8ig0yXs"
+      },
+      "artists": [
+        {
+          "name": "Stiekz",
+          "url": "https://open.spotify.com/artist/4rUyoXMYnuqiPeYhFSAjF2"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "duration_ms": 141140,
+      "name": "Ya Skin Fit",
+      "url": "https://open.spotify.com/track/2atvj9otOqIen4CELIbaR0"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Dancehall Wine",
+        "url": "https://open.spotify.com/album/6wW1nEfVxqFVjJpeAXEKQO"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "Dancehall Wine",
+      "url": "https://open.spotify.com/track/6ra6I1zN1PXRhTocLdaIfo"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "The Harder They Fall (The Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 168704,
+      "name": "The Harder They Fall",
+      "url": "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3Z6ZcEMuSZcYSImbBwrOBD"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 190952,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5WMGYicc8RIo80wdcbiLTx"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/232Cj6dreD65MStuTs1yIN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Aylies",
+          "url": "https://open.spotify.com/artist/5aqWI4xTCVhwGW1MmYEomT"
+        }
+      ],
+      "duration_ms": 187188,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/6kPpbxAtg5QNDGkgvWR30I"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Skeleton Cartier",
+        "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Rayi",
+        "url": "https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "duration_ms": 192180,
+      "name": "Rayi",
+      "url": "https://open.spotify.com/track/76YX35vB9aQETqzZQUThpR"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "How We Do It",
+        "url": "https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        }
+      ],
+      "duration_ms": 182672,
+      "name": "How We Do It (feat. Pia Mia)",
+      "url": "https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "Shanel Hill",
+          "url": "https://open.spotify.com/artist/7lBnpvzrON0Y8EmW7hjrO4"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Lov'la",
+      "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Slap",
+        "url": "https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Joli Rouge Sound",
+          "url": "https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Slap",
+      "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Whine O'Clock",
+        "url": "https://open.spotify.com/album/6OoO4JDWKvR6gOX84s7Tft"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sleazy Stereo",
+          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "duration_ms": 141322,
+      "name": "Whine O'Clock",
+      "url": "https://open.spotify.com/track/1jAVJ1836ceDp2ozcNs6Uh"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Porte pas plainte",
+        "url": "https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87"
+      },
+      "artists": [
+        {
+          "name": "R2.0",
+          "url": "https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT"
+        },
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Porte pas plainte - Edit",
+      "url": "https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Bayo",
+        "url": "https://open.spotify.com/album/7dpJ4kKlz3k6GcEVXmNqgn"
+      },
+      "artists": [
+        {
+          "name": "DonLex",
+          "url": "https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/5rfHaJPYw1SDaybRXPfKlJ"
+        }
+      ],
+      "duration_ms": 162008,
+      "name": "Bayo",
+      "url": "https://open.spotify.com/track/0xfOVPlLHkoTWuD4sEy9eY"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Enticin",
+        "url": "https://open.spotify.com/album/40V00ljeQ86zOvuzU2lDFk"
+      },
+      "artists": [
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs"
+        }
+      ],
+      "duration_ms": 196318,
+      "name": "Enticin",
+      "url": "https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Hypocrite (Edit)",
+        "url": "https://open.spotify.com/album/1MexCMhRAQqt9M5yje1P5o"
+      },
+      "artists": [
+        {
+          "name": "St Unit",
+          "url": "https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU"
+        },
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Hypocrite - Edit",
+      "url": "https://open.spotify.com/track/2uEgtB82CP9q8zQqci8pAo"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "P Skinna",
+          "url": "https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV"
+        },
+        {
+          "name": "Liondub",
+          "url": "https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB"
+        }
+      ],
+      "duration_ms": 177087,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Ghetto Gyal",
         "url": "https://open.spotify.com/album/0ezu9H6cRO8frRYggf157e"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/1VcbHVnFzomj46xNNOM1rq"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/0lEXDwuGHhm6AWWdxc3Uxn"
@@ -485,23 +517,7 @@
       "url": "https://open.spotify.com/track/0gGnXH7QOZZEZWfdyCOSri"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "The Harder They Fall (The Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 168704,
-      "name": "The Harder They Fall",
-      "url": "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Beg Mi Ah Link",
         "url": "https://open.spotify.com/album/2R7XqOHZr058boBNoSXRA5"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/7FQb9eUgaoXjnWm6PeP6r0"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "D\u00e9monstration",
         "url": "https://open.spotify.com/album/50ynlIGQ3v3b54GIJPqfet"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/1hRCUh4TNlhRWArnbHFkCM"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Hot Gyal",
         "url": "https://open.spotify.com/album/7wT3U8zjHKeLYK242rzk8o"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/2PyfVoA7yA9Mx1tTI10hIx"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Left-Right",
         "url": "https://open.spotify.com/album/09pzat2S8L0CGW53onMIn4"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/6zsckO37GEyxy3RtBIv47A"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Foki",
         "url": "https://open.spotify.com/album/1xUt5s1XoEoyOQj1lf7xas"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/2romlZZi2Ypdik8KPjpv6X"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/764dcyM1mUus7EUzI1NKYm"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/1tRxnz4aknh5Nn7rs9fD0j"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Pilot (Buskilaz Remix)",
         "url": "https://open.spotify.com/album/4IV5r5ibOJSPw1OTlv6xAV"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/2Ig0TzxuXwelRbjRE5bRJU"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Red Reign",
         "url": "https://open.spotify.com/album/4N2Gz4nIXmshjeFSxUhWBz"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/76B2JYQBtJIpL36FUvN3rJ"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/45kfR9khOdrErDdLl6BTet"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Ganja",
         "url": "https://open.spotify.com/album/11W6IsmcsFkOYe54sTRMBf"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/5Gv89SZih6lHvHpKB1mIhU"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Feelin It",
         "url": "https://open.spotify.com/album/2VZo9jLksnJRf8HDn7vvkJ"
@@ -749,59 +765,7 @@
       "url": "https://open.spotify.com/track/1PWMtnBP2q2cLH9Hgo5Zw9"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Bounce Up",
-        "url": "https://open.spotify.com/album/2DMaefc4W5AgIQFr9zfYMP"
-      },
-      "artists": [
-        {
-          "name": "Limitless",
-          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
-        },
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Papi Mikey Dinero",
-          "url": "https://open.spotify.com/artist/1ZzkltVaZc6BPQ9tluPtGi"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 158322,
-      "name": "Bounce Up",
-      "url": "https://open.spotify.com/track/6blSHPDP98arokK4SXvZT0"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Suffering Days",
-        "url": "https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Pop Style",
-          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "Suffering Days",
-      "url": "https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Mi Bad",
         "url": "https://open.spotify.com/album/1LwTiebowCGjUbVpOsn2rx"

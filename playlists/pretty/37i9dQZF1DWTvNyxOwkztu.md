@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,878 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,348 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 |
 | 100 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 
-Snapshot ID: `MTY0ODA4Mjk3NSwwMDAwMDAwMGJmMTQ4NDYxYjEwZWM0MzRkM2Q4MTQ3NzRlODFhZjU2`
+Snapshot ID: `MTY0ODE2OTE5MCwwMDAwMDAwMGJmMTQ4NDYxYjEwZWM0MzRkM2Q4MTQ3NzRlODFhZjU2`

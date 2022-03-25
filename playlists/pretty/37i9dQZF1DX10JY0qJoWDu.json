@@ -1,6 +1,6 @@
 {
   "description": "Holiday cheer from your Disney favorites!",
-  "num_followers": 101511,
+  "num_followers": 101504,
   "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
@@ -458,6 +458,10 @@
         {
           "name": "Cast of High School Musical: The Musical: The Series",
           "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 196323,

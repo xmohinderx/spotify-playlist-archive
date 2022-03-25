@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\.   Just like being there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,493 likes - 150 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,569 likes - 150 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Should've Been A Cowboy \- Live](https://open.spotify.com/track/7w1OeJ2dmLGVpvI75uIXBf) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Greatest Hits 2](https://open.spotify.com/album/5GbASKPwYwyJrNP9PqeXEE) | 5:01 |
 | 150 | [Kaw\-Liga \- Live](https://open.spotify.com/track/6osox7QpBP4zMozfxHt9at) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 3:22 |
 
-Snapshot ID: `MTY0ODA4MzA5NiwwMDAwMDAwMDg3YzM1NjdmNjM1ZDFlZTE4MjZkYzdkOGQ0ZjVjZDYx`
+Snapshot ID: `MTY0ODE2OTMwOSwwMDAwMDAwMDg3YzM1NjdmNjM1ZDFlZTE4MjZkYzdkOGQ0ZjVjZDYx`

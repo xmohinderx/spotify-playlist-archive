@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,934 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,953 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 |
 | 100 | [Keep Running](https://open.spotify.com/track/1PlrUviBqdCy4P4TTdv66y) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Keep Running](https://open.spotify.com/album/0ETGDAATDpwOnzAHygPSlx) | 4:24 |
 
-Snapshot ID: `MTY0ODA4MzMzMCwwMDAwMDAwMDlhYzE4YWQ5NTYyZGViYmE2YzhiMTY1MzBlMmEyZjUw`
+Snapshot ID: `MTY0ODE2OTU0MSwwMDAwMDAwMDlhYzE4YWQ5NTYyZGViYmE2YzhiMTY1MzBlMmEyZjUw`

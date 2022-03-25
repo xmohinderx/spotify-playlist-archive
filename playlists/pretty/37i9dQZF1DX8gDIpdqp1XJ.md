@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,968 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,426 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Projector](https://open.spotify.com/track/0A4qt2A6Ay5LfI2sPMPYPP) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/77QwEK7kLbyAcILjcAB6Nt) | 4:25 |
 | 150 | [Any Hour](https://open.spotify.com/track/6Zg3jsZ1CGHJPPAG7oLAFJ) | [Kaíoti](https://open.spotify.com/artist/6etW5uO8UuEovfiv2Nw10f), [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Any Hour](https://open.spotify.com/album/5JlQub3PCeoNb1hiUxx5Qi) | 4:11 |
 
-Snapshot ID: `MTY0ODA4MzQ0NCwwMDAwMDAwMDEyNzdlNmEyYjM0YzFkZDBiZTc1Zjg5MmQyOTkxMjVj`
+Snapshot ID: `MTY0ODE2OTY1NCwwMDAwMDAwMDEyNzdlNmEyYjM0YzFkZDBiZTc1Zjg5MmQyOTkxMjVj`

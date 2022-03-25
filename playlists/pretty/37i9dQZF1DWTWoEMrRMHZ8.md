@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Áurea Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,659 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,713 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 89 | [Mais](https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx) | [Marcelo Perdido](https://open.spotify.com/artist/2WR3bb5fUKqJ65TPcu3dIt), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Mais](https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO) | 2:28 |
 | 90 | [Bola de Sabão](https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Carnaval de Sofá](https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk) | 3:06 |
 
-Snapshot ID: `MTY0ODA4Mjk2NiwwMDAwMDAwMDFiNWE1ZWU0NmQwZDMxMjE3ZjliMzEyYjllMGM0Njcz`
+Snapshot ID: `MTY0ODE2OTE4MSwwMDAwMDAwMDFiNWE1ZWU0NmQwZDMxMjE3ZjliMzEyYjllMGM0Njcz`

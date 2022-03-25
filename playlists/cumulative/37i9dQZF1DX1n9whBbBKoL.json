@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Clear Path",
+        "url": "https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN"
+      },
+      "artists": [
+        {
+          "name": "William Francisco",
+          "url": "https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Clear Path",
+      "url": "https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI"
+    },
+    {
+      "album": {
         "name": "Close At Heart",
         "url": "https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen"
       },
@@ -2183,6 +2201,24 @@
       "duration_ms": 165900,
       "name": "Sunscape",
       "url": "https://open.spotify.com/track/6UFrx6aIfTd6KWEW0lRkD9"
+    },
+    {
+      "album": {
+        "name": "Sway Me Away",
+        "url": "https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp"
+      },
+      "artists": [
+        {
+          "name": "Joseff Shields",
+          "url": "https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133715,
+      "name": "Sway Me Away",
+      "url": "https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC"
     },
     {
       "album": {

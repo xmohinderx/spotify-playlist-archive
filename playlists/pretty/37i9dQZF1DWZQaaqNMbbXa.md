@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,104 likes - 142 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,779 likes - 142 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 141 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 142 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF) | 3:04 |
 
-Snapshot ID: `MTY0ODA4MzE0MywwMDAwMDAwMGJmYTdiYjYxZDg1Nzg0ZDhlNTEwYTAwNTE0NmI1NTM1`
+Snapshot ID: `MTY0ODE2OTM1NSwwMDAwMDAwMGJmYTdiYjYxZDg1Nzg0ZDhlNTEwYTAwNTE0NmI1NTM1`

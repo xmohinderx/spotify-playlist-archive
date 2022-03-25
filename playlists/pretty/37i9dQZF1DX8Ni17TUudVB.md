@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,130 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,168 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Slap That](https://open.spotify.com/track/5l1l4Iw31lCne4j63kCJ6c) | [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Slap That](https://open.spotify.com/album/2U0YWuVUiV048hBLyD1YQN) | 2:05 |
 | 90 | [Leave Me](https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc) | [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq) | [Leave Me](https://open.spotify.com/album/5V4BXvi7L2x0mZuUyzOQlG) | 2:19 |
 
-Snapshot ID: `MTY0ODA4MzQzMywwMDAwMDAwMGQ4NGQxMDYxYjUwNTAyZGM3NDM3YTljNDg0ODhhM2Iz`
+Snapshot ID: `MTY0ODE2OTY0MywwMDAwMDAwMGQ4NGQxMDYxYjUwNTAyZGM3NDM3YTljNDg0ODhhM2Iz`

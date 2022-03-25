@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: St\. Vincent, Death Cab for Cutie and MUNA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,137 likes - 125 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,145 likes - 125 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 |
 | 125 | [Whole Wide World \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Spotify Singles](https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI) | 3:41 |
 
-Snapshot ID: `MTY0ODA4MzA4NSwwMDAwMDAwMDZhM2VmNWNhNjJkZGE0YTIyYTg3MWQ3YzIyZDIwYTk3`
+Snapshot ID: `MTY0ODE2OTI5OSwwMDAwMDAwMDZhM2VmNWNhNjJkZGE0YTIyYTg3MWQ3YzIyZDIwYTk3`

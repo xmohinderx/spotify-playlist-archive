@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,274 likes - 200 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,308 likes - 200 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Back to Hastings](https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Hotel Hastings \(Music by Alejandro Morse for a Book by Eduardo Padilla\)](https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0) | 3:55 |
 | 200 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 
-Snapshot ID: `MTY0ODA4MzA3MCwwMDAwMDAwMDgzMWZmYjRkNDY1OGE4N2U3MjUzNDQ3NmFlN2Q5ODk4`
+Snapshot ID: `MTY0ODE2OTI4NCwwMDAwMDAwMDgzMWZmYjRkNDY1OGE4N2U3MjUzNDQ3NmFlN2Q5ODk4`

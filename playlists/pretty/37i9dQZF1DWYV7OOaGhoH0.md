@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving roots & folk scene\. Cover: Valerie June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,543 likes - 106 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,501 likes - 106 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

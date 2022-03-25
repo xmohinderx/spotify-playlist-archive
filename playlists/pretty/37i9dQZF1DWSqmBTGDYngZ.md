@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,554,968 likes - 200 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,556,722 likes - 200 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 | 199 | [7 Years](https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:57 |
 | 200 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
 
-Snapshot ID: `MTY0ODA4Mjk0MSwwMDAwMDAwMDg1MTMxZmY3MWM5ZTZiOThlM2JmZTc2ZGE5NGJmMGJh`
+Snapshot ID: `MTY0ODE2OTE1NSwwMDAwMDAwMDg1MTMxZmY3MWM5ZTZiOThlM2JmZTc2ZGE5NGJmMGJh`

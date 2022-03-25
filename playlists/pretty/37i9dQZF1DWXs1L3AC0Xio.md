@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,022 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,131 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 99 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
 | 100 | [Re\-arrange](https://open.spotify.com/track/6iv3Fclf4l11hQGYs8KbGc) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis](https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo) | 3:37 |
 
-Snapshot ID: `MTY0ODA4MzEwMSwwMDAwMDAwMDEzYjE1NGU0YTg0YTkzNGQ0OTYwNzc0OTM0M2QwYjZh`
+Snapshot ID: `MTY0ODE2OTMxNCwwMDAwMDAwMDEzYjE1NGU0YTg0YTkzNGQ0OTYwNzc0OTM0M2QwYjZh`

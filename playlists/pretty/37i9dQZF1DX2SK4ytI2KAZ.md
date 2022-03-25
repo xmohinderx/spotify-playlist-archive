@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > alternative songs and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,231 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,498 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 124 | [Stumblin' Home](https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Stumblin' Home](https://open.spotify.com/album/3vcxSBQfluGFgBjLtHHg0E) | 2:59 |
 | 125 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
 
-Snapshot ID: `MTY0ODA4MzI0NywwMDAwMDAwMDQyYjkxYzFiODFiY2I5MGZjNmExN2U2MDliMmI5YTQ1`
+Snapshot ID: `MTY0ODE2OTQ1NywwMDAwMDAwMDQyYjkxYzFiODFiY2I5MGZjNmExN2U2MDliMmI5YTQ1`

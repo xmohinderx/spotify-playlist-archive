@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,341 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,384 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 5 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 |
 | 6 | [Any Second](https://open.spotify.com/track/6uutbgDc16Bu74bpmpkA6k) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Any Second](https://open.spotify.com/album/18HOlFvpNYKCPdwy2kbDxx) | 2:53 |
 | 7 | [Bing Bong \(feat\. Fat Joe, Busta Rhymes & Styles P\) \- Remix](https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Bing Kong](https://open.spotify.com/album/1arsb5zt7yy7ezUu7chQg4) | 3:57 |
-| 8 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa, Big K.R.I.T., Girl Talk](https://open.spotify.com/artist/3pJhszZ9pnn4xpdxtLOObE), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
+| 8 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
 | 9 | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa) | 1:58 |
 | 10 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 |
 | 11 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 |

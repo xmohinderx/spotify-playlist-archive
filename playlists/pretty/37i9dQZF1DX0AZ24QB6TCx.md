@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,679 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,759 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Lost \- Nils Hoffmann Remix](https://open.spotify.com/track/6m2jWjTE6CmYfWpMtp8V1u) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Lost \(Nils Hoffmann Remix\)](https://open.spotify.com/album/2JvBQTfM3z0FhcyCn2mNoq) | 4:01 |
 | 70 | [No Silence](https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Woods, Tales & Friends \(Part One\)](https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV) | 4:46 |
 
-Snapshot ID: `MTY0ODA4MzE3MSwwMDAwMDAwMDQ3YWE4YmI1YTc5YzE3NjRlZDEwZTY0NGYwZWYzZGI1`
+Snapshot ID: `MTY0ODE2OTM4MiwwMDAwMDAwMDQ3YWE4YmI1YTc5YzE3NjRlZDEwZTY0NGYwZWYzZGI1`

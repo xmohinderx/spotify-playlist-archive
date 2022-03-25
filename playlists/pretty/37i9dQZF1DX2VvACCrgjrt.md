@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,944 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,056 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 99 | [The Way](https://open.spotify.com/track/1HnR4Ys1OkLHZBQLql3eXh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [The Way](https://open.spotify.com/album/5cT7JtWswSQfoFjCBnHhEV) | 3:09 |
 | 100 | [THICCC](https://open.spotify.com/track/3IacquZeDsE8aSudQ0GwIK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [THICCC](https://open.spotify.com/album/1VE0QnVx2jEO261MiAhZNv) | 2:05 |
 
-Snapshot ID: `MTY0ODA4MzI1MCwwMDAwMDAwMDcxYmNkYTkxYjdmMDcyMzZmNmRmY2FlM2VmZTNjMzE0`
+Snapshot ID: `MTY0ODE2OTQ2MCwwMDAwMDAwMDcxYmNkYTkxYjdmMDcyMzZmNmRmY2FlM2VmZTNjMzE0`

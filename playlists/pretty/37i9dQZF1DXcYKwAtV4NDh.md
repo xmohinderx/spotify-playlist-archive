@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,398 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,489 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 25 | [Hey, Good Lookin'](https://open.spotify.com/track/7tNJo8NJ7fhprfjyDgdH2A) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:55 |
 | 26 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/5WVIefy07taIktufdiA90m) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Devil's Rejects](https://open.spotify.com/album/2OBfzQx18EWIAkzZ3fJNXT) | 2:28 |
 | 27 | [Jambalaya \(On The Bayou\) \- Single Version](https://open.spotify.com/track/2PFlvEIq23Q2iPN5zOGoPX) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Anthology 1956\-1980](https://open.spotify.com/album/0QJTZSxwTiZOb88arsEq5p) | 2:07 |
-| 28 | [Walking The Floor Over You](https://open.spotify.com/track/4df0l3RQgfn4NVxbuKIiZL) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [20th Century Masters: The Millennium Collection: Best Of Ernest Tubb](https://open.spotify.com/album/7b9IFkBNLNGxw71XgURyQx) | 2:37 |
+| 28 | [Walking The Floor Over You \- 1941 Single Version](https://open.spotify.com/track/4df0l3RQgfn4NVxbuKIiZL) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [20th Century Masters: The Millennium Collection: Best Of Ernest Tubb](https://open.spotify.com/album/7b9IFkBNLNGxw71XgURyQx) | 2:37 |
 | 29 | [Bouquet of Roses](https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:32 |
 | 30 | [New Step It Up And Go](https://open.spotify.com/track/2DiY96EhEnB1hW7A3dkzwW) | [The Maddox Brothers and Sister Rose](https://open.spotify.com/artist/358eAExgqJlkhCzT26LtVX) | [Hangover Blues](https://open.spotify.com/album/20bkrXrOy7rWjNgLHrdwMH) | 2:24 |
 | 31 | [I Walk the Line](https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:34 |

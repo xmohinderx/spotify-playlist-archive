@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,450 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,561 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 80 | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/track/2AuxT9fsyDo1LtUPFiFNY1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/album/5Mb60mwLpAHBFqoDWfLpgS) | 5:52 |
 
-Snapshot ID: `MTY0ODA4MzQxMywwMDAwMDAwMDMwNTU4NWMwNGQ3NDk1MjZhZTYwMGRlNjVlZmZiMGIz`
+Snapshot ID: `MTY0ODE2OTYyNCwwMDAwMDAwMDMwNTU4NWMwNGQ3NDk1MjZhZTYwMGRlNjVlZmZiMGIz`

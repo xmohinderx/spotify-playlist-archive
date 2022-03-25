@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,562 likes - 150 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,630 likes - 150 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Wires](https://open.spotify.com/track/0VF9jhGJ0OeLsaexfWCkW7) | [Spirit of the Bear](https://open.spotify.com/artist/5nGmm4hwsRfS0XrD5ZcSCb) | [Wires](https://open.spotify.com/album/5EG1n8wKEQHNNXlmCDcMvm) | 3:53 |
 | 150 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
 
-Snapshot ID: `MTY0ODA4MzE4NSwwMDAwMDAwMDNlNDIwMjMzNGNiZDE1MDA0NjYwNTYzZWRhZWQxMzg3`
+Snapshot ID: `MTY0ODE2OTM5NSwwMDAwMDAwMDNlNDIwMjMzNGNiZDE1MDA0NjYwNTYzZWRhZWQxMzg3`

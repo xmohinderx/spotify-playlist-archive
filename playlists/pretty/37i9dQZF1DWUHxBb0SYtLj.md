@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Elisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,613 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,621 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 35 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 |
 | 36 | [faccia da stronzo](https://open.spotify.com/track/20sgGg8zFVlOnF9DXs6X0Y) | [AILO](https://open.spotify.com/artist/6SkFdYX4I8S4lmKMj9yHwO) | [faccia da stronzo](https://open.spotify.com/album/2uemNF6PttMYNb0NyFejNi) | 2:21 |
 | 37 | [Britney](https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [Britney](https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE) | 3:09 |
-| 38 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:51 |
+| 38 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 39 | [Chi Può](https://open.spotify.com/track/2VEMPcAvKw6LMphb9XG9Hn) | [Marta Tenaglia](https://open.spotify.com/artist/0WqwCCw0Rn6Egu9rFFPQNi) | [Chi Può](https://open.spotify.com/album/2syZYTuhfVDFgKykIMttcc) | 2:14 |
 | 40 | [Cavala](https://open.spotify.com/track/0WIy0d67DivguSzrQBfaX4) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [Cavala](https://open.spotify.com/album/2oqeWF1PmpQYaQlD3ZX6gR) | 2:46 |
 | 41 | [FUTURO3](https://open.spotify.com/track/35viaL05gdAMqGBCgMrFn5) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [FUTURO3](https://open.spotify.com/album/3883plODFEQ6pDJEQu6oJ0) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,511 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,504 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 20 | [Rise Up \(Joy to the World\)](https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq) | [Jillian Shea](https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4) | [Godmothered \(Original Soundtrack\)](https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb) | 2:37 |
 | 21 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
 | 22 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 |
-| 23 | [Something in the Air](https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 3:16 |
+| 23 | [Something in the Air](https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 3:16 |
 | 24 | [Scrooge](https://open.spotify.com/track/7xdU07TVdbK1XJOiFkcH1X) | [The Muppet Cast](https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 2:27 |
 | 25 | [When You Wish Upon A Star](https://open.spotify.com/track/6JFyoWiWW69dTjPrJ0RxQ1) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [When You Wish Upon A Star](https://open.spotify.com/album/0RwaotyCpvAytYj5WaH96L) | 3:03 |
 | 26 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Miley Cyrus as Hannah Montana](https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa) | [Disney Channel Holiday](https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv) | 2:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > Lo nuevo del R&B Latino\. Fresh R&B Latin tracks\. Cover: Nicole Horts
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,446 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,456 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [my future \- spanish version](https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm) | [Maya](https://open.spotify.com/artist/7mUqcsNRIqgaLB8ZXJOg4Q) | [my future \(spanish version\)](https://open.spotify.com/album/5MwNfos4sRG3x31ahJAkPW) | 3:20 |
 | 85 | [Ya Lo Sé](https://open.spotify.com/track/10L8N4aP9oCPaEbD0s2ain) | [Zheit](https://open.spotify.com/artist/2wa9XNQ6RvXwD2WBKpLFsz), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI), [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Ya Lo Sé](https://open.spotify.com/album/6LeSg3ycOJT7k8QLpjZ6Ls) | 3:02 |
 
-Snapshot ID: `MTY0ODA4MzI0MywwMDAwMDAwMDkxYjdmN2JjMzBkZmEzNzQ2Yjg5NzhlYWI1NTNjOTQ2`
+Snapshot ID: `MTY0ODE2OTQ1MiwwMDAwMDAwMDkxYjdmN2JjMzBkZmEzNzQ2Yjg5NzhlYWI1NTNjOTQ2`

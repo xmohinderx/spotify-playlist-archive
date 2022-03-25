@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,387 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,474 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 99 | [La Plata \(feat\. Lalo Ebratt\)](https://open.spotify.com/track/7Eso5mURNFprb5PmhOXDlf) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata](https://open.spotify.com/album/0XLBczjmcgplRNc6m6erfV) | 3:15 |
 | 100 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 |
 
-Snapshot ID: `MTY0ODA4MzQyOSwwMDAwMDAwMGQ5NjllMjI5MGE5YmQyNTI2YzgyOTVjNTUyMmI2NDUz`
+Snapshot ID: `MTY0ODE2OTYzOSwwMDAwMDAwMGQ5NjllMjI5MGE5YmQyNTI2YzgyOTVjNTUyMmI2NDUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Crime Caqui\. Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,514 likes - 79 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,517 likes - 79 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 78 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 |
 | 79 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 |
 
-Snapshot ID: `MTY0ODA4MzM0NCwwMDAwMDAwMGIxMjEzOWM4MWEyM2E2MmVlNjRkYjk2NWZkNmE0Y2Q2`
+Snapshot ID: `MTY0ODE2OTU1NSwwMDAwMDAwMGIxMjEzOWM4MWEyM2E2MmVlNjRkYjk2NWZkNmE0Y2Q2`

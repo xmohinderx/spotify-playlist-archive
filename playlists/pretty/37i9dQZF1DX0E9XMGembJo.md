@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > play something that's very very vibe\-worthy
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,824 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,437 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 79 | [CAN YOU HEAR THE MOON](https://open.spotify.com/track/7pcANiSH8mEKLUIPAxiSDr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The in Between](https://open.spotify.com/album/7LRUTkHa71YBzJIf0tVy3g) | 3:02 |
 | 80 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 
-Snapshot ID: `MTY0ODA4MzE3MywwMDAwMDAwMDllYTRhYzc5NmZiMDFiY2IxY2Y4ZjYwNDczYmIyOTM3`
+Snapshot ID: `MTY0ODE2OTM4NCwwMDAwMDAwMDllYTRhYzc5NmZiMDFiY2IxY2Y4ZjYwNDczYmIyOTM3`

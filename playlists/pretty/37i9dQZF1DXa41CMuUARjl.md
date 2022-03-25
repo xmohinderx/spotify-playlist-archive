@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from NGHTMRE & SLANDER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,411 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,476 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 99 | [Euan 92](https://open.spotify.com/track/5o3w5IIvu9Q7IhMikSNcls) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Euan 92](https://open.spotify.com/album/6C9kodfJbL0y1mk0WAmelp) | 5:21 |
 | 100 | [MMM](https://open.spotify.com/track/2wtjKTnfYimgKi9cPxPBPV) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [MMM](https://open.spotify.com/album/5Jkwg4OSGTaVQ7IB3Amwmi) | 3:12 |
 
-Snapshot ID: `MTY0ODA4MzQ4OCwwMDAwMDAwMDFlNTY1MjBjNGM0MTVmMDA0NTUxZjI5NmRiY2Q1NTQ1`
+Snapshot ID: `MTY0ODE2OTY5NiwwMDAwMDAwMDFlNTY1MjBjNGM0MTVmMDA0NTUxZjI5NmRiY2Q1NTQ1`

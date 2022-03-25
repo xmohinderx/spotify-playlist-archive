@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Lil Cherry\(릴체리\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
+> Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Paul Blanco\(폴 블랑코\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,538 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,557 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
+| 1 | [Better Days](https://open.spotify.com/track/4VrBh5AlottbINgmoVlcZg) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [PROMISED LAND](https://open.spotify.com/album/20ba9oqwqyIpYrZHpGTsHy) | 3:43 |
 | 2 | [Just the two of us](https://open.spotify.com/track/5SoN5GIDUG1aNQTuNqsVDu) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Just the two of us](https://open.spotify.com/album/0RoQvfw174dcjxfWjN4I5j) | 3:57 |
 | 3 | [PEP](https://open.spotify.com/track/0cGGwmuWZCvzrIcr6D52C0) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Jung Sangsoo](https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4) | [PEP](https://open.spotify.com/album/1zzs4IqLwC48bLZvY4u5uH) | 3:08 |
 | 4 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [Only Late at Night \(feat\. Jay Park\) \(prod\. Vangdale\)](https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [박재범](https://open.spotify.com/artist/7GazCHjInw2YtTVuTEz8hr) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2](https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq) | 2:31 |
 | 100 | [PEOPLE \(Feat\. Paloalto, The Quiett\)](https://open.spotify.com/track/55VLNyLM11aRY7rn4xSupR) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 3:39 |
 
-Snapshot ID: `MTY0ODA4MzA0MiwwMDAwMDAwMGRjYjA3MzRlNTMxMGUzMmQwN2M1NjI3NDE4NDJjMTI5`
+Snapshot ID: `MTY0ODE2OTI1NiwwMDAwMDAwMGZhOGNkNjEyYWYzZDM4ZTdkZjI3ZTRjNTkyNzI1NThm`

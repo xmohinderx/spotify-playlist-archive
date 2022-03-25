@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,572 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,902 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Haunisumbui](https://open.spotify.com/track/5fIynQNdXenPqXRkdVnPj6) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Haunisumbui](https://open.spotify.com/album/3gSDUB9rqKcjrQmpYi7b9X) | 3:20 |
 | 60 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
 
-Snapshot ID: `MTY0ODA4MjkzNiwwMDAwMDAwMGQzMjI0OTNmNzlhZWIyODE0OWU4MjBkMTkwOWUwYTZk`
+Snapshot ID: `MTY0ODE2OTE1MCwwMDAwMDAwMGQzMjI0OTNmNzlhZWIyODE0OWU4MjBkMTkwOWUwYTZk`

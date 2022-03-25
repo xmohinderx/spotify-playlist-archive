@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,461 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,475 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Solar System](https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Solar System](https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5) | 2:57 |
 | 80 | [MLB \(Juan Pierre\)](https://open.spotify.com/track/4QLkyXq3ta5cqy1vuNWDnw) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [MLB \(Juan Pierre\)](https://open.spotify.com/album/7jjy2k7RgU9x6bShePk1mV) | 1:46 |
 
-Snapshot ID: `MTY0ODA4MzM5NywwMDAwMDAwMDkxNjUyZTQxYTlkMWM4M2RiODhiZTI1NWZjNDdmN2Y5`
+Snapshot ID: `MTY0ODE2OTYwOCwwMDAwMDAwMDkxNjUyZTQxYTlkMWM4M2RiODhiZTI1NWZjNDdmN2Y5`

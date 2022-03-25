@@ -3002,6 +3002,32 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT STRANGERS",
+        "url": "https://open.spotify.com/album/1vFH3GAAWxWn7Yl5jpOa5g"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "Db Bantino",
+          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "MIDNIGHT STRANGERS",
+      "url": "https://open.spotify.com/track/1cMCp2UqULrReZmdwLWmrQ"
+    },
+    {
+      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/57XdUQtynNRvVafh9HMfRV"
       },

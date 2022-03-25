@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,815 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,892 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Bill](https://open.spotify.com/track/55zTfwYJE8YZlzoHb0Y1Xz) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Bill](https://open.spotify.com/album/61Q3cOwFHM9KIEgwqDMgZl) | 3:45 |
 | 80 | [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 |
 
-Snapshot ID: `MTY0ODA4MzMyOCwwMDAwMDAwMDE4ZjAwYzZlNTgwNWU5MTE3NGYzZjRlNTI3M2E5OTI4`
+Snapshot ID: `MTY0ODE2OTUzOSwwMDAwMDAwMDE4ZjAwYzZlNTgwNWU5MTE3NGYzZjRlNTI3M2E5OTI4`

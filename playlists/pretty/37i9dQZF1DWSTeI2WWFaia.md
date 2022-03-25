@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Pusha T
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,401 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,799 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Skegee](https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Skegee](https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL) | 3:06 |
 | 50 | [Something in the Water](https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Mrs\. Whoever / Something in the Water](https://open.spotify.com/album/5NPPBBqbTIeV7yrD8gPH2w) | 3:18 |
 
-Snapshot ID: `MTY0ODA4MjkzMCwwMDAwMDAwMDZkODJiYzg3NDFlMTQzNjg5M2M3MDI3YmZhNmE3Nzg5`
+Snapshot ID: `MTY0ODE2OTE0NCwwMDAwMDAwMDZkODJiYzg3NDFlMTQzNjg5M2M3MDI3YmZhNmE3Nzg5`

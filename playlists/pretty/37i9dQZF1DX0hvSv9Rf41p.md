@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Lucille Croft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,493 likes - 102 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,598 likes - 102 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 101 | [Terrabot](https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Terrabot](https://open.spotify.com/album/4ubvzMcNnsIsYU9S78zb2h) | 3:18 |
 | 102 | [Jump Out](https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Jump Out](https://open.spotify.com/album/6L24he0bjg76mBaETv1zM3) | 3:05 |
 
-Snapshot ID: `MTY0ODA4MzE5MiwwMDAwMDAwMGFkZmY4YzEzMTk5YWEwNzg2ZTRhZmJhYjNjZGNkOWE3`
+Snapshot ID: `MTY0ODE2OTQwMSwwMDAwMDAwMGFkZmY4YzEzMTk5YWEwNzg2ZTRhZmJhYjNjZGNkOWE3`

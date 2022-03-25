@@ -2,7 +2,7 @@
 
 ### [Body & Soul](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
-> Exercise together with classic uplifting soul music.
+> Exercise together with uplifting soul music.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

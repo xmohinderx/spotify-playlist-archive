@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Dudu, LEALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,260 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,434 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [PISANDO FOFO](https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 4:14 |
 | 50 | [Trap de Cria 2](https://open.spotify.com/track/5qnho1YQwjbuTa3j3pfoyS) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Trap de Cria 2](https://open.spotify.com/album/34KjrHRVwZDCLBRJAe95Zu) | 2:37 |
 
-Snapshot ID: `MTY0ODA4Mjk0NiwwMDAwMDAwMDg0OWIwNzU1YzZlNDM5NjMzY2NmNGMyNGY2OTVjYjYy`
+Snapshot ID: `MTY0ODE2OTE2MCwwMDAwMDAwMDg0OWIwNzU1YzZlNDM5NjMzY2NmNGMyNGY2OTVjYjYy`

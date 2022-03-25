@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,289 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,312 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 69 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
 | 70 | [Dancin' On My Own](https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU) | [Michael Mayo](https://open.spotify.com/artist/5ch0b7wCfaEe1NBUXnj30p) | [Dancin' On My Own](https://open.spotify.com/album/4SU5VzCVBiKsl7Jeb5qigR) | 1:39 |
 | 71 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 |
-| 72 | [Ella Quiere Pichi \- Remix](https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9) | [Red Death Grave](https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w), [Xvideo Token](https://open.spotify.com/artist/6AJ1tjDBletSq5NEFqZBHK), [Oxycxde](https://open.spotify.com/artist/4Ll1IAsgqj7mVdRFH8z8Ae) | [Ella Quiere Pichi \(Remix\)](https://open.spotify.com/album/6jOs0HC6KpLmpWJttI8IuV) | 2:24 |
+| 72 | [Ella Quiere Pichi \- Remix](https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9) | [Red Death Grave](https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w), [Xvideo Token](https://open.spotify.com/artist/6AJ1tjDBletSq5NEFqZBHK), [Oxycxde](https://open.spotify.com/artist/71hXeewDvaYVnmQU16zSXQ) | [Ella Quiere Pichi \(Remix\)](https://open.spotify.com/album/6jOs0HC6KpLmpWJttI8IuV) | 2:24 |
 | 73 | [For You \- DJ Taj Jersey Mix](https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [5th Element Jersey Club Remixes](https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ) | 2:01 |
 | 74 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
 | 75 | [Brand New](https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Teez](https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy) | [Brand New](https://open.spotify.com/album/4Qfk2gtSfyPeVv2Lygz7Ee) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 99 | [deep insides](https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj) | [Inexhaustible](https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2) | 3:36 |
 | 100 | [Shake Dat](https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Shake Dhat](https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL) | 0:56 |
 
-Snapshot ID: `MTY0ODA4MzUxMSwwMDAwMDAwMGFkZTRjMGMyM2RlNzlmMDFhNzNlYWVmN2E1ODE3YWRl`
+Snapshot ID: `MTY0ODE2OTcxOSwwMDAwMDAwMGFkZTRjMGMyM2RlNzlmMDFhNzNlYWVmN2E1ODE3YWRl`

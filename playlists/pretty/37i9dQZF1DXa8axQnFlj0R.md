@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,504 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [What's On Your Mind](https://open.spotify.com/track/5Krfy7LnfQSR3sJyIfXZay) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 4:17 |
 | 100 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 |
 
-Snapshot ID: `MTY0ODA4MzQ5MSwwMDAwMDAwMGU4ZGY4OTlkYTdmMTEyNDY0ODI5ZjY1YTY2NjRkZWRm`
+Snapshot ID: `MTY0ODE2OTY5OCwwMDAwMDAwMGU4ZGY4OTlkYTdmMTEyNDY0ODI5ZjY1YTY2NjRkZWRm`

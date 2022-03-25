@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,466 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,656 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 149 | [Almost Home](https://open.spotify.com/track/3V78OHkbhsmOv13MbBRnxt) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Almost Home](https://open.spotify.com/album/1lzMTZibGYO1X5xnrGAzB1) | 3:16 |
 | 150 | [Circles](https://open.spotify.com/track/5PlgebgDZ7vyCOqGxMhElC) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 3:28 |
 
-Snapshot ID: `MTY0ODA4MzExNCwwMDAwMDAwMGI5ZDM4MmJmYWU0ZDRhMGE4ZmUwOTUyYzVlZTYyYThh`
+Snapshot ID: `MTY0ODE2OTMyNywwMDAwMDAwMGI5ZDM4MmJmYWU0ZDRhMGE4ZmUwOTUyYzVlZTYyYThh`

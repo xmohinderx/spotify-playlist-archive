@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,745 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,939 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 45 | [Ferveção](https://open.spotify.com/track/4M5bJSANn5LUlQxwKnsqoV) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Para todas as mulheres que já rimei](https://open.spotify.com/album/3ARNQjDhmh6DHZCCVTKxMt) | 3:02 |
 | 46 | [Digimon](https://open.spotify.com/track/72WZS9ljLLEWDdGzGmppPK) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp) | [Digimon](https://open.spotify.com/album/2OR2yHOFy5HAaXJt3e16H5) | 3:26 |
 | 47 | [Ok Baby](https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Ok Baby](https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9) | 2:44 |
-| 48 | [Suíte 14 \(feat\. Djonga\)](https://open.spotify.com/track/5O9OiOrppADIS6N7Zs2al0) | [Sest](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Sessão de Boa](https://open.spotify.com/album/5qmVP6zsMKVDpTmAoi5sxW) | 3:50 |
+| 48 | [Suíte 14 \(feat\. Djonga\)](https://open.spotify.com/track/5O9OiOrppADIS6N7Zs2al0) | [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Sessão de Boa](https://open.spotify.com/album/5qmVP6zsMKVDpTmAoi5sxW) | 3:50 |
 | 49 | [Campo Minado](https://open.spotify.com/track/19ZHABf7sgrzyfsHjjLALd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Campo Minado](https://open.spotify.com/album/0EHROhQnwUidzc2Gjjmdpo) | 2:20 |
 | 50 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
 | 51 | [Rambo](https://open.spotify.com/track/6JkK0IESabjjofDS2Lot4O) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [É O Trap Memo?! \- Drop 2](https://open.spotify.com/album/03XiY6cAeQAhHSNQQByk68) | 2:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [É Isso](https://open.spotify.com/track/5SoApwCCVUmXqSKlsylVWf) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [É Isso](https://open.spotify.com/album/5nMDU3PrPy1LZQxkoPd3eS) | 3:04 |
 | 60 | [Cypher Hit: Choppa](https://open.spotify.com/track/0eUQ2xIffDrENzfoSgwz4o) | [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [OJhon](https://open.spotify.com/artist/4T5u1rPrwsk57uHGjticWq), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA), [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN) | [Cypher Hit: Choppa](https://open.spotify.com/album/0r2pa4oth6pO9kmlsWvrQJ) | 5:34 |
 
-Snapshot ID: `MTY0ODA4MzUzNSwwMDAwMDAwMDM4MzMzNzFjZDc3NzA2YjliZWZjZmY1NzkxMDE3NjY4`
+Snapshot ID: `MTY0ODE2OTc0NCwwMDAwMDAwMDM4MzMzNzFjZDc3NzA2YjliZWZjZmY1NzkxMDE3NjY4`

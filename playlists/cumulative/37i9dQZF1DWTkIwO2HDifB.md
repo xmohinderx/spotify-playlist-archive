@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
-> É Back to B e os funks mais 🔑 do Brasil\. Foto: LUDMILLA
+> É Back to Be e os funks mais 🔑 do Brasil\. Foto: LUDMILLA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

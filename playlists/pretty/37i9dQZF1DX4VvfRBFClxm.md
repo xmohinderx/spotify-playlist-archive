@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,195 likes - 110 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,201 likes - 110 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 109 | [Sleep On The Floor](https://open.spotify.com/track/6KprCGVC5o2Ibj2wCtaxEV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/4r5Jkgp2acFnBaeuHWx5Ly) | 3:31 |
 | 110 | [Heartlines \- Acoustic](https://open.spotify.com/track/6VTb8IkYOgge3BQ9ueplSZ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartlines \(Acoustic\)](https://open.spotify.com/album/1AVPjZGzGTk0cnLDGO7lrU) | 3:45 |
 
-Snapshot ID: `MTY0ODA4MzMwOCwwMDAwMDAwMGJiMzFkZmJmMDVmYjQ3NzhkYzIzYmFjY2QyYjNmYzBk`
+Snapshot ID: `MTY0ODE2OTUxOSwwMDAwMDAwMGJiMzFkZmJmMDVmYjQ3NzhkYzIzYmFjY2QyYjNmYzBk`

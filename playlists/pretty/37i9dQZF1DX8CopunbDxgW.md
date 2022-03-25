@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring Floating Points
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,575 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,643 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 |
 | 100 | [Avenue Of The Fireflies](https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Daymaker](https://open.spotify.com/album/61H3cb9u9WlaajR64UWu7c) | 3:39 |
 
-Snapshot ID: `MTY0ODA4MzQyOCwwMDAwMDAwMGM4YjliMTMzYzdhYTk5NTRkMmEyZDE0OWVjNjRjMTlh`
+Snapshot ID: `MTY0ODE2OTYzOCwwMDAwMDAwMGM4YjliMTMzYzdhYTk5NTRkMmEyZDE0OWVjNjRjMTlh`

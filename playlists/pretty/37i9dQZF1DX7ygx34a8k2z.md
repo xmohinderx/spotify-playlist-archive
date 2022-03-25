@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,737 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,360 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [Disarm \- Remastered](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 100 | [Me and Mia](https://open.spotify.com/track/4vBO3iPTa7yH88pqdMyOhw) | [Ted Leo and the Pharmacists](https://open.spotify.com/artist/5hbH3dvtk49g07qpc1QwPe), [The Pharmacists](https://open.spotify.com/artist/2JrLdBWO6jnASggehtnkKL) | [Shake the Sheets](https://open.spotify.com/album/07ZJma4DINFMI3a8XhsJIA) | 3:31 |
 
-Snapshot ID: `MTY0ODA4MzQyMSwwMDAwMDAwMGUzNTg1MTBiOTI0NGRkMDRmN2Q5ZDI2YTMzNTIxYzY4`
+Snapshot ID: `MTY0ODE2OTYzMSwwMDAwMDAwMGUzNTg1MTBiOTI0NGRkMDRmN2Q5ZDI2YTMzNTIxYzY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,660 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,013 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 |
 | 100 | [Disclosure](https://open.spotify.com/track/7nLhXCZc7aR1Bc3rREHC3m) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Disclosure](https://open.spotify.com/album/4nbJddRiMv9TKreAvK9Oel) | 3:00 |
 
-Snapshot ID: `MTY0ODA4Mjk0OCwwMDAwMDAwMDUzNDA5NjkzMWYwNmQ2OWQ2ZDI2ZGMwOGQwZGFkZDhl`
+Snapshot ID: `MTY0ODE2OTE2MywwMDAwMDAwMDUzNDA5NjkzMWYwNmQ2OWQ2ZDI2ZGMwOGQwZGFkZDhl`

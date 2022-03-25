@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,369 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,401 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 |
-| 2 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 |
-| 3 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 |
-| 4 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 |
-| 5 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 |
-| 6 | [Disappointed](https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA) | 5:20 |
-| 7 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 |
-| 8 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 |
-| 9 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
-| 10 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 |
-| 11 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 |
-| 12 | [Ai tant Montat](https://open.spotify.com/track/2tGrjlZ3zkEdr1JQVSl6Xf) | [Brama](https://open.spotify.com/artist/5yiG7NvkCxGBKqnXT1gVhd) | [Ai tant Montat](https://open.spotify.com/album/7id7rcEznYebMGIHM8r6xv) | 2:42 |
-| 13 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
-| 14 | [Voices](https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac) | [Lane \(Love And Noise Experiment\)](https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf) | [Pictures of a Century](https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N) | 2:41 |
-| 15 | [After Party](https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1) | [Karaba F.C.](https://open.spotify.com/artist/6ypkB6GRxIVIWu09pFZDhh) | [Empty Rooms](https://open.spotify.com/album/5iB0BwdGPSTp2HwSPpp3YD) | 3:33 |
-| 16 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 |
-| 17 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 |
+| 1 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 |
+| 2 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 |
+| 3 | [Disappointed](https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA) | 5:20 |
+| 4 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 |
+| 5 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 |
+| 6 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 |
+| 7 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 |
+| 8 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 |
+| 9 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 |
+| 10 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
+| 11 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 |
+| 12 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 |
+| 13 | [Ai tant Montat](https://open.spotify.com/track/2tGrjlZ3zkEdr1JQVSl6Xf) | [Brama](https://open.spotify.com/artist/5yiG7NvkCxGBKqnXT1gVhd) | [Ai tant Montat](https://open.spotify.com/album/7id7rcEznYebMGIHM8r6xv) | 2:42 |
+| 14 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 |
+| 15 | [Voices](https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac) | [Lane \(Love And Noise Experiment\)](https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf) | [Pictures of a Century](https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N) | 2:41 |
+| 16 | [After Party](https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1) | [Karaba F.C.](https://open.spotify.com/artist/6ypkB6GRxIVIWu09pFZDhh) | [Empty Rooms](https://open.spotify.com/album/5iB0BwdGPSTp2HwSPpp3YD) | 3:33 |
+| 17 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 |
 | 18 | [Table Rase](https://open.spotify.com/track/0RBl420LKwGUT7sNrpVKyL) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [Table Rase](https://open.spotify.com/album/54gxfYyDvacEMuoDDss6iy) | 2:45 |
 | 19 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 |
 | 20 | [Gold Digger Woman](https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO) | [Uncut](https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs) | [From Blue](https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 74 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 |
 | 75 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 
-Snapshot ID: `MTY0ODA4MzU1OCwwMDAwMDAwMDQxNTZjOGE5OWMwZWI4NTQ2YzM5ZTA0NDExNGU4NDEw`
+Snapshot ID: `MTY0ODE2OTc2OCwwMDAwMDAwMDFiMTg0ZGUyNTg1NmQwMzliZTRjOTM1ODU0M2E0N2Jh`

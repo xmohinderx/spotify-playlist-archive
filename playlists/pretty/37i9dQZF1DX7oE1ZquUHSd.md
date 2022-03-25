@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,788 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,076 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 42 | [Click Clack](https://open.spotify.com/track/5FLGaCNTTNlIuXYq0oPapX) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Click Clack](https://open.spotify.com/album/2US4sEHYWI6pVOLAEwR4aD) | 2:51 |
 | 43 | [Pensando en Ti](https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P) | 4:04 |
 | 44 | [Más Flow Más Cash](https://open.spotify.com/track/3b2XUsT6qZEkl1J64wdFoy) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ) | 3:29 |
-| 45 | [Aqui Todo Esta Bien](https://open.spotify.com/track/3TfZf77Tm202IYpt2WSEgT) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleon](https://open.spotify.com/artist/2wkgV4jgbDN2A9KMJgHOaH) | [Smile](https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC) | 4:01 |
+| 45 | [Aqui Todo Esta Bien](https://open.spotify.com/track/3TfZf77Tm202IYpt2WSEgT) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC) | 4:01 |
 | 46 | [Escucha y Soporta](https://open.spotify.com/track/33IqIWFLz4fPWuccnfz2Jt) | [Terco92](https://open.spotify.com/artist/2KUtIRV7tG4q4uyzHSkOqT) | [Seriedad](https://open.spotify.com/album/11bEOIsIqpX5M011APbpE3) | 4:05 |
 | 47 | [Meñiques](https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:20 |
 | 48 | [El Diablo Anda Suelto](https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df) | 6:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Abuso de Poder \- Remix](https://open.spotify.com/track/5RHrHZnQLdBr1zYEvTD8pn) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [Rotwaila](https://open.spotify.com/artist/1eJOv2PV0ZWbez6OwwA2cd), [Quimico](https://open.spotify.com/artist/1g2AsdCl9c1SqL9g4ELWf4), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Abuso de Poder \(Remix\)](https://open.spotify.com/album/2HfSjM4orZYW9OshQUIBdY) | 8:17 |
 | 100 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
 
-Snapshot ID: `MTY0ODA4MzQxNywwMDAwMDAwMDgyMDM5NzQ1ZTBkMzkzZmFkYjYzMTQ2MjIzYjY5Zjk4`
+Snapshot ID: `MTY0ODE2OTYyOCwwMDAwMDAwMDgyMDM5NzQ1ZTBkMzkzZmFkYjYzMTQ2MjIzYjY5Zjk4`

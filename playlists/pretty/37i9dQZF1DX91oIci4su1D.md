@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a> with Amy Wiles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,221 likes - 168 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,443 likes - 168 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 | 167 | [Lights](https://open.spotify.com/track/60nHIZtCpSQyJbhQuEsaIi) | [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Lights](https://open.spotify.com/album/6XakwOBOnXBrHYmH158jEo) | 3:57 |
 | 168 | [Chemistry](https://open.spotify.com/track/7CxE6dW7KdjablhTfDhOE4) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Chemistry](https://open.spotify.com/album/1mC8BQslGkPQUgAfp7N2zi) | 3:08 |
 
-Snapshot ID: `MTY0ODA4MzQ1NSwwMDAwMDAwMGJiZTVlZWNlMGNjNDBkMWZkODhmNzlhMTliYzUyYjcz`
+Snapshot ID: `MTY0ODE2OTY2NSwwMDAwMDAwMGJiZTVlZWNlMGNjNDBkMWZkODhmNzlhMTliYzUyYjcz`

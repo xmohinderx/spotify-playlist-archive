@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,688 likes - 250 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,920 likes - 250 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Make It Work](https://open.spotify.com/track/6Bjq10d3F4Vcm2czZT6UJX) | [Brennan Villines](https://open.spotify.com/artist/2rq6Vk4SwBUmRWmSq0Pd5V) | [Make It Work](https://open.spotify.com/album/73rDYgFjHAGZ5yGcpHwhkW) | 3:59 |
 | 250 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
 
-Snapshot ID: `MTY0ODA4MzU3MiwwMDAwMDAwMDE5YTY1N2JmY2ViZGUwMjBlMjhlMzM5NmZjNDVhMTQ3`
+Snapshot ID: `MTY0ODE2OTc4MiwwMDAwMDAwMDJkMzMzNTUzMDEyMjJjY2JjYTg1MWVmY2IxODE2MzIx`

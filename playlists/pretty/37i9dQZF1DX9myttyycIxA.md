@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,505 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,595 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Soft Blood](https://open.spotify.com/track/3VzbX4GWZgEpwmZWuNW2Ik) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Soft Blood](https://open.spotify.com/album/2Xzu9hEsXtsO2nw54J2ubK) | 1:40 |
 | 100 | [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 |
 
-Snapshot ID: `MTY0ODA4MzQ3OCwwMDAwMDAwMGZkYTJmYTFiMDUxZjZiZDkzNWI0NmEyMWNjNGQwNWU1`
+Snapshot ID: `MTY0ODE2OTY4NiwwMDAwMDAwMGZkYTJmYTFiMDUxZjZiZDkzNWI0NmEyMWNjNGQwNWU1`

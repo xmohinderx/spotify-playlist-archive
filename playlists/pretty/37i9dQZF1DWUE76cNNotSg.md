@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,276 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,541 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/4xBzlpnMJryekTEICKsRiK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:36 |
 | 80 | [Okay, Saint Laurent](https://open.spotify.com/track/68uwWsxoI2yb0RhQw69eRF) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Okay, Saint Laurent](https://open.spotify.com/album/0nrujX14UZkDHf6kLRHR2G) | 3:00 |
 
-Snapshot ID: `MTY0ODA4Mjk4MywwMDAwMDAwMDhjOWNlYzUzZTlmMDBjNWY0MTE3MmU4NGM5M2ZiMjY1`
+Snapshot ID: `MTY0ODE2OTE5OCwwMDAwMDAwMDhjOWNlYzUzZTlmMDBjNWY0MTE3MmU4NGM5M2ZiMjY1`

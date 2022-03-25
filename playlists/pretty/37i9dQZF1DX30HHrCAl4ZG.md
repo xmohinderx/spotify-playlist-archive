@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > the resurgence is real\. Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,966 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,275 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 |
 | 100 | [Sunday](https://open.spotify.com/track/6X8AAASfTGuODSiZ63vGpL) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Sunday](https://open.spotify.com/album/7C21AzkOpBuoE03o3GMJQY) | 2:35 |
 
-Snapshot ID: `MTY0ODA4MzI2NCwwMDAwMDAwMGQwOTU1NzA4NmUyMjFkY2RiNWM0NGNjNzQ1NzA3MjNm`
+Snapshot ID: `MTY0ODE2OTQ3NCwwMDAwMDAwMGQwOTU1NzA4NmUyMjFkY2RiNWM0NGNjNzQ1NzA3MjNm`

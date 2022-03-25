@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,071 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,277 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
 | 75 | [Alone](https://open.spotify.com/track/6hPSZ19sV4IE5FUmjoo964) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Alone](https://open.spotify.com/album/1ItFsGOccsIUPb8GOA8qfP) | 4:35 |
 
-Snapshot ID: `MTY0ODA4MzUxOCwwMDAwMDAwMDliNzlmNTRhMTk3OGI5MGQ0OTQ1YTc5MTczZTJjOThj`
+Snapshot ID: `MTY0ODE2OTcyNiwwMDAwMDAwMDliNzlmNTRhMTk3OGI5MGQ0OTQ1YTc5MTczZTJjOThj`

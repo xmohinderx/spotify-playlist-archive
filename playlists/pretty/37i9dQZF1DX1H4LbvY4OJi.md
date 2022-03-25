@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,968 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,999 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 79 | [Selfish](https://open.spotify.com/track/18isufzGFuXQGmwX5hP5Mp) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Spaceman \(Deluxe\)](https://open.spotify.com/album/5Zktm8iOk8gKrQazrc9Uzh) | 3:07 |
 | 80 | [Next To Me](https://open.spotify.com/track/4pba2f9iSGDmoQsMoalqt7) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Next To Me](https://open.spotify.com/album/2HOso3hUbDlaLu1vChwZtM) | 3:17 |
 
-Snapshot ID: `MTY0ODA4MzIwOCwwMDAwMDAwMDE1MGQxN2Y4NDdmZTQwYWE5YzgwZjFjNjFhZmM1NmIx`
+Snapshot ID: `MTY0ODE2OTQxNywwMDAwMDAwMDE1MGQxN2Y4NDdmZTQwYWE5YzgwZjFjNjFhZmM1NmIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Veigh, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,997 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,136 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Double Cup](https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Double Cup](https://open.spotify.com/album/0jX2g1c0pQOlQbEaKe1TR6) | 2:14 |
 | 50 | [Adrenalina](https://open.spotify.com/track/4aRlUIYuFqQB4zEvBElWIB) | [Crow](https://open.spotify.com/artist/44pAmp33rQVeeIcgkHt3bS), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [Travessia](https://open.spotify.com/album/4yghqawYr1KBQZ4He3e42M) | 2:27 |
 
-Snapshot ID: `MTY0ODA4MzUzMiwwMDAwMDAwMDQxYWFmNzJiOWZhMDgxNjkzNGIxNzNhNDdlZmZiOTg1`
+Snapshot ID: `MTY0ODE2OTc0MSwwMDAwMDAwMDQxYWFmNzJiOWZhMDgxNjkzNGIxNzNhNDdlZmZiOTg1`

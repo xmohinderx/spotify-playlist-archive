@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,781 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,283 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 97 | [Twentysomething](https://open.spotify.com/track/5WRac8CFT4G9xIFG8bMNfP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:40 |
 | 98 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 |
 | 99 | [Hey Jude](https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 6:28 |
-| 100 | [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 |
+| 100 | [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 |
 
-Snapshot ID: `MTY0ODA4Mjk0OCwwMDAwMDAwMDAxZjczMTM1MzQzZDk2MTYxN2Q4ODA4MTQ1ZWIwNTll`
+Snapshot ID: `MTY0ODE2OTE2MiwwMDAwMDAwMDU2OGE2YWUyMGU1ZTFhZTFhNzBhNjgzYmM0ZGIzNGEx`

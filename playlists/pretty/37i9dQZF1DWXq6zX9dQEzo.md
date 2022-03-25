@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,537 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,691 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Muzzle](https://open.spotify.com/track/205gltq1f8eo49aii55f81) | [Zelijah Tishbite](https://open.spotify.com/artist/1PyYLasAElH6ZMJ4n3DPh4) | [Muzzle](https://open.spotify.com/album/6F4nQqEvCzuejRPLPcslFD) | 2:54 |
 | 150 | [What I Like](https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f), [Kevi Morse](https://open.spotify.com/artist/5St4lPQjCFHH7dobvEFLLI) | [BARELY STARTED](https://open.spotify.com/album/0vvhC7bKZ7F04QxJ0ISoBT) | 2:53 |
 
-Snapshot ID: `MTY0ODA4MzA5OSwwMDAwMDAwMGFiYzMwMWQwMzdhMDdmMTc1ZmFiYWM5YTlhZTQwNmRh`
+Snapshot ID: `MTY0ODE2OTMxMywwMDAwMDAwMGFiYzMwMWQwMzdhMDdmMTc1ZmFiYWM5YTlhZTQwNmRh`

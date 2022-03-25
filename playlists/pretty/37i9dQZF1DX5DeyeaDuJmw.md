@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Brray.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,835 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,956 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 99 | [Vitamina](https://open.spotify.com/track/5yAo09btO7hEn8YDKW4Dkm) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Dave Garsia](https://open.spotify.com/artist/1s6bWATuy6Z852EN5OnwZK) | [Vitamina](https://open.spotify.com/album/6eywHuMzoKB6yUomUaAgMy) | 2:54 |
 | 100 | [FULL PIOLI 2.O \(feat\. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best\)](https://open.spotify.com/track/62aT1Uk0pCl1QG4LLBMVUn) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [FULL PIOLI 2.O \(feat\. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best\)](https://open.spotify.com/album/792dWqv1qLtDwjjlW36kTi) | 6:40 |
 
-Snapshot ID: `MTY0ODA4MzMzNCwwMDAwMDAwMDc1MjI0ZTc5NjUwNTRlYjU2MjllNGNhZjFkNWNmNGE4`
+Snapshot ID: `MTY0ODE2OTU0NSwwMDAwMDAwMDc1MjI0ZTc5NjUwNTRlYjU2MjllNGNhZjFkNWNmNGE4`

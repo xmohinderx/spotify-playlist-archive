@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Catherine Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,955 likes - 116 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,016 likes - 116 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [I'd Do It for Your Love](https://open.spotify.com/track/0w7P8nRrYztfsZ2VbjKUyt) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [I'd Do It for Your Love](https://open.spotify.com/album/231OMQHNM5rCeVAeprsYZ4) | 4:05 |
 | 116 | [Come Together](https://open.spotify.com/track/4L9d16l92WzqzUziUFfZ4B) | [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW), [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Robyn Black](https://open.spotify.com/artist/7jftqRFdfjRocHRNlGXyI5) | [Come Together](https://open.spotify.com/album/0LilEM4eY2UoBN06mzxb9r) | 6:30 |
 
-Snapshot ID: `MTY0ODA4MzI1NCwwMDAwMDAwMGQ4ODQ5MjVhYjVkZDgwMWEzZWQ4NWJmNDk3N2VlZDUy`
+Snapshot ID: `MTY0ODE2OTQ2NCwwMDAwMDAwMGQ4ODQ5MjVhYjVkZDgwMWEzZWQ4NWJmNDk3N2VlZDUy`

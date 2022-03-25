@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,465,165 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,465,723 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Feels In My Body](https://open.spotify.com/track/6wzwvyZ4kVPoUYDYjgErWJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Feels In My Body](https://open.spotify.com/album/2bPqggMNucG5AmJXcbCKrG) | 2:39 |
 | 100 | [Sky High \(feat\. Nonô\)](https://open.spotify.com/track/6yHR35fYbMEaDz2or8YsH1) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sky High \(feat\. Nonô\)](https://open.spotify.com/album/3vtdsgEmhYh46FzlQLzXWF) | 2:14 |
 
-Snapshot ID: `MTY0ODA4MjkyNCwwMDAwMDAwMDM4Njc3MmVkZTY0ZGU5MjBkMmM5MjVhNDc1NmVmZjZj`
+Snapshot ID: `MTY0ODE2OTEzOCwwMDAwMDAwMDM4Njc3MmVkZTY0ZGU5MjBkMmM5MjVhNDc1NmVmZjZj`

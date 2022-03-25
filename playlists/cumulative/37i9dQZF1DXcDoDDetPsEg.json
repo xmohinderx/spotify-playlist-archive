@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B Dancehall & Afrobeat playlist",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist",
   "name": "Who We Be",
   "published_playlist_ids": [
     "6s7Ce3R6enjvEkk6nbt6Wh"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 120058,
       "name": "6 Figures",
       "url": "https://open.spotify.com/track/5REHuumT1hFTNpDonMiqYt"
@@ -103,6 +103,24 @@
       "duration_ms": 226537,
       "name": "ADCT",
       "url": "https://open.spotify.com/track/0yyt46kvwqTMMn6mMpSJgq"
+    },
+    {
+      "album": {
+        "name": "Airmax's",
+        "url": "https://open.spotify.com/album/6G4RAC2zxyKq85Z9k8zIVH"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Airmax's",
+      "url": "https://open.spotify.com/track/07o36Fp4DVMIhidvTHQHDe"
     },
     {
       "album": {
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 221979,
       "name": "Girls Want Girls (with Lil Baby)",
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
@@ -1168,6 +1186,28 @@
     },
     {
       "album": {
+        "name": "Joints",
+        "url": "https://open.spotify.com/album/4KjjsmwK9VsIiOxydoFRU0"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163743,
+      "name": "Joints 2",
+      "url": "https://open.spotify.com/track/0SQWb8DfRJbeZrZI4xUEUs"
+    },
+    {
+      "album": {
         "name": "Just Fine (feat. Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc"
       },
@@ -1201,7 +1241,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 201168,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/194U52vElkbmFe8QTefrgw"
@@ -1536,6 +1576,24 @@
     },
     {
       "album": {
+        "name": "Often",
+        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135450,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
+    },
+    {
+      "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA"
       },
@@ -1559,6 +1617,24 @@
       "duration_ms": 167431,
       "name": "On Top (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "album": {
@@ -1673,6 +1749,24 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "album": {
@@ -1837,7 +1931,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 226909,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/0lR3gnAws97f4HS4vzIM3p"
@@ -1859,6 +1953,36 @@
       "duration_ms": 175096,
       "name": "Retail Therapy",
       "url": "https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2"
+    },
+    {
+      "album": {
+        "name": "Rockstar Manners",
+        "url": "https://open.spotify.com/album/12DWBA8ciLu76iQxrZq0z6"
+      },
+      "artists": [
+        {
+          "name": "Dirtbike Lb",
+          "url": "https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ"
+        },
+        {
+          "name": "Lil Pino",
+          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "LJ",
+          "url": "https://open.spotify.com/artist/42y45LydiRf0iKGoTQuvNX"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317593,
+      "name": "Rockstar Manners",
+      "url": "https://open.spotify.com/track/5kpMBRlNBmjz7ZXHnlfvrB"
     },
     {
       "album": {
@@ -1921,10 +2045,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 156967,
       "name": "SCHWEET",
       "url": "https://open.spotify.com/track/0DfzXPN5s7lmX64W1oMTWJ"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7kNpJfdJrvzVZuwWvt2w0S"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153396,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM"
     },
     {
       "album": {
@@ -2019,6 +2161,46 @@
       "duration_ms": 291004,
       "name": "The Family",
       "url": "https://open.spotify.com/track/2Kn7CqkvmqH5dI42BsncpC"
+    },
+    {
+      "album": {
+        "name": "The Worst",
+        "url": "https://open.spotify.com/album/649x6RShwv8rO3BemVsdbs"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194837,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2sz0VnSDdEM5CS61ewwgaV"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR"
     },
     {
       "album": {
@@ -2147,7 +2329,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 212801,
       "name": "Warzone (feat. Headie One)",
       "url": "https://open.spotify.com/track/0IJM1hkBCOibW2TJcLJTtf"

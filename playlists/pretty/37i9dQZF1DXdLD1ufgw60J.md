@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLD1ufgw60J.md) - [plain]
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,028 likes - 39 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,089 likes - 39 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLD1ufgw60J.md) - [plain]
 | 20 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 |
 | 21 | [Kinderszenen, Op\. 15: 7\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 |
 | 22 | [Cello Sonata in G Minor, Op\. 65: III\. Largo](https://open.spotify.com/track/3zrcDZ9hPNkZuq20pxPb9o) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Emmanuelle Bertrand](https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT), [Pascal Amoyel](https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv) | [Chopin: 1846, dernière année à Nohant](https://open.spotify.com/album/3gFpVgQIJzQzBqr1uWAsHQ) | 3:24 |
-| 23 | [Trois Romances sans paroles, Op.17: 3\. Andante moderato](https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Fauré: Piano Music](https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp) | 2:45 |
+| 23 | [Trois Romances sans paroles, Op\. 17: 3\. Andante moderato](https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Fauré: Piano Music](https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp) | 2:45 |
 | 24 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
 | 25 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano\)](https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Handel Variations](https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q) | 4:28 |
 | 26 | [13 Pieces for Piano, Op\. 76: II\. Etude](https://open.spotify.com/track/4KEiSfnnR70F0Iz5Y9Hh3Y) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Jian Wang](https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5), [Göran Söllscher](https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL) | [Reverie](https://open.spotify.com/album/6oZKt8yzDHcVPKRC4oiUAk) | 2:48 |

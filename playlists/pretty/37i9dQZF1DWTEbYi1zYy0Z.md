@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,165 likes - 78 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,163 likes - 78 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 77 | [Denola](https://open.spotify.com/track/4TkYbPPXffu1nOaTRWYd1X) | [Jesty Beatz](https://open.spotify.com/artist/7sRH2fPfPf4B0BofCmltmV) | [Denola](https://open.spotify.com/album/4QCz8BlWYJQbAUitX9XKKw) | 3:42 |
 | 78 | [Midnight in Strasbourg](https://open.spotify.com/track/3PNQGeolhShPXWTcemZjkE) | [Jesty Beatz](https://open.spotify.com/artist/7sRH2fPfPf4B0BofCmltmV) | [Midnight in Strasbourg](https://open.spotify.com/album/3XFDltcxHK1zQatU979Eud) | 2:49 |
 
-Snapshot ID: `MTY0ODA4Mjk1MywwMDAwMDAwMDkyMmY1YzFhZTMwODA5ZjQyMmFiYjhkYTMzZDgwNjJl`
+Snapshot ID: `MTY0ODE2OTE2OCwwMDAwMDAwMDkyMmY1YzFhZTMwODA5ZjQyMmFiYjhkYTMzZDgwNjJl`

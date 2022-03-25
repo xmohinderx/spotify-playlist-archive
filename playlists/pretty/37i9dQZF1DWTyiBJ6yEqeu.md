@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Top tracks that gamers love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,207,747 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,209,390 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [Dynasties and Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:58 |
 | 100 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
 
-Snapshot ID: `MTY0ODA4Mjk3NiwwMDAwMDAwMDZiZmE5MThkYTU4ZDk3NGVhMGMzYjZmYzM2ZmNkZDY2`
+Snapshot ID: `MTY0ODE2OTE5MSwwMDAwMDAwMDZiZmE5MThkYTU4ZDk3NGVhMGMzYjZmYzM2ZmNkZDY2`

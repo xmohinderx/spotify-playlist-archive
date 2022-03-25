@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: Stray Kids
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: Red Velvet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

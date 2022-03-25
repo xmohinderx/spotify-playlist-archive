@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUt6s1pWAnvP.md) - [plain]
 
 > A place for recovery \- silent ambient for thinkers and contemplators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,098 likes - 49 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 49 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUt6s1pWAnvP.md) - [plain]
 | 48 | [Dawn](https://open.spotify.com/track/4v93IUVgbQhYSuk75aJhey) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 5:34 |
 | 49 | [Riposte Erik Satie \- Movement 1](https://open.spotify.com/track/3lWrbDvJGFmTpNowYYDOO0) | [Mikael Strömberg](https://open.spotify.com/artist/6w6eBpcjB6tInBc9ViTwOC), [Igor](https://open.spotify.com/artist/2ikv8eyz0jRCSzcvWzLui0), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ) | [Riposte Erik Satie \(Slim Vic Interpretation\)](https://open.spotify.com/album/1ffTXu6lQKivmSVrREmY5V) | 3:45 |
 
-Snapshot ID: `MTY0ODA4MzAwMiwwMDAwMDAwMDEwNmRmYWZmYjFhMWY4NDdhMmJhY2U4MTYwMjdmOTVm`
+Snapshot ID: `MTY0ODE2OTIxNywwMDAwMDAwMDEwNmRmYWZmYjFhMWY4NDdhMmJhY2U4MTYwMjdmOTVm`

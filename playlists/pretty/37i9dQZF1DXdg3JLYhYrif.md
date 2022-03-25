@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,660 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,792 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Coisa Boa](https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ) | 2:45 |
 | 60 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/4JPSfCXQe6kDliMIJTqISW) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo em São Paulo / SP](https://open.spotify.com/album/2xTPxjRdVrHHLAUQNBSIET) | 2:50 |
 
-Snapshot ID: `MTY0ODA4MzU5NiwwMDAwMDAwMDdjM2NjZjRiMjVlNzgxMGVjMWFhZjdmYTE2NTIzOTdj`
+Snapshot ID: `MTY0ODE2OTgwNywwMDAwMDAwMGM5YjdkOTE2N2IzYTZkOTRkNWQzZDY5N2QyZDY4MWI0`

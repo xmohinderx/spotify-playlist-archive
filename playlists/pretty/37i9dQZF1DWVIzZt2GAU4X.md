@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423,602 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,947 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 75 | [No Matter \- Acoustic](https://open.spotify.com/track/14OWlpPcJxsBvSGI4W65Hl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [No Matter \(Acoustic\)](https://open.spotify.com/album/50uqLJgUtCTRFaBlomS7aP) | 2:53 |
 
-Snapshot ID: `MTY0ODA4MzAxMywwMDAwMDAwMDEyYzNhYmRjNTVhNGE1YTZkNzllMzA3OGE3YzEwNTE0`
+Snapshot ID: `MTY0ODE2OTIyOCwwMDAwMDAwMDEyYzNhYmRjNTVhNGE1YTZkNzllMzA3OGE3YzEwNTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: DDG
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,659 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,725 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 29 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 |
 | 30 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/4R0TbGDajuONPx6g9c5z3J) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 1:49 |
 | 31 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
-| 32 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa, Big K.R.I.T., Girl Talk](https://open.spotify.com/artist/3pJhszZ9pnn4xpdxtLOObE), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
+| 32 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 |
 | 33 | [RBS \(Rich Bish Shit\)](https://open.spotify.com/track/6hRY7o0sJeAHmlbgrWVl8J) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [RBS \(Rich Bish Shit\)](https://open.spotify.com/album/6pDWHoPYicB6buEdxxVELb) | 2:40 |
 | 34 | [Counting Time](https://open.spotify.com/track/1nfKS6fgYustmjIWp36qsW) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Melodic Therapy 4 The Broken](https://open.spotify.com/album/4LUn1xpue7Y0egzBCA5hs8) | 3:46 |
 | 35 | [Elegance \(feat\. Lil Tjay\)](https://open.spotify.com/track/3oO2XyRdK811tVYax3qEAZ) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Elegance \(feat\. Lil Tjay\)](https://open.spotify.com/album/11WYYNPzYrRWezc3wgb1Po) | 3:28 |

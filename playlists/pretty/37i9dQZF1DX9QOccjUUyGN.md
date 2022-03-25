@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Kalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,607 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 35 | [Avião](https://open.spotify.com/track/07q7al4TvzBrasw5KJlZzg) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Dj Matt\-D](https://open.spotify.com/artist/63LKC5Zwuf3MLWG90JuFqs) | [Avião](https://open.spotify.com/album/6zBLXKsUYZDkZMOQkYeENf) | 2:28 |
 | 36 | [Ela Pula](https://open.spotify.com/track/2hzfGunUHr4hYGbSfjV6kY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Ela Pula](https://open.spotify.com/album/0KXPF0t10ml2km7ZE7InxL) | 3:19 |
 | 37 | [Bandida](https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Bandida](https://open.spotify.com/album/675uZGQiA6OGmEt8LsG70p) | 3:23 |
-| 38 | [Algum lugar](https://open.spotify.com/track/4xM7qePaTKLyWI3kyHrJVc) | [Sest](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Algum lugar](https://open.spotify.com/album/7HFgJhmyJROPziqQy5Mr9o) | 3:17 |
+| 38 | [Algum lugar](https://open.spotify.com/track/4xM7qePaTKLyWI3kyHrJVc) | [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Algum lugar](https://open.spotify.com/album/7HFgJhmyJROPziqQy5Mr9o) | 3:17 |
 | 39 | [DA BOCA](https://open.spotify.com/track/4lytAWvGKl5MZLUC08oxPG) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [DA BOCA](https://open.spotify.com/album/6SNXgjj1BIAWtQqJfVAUSn) | 3:03 |
 | 40 | [Oceanus](https://open.spotify.com/track/32ypjzrT9WfnhSxlNodKg9) | [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA), [Raphael Debu](https://open.spotify.com/artist/3SFVjX6fehw8ZmM9qUaGCT) | [Oceanus](https://open.spotify.com/album/7tw6PVjK16c59IsgytFOhx) | 2:36 |
 | 41 | [crazy](https://open.spotify.com/track/52dY05m7cPZN8T5ScOLOFy) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [crazy](https://open.spotify.com/album/64F5xEtg6S83eBCStQWHZ7) | 2:40 |

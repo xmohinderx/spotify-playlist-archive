@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Representin' +82 Korean Hip-Hop's sickest rhymes and beats. (Cover: \bLil Cherry(\ub9b4\uccb4\ub9ac)) (\ud55c\uad6d\ud799\ud569\uc744 \ub300\ud45c\ud558\ub294 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Representin' +82 Korean Hip-Hop's sickest rhymes and beats. (Cover: \bPaul Blanco(\ud3f4 \ube14\ub791\ucf54)) (\ud55c\uad6d\ud799\ud569\uc744 \ub300\ud45c\ud558\ub294 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "K-Hip-Hop +82",
   "published_playlist_ids": [
     "6eQCLyN2pb2xMxhClGC7H2"
@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "PROMISED LAND",
+        "url": "https://open.spotify.com/album/20ba9oqwqyIpYrZHpGTsHy"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223357,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4VrBh5AlottbINgmoVlcZg"
+    },
+    {
+      "album": {
         "name": "Chronicles",
         "url": "https://open.spotify.com/album/6lafcDkExPftiiaL3yAq7o"
       },
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 139407,
       "name": "CATWALK (feat. Rico Nasty) (prod. GOLDBUUDA)",
       "url": "https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo"

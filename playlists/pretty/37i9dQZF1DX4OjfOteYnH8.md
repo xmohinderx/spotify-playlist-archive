@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Maxiolly, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,187 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,239 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OjfOteYnH8.md) - [plain]
 | 59 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 |
 | 60 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
 
-Snapshot ID: `MTY0ODA4MzMwMywwMDAwMDAwMDE2OWRhNzU1YzYzN2IwZThhYTYwZWU5MzNiZDVlZWNk`
+Snapshot ID: `MTY0ODE2OTUxNCwwMDAwMDAwMDE2OWRhNzU1YzYzN2IwZThhYTYwZWU5MzNiZDVlZWNk`

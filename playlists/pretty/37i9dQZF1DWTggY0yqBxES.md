@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield and for the real hip\-hop stans! Cover: EARTHGANG
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,885 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,299 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [Much Money \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/6I5VbxQiJYBetYKdlRINr3) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Angelic Hoodrat: Supercut](https://open.spotify.com/album/55oL9JR69c0rbLAfGCFbAF) | 3:07 |
 | 50 | [Herringbone](https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Herringbone](https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI) | 2:44 |
 
-Snapshot ID: `MTY0ODA4Mjk3MCwwMDAwMDAwMDI3ZGY4MTJiY2FmYjVhYzZiZTA1NDliNjM0N2NjZWRk`
+Snapshot ID: `MTY0ODE2OTE4NSwwMDAwMDAwMDI3ZGY4MTJiY2FmYjVhYzZiZTA1NDliNjM0N2NjZWRk`

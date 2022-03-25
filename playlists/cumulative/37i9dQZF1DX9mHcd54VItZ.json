@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Caught in Suspension",
+        "url": "https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247411,
+      "name": "Caught in Suspension",
+      "url": "https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE"
       },
@@ -348,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Electrosexual",
+        "url": "https://open.spotify.com/album/3oOfRxQVNY46FgsNC3BT24"
+      },
+      "artists": [
+        {
+          "name": "Sulene",
+          "url": "https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Electrosexual",
+      "url": "https://open.spotify.com/track/3yLUIXM52P3jEj7AWLr5oz"
+    },
+    {
+      "album": {
         "name": "Elephant in the Room",
         "url": "https://open.spotify.com/album/0fRN2TVobFPEhOBfpU12tg"
       },
@@ -453,6 +489,24 @@
       "duration_ms": 420284,
       "name": "Evil",
       "url": "https://open.spotify.com/track/7aDCtvjXgzlY5w7pH6Ejve"
+    },
+    {
+      "album": {
+        "name": "EX-GIRLFRIEND",
+        "url": "https://open.spotify.com/album/6D5taPEIOdazo0DMHRRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "EX-GIRLFRIEND",
+      "url": "https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8"
     },
     {
       "album": {
@@ -705,7 +759,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 231714,
       "name": "Invisible Visitor",
       "url": "https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s"
@@ -727,6 +781,24 @@
       "duration_ms": 186293,
       "name": "It's Hard",
       "url": "https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj"
+    },
+    {
+      "album": {
+        "name": "Droombrief",
+        "url": "https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244401,
+      "name": "Kerse",
+      "url": "https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf"
     },
     {
       "album": {
@@ -1271,7 +1343,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 192013,
       "name": "State of Emergency",
       "url": "https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN"
@@ -1289,7 +1361,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 213252,
       "name": "Swine Tooth Grin - Single Mix",
       "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
@@ -1459,7 +1531,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 278521,
       "name": "Time on Your Hands",
       "url": "https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP"
@@ -1593,6 +1665,24 @@
       "duration_ms": 289320,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
+    },
+    {
+      "album": {
+        "name": "Adieu Or Die",
+        "url": "https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt"
+      },
+      "artists": [
+        {
+          "name": "Moskitos",
+          "url": "https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192116,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4"
     },
     {
       "album": {

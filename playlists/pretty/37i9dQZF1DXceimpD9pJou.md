@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Kike Pavón
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,909 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,018 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Cotizate](https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W) | [Militante Bierd](https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F) | [Cotizate](https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC) | 3:12 |
 | 100 | [Nadie Va A Robar Tu Gloria \(Espontáneo\) \- Live](https://open.spotify.com/track/4bWVZDs1FI8niOCjquJFHb) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [To The One Who Is Seated On The Throne \(Live\)](https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh) | 9:08 |
 
-Snapshot ID: `MTY0ODA4MzU2NSwwMDAwMDAwMDFjZjE0MjdiZjVkYjJlNzFhN2M3OGNlMjRmNDY5NDc4`
+Snapshot ID: `MTY0ODE2OTc3NSwwMDAwMDAwMDFjZjE0MjdiZjVkYjJlNzFhN2M3OGNlMjRmNDY5NDc4`

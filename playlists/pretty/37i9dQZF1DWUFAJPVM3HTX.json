@@ -1,6 +1,6 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Kennedy Rd., Artwork: Crystal Zapata",
-  "num_followers": 144854,
+  "num_followers": 145068,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY0ODA1MTIwMCwwMDAwMDBjNDAwMDAwMTdmYjc4MWEwNzEwMDAwMDE3ZjA1MDQ3MTU5",
   "tracks": [
+    {
+      "added_at": "2022-03-23 16:00:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/5Uy03PSdHLjdBiGAo8aPez"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/17YoMAb5cKrsCNuptxfEAA"
+    },
     {
       "added_at": "2022-03-16 18:15:34",
       "album": {
@@ -119,6 +135,26 @@
     {
       "added_at": "2022-03-23 16:00:00",
       "album": {
+        "name": "Fairy Tales",
+        "url": "https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        },
+        {
+          "name": "Mileena",
+          "url": "https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu"
+        }
+      ],
+      "duration_ms": 134016,
+      "name": "Fairy Tales",
+      "url": "https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV"
+    },
+    {
+      "added_at": "2022-03-23 16:00:00",
+      "album": {
         "name": "Live From the Pit",
         "url": "https://open.spotify.com/album/7Jwxk8laLKJF5gWLWIamVj"
       },
@@ -131,6 +167,22 @@
       "duration_ms": 150000,
       "name": "I Hate It Here - Live",
       "url": "https://open.spotify.com/track/66E7IrBV9rd5YNR6xCQJsy"
+    },
+    {
+      "added_at": "2022-03-23 16:00:00",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg"
+      },
+      "artists": [
+        {
+          "name": "Ashli",
+          "url": "https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9"
+        }
+      ],
+      "duration_ms": 188117,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh"
     },
     {
       "added_at": "2022-03-23 16:00:00",
@@ -195,6 +247,22 @@
       "duration_ms": 171112,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c"
+    },
+    {
+      "added_at": "2022-03-23 16:00:00",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/1ppZ4yRYpmhcv9NsFO0tOA"
+      },
+      "artists": [
+        {
+          "name": "Rob V",
+          "url": "https://open.spotify.com/artist/4MfMoxxIjmWNJm1Strguyd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/5YTX6MAmSHdh6UI9uyvMHw"
     },
     {
       "added_at": "2022-03-23 16:00:00",

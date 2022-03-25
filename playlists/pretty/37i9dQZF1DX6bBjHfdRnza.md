@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Poté, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,928 likes - 110 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,081 likes - 110 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 104 | [Bedouin Joy](https://open.spotify.com/track/2OKfAtj6fTgJRghXn2pxm0) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [Bedouin Joy](https://open.spotify.com/album/0aQ18bNVPwUapOiUIG3i4W) | 6:13 |
 | 105 | [Just Like U](https://open.spotify.com/track/0HBkQ4ObmXkOU81tZcrjOB) | [Killedbykira](https://open.spotify.com/artist/3TsJns4xlwXfwa7CJeTMeG) | [Just Like U](https://open.spotify.com/album/5UlP45FgkqpCujdCegS2O5) | 1:41 |
 | 106 | [Everything I Do](https://open.spotify.com/track/2dFadkJTyaKCJ78y4kyoz7) | [Maud](https://open.spotify.com/artist/57Q0h7KY75ilQfEXVLde1B) | [Everything I Do](https://open.spotify.com/album/0t6UgpQzhbUenCHCinycvT) | 3:25 |
-| 107 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:51 |
+| 107 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 108 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 109 | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/track/4RYcN3G71xtFR2XnUqKjWR) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd) | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/album/5UCF2hkqBluvTFxcR29OPq) | 1:37 |
 | 110 | [Morning Groove](https://open.spotify.com/track/08KK6b2FwNtdFIVlAPKdar) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh) | [Morning Groove](https://open.spotify.com/album/0HGixIBA0AkD8TUjmpxvVa) | 4:39 |

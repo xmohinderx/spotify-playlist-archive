@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
-> The best French indie tracks right now\. Cover: Miel de Montagne
+> The best French indie tracks right now\. Cover: Ehla
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-16 |  |
 | [Cour Des Miracles](https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Cour Des Miracles](https://open.spotify.com/album/3OsZbmYBunUMQs3rsglvhr) | 4:06 | 2021-12-16 | 2022-02-25 |
-| [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 |  |
+| [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
 | [Dictators](https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Dictators](https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ) | 3:18 | 2022-02-17 |  |
 | [Disco Dream](https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a) | [Toukan Toukän](https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH) | [Disco Dream](https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi) | 3:22 | 2021-12-16 |  |
 | [Distant Calls](https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Distant Calls](https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN) | 2:44 | 2021-12-16 |  |
@@ -27,6 +27,7 @@
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 |  |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 |  |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
+| [Forever](https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever](https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY) | 3:45 | 2022-03-24 |  |
 | [Get to Me](https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Leo Fifty Five](https://open.spotify.com/artist/1ytH8uFCe1l9mxfqUUnYMF) | [Get to Me](https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp) | 3:08 | 2021-12-16 | 2022-01-21 |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 |  |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
@@ -35,6 +36,7 @@
 | [Ilya](https://open.spotify.com/track/5mIf7UP0FEsGaGWBVjrNKP) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Ilya](https://open.spotify.com/album/5QZQhk6woOLUvKbHBxwkgQ) | 2:26 | 2021-12-16 | 2022-02-18 |
 | [Insomnie](https://open.spotify.com/track/0T9wtwG6ZJNgeqBBiGrwGK) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Insomnie](https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2) | 2:37 | 2021-12-16 | 2022-02-25 |
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
+| [JVP](https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m) | 2:50 | 2022-03-24 |  |
 | [Keep on Fighting](https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Shake the Disease](https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A) | 3:10 | 2022-01-13 | 2022-02-04 |
 | [L'Extase](https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [L'Extase](https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy) | 4:21 | 2022-03-10 |  |
 | [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 | 2022-03-10 |  |
@@ -56,10 +58,11 @@
 | [Masque d'or](https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Masque d'or](https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt) | 3:31 | 2021-12-16 |  |
 | [Mauvaise Idée](https://open.spotify.com/track/1yYLMVMSM2u7t1yfzAivy1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Mauvaise Idée](https://open.spotify.com/album/6UlkvH6RmJXEQ2Vk0fB20p) | 3:43 | 2021-12-16 | 2022-01-21 |
 | [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 |  |
-| [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 |  |
+| [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 | 2021-12-16 |  |
 | [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 | 2022-01-06 |  |
 | [Misbehave](https://open.spotify.com/track/7wKs9pd54ChcpRCn0ZvMZy) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sonic Poems](https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn) | 3:29 | 2022-02-24 |  |
+| [Mon cœur](https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Mon cœur](https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf) | 3:18 | 2022-03-24 |  |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 |  |
 | [Noir \- Radio Edit](https://open.spotify.com/track/3w5V2euF3wWJnZkkt0QBxq) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Noir \(Radio Edit & Remixes\)](https://open.spotify.com/album/1mAA1TuXTiymyRcdxALQ9j) | 2:41 | 2021-12-16 | 2022-02-04 |
 | [None of This Matters Now](https://open.spotify.com/track/5thKTyn54nRudRpBsZBa4t) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [None of This Matters Now](https://open.spotify.com/album/74OdkFyNbDjCKhTpc0MVCn) | 3:41 | 2021-12-16 | 2022-01-21 |
@@ -67,7 +70,7 @@
 | [Nostalgique](https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Nostalgique](https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3) | 2:46 | 2022-02-03 |  |
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2021-12-16 | 2022-02-18 |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-16 | 2022-01-28 |
-| [Orange Mountains](https://open.spotify.com/track/45UT1NY9lpbJfdYp5Kdd1U) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Orange Mountains](https://open.spotify.com/album/1QrJuxwQWh0NDz28apqavn) | 4:26 | 2021-12-16 |  |
+| [Orange Mountains](https://open.spotify.com/track/45UT1NY9lpbJfdYp5Kdd1U) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Orange Mountains](https://open.spotify.com/album/1QrJuxwQWh0NDz28apqavn) | 4:26 | 2021-12-16 | 2022-03-25 |
 | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/track/2CYMaXOmO0cIRIrlXT9Sxw) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Ouais tu t'es pris pour Shakespeare ?](https://open.spotify.com/album/7JLZh7KEsZnvd090HkJ2Ig) | 3:24 | 2021-12-16 | 2022-02-04 |
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,608,078 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,608,652 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [2Drunk](https://open.spotify.com/track/33o0xXMPY41CWwDTnxyM5Z) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Spaceman](https://open.spotify.com/album/3FTjOu2zQLWcl1NVos4eAq) | 3:12 |
 | 100 | [Everybody Wants You](https://open.spotify.com/track/0xEz3xO1V18R3z9p2kni5C) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Everybody Wants You](https://open.spotify.com/album/5AgDjZj9zkKfkc7FbH1tE0) | 3:20 |
 
-Snapshot ID: `MTY0ODA4MzM5MiwwMDAwMDAwMGM3NWQ3MDdkZWMwMGI0MmZhY2E5MmNjMmE0NjI0Y2Yx`
+Snapshot ID: `MTY0ODE2OTYwMywwMDAwMDAwMGM3NWQ3MDdkZWMwMGI0MmZhY2E5MmNjMmE0NjI0Y2Yx`

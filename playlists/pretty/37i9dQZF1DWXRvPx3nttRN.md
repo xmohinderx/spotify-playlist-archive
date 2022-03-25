@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,231 likes - 232 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,359 likes - 232 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [Get Lucky](https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U) | [GMPresents & Jocelyn Scofield](https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy) | [Were Up All Night To Get Lucky \(Daft Punk feat\. Pharrell Williams, Glee Cast Cover\)](https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x) | 3:28 |
 | 232 | [Waiting For Love \- Prinston & Astrid S Acoustic Version](https://open.spotify.com/track/6jMcnR3U9NDwtziD5fmSYY) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jens Siverstedt](https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI) | [Waiting For Love \(Remixes\)](https://open.spotify.com/album/4yjiauN4w1HUe5dmv7An24) | 3:21 |
 
-Snapshot ID: `MTY0ODA4MzA4NywwMDAwMDAwMDU0MzI4ZTFjNWYzYjFhNGVmNDNjMGU0ZTM5MmFhMjBj`
+Snapshot ID: `MTY0ODE2OTMwMSwwMDAwMDAwMDU0MzI4ZTFjNWYzYjFhNGVmNDNjMGU0ZTM5MmFhMjBj`

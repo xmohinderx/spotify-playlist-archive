@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 ### [Body & Soul](https://open.spotify.com/playlist/37i9dQZF1DWXUtxBFupUW9)
 
-> Exercise together with classic uplifting soul music.
+> Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,559 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,669 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 49 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
 | 50 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
 
-Snapshot ID: `MTY0ODA4MzA4OSwwMDAwMDAwMDU0MzI4MTEzMDg2ZGIzZmU5ZjBlMWQxNjBlNjEyMzdm`
+Snapshot ID: `MTY0ODE2OTMwMywwMDAwMDAwMDY1NzNhNzI3Y2M1YmQ3YTFjYzhkYzc3YmNkMThiYWQ4`

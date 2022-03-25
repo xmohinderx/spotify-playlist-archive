@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,550 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,675 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [The Adventures of Grandmaster Flash On the Wheels of Steel \- Extended Mix](https://open.spotify.com/track/7xMzNQkDzu3JZkhURGvH7p) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Greatest Mixes](https://open.spotify.com/album/6wTZPwUSXTOGVXnByPqx9v) | 7:06 |
 | 70 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 
-Snapshot ID: `MTY0ODA4MzI1MCwwMDAwMDAwMDA5Y2MwYTQwOWRiYmIxNzc2MzdlZDkxMmU0NzkwYWIx`
+Snapshot ID: `MTY0ODE2OTQ2MSwwMDAwMDAwMDA5Y2MwYTQwOWRiYmIxNzc2MzdlZDkxMmU0NzkwYWIx`

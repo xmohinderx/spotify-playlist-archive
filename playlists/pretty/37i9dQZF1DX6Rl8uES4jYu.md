@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,741 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,757 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Do or Die](https://open.spotify.com/track/1CfTuOvVnBDEE9ox8yYDrv) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Do or Die](https://open.spotify.com/album/5rv4qSw9HLMWhI2S2tNISG) | 2:46 |
 | 80 | [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 |
 
-Snapshot ID: `MTY0ODA4MzM3OCwwMDAwMDAwMDVkZDZmM2U5N2IyYzc2Zjc3ZDc4ZjZmMmRhM2RlYmEy`
+Snapshot ID: `MTY0ODE2OTU4OSwwMDAwMDAwMDVkZDZmM2U5N2IyYzc2Zjc3ZDc4ZjZmMmRhM2RlYmEy`

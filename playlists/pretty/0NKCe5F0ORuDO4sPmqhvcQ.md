@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,432 likes - 49 songs - 2 hr 40 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,432 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 47 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 |
 | 48 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 |
 | 49 | [maybe it was god](https://open.spotify.com/track/0MCt7lGPIqtAMXjkZfJLmh) | [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [maybe it was god](https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2) | 3:10 |
+| 50 | [Head Rush](https://open.spotify.com/track/6P7hgOGUCwxwMSBD2U5TaW) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Head Rush](https://open.spotify.com/album/4vusfXlDX1OWRRO3rfAJyq) | 2:32 |
+| 51 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 |
 
-Snapshot ID: `OTU3NCw2ODNjOGUxMGRiMDVlOGFkZWFlZTE4YmE0Y2Q5YjVlNTc4YjZhMzFh`
+Snapshot ID: `OTU3NixmYzc4NzI3YWYxOWE3N2YwZDFiZThkMjBjYzgwYTA3ZGY4OTNmODYw`

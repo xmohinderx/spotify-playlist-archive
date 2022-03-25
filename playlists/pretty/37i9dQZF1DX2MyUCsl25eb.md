@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,021 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,149 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 74 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 |
 | 75 | [Warm Animal](https://open.spotify.com/track/7oiZRx7OZbUAYUiYeFTXrf) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [What's It Like?](https://open.spotify.com/album/5LJzP85Zn7B2IAt7zhLImG) | 3:31 |
 
-Snapshot ID: `MTY0ODA4MzI0NCwwMDAwMDAwMDU5ZTAwOGRjZGMxYzljOTdkNGNhNzYwZWQxNDNhYmFh`
+Snapshot ID: `MTY0ODE2OTQ1MywwMDAwMDAwMDU5ZTAwOGRjZGMxYzljOTdkNGNhNzYwZWQxNDNhYmFh`

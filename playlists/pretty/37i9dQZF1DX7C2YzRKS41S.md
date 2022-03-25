@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,397 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,429 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Parece Vício](https://open.spotify.com/track/40Jxk3ML7GVFbQ6cvoJVfe) | [Luzia](https://open.spotify.com/artist/4ythpEeZW1WSpJtfbOM4BX), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Parece Vício](https://open.spotify.com/album/1imy252ia6q40XYYCexSTV) | 3:17 |
 | 60 | [Barco No Seu Mar](https://open.spotify.com/track/3Tnrv3tsK9IUtMbwibB3Fy) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Barco No Seu Mar](https://open.spotify.com/album/1BzlF4CXvACWpwn3iQlfxT) | 2:25 |
 
-Snapshot ID: `MTY0ODA4MzM5NywwMDAwMDAwMDhkZDZiMWE1OWEyNWNmMWEyZGYzZWQ3NzRhMDM5Mzlm`
+Snapshot ID: `MTY0ODE2OTYwOCwwMDAwMDAwMDhkZDZiMWE1OWEyNWNmMWEyZGYzZWQ3NzRhMDM5Mzlm`

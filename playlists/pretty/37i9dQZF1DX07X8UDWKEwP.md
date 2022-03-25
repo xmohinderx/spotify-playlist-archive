@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Novedades del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,488 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,496 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 79 | [Tan Bonita Pero Tan Mala](https://open.spotify.com/track/2aHmvCzSXQufbPovXdnVFt) | [Max Cortés](https://open.spotify.com/artist/7iMqYM5dnlCfhcklOAb9qX) | [Tan Bonita Pero Tan Mala](https://open.spotify.com/album/0pEG5qV58gXVwi65yEsIZZ) | 3:59 |
 | 80 | [Por Qué](https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:22 |
 
-Snapshot ID: `MTY0ODA4MzE2OCwwMDAwMDAwMGE3MDc5YzljY2M5MWIzMDBjNTVhNzJhMmZlZmIyYmNj`
+Snapshot ID: `MTY0ODE2OTM3OSwwMDAwMDAwMGE3MDc5YzljY2M5MWIzMDBjNTVhNzJhMmZlZmIyYmNj`

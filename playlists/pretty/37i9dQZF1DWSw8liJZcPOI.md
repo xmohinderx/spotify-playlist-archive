@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,528 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,721 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [The Young Weaver](https://open.spotify.com/track/7hcHSv7pAIW6T9qOIaPMDW) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [The Young Weaver](https://open.spotify.com/album/0nPsmNlgQgiYUzWTrAncAc) | 3:15 |
 | 80 | [Waves](https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves](https://open.spotify.com/album/3Bvfvwrb3Kid38Bp8ELuhL) | 4:36 |
 
-Snapshot ID: `MTY0ODA4Mjk0MywwMDAwMDAwMGYwN2IyZTBjMTAxMTM2Mzc0ZDc1ZTk5ZWZiMWM0YzBi`
+Snapshot ID: `MTY0ODE2OTE1OCwwMDAwMDAwMGYwN2IyZTBjMTAxMTM2Mzc0ZDc1ZTk5ZWZiMWM0YzBi`

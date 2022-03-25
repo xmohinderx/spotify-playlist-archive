@@ -1426,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213180,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n"
+    },
+    {
+      "album": {
         "name": "Look At Me",
         "url": "https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR"
       },

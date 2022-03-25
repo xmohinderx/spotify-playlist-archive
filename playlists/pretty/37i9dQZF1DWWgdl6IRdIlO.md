@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: МЭЙБИ БЭЙБИ
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,418 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,428 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 | 45 | [Афродита \- Toaster Cypher](https://open.spotify.com/track/35p4nSbqMuvpeAebniwVp6) | [Masha Hima](https://open.spotify.com/artist/3vAwYeWQvUFopemqRp7yHC), [Эмелевская](https://open.spotify.com/artist/3WV6GB9wjzJmBLidKPBsvh), [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K) | [Афродита \(Toaster Cypher\)](https://open.spotify.com/album/6Twv8Ty5J9VwbmfTejExBF) | 3:04 |
 | 46 | [Калипсо](https://open.spotify.com/track/21FlXcZ1q0hBdWpq49Iry4) | [Sanya Becker](https://open.spotify.com/artist/1VSzjEyYMPYO0qychXwLhV), [Janil Natas](https://open.spotify.com/artist/2c2aBdKm2vWkfAAi4IIYaF) | [Калипсо](https://open.spotify.com/album/23XkhoyP2B9qXl8ysKosl3) | 3:05 |
 | 47 | [Не перегори](https://open.spotify.com/track/3GmF8i3Q5d9a2j28bV3PjV) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g) | [Не перегори](https://open.spotify.com/album/3KgIMbfzbRY9niPPoU6mNi) | 2:26 |
-| 48 | [Там под снегом](https://open.spotify.com/track/3on433UZgB31I9xq7ozKmr) | [Настя Макаревич](https://open.spotify.com/artist/1xSWQKxoh4uyqK38TqbILK), [Лицей](https://open.spotify.com/artist/1CwZuD2FTtEGKBIKYyuBPZ) | [Там под снегом](https://open.spotify.com/album/0n4SB3HDIgszwtDCOm42lv) | 3:57 |
-| 49 | [Где ты?](https://open.spotify.com/track/3MFGEmHB4x74ayjnJH9pA5) | [LINA LEE](https://open.spotify.com/artist/4Yh961o1U6CBuvhRhpnx9K) | [Где ты?](https://open.spotify.com/album/1NLmnueUUtMy0uX14YxVCW) | 2:28 |
+| 48 | [MOTTO](https://open.spotify.com/track/1bRcxSv2glAHWH5EVBdDr3) | [SHENA?](https://open.spotify.com/artist/68M5xxqt7LiGhLbVjsvF9R) | [MOTTO](https://open.spotify.com/album/4DjtNM8dFH1eNeZDf6abbG) | 2:18 |
+| 49 | [Там под снегом](https://open.spotify.com/track/3on433UZgB31I9xq7ozKmr) | [Настя Макаревич](https://open.spotify.com/artist/1xSWQKxoh4uyqK38TqbILK), [Лицей](https://open.spotify.com/artist/1CwZuD2FTtEGKBIKYyuBPZ) | [Там под снегом](https://open.spotify.com/album/0n4SB3HDIgszwtDCOm42lv) | 3:57 |
+| 50 | [Где ты?](https://open.spotify.com/track/3MFGEmHB4x74ayjnJH9pA5) | [LINA LEE](https://open.spotify.com/artist/4Yh961o1U6CBuvhRhpnx9K) | [Где ты?](https://open.spotify.com/album/1NLmnueUUtMy0uX14YxVCW) | 2:28 |
 
 Snapshot ID: `MTY0NjczMDc5MSwwMDAwMDAxOTAwMDAwMTdmNjhjZGM4NjMwMDAwMDE3ZjY4YTNiNTQ5`

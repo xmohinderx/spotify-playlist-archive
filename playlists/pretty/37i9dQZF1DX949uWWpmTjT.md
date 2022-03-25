@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > Slow and soft sounds of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,763 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,938 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 99 | [Words Can't Describe](https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 4:35 |
 | 100 | [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 |
 
-Snapshot ID: `MTY0ODA4MzQ1NiwwMDAwMDAwMGI4MDI3ZDVhMmYwNTdhNjQ3NzAzNGZkZTVkYzU0ODM1`
+Snapshot ID: `MTY0ODE2OTY2NywwMDAwMDAwMDE1OGRlNmJiNDU1MGVlYTkxMmRiMjFkYTA4ZDM1Mjdi`

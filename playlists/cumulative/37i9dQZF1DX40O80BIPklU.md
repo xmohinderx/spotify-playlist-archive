@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Bizarrap, Residente
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Residente
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

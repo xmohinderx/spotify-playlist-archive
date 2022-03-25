@@ -3104,6 +3104,24 @@
     },
     {
       "album": {
+        "name": "Ruido Celestial",
+        "url": "https://open.spotify.com/album/2OZmC55Zgc0SnN6AOcyAOt"
+      },
+      "artists": [
+        {
+          "name": "Magia Blanca",
+          "url": "https://open.spotify.com/artist/6NB99H716sPOH3xsWrtgHV"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Ruido Celestial",
+      "url": "https://open.spotify.com/track/7uBiF0GgFjltcpvFkaZ97D"
+    },
+    {
+      "album": {
         "name": "Ruido Blanco",
         "url": "https://open.spotify.com/album/7IrWdh3MEKgHrzgoQnHPCx"
       },
@@ -3911,6 +3929,24 @@
       "duration_ms": 222315,
       "name": "Sweetness - 1.27 kHz",
       "url": "https://open.spotify.com/track/3Ry1HL7xhkInsVVzmJs60T"
+    },
+    {
+      "album": {
+        "name": "Digitalion",
+        "url": "https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Architect",
+          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "System Shutdown",
+      "url": "https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp"
     },
     {
       "album": {

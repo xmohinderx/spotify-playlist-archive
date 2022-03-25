@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,393 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,740 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 |
 | 100 | [Your Dog](https://open.spotify.com/track/1BSTxGkSTTLwEpbuusHRzH) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Your Dog](https://open.spotify.com/album/0damtrWa5KnlBhXNK5IcYK) | 3:14 |
 
-Snapshot ID: `MTY0ODA4MzQ1NCwwMDAwMDAwMDlhZDkzOGJkNWMzYzg3ODhkNTM1Yjk1NDE0MDJkYzUy`
+Snapshot ID: `MTY0ODE2OTY2NCwwMDAwMDAwMDlhZDkzOGJkNWMzYzg3ODhkNTM1Yjk1NDE0MDJkYzUy`

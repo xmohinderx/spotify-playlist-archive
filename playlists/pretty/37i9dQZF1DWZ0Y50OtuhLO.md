@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > The soundtrack to being the best version of you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,428 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,489 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 49 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 50 | [I Could Get Used To This \(with WEISS\)](https://open.spotify.com/track/6MSuMFyOdoJMAEgvnhqbRu) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:14 |
 
-Snapshot ID: `MTY0ODA4MzEzNSwwMDAwMDAwMDQzNGU3NmJiNWFmMGYwMmIxNmQ4MTZhNzU5MTMwNmZh`
+Snapshot ID: `MTY0ODE2OTM0OCwwMDAwMDAwMDQzNGU3NmJiNWFmMGYwMmIxNmQ4MTZhNzU5MTMwNmZh`

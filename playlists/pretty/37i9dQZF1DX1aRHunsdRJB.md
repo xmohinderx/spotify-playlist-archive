@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,800 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,820 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Fattt](https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:13 |
 | 68 | [Wine Um Down](https://open.spotify.com/track/50Q2pYp0Kd8dFFAGvvsHDM) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Lil Rick HD & Friends](https://open.spotify.com/album/4NkaIWh2F7u6nTRvK5UFVb) | 2:41 |
 
-Snapshot ID: `MTY0ODA4MzIxOCwwMDAwMDAwMGU1OGQwNThkZmIwNmFhNmJlNDZjOWUwMDZjZTA2NTUw`
+Snapshot ID: `MTY0ODE2OTQyNywwMDAwMDAwMGU1OGQwNThkZmIwNmFhNmJlNDZjOWUwMDZjZTA2NTUw`

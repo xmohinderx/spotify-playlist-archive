@@ -1302,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "my dear",
+        "url": "https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132122,
+      "name": "my dear",
+      "url": "https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni"
+    },
+    {
+      "album": {
         "name": "Next To You (Acoustic version)",
         "url": "https://open.spotify.com/album/1mdBhSCSWMMvsWetFgKrnU"
       },

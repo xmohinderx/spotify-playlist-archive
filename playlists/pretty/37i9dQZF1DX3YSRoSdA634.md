@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,338,019 likes - 200 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,338,861 likes - 200 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [More Than This](https://open.spotify.com/track/0UAB340gAcSMk3r0a8PTag) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:49 |
 | 200 | [BRAVE](https://open.spotify.com/track/1LiEAia09qw722mpzqfROY) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [BRAVE](https://open.spotify.com/album/05LkMk4sbSJ1GewU2FHI1t) | 4:37 |
 
-Snapshot ID: `MTY0ODA4MzI4MywwMDAwMDAwMDQ5N2NhYWIxNzE2MjY3ODhkMTNmYTI3Y2QzOTUxMDMz`
+Snapshot ID: `MTY0ODE2OTQ5NCwwMDAwMDAwMDQ5N2NhYWIxNzE2MjY3ODhkMTNmYTI3Y2QzOTUxMDMz`

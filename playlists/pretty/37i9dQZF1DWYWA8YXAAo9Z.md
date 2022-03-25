@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,839 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,879 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Sequoia Slumber](https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK) | [Land Systems](https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe) | [Elm](https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR) | 2:38 |
 | 75 | [A Minor Astronomical Event](https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 3:39 |
 
-Snapshot ID: `MTY0ODA4MzEyMSwwMDAwMDAwMDcyYzEwYWEwYWMyMzk1NGNjMDllMGU0M2YyZTNhYmU0`
+Snapshot ID: `MTY0ODE2OTMzNCwwMDAwMDAwMDcyYzEwYWEwYWMyMzk1NGNjMDllMGU0M2YyZTNhYmU0`

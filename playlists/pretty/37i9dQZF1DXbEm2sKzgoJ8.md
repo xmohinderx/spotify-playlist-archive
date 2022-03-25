@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,956 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,488 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [The Heat](https://open.spotify.com/track/574JRYU1lS9Cz3zcYD8SFF) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [The Heat](https://open.spotify.com/album/1baCG4CGldkKsAE2OtUeWY) | 3:18 |
 | 100 | [Tolerate](https://open.spotify.com/track/6AcEPvYYcIZsztOHIahVKC) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Tolerate](https://open.spotify.com/album/4wEdeVzFpzmVO2CP8qsHRH) | 3:04 |
 
-Snapshot ID: `MTY0ODA4MzUyNiwwMDAwMDAwMGY3NWQwMzE2N2M5MDFiY2E3MWQ2Zjg4YjdiNzNhMmRk`
+Snapshot ID: `MTY0ODE2OTczNSwwMDAwMDAwMGY3NWQwMzE2N2M5MDFiY2E3MWQ2Zjg4YjdiNzNhMmRk`

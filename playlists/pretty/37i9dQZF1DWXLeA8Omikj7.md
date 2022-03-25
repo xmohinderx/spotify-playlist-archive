@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,572,889 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,573,140 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/6l5RzWFu2h9nHQJDMqbXRj) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
 | 100 | [Desert Mule](https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Desert Mule](https://open.spotify.com/album/2Wjdk2beQr4hesuzDyJ2J8) | 5:24 |
 
-Snapshot ID: `MTY0ODA4MzA4NSwwMDAwMDAwMDRiMWU3M2E3NjcxZjdlOTIxZWE5MDJlZjA0MGU2ZjEy`
+Snapshot ID: `MTY0ODE2OTI5OCwwMDAwMDAwMDRiMWU3M2E3NjcxZjdlOTIxZWE5MDJlZjA0MGU2ZjEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,357 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,372 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Let Me Love You \- Andrew Watt Acoustic Remix](https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Andrew Watt Acoustic Remix\)](https://open.spotify.com/album/47ordPwmrLL0yhgijBbc6q) | 3:26 |
 | 100 | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/album/5rqdfjfPA1jQEul1BebYuS) | 3:12 |
 
-Snapshot ID: `MTY0ODA4MzMzNiwwMDAwMDAwMDAyZGFiNWE1NGI2ZDk3MGM4YjdhZjUwZTUzNWI4ODc4`
+Snapshot ID: `MTY0ODE2OTU0NywwMDAwMDAwMDAyZGFiNWE1NGI2ZDk3MGM4YjdhZjUwZTUzNWI4ODc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,287 likes - 38 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,303 likes - 38 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Cartel Mix](https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 6:13 |
 | 38 | [Punta Raton \- Remix](https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 4:08 |
 
-Snapshot ID: `MTY0ODA4Mjk1OCwwMDAwMDAwMDQyNGQ2NzQxYzc5NzUwMzlhNmY0NTkwYjQ2ZDBhMDQ0`
+Snapshot ID: `MTY0ODE2OTE3MywwMDAwMDAwMDQyNGQ2NzQxYzc5NzUwMzlhNmY0NTkwYjQ2ZDBhMDQ0`

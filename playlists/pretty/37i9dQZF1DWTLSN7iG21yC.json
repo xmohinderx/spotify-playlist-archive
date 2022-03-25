@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home with 8 hours of music to carry you through the day.",
-  "num_followers": 895490,
+  "num_followers": 895602,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA4Mjk1NiwwMDAwMDAwMDQ5NTVjNGRhYzEzYjlkMTQ4YzE5M2ZjMDlmYWJkNDc1",
+  "snapshot_id": "MTY0ODE2OTE3MSwwMDAwMDAwMDQ5NTVjNGRhYzEzYjlkMTQ4YzE5M2ZjMDlmYWJkNDc1",
   "tracks": [
     {
       "added_at": "2021-06-25 04:02:00",
@@ -1802,6 +1802,10 @@
         {
           "name": "Olivia Rodrigo",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 174380,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,944 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,044 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Si Te Vas](https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos Eternos](https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe) | 4:46 |
 | 50 | [Por Favor Señora](https://open.spotify.com/track/6kLFNg5N3nN3djL0raRPZS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:47 |
 
-Snapshot ID: `MTY0ODA4MzE2MSwwMDAwMDAwMGVkNWZiNmFlNjJiNzZmOTkzMmU2MTdmM2Y2ZGEzMjFj`
+Snapshot ID: `MTY0ODE2OTM3MiwwMDAwMDAwMGVkNWZiNmFlNjJiNzZmOTkzMmU2MTdmM2Y2ZGEzMjFj`

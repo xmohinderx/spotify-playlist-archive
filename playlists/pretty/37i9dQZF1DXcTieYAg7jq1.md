@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Yuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,054 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,125 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
 | 100 | [When the Wires Are Down \- Kraak & Smaak Remix](https://open.spotify.com/track/37uZicD5MGyg0YqEi7MNk6) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [When the Wires Are Down \(Kraak & Smaak Remix\)](https://open.spotify.com/album/1SlONvRLmbSgecbeD7nUt2) | 5:19 |
 
-Snapshot ID: `MTY0ODA4MzU1OCwwMDAwMDAwMDRmZGE1Y2ZmYmEyYmQ3MWQ2YjQ3NDM0YTMwODQwMmM2`
+Snapshot ID: `MTY0ODE2OTc2NywwMDAwMDAwMDRmZGE1Y2ZmYmEyYmQ3MWQ2YjQ3NDM0YTMwODQwMmM2`

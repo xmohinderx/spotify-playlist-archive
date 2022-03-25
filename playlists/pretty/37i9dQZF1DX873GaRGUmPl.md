@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,615 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,867 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 |
 | 80 | [Lemon Glow](https://open.spotify.com/track/1gmYNelMcY3SFIXhpeBkaz) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1xg88pe0CUD6UeE3fEnEkD) | 4:04 |
 
-Snapshot ID: `MTY0ODA4MzQyNiwwMDAwMDAwMDI4Nzg2NzQ5OGZiMTBlMmE1ZTFmOGIwYzJmODg1ZmRj`
+Snapshot ID: `MTY0ODE2OTYzNiwwMDAwMDAwMDI4Nzg2NzQ5OGZiMTBlMmE1ZTFmOGIwYzJmODg1ZmRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sXSrrk1ytC.md) - [plain]
 
 > Feel energized with classic Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,304 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,301 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

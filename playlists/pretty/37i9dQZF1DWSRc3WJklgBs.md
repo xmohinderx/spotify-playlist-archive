@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,826 likes - 192 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,864 likes - 192 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 191 | [Hope](https://open.spotify.com/track/7cq9AiuDxB2vtkZuNDOQey) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Hope](https://open.spotify.com/album/65dMS7CtUAN2pI6M2G1iE0) | 3:22 |
 | 192 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 |
 
-Snapshot ID: `MTY0ODA4MjkyOCwwMDAwMDAwMGM4NDM0MjFhMzBhNmVkNGEwMDI0ZGU1MmFiZGU0OTQz`
+Snapshot ID: `MTY0ODE2OTE0MiwwMDAwMDAwMGM4NDM0MjFhMzBhNmVkNGEwMDI0ZGU1MmFiZGU0OTQz`

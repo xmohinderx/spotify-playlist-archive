@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 
 > A pop rock running mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,534 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,595 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3VLITCZusq.md) - [plain]
 | 49 | [Because We Can](https://open.spotify.com/track/4p6dif719WK9E2ZBqmwngo) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now](https://open.spotify.com/album/0ygrVw5SYpWGQXD84CNdMW) | 4:00 |
 | 50 | [Animal](https://open.spotify.com/track/02pxeYqVDzOnHwzFXx8MNR) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Rise and Shine](https://open.spotify.com/album/1JeUwHeGyUNb33g86ol1eJ) | 3:04 |
 
-Snapshot ID: `MTY0ODA4MzAwNiwwMDAwMDAwMDE0MzdmNjI0YTk0OTE1YmIyODY0YWQ4OGI5ZThlYjVk`
+Snapshot ID: `MTY0ODE2OTIyMCwwMDAwMDAwMDE0MzdmNjI0YTk0OTE1YmIyODY0YWQ4OGI5ZThlYjVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,935 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,974 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [Shed a Light](https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Shed a Light](https://open.spotify.com/album/6yKhjUoOsHa60DSqpugerw) | 3:11 |
 | 50 | [SOS](https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:58 |
 
-Snapshot ID: `MTY0ODA4MzAyNSwwMDAwMDAwMDIyZGFjNmYwNTdjNjBlY2FiOGNmMTRhNWM5OWVlOWRj`
+Snapshot ID: `MTY0ODE2OTI0MCwwMDAwMDAwMDIyZGFjNmYwNTdjNjBlY2FiOGNmMTRhNWM5OWVlOWRj`

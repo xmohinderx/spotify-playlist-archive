@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favorite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,355 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,598 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 49 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 |
 | 50 | [We're Still Young](https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [We're Still Young](https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0) | 3:15 |
 
-Snapshot ID: `MTY0ODA4MzIyMiwwMDAwMDAwMDU3ZmUzOWI2OTc2ZmJjNGQ2NGQ5OGYyYzVkNDRiODEx`
+Snapshot ID: `MTY0ODE2OTQzMSwwMDAwMDAwMDU3ZmUzOWI2OTc2ZmJjNGQ2NGQ5OGYyYzVkNDRiODEx`

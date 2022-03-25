@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 214720,
       "name": "B\u0151r\u00f6nd",
       "url": "https://open.spotify.com/track/3O4K18pKijLPiubNrt5ENW"
@@ -4917,7 +4917,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 234493,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/6lIaDWcrD4HkkmGvNYlT8M"
@@ -5923,7 +5923,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -6047,6 +6047,32 @@
       "duration_ms": 241191,
       "name": "Sz\u00fcrke",
       "url": "https://open.spotify.com/track/1vMwsiXZ0yvZJY4IziZSMp"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nyk\u00e9pek EP",
+        "url": "https://open.spotify.com/album/6DUhTPOHUWevtufWLyPq8z"
+      },
+      "artists": [
+        {
+          "name": "ercs\u00e9",
+          "url": "https://open.spotify.com/artist/7jnByK6vQAQJvWOgn9Ux4V"
+        },
+        {
+          "name": "GNOV",
+          "url": "https://open.spotify.com/artist/0WCDTC6bDcs8RuZaTN2J28"
+        },
+        {
+          "name": "PoPa",
+          "url": "https://open.spotify.com/artist/1rqlTQ7ufIcHbuuFvAEsgQ"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Sz\u0151ke haj\u00fa l\u00e1ny",
+      "url": "https://open.spotify.com/track/1Jsv0Yyz2pIoRmWubfjr8x"
     },
     {
       "album": {

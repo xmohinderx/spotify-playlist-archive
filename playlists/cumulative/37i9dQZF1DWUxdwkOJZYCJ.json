@@ -436,7 +436,7 @@
         },
         {
           "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a"
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
         }
       ],
       "date_added": "2021-03-30",
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 252133,
       "name": "Paying The Price Of Love",
       "url": "https://open.spotify.com/track/33Z1BRngcyzyEYo3lRQY8H"
@@ -853,6 +853,24 @@
       "duration_ms": 235666,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/1bvsVJDGG7bXsvGKfwM3yV"
+    },
+    {
+      "album": {
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
     },
     {
       "album": {

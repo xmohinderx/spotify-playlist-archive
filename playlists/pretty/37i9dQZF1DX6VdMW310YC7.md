@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,301,546 likes - 200 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,302,847 likes - 200 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 199 | [Threads](https://open.spotify.com/track/39bfCEpkqN01tmAILFBkgG) | [Archaellum](https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD) | [Threads](https://open.spotify.com/album/1GnfJnQnJKseHJLwYjzpFB) | 3:06 |
 | 200 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 |
 
-Snapshot ID: `MTY0ODA4MzM3OSwwMDAwMDAwMDY0MzY4YjQxYTA5N2Y0MmEyNTQ2NTk2OWYwYWJiNTU4`
+Snapshot ID: `MTY0ODE2OTU5MCwwMDAwMDAwMDY0MzY4YjQxYTA5N2Y0MmEyNTQ2NTk2OWYwYWJiNTU4`

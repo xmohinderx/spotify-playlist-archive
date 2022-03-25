@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Ocevne
+> Découvrez notre sélection des artistes à suivre\. Photo : blond
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,15 @@
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2021-12-02 |  |
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-02-03 |  |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-07 |  |
-| [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2021-12-02 |  |
+| [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2021-12-02 | 2022-03-25 |
 | [Docteur](https://open.spotify.com/track/1qCQFjFqqDR1p2uorkJZfI) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Docteur](https://open.spotify.com/album/7APXfTmDk0JVFyEIjZmZsS) | 2:57 | 2022-03-01 |  |
 | [Episode III \- "Les mains libres"](https://open.spotify.com/track/09H1lojoD6C9ygAa62inrW) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Yuzmv](https://open.spotify.com/album/5YLIrkBDqVtlFvD86zZeKH) | 3:19 | 2021-12-02 | 2022-03-02 |
+| [Faire les choses bien \- Version alternative](https://open.spotify.com/track/6sqYnu5QuI8e1JwxlbwFs4) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic), [Leila Lachterman](https://open.spotify.com/artist/0BGUI2bNrW2XeDvxQBPqGT) | [Faire les choses bien](https://open.spotify.com/album/5ElfdD5QqQ5HB3c67fA3x3) | 4:17 | 2022-03-24 |  |
 | [Filage et faits](https://open.spotify.com/track/2FeFLCNEoZSFB9H9cAY5at) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Filage et faits](https://open.spotify.com/album/0LXyoJhbPZkfv5LQKqfqtC) | 3:05 | 2021-12-02 | 2022-02-08 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 |  |
+| [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-03-24 |  |
+| [La Macarena](https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:07 | 2022-03-24 |  |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-02-03 |  |
 | [Le bandit](https://open.spotify.com/track/07sR3VWgf8rO9RLe3ZpLJO) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:54 | 2021-12-02 | 2022-03-02 |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2021-12-02 | 2022-02-04 |
@@ -31,12 +34,12 @@
 | [Le temps passe](https://open.spotify.com/track/24o720A8MCkwTWWytpMZld) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe](https://open.spotify.com/album/2JZquiQA5Vg3J0HYokRdyE) | 3:12 | 2021-12-02 |  |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2022-02-03 |  |
 | [Ma meilleure vie](https://open.spotify.com/track/1qKrfVLSMse9xdSqccbidX) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Ma meilleure vie](https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj) | 4:20 | 2021-12-02 | 2022-02-08 |
-| [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 |  |
+| [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 | 2022-03-25 |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 |  |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 |  |
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
-| [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 |  |
+| [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 | 2022-03-25 |
 | [Rayons Gamma](https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:15 | 2022-02-07 |  |
 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-01 |  |
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,119 likes - 130 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,235 likes - 130 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 129 | [Batalla Perdida](https://open.spotify.com/track/4n4B4od4kBybQiPcn4L0Fe) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/290BICFZcn01p5w6UfZFnS) | 3:30 |
 | 130 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 |
 
-Snapshot ID: `MTY0ODA4MzQwNiwwMDAwMDAwMDEwYjIzYWMwOGQ3OWI1NDc2YzMzOThhMmZjOWMxZWQz`
+Snapshot ID: `MTY0ODE2OTYxNiwwMDAwMDAwMDEwYjIzYWMwOGQ3OWI1NDc2YzMzOThhMmZjOWMxZWQz`

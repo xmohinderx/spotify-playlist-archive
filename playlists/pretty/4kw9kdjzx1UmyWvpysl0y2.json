@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128363,
+  "num_followers": 128366,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMxNywyMTdkZjU5MmJhNWJiNjZkMTg0YjZhYmVhMjgwNzllNGE1Yjk5MmRi",
+  "snapshot_id": "MzMxOSw0YzhhZmNhM2EzOGExNDM5ZjMzYjgxMTU3MGEwZGEwNzA5ZWZlZmJm",
   "tracks": [
+    {
+      "added_at": "2022-03-24 17:25:01",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz"
+      },
+      "artists": [
+        {
+          "name": "Dustycloud",
+          "url": "https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d"
+        },
+        {
+          "name": "Yury",
+          "url": "https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP"
+    },
     {
       "added_at": "2022-03-23 16:09:40",
       "album": {
@@ -1115,26 +1135,6 @@
       "duration_ms": 239062,
       "name": "Arms Race",
       "url": "https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Shapes",
-        "url": "https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1"
-      },
-      "artists": [
-        {
-          "name": "Fransis Derelle",
-          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
-        },
-        {
-          "name": "Saysha",
-          "url": "https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD"
-        }
-      ],
-      "duration_ms": 223067,
-      "name": "Shapes",
-      "url": "https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

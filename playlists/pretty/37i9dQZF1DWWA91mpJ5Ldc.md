@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,632 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,660 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Todas As Coisas](https://open.spotify.com/track/3z99hBQ0LR2Ou4Qbnmf7KR) | [Tibless](https://open.spotify.com/artist/6osLdK9uVKUPZYLVgIJ3hH) | [Todas As Coisas](https://open.spotify.com/album/67OKyJJoFvpmOjDDBP0dXS) | 3:20 |
 | 60 | [Pra Pensar](https://open.spotify.com/track/3cbO2LZluJv0BTMESwqZUI) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI), [Henri Mac](https://open.spotify.com/artist/4DjYOv7Jpbs6ohi6Cmbe27) | [Pra Pensar](https://open.spotify.com/album/6yVlVkaqIvKV5jNNgT7svQ) | 2:36 |
 
-Snapshot ID: `MTY0ODA4MzA0NCwwMDAwMDAwMGVhNjBiMTBiODBjYzhiNTZlNWNiODM5Njk2OTY5Yjdi`
+Snapshot ID: `MTY0ODE2OTI1OSwwMDAwMDAwMGVhNjBiMTBiODBjYzhiNTZlNWNiODM5Njk2OTY5Yjdi`

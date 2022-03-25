@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & singer\-songwriter\. Cover: Andrew Bird
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,819 likes - 157 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,944 likes - 157 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

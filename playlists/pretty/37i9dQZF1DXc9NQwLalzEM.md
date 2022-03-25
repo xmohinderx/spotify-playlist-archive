@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,421 likes - 131 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,518 likes - 131 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 130 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 |
 | 131 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 
-Snapshot ID: `MTY0ODA4MzU1MCwwMDAwMDAwMDk1ZTkzMDA4ZDAxYjlhNGM1MmQ5OTkzOGY4OTU1Zjcy`
+Snapshot ID: `MTY0ODE2OTc1OSwwMDAwMDAwMDk1ZTkzMDA4ZDAxYjlhNGM1MmQ5OTkzOGY4OTU1Zjcy`

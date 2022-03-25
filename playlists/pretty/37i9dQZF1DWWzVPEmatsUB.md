@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,775 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,836 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [Have It Your Way](https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm) | [Nina Soro](https://open.spotify.com/artist/3uzkKm1uj1EWWY0uxkEqZA) | [Have It Your Way](https://open.spotify.com/album/46YLWCQYjiqZ3M1lC40fym) | 4:25 |
 | 70 | [Little Bird](https://open.spotify.com/track/5tPyzRPQpJszN4KLCPEUHz) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [Little Bird](https://open.spotify.com/album/12aN2RNHcq6NI6nYizfOPJ) | 4:25 |
 
-Snapshot ID: `MTY0ODA4MzA3NiwwMDAwMDAwMDJiYjBiOWJkOWRiYTllYmU1NWI1ZDU3YTM1ZmM2Yjdh`
+Snapshot ID: `MTY0ODE2OTI4OSwwMDAwMDAwMDJiYjBiOWJkOWRiYTllYmU1NWI1ZDU3YTM1ZmM2Yjdh`

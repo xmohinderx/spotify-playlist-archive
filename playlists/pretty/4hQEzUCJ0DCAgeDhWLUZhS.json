@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTU2NixjOTg0YjM1ZTBlNzM3MGE4ZTcyY2E5YjBlZDRkOGI5ODI0OTRlZmYz",
+  "snapshot_id": "MTU2OCxjMTY5MTFlZjM5ODJlNjcyNmVmYjkzYzk2OTA5MzY2M2QxNzk3MzBl",
   "tracks": [
     {
       "added_at": "2022-03-18 05:24:41",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-03-18 05:24:41",
       "album": {
+        "name": "Initiation / Protection",
+        "url": "https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Initiation",
+      "url": "https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw"
+    },
+    {
+      "added_at": "2022-03-18 05:24:41",
+      "album": {
         "name": "Honeybrains",
         "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
       },
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
     },
     {
-      "added_at": "2022-03-18 05:24:41",
+      "added_at": "2022-03-24 23:38:32",
       "album": {
-        "name": "Initiation / Protection",
-        "url": "https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su"
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 245013,
-      "name": "Initiation",
-      "url": "https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw"
+      "duration_ms": 266326,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH"
     },
     {
       "added_at": "2022-03-18 05:24:41",

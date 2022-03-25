@@ -1194,6 +1194,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6hCTFJviESo44SGM3nQZzP"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5LK7I6MjT15UEzrTDAuE9P"
+    },
+    {
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1409,6 +1431,32 @@
       "duration_ms": 129692,
       "name": "Demons",
       "url": "https://open.spotify.com/track/6997op11buHVAiqQvjqNHr"
+    },
+    {
+      "album": {
+        "name": "Discovery Channel",
+        "url": "https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui"
+      },
+      "artists": [
+        {
+          "name": "Tava",
+          "url": "https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R"
+        },
+        {
+          "name": "Robin Novaku",
+          "url": "https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Discovery Channel",
+      "url": "https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc"
     },
     {
       "album": {
@@ -3302,6 +3350,32 @@
     },
     {
       "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/1kGNm505CDg0rG4EkyiR7t"
+      },
+      "artists": [
+        {
+          "name": "Theis EZ",
+          "url": "https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V"
+        },
+        {
+          "name": "popstar.TJ",
+          "url": "https://open.spotify.com/artist/6geWpgrlTUlYqSwAdibJXJ"
+        },
+        {
+          "name": "Contiez",
+          "url": "https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197524,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/6ws84fORsggbFxAP2cHBGc"
+    },
+    {
+      "album": {
         "name": "Moving on Up",
         "url": "https://open.spotify.com/album/5IosNy9yb2Lh0b3NU3czCq"
       },
@@ -4650,6 +4724,28 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/4PGdPKa5zEocESACnrXoWS"
+      },
+      "artists": [
+        {
+          "name": "The Second Level",
+          "url": "https://open.spotify.com/artist/3kfUtTqeyTWZDEMhkmu8tm"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157468,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/3wA2DEGXcBAQlD5Q9LDlCF"
+    },
+    {
+      "album": {
         "name": "The Scientist (feat. Emily Sander)",
         "url": "https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L"
       },
@@ -4876,6 +4972,28 @@
     },
     {
       "album": {
+        "name": "Ur Just Horny",
+        "url": "https://open.spotify.com/album/2skKoBFLFj0KIk1jOnw5I9"
+      },
+      "artists": [
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "22angels",
+          "url": "https://open.spotify.com/artist/0WYuN6MUoWW2Ox7Or3APqS"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Ur Just Horny",
+      "url": "https://open.spotify.com/track/30OJ3v13GR1B7SUdQG9Uu3"
+    },
+    {
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/5X9izYHlsWTV03n2WsJILt"
       },
@@ -4929,6 +5047,24 @@
       "duration_ms": 227796,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/32KAS5EcnkZPAi45Pp7An2"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,858 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,096 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [Run Run Run](https://open.spotify.com/track/08KyjbAXbJl0EdtTi7GH3x) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Where I Belong](https://open.spotify.com/album/7dY6EwoHdmrXP17hX7xhR3) | 3:42 |
 | 50 | [A Little More](https://open.spotify.com/track/5y20ik4oFXCIg1santQtWl) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Pure Fiction](https://open.spotify.com/album/451WScawJZh2hk4k7pokZX) | 3:16 |
 
-Snapshot ID: `MTY0ODA4MzUwNywwMDAwMDAwMDgwMDI3YTQyYzIwOWMwYmM4ZTI5NWY2MDdkMjMyYjE2`
+Snapshot ID: `MTY0ODE2OTcxNSwwMDAwMDAwMGIyMDA0MGFlNjQ3MmJhYjk3NzgzZjg0ZGNlN2VjOTU1`

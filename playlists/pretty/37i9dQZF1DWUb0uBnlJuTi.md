@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,952 likes - 80 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,208 likes - 80 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Souly](https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa), [Adrian Bauer](https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Funky Times](https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX) | 3:32 |
 | 80 | [Funkia](https://open.spotify.com/track/1SqskptrodTat0yps72Xjg) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Mickey Roker](https://open.spotify.com/artist/6zMUrKoPJzeSPf9ueaOS0j), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Michael Longo](https://open.spotify.com/artist/6bhfRQonMvDp85imcp4dI1) | [Funkia](https://open.spotify.com/album/4iiHoiAAUfNsiijVp8zpHk) | 5:47 |
 
-Snapshot ID: `MTY0ODA4Mjk5NCwwMDAwMDAwMDA1ZjE2YWYzMzZmNTAyODM0NmU0YTdkOGUzZWM0YzU4`
+Snapshot ID: `MTY0ODE2OTIwOSwwMDAwMDAwMDA1ZjE2YWYzMzZmNTAyODM0NmU0YTdkOGUzZWM0YzU4`

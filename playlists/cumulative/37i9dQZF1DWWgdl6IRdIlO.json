@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "MOTTO",
+        "url": "https://open.spotify.com/album/4DjtNM8dFH1eNeZDf6abbG"
+      },
+      "artists": [
+        {
+          "name": "SHENA?",
+          "url": "https://open.spotify.com/artist/68M5xxqt7LiGhLbVjsvF9R"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "MOTTO",
+      "url": "https://open.spotify.com/track/1bRcxSv2glAHWH5EVBdDr3"
+    },
+    {
+      "album": {
         "name": "No1",
         "url": "https://open.spotify.com/album/5ULtgAzvb9dKGI1jVTCi3P"
       },

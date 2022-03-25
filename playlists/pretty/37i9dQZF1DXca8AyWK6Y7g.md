@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > girl power 🌱  Cover: UPSAHL, GAYLE & Blu DeTiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,027 likes - 149 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,322 likes - 149 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 148 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 |
 | 149 | [Sick To My Stomach](https://open.spotify.com/track/0RR2jiJKt8vNQkmPkud2qn) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Sick To My Stomach](https://open.spotify.com/album/3lNRbSSLlU09m1fYqPk3JZ) | 3:14 |
 
-Snapshot ID: `MTY0ODA4MzU2MSwwMDAwMDAwMDJmZmJiMTA1NGM5OGFmZjE5OWViNTdkOGFhYzJlNGNm`
+Snapshot ID: `MTY0ODE2OTc3MSwwMDAwMDAwMDJmZmJiMTA1NGM5OGFmZjE5OWViNTdkOGFhYzJlNGNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,394 likes - 200 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,558 likes - 200 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 199 | [Daylight](https://open.spotify.com/track/5EWbjEQCRhU1l3zvEYucig) | [Shaun Reynolds](https://open.spotify.com/artist/6kIgB5cLdAQ1ctIgs9lrkS) | [Daylight](https://open.spotify.com/album/37lI8YxLStfcha86BI7Gec) | 3:57 |
 | 200 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 |
 
-Snapshot ID: `MTY0ODA4MzI1MywwMDAwMDAwMDdhNmIyNGEyZDNkMTEyMjY0OTJiNDJlY2U1YjhiOGU4`
+Snapshot ID: `MTY0ODE2OTQ2MywwMDAwMDAwMDdhNmIyNGEyZDNkMTEyMjY0OTJiNDJlY2U1YjhiOGU4`

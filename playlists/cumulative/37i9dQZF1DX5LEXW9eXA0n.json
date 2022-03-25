@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "chronicle",
+        "url": "https://open.spotify.com/album/186gD7vKW3i16leSXdBKXQ"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261230,
+      "name": "chronicle",
+      "url": "https://open.spotify.com/track/7qXb2U3ORyYHUfUO55b4vQ"
+    },
+    {
+      "album": {
         "name": "COLD LOVE",
         "url": "https://open.spotify.com/album/3aOrMwQ4CXnSROnZlIZqbB"
       },
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 204356,
       "name": "Say Yes (Feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA"
@@ -3163,6 +3181,24 @@
       "duration_ms": 260104,
       "name": "Shall we meet again",
       "url": "https://open.spotify.com/track/66s4PCkRrhhdJFP3tyKvKU"
+    },
+    {
+      "album": {
+        "name": "Shiny Star",
+        "url": "https://open.spotify.com/album/1D4KH2g4zA7L5JDLPsBtYY"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "Shiny Star",
+      "url": "https://open.spotify.com/track/5eRDs2t8dnh2YjreXuwCWq"
     },
     {
       "album": {
@@ -3289,7 +3325,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-25",
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"

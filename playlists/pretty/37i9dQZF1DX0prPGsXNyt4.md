@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,606 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,680 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Pretinha](https://open.spotify.com/track/1aJKGjRUYuuPzQxXwhfhWa) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Pretinha](https://open.spotify.com/album/37IJvH1R66xwTDAIvrIkcB) | 2:25 |
 | 50 | [Quando Te Vejo no Baile](https://open.spotify.com/track/6RTcqvVW3VDuHtwJ6ScvOW) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [ResenhaDaBlakk](https://open.spotify.com/artist/3xSgQZ1NCFBFeAUAyspUZ7), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX), [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj) | [Quando Te Vejo no Baile](https://open.spotify.com/album/39OP2IGkch7n3odw9wSqZV) | 3:23 |
 
-Snapshot ID: `MTY0ODA4MzE5NCwwMDAwMDAwMDJkYTc0MmYwZDlhNTUyZWZlZTk1MWQ3Yzc5ZTA0ZTRk`
+Snapshot ID: `MTY0ODE2OTQwNCwwMDAwMDAwMDJkYTc0MmYwZDlhNTUyZWZlZTk1MWQ3Yzc5ZTA0ZTRk`

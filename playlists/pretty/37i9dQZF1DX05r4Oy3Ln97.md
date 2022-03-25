@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,258 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,261 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 |
 | 60 | [Let's Go](https://open.spotify.com/track/2YRri7ZH86lUUzywldnkAk) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let's Go](https://open.spotify.com/album/4soFn3WnZIkSZJiljhkDuB) | 3:38 |
 
-Snapshot ID: `MTY0ODA4MzE2NywwMDAwMDAwMDFiNGQ1ZjkzOTUzOWQzNTRmNmU2MWUyMmNmYjUxNTlj`
+Snapshot ID: `MTY0ODE2OTM3OCwwMDAwMDAwMDFiNGQ1ZjkzOTUzOWQzNTRmNmU2MWUyMmNmYjUxNTlj`

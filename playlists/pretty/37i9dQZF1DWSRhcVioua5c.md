@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,187 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,216 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 | 90 | [Para Que Nunca Me Dejes](https://open.spotify.com/track/4EnERmX4p8Ks97KhdJadLo) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Somos](https://open.spotify.com/album/1qPBq548Pj3HuUHFQFb9yo) | 2:59 |
 
-Snapshot ID: `MTY0ODA4MjkyOSwwMDAwMDAwMGRlYTdlMDU4NTZmNzFkZGU1MmM1OWJmYzJjMTRlZjQ0`
+Snapshot ID: `MTY0ODE2OTE0MywwMDAwMDAwMGRlYTdlMDU4NTZmNzFkZGU1MmM1OWJmYzJjMTRlZjQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,524 likes - 200 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,712 likes - 200 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 |
 | 200 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 |
 
-Snapshot ID: `MTY0ODA4MzU2NiwwMDAwMDAwMDU2ZmYxYjRiODI0NzI2YzcyMGI3ZTFmYzMzODQ0ZTRm`
+Snapshot ID: `MTY0ODE2OTc3NiwwMDAwMDAwMDU2ZmYxYjRiODI0NzI2YzcyMGI3ZTFmYzMzODQ0ZTRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,883 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,952 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Dust to Dust](https://open.spotify.com/track/4lGaNYZ9iEZ8dbySaE87Am) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 3:48 |
 | 100 | [Precipitous Combat](https://open.spotify.com/track/2eyaZmFVMi4JzfNMpWSZzh) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:30 |
 
-Snapshot ID: `MTY0ODA4MzEyNywwMDAwMDAwMGVkZDk3MWE5NDhhMjkxOTZiMGZjNmZiNjhjNjE5OGEw`
+Snapshot ID: `MTY0ODE2OTM0MCwwMDAwMDAwMGVkZDk3MWE5NDhhMjkxOTZiMGZjNmZiNjhjNjE5OGEw`

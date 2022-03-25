@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Get down and dirty with these bluesy rock songs\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,431 likes - 140 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,603 likes - 140 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

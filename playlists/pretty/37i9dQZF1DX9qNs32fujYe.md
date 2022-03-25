@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Iron Maiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,520 likes - 140 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,098 likes - 140 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [At the End of the Rainbow](https://open.spotify.com/track/1dPLUFDn4ZnmCQRslS6vMm) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [At the End of the Rainbow](https://open.spotify.com/album/3JYX12KjroniwQ9KN9ChAw) | 3:21 |
 | 140 | [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 |
 
-Snapshot ID: `MTY0ODA4MzQ4MCwwMDAwMDAwMDBlMWMwY2YxNTkwOTlhYThmYjNkNmRiMmMxMjBjOTlm`
+Snapshot ID: `MTY0ODE2OTY4OCwwMDAwMDAwMDBlMWMwY2YxNTkwOTlhYThmYjNkNmRiMmMxMjBjOTlm`

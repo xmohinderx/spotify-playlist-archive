@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "MjY0MyxhNGE5Y2EzMDE4NzRlMjhkYjdmMGQ2NWE1MGU4ODNhNmQ2NWJhMDhm",
+  "snapshot_id": "MjY1MCw2NDYzNTFjZjdiYjIwYjY0YjY0Njc3YTMwM2Y5NGMwYzMwMmQ1ZmM0",
   "tracks": [
     {
       "added_at": "2021-07-11 05:21:45",
@@ -2149,6 +2149,86 @@
       "url": "https://open.spotify.com/track/3LbyMox8uvUT1uX6OSSNXZ"
     },
     {
+      "added_at": "2022-03-25 00:15:50",
+      "album": {
+        "name": "Seas",
+        "url": "https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V"
+      },
+      "artists": [
+        {
+          "name": "Sean Hartofilis",
+          "url": "https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Sirens Found Me",
+      "url": "https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67"
+    },
+    {
+      "added_at": "2022-03-25 00:16:03",
+      "album": {
+        "name": "Ma\u00f1anas de Cristal",
+        "url": "https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "duration_ms": 228044,
+      "name": "Ma\u00f1anas de Cristal",
+      "url": "https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu"
+    },
+    {
+      "added_at": "2022-03-25 00:17:39",
+      "album": {
+        "name": "It Will Happen",
+        "url": "https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x"
+      },
+      "artists": [
+        {
+          "name": "Jacob manuel",
+          "url": "https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "It Will Happen",
+      "url": "https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV"
+    },
+    {
+      "added_at": "2022-03-25 00:17:52",
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/4GUVHqPWHZ9annyGjQ9lon"
+      },
+      "artists": [
+        {
+          "name": "Lazz",
+          "url": "https://open.spotify.com/artist/5MQbx82uV5IHs6A2kEhwpd"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/30TJfcL9CThxV59oQNDn5z"
+    },
+    {
+      "added_at": "2022-03-25 00:18:54",
+      "album": {
+        "name": "Materialism",
+        "url": "https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA"
+      },
+      "artists": [
+        {
+          "name": "Adame",
+          "url": "https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Materialism",
+      "url": "https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn"
+    },
+    {
       "added_at": "2022-03-04 01:09:09",
       "album": {
         "name": "Love With Passion",
@@ -2169,6 +2249,22 @@
       "url": "https://open.spotify.com/track/0EpF9ueIy6tG0cnk0r3HXf"
     },
     {
+      "added_at": "2022-03-25 00:18:31",
+      "album": {
+        "name": "SADBOIBURNERACCOUNT",
+        "url": "https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa"
+      },
+      "artists": [
+        {
+          "name": "Sim Paul",
+          "url": "https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m"
+    },
+    {
       "added_at": "2022-03-18 01:35:01",
       "album": {
         "name": "Just Listen",
@@ -2183,6 +2279,22 @@
       "duration_ms": 228461,
       "name": "Just Listen",
       "url": "https://open.spotify.com/track/5YVJEcClByWmKj8DakxL08"
+    },
+    {
+      "added_at": "2022-03-25 00:18:16",
+      "album": {
+        "name": "Rain or Shine",
+        "url": "https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ"
+      },
+      "artists": [
+        {
+          "name": "Leisureville",
+          "url": "https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Rain or Shine",
+      "url": "https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu"
     },
     {
       "added_at": "2022-03-11 02:52:37",

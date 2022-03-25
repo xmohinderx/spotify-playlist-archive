@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,377 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,428 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Falso Malo \- En Vivo](https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [En Vivo en Pasión 2018](https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE) | 3:04 |
 | 64 | [Hacela de Noche / Nacido para Geder \- En Vivo en Tropitango](https://open.spotify.com/track/2iNKr6J2h2iE0wOPbOqQEK) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Hacela de Noche / Nacido para Geder \(En Vivo en Tropitango\)](https://open.spotify.com/album/51j6588xhcDwtGBH7IAoDQ) | 3:38 |
 
-Snapshot ID: `MTY0ODA4MzA5NCwwMDAwMDAwMDkzYmI3NmIzZmFiYzAwMmFlZmY2ZTg1NGU4NmVhOGRh`
+Snapshot ID: `MTY0ODE2OTMwNywwMDAwMDAwMDkzYmI3NmIzZmFiYzAwMmFlZmY2ZTg1NGU4NmVhOGRh`

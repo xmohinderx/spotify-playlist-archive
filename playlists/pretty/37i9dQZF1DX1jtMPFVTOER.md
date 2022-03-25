@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,606 likes - 104 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,720 likes - 104 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothing's Changed](https://open.spotify.com/track/3rjZ7w1ZCfCsHSRUAe6z3Q) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Nothing's Changed](https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB) | 2:01 |
 | 2 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 |
-| 3 | [PEACE OF MIND!](https://open.spotify.com/track/0Ct79AFToMTM62yNpemPgV) | [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh), [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2), [Pluto Black](https://open.spotify.com/artist/74BeboM6mwslPRImLdQeN3), [Davis the Dorchester Bully](https://open.spotify.com/artist/6o3BdPZ47Fs1SXK9RUbfY6), [Roberto](https://open.spotify.com/artist/6F48SkXKeQjlDKouhQiM1s) | [HOOLIGAN](https://open.spotify.com/album/3byDnC0iRpI37tfzKBtJG8) | 2:37 |
+| 3 | [PEACE OF MIND!](https://open.spotify.com/track/0Ct79AFToMTM62yNpemPgV) | [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh), [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2), [Pluto Black](https://open.spotify.com/artist/5pKHL3KZ7JaqzEpNgPNjjm), [Davis the Dorchester Bully](https://open.spotify.com/artist/6o3BdPZ47Fs1SXK9RUbfY6), [Roberto](https://open.spotify.com/artist/6F48SkXKeQjlDKouhQiM1s) | [HOOLIGAN](https://open.spotify.com/album/3byDnC0iRpI37tfzKBtJG8) | 2:37 |
 | 4 | [On Our Street](https://open.spotify.com/track/1akWCjzNcLYa35MvLhG2Tb) | [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [On Our Street](https://open.spotify.com/album/4QaYFrglkgw7wqVwamfJoY) | 2:52 |
 | 5 | [the boy who cried wolf](https://open.spotify.com/track/60NaTaKdGqgYOIIhgXa9Rg) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Homesick](https://open.spotify.com/album/7khVuzORUTZJV4SVjLICzy) | 1:37 |
 | 6 | [Why We Speak \[Feat\. Q\-Tip & Esperanza Spalding\]](https://open.spotify.com/track/3126FOxYcf0g9zVdXkNUdH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Why We Speak \[Feat\. Q\-Tip & Esperanza Spalding\]](https://open.spotify.com/album/4y6khUULM8jcY5OyIVswU8) | 6:19 |

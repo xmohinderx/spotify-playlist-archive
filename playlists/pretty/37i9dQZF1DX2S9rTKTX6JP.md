@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: AWOLNATION, Brandon Boyd, Portugal\. The Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,502 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,587 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 |
 | 100 | [Blank Generation \- Studio Version \- Recorded at Electric Lady Studios](https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Live At Electric Lady](https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ) | 3:53 |
 
-Snapshot ID: `MTY0ODA4MzI0NywwMDAwMDAwMGMzODhiZjFhM2U5ZmY1Y2ZlMmNiZDc5M2VhY2E2MzAw`
+Snapshot ID: `MTY0ODE2OTQ1NiwwMDAwMDAwMGMzODhiZjFhM2U5ZmY1Y2ZlMmNiZDc5M2VhY2E2MzAw`
