@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6PsvyweoPP8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6PsvyweoPP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6PsvyweoPP8)
 
-### TRAPando
+### [TRAPando](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 

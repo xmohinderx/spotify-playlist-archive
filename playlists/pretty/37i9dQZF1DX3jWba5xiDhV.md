@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,356 likes - 75 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,440 likes - 75 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 27 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 |
 | 28 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 |
 | 29 | [Sexergy](https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1) | [NEW HOOK](https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa) | [Ombra Intl 016](https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc) | 7:14 |
-| 30 | [Happy Song](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
+| 30 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
 | 31 | [Phazerdelique \- Extended Mix](https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ) | [Kim And Buran](https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8) | [Phazerdelique](https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO) | 7:28 |
 | 32 | [Voices In The Dark](https://open.spotify.com/track/2YSpSNkwf2pyo0j3DYaqzY) | [Mike Cannon](https://open.spotify.com/artist/613n5xzllpJnbPoceHuL7X) | [Voices In The Dark](https://open.spotify.com/album/3mK7rdJqlYZk5pjO2Q6yPq) | 3:06 |
 | 33 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 34 | [Enough! \- The Juan MacLean Remix](https://open.spotify.com/track/3EaXSUO5riDiAMLn7E3nu5) | [New World](https://open.spotify.com/artist/1qvooSyrog4MmPeRMADEeD), [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Souvenirs](https://open.spotify.com/album/0BYYRixh7rMvIQ3eUxNPRu) | 6:39 |
 | 35 | [Eyes \- Extended Vocal Mix](https://open.spotify.com/track/1kKNCBOxnLBwvoiWYol5JW) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf) | [Eyes](https://open.spotify.com/album/57qm57MXXZ7FRecg5RkVWj) | 6:22 |
 | 36 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
-| 37 | [Jamin](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
+| 37 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
 | 38 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 | 39 | [Curiosa Scoperta](https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Autostrada Galattica](https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9) | 5:00 |
 | 40 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 |
 | 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 
-Snapshot ID: `MTY0ODE2OTQ5OCwwMDAwMDAwMGI5NjQ3MzIyMjgwYzliMTEyOWNhMjYyNTk3OWRiOWM4`
+Snapshot ID: `MTY0ODI1NTk1MywwMDAwMDAwMGI5NjQ3MzIyMjgwYzliMTEyOWNhMjYyNTk3OWRiOWM4`

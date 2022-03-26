@@ -110,6 +110,7 @@
 | [We Ain't The Same](https://open.spotify.com/track/239x84VQ0LsmOHTxkaGb33) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nter](https://open.spotify.com/artist/4DIp9TFBq2eh9sQbD5YT9I) | [We Ain't The Same](https://open.spotify.com/album/2A8uUoN1jbn0ATMSo035GD) | 3:15 | 2022-03-21 |  |
 | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/track/05jey8nJnyBzV6FBtn4MIq) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [We Them Boyz \(feat\. Jaecy\)](https://open.spotify.com/album/0qn4k950Hux9jAGQGrkRX7) | 2:47 | 2022-03-21 | 2022-03-25 |
 | [Whoever](https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [Whoever](https://open.spotify.com/album/5qgNkLb4H6QctvrT7E9O5Z) | 2:38 | 2022-03-21 | 2022-03-25 |
+| [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 | 2022-03-25 |  |
 | [WOAH](https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr) | [AJ Curtis](https://open.spotify.com/artist/5wrtj0ptwZ8Z4ZL0w5YLYE) | [WOAH](https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM) | 2:22 | 2022-03-21 | 2022-03-25 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

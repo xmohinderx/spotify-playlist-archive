@@ -145,10 +145,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 338155,
       "name": "Abrakadabra",
       "url": "https://open.spotify.com/track/2htPaFATsHA9oCTbpGHx9r"
+    },
+    {
+      "album": {
+        "name": "Abrakadabra",
+        "url": "https://open.spotify.com/album/6xD2yFqMRzOj1KU7fZue0i"
+      },
+      "artists": [
+        {
+          "name": "Hardcore Superstar",
+          "url": "https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338155,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/3cNiOXg3TJQF6BdfS66vU7"
     },
     {
       "album": {
@@ -1198,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Erinyes",
+        "url": "https://open.spotify.com/album/6Qajr9ybwKZdF3AJDeIZKG"
+      },
+      "artists": [
+        {
+          "name": "Yarotz",
+          "url": "https://open.spotify.com/artist/43IJiZTtLIg0wIUjLBu99U"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187846,
+      "name": "Childish Anger",
+      "url": "https://open.spotify.com/track/3HdmLNNF6dMPUNFnPg4S5B"
+    },
+    {
+      "album": {
         "name": "Choose Sides",
         "url": "https://open.spotify.com/album/41R4qlRpaN1zZbDdHfTtg6"
       },
@@ -1307,6 +1343,24 @@
       "duration_ms": 196200,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU"
+    },
+    {
+      "album": {
+        "name": "Regret, Do It Again !",
+        "url": "https://open.spotify.com/album/4aKGBx4OqpH5AToFWeU7uD"
+      },
+      "artists": [
+        {
+          "name": "MOKERY",
+          "url": "https://open.spotify.com/artist/3nWbQMqXdKk06MivOJvpmb"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237028,
+      "name": "Cognizance",
+      "url": "https://open.spotify.com/track/6ahM59Z7181EhUcZMkeN1o"
     },
     {
       "album": {
@@ -5006,6 +5060,24 @@
     },
     {
       "album": {
+        "name": "Parrhesia",
+        "url": "https://open.spotify.com/album/0drWek4H5NfTa2BWAFA3iB"
+      },
+      "artists": [
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250946,
+      "name": "Micro-Aggressions",
+      "url": "https://open.spotify.com/track/55OB1bY0fjE6IS13s227yg"
+    },
+    {
+      "album": {
         "name": "Midwinter Calls",
         "url": "https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h"
       },
@@ -5693,7 +5765,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 182963,
       "name": "Only Human (feat. AJ Channer)",
       "url": "https://open.spotify.com/track/2y7VOZpPlP8kZHG764vrzQ"

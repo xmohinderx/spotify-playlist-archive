@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
@@ -129,6 +129,32 @@
       "duration_ms": 299106,
       "name": "Adventure Of A Lifetime",
       "url": "https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV"
+    },
+    {
+      "album": {
+        "name": "Afflicted",
+        "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sorgenfrei",
+          "url": "https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN"
+        },
+        {
+          "name": "Denis G\u00e4bel",
+          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
+        },
+        {
+          "name": "Peter Christof",
+          "url": "https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "Afflicted",
+      "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
     },
     {
       "album": {
@@ -307,7 +333,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 412266,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv"
@@ -343,7 +369,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 393373,
       "name": "Avec le temps",
       "url": "https://open.spotify.com/track/5uBpbSDljWMFtKxMYHsmpY"
@@ -361,7 +387,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 672306,
       "name": "Average",
       "url": "https://open.spotify.com/track/229ZWFvNqnE1dEgVbBLCVB"
@@ -383,7 +409,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
@@ -513,7 +539,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 486314,
       "name": "Blame It on My Youth",
       "url": "https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z"
@@ -531,7 +557,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 364360,
       "name": "Blessed Feet",
       "url": "https://open.spotify.com/track/28c3mdtZCEXpdIQ85pWolU"
@@ -823,7 +849,7 @@
       ],
       "date_added": "2020-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 342906,
       "name": "Children",
       "url": "https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo"
@@ -863,6 +889,36 @@
       "duration_ms": 237333,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/3kz6NAOACWLOUKYTQVvFkN"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4TK5CEWRVAw1x5VVkhC2wq"
+      },
+      "artists": [
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Seby Burgio",
+          "url": "https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf"
+        },
+        {
+          "name": "Alessandro Presti",
+          "url": "https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH"
+        },
+        {
+          "name": "Peppe Tringali",
+          "url": "https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313040,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3sKafCdxv4vXK0D1RNlxG2"
     },
     {
       "album": {
@@ -979,7 +1035,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 379533,
       "name": "Curves",
       "url": "https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl"
@@ -997,7 +1053,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
@@ -1159,7 +1215,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 449053,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/7hmThOcToWSIo0CKZqZdfX"
@@ -1357,7 +1413,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 258839,
       "name": "Grandmother's Dream",
       "url": "https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t"
@@ -1405,7 +1461,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 263106,
       "name": "H\u00f8jder",
       "url": "https://open.spotify.com/track/5GWjxdXbCvHozYWvTO8qXr"
@@ -1569,7 +1625,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 222996,
       "name": "Impression E Minor",
       "url": "https://open.spotify.com/track/5eIUDdG5pFjmshH9CsJgTV"
@@ -1649,7 +1705,7 @@
       ],
       "date_added": "2021-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 190706,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
@@ -1729,7 +1785,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 245086,
       "name": "Is There a Way",
       "url": "https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u"
@@ -1777,7 +1833,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 375276,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF"
@@ -1813,7 +1869,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 518053,
       "name": "January",
       "url": "https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC"
@@ -1937,7 +1993,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 558493,
       "name": "Life And Death",
       "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
@@ -1981,7 +2037,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 533500,
       "name": "Mankind to Earth",
       "url": "https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2"
@@ -1999,7 +2055,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 308133,
       "name": "Mara",
       "url": "https://open.spotify.com/track/32wlGWGlQ2KfNb7bn3nvzI"
@@ -2079,7 +2135,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
@@ -2159,7 +2215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
@@ -2181,7 +2237,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 323200,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/6Q6UjeMuOcxLaL5VBgzUdq"
@@ -2243,7 +2299,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 311400,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/34RyZXVz5kuOcywbFIPosB"
@@ -2415,7 +2471,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 431266,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
@@ -2469,7 +2525,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 318122,
       "name": "Part VIII - Live",
       "url": "https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3"
@@ -2487,7 +2543,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 465306,
       "name": "PRAYER",
       "url": "https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi"
@@ -2597,7 +2653,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 357973,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/1w0IXRQFCFcz2z07pdNH4s"
@@ -2703,7 +2759,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 252279,
       "name": "Riders",
       "url": "https://open.spotify.com/track/0LDytu1PRUdxTZ5YCMIZIC"
@@ -2809,7 +2865,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 372493,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
@@ -2871,7 +2927,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 313693,
       "name": "Seeds Of Change",
       "url": "https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1"
@@ -2907,7 +2963,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
@@ -3053,7 +3109,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 435266,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
@@ -3125,7 +3181,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 323600,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
@@ -3209,7 +3265,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 284933,
       "name": "Strands",
       "url": "https://open.spotify.com/track/5LaxA3Vqu1huHZCQHUXnr3"
@@ -3227,7 +3283,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 442226,
       "name": "Strange Meadow Lark",
       "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
@@ -3245,7 +3301,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
@@ -3263,7 +3319,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 320373,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
@@ -3285,7 +3341,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 378520,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
@@ -3451,7 +3507,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 405480,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6"
@@ -3499,7 +3555,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 189673,
       "name": "The Peacocks - Single Edit",
       "url": "https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb"
@@ -3565,7 +3621,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 250106,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW"
@@ -3651,7 +3707,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 307370,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
@@ -3689,7 +3745,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 188716,
       "name": "Theme for Laura",
       "url": "https://open.spotify.com/track/4rH0C49g6oJcPzsHgCzNLQ"
@@ -3711,7 +3767,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 208468,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1eghoZLe436O2AHiZaoGVQ"
@@ -3837,7 +3893,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 297546,
       "name": "Trilly - Variation",
       "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
@@ -3895,7 +3951,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 356586,
       "name": "Vashkar",
       "url": "https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29"
@@ -3931,7 +3987,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 464160,
       "name": "When Sunny Smiles",
       "url": "https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC"
@@ -4109,7 +4165,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 314826,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/0qzfPNAMy3Su5nStssXnBd"

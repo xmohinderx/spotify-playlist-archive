@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
@@ -555,6 +555,28 @@
       "duration_ms": 198635,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/2lQLYR3RrKK0xSO9xqkW7s"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
     },
     {
       "album": {
@@ -755,7 +777,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 253150,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
@@ -1133,7 +1155,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 253685,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6"
@@ -2127,7 +2149,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168675,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
@@ -2491,7 +2513,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 156029,
       "name": "Roses",
       "url": "https://open.spotify.com/track/144kUjJ5kE1lKjDniO7uuX"
@@ -2673,7 +2695,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 153600,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
@@ -3033,7 +3055,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 166470,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml"
@@ -3099,7 +3121,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 172000,
       "name": "These Days",
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
@@ -3209,7 +3231,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"

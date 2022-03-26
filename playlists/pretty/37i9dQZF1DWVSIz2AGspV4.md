@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: سيف نبيل
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,138 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,166 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [اسوي الزين](https://open.spotify.com/track/5vrGaDTo4S60i4LcUW8mSV) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [اسوي الزين](https://open.spotify.com/album/3ueyzP9c69TE1GPVui9c9i) | 3:49 |
-| 2 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 |
+| 1 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 |
+| 2 | [Sit Wojooh](https://open.spotify.com/track/1yjah9rjkjHM9zorRJ7oEi) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Sit Wojooh](https://open.spotify.com/album/5lapnHKZ01fTIP2doKGWUM) | 3:07 |
 | 3 | [Nareen](https://open.spotify.com/track/3pBjDopdAqXsLGdnUxkbzC) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Nareen](https://open.spotify.com/album/7IHpkI6UerJGlcLK0uII5e) | 3:32 |
 | 4 | [kol Alhwajiz](https://open.spotify.com/track/5XZPJVticxjlisRv74oZRB) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [kol Alhwajiz](https://open.spotify.com/album/70qix9t2mK54PvFCPT5LYz) | 3:31 |
 | 5 | [Ala Almawthoe](https://open.spotify.com/track/3NfQNwOtvNQqP48xFKSegX) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ala Almawthoe](https://open.spotify.com/album/053pOViKjZOnMsG4fHhq7N) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [7aya](https://open.spotify.com/track/21oCPr9IY0QBcbnVCYnPH9) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [7aya](https://open.spotify.com/album/6KCgOV58KccXLTUfJ7j9wW) | 2:45 |
 | 50 | [Ya Satar](https://open.spotify.com/track/6wCx5p6IG0dmAbTU3zjSz9) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Parwaz Hussein](https://open.spotify.com/artist/2qOj66Y9xT3dLPaVq8Thr1) | [Ya Satar](https://open.spotify.com/album/4IsPE2UDmvczVVRrBxtuXE) | 2:41 |
 
-Snapshot ID: `MTY0ODEzMDIwNSwwMDAwMDBmZjAwMDAwMTdmYmMzNzI3ZjYwMDAwMDE3Zjc3NzRjNzg0`
+Snapshot ID: `MTY0ODE4Njg1NSwwMDAwMDEwMDAwMDAwMTdmYmY5NzkyMTMwMDAwMDE3Zjc3NzRjNzg0`

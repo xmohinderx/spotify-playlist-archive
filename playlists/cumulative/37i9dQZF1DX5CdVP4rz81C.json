@@ -2166,6 +2166,24 @@
     },
     {
       "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "album": {
         "name": "Chasing_(Demo)",
         "url": "https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk"
       },
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 258862,
       "name": "Day \u2018n\u2019 Nite - Spotify Singles",
       "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
@@ -3629,7 +3647,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 207068,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
@@ -4543,7 +4561,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 231132,
       "name": "Flume - Spotify Singles",
       "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
@@ -4865,7 +4883,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 147381,
       "name": "Girls In Line for the Bathroom",
       "url": "https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm"
@@ -5103,7 +5121,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
@@ -6703,7 +6721,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 187053,
       "name": "I\u2019m So Happy",
       "url": "https://open.spotify.com/track/4p5t7TGeuTe9uUmhfJ84up"
@@ -8045,7 +8063,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 268528,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk"
@@ -8612,6 +8630,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167096,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
+    },
+    {
+      "album": {
         "name": "never mind, let's break up",
         "url": "https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC"
       },
@@ -8717,6 +8753,24 @@
       "duration_ms": 183109,
       "name": "Next Thing (Loverboy)",
       "url": "https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE"
+    },
+    {
+      "album": {
+        "name": "NO HOTEL",
+        "url": "https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146546,
+      "name": "NO HOTEL",
+      "url": "https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina"
     },
     {
       "album": {
@@ -9694,6 +9748,28 @@
     },
     {
       "album": {
+        "name": "POINT",
+        "url": "https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW"
+      },
+      "artists": [
+        {
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
+        },
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206185,
+      "name": "POINT",
+      "url": "https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G"
+    },
+    {
+      "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9"
       },
@@ -9911,7 +9987,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 163151,
       "name": "Real",
       "url": "https://open.spotify.com/track/0vk4AYy92FJy72y2pQFWAJ"
@@ -11657,7 +11733,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 142500,
       "name": "Struck Gold",
       "url": "https://open.spotify.com/track/5NdzdpnOGytMy6kZCJjGAZ"
@@ -12552,6 +12628,24 @@
     },
     {
       "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
+    },
+    {
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ"
       },
@@ -12813,7 +12907,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 209533,
       "name": "Wait - from \u2018Three Months\u2019",
       "url": "https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir"
@@ -13835,7 +13929,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 244013,
       "name": "WTSGD (with Alessia Cara)",
       "url": "https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV"
@@ -13973,6 +14067,24 @@
       "duration_ms": 178186,
       "name": "you make me feel alright",
       "url": "https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC"
+    },
+    {
+      "album": {
+        "name": "You're Almost There",
+        "url": "https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "You're Almost There",
+      "url": "https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9"
     },
     {
       "album": {

@@ -930,6 +930,28 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "RAVVA",
+          "url": "https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179325,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
       },

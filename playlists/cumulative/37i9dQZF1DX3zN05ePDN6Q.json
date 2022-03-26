@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-24",
   "description": "Tem rap nacional e muito boom bap na \u00e1rea. Foto: Zudizilla",
   "name": "Boom Rap",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6ZXp32ynoQutshWQJNTjS2"
+  ],
   "tracks": [
     {
       "album": {
@@ -167,7 +169,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 252226,
       "name": "Antes de um Big Bang no Bronx",
       "url": "https://open.spotify.com/track/0E5lAocZApSKXOOkSxqB0a"
@@ -303,6 +305,28 @@
       "duration_ms": 181631,
       "name": "Carta pra Lucas",
       "url": "https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB"
+    },
+    {
+      "album": {
+        "name": "Conduta",
+        "url": "https://open.spotify.com/album/6kmjwv16vGysFNngvFw09O"
+      },
+      "artists": [
+        {
+          "name": "VPaiva",
+          "url": "https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9"
+        },
+        {
+          "name": "SENS31",
+          "url": "https://open.spotify.com/artist/2XcFgUzi3UXbxK0AG7mCtp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161392,
+      "name": "Conduta",
+      "url": "https://open.spotify.com/track/2so88lDGWqyiqiXKEgqjqB"
     },
     {
       "album": {
@@ -453,6 +477,24 @@
       "duration_ms": 309565,
       "name": "Dai a Cesar o Que \u00c9 de Cesar",
       "url": "https://open.spotify.com/track/4HJ1ffUdueDSeblz7wGKJo"
+    },
+    {
+      "album": {
+        "name": "Diamantes S\u00e3o Lapidados na Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Diamantes S\u00e3o Lapidados na Minha \u00c1rea",
+      "url": "https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC"
     },
     {
       "album": {
@@ -642,6 +684,36 @@
     },
     {
       "album": {
+        "name": "Duelo de MCs Nacional 2020",
+        "url": "https://open.spotify.com/album/1gaBUYR3dUlbIfVLREJR2W"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia de Rua",
+          "url": "https://open.spotify.com/artist/0W9haaHomzfUQ9YLln9MMO"
+        },
+        {
+          "name": "Alves",
+          "url": "https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN"
+        },
+        {
+          "name": "Vinicius ZN",
+          "url": "https://open.spotify.com/artist/62oxwNaDFCRyl760XXcE6h"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585188,
+      "name": "Grande Final (Alves Vs Vinicius ZN)",
+      "url": "https://open.spotify.com/track/6Sk5fz4CNhQ0IQNtOJh6Dd"
+    },
+    {
+      "album": {
         "name": "Guerra",
         "url": "https://open.spotify.com/album/60aK5Q2UCw3mRrXWcENPoI"
       },
@@ -786,6 +858,28 @@
     },
     {
       "album": {
+        "name": "Drag\u00e3o Cristal Vermelho",
+        "url": "https://open.spotify.com/album/4NRRaarUENmGFUQoDpJgoP"
+      },
+      "artists": [
+        {
+          "name": "Marinho",
+          "url": "https://open.spotify.com/artist/6gxHhAXspLfhB0fzpyV5nD"
+        },
+        {
+          "name": "Zuluz\u00e3o",
+          "url": "https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194766,
+      "name": "Kong e King",
+      "url": "https://open.spotify.com/track/1H9Say7mxDZBRxjPBfcZ62"
+    },
+    {
+      "album": {
         "name": "Longe do Final",
         "url": "https://open.spotify.com/album/2zVUgRUmunV1XPbBq5tNof"
       },
@@ -797,7 +891,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 206068,
       "name": "Longe do Final",
       "url": "https://open.spotify.com/track/2eg4kAsiHxTnQNTOJWqRpD"
@@ -871,7 +965,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 145036,
       "name": "Mamba Negra",
       "url": "https://open.spotify.com/track/5hAwKGBW8Mlozh4BP4ZBGZ"
@@ -915,7 +1009,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 156943,
       "name": "Na Melhor",
       "url": "https://open.spotify.com/track/6Am01smyUKRn1NOYlkDnAv"
@@ -949,6 +1043,54 @@
       "duration_ms": 217847,
       "name": "Nota de Escurecimento",
       "url": "https://open.spotify.com/track/0iKmIwWJptZgyC1RE0IzRe"
+    },
+    {
+      "album": {
+        "name": "Novo Ciclo",
+        "url": "https://open.spotify.com/album/5fNs0NvGEEW3QjRnoOOZuk"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Godo",
+          "url": "https://open.spotify.com/artist/3Cpm2ruMJr8iGMYw5tuIce"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247966,
+      "name": "Novo Ciclo",
+      "url": "https://open.spotify.com/track/5uf5jvt0x2MKjmMmfLqAAR"
+    },
+    {
+      "album": {
+        "name": "Novo Horizonte",
+        "url": "https://open.spotify.com/album/77ONKPCS5X2RGA0mzTi6ZS"
+      },
+      "artists": [
+        {
+          "name": "Plelis",
+          "url": "https://open.spotify.com/artist/4Lp1Fgg1odaf6q0SKzVF3M"
+        },
+        {
+          "name": "Pinheiro",
+          "url": "https://open.spotify.com/artist/73dYJ9igJgdsx2SHxc09RX"
+        },
+        {
+          "name": "Caio Sande",
+          "url": "https://open.spotify.com/artist/2kc6LHYVzrQERqSJNhy3kk"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185861,
+      "name": "Novo Horizonte",
+      "url": "https://open.spotify.com/track/7sgIpOH0aLG6G1ujmanrJz"
     },
     {
       "album": {
@@ -1389,10 +1531,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 278453,
       "name": "Sal\u00ed Cabron",
       "url": "https://open.spotify.com/track/2au3LaxyKTjvC7e6RqY3Ev"
+    },
+    {
+      "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/7sc3wu12mFgpHD81vmF6Vd"
+      },
+      "artists": [
+        {
+          "name": "Paradise Sessions",
+          "url": "https://open.spotify.com/artist/5Wu9pZ44oVjVTwVLrWl1ik"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191420,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/6NCVo6EWgBFxaDDMasIQFF"
     },
     {
       "album": {
@@ -1411,10 +1571,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 214887,
       "name": "Sangue na Terra",
       "url": "https://open.spotify.com/track/5ZRgkzZGchHduLipRCD6aD"
+    },
+    {
+      "album": {
+        "name": "Santa Rosa Breaks",
+        "url": "https://open.spotify.com/album/1S1lro4sMjUYT43BgCT9nH"
+      },
+      "artists": [
+        {
+          "name": "Radiola Santa Rosa",
+          "url": "https://open.spotify.com/artist/54X71c7GFBwZBjs9Vpn3kT"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184981,
+      "name": "Santa Rosa Breaks",
+      "url": "https://open.spotify.com/track/3EvLC0Cmjwma642eeGwQX0"
     },
     {
       "album": {
@@ -1521,7 +1703,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 162327,
       "name": "Som Que Vem Da Alma",
       "url": "https://open.spotify.com/track/3RbuPSW2qQx7Xio3bnInUG"
@@ -1569,7 +1751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168000,
       "name": "Subzero",
       "url": "https://open.spotify.com/track/4eVaOcnG6Fs8KZdiIjpXL6"
@@ -1654,6 +1836,28 @@
     },
     {
       "album": {
+        "name": "Tr\u00e2nsito da Cidade",
+        "url": "https://open.spotify.com/album/0ar4UsexhJOYDjoSJmusy7"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tr\u00e2nsito da Cidade",
+      "url": "https://open.spotify.com/track/4pQgLONw1HQMxJ6apIyJK1"
+    },
+    {
+      "album": {
         "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
         "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
       },
@@ -1728,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "Boom Rap",
+        "url": "https://open.spotify.com/album/0C7ojzbcqO5OCg0C7v4lmd"
+      },
+      "artists": [
+        {
+          "name": "Digo.mcc",
+          "url": "https://open.spotify.com/artist/3bWssNUZbd8WtX2zfsnGhB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153732,
+      "name": "Vidas e Apostas",
+      "url": "https://open.spotify.com/track/3MEE2yApgpQbXY3RlmeLYJ"
+    },
+    {
+      "album": {
         "name": "Vinho das Almas",
         "url": "https://open.spotify.com/album/6lAAJaL2C4WBrHpovlRWdf"
       },
@@ -1765,7 +1987,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 156413,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/31AJbpaYIHXCIbLZ5USqSC"
@@ -1809,7 +2031,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 383394,
       "name": "\u00c2ngela",
       "url": "https://open.spotify.com/track/2Cu2THxvCzWj25nLUjHcgH"

@@ -1,38 +1,18 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray\n",
-  "num_followers": 2122505,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto\n",
+  "num_followers": 2123844,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYyNjkxNiwwMDAwMDQ4NTAwMDAwMTdmOWUzNzkyYzMwMDAwMDE3ZjllMzc3MmEx",
+  "snapshot_id": "MTY0ODIzMTkzMSwwMDAwMDQ4NzAwMDAwMTdmYzI0NzVlMGUwMDAwMDE3ZmJjZWI1YzBk",
   "tracks": [
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
@@ -40,19 +20,19 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+      "duration_ms": 172137,
+      "name": "Like A Thug (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
     },
     {
-      "added_at": "2022-03-11 05:41:39",
+      "added_at": "2022-03-25 18:12:11",
       "album": {
-        "name": "Bussin",
-        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
       },
       "artists": [
         {
@@ -60,13 +40,37 @@
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         }
       ],
-      "duration_ms": 136760,
-      "name": "Bussin",
-      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+      "duration_ms": 255188,
+      "name": "We Go Up (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -141,20 +145,64 @@
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-03-11 05:41:39",
       "album": {
-        "name": "Don't Like Me",
-        "url": "https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ"
+        "name": "Sl*t Him Out Again (feat. Kali)",
+        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
       },
       "artists": [
         {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 137842,
-      "name": "Don't Like Me",
-      "url": "https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf"
+      "duration_ms": 232873,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -211,26 +259,6 @@
     {
       "added_at": "2022-03-11 05:41:39",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
@@ -243,38 +271,6 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 146597,
-      "name": "CAN'T TOUCH THIS",
-      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -307,6 +303,78 @@
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 146597,
+      "name": "CAN'T TOUCH THIS",
+      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Toot It Up (with Flo Milli)",
+        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Toot It Up (with Flo Milli)",
+      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -399,6 +467,22 @@
     {
       "added_at": "2022-03-11 05:41:39",
       "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
       },
@@ -443,42 +527,6 @@
     {
       "added_at": "2022-03-11 05:41:39",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
         "name": "UonU (feat. Yung Bleu)",
         "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
       },
@@ -511,22 +559,6 @@
       "duration_ms": 169420,
       "name": "Eat It",
       "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Winter in New York City",
-        "url": "https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 102530,
-      "name": "Hey Stranger",
-      "url": "https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -643,38 +675,6 @@
     {
       "added_at": "2022-03-11 05:41:39",
       "album": {
-        "name": "Oh Shhh",
-        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        }
-      ],
-      "duration_ms": 93096,
-      "name": "Oh Shhh",
-      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Pretty & Paid 2.0",
-        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
-      },
-      "artists": [
-        {
-          "name": "Pap Chanel",
-          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
-        }
-      ],
-      "duration_ms": 146497,
-      "name": "Apple Jacks",
-      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
         "name": "Self Made",
         "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
       },
@@ -687,6 +687,26 @@
       "duration_ms": 168986,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -775,26 +795,6 @@
     {
       "added_at": "2022-03-11 05:41:39",
       "album": {
-        "name": "Closer (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 168873,
-      "name": "Closer (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 186133,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Pop Sh*t Queen",
-        "url": "https://open.spotify.com/album/6c546bspygDHi7quOrZ2Du"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Pop Sh*t Queen",
-      "url": "https://open.spotify.com/track/68EFrsoC3TbilZBQe7XRHP"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -865,24 +849,56 @@
       "url": "https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5"
     },
     {
-      "added_at": "2022-03-11 05:41:39",
+      "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Sl*t Him Out Again (feat. Kali)",
-        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
+        "name": "Don't Like Me",
+        "url": "https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
         }
       ],
-      "duration_ms": 232873,
-      "name": "Sl*t Him Out Again (feat. Kali)",
-      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+      "duration_ms": 137842,
+      "name": "Don't Like Me",
+      "url": "https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Oh Shhh",
+        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 93096,
+      "name": "Oh Shhh",
+      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
     }
   ],
   "unique_name": "Feelin' Myself",

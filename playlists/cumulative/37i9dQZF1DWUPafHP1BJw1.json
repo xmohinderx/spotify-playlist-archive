@@ -778,6 +778,28 @@
     },
     {
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177071,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J"
+    },
+    {
+      "album": {
         "name": "Fingers Crossed (arr. piano)",
         "url": "https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ"
       },
@@ -789,7 +811,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 187948,
       "name": "Fingers Crossed (arr. piano)",
       "url": "https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t"
@@ -1209,6 +1231,24 @@
       "duration_ms": 178726,
       "name": "Moves Like Jagger",
       "url": "https://open.spotify.com/track/4GI6DgHjcyThFVotaMepa4"
+    },
+    {
+      "album": {
+        "name": "My Gift Is My Song",
+        "url": "https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233947,
+      "name": "My Gift Is My Song (Single Edit): Your Song / Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx"
     },
     {
       "album": {
@@ -2013,6 +2053,24 @@
       "duration_ms": 121775,
       "name": "Wellerman (arr. piano)",
       "url": "https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc"
+    },
+    {
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/36jRbgc6JEZPQhwBxBoKFJ"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0wgYA6SSrBSI9Egd3a5DBH"
     },
     {
       "album": {

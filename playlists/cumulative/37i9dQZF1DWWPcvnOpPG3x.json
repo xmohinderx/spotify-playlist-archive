@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 167653,
       "name": "6 Man",
       "url": "https://open.spotify.com/track/4kdfjhj9xNkYU0R8xlDy8k"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 264853,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 278906,
       "name": "B.O.B. - Bombs Over Baghdad",
       "url": "https://open.spotify.com/track/2xt7zAxDIExfwiivFb0o2O"
@@ -175,10 +175,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "album": {
@@ -193,7 +211,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 188013,
       "name": "Black Skinhead",
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 217200,
       "name": "Bomb Intro / Pass That Dutch",
       "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo"
@@ -262,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1FH8ruELaU1kthrFvdcSmt"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/0svl7cK07gK1ia5ainczU5"
+    },
+    {
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -303,7 +339,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 271600,
       "name": "Can't Tell Me Nothing",
       "url": "https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm"
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
@@ -343,7 +379,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ"
@@ -369,6 +405,28 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "album": {
+        "name": "Dance (A$$) Remix",
+        "url": "https://open.spotify.com/album/3JkjVA4hXNA0JRQo7B0MMl"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Dance (A$$) Remix",
+      "url": "https://open.spotify.com/track/3OVLPcUPS0HbMeAeMP0jZ4"
     },
     {
       "album": {
@@ -401,7 +459,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 165851,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/2cAmsZQwOuWBFhdBr0Za9C"
@@ -419,10 +477,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 286453,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5F7caGhe84C6ONva5S8yXF"
+    },
+    {
+      "album": {
+        "name": "The Incredible True Story",
+        "url": "https://open.spotify.com/album/5dOpbgAmJeyoakKQ0QLWkR"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4QRWA5UqYU1st9aO0UfxOj"
     },
     {
       "album": {
@@ -473,7 +549,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
@@ -491,7 +567,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 197559,
       "name": "Frick Park Market",
       "url": "https://open.spotify.com/track/24YpJsdgTYhUmVbAE8spH4"
@@ -513,7 +589,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 278066,
       "name": "Good Girls Go Bad",
       "url": "https://open.spotify.com/track/7vf8yaBjR5LK9xoArmfWkA"
@@ -535,10 +611,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 207000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1fLdeDTrJWNkwOeFyAVLvF"
+    },
+    {
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "Got Money",
+      "url": "https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs"
     },
     {
       "album": {
@@ -565,7 +663,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 263466,
       "name": "Have It Your Way",
       "url": "https://open.spotify.com/track/5Gis3rbXy28VG5WG8hmtZI"
@@ -583,10 +681,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 236733,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6RGvWCHTS6BC46TsMyN0WM"
+    },
+    {
+      "album": {
+        "name": "Let's Get Free",
+        "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
+      },
+      "artists": [
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Hip-Hop",
+      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
     },
     {
       "album": {
@@ -649,7 +765,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 227213,
       "name": "I Got (feat. Pimp C & Project Pat) - Explicit Album Version",
       "url": "https://open.spotify.com/track/1H6tjsLMAa8wAEgQLMNtPw"
@@ -667,7 +783,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 110790,
       "name": "Icy Chain",
       "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
@@ -689,7 +805,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 258986,
       "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
       "url": "https://open.spotify.com/track/2bQdgtO42TfS37YWupeMrr"
@@ -763,10 +879,36 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 326186,
       "name": "Knock You Down",
       "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
+    },
+    {
+      "album": {
+        "name": "Kush",
+        "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "Kush - Main",
+      "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
     },
     {
       "album": {
@@ -781,10 +923,54 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233793,
+      "name": "Lick (feat. Offset)",
+      "url": "https://open.spotify.com/track/5XdHz3HfGGOsvdhe06oxts"
+    },
+    {
+      "album": {
+        "name": "Like A Pro",
+        "url": "https://open.spotify.com/album/1aw1vihhkejRH4YhC6m72k"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133804,
+      "name": "Like A Pro (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/6WYxEIpgD3dDWyxTFcPCXv"
     },
     {
       "album": {
@@ -803,7 +989,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 338853,
       "name": "Live Your Life - feat. Rihanna",
       "url": "https://open.spotify.com/track/16GHcGtW9Io7AuVdNmTjv3"
@@ -821,7 +1007,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 242013,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
@@ -839,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 322226,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -985,7 +1171,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
@@ -1055,7 +1241,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 320160,
       "name": "Poppin Bottles (feat. Drake)",
       "url": "https://open.spotify.com/track/7JNybNPTQfrbyjvH2jghkb"
@@ -1073,7 +1259,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
@@ -1095,7 +1281,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
@@ -1131,10 +1317,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 208600,
       "name": "Push It",
       "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
     },
     {
       "album": {
@@ -1160,6 +1364,28 @@
     },
     {
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "rockstar (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
       },
@@ -1171,7 +1397,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2"
@@ -1241,7 +1467,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 289520,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/37qcaCXw7TlBsDD5BgDoCf"
@@ -1289,7 +1515,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 267293,
       "name": "Stuntin' Like My Daddy - Street",
       "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
@@ -1307,7 +1533,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 254040,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
@@ -1347,7 +1573,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 202560,
       "name": "That's My Bitch",
       "url": "https://open.spotify.com/track/3TJxCXkL774hhGUmzFLUgy"
@@ -1369,7 +1595,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 310666,
       "name": "The Devil Is A Lie",
       "url": "https://open.spotify.com/track/1FfxSgLHUkNCCLdZ7wrCTY"
@@ -1405,7 +1631,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 239613,
       "name": "The Show Goes On",
       "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
@@ -1423,10 +1649,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 231760,
       "name": "The Story of O.J.",
       "url": "https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH"
+    },
+    {
+      "album": {
+        "name": "Therapy Session",
+        "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331480,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"
     },
     {
       "album": {
@@ -1459,7 +1703,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
@@ -1499,7 +1743,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 234333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
@@ -1547,7 +1791,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 201973,
       "name": "We In This 1.5 (feat. Drake and Future)",
       "url": "https://open.spotify.com/track/4U5ZMiy7JRhgfh2AC2UX3h"

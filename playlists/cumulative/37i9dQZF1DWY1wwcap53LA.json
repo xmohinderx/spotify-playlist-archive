@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "America's My Hometown",
+        "url": "https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "America's My Hometown",
+      "url": "https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK"
+    },
+    {
+      "album": {
         "name": "B.Y.O.B.",
         "url": "https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR"
       },

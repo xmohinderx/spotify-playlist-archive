@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 259584,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7Jzak2thCz43eLysQML3Xl"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 307595,
       "name": "Bed-Stuy is Burning",
       "url": "https://open.spotify.com/track/25m9STwUOibOP20tzgW646"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 252373,
       "name": "Black Tame",
       "url": "https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L"
@@ -634,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 154180,
       "name": "Cocktail",
       "url": "https://open.spotify.com/track/0BefCZNc7saiEFnEBXzoir"
@@ -823,6 +841,28 @@
       "duration_ms": 176254,
       "name": "Contacts",
       "url": "https://open.spotify.com/track/3zlD2jhKA2dOP4rwHCeq88"
+    },
+    {
+      "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208422,
+      "name": "Coolest Things (feat. Ari Lennox)",
+      "url": "https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl"
     },
     {
       "album": {
@@ -1614,6 +1654,36 @@
     },
     {
       "album": {
+        "name": "2 P'z In A Pod",
+        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231801,
+      "name": "Late Nights (feat. Jim Jones)",
+      "url": "https://open.spotify.com/track/40i123eK1z1saRvFPPX8YV"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -2286,6 +2356,28 @@
     },
     {
       "album": {
+        "name": "THE PRICE EP",
+        "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
+      },
+      "artists": [
+        {
+          "name": "Price",
+          "url": "https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190703,
+      "name": "PROBLEMS",
+      "url": "https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU"
+    },
+    {
+      "album": {
         "name": "Product Of My Environment (feat. Kota the Friend & Erick the Architect)",
         "url": "https://open.spotify.com/album/2l4kHNpiVzIfvDhR77CCdX"
       },
@@ -2819,6 +2911,32 @@
       "duration_ms": 129600,
       "name": "Thug Till It's Over",
       "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
+    },
+    {
+      "album": {
+        "name": "thursday! (feat. KYLE & Guapdad 4000)",
+        "url": "https://open.spotify.com/album/6QjWi6Dd95Ter8zwnbxZzY"
+      },
+      "artists": [
+        {
+          "name": "BRICK!",
+          "url": "https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169065,
+      "name": "thursday! (feat. KYLE & Guapdad 4000)",
+      "url": "https://open.spotify.com/track/16qQoIscY9N927DHbFHfIU"
     },
     {
       "album": {

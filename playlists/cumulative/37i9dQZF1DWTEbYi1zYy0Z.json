@@ -2464,6 +2464,28 @@
     },
     {
       "album": {
+        "name": "Movin' N Groovin",
+        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        },
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264640,
+      "name": "Movin' N Groovin",
+      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
+    },
+    {
+      "album": {
         "name": "Alone Together (The Duets)",
         "url": "https://open.spotify.com/album/5DpxfYMLNDr7wMI9fV87UD"
       },
@@ -3635,6 +3657,24 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+    },
+    {
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/3GiuAKDTRdfBVHwBEBnVAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2"
     },
     {
       "album": {

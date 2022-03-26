@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 37 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,866 likes - 37 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [THANK YOU MARIAH](https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [THANK YOU MARIAH](https://open.spotify.com/album/2E33FQocDCN66wMxncziqW) | 3:30 |
 | 37 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Baby Tyson](https://open.spotify.com/artist/04xcAIuMLDs6qBgxEUmtJo), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 
-Snapshot ID: `MTY0ODE2OTQ3MywwMDAwMDAwMGUxNDAwNzA3Y2Y4N2QwOTZlMjg4N2YxMTdiNWE1M2Ri`
+Snapshot ID: `MTY0ODI1NTkyNywwMDAwMDAwMGUxNDAwNzA3Y2Y4N2QwOTZlMjg4N2YxMTdiNWE1M2Ri`

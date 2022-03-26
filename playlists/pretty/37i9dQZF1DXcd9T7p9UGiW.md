@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52\-H1hRrcIe4g"> Rexx Life Raj </a>,  <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw\-hCSMiiVfCdbzgPeg"> Fireboy DML </a> and <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW\_fH\-rNEg"> Wale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,620 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,632 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 15 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
 | 16 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 |
 | 17 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM) | 2:47 |
-| 18 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 |
+| 18 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 |
 | 19 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 |
 | 20 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 21 | [Bad Habits \- Kooldrink Amapiano Remix](https://open.spotify.com/track/6OvZNs4JjdyebEiIi0jcaR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 5:27 |

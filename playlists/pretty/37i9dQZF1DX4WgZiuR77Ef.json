@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound.",
-  "num_followers": 384678,
+  "num_followers": 384744,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA4OTAwMDAwMTdmOWI2NTk1MTYwMDAwMDE2ZDE1MjkwMTY0",
+  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDA4YTAwMDAwMTdmYmYzYzE0ZGYwMDAwMDE2ZDE1MjkwMTY0",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Wicked Karma",
+        "url": "https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Terin Ector",
+          "url": "https://open.spotify.com/artist/13TSdt0dyhAaIY285GtaSD"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Wicked Karma",
+      "url": "https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y"
+    },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {

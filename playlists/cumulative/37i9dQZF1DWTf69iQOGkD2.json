@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-24",
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: BIN, Vit\u00e3o",
   "name": "Rap Ac\u00fastico",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3Y7mPYZlaTNNZskH9TnUUs"
+  ],
   "tracks": [
     {
       "album": {
@@ -141,7 +143,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 204878,
       "name": "Ac\u00fastico Altamira #16 - Ci\u00fame",
       "url": "https://open.spotify.com/track/1SpeWMs45paN9WjGi0z4ou"
@@ -356,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Amor Incomum",
+        "url": "https://open.spotify.com/album/3T6BU4nayV1x2LbtgpKzID"
+      },
+      "artists": [
+        {
+          "name": "Agriff",
+          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Amor Incomum",
+      "url": "https://open.spotify.com/track/0l2i5kPH1aIFVjofoBD8Yv"
+    },
+    {
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -532,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Doc\u00ea",
+        "url": "https://open.spotify.com/album/2ls9PYhT0VTFA3vTJOD5Bj"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Doc\u00ea",
+      "url": "https://open.spotify.com/track/5kCNhVsZ9mD3TDUgcL5tlp"
+    },
+    {
+      "album": {
         "name": "Eclipse (Ac\u00fastico Viv\u00eancias)",
         "url": "https://open.spotify.com/album/1Do6sOEgQLccwjYyLmWyRz"
       },
@@ -667,6 +705,28 @@
       "duration_ms": 222576,
       "name": "Gerib\u00e1 (Papasessions #8) [feat. OIK]",
       "url": "https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs"
+    },
+    {
+      "album": {
+        "name": "Liga\u00e7\u00e3o 2",
+        "url": "https://open.spotify.com/album/3UEhToRrWkb9tUrSZVmbfk"
+      },
+      "artists": [
+        {
+          "name": "Dcan",
+          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
+        },
+        {
+          "name": "RESENHV",
+          "url": "https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91909,
+      "name": "Liga\u00e7\u00e3o 2",
+      "url": "https://open.spotify.com/track/6tHfzjkhBzGEGUwIeryUG1"
     },
     {
       "album": {
@@ -1247,7 +1307,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 213549,
       "name": "Pir\u00e2mide Social - Ao Vivo",
       "url": "https://open.spotify.com/track/7LTg7mbOlKdMgJhkHMfgBt"
@@ -1831,7 +1891,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 231407,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
@@ -1905,7 +1965,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 136421,
       "name": "Quinta C\u00ednica - Ac\u00fastico",
       "url": "https://open.spotify.com/track/78uqYSOfbHaPnWq7vYgouJ"
@@ -2035,6 +2095,24 @@
       "duration_ms": 131895,
       "name": "Tentei",
       "url": "https://open.spotify.com/track/3OiiozaXXAgWXSfgrIJI5D"
+    },
+    {
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
     },
     {
       "album": {

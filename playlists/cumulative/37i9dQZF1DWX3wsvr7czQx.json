@@ -124,6 +124,28 @@
     },
     {
       "album": {
+        "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
+        "url": "https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "American Song Contest",
+          "url": "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197807,
+      "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
+      "url": "https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8"
+    },
+    {
+      "album": {
         "name": "Big Dreams and Faded Jeans",
         "url": "https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI"
       },
@@ -971,7 +993,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 217000,
       "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
       "url": "https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK"

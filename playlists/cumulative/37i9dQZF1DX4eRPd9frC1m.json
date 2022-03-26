@@ -490,6 +490,32 @@
     },
     {
       "album": {
+        "name": "Bloodbath",
+        "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200662,
+      "name": "Bloodbath",
+      "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/3d4L0bShdwPHwnQkbRKYaF"
       },
@@ -853,6 +879,24 @@
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
+    },
+    {
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159162,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
     },
     {
       "album": {
@@ -4031,6 +4075,28 @@
       "duration_ms": 212571,
       "name": "Undo - AWAY Remix",
       "url": "https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl"
+    },
+    {
+      "album": {
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
     },
     {
       "album": {

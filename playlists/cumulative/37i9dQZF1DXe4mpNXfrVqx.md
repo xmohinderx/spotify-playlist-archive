@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe4mpNXfrVqx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe4mpNXfrVqx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe4mpNXfrVqx)
 
-### Só as Minas
+### [Só as Minas](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Nathy MC
 

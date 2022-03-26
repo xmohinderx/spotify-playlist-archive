@@ -1,13 +1,53 @@
 {
-  "description": "Tech house technicians. Cover: FISHER, Shermanology",
-  "num_followers": 542951,
+  "description": "Tech house technicians. Cover: Chris Lake",
+  "num_followers": 543115,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk1NzU1OSwwMDAwMDEwYTAwMDAwMTdmYjFlY2NhOTAwMDAwMDE3ZjdhMWQxYzVh",
+  "snapshot_id": "MTY0ODIzNDI3NSwwMDAwMDEwZjAwMDAwMTdmYzI2YjIxOWUwMDAwMDE3ZmMxZjBjMGFl",
   "tracks": [
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "400",
+        "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "400",
+      "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Sete",
+        "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Sete",
+      "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
+    },
     {
       "added_at": "2022-03-11 18:48:28",
       "album": {
@@ -27,6 +67,22 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
       "added_at": "2022-03-11 18:48:28",
@@ -63,6 +119,58 @@
       "duration_ms": 185661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "added_at": "2022-03-25 18:09:12",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2NehevZaBmXT9108S5mMyM"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5hM4F7T6hEJUHdoVgukAiq"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Lose My Mind (feat. Taylor Moody)",
+        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Taylor Moody",
+          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Lose My Mind (feat. Taylor Moody)",
+      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 188220,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -117,6 +225,58 @@
       "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
     },
     {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Tripasia",
+        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+      },
+      "artists": [
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 176791,
+      "name": "Tripasia",
+      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Miami MMW",
+        "url": "https://open.spotify.com/album/7oNOJ2vYMskdtGToAqloUs"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 358007,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9"
+    },
+    {
+      "added_at": "2022-03-11 18:48:28",
+      "album": {
+        "name": "Chase The Ace EP",
+        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
+      },
+      "artists": [
+        {
+          "name": "AZETE",
+          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Chase The Ace",
+      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
+    },
+    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Back In The Dance",
@@ -135,26 +295,6 @@
       "duration_ms": 206270,
       "name": "Back In The Dance",
       "url": "https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "R.E.A.L",
-        "url": "https://open.spotify.com/album/1IH5Mhnvy26yF7fKFwyBET"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 183095,
-      "name": "R.E.A.L",
-      "url": "https://open.spotify.com/track/1mK6vQxrBu7tStp3b8G2Z9"
     },
     {
       "added_at": "2022-02-04 17:19:00",
@@ -205,6 +345,26 @@
       "url": "https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5"
     },
     {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Marching Band",
+        "url": "https://open.spotify.com/album/0dLUc1NOmR5ka8tqnaFYJk"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Nitti Gritti",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Marching Band",
+      "url": "https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu"
+    },
+    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "Is It You",
@@ -237,20 +397,88 @@
       "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
     },
     {
-      "added_at": "2022-03-11 18:48:28",
+      "added_at": "2022-03-25 17:23:15",
       "album": {
-        "name": "Chase The Ace EP",
-        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
       },
       "artists": [
         {
-          "name": "AZETE",
-          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
         }
       ],
-      "duration_ms": 179815,
-      "name": "Chase The Ace",
-      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2022-03-25 18:51:15",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/2z0thBP0lCR9baj0Bc0Kxm"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/6ZDVabmemwAPrbGwnCKgAE"
+    },
+    {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "How We Do",
+        "url": "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 187968,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Business & Pleasure",
+        "url": "https://open.spotify.com/album/0eJjDTAcCvrRKJxtXlPytt"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 420588,
+      "name": "Business & Pleasure",
+      "url": "https://open.spotify.com/track/1UNHpqrLHpbPHpbrC94WjG"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Aphrodisiac",
+        "url": "https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 156975,
+      "name": "Aphrodisiac",
+      "url": "https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -285,22 +513,6 @@
       "url": "https://open.spotify.com/track/4hTCMB2JXvKvWDxjoye7xI"
     },
     {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 188220,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
-    },
-    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "The Beat Goes",
@@ -315,26 +527,6 @@
       "duration_ms": 189523,
       "name": "The Beat Goes",
       "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
-    },
-    {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "How We Do",
-        "url": "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 187968,
-      "name": "How We Do",
-      "url": "https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO"
     },
     {
       "added_at": "2022-03-11 18:48:28",
@@ -725,30 +917,6 @@
       "url": "https://open.spotify.com/track/1o1WXMAEziMXSklmnTWKkf"
     },
     {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/5aO3Oi0nwsfKuiJPi3Mu6G"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO"
-    },
-    {
       "added_at": "2022-02-04 17:19:00",
       "album": {
         "name": "Hit the Dancefloor",
@@ -795,26 +963,6 @@
       "duration_ms": 161759,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4CPYC9DggpZj3X4GcCFNIO"
-    },
-    {
-      "added_at": "2022-03-11 18:48:28",
-      "album": {
-        "name": "Spotlight (feat. Sarah Ikumu)",
-        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
-      },
-      "artists": [
-        {
-          "name": "S.A.M.",
-          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
-        },
-        {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
-        }
-      ],
-      "duration_ms": 175475,
-      "name": "Spotlight (feat. Sarah Ikumu)",
-      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
     },
     {
       "added_at": "2022-02-04 17:19:00",
@@ -1111,30 +1259,6 @@
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Nightjar (feat. SHELLS)",
-        "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 149455,
-      "name": "Nightjar (feat. SHELLS)",
-      "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -2059,26 +2183,6 @@
     {
       "added_at": "2021-11-26 14:57:55",
       "album": {
-        "name": "Wasteland (feat. Little Boots)",
-        "url": "https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Wasteland (feat. Little Boots)",
-      "url": "https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
       },
@@ -2283,26 +2387,6 @@
       "duration_ms": 210960,
       "name": "Rain",
       "url": "https://open.spotify.com/track/06GaggIrBExxcmkZoRVxdU"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "My Cheri",
-        "url": "https://open.spotify.com/album/6ZUEW9WFB8WK1ullIjAmUn"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Mihalis Safras",
-          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "My Cheri",
-      "url": "https://open.spotify.com/track/2KMGtmMG9ECmayTeqtb3YY"
     }
   ],
   "unique_name": "Operator",

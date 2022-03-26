@@ -1990,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "Menunggu",
+        "url": "https://open.spotify.com/album/0B2S4u0uLlT2z3BTqjcYMl"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Menunggu",
+      "url": "https://open.spotify.com/track/7InRTm84qWaAhEIvcg97ai"
+    },
+    {
+      "album": {
         "name": "Minah",
         "url": "https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf"
       },

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Luz Pinos y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,234 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,235 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 |
-| 2 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
+| 2 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
 | 3 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 |
 | 4 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 |
 | 5 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 |
-| 6 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 |
-| 7 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
-| 8 | [duermo sin pijama](https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [duermo sin pijama](https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y) | 2:33 |
-| 9 | [Elegiste Engañarme](https://open.spotify.com/track/348g4lfzjvOj2IslIqIRx0) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Elegiste Engañarme](https://open.spotify.com/album/6isazqBzKu6cPMfp6UpfPI) | 3:46 |
+| 6 | [La Despedida](https://open.spotify.com/track/6nvSAlJjsVEwQnKgQcZSPC) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [La Despedida](https://open.spotify.com/album/3cAKi4HdARpyiDK949XOmH) | 3:14 |
+| 7 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 |
+| 8 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
+| 9 | [duermo sin pijama](https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [duermo sin pijama](https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y) | 2:33 |
 | 10 | [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 |
 | 11 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 |
 | 12 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 59 | [Cerveza Cerveza 2.0](https://open.spotify.com/track/56Z1XXi31MoanMN0RlW16E) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Maca Del Pilar](https://open.spotify.com/artist/42rQdqCJtlMTkiWjwwYevF), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Cerveza Cerveza 2.0](https://open.spotify.com/album/3obB69K992BGQyDF9LwcWF) | 3:22 |
 | 60 | [Lunera](https://open.spotify.com/track/01b3QISqCOPkxcxF0f8RPt) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/3q2Hqnvc5M83pfhXNqjNPK) | 4:24 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAxYTAwMDAwMTdmNjdlNWZlYWYwMDAwMDE3ZjY1NjQxZGUw`
+Snapshot ID: `MTY0ODE4NDQwMCwwMDAwMDAxYjAwMDAwMTdmYmY3MjFhOWQwMDAwMDE3ZjY1NjQxZGUw`

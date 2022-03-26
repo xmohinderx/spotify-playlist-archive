@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
+    },
+    {
+      "album": {
         "name": "On The Grind",
         "url": "https://open.spotify.com/album/5I8Uwe1MtN6WWMKVHo1IDM"
       },
@@ -800,6 +818,24 @@
     },
     {
       "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "album": {
         "name": "Somewhere Beyond The Blue",
         "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
       },
@@ -1383,7 +1419,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 201565,
       "name": "I Run With Wolves",
       "url": "https://open.spotify.com/track/7oNOP1xca406nustARPRru"
@@ -1798,6 +1834,46 @@
     },
     {
       "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        },
+        {
+          "name": "Sonny Sandoval",
+          "url": "https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt"
+    },
+    {
+      "album": {
+        "name": "Neon Grave",
+        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239353,
+      "name": "Neon Grave",
+      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
+    },
+    {
+      "album": {
         "name": "Nigh to Silence",
         "url": "https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH"
       },
@@ -2159,6 +2235,28 @@
       "duration_ms": 230611,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms"
+    },
+    {
+      "album": {
+        "name": "R\u014dnin",
+        "url": "https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc"
+      },
+      "artists": [
+        {
+          "name": "Ibaraki",
+          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
+        },
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553880,
+      "name": "R\u014dnin",
+      "url": "https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G"
     },
     {
       "album": {
@@ -2653,6 +2751,24 @@
       "duration_ms": 167400,
       "name": "The City Sleeps (and the Rage Kicks in)",
       "url": "https://open.spotify.com/track/1OaOfZ07Hg7Ag0KwqYip86"
+    },
+    {
+      "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/6fuoUgvIeNPIe5mqF2C1wZ"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231760,
+      "name": "The Collapse",
+      "url": "https://open.spotify.com/track/73SwJ3c98zHkLHeH0X48Th"
     },
     {
       "album": {

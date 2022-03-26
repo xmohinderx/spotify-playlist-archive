@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 128813,
       "name": "2021",
       "url": "https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 143332,
       "name": "Adrian, Ali and Gregory",
       "url": "https://open.spotify.com/track/1nATM2if0c7XcpkpFYeMsq"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 471693,
       "name": "Canopy & Stars",
       "url": "https://open.spotify.com/track/5n2TC6d7x4IQ5M1UgkfNVy"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 289213,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
@@ -464,6 +464,24 @@
     },
     {
       "album": {
+        "name": "Frontier of Loss",
+        "url": "https://open.spotify.com/album/2yb3cuIJhDxN8lsxTBXBJ5"
+      },
+      "artists": [
+        {
+          "name": "Steven Griggs",
+          "url": "https://open.spotify.com/artist/1Po1uSZCiS3b5G3emOltxv"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "CORNELIUS",
+      "url": "https://open.spotify.com/track/4KIcWUwuKa0QZPiGmDFFis"
+    },
+    {
+      "album": {
         "name": "Croydon Koma",
         "url": "https://open.spotify.com/album/3fsLGV6WtkAQXvsEiTIoyL"
       },
@@ -483,7 +501,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 151720,
       "name": "Croydon Koma",
       "url": "https://open.spotify.com/track/3ETSl39IjoLVTSzrOFj68M"
@@ -657,10 +675,32 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 226524,
       "name": "Electric Eclectic",
       "url": "https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE"
+    },
+    {
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/0le3GyOXqCCCBOrhboRmhV"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        },
+        {
+          "name": "Magic Manfred",
+          "url": "https://open.spotify.com/artist/648yx5coGVscob95sgiSF9"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX"
     },
     {
       "album": {
@@ -825,7 +865,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/2OpCTTrEinags4toAT5od9"
@@ -843,7 +883,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 280000,
       "name": "Interi Ora",
       "url": "https://open.spotify.com/track/53wAULtuelcWs25MIVcF8Q"
@@ -873,7 +913,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 198842,
       "name": "Into the Wave",
       "url": "https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz"
@@ -891,7 +931,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 192442,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/4yu5GNPcQRDTE5A8lLF6IY"
@@ -1133,7 +1173,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 233960,
       "name": "Moonlite",
       "url": "https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8"
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 236560,
       "name": "Nago",
       "url": "https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4"
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 129375,
       "name": "So What",
       "url": "https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5"
@@ -1849,7 +1889,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 223336,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7eXgBA5EcoPav4adoPgsel"
@@ -1927,7 +1967,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 228413,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4fSxwtI75WRGssojwUiFAZ"
@@ -2019,7 +2059,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf"
@@ -2089,7 +2129,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 218960,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6QQhvz6gvWh6r9SJLkWDPi"
@@ -2149,6 +2189,24 @@
       "duration_ms": 227986,
       "name": "This Was Once Out of Shape",
       "url": "https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6Op0xaySOcty5w1fEyUHDH"
+      },
+      "artists": [
+        {
+          "name": "Trummor & Orgel",
+          "url": "https://open.spotify.com/artist/5wVGq0o0tqq9ZAfdbzDpzA"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Those Days Would Never End",
+      "url": "https://open.spotify.com/track/3q3BeCTFH56wbSWusGyBE0"
     },
     {
       "album": {
@@ -2267,7 +2325,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 259093,
       "name": "Try Walk with Me",
       "url": "https://open.spotify.com/track/7oebiuuObYBjX2F4kuTKfn"
@@ -2307,7 +2365,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 148491,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz"
@@ -2355,6 +2413,24 @@
       "duration_ms": 138787,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz"
+    },
+    {
+      "album": {
+        "name": "Soluble in the Maturity",
+        "url": "https://open.spotify.com/album/4dUex4y36jb964zEL7J8H6"
+      },
+      "artists": [
+        {
+          "name": "Alice Mason",
+          "url": "https://open.spotify.com/artist/3H6GaLoefbFNBaS336FrRA"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122054,
+      "name": "Warm for the Director",
+      "url": "https://open.spotify.com/track/35zByL2uDoW1rv1TGwljfO"
     },
     {
       "album": {
@@ -2459,7 +2535,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 308600,
       "name": "Youth",
       "url": "https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1"

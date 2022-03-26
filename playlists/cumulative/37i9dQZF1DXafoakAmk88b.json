@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 185685,
       "name": "Beautifully Black",
       "url": "https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB"
@@ -1156,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4EqiwDa8jcePX5tx172nTU"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00e9 Rose",
+          "url": "https://open.spotify.com/artist/6ID6N2FNCPskPc2ERK8IH2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4Tyb1yqPkrVI5hyudVc0QW"
+    },
+    {
+      "album": {
         "name": "Lost In America",
         "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
       },
@@ -1850,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Starting To Get To You",
+        "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161088,
+      "name": "Starting To Get To You",
+      "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
+    },
+    {
+      "album": {
         "name": "Few Good Things",
         "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
       },
@@ -2075,7 +2111,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 172313,
       "name": "Third Party",
       "url": "https://open.spotify.com/track/12qdqvVuZyCnWPoUx128Vl"

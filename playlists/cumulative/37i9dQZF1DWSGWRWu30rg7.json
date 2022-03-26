@@ -2480,6 +2480,24 @@
     },
     {
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/75RH514XsoSR5YnpljNNPu"
+      },
+      "artists": [
+        {
+          "name": "Batara",
+          "url": "https://open.spotify.com/artist/03nRVx8gYfikA1yjpRmtx6"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203102,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/7EOte4A1LgBtUaN4tnR2Zb"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/20NjfJ6ueBN77jmiEsOPUR"
       },

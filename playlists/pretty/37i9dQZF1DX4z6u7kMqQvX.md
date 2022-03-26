@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,600 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,665 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 |
 | 100 | [Quiero Que Seas Tú](https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Quiero Que Seas Tú](https://open.spotify.com/album/42SkhzG4LsVSPfpa0nEiZ5) | 2:58 |
 
-Snapshot ID: `MTY0ODE2OTUzNywwMDAwMDAwMDQ3YmM3ZDgxMDk0MTNlZTI5MWQ0ODgyZDhhYzAzOGQ0`
+Snapshot ID: `MTY0ODI1NTk5MSwwMDAwMDAwMDQ3YmM3ZDgxMDk0MTNlZTI5MWQ0ODgyZDhhYzAzOGQ0`

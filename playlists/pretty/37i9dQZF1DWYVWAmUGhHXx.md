@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > Ritmos latinos para encender la llama de la pasión.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,371 likes - 73 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,465 likes - 73 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 72 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 73 | [La Colegiala](https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 
-Snapshot ID: `MTY0ODE2OTMzMywwMDAwMDAwMDg2MGYzOWRhNTJjNWVhZDdkNWViOWRlNTJmNTgwOWY3`
+Snapshot ID: `MTY0ODI1NTc4MywwMDAwMDAwMDg2MGYzOWRhNTJjNWVhZDdkNWViOWRlNTJmNTgwOWY3`

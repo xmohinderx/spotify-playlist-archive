@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 194560,
       "name": "Dream",
       "url": "https://open.spotify.com/track/23fR48mfaGSXCn5MM687U6"
@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
+    },
+    {
+      "album": {
         "name": "i'll die anyway.",
         "url": "https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Kangaroo Court",
       "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 209933,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/6GnUEM9DQduEKTHZSOS8fg"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "Vowels",
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"

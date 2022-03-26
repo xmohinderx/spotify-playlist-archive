@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Boza tiene el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "J Balvin & Ed Sheeran tienen el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
   "published_playlist_ids": [
     "3K8lWo1A5PGXtJdAZf1WiQ"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 141727,
       "name": "DELITO_V13.wav",
       "url": "https://open.spotify.com/track/7Cdk27Tv9qnUTbk2cQwEnn"
@@ -951,10 +951,66 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 183985,
       "name": "EL ED\u00c9N (feat. Irepelusa) - Remix",
       "url": "https://open.spotify.com/track/7mZQB0HhEEh8hpGTNbnBZz"
+    },
+    {
+      "album": {
+        "name": "El que pierde",
+        "url": "https://open.spotify.com/album/3Drpjq1E80NNMZXybj39gV"
+      },
+      "artists": [
+        {
+          "name": "Emisha",
+          "url": "https://open.spotify.com/artist/4f28m9Z0wRfnrY5fxm3iVr"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "El que pierde",
+      "url": "https://open.spotify.com/track/0ZY0tbGFaWvjJ33IJRRcOl"
+    },
+    {
+      "album": {
+        "name": "Bucle",
+        "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330477,
+      "name": "Ella - Remix",
+      "url": "https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD"
     },
     {
       "album": {
@@ -985,7 +1041,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
@@ -1018,6 +1074,24 @@
     },
     {
       "album": {
+        "name": "Bucle",
+        "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187978,
+      "name": "En La Luna",
+      "url": "https://open.spotify.com/track/7GbqHxgqQX8uDWLsMlPbph"
+    },
+    {
+      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P"
       },
@@ -1029,7 +1103,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 187978,
       "name": "En La Luna",
       "url": "https://open.spotify.com/track/7LoBGVOINvvyKBmsSkS5CA"
@@ -2861,6 +2935,28 @@
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Volume Máximo](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
 
-> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bloc Party
+> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Shinedown
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2022-01-14 |  |
 | [Call Me When You're Sober](https://open.spotify.com/track/7IzqOoxdRKrRiPkauVLcAb) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Call Me When You're Sober](https://open.spotify.com/album/5tLkjzHBkzgRH7am21Phmi) | 3:32 | 2022-01-28 | 2022-03-18 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-02-25 | 2022-03-05 |
+| [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 |  |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 |  |
 | [Congratulations](https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Congratulations](https://open.spotify.com/album/2N32BE9xsjUyzQ2jfOPAyq) | 3:16 | 2022-03-18 |  |
 | [Connection](https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Connection \- Echo in the Dark, Pt\. I](https://open.spotify.com/album/4adJa7zLA5L0XmhDzyD6c6) | 3:45 | 2022-01-28 | 2022-02-26 |
@@ -33,7 +34,7 @@
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2022-01-14 |  |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-03-04 |  |
-| [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 |  |
+| [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 | 2022-03-26 |
 | [Dulcería](https://open.spotify.com/track/52beyXaBj0xcpTbwMPH8dN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Dulcería / Far Too Near](https://open.spotify.com/album/56AxTub06lzDBhqADOsGD7) | 4:53 | 2022-01-14 |  |
 | [Dummy \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/4Fgbypn4hVKhTOod1znr7R) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0nYANmyBQ7XDagp9SZfAvc) | 2:22 | 2022-01-14 |  |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2022-01-14 |  |
@@ -63,7 +64,7 @@
 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 | 2022-01-14 |  |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2022-01-14 |  |
 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 | 2022-01-14 |  |
-| [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-01-14 |  |
+| [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-01-14 | 2022-03-26 |
 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 | 2022-01-14 |  |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2022-01-14 | 2022-02-05 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2022-01-14 |  |
@@ -102,6 +103,7 @@
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2022-01-14 | 2022-02-12 |
 | [The Beauty In Breaking](https://open.spotify.com/track/6Dsb8t19ETwDsxmiWx7Qy7) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [The Beauty In Breaking](https://open.spotify.com/album/6Yb2AJtTEHI7Vba6wi0mLC) | 3:09 | 2022-02-18 | 2022-03-12 |
 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 | 2022-01-14 |  |
+| [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 | 2022-03-25 |  |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 |  |
 | [Torch](https://open.spotify.com/track/2ParPfrvK9Ld1cIsLOKVNC) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Torch](https://open.spotify.com/album/5IDOB0Ms2VjRPc5qGudrmM) | 3:37 | 2022-01-14 |  |
 | [Traps](https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Traps](https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh) | 2:54 | 2022-01-14 |  |

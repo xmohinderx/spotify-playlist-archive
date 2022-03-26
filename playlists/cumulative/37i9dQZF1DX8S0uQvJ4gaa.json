@@ -150,6 +150,28 @@
     },
     {
       "album": {
+        "name": "11 Beers (feat. Jake Owen)",
+        "url": "https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "11 Beers (feat. Jake Owen)",
+      "url": "https://open.spotify.com/track/6R7nxAdrHuQXHGRrDc9Rit"
+    },
+    {
+      "album": {
         "name": "2 Weeks",
         "url": "https://open.spotify.com/album/2CxkIwSV32PCworHHNkuWy"
       },
@@ -1964,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "Best Worst Ex",
+        "url": "https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Best Worst Ex",
+      "url": "https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma"
+    },
+    {
+      "album": {
         "name": "Better In A Car",
         "url": "https://open.spotify.com/album/5VY7MlO6bxG8jwzgfJYdSg"
       },
@@ -2065,7 +2109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 149332,
       "name": "Better On Me",
       "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
@@ -3237,7 +3281,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 226813,
       "name": "Changed Everything",
       "url": "https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy"
@@ -6687,7 +6731,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
@@ -7679,7 +7723,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 206533,
       "name": "Good Ole Boy",
       "url": "https://open.spotify.com/track/78uoWKqFLD3jaGv5awBe4r"
@@ -8376,6 +8420,24 @@
     },
     {
       "album": {
+        "name": "Hate This Hometown",
+        "url": "https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193023,
+      "name": "Hate This Hometown",
+      "url": "https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP"
+    },
+    {
+      "album": {
         "name": "Country Things",
         "url": "https://open.spotify.com/album/66cQh6B5mTvqYUGXgbH18w"
       },
@@ -9013,6 +9075,24 @@
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
+    },
+    {
+      "album": {
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "album": {
@@ -9685,6 +9765,24 @@
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
+    },
+    {
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Humble Quest",
+      "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
     },
     {
       "album": {
@@ -10971,7 +11069,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 182411,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5"
@@ -11657,6 +11755,24 @@
       "duration_ms": 174513,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/3kvb1ZEzH1dLIPD7ANcnP0"
+    },
+    {
+      "album": {
+        "name": "Let It Burn",
+        "url": "https://open.spotify.com/album/1aXlGFPc8SkCkuEOMd0T6z"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206044,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/09MhsFYo8oqSsd4eR2F15A"
     },
     {
       "album": {
@@ -12367,7 +12483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
@@ -16738,6 +16854,28 @@
     },
     {
       "album": {
+        "name": "Rolex\u00ae On A Redneck",
+        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Rolex\u00ae On A Redneck",
+      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
+    },
+    {
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/66modE7M9lkGSg3d4elmFa"
       },
@@ -17375,7 +17513,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
@@ -18569,7 +18707,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/64U6K5ZCoHWsl1d8bL15BX"
@@ -19763,6 +19901,24 @@
       "duration_ms": 184746,
       "name": "That's How You Got It",
       "url": "https://open.spotify.com/track/0QFvybNsiwupz72jpQWxKn"
+    },
+    {
+      "album": {
+        "name": "That's Why",
+        "url": "https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181220,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [planet rave](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
-> ur on the list bb 🪐 featuring nia archives
+> ur on the list bb 🪐 featuring yunè pinku
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-01-21 |  |
 | [HOMOSEXUAL](https://open.spotify.com/track/52JVlAIVYVJ47TD5ek5xxn) | [IX Fall$](https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD), [florent!a](https://open.spotify.com/artist/7ayLUBXOg93y0lF36ShcLH) | [HOMOSEXUAL](https://open.spotify.com/album/0XXc1yC8PO7a3sQDnVPQnm) | 4:21 | 2022-03-18 |  |
 | [House of Trix](https://open.spotify.com/track/2OUGmusXrRYbJwyljvbReI) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Utopia](https://open.spotify.com/album/5eBYBoEzA2Xl5iwiToxcLj) | 3:07 | 2021-07-23 | 2022-02-19 |
+| [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 | 2022-03-25 |  |
 | [I Need You](https://open.spotify.com/track/2TEqrIQQtUHl46RCZ4943d) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [I Need You](https://open.spotify.com/album/6Zx09cjIMZg0TbcCNayVYn) | 3:13 | 2021-12-17 |  |
 | [IN YOUR BLOOD \- TAAHLIAH Remix](https://open.spotify.com/track/2h3syRhAmidFjUbpjHVKWb) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [IN YOUR BLOOD \(TAAHLIAH Remix\)](https://open.spotify.com/album/1XZ34uniRgCjDrrz2S29a2) | 3:58 | 2022-01-14 | 2022-03-12 |
 | [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-07 |  |

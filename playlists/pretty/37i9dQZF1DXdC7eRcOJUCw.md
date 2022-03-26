@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. En portada: Guadalupe Pineda
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,999 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,026 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Cielito Lindo](https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:48 |
 | 100 | [Yo](https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Lo Mejor De Jose Alfredo Jimenez](https://open.spotify.com/album/42myQnU4LSeQeTPKTrfYyi) | 3:33 |
 
-Snapshot ID: `MTY0ODE2OTc4NywwMDAwMDAwMDQ4ODE3Yzk5NzRjNjFmNjM0ZmI1NTgxM2QxMTM2ODE0`
+Snapshot ID: `MTY0ODI1NjI0MiwwMDAwMDAwMDQ4ODE3Yzk5NzRjNjFmNjM0ZmI1NTgxM2QxMTM2ODE0`

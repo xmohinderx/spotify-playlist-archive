@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Spring has SPRUNG\. Time to vibe outside
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,676 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,100 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Spark It Up](https://open.spotify.com/track/6n3FVLR4lkLiwqRAbtRnGD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Spark It Up](https://open.spotify.com/album/68gnCjMYPp2bb68Jlt4HiK) | 4:31 |
 | 50 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 
-Snapshot ID: `MTY0ODE2OTE0MSwwMDAwMDAwMDgxMDhjNmU0MzYzNTFmYTZiNDJlMTI0NWM3MjMwMDRl`
+Snapshot ID: `MTY0ODI1NTU4OCwwMDAwMDAwMDgxMDhjNmU0MzYzNTFmYTZiNDJlMTI0NWM3MjMwMDRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,084 likes - 33 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,160 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 32 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 |
 | 33 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 
-Snapshot ID: `MTY0ODE2OTMyMywwMDAwMDAwMGY0NGRmYTE0NTVkYTliYWQ5NDhiZTU2NmExZGZmNWEx`
+Snapshot ID: `MTY0ODI1NTc3MiwwMDAwMDAwMGY0NGRmYTE0NTVkYTliYWQ5NDhiZTU2NmExZGZmNWEx`

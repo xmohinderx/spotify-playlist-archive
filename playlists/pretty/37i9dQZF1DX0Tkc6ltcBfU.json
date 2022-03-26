@@ -1,13 +1,45 @@
 {
   "description": "The hottest out the south. Cover: Kodak Black",
-  "num_followers": 1033864,
+  "num_followers": 1034144,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDIwYzAwMDAwMTdmOWIyZWE2YzUwMDAwMDE3ZjQ0MjM1ZDZi",
+  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDIwZDAwMDAwMTdmYmYzYjJhZDIwMDAwMDE3ZjQ0MjM1ZDZi",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Yellow Tape 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "I Be",
+      "url": "https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
@@ -29,40 +61,44 @@
       "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+        "name": "Free The Shiners",
+        "url": "https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+      "duration_ms": 124800,
+      "name": "Free The Shiners",
+      "url": "https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74"
     },
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Let's Get It (Remix) [feat. 21 Savage]",
-        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
       "artists": [
         {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 156995,
-      "name": "Let's Get It (Remix) [feat. 21 Savage]",
-      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -83,6 +119,42 @@
       "duration_ms": 160948,
       "name": "Crypto (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 147878,
+      "name": "Stepper (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -111,6 +183,46 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Let's Get It (Remix) [feat. 21 Savage]",
+        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Let's Get It (Remix) [feat. 21 Savage]",
+      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Vulture Island V2 (with Lil Baby)",
+        "url": "https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 209023,
+      "name": "Vulture Island V2 (with Lil Baby)",
+      "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Pain Killers",
         "url": "https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH"
       },
@@ -127,22 +239,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "556 (Green Tip)",
         "url": "https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h"
       },
@@ -155,38 +251,6 @@
       "duration_ms": 117190,
       "name": "556 (Green Tip)",
       "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Rocking A Cardigan in Atlanta",
-        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
-      },
-      "artists": [
-        {
-          "name": "lil Shordie Scott",
-          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
-        }
-      ],
-      "duration_ms": 96825,
-      "name": "Rocking A Cardigan in Atlanta",
-      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -233,24 +297,24 @@
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
+        "name": "Troubles [Feat. T-Pain]",
+        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+      "duration_ms": 160000,
+      "name": "Troubles [Feat. T-Pain]",
+      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -299,6 +363,38 @@
       "duration_ms": 195528,
       "name": "Real As It Gets",
       "url": "https://open.spotify.com/track/2tiRmNWhtWKmnzaoYBYJSs"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Rocking A Cardigan in Atlanta",
+        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
+      },
+      "artists": [
+        {
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+        }
+      ],
+      "duration_ms": 96825,
+      "name": "Rocking A Cardigan in Atlanta",
+      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -603,22 +699,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Vulture Island",
-        "url": "https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 135348,
-      "name": "Vulture Island",
-      "url": "https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
         "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
@@ -779,6 +859,26 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
+        "name": "Time is Muney",
+        "url": "https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt"
+      },
+      "artists": [
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Nobody (feat. Dreezy)",
+      "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
         "name": "Stoner's Night",
         "url": "https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb"
       },
@@ -819,82 +919,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "HANDSOMER",
-        "url": "https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "HANDSOMER",
-      "url": "https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Time is Muney",
-        "url": "https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt"
-      },
-      "artists": [
-        {
-          "name": "Kenny Muney",
-          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
-        },
-        {
-          "name": "Dreezy",
-          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Nobody (feat. Dreezy)",
-      "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Truth Season: The United Streets of America",
-        "url": "https://open.spotify.com/album/2fdB12wI8rq06FOkwz2YRc"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 202012,
-      "name": "Shake Em Off (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/7JkFYCGtKLrpXMkLuzGCfh"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "She Luv Me",
         "url": "https://open.spotify.com/album/3WtDxiYCu5F2fLaSinmpgF"
       },
@@ -911,26 +935,6 @@
       "duration_ms": 122276,
       "name": "She Luv Me",
       "url": "https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Don't Get Hit",
-        "url": "https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB"
-      },
-      "artists": [
-        {
-          "name": "VV$ KEN",
-          "url": "https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU"
-        },
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        }
-      ],
-      "duration_ms": 203675,
-      "name": "Don't Get Hit",
-      "url": "https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK"
     }
   ],
   "unique_name": "No Cap",

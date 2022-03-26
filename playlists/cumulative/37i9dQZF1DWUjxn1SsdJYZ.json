@@ -2092,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo"
+      },
+      "artists": [
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123789,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi"
+    },
+    {
+      "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/2lOMrmiYzXyzntqtIct6bM"
       },

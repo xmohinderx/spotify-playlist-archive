@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,466 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,770 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 |
 | 50 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
 
-Snapshot ID: `MTY0ODE2OTUwNywwMDAwMDAwMDM4NjQ2YTY4YjQ1YTg2NDM0MzIwY2Q4ZTAzMmIxZjE0`
+Snapshot ID: `MTY0ODI1NTk2MiwwMDAwMDAwMDM4NjQ2YTY4YjQ1YTg2NDM0MzIwY2Q4ZTAzMmIxZjE0`

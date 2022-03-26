@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "America's My Hometown",
+        "url": "https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "America's My Hometown",
+      "url": "https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/6hMgnweGhql8JcZ85nq0Mb"
       },
@@ -543,6 +561,24 @@
       "duration_ms": 202626,
       "name": "Drink A Beer",
       "url": "https://open.spotify.com/track/1PoGWZbJPGmViVi7CYbDUK"
+    },
+    {
+      "album": {
+        "name": "Every Small Town",
+        "url": "https://open.spotify.com/album/4F44wmtUjHGWAivAPuthfi"
+      },
+      "artists": [
+        {
+          "name": "Ben Gallaher",
+          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Every Small Town",
+      "url": "https://open.spotify.com/track/0eX4hoyQtk1ntSiryh5LDa"
     },
     {
       "album": {

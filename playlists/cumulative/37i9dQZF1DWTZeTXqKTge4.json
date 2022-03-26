@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/2jX65KhXfrKbwJk8dy6Zcr"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD"
+    },
+    {
+      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/4x7yE5sAq5hnrjNOoW5bvD"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 154485,
       "name": "Calmate",
       "url": "https://open.spotify.com/track/0APdg7ZldMEtLnEB6opdDV"
@@ -884,6 +902,24 @@
     },
     {
       "album": {
+        "name": "De l'autre c\u00f4t\u00e9",
+        "url": "https://open.spotify.com/album/1Vlp18zkHHRi1q85BBAnKb"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169248,
+      "name": "De l'autre c\u00f4t\u00e9",
+      "url": "https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb"
+    },
+    {
+      "album": {
         "name": "Royaut\u00e9",
         "url": "https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn"
       },
@@ -1153,6 +1189,24 @@
       "duration_ms": 189276,
       "name": "Flore",
       "url": "https://open.spotify.com/track/5cqc6vg6Gy5FeIhvxW8zlJ"
+    },
+    {
+      "album": {
+        "name": "Fl\u00e9au Dicaprio (Intro)",
+        "url": "https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169886,
+      "name": "Fl\u00e9au Dicaprio - Intro",
+      "url": "https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy"
     },
     {
       "album": {
@@ -1747,7 +1801,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 153020,
       "name": "Manny",
       "url": "https://open.spotify.com/track/2Qw5seczc3eGdzoOuEv9L8"
@@ -2045,7 +2099,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 217580,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2z3l5GF5En5omNXn55v60u"
@@ -2319,7 +2373,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 144750,
       "name": "Respecte",
       "url": "https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r"
@@ -2709,6 +2763,24 @@
       "duration_ms": 144905,
       "name": "Turf",
       "url": "https://open.spotify.com/track/2t60WSbTDTX6wwKzWL1NYO"
+    },
+    {
+      "album": {
+        "name": "Whoopty",
+        "url": "https://open.spotify.com/album/1JOZu5P4aQ1NLcqtiDVYFp"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163448,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/2sQSWHkBKN4cuEx9RkAEGB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8xOUcH7zbML.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8xOUcH7zbML) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8xOUcH7zbML)
 
-### O Melhor da AULAS 2021
+### [O Melhor da AULAS 2021](https://open.spotify.com/playlist/5OSpZawUXQq9YM9uVyjAGk)
 
 > L7 e o melhor do Hip Hop nacional em 2021.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,054 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,141,138 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 47 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 48 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
 | 49 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
-| 50 | [Rise \(Edit\)](https://open.spotify.com/track/3Su3OImznNr8DHg72s3aPm) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Tasita D´Mour](https://open.spotify.com/artist/5IQlMdUYZ3TpBYjSOwpkZW) | [Rise](https://open.spotify.com/album/0s2kCdntb8JhaK4fC2FTAi) | 3:13 |
+| 50 | [Rise \(Edit\)](https://open.spotify.com/track/3Su3OImznNr8DHg72s3aPm) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk) | [Rise](https://open.spotify.com/album/0s2kCdntb8JhaK4fC2FTAi) | 3:13 |
 | 51 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
 | 52 | [Cross My Heart](https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Cross My Heart](https://open.spotify.com/album/4yTrSLs99kcWGXEUCPfp7C) | 2:48 |
 | 53 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 111 | [In The Dark](https://open.spotify.com/track/2mGIYrzDcaEjGeZpnltE3Y) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/4vPR8RUetBphiU2UDaMwV1) | 5:42 |
 | 112 | [Lonely Days](https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Lonely Days](https://open.spotify.com/album/0QELvGe0mwITZXCdlHozC9) | 3:04 |
 
-Snapshot ID: `MTY0ODE2OTQ3NCwwMDAwMDAwMDYyN2FiYmNmNTlmMTk2YWQ3ZmQ4NWZjYTQ5NTZhZjE5`
+Snapshot ID: `MTY0ODI1NTkyOCwwMDAwMDAwMDYyN2FiYmNmNTlmMTk2YWQ3ZmQ4NWZjYTQ5NTZhZjE5`

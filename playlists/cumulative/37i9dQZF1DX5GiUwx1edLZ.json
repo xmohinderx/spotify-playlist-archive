@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 238439,
       "name": "Apollo - Acoustic Version",
       "url": "https://open.spotify.com/track/4z4T6CL0ByjV5sEmwjtT6T"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 254529,
       "name": "Atlantis - Acoustic Version",
       "url": "https://open.spotify.com/track/6rUgmZtH7GMCDMMkYAOslN"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 154145,
       "name": "Avenue Road",
       "url": "https://open.spotify.com/track/35M5jZAr2kizYaDvn4bXwx"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 221998,
       "name": "Be Your Sound - Live Acoustic Version",
       "url": "https://open.spotify.com/track/5hWZSnDyQSdydBWrZnVX9Z"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 177364,
       "name": "BED - Acoustic",
       "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 212846,
       "name": "Better Half Of Me - Acoustic Mix",
       "url": "https://open.spotify.com/track/1D4w5YySaeByR5OgvBkfbC"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 191327,
       "name": "By Your Side (feat. Tom Grennan) - Acoustic",
       "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
@@ -358,6 +358,28 @@
     },
     {
       "album": {
+        "name": "Clarity (Remixes)",
+        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Clarity - Zedd Union Mix",
+      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
+    },
+    {
+      "album": {
         "name": "Concrete Angel (acoustic)",
         "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
       },
@@ -395,10 +417,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174413,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
     },
     {
       "album": {
@@ -413,7 +453,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -435,7 +475,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 193274,
       "name": "Destiny (Acoustic Version)",
       "url": "https://open.spotify.com/track/0ViifrNFDm3IKycXfvkuA3"
@@ -493,7 +533,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
@@ -585,7 +625,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 151874,
       "name": "End Of The World - Acoustic Mix",
       "url": "https://open.spotify.com/track/1BYKL9apyfXUvGm5Ni4d9C"
@@ -629,7 +669,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 201748,
       "name": "Fears (Acoustic)",
       "url": "https://open.spotify.com/track/6wasfRwIrmrsjjaPvpvAFs"
@@ -691,10 +731,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 189464,
       "name": "Fire - M&F's in Session Edit",
       "url": "https://open.spotify.com/track/6BU8Zh86mwohDsmSyvB6hg"
+    },
+    {
+      "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
     },
     {
       "album": {
@@ -743,10 +801,36 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 204374,
       "name": "Freeze Time - Acoustic Version",
       "url": "https://open.spotify.com/track/7xDuAq8R7VVufDqqz5ZCi3"
+    },
+    {
+      "album": {
+        "name": "Going Wrong",
+        "url": "https://open.spotify.com/album/5anj3tvJF9j7NBKquMN8ap"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "DJ Shah",
+          "url": "https://open.spotify.com/artist/4Q5snyb5ODh1VXbdvHtJgx"
+        },
+        {
+          "name": "Chris Jones",
+          "url": "https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Going Wrong - Acoustic Mix",
+      "url": "https://open.spotify.com/track/4Ko6t913nisoeDDcwSB81g"
     },
     {
       "album": {
@@ -790,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364392,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2XhTyaqktGA4grDfEYv8d7"
+    },
+    {
+      "album": {
         "name": "Acoustic - Live At The Hollywood Bowl",
         "url": "https://open.spotify.com/album/6aSqfBHBWBHZq72VGp0MTA"
       },
@@ -808,6 +910,42 @@
     },
     {
       "album": {
+        "name": "All In All",
+        "url": "https://open.spotify.com/album/3OMktTWq6op5qTgMsvlRtN"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261109,
+      "name": "Hands To Hold - Acoustic",
+      "url": "https://open.spotify.com/track/39CcNgapxycNN7tcOKOC3Q"
+    },
+    {
+      "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Hang With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0Mi3VgLhq5U6BMyGkPwHYD"
+    },
+    {
+      "album": {
         "name": "Happier (Stripped)",
         "url": "https://open.spotify.com/album/5VqnU8anFTGqsFQvAXKx6l"
       },
@@ -823,7 +961,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/2FkQbpFk34QN97I3OHmfaA"
@@ -867,7 +1005,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 149525,
       "name": "Hear Me Say - Acoustic",
       "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
@@ -919,6 +1057,24 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+    },
+    {
+      "album": {
+        "name": "Speak For Yourself",
+        "url": "https://open.spotify.com/album/7sJMiEjWDtUg3ccvn2QsUC"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/6eRJfzCaPjbkTQ0gvPMLsi"
     },
     {
       "album": {
@@ -988,6 +1144,28 @@
     },
     {
       "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
+        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
+      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
+    },
+    {
+      "album": {
         "name": "I Got You (Acoustic)",
         "url": "https://open.spotify.com/album/5zxVnbHbzr0mywfq1RDV7j"
       },
@@ -999,7 +1177,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168045,
       "name": "I Got You - Acoustic",
       "url": "https://open.spotify.com/track/2r8FGx26jevvKKl41Nmedu"
@@ -1028,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "If There is Love (Acoustic)",
+        "url": "https://open.spotify.com/album/0xivwI14vv6m9yg90Xvb2M"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123383,
+      "name": "If There is Love - Acoustic",
+      "url": "https://open.spotify.com/track/17EkG7I7D3XcnadKxJEmYY"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
       },
@@ -1039,7 +1239,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 211600,
       "name": "Imagination - Piano Vocal Ballad",
       "url": "https://open.spotify.com/track/54WnFonOaZWr4VRWjNA0P9"
@@ -1086,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Creation",
+        "url": "https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96869,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4vrIFWqjf9AM05c0hBnZhR"
+    },
+    {
+      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -1097,7 +1315,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
@@ -1137,10 +1355,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 243573,
       "name": "King - Acoustic",
       "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour (Deluxe)",
+        "url": "https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/7cG68oOj0pZYoSVuP1Jzot"
+    },
+    {
+      "album": {
+        "name": "Leave The World Behind",
+        "url": "https://open.spotify.com/album/5uV7LdCwpYY8YWSglxoi24"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "Leave The World Behind",
+      "url": "https://open.spotify.com/track/5baBmxsbZqUYCZ6Mgo1txk"
     },
     {
       "album": {
@@ -1159,10 +1413,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
+    },
+    {
+      "album": {
+        "name": "Light Us Up (feat. Calum Scott) [Acoustic]",
+        "url": "https://open.spotify.com/album/0gkmusFnJ4LzCx5kwoMcZM"
+      },
+      "artists": [
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178083,
+      "name": "Light Us Up (feat. Calum Scott) - Acoustic",
+      "url": "https://open.spotify.com/track/403CNGaoWtiMFh98MZgLh8"
     },
     {
       "album": {
@@ -1207,7 +1483,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 182078,
       "name": "Lonely Together - Acoustic",
       "url": "https://open.spotify.com/track/3fgjE7IXIkrPag6YKcKeHa"
@@ -1233,7 +1509,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/6rrWxk8mXwgA9tlz3xrrOz"
@@ -1255,7 +1531,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 293946,
       "name": "Looking For Your Name",
       "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
@@ -1299,7 +1575,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 209000,
       "name": "Lost - Acoustic",
       "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
@@ -1321,10 +1597,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 181235,
       "name": "Lost Again (feat. Norah B) - Acoustic Version",
       "url": "https://open.spotify.com/track/3pFU5UdZdnDPx3CSWtTwkX"
+    },
+    {
+      "album": {
+        "name": "Love Again (Acoustic)",
+        "url": "https://open.spotify.com/album/6uwBUxnEJcze1PwwaG39Ia"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Ali Tamposi",
+          "url": "https://open.spotify.com/artist/6bJVfTo7DceNYl03fo8M67"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222494,
+      "name": "Love Again - Acoustic",
+      "url": "https://open.spotify.com/track/7JjvR7V4ZK0kEu2z3ROjXI"
     },
     {
       "album": {
@@ -1391,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
@@ -1420,6 +1718,42 @@
     },
     {
       "album": {
+        "name": "Melody (Acoustic)",
+        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Melody - Acoustic",
+      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
+    },
+    {
+      "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "album": {
         "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
         "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
       },
@@ -1435,7 +1769,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
@@ -1464,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "No One On Earth (Acoustic)",
+        "url": "https://open.spotify.com/album/2ym0M7dDkVGhoHTOi87382"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257826,
+      "name": "No One On Earth",
+      "url": "https://open.spotify.com/track/0QkKm8x5yTuZenmrZuFquw"
+    },
+    {
+      "album": {
         "name": "Tell Me You Love Me (Deluxe)",
         "url": "https://open.spotify.com/album/2LGlGo4wHdPF2ZV1h0eX1A"
       },
@@ -1479,7 +1831,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "No Promises - Acoustic",
       "url": "https://open.spotify.com/track/10tuukId64A915wwQ9HzhK"
@@ -1505,7 +1857,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 222981,
       "name": "No Sleep - Unplugged Mix",
       "url": "https://open.spotify.com/track/6Wl4UTPfu7J967GhYXfsWP"
@@ -1549,7 +1901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 216716,
       "name": "Not Coming Down (Acoustic Radio Edit)",
       "url": "https://open.spotify.com/track/6j48XiveQU46nkWQ1ekpHx"
@@ -1567,7 +1919,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 172756,
       "name": "Old Friend - Live Acoustic",
       "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
@@ -1585,7 +1937,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 263631,
       "name": "On a Good Day",
       "url": "https://open.spotify.com/track/7b9tTbSIfpAePo4v18dbwv"
@@ -1643,10 +1995,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 112173,
       "name": "Ones You Miss - Acoustic",
       "url": "https://open.spotify.com/track/0AOI0bkKmKx1DUdDn6oGyP"
+    },
+    {
+      "album": {
+        "name": "DC to Light",
+        "url": "https://open.spotify.com/album/21c76kAFkBXFvGnKglGLZ6"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Open Heart (feat. Lissie) - Bonus Acoustic Mix",
+      "url": "https://open.spotify.com/track/79g4fUnv1Xd1b4YONWPxBa"
     },
     {
       "album": {
@@ -1701,7 +2075,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 193125,
       "name": "Painkiller - Piano Version",
       "url": "https://open.spotify.com/track/1pvn0eYcwSqYS16zyOiq3h"
@@ -1723,7 +2097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 185019,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy"
@@ -1767,10 +2141,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/10g2KYRNWnxFLfjIqMTRyV"
+    },
+    {
+      "album": {
+        "name": "Plans (feat. Brandyn Burnette) [Acoustic Mix]",
+        "url": "https://open.spotify.com/album/5SDkKwFRqX5NKqwowuLj0c"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Brandyn Burnette",
+          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271157,
+      "name": "Plans (feat. Brandyn Burnette) - Acoustic Mix",
+      "url": "https://open.spotify.com/track/3siVXh2pHcZm04ADzi2ur0"
     },
     {
       "album": {
@@ -1793,7 +2189,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 248307,
       "name": "Playing With Fire - C-Systems Acoustic Rework",
       "url": "https://open.spotify.com/track/4pDIgzKbRYuiexOlwWNpHO"
@@ -1819,6 +2215,24 @@
       "duration_ms": 201600,
       "name": "Praise You (Chill Mix) - Extended Mix",
       "url": "https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb"
+    },
+    {
+      "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/5I7J8PBLHiIeddkMDAdn19"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/2K18p1NwK2ASdyBAPZdd3d"
     },
     {
       "album": {
@@ -1863,7 +2277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/2d8uu9ij9OZJMsyO48xziE"
@@ -1881,7 +2295,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 160395,
       "name": "Red Lights - 3LAU's Acoustic Version",
       "url": "https://open.spotify.com/track/1DRi4qnbpeo8hPGIYVeRPP"
@@ -1961,7 +2375,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 215172,
       "name": "Safe Ground - Orchestral Version",
       "url": "https://open.spotify.com/track/0C1OxsWOlVXXzfXjQVoKqQ"
@@ -1983,7 +2397,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 203258,
       "name": "Safe With Me (with Audrey Mika) - Acoustic",
       "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
@@ -2023,7 +2437,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
@@ -2041,7 +2455,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 153620,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1CkEAd2iSVun0kSX3p1MkL"
@@ -2070,6 +2484,32 @@
     },
     {
       "album": {
+        "name": "Shed a Light (The Remixes Part 2)",
+        "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Shed a Light - Acoustic Version",
+      "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
@@ -2085,7 +2525,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
@@ -2195,10 +2635,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
+    },
+    {
+      "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "album": {
@@ -2213,7 +2675,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 214244,
       "name": "Starlight (Piano Version)",
       "url": "https://open.spotify.com/track/7o5aAn2bUQnUwNfPmcsWB9"
@@ -2235,7 +2697,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 211525,
       "name": "Steal Your Heart - Unplugged Version",
       "url": "https://open.spotify.com/track/40Ogxs02kMCBNJCvJ2f7vF"
@@ -2253,7 +2715,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 288026,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
@@ -2300,6 +2762,46 @@
     },
     {
       "album": {
+        "name": "Sunshine (feat. Dan Harkna) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/5cu78VNR9LjXBJ2YJqq8hM"
+      },
+      "artists": [
+        {
+          "name": "TIEKS",
+          "url": "https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45"
+        },
+        {
+          "name": "Dan Harkna",
+          "url": "https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192105,
+      "name": "Sunshine - Acoustic Version",
+      "url": "https://open.spotify.com/track/1XWYgTe9x6Q9oOaVPc4VtW"
+    },
+    {
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/5Nrx0GEDuLwrQcEvb1IM8l"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128067,
+      "name": "Superman Lost",
+      "url": "https://open.spotify.com/track/5tJwqIURhPZInrFxWT0cGB"
+    },
+    {
+      "album": {
         "name": "Surrender (Acoustic)",
         "url": "https://open.spotify.com/album/1iIrWKoUeLJyIXZPn9sahi"
       },
@@ -2315,6 +2817,28 @@
       "duration_ms": 199080,
       "name": "Surrender - Acoustic",
       "url": "https://open.spotify.com/track/6MpjJlAYJmgEGas0eiHChg"
+    },
+    {
+      "album": {
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "album": {
@@ -2355,7 +2879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 184815,
       "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
       "url": "https://open.spotify.com/track/4s8kxu7ipl6uAFyncBX4RR"
@@ -2373,7 +2897,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 241087,
       "name": "Tears - Acoustic Piano Version; Instrumental",
       "url": "https://open.spotify.com/track/3foAHYDoyz3Xc48rbfxLLg"
@@ -2413,7 +2937,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 193432,
       "name": "There Will Be Angels - Acoustic Version",
       "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
@@ -2443,7 +2967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 212692,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",
       "url": "https://open.spotify.com/track/0qynC1yRTNWI7JEsKV9dwg"
@@ -2479,7 +3003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"
@@ -2527,7 +3051,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
@@ -2600,6 +3124,42 @@
     },
     {
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "album": {
+        "name": "Walking Alone",
+        "url": "https://open.spotify.com/album/2FaZTMjqptM3RX9ZbeAnGP"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297412,
+      "name": "Walking Alone (David Komar Piano Rendition)",
+      "url": "https://open.spotify.com/track/2xhOTvCCJShuMcAIOk8sYB"
+    },
+    {
+      "album": {
         "name": "The Acoustics",
         "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
@@ -2619,6 +3179,24 @@
       "duration_ms": 161724,
       "name": "Walking With Shadows - Acoustic Version",
       "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ"
     },
     {
       "album": {
@@ -2644,6 +3222,24 @@
     },
     {
       "album": {
+        "name": "We're All We Need (Acoustic)",
+        "url": "https://open.spotify.com/album/2D3fmtu3V0mjZOWuhZHNoz"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302333,
+      "name": "We're All We Need",
+      "url": "https://open.spotify.com/track/01dDT6eg5w2LNpRB6tPsMy"
+    },
+    {
+      "album": {
         "name": "Acoustic - Live At The Hollywood Bowl",
         "url": "https://open.spotify.com/album/6aSqfBHBWBHZq72VGp0MTA"
       },
@@ -2662,6 +3258,32 @@
     },
     {
       "album": {
+        "name": "Brand New Machine",
+        "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Abigail Wyles",
+          "url": "https://open.spotify.com/artist/67vBB5vAKwEW9YZUgU8YRx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
+    },
+    {
+      "album": {
         "name": "When You're Out (feat. Mae Muller)",
         "url": "https://open.spotify.com/album/7j6QqswXZdETvnO6lPRZgj"
       },
@@ -2677,10 +3299,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 147000,
       "name": "When You're Out (feat. Mae Muller) - Acoustic Version",
       "url": "https://open.spotify.com/track/3u7fC3ekuj0ZM9V2ZBDJLN"
+    },
+    {
+      "album": {
+        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216339,
+      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
     },
     {
       "album": {
@@ -2699,7 +3351,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 209024,
       "name": "Where You Are - Acoustic Version",
       "url": "https://open.spotify.com/track/72RpvmZyTHqRWJHEi6d3i4"
@@ -2729,10 +3381,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 199750,
       "name": "Winterburn - Geert Huinink Orchestral Version",
       "url": "https://open.spotify.com/track/1xMCUb9iBxgjyYQF5Lfwwy"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "album": {
@@ -2751,10 +3425,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 185381,
       "name": "You for Me - Acoustic",
       "url": "https://open.spotify.com/track/2STdeJ27mvJ8wBrnvc2ZwS"
+    },
+    {
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338610,
+      "name": "You Got To Go",
+      "url": "https://open.spotify.com/track/1Gs0I6tTJ8WN42pEvm3Rzt"
     },
     {
       "album": {
@@ -2773,7 +3465,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 224522,
       "name": "Young God (Acoustic) [feat. Lovelle]",
       "url": "https://open.spotify.com/track/0mQhrGlPgwWPscwMfC6WfI"

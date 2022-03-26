@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Kalil",
+  "description": "tranquilo e calmo, no flow. Foto: Levi",
   "name": "tamo flex",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6q6haEaTDDjjQ2HQhKMkJt"
+  ],
   "tracks": [
     {
       "album": {
@@ -237,6 +239,28 @@
       "duration_ms": 203294,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY"
+    },
+    {
+      "album": {
+        "name": "Casal 171",
+        "url": "https://open.spotify.com/album/7hC9jL7eYPa1OwjCDu2SGH"
+      },
+      "artists": [
+        {
+          "name": "ike",
+          "url": "https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201857,
+      "name": "Casal 171",
+      "url": "https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO"
     },
     {
       "album": {
@@ -643,7 +667,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 142736,
       "name": "Falsos amores!!",
       "url": "https://open.spotify.com/track/3hCniP4A16gG3LpaxyvyEj"
@@ -779,7 +803,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 134081,
       "name": "Lord",
       "url": "https://open.spotify.com/track/3xlr48QzAcZKdSLy8YNN2l"
@@ -1056,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o T\u00f4 Com Ela",
+        "url": "https://open.spotify.com/album/1VcEx47nWTn5rj7w9VNzev"
+      },
+      "artists": [
+        {
+          "name": "Pedrosa",
+          "url": "https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151359,
+      "name": "N\u00e3o T\u00f4 Com Ela",
+      "url": "https://open.spotify.com/track/0AdzI4Q1mx7md7UbYSThKY"
+    },
+    {
+      "album": {
         "name": "O Bairro Todo Parou",
         "url": "https://open.spotify.com/album/6lZvnVrVw0YrBhwDw5NmzP"
       },
@@ -1071,7 +1113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 240720,
       "name": "O Bairro Todo Parou",
       "url": "https://open.spotify.com/track/4xPVlKtuY3Wzjf7fR1N8F0"
@@ -1531,7 +1573,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 149217,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/0rB1uqmGKw9n0M5PxJAuy2"
@@ -1553,10 +1595,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 151208,
       "name": "Sei Que C\u00ea Gosta 2",
       "url": "https://open.spotify.com/track/49uDp13lp4yG8VZ0hlPtTx"
+    },
+    {
+      "album": {
+        "name": "Seus Olhos",
+        "url": "https://open.spotify.com/album/3Ub8SSzzNx2c2H3WoWJcsv"
+      },
+      "artists": [
+        {
+          "name": "Tollendal",
+          "url": "https://open.spotify.com/artist/2qj8Lf45i5XQo2cm8KPdrD"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/0FziqVZMw2ZQld8mYF5cwP"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "Seus Olhos",
+      "url": "https://open.spotify.com/track/1cKl7inbfCXhbN8QeZRot3"
     },
     {
       "album": {
@@ -1612,6 +1680,28 @@
     },
     {
       "album": {
+        "name": "Tutorial De Como Ser Feliz",
+        "url": "https://open.spotify.com/album/5ZLw45vETw3qIppxhh6vvC"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        },
+        {
+          "name": "Dri",
+          "url": "https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153964,
+      "name": "Tutorial De Como Ser Feliz",
+      "url": "https://open.spotify.com/track/3y34iNIG0D2r3Tb2ZSIHBR"
+    },
+    {
+      "album": {
         "name": "T\u00f3quio",
         "url": "https://open.spotify.com/album/1JGCem57PoUvKyDjxbDSoy"
       },
@@ -1639,6 +1729,28 @@
       "duration_ms": 215121,
       "name": "T\u00f3quio",
       "url": "https://open.spotify.com/track/2tnsdubWFV6in6jDSoSYm8"
+    },
+    {
+      "album": {
+        "name": "Um Cara de Sorte",
+        "url": "https://open.spotify.com/album/0xvxFUnzXoQgDQqAoXFNi7"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176808,
+      "name": "Um Cara de Sorte",
+      "url": "https://open.spotify.com/track/0szMpKx4qjLbcRt9kRKXMh"
     },
     {
       "album": {

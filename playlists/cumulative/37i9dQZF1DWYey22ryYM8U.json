@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Hits con sabor. Cover: Maria Becerra, Prince Royce",
+  "description": "Hits con sabor. Cover: Luis Figueroa ",
   "name": "Tropical Hits",
   "published_playlist_ids": [
     "1b5XdfWrnBRPibFIU7IXEm"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 332324,
       "name": "Cr\u00e9eme",
       "url": "https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 212881,
       "name": "Dec. 21",
       "url": "https://open.spotify.com/track/4bUXwL2qu6eWtZzqxGbcEu"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 240722,
       "name": "Depende de Ti",
       "url": "https://open.spotify.com/track/00OQK5pU5dbz2EU08GUYN9"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 158995,
       "name": "Dime Que Me Amas",
       "url": "https://open.spotify.com/track/2SEypzXYAHVxK31W7QhOZI"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 266600,
       "name": "Esta Noche Pinta Bien",
       "url": "https://open.spotify.com/track/7E88yORnDfAQ7jE2gftnY1"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 231857,
       "name": "Fallarte Nunca",
       "url": "https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 224040,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/7dySLMBYZOxtPDjWuvzBPd"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 278346,
       "name": "F\u00e1tima",
       "url": "https://open.spotify.com/track/75B7zCDMdOHkhUwrI4XZzm"
@@ -1669,6 +1669,24 @@
       "duration_ms": 307200,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
+    },
+    {
+      "album": {
+        "name": "Hoy en Dia",
+        "url": "https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226777,
+      "name": "Hoy en Dia",
+      "url": "https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn"
     },
     {
       "album": {
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 256440,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 188102,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 191920,
       "name": "La Tristeza \u00a1Pa' Fuera!",
       "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 228966,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 243004,
       "name": "Me Enamore",
       "url": "https://open.spotify.com/track/60VVaKgIJNftR2UWkLIYah"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 190615,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 274400,
       "name": "Pa Que Enamorarse",
       "url": "https://open.spotify.com/track/5ceoWaXWdpCtYBbseWwQ6D"
@@ -3355,7 +3373,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 289573,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
@@ -3743,7 +3761,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 263586,
       "name": "Te Di - Bachata Version",
       "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
@@ -3848,6 +3866,24 @@
     },
     {
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "album": {
         "name": "Traici\u00f3nalo Conmigo",
         "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
       },
@@ -3859,7 +3895,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Traici\u00f3nalo Conmigo",
       "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"

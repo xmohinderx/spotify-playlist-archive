@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 159360,
       "name": "Club Addict",
       "url": "https://open.spotify.com/track/4bCmNtxTlcWaiYCRV5oTZX"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 149047,
       "name": "F Soft Shit",
       "url": "https://open.spotify.com/track/6RAwNr9AiFW97j59yQpIfw"
@@ -615,6 +615,28 @@
       "duration_ms": 146500,
       "name": "Highest In The Room",
       "url": "https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM"
+    },
+    {
+      "album": {
+        "name": "Humanity (Synthatic Remix)",
+        "url": "https://open.spotify.com/album/2RrjZmY3sLeX0itnL8z3qs"
+      },
+      "artists": [
+        {
+          "name": "Phanatic",
+          "url": "https://open.spotify.com/artist/3rXo1ftXCIJPhThJP73LV4"
+        },
+        {
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349714,
+      "name": "Humanity - Synthatic Remix",
+      "url": "https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB"
     },
     {
       "album": {
@@ -979,6 +1001,28 @@
       "duration_ms": 211874,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/5alpNfo0QWoAzUWhmw9H70"
+    },
+    {
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/0A3bkRKCHAmWG6YToZhsQM"
+      },
+      "artists": [
+        {
+          "name": "Kova",
+          "url": "https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft"
+        },
+        {
+          "name": "Freakout BR",
+          "url": "https://open.spotify.com/artist/73Hnmoy6Y3LLPPEuc7KIoJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230142,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/21mFLn6cxWaqt8gyLl0URX"
     },
     {
       "album": {

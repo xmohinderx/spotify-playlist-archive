@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Pengz",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Smiley",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 171820,
       "name": "+1 pour l'artiste",
       "url": "https://open.spotify.com/track/051SRL0n7bNknKqge6QSuI"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 195686,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/55HuOCeRlZ9lSUIwfxnX3n"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 208622,
       "name": "Bill",
       "url": "https://open.spotify.com/track/6Q8cOsrmZHZkz1WZtTegoU"
@@ -773,6 +773,24 @@
       "duration_ms": 156055,
       "name": "BORN TO WIN",
       "url": "https://open.spotify.com/track/4tfrdsLLtZI6SPwDdf09ai"
+    },
+    {
+      "album": {
+        "name": "Boys from the Boro",
+        "url": "https://open.spotify.com/album/0DRcARCvWQu4wwIG9wWHob"
+      },
+      "artists": [
+        {
+          "name": "APB",
+          "url": "https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Boys from the Boro",
+      "url": "https://open.spotify.com/track/1W1J04cgk7HaNUMJvgD2vK"
     },
     {
       "album": {
@@ -1410,6 +1428,32 @@
     },
     {
       "album": {
+        "name": "Feel Real",
+        "url": "https://open.spotify.com/album/5HrVM0nTs5lYLN8202cQts"
+      },
+      "artists": [
+        {
+          "name": "Tim North",
+          "url": "https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU"
+        },
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        },
+        {
+          "name": "Quake Matthews",
+          "url": "https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Feel Real",
+      "url": "https://open.spotify.com/track/0pW3fEVfxhDHwaX0fTtEEZ"
+    },
+    {
+      "album": {
         "name": "Face Lift",
         "url": "https://open.spotify.com/album/4ISz0a8iUxgyiRiqmXudtL"
       },
@@ -1508,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "For The Low",
+        "url": "https://open.spotify.com/album/1RC6TWRRrC1sl0RuhK74Xv"
+      },
+      "artists": [
+        {
+          "name": "Mnnyyz",
+          "url": "https://open.spotify.com/artist/4sTu12jqFnXvdGIdu9THCM"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187972,
+      "name": "For The Low",
+      "url": "https://open.spotify.com/track/4zgeUfI4LpFKqhcCOR1wqd"
+    },
+    {
+      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w"
       },
@@ -1563,6 +1625,24 @@
       "duration_ms": 138344,
       "name": "Free Smoke",
       "url": "https://open.spotify.com/track/5dV3UycdQ79S2WSeTVMZ9h"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/3w7HTnd0NauSP4ttDIPiEI"
+      },
+      "artists": [
+        {
+          "name": "Lil Berete",
+          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/6jQTvazfwIXGr3lMTlltc6"
     },
     {
       "album": {
@@ -1639,6 +1719,28 @@
       "duration_ms": 152553,
       "name": "From the Heart",
       "url": "https://open.spotify.com/track/3OKdTXMAn4GAgFXwIJ0Ull"
+    },
+    {
+      "album": {
+        "name": "Fuck Em All",
+        "url": "https://open.spotify.com/album/6PTLko2QL2jLSvSVqrwIrd"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234130,
+      "name": "Fuck Em All",
+      "url": "https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE"
     },
     {
       "album": {
@@ -1887,6 +1989,28 @@
       "duration_ms": 132172,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/2z4QiyjKuIFXnRne4AVrCi"
+    },
+    {
+      "album": {
+        "name": "Buy or Bye 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/4YgTJRqW6VxqA3CgBNsuZE"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160419,
+      "name": "Grammy (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/4LVdnDH6weCqY7UlapHCqn"
     },
     {
       "album": {
@@ -2175,6 +2299,28 @@
       "duration_ms": 168600,
       "name": "If I Die Today",
       "url": "https://open.spotify.com/track/1bwwNBGSKAiOstswM7uNgp"
+    },
+    {
+      "album": {
+        "name": "If I Was Wrong",
+        "url": "https://open.spotify.com/album/00EEOoRupIR3y8r8Ffsf5Q"
+      },
+      "artists": [
+        {
+          "name": "Adrian Duncan",
+          "url": "https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F"
+        },
+        {
+          "name": "That's Deep",
+          "url": "https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "If I Was Wrong",
+      "url": "https://open.spotify.com/track/10w0Vr4BZCKHBJOYFvt3TR"
     },
     {
       "album": {
@@ -2497,6 +2643,24 @@
       "duration_ms": 156880,
       "name": "LOGIC (Lucky Charm Freestyle)",
       "url": "https://open.spotify.com/track/1CepULbsK4Vfrpp0u9BD70"
+    },
+    {
+      "album": {
+        "name": "Princemichaeljacksonrickjames",
+        "url": "https://open.spotify.com/album/3injSz0DYv4oUaoTQ3troF"
+      },
+      "artists": [
+        {
+          "name": "Omari Shakir",
+          "url": "https://open.spotify.com/artist/01oJd4679t5Un3ElQzA6fo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "London Fog",
+      "url": "https://open.spotify.com/track/2fh5VuNMKDR3jygAJgctba"
     },
     {
       "album": {
@@ -3079,7 +3243,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 194958,
       "name": "NOTHING LIKE IT",
       "url": "https://open.spotify.com/track/0ljEfxKkkHvc08Y7l3dmY0"
@@ -3133,7 +3297,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168443,
       "name": "One More Thing",
       "url": "https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd"
@@ -3519,7 +3683,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 247164,
       "name": "Respect",
       "url": "https://open.spotify.com/track/0PeScdUkFEeFRsIqMdr8tj"
@@ -3821,7 +3985,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 136112,
       "name": "STEPPA",
       "url": "https://open.spotify.com/track/2P0JeBzWaZBPljLpiCzdBf"
@@ -3879,7 +4043,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 332307,
       "name": "SUSHI STAND!",
       "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"
@@ -4089,7 +4253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 153600,
       "name": "The Weekend'",
       "url": "https://open.spotify.com/track/0SIBaEfFtGq46JdZsYkkVQ"
@@ -4115,6 +4279,24 @@
       "duration_ms": 165234,
       "name": "Thugz Dont Cry",
       "url": "https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N"
+    },
+    {
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "album": {
@@ -4281,6 +4463,24 @@
       "duration_ms": 206000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye"
+    },
+    {
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/3EuT592w9HYrlbZJz09Cqt"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130574,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/5jQQPtcoGpd1aH1xrVEeQ2"
     },
     {
       "album": {
@@ -4495,7 +4695,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 155794,
       "name": "Woyoiyoi (Oh My God)",
       "url": "https://open.spotify.com/track/0EmhTgYQslOlGyP55BNMAK"

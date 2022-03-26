@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,379 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,790 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [My Cherie Amour](https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century](https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH) | 2:51 |
 | 100 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
 
-Snapshot ID: `MTY0ODE2OTU0MCwwMDAwMDAwMDBiMWIyZjY0MzAxYzJkZjFhODgxMWIyNTI2NzkyNjQ0`
+Snapshot ID: `MTY0ODI1NTk5NCwwMDAwMDAwMDBiMWIyZjY0MzAxYzJkZjFhODgxMWIyNTI2NzkyNjQ0`

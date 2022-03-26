@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,431 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,435 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 39 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 |
 | 40 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
 | 41 | [Tomorrow](https://open.spotify.com/track/2N5FkUB6QPAYZwdm1kP470) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Tomorrow](https://open.spotify.com/album/5QGYBWB9XrHo2AdWsWjX36) | 3:49 |
-| 42 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 |
+| 42 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 |
 | 43 | [Backbone](https://open.spotify.com/track/0OAUI6ZmjtbqENMKIry77J) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Backbone](https://open.spotify.com/album/1DSHyLarlaQ2H4jvOMUplL) | 3:03 |
 | 44 | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/track/5M9XpS7kkTRjIge1IAz3yI) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [You're Stronger Than You Know](https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg) | 3:36 |
 | 45 | [Friends](https://open.spotify.com/track/3dprzFQ0wYBeI1LHPVz549) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Friends](https://open.spotify.com/album/2r2CMBNfSpGiJFXIGwWQV3) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 |
 | 60 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 
-Snapshot ID: `MTY0ODE2OTM2MywwMDAwMDAwMDEwNGQ1ZWNkYjU0YTczOGM1N2FkZTBlMDMzN2I4OWU4`
+Snapshot ID: `MTY0ODI1NTgxMywwMDAwMDAwMDEwNGQ1ZWNkYjU0YTczOGM1N2FkZTBlMDMzN2I4OWU4`

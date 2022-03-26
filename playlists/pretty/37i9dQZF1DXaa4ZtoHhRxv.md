@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,954 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,963 likes - 108 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 19 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 | 20 | [Dirt On My Boots \- Remix](https://open.spotify.com/track/3S86G5H2vQbmaOGIg0UXKr) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN), [Will Weatherly](https://open.spotify.com/artist/6wijYgUom6JRsTxdRqlx4n) | [Dirt On My Boots \(Remix\)](https://open.spotify.com/album/1LqxKSLjw1BiTPS036wg8S) | 3:26 |
 | 21 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
-| 22 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
-| 23 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
-| 24 | [Good as You \- Digital Farm Animals Remix](https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Good as You](https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps) | 3:24 |
-| 25 | [Waitin' on 5 \- Summer Jam Mix](https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Waitin' on 5 \(Summer Jam Mix\)](https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9) | 2:44 |
-| 26 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 |
+| 22 | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl) | [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/album/1DsmQZl8jJrNAoJq12RzHj) | 2:35 |
+| 23 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
+| 24 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
+| 25 | [Good as You \- Digital Farm Animals Remix](https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Good as You](https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps) | 3:24 |
+| 26 | [Waitin' on 5 \- Summer Jam Mix](https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Waitin' on 5 \(Summer Jam Mix\)](https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9) | 2:44 |
 | 27 | [Tequila Does \- Remix](https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Tequila Does \(Remix\)](https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh) | 3:29 |
 | 28 | [New York at Night \- Remix](https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [New York at Night \(Remix\)](https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T) | 3:04 |
 | 29 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 107 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 108 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MTY0NTE2MDQwMCwwMDAwMDAxYjAwMDAwMTdmMGIzMzg1OWEwMDAwMDE3ZDM0MDhlZGRk`
+Snapshot ID: `MTY0ODE4MDg2MCwwMDAwMDAxYzAwMDAwMTdmYmYzYzE0ZDQwMDAwMDE3ZDM0MDhlZGRk`

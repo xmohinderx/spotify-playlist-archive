@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,432 likes - 51 songs - 2 hr 46 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,430 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 22 | [Lucky Ones \- Wilde Things Remix](https://open.spotify.com/track/2xlR5f4A5RGabqodlkaGVI) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle), [WILDE THINGS](https://open.spotify.com/artist/2Tdyg0TzUTuZrJJ4Gs7eeQ) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:08 |
 | 23 | [A Space in Between](https://open.spotify.com/track/22aJnovcYTqiOhfuFMCoVk) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [A Space in Between](https://open.spotify.com/album/4sX9q9enQ6JTiYYrzuMA1K) | 5:02 |
 | 24 | [Amphibious](https://open.spotify.com/track/6BOzOhp0lkineq7GADZNs5) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Polite](https://open.spotify.com/album/0WgipZtpMYTd3nTZ8iG8HR) | 3:37 |
-| 25 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 |
+| 25 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [PILLARS ///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 |
 | 26 | [I Don't Believe You](https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [I Don't Believe You](https://open.spotify.com/album/4Am00AmCdt7qCMifgAmtcJ) | 3:30 |
 | 27 | [all i need](https://open.spotify.com/track/7vOjikQFRmxz1DISXsCQqG) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [all i need](https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd) | 3:17 |
 | 28 | [earthquake](https://open.spotify.com/track/43Mws6pQGKCUeJ5bDaSmFR) | [kennedyxoxo](https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [earthquake](https://open.spotify.com/album/4LqfMmufo20rLpXvQ8Ua3g) | 2:09 |
@@ -56,8 +56,12 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 46 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 |
 | 47 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 |
 | 48 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 |
-| 49 | [maybe it was god](https://open.spotify.com/track/0MCt7lGPIqtAMXjkZfJLmh) | [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [maybe it was god](https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2) | 3:10 |
-| 50 | [Head Rush](https://open.spotify.com/track/6P7hgOGUCwxwMSBD2U5TaW) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Head Rush](https://open.spotify.com/album/4vusfXlDX1OWRRO3rfAJyq) | 2:32 |
-| 51 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 |
+| 49 | [THE HAMMERER](https://open.spotify.com/track/5AUakzTxKCgTmwajCeK4WD) | [Henry Jack Toll](https://open.spotify.com/artist/6foNhmGLcjNIjDdNh1llMw) | [THE HAMMERER](https://open.spotify.com/album/4qCCd43wewyM2pRpvp7tdz) | 1:34 |
+| 50 | [maybe it was god](https://open.spotify.com/track/0MCt7lGPIqtAMXjkZfJLmh) | [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [maybe it was god](https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2) | 3:10 |
+| 51 | [Head Rush](https://open.spotify.com/track/6P7hgOGUCwxwMSBD2U5TaW) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Head Rush](https://open.spotify.com/album/4vusfXlDX1OWRRO3rfAJyq) | 2:32 |
+| 52 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 |
+| 53 | [Heartaches \- Covex Remix](https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [The Long Way Home \(Remixes\)](https://open.spotify.com/album/6lPQI2Yy6pllkfommUkbvq) | 3:08 |
+| 54 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
+| 55 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 |
 
-Snapshot ID: `OTU3NixmYzc4NzI3YWYxOWE3N2YwZDFiZThkMjBjYzgwYTA3ZGY4OTNmODYw`
+Snapshot ID: `OTU4MSwxODllYjMyZjliMTlmMzQ5MmY1NDAzMTM2OGEzODgyYzJiMjFlOWEw`

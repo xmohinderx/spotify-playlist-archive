@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,692 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,908 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
 | 75 | [On Ice](https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [On Ice](https://open.spotify.com/album/24TVy5RXnynUdVAhiCA2VS) | 2:47 |
 
-Snapshot ID: `MTY0ODE2OTY3MCwwMDAwMDAwMDE5NGNmNTk5ZTllZmMxNWZkOTg0ZjA4MzQ4YWZkZjQx`
+Snapshot ID: `MTY0ODI1NjEyNSwwMDAwMDAwMDE5NGNmNTk5ZTllZmMxNWZkOTg0ZjA4MzQ4YWZkZjQx`

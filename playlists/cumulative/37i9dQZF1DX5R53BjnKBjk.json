@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Crime Caqui. Arte: Isu Kim",
+  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Helo Cleaver. Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "published_playlist_ids": [
     "67GFnJVXnyWY0MjhTSXEEJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "20 e poucos",
+        "url": "https://open.spotify.com/album/1yNAcEBYQTtemgIrZMUocV"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147842,
+      "name": "20 e poucos",
+      "url": "https://open.spotify.com/track/6zsyDhdQb7Kk0HLeRjUeLA"
+    },
     {
       "album": {
         "name": "Pac\u00edfica Pedra Branca",
@@ -175,6 +193,24 @@
       "duration_ms": 191885,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3eXEO5e0GsKElU5etvbhIk"
+    },
+    {
+      "album": {
+        "name": "Priguis",
+        "url": "https://open.spotify.com/album/5uWkRYYKp9dUQjWJFggTI5"
+      },
+      "artists": [
+        {
+          "name": "Helo Cleaver",
+          "url": "https://open.spotify.com/artist/5ddPmN9f59M0HHWxdObC3F"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197913,
+      "name": "Caf\u00e9 com Leite",
+      "url": "https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX"
     },
     {
       "album": {
@@ -933,7 +969,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 145124,
       "name": "Meu Lado da Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX"
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 169091,
       "name": "Orfeu",
       "url": "https://open.spotify.com/track/6e7WdQ8m93gu91m4Qrt9rl"
@@ -1451,6 +1487,28 @@
       "duration_ms": 251669,
       "name": "Samba do Del\u00edrio",
       "url": "https://open.spotify.com/track/5H81SifZB6ypcyjIh7L3Uj"
+    },
+    {
+      "album": {
+        "name": "Transe Tropical",
+        "url": "https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95"
+      },
+      "artists": [
+        {
+          "name": "Dan Stump",
+          "url": "https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ"
+        },
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155411,
+      "name": "Sambatango",
+      "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
     },
     {
       "album": {

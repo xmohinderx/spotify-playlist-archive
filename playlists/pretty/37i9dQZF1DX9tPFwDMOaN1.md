@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > New look and feel, same old playlist you love\. Let's turn on the movement! Cover: Red Velvet
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,701,351 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,705,285 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 |
 | 50 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 |
 
-Snapshot ID: `MTY0ODE2OTY5MCwwMDAwMDAwMDFjNmZiMWNjZDI4NzFkZGMwNzk3OWQxMWNhYmQwNzcy`
+Snapshot ID: `MTY0ODI1NjE0NiwwMDAwMDAwMDFjNmZiMWNjZDI4NzFkZGMwNzk3OWQxMWNhYmQwNzcy`

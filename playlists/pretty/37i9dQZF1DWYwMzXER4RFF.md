@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: BODEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,543 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,626 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Contain It](https://open.spotify.com/track/7wRsYOvFDUhnmx2I76Ml68) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Contain It](https://open.spotify.com/album/7Js653WBxlF7904HZdjqpO) | 4:01 |
 | 55 | [Modern Job](https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Modern Job](https://open.spotify.com/album/0o9ihh6as2nRsaAbrtDyFO) | 3:22 |
 
-Snapshot ID: `MTY0ODE2OTM0NSwwMDAwMDAwMDJlNTlhZDEwYTFlNjYwMTBhNmQ4OTFiNzU4NjAxYWY4`
+Snapshot ID: `MTY0ODI1NTc5NSwwMDAwMDAwMDJlNTlhZDEwYTFlNjYwMTBhNmQ4OTFiNzU4NjAxYWY4`

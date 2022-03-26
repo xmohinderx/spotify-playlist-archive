@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 403760,
       "name": "'Round Midnight - Live At Palais Des Congres, Paris / 1999",
       "url": "https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 258893,
       "name": "At A Glance",
       "url": "https://open.spotify.com/track/6ZVjpala82zQqrzorpZcP4"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 248000,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 530773,
       "name": "Cry Me a River - Live",
       "url": "https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2"
@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "BAYATI",
+        "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
+      },
+      "artists": [
+        {
+          "name": "Shahin Novrasli",
+          "url": "https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367053,
+      "name": "Elinde Sazin Qurbani",
+      "url": "https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb"
+    },
+    {
+      "album": {
         "name": "Personal Standards",
         "url": "https://open.spotify.com/album/49VvWI9jmo3jhk0hGWT9qy"
       },
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 358986,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 312080,
       "name": "Hush - Nikki Iles",
       "url": "https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 361127,
       "name": "I Surrender Dear",
       "url": "https://open.spotify.com/track/5Ruwfqx4jMonaaF1z6RA3n"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 533800,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 338786,
       "name": "In the Days of Our Love",
       "url": "https://open.spotify.com/track/3UXWECtFUy4QyQzXeuxAK0"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 283800,
       "name": "In the Middle of a Kiss",
       "url": "https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 403226,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx"
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 333233,
       "name": "Mia's Lullaby",
       "url": "https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2"
@@ -1487,6 +1505,24 @@
       "duration_ms": 245698,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
+    },
+    {
+      "album": {
+        "name": "World Painter",
+        "url": "https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC"
+      },
+      "artists": [
+        {
+          "name": "MEGTARO",
+          "url": "https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355220,
+      "name": "Newselves",
+      "url": "https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D"
     },
     {
       "album": {
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 351440,
       "name": "Plaza Real",
       "url": "https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 241320,
       "name": "Pray",
       "url": "https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4"
@@ -1753,7 +1789,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 320753,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L"
@@ -1775,6 +1811,24 @@
       "duration_ms": 464733,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/1lsPBTvqs1zQPtNWcP15b5"
+    },
+    {
+      "album": {
+        "name": "Promise of Spring",
+        "url": "https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4"
     },
     {
       "album": {
@@ -1939,7 +1993,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 267773,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0ods0YLLAp9ZaCzOEm6Srr"
@@ -2045,7 +2099,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 254893,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/4Le0NVbXXqQbHzpaABq1zv"
@@ -2169,7 +2223,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 473680,
       "name": "Spartacus Love Theme",
       "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
@@ -2427,7 +2481,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 361566,
       "name": "The Lovely Image",
       "url": "https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y"
@@ -2747,6 +2801,24 @@
       "duration_ms": 461013,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/1Vpx2po0Sbe9lKioW53Qhr"
+    },
+    {
+      "album": {
+        "name": "Winding Down",
+        "url": "https://open.spotify.com/album/3Md83NJiHkmdiDk7Tqpxi3"
+      },
+      "artists": [
+        {
+          "name": "Xavier Davis",
+          "url": "https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495500,
+      "name": "Winding Down",
+      "url": "https://open.spotify.com/track/0spxhxF0OCUwlAJsq70CoS"
     },
     {
       "album": {

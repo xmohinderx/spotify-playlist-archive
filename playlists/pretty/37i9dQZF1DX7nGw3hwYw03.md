@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,214 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,283 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/5tn3cJfj8pkCof4CaV7bzt) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 1 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
 | 2 | [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 |
 | 3 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 4 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 50 | [TOGETHER](https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [PROGRESSO VOL 2](https://open.spotify.com/album/0SkgI9DVsKoNpkM7JUWaGS) | 3:48 |
 | 51 | [PAYDAY](https://open.spotify.com/track/0yr4DKIedcAD4av7wKzHRO) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:17 |
 
-Snapshot ID: `MTY0ODE2OTYyNywwMDAwMDAwMGY5ODk2NTc1YTlkNGJlZjkwNjYzYThiMmM5YjVkMDBm`
+Snapshot ID: `MTY0ODI1NjA4MiwwMDAwMDAwMGY5ODk2NTc1YTlkNGJlZjkwNjYzYThiMmM5YjVkMDBm`

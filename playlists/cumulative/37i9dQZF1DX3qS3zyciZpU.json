@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "That's Why",
+        "url": "https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181220,
+      "name": "That's Why",
+      "url": "https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ"
+    },
+    {
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5"
       },

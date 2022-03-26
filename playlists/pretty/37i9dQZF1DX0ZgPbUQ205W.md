@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,411 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,455 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Wait Till You See Her](https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF) | [John Abercrombie Quartet](https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z) | [Wait Till You See Her](https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi) | 5:40 |
 | 100 | [Song Of Yearning](https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 8:16 |
 
-Snapshot ID: `MTY0ODE2OTM5OCwwMDAwMDAwMDc1ZTRkNDM0OTViNDQ3OTZjZWE1NDg1MGZiYTdlYmRi`
+Snapshot ID: `MTY0ODI1NTg0OSwwMDAwMDAwMDc1ZTRkNDM0OTViNDQ3OTZjZWE1NDg1MGZiYTdlYmRi`

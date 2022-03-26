@@ -1,13 +1,29 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 405378,
+  "num_followers": 405632,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzg5MTc5MiwwMDAwMDA3YzAwMDAwMTdmYWUwMTQyYWQwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0ODI0MjE4OCwwMDAwMDA3ZDAwMDAwMTdmYzJlM2UxY2YwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
+    {
+      "added_at": "2022-03-25 21:03:08",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
+    },
     {
       "added_at": "2021-08-05 18:08:26",
       "album": {

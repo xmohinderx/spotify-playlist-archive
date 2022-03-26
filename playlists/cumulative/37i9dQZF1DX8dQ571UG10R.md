@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8dQ571UG10R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8dQ571UG10R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8dQ571UG10R)
 
-### Rap Geek
+### [Rap Geek](https://open.spotify.com/playlist/1SeslTG31uOJ42v4hiisvs)
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 

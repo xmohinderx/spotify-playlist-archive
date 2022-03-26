@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bloc Party",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Shinedown",
   "name": "Volume M\u00e1ximo",
   "published_playlist_ids": [
     "7obgySRmTZymfPOzhJ5T39"
@@ -356,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Dream Widow",
+        "url": "https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP"
+      },
+      "artists": [
+        {
+          "name": "Dream Widow",
+          "url": "https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
+    },
+    {
+      "album": {
         "name": "Compliance",
         "url": "https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 150522,
       "name": "Drunk Dial",
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 256068,
       "name": "Knives",
       "url": "https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH"
@@ -1853,6 +1871,24 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
+    },
+    {
+      "album": {
+        "name": "The Saints Of Violence And Innuendo",
+        "url": "https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221148,
+      "name": "The Saints Of Violence And Innuendo",
+      "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
     },
     {
       "album": {

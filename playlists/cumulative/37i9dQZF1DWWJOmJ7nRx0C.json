@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Bad Wolves & Spence Charnas (Ice Nine Kills)",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Dorothy",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 230837,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/5uLPzhFguiHJvYJuh9BAsL"
@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "album": {
         "name": "Sleeptalk",
         "url": "https://open.spotify.com/album/2oLk2Z8wtuGX1xC9evzvC9"
       },
@@ -551,7 +569,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 181849,
       "name": "Buried in the Sun",
       "url": "https://open.spotify.com/track/1RwZqkzexsLSf7aONgcpoi"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 231854,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/4u7RK85A85XeymVXiwtv0a"
@@ -843,6 +861,24 @@
       "duration_ms": 199000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
+    },
+    {
+      "album": {
+        "name": "Dream Widow",
+        "url": "https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP"
+      },
+      "artists": [
+        {
+          "name": "Dream Widow",
+          "url": "https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
     },
     {
       "album": {
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 264646,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
@@ -1881,7 +1917,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 250600,
       "name": "Holier Than Thou",
       "url": "https://open.spotify.com/track/23nRYh3UNRLeQ2h6lPO5mW"
@@ -2586,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194896,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/6uEwHhQjA253wuQQ6KDMAj"
+    },
+    {
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -2601,6 +2655,24 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "album": {
+        "name": "Neon Grave",
+        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239353,
+      "name": "Neon Grave",
+      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
     },
     {
       "album": {
@@ -2859,6 +2931,24 @@
       "duration_ms": 147082,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/3pNH1ZWiT5cg3KuKrUu9hH"
+    },
+    {
+      "album": {
+        "name": "The Violent",
+        "url": "https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147082,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU"
     },
     {
       "album": {
@@ -3159,7 +3249,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 165626,
       "name": "Rivals",
       "url": "https://open.spotify.com/track/4hf97gkuBELlhaXAyANra9"
@@ -3177,7 +3267,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 237128,
       "name": "Rock Believer",
       "url": "https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3"
@@ -3864,6 +3954,24 @@
     },
     {
       "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218242,
+      "name": "The Gang's All Here",
+      "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
+    },
+    {
+      "album": {
         "name": "The Liars Club",
         "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
       },
@@ -3998,6 +4106,24 @@
     },
     {
       "album": {
+        "name": "Think Big",
+        "url": "https://open.spotify.com/album/5g1cXHCYzolOF8JiKd5C5v"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Think Big",
+      "url": "https://open.spotify.com/track/4lX4jH7rruAPMuOwdSOaH9"
+    },
+    {
+      "album": {
         "name": "Think for Yourself",
         "url": "https://open.spotify.com/album/4ZgUUXwE6dMhpWxWY6N0AZ"
       },
@@ -4031,6 +4157,24 @@
       "duration_ms": 227753,
       "name": "Three Chords",
       "url": "https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk"
+    },
+    {
+      "album": {
+        "name": "TURN IT UP LIKE (Stand In The Fire)",
+        "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269314,
+      "name": "TURN IT UP LIKE (Stand In The Fire)",
+      "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
     },
     {
       "album": {

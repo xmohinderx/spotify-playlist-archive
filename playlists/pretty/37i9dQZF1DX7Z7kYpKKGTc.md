@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,480 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,844 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Make It Alright](https://open.spotify.com/track/43CuVJWAYGGaAYhihhOadT) | [Shakra](https://open.spotify.com/artist/3uDNdt0Zy8VcTK2vvFghyM) | [Fall](https://open.spotify.com/album/6wuCuP3gzn07DdWeQgBwtl) | 3:21 |
 | 50 | [Tearin' out My Heart](https://open.spotify.com/track/5iwUFLCSCDr1PNBMNIK708) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [The Ballads](https://open.spotify.com/album/1EM30PrRpANY4pIBw8l1CQ) | 6:04 |
 
-Snapshot ID: `MTY0ODE2OTYyMSwwMDAwMDAwMDljNmI0MGU3YWFjNDgwODlhZDdlNGVkYTgyODk1MWE1`
+Snapshot ID: `MTY0ODI1NjA3NywwMDAwMDAwMDljNmI0MGU3YWFjNDgwODlhZDdlNGVkYTgyODk1MWE1`

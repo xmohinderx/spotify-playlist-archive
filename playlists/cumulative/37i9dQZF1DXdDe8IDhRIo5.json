@@ -1166,6 +1166,32 @@
     },
     {
       "album": {
+        "name": "Gustav Lundgren with Romain Vuillemin & Edouard Pennes",
+        "url": "https://open.spotify.com/album/4l1mEFdC1RWXlefgkLWHfT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Romain Vuillemin",
+          "url": "https://open.spotify.com/artist/6ESCMyNeWpXYIWGTskmRwe"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191437,
+      "name": "You Took Advantage Of Me",
+      "url": "https://open.spotify.com/track/6tUfFZc8frmIaHGcj8Iab1"
+    },
+    {
+      "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/11X2H1UxSIugEwjJ08PcaX"
       },

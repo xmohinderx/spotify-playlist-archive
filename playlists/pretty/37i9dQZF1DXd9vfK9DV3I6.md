@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,083 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,354 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 49 | [Mazrub](https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Mazrub](https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi) | 3:06 |
 | 50 | [Vestido Preto](https://open.spotify.com/track/6xbeN3grl6kAKBSvgIOxOT) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD) | [Riviera](https://open.spotify.com/album/1jl0dMITPG9dJx4KBsMbD9) | 4:22 |
 | 51 | [DayBreak Ft\. Behrooz Shiri \- Original mix](https://open.spotify.com/track/47ds21UWcwcRAb2grmY23u) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [Adeia](https://open.spotify.com/artist/2HXkY2E4L4r1U4Lz2zlf5Q) | [DayBreak Ft\. Behrooz Shiri](https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4) | 4:00 |
-| 52 | [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 |
+| 52 | [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [Dj Dark](https://open.spotify.com/artist/47zX9MCApjmo3C0u3NwQKN), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 |
 | 53 | [Memories](https://open.spotify.com/track/79K265g8aRrl98igAjOE0L) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY) | 3:28 |
 | 54 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 |
 | 55 | [all the things i got](https://open.spotify.com/track/6v23NC6jtRJaAZJehAfxoZ) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/5aoS1dovoz26u81WOSE3nz) | 2:25 |
 | 56 | [Dreams](https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC) | [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Dreams](https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m) | 2:49 |
-| 57 | [Hey Hey](https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [DIESE](https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG) | [Hey Hey](https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM) | 4:08 |
-| 58 | [Jasmine](https://open.spotify.com/track/4I7lwnnrm9EqsUsP77YNEW) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Jasmine](https://open.spotify.com/album/2OqAZG09xs8wbGFP2qzxf8) | 3:14 |
-| 59 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 |
+| 57 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 |
+| 58 | [Hey Hey](https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [DIESE](https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG) | [Hey Hey](https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM) | 4:08 |
+| 59 | [Jasmine](https://open.spotify.com/track/4I7lwnnrm9EqsUsP77YNEW) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Jasmine](https://open.spotify.com/album/2OqAZG09xs8wbGFP2qzxf8) | 3:14 |
 | 60 | [Stop the Time](https://open.spotify.com/track/6JmAYUDf96VAP0jzHOcHdF) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Görkem Sala](https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC), [Basia Janyga](https://open.spotify.com/artist/3pNENhK1BGW2aQljN5xyUR) | [Stop the Time](https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu) | 3:01 |
 | 61 | [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 |
 | 62 | [Stair at the light](https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Stair at the light](https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 |
 | 100 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 |
 
-Snapshot ID: `MTY0ODE2OTc4NiwwMDAwMDAwMDZhMDg5NGVmOWM5YWFhMmMxZTRjZjlhMmE2NGRkMWU5`
+Snapshot ID: `MTY0ODI1NjI0MSwwMDAwMDAwMGI5NjNmYzk1Y2VkNjU0MzRlOWRhYjgwODg2NmVhODAz`

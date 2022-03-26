@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Paulo Londra \- Plan A](https://open.spotify.com/playlist/4QupuTUY0ftOkI6OclAXzu)
+### [HOT NOW: Paulo Londra \- Plan A](https://open.spotify.com/playlist/6AsVgANcbKVMDreBaQIbIR)
 
 > ¡No busques más! La música del momento está aquí.
 

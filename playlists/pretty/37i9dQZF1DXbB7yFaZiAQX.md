@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,100 likes - 150 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,435 likes - 150 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [On my Radio](https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [The Very Best of The Selecter](https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg) | 3:05 |
 | 150 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
 
-Snapshot ID: `MTY0ODE2OTczMywwMDAwMDAwMDkzNjRlNmIzYmJmYjFhNjA3YzRjNTY2YWUyMzU3N2M2`
+Snapshot ID: `MTY0ODI1NjE4OCwwMDAwMDAwMDkzNjRlNmIzYmJmYjFhNjA3YzRjNTY2YWUyMzU3N2M2`

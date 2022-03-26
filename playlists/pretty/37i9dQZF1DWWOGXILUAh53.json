@@ -1,13 +1,33 @@
 {
   "description": "The hottest new pop with the all the drops. Cover: INNA",
-  "num_followers": 77435,
+  "num_followers": 77505,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3NjA2MCwwMDAwMDA3MTAwMDAwMTdmOWIyZjkwYzgwMDAwMDE3Zjc0M2E4ZjUw",
+  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDA3MjAwMDAwMTdmYmYzYjJhY2IwMDAwMDE3ZmJkZDliMDU1",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
     {
       "added_at": "2022-03-18 04:01:00",
       "album": {
@@ -25,108 +45,24 @@
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
-      "added_at": "2022-03-11 13:34:13",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Champagne Problems #DQH2",
-        "url": "https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip"
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
       },
       "artists": [
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
         }
       ],
-      "duration_ms": 158974,
-      "name": "Cryo",
-      "url": "https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "SOLO DISCO",
-        "url": "https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv"
-      },
-      "artists": [
-        {
-          "name": "Vardaan Arora",
-          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
-        },
-        {
-          "name": "Kit Major",
-          "url": "https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "SOLO DISCO",
-      "url": "https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 235417,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+      "duration_ms": 148015,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -147,22 +83,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/0aeqUMO4eMIzKLx8uDctyF"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 268813,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/0SxgJQnglVqUZNvxjcJ9W1"
     },
     {
       "added_at": "2022-03-11 13:34:13",
@@ -189,6 +109,222 @@
       "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
     },
     {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 235417,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Afraid of Love",
+        "url": "https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Stondon Massey",
+          "url": "https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Afraid of Love",
+      "url": "https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/5tgUF24kkOl8rn3wLKYcTQ"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 150634,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/6jEpYRm6oV52mggCSTRGNI"
+    },
+    {
+      "added_at": "2022-03-11 13:34:13",
+      "album": {
+        "name": "Champagne Problems #DQH2",
+        "url": "https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 158974,
+      "name": "Cryo",
+      "url": "https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Everything But You (feat. A7S)",
+        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 198014,
+      "name": "Everything But You (feat. A7S)",
+      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2022-01-28 05:01:32",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 135046,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 320796,
+      "name": "Twisted Mind",
+      "url": "https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "SOLO DISCO",
+        "url": "https://open.spotify.com/album/0YW2sheESwcb5rBUFB1GHv"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        },
+        {
+          "name": "Kit Major",
+          "url": "https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "SOLO DISCO",
+      "url": "https://open.spotify.com/track/2PgCEY8beYTdhvB8LhsdMF"
+    },
+    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Payback (feat. Icona Pop)",
@@ -207,6 +343,22 @@
       "duration_ms": 203411,
       "name": "Payback (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz"
+    },
+    {
+      "added_at": "2022-03-11 13:34:13",
+      "album": {
+        "name": "Setting Me Free",
+        "url": "https://open.spotify.com/album/1xJN4Urp6XVl2RVS3gsrfw"
+      },
+      "artists": [
+        {
+          "name": "Ariana and the Rose",
+          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
+        }
+      ],
+      "duration_ms": 283201,
+      "name": "Setting Me Free",
+      "url": "https://open.spotify.com/track/6zd9tfm93IcaEOcKPo9hj9"
     },
     {
       "added_at": "2022-03-11 13:34:13",
@@ -243,22 +395,6 @@
     {
       "added_at": "2022-03-11 13:34:13",
       "album": {
-        "name": "Setting Me Free",
-        "url": "https://open.spotify.com/album/1xJN4Urp6XVl2RVS3gsrfw"
-      },
-      "artists": [
-        {
-          "name": "Ariana and the Rose",
-          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
-        }
-      ],
-      "duration_ms": 283201,
-      "name": "Setting Me Free",
-      "url": "https://open.spotify.com/track/6zd9tfm93IcaEOcKPo9hj9"
-    },
-    {
-      "added_at": "2022-03-11 13:34:13",
-      "album": {
         "name": "about you",
         "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
       },
@@ -277,24 +413,20 @@
       "url": "https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2022-03-18 04:01:00",
       "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0aeqUMO4eMIzKLx8uDctyF"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+      "duration_ms": 268813,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/0SxgJQnglVqUZNvxjcJ9W1"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -311,26 +443,6 @@
       "duration_ms": 151701,
       "name": "Matinee",
       "url": "https://open.spotify.com/track/25aSJ6E9ekeQzV3ogafGdI"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 320796,
-      "name": "Twisted Mind",
-      "url": "https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -351,26 +463,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Everything But You (feat. A7S)",
-        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 198014,
-      "name": "Everything But You (feat. A7S)",
-      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },
@@ -387,22 +479,6 @@
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 203641,
-      "name": "Layover",
-      "url": "https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -575,22 +651,6 @@
     {
       "added_at": "2022-01-28 05:01:32",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 135046,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
-    },
-    {
-      "added_at": "2022-01-28 05:01:32",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -687,30 +747,6 @@
       "duration_ms": 166666,
       "name": "RELATE (R3HAB Remix)",
       "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Take Me To The Sunshine (feat. BullySongs)",
-        "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Take Me To The Sunshine (feat. BullySongs)",
-      "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -821,26 +857,6 @@
       "url": "https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Losing Game (feat. ALY)",
-        "url": "https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "ALY",
-          "url": "https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD"
-        }
-      ],
-      "duration_ms": 158232,
-      "name": "Losing Game (feat. ALY)",
-      "url": "https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx"
-    },
-    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "Sooner Or Later",
@@ -919,22 +935,6 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/4yTrSLs99kcWGXEUCPfp7C"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Emmie Lee",
-          "url": "https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW"
-        }
-      ],
-      "duration_ms": 168515,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1091,22 +1071,6 @@
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/4yvTLnl0rRcKxDDnp0iGPq"
-      },
-      "artists": [
-        {
-          "name": "Konn",
-          "url": "https://open.spotify.com/artist/6lJjChvxVQwo0IzldUOYUe"
-        }
-      ],
-      "duration_ms": 171887,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/0aE9iWVdcwjffBjuydP2Em"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1171,50 +1135,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Miss U More Than U Know (with R3HAB)",
         "url": "https://open.spotify.com/album/2bl8B6G1wit5BFNtAwkX51"
       },
@@ -1231,30 +1151,6 @@
       "duration_ms": 156116,
       "name": "Miss U More Than U Know (with R3HAB)",
       "url": "https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Won\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 217261,
-      "name": "Won\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
     }
   ],
   "unique_name": "Fresh Dance Pop",

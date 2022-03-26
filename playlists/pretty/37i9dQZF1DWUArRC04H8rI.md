@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: Sofia Delfino
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,086 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,133 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Feelings](https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Feelings](https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv) | 3:02 |
 | 60 | [ascensor](https://open.spotify.com/track/0wcDnGqnDotHBxntD9A2uf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ascensor](https://open.spotify.com/album/1aeJpuLkIW1IeNqY1PBqZR) | 2:59 |
 
-Snapshot ID: `MTY0ODE2OTE5NywwMDAwMDAwMGFiZWViMzljYTc5NTViY2I4NTI4ZTQ4MGExMDkzYWVm`
+Snapshot ID: `MTY0ODI1NTY0NSwwMDAwMDAwMGFiZWViMzljYTc5NTViY2I4NTI4ZTQ4MGExMDkzYWVm`

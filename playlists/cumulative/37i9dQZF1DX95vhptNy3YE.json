@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "DJ Matt D, Menor MC, MC GP, Vulgo VK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "Vulgo VK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1jX5Ne4edsz9wqa3MMSini"
+  ],
   "tracks": [
     {
       "album": {
@@ -123,7 +125,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
@@ -198,6 +200,32 @@
     },
     {
       "album": {
+        "name": "A Pagodeira (Ao vivo)",
+        "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "A Pagodeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
+    },
+    {
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -239,7 +267,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 221538,
       "name": "Bala Love",
       "url": "https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a"
@@ -401,7 +429,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 215999,
       "name": "Ela \u00e9 Espetacular (Mulher Kama Sutra 2)",
       "url": "https://open.spotify.com/track/0x0V1IID2Sj902k6LzuWds"
@@ -555,7 +583,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 180000,
       "name": "Freio da Blazer",
       "url": "https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj"
@@ -818,6 +846,32 @@
     },
     {
       "album": {
+        "name": "Nascido Pra Ser Rei",
+        "url": "https://open.spotify.com/album/6Rq6eAjewxn9UFtx2EHTjn"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "nvhuel",
+          "url": "https://open.spotify.com/artist/1FwW77wjo2Ri4RDWIXsLen"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "Nascido Pra Ser Rei",
+      "url": "https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -893,6 +947,36 @@
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"
+    },
+    {
+      "album": {
+        "name": "Orix\u00e1s",
+        "url": "https://open.spotify.com/album/1wXrRmMZbipWsn70stJfPC"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Yan Silvestre",
+          "url": "https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218552,
+      "name": "Orix\u00e1s",
+      "url": "https://open.spotify.com/track/6OOXUAJqwZ8LhwgpXdZFKV"
     },
     {
       "album": {
@@ -1255,6 +1339,28 @@
       "duration_ms": 214270,
       "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
       "url": "https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h"
+    },
+    {
+      "album": {
+        "name": "Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233236,
+      "name": "Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
     },
     {
       "album": {

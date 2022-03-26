@@ -1,13 +1,325 @@
 {
-  "description": "New jazz for open minds. Cover: Julius Rodriguez",
-  "num_followers": 803041,
+  "description": "New jazz for open minds. Cover: Joel Ross",
+  "num_followers": 803130,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDFjNTAwMDAwMTdmOWI2NTk1MWMwMDAwMDE3Zjg5ZDhkZmRk",
+  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDFjNjAwMDAwMTdmYmYzYzE0ZGEwMDAwMDE3ZmI4NWMzZjFh",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "DOXOLOGY (Hope)",
+        "url": "https://open.spotify.com/album/0eNNs9uL23bthBOiHE2M0J"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "DOXOLOGY (Hope)",
+      "url": "https://open.spotify.com/track/1sesgJFnwH4nZ2Hn2Whr8C"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Universal Language -Self Translation-",
+        "url": "https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 504306,
+      "name": "Someday We'll Fly",
+      "url": "https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Promise of Spring",
+        "url": "https://open.spotify.com/album/3P2ayHfny4467NGE1KMw2F"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/6fA1NF7cmp9nrVdihdOXE4"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Homeroom Crush (Furndware Session)",
+        "url": "https://open.spotify.com/album/5iUHyRmgLaYsnVdsIUYp7X"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 308728,
+      "name": "Homeroom Crush - Furndware Session",
+      "url": "https://open.spotify.com/track/7BAMZ3TnZ19gHmncQkUljP"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "London Falling",
+        "url": "https://open.spotify.com/album/1cx1FSPeUxyzvOhY3859Rp"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "London Falling",
+      "url": "https://open.spotify.com/track/4UE0NS9Z7AGbcplSeXZqBA"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "OD",
+        "url": "https://open.spotify.com/album/0CiCDUpPYrc9MvOsuHJcs0"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        }
+      ],
+      "duration_ms": 418779,
+      "name": "OD",
+      "url": "https://open.spotify.com/track/2ih8SappJXdqcXKHHn24Jc"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Click Bait",
+        "url": "https://open.spotify.com/album/4UgwpuRs5pd5bxoGJU06WZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Click Bait",
+      "url": "https://open.spotify.com/track/1chzmz9zF3az7txF92lEfd"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Django",
+        "url": "https://open.spotify.com/album/6IL3c4IOEfWCj3B3hx1Elm"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/1ds8EgsVcJyuFnFyfX1vVI"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Nouvelle \u00c9tude in A-flat major (No. 2)",
+        "url": "https://open.spotify.com/album/3LMc4DBnzZdUGiE3YcVIJf"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Jean-Paul Brodbeck",
+          "url": "https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02"
+        }
+      ],
+      "duration_ms": 437786,
+      "name": "Nouvelle \u00c9tude in A-flat major (No. 2)",
+      "url": "https://open.spotify.com/track/30Muf5K0svFx56Abikr3n6"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Soundtrack",
+        "url": "https://open.spotify.com/album/0mH3PFoJqnBVaaGruCSjXO"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 326120,
+      "name": "Shifting Images",
+      "url": "https://open.spotify.com/track/7mA0egatfJxrL2xpC6ff9w"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "Jonathan Berroa",
+          "url": "https://open.spotify.com/artist/034NSOjlm8ldyogY85O7v0"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Noah Wise",
+          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
+        },
+        {
+          "name": "Jean-loup Siaut",
+          "url": "https://open.spotify.com/artist/7kQ6pzESf0Nv5XELxoHyjn"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "What Happens Next?",
+        "url": "https://open.spotify.com/album/3lw981bFN4nTdJXWJbhJvG"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "What Happens Next?",
+      "url": "https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Bluberri",
+        "url": "https://open.spotify.com/album/7x7qo4Ed5RPWUmpsWAHQTE"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 135103,
+      "name": "Bluberri",
+      "url": "https://open.spotify.com/track/208aFcXa7lY6wwHwkhZura"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "The Griot",
+        "url": "https://open.spotify.com/album/1rXaAhZc29gi36Y0n53Asi"
+      },
+      "artists": [
+        {
+          "name": "Henry Franklin",
+          "url": "https://open.spotify.com/artist/3Uqiej8rzmFMC4HBcpOsTz"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 270524,
+      "name": "The Griot",
+      "url": "https://open.spotify.com/track/7wyqf4LQAjizJ9eP1zujwj"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        },
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/17JpNaZhaPQTCyEPJiZ7C7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1hoZRBHEywokJpQT1dr9pf"
+    },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
@@ -115,26 +427,6 @@
       "duration_ms": 372213,
       "name": "Times (feat. Lex Amor)",
       "url": "https://open.spotify.com/track/0p1jXBUG1HO5SXgLbgUygq"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "SAM GREENFIELD SUCKS",
-        "url": "https://open.spotify.com/album/25DY2SjlnIG72HQWrvfIMa"
-      },
-      "artists": [
-        {
-          "name": "Sam Greenfield",
-          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
-        },
-        {
-          "name": "Jon Lampley",
-          "url": "https://open.spotify.com/artist/72owFpLlO637hnA5zZnuqP"
-        }
-      ],
-      "duration_ms": 298557,
-      "name": "Kidz Bop",
-      "url": "https://open.spotify.com/track/1srByTmgr1MjPC868VHO58"
     },
     {
       "added_at": "2022-03-11 18:50:16",
@@ -549,22 +841,6 @@
       "url": "https://open.spotify.com/track/1GDyxjei81WGbR3GuR1qAU"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Be the Light",
-        "url": "https://open.spotify.com/album/2i3UNevOFCOrMOHStzqZ2j"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 395866,
-      "name": "Be the Light",
-      "url": "https://open.spotify.com/track/771Fw4TAwMkLz7pnu0N1Nm"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "The 7th Hand",
@@ -601,30 +877,6 @@
       "url": "https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG"
     },
     {
-      "added_at": "2022-02-25 05:48:54",
-      "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/7Gr4BU3sEqzzfpeIJiyO9E"
-      },
-      "artists": [
-        {
-          "name": "Larry Goldings",
-          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Libra",
-      "url": "https://open.spotify.com/track/0A63tsENDnCLcmZE7UEpDj"
-    },
-    {
       "added_at": "2022-02-10 23:00:00",
       "album": {
         "name": "Ascent",
@@ -655,42 +907,6 @@
       "duration_ms": 255682,
       "name": "De-Dah",
       "url": "https://open.spotify.com/track/5Mr3wSYstgd22IE5GzprgT"
-    },
-    {
-      "added_at": "2022-02-25 05:48:54",
-      "album": {
-        "name": "RGB",
-        "url": "https://open.spotify.com/album/2TxhVHh1bMkqBnhJAod8Y9"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Aiden McKeon",
-          "url": "https://open.spotify.com/artist/3HtbSwA6ASwHmClcy6KF5n"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "RGB",
-      "url": "https://open.spotify.com/track/2JgSWztfXsSFkYKhMNh8gz"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -991,22 +1207,6 @@
       "duration_ms": 187826,
       "name": "El Neo Songo",
       "url": "https://open.spotify.com/track/66sBJ6wPujSHWh4ce0F00s"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Dribble",
-        "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 210572,
-      "name": "Dribble",
-      "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
     },
     {
       "added_at": "2022-02-18 05:01:00",

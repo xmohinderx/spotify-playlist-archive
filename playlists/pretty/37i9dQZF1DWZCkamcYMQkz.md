@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,920 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,032 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [He's My Guy](https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 4:12 |
 | 100 | [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 |
 
-Snapshot ID: `MTY0ODE2OTM1MCwwMDAwMDAwMDdjMmQ5NzA4NWFmOGI5YmQwNjFmMjU5NDkyYmE0Zjlm`
+Snapshot ID: `MTY0ODI1NTgwMCwwMDAwMDAwMDdjMmQ5NzA4NWFmOGI5YmQwNjFmMjU5NDkyYmE0Zjlm`

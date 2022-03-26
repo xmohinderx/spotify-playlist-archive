@@ -1,28 +1,32 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Roddy Ricch",
-  "num_followers": 1877614,
+  "num_followers": 1877677,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxOTIwMCwwMDAwMDUwYjAwMDAwMTdmOWRjMWQ0NWQwMDAwMDE3ZjQ2ZjJmN2Iz",
+  "snapshot_id": "MTY0ODE4MjQwMiwwMDAwMDUwYzAwMDAwMTdmYmY1MzlmNTUwMDAwMDE3ZjQ2ZjJmN2Iz",
   "tracks": [
     {
-      "added_at": "2022-02-15 20:31:51",
+      "added_at": "2022-03-25 04:26:42",
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+      "duration_ms": 172137,
+      "name": "Like A Thug (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -69,38 +73,6 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "cold",
-        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 195129,
-      "name": "cold",
-      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "everything you need",
-      "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Non Judgmental",
@@ -135,6 +107,98 @@
       "duration_ms": 144373,
       "name": "you & me",
       "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "cold",
+        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 195129,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "everything you need",
+      "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
+    },
+    {
+      "added_at": "2022-03-25 04:26:42",
+      "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 248700,
+      "name": "Happy Hour (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
+    },
+    {
+      "added_at": "2022-02-15 20:31:51",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -331,30 +395,6 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Beauty In The Madness",
-        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 223668,
-      "name": "Beauty In The Madness",
-      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -773,22 +813,6 @@
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
-      "added_at": "2021-11-05 04:08:43",
-      "album": {
-        "name": "TWOPOINTFIVE",
-        "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 146094,
-      "name": "Dididumduhduh",
-      "url": "https://open.spotify.com/track/4qEmZddPnyEpGkHeGTNmWa"
-    },
-    {
       "added_at": "2021-09-17 04:01:00",
       "album": {
         "name": "Quickie (feat. Ty Dolla $ign)",
@@ -887,26 +911,6 @@
       "duration_ms": 111444,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "You know My body (feat. Capella Grey)",
-        "url": "https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 155881,
-      "name": "You know My body (feat. Capella Grey)",
-      "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
     },
     {
       "added_at": "2021-09-03 05:02:30",

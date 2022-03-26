@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,186 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,381 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 41 | [Look](https://open.spotify.com/track/6WieZpY4oFb5oZNZQacgxb) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/3TvXsmeUpAC3TVaPFd4jr0) | 4:34 |
 | 42 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
 | 43 | [Peace and tranquility to earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [listener's digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 |
-| 44 | [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism \- Single](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 |
+| 44 | [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 |
 | 45 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 |
 | 46 | [Am I Wrong \- Original Version](https://open.spotify.com/track/0pVS6ymfHWKupp1wYcsNaZ) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Am I Wrong Remixes 2012 \- EP](https://open.spotify.com/album/2Qc9hgKNvfM6QEo0JCHy2d) | 3:51 |
 | 47 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/16KsLLVY50usR4urQYmSQP) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/7vKadQtVqp973qUGS9yPvA) | 3:38 |

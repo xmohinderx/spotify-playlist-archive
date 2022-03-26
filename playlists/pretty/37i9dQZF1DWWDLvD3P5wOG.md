@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,723 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,013 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [My Money Ha Ha](https://open.spotify.com/track/6zbjh2wNp2pEth5FJ1i7EI) | [Merital Family](https://open.spotify.com/artist/27GbrrvmAhdFLFaxw8u5gV) | [The Hit List, Vol\. 2](https://open.spotify.com/album/5CfSHg8q9RbWbESJS4YvhK) | 2:21 |
 | 80 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2006](https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT) | 2:47 |
 
-Snapshot ID: `MTY0ODE2OTI2MCwwMDAwMDAwMDg0ZmRjMjQ2NTBhNDlkYjE1YjBmOGQ5ZjFlZDBjYTFk`
+Snapshot ID: `MTY0ODI1NTcwNywwMDAwMDAwMDg0ZmRjMjQ2NTBhNDlkYjE1YjBmOGQ5ZjFlZDBjYTFk`

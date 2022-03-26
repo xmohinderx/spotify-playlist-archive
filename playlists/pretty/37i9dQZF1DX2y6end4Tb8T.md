@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,622 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,692 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
 | 100 | [Open House \(feat\. Quavo\)](https://open.spotify.com/track/4h31o8w2rruybZpJRfRk04) | [Street Bud](https://open.spotify.com/artist/6tQmUQ1aBbgQwEqXFjVwB6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Open House \(feat\. Quavo\)](https://open.spotify.com/album/3h3sWexmt4FxDenn0Gr20X) | 3:23 |
 
-Snapshot ID: `MTY0ODE2OTQ3MywwMDAwMDAwMGIzYmRjMzVlMzE4MjNjZjIzOGQwNjE4MjM0ZDg1ZWY3`
+Snapshot ID: `MTY0ODI1NTkyNiwwMDAwMDAwMGIzYmRjMzVlMzE4MjNjZjIzOGQwNjE4MjM0ZDg1ZWY3`

@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "We Out Here: Live",
+        "url": "https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216656,
+      "name": "Different \u2018Round Here - Live",
+      "url": "https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ"
+    },
+    {
+      "album": {
         "name": "Spotify Live (Live From Austin, TX)",
         "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
       },
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 221280,
       "name": "Dust on the Bottle (with David Lee Murphy) - Live",
       "url": "https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI"

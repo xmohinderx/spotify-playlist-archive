@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,479 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,590 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Triceratops / The Caller](https://open.spotify.com/track/2k5d3V0BVehNIXYUBWTaaD) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:15 |
 | 100 | [Reflexiones](https://open.spotify.com/track/38XhQOlYqpwM16JoRPKSFd) | [Nil's Jazz Ensemble](https://open.spotify.com/artist/3zgxOShyrG2nPqI9t0ppU5), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3), [Miguel Figueroa](https://open.spotify.com/artist/1DWUOlBM1j5zHFbjqlqz9S) | [Nil's Jazz Ensemble](https://open.spotify.com/album/2Cy5KeZYcmMsRtbVFzmfLY) | 3:57 |
 
-Snapshot ID: `MTY0ODE2OTYwNCwwMDAwMDAwMDY1YjRkY2JkZDUwMzk3YjViN2I1MDYxNDhjNGYxMmY3`
+Snapshot ID: `MTY0ODI1NjA1OSwwMDAwMDAwMDY1YjRkY2JkZDUwMzk3YjViN2I1MDYxNDhjNGYxMmY3`

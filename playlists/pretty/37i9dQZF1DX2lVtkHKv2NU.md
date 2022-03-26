@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,090 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,256 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
 | 100 | [VIBES](https://open.spotify.com/track/4L4ji7AwnwVSPsGgxzm06v) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [VIBES](https://open.spotify.com/album/66DV3wRHQ4KTVkL8Ps26jQ) | 2:55 |
 
-Snapshot ID: `MTY0ODE2OTQ2NSwwMDAwMDAwMDNiNmIyNDg5ZGQ1NTE5NzQwNGEyNTc3N2Q1MWI5NDdk`
+Snapshot ID: `MTY0ODI1NTkxOSwwMDAwMDAwMDNiNmIyNDg5ZGQ1NTE5NzQwNGEyNTc3N2Q1MWI5NDdk`

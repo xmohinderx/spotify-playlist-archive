@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the hottest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,414 likes - 91 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,857 likes - 91 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 90 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
 | 91 | [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 |
 
-Snapshot ID: `MTY0ODE2OTIwMiwwMDAwMDAwMGVlOTM0NDg4MGYyYzM5ODE5MzcxZjhhNGU1YmU4Y2Uy`
+Snapshot ID: `MTY0ODI1NTY0OSwwMDAwMDAwMGVlOTM0NDg4MGYyYzM5ODE5MzcxZjhhNGU1YmU4Y2Uy`

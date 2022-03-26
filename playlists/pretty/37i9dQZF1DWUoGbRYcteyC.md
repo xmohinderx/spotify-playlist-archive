@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,705 likes - 130 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,862 likes - 130 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/57x2wvpsHJK0tXLfDJovwc) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/2A4r4bYdXEot2tSi647rAJ) | 3:05 |
 | 130 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 |
 
-Snapshot ID: `MTY0ODE2OTIxNCwwMDAwMDAwMDM3YTQ3NTcyMjg3NWFjY2FmYTI0NzVkNmE1MWUzZWYz`
+Snapshot ID: `MTY0ODI1NTY2MSwwMDAwMDAwMDM3YTQ3NTcyMjg3NWFjY2FmYTI0NzVkNmE1MWUzZWYz`

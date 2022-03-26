@@ -2,13 +2,13 @@
 
 ### [Urbano Rising](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
 
-> Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Maxiolly, Totoy El Frio
+> Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Alejo, Feid, ROBI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-21 |  |
 | [11:11](https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [11:11](https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe) | 3:44 | 2022-03-21 |  |
-| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-03-21 |  |
+| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-03-21 | 2022-03-26 |
 | [Bendecidos](https://open.spotify.com/track/7pk0dEO7AArCL34gHSpXxK) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Bendecidos](https://open.spotify.com/album/0xng3U8wYOaDWidTkmPwWv) | 3:10 | 2022-03-21 |  |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-21 |  |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-03-21 |  |
@@ -44,6 +44,7 @@
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-03-21 |  |
 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-03-21 |  |
 | [Pal Carajo el Amor](https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pal Carajo el Amor](https://open.spotify.com/album/4gpZ0GHKxJitDg4SjosXm5) | 3:16 | 2022-03-21 |  |
+| [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-25 |  |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-21 |  |
 | [Pasaporte](https://open.spotify.com/track/26v4VLlPINtHUWtFyF1znP) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Pasaporte](https://open.spotify.com/album/3nDqbnnMqiwbViFVPEPqN8) | 3:39 | 2022-03-21 |  |
 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-03-21 |  |

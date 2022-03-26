@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2042235,
+  "num_followers": 2042168,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE0OTUsMWZmMDdjZWE1OTIzMzA2ZTVjMGUxMWI5NzM3MWViZTQwMTFiYzA0Yg==",
+  "snapshot_id": "MTE1MTAsNWYwZjY1NGE4OGVkOWViZGQ4MzU0NmY2ZmVkMTA4MmU4MThlYWUwZA==",
   "tracks": [
     {
       "added_at": "2022-03-23 15:58:39",
@@ -113,20 +113,24 @@
       "url": "https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1"
     },
     {
-      "added_at": "2022-03-23 15:58:39",
+      "added_at": "2022-03-25 14:25:38",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp"
+        "name": "Would U",
+        "url": "https://open.spotify.com/album/1HF7ZHo81mkE9mah9y19xl"
       },
       "artists": [
         {
-          "name": "HIGHSOCIETY",
-          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
         }
       ],
-      "duration_ms": 164397,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn"
+      "duration_ms": 155200,
+      "name": "Would U",
+      "url": "https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0"
     },
     {
       "added_at": "2022-03-23 15:58:39",
@@ -191,6 +195,22 @@
       "duration_ms": 237241,
       "name": "Broken - VIP",
       "url": "https://open.spotify.com/track/6JjdMJw5pVpiNIM1eqOiPp"
+    },
+    {
+      "added_at": "2022-03-23 15:58:39",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "duration_ms": 164397,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn"
     },
     {
       "added_at": "2022-03-23 15:58:39",
@@ -395,30 +415,6 @@
     {
       "added_at": "2022-03-23 15:58:39",
       "album": {
-        "name": "With Us",
-        "url": "https://open.spotify.com/album/3weu8g7iv2zYprfSDi18DB"
-      },
-      "artists": [
-        {
-          "name": "Hoober",
-          "url": "https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd"
-        },
-        {
-          "name": "roseboy",
-          "url": "https://open.spotify.com/artist/19XTIhkOL45VkvkjjGzD61"
-        },
-        {
-          "name": "Pbenz",
-          "url": "https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "With Us",
-      "url": "https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w"
-    },
-    {
-      "added_at": "2022-03-23 15:58:39",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
       },
@@ -553,6 +549,38 @@
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
+      "added_at": "2022-03-25 14:35:04",
+      "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/016KUKMAlAj8UifThxO0aK"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4o5B573iIdWZIcoObwx11j"
+        },
+        {
+          "name": "Jstn Dmnd",
+          "url": "https://open.spotify.com/artist/3RmnY5cG1cCKsQ1h8048Y5"
+        }
+      ],
+      "duration_ms": 190735,
+      "name": "Yeah!",
+      "url": "https://open.spotify.com/track/1L9Ap8KcIC7oiwVISVW4If"
+    },
+    {
       "added_at": "2022-03-23 15:58:39",
       "album": {
         "name": "Hysteria",
@@ -567,6 +595,22 @@
       "duration_ms": 229091,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES"
+    },
+    {
+      "added_at": "2022-03-25 14:19:10",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4NnwLNTiAQkGZvhs3b9GET"
+      },
+      "artists": [
+        {
+          "name": "Bellorum",
+          "url": "https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/3l5KAvmMw41kdoU4lZZHVJ"
     },
     {
       "added_at": "2022-03-23 15:58:39",
@@ -607,30 +651,6 @@
       "duration_ms": 151475,
       "name": "The Ride - The FifthGuys Remix",
       "url": "https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD"
-    },
-    {
-      "added_at": "2022-03-23 15:58:39",
-      "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/3GccJ7CiZ0XQ8rjTybOgdY"
-      },
-      "artists": [
-        {
-          "name": "VADDS",
-          "url": "https://open.spotify.com/artist/0AwrO5huZJNWko331k0vNp"
-        },
-        {
-          "name": "SVSTN",
-          "url": "https://open.spotify.com/artist/0BaYoanpAb4oTALg2pFGVB"
-        },
-        {
-          "name": "Benlon",
-          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
-        }
-      ],
-      "duration_ms": 141732,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/3k9YyN18G8QW4S2OSs8Iuj"
     },
     {
       "added_at": "2022-03-23 15:58:39",
@@ -724,12 +744,12 @@
       },
       "artists": [
         {
-          "name": "Alltair",
-          "url": "https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY"
-        },
-        {
           "name": "Wiguez",
           "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Alltair",
+          "url": "https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY"
         }
       ],
       "duration_ms": 170108,
@@ -1469,6 +1489,26 @@
       "url": "https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj"
     },
     {
+      "added_at": "2022-03-25 16:58:16",
+      "album": {
+        "name": "Dead In The Water (feat. Zack Gray)",
+        "url": "https://open.spotify.com/album/6FbfWSfaLmc3HqjIUwktl4"
+      },
+      "artists": [
+        {
+          "name": "Falling North",
+          "url": "https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5"
+        },
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "duration_ms": 215696,
+      "name": "Dead In The Water (feat. Zack Gray)",
+      "url": "https://open.spotify.com/track/4lYq3zUbjg9gkb1HaECfzA"
+    },
+    {
       "added_at": "2022-03-23 15:58:39",
       "album": {
         "name": "Back To U",
@@ -1779,26 +1819,6 @@
       "duration_ms": 258782,
       "name": "THE HILLS",
       "url": "https://open.spotify.com/track/77eEBtXwACqL0Udd37NQjU"
-    },
-    {
-      "added_at": "2022-03-23 15:58:39",
-      "album": {
-        "name": "The Far Side",
-        "url": "https://open.spotify.com/album/1uCoUK0DMTfJOjbeD6YyNh"
-      },
-      "artists": [
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        },
-        {
-          "name": "David Frank",
-          "url": "https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW"
-        }
-      ],
-      "duration_ms": 181153,
-      "name": "The Far Side",
-      "url": "https://open.spotify.com/track/6uRskPnpCJ9sHdDxGjZwRH"
     },
     {
       "added_at": "2022-03-23 15:58:39",

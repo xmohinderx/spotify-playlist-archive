@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > <a href="https://open.spotify.com/show/6J0BSU2FxWt9kndbiLPwXs?si=c697797f48374d00">Peak 2000s</a> throwing it all the way back\. That’s hot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,611 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,567 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Money Maker](https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Release Therapy](https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg) | 3:50 |
 | 100 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 
-Snapshot ID: `MTY0ODE2OTU4NSwwMDAwMDAwMGI2ZWY3ZmM3MTk0Y2M1ZjQ5OGFkMTM4YTc2ODM5MTdj`
+Snapshot ID: `MTY0ODI1NjA0MCwwMDAwMDAwMGI2ZWY3ZmM3MTk0Y2M1ZjQ5OGFkMTM4YTc2ODM5MTdj`

@@ -1520,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Sit Wojooh",
+        "url": "https://open.spotify.com/album/5lapnHKZ01fTIP2doKGWUM"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Sit Wojooh",
+      "url": "https://open.spotify.com/track/1yjah9rjkjHM9zorRJ7oEi"
+    },
+    {
+      "album": {
         "name": "Taal Nteer",
         "url": "https://open.spotify.com/album/75rhxEVGf6zhVpWV8tZ7JE"
       },
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 229054,
       "name": "\u0627\u0633\u0648\u064a \u0627\u0644\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/5vrGaDTo4S60i4LcUW8mSV"

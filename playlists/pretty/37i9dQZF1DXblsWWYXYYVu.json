@@ -1,13 +1,49 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 59984,
+  "num_followers": 60021,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA0NjAwMDAwMTdmOWI2NTk1MDgwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDA0NzAwMDAwMTdmYmYzYzE0ZTYwMDAwMDE2ZDE1MTg0ZTc2",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Far Side of the World",
+        "url": "https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3"
+      },
+      "artists": [
+        {
+          "name": "Holden Miller",
+          "url": "https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG"
+        },
+        {
+          "name": "Jake Fine",
+          "url": "https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Far Side of the World",
+      "url": "https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 216854,
+      "name": "Passengers - Acoustic Version",
+      "url": "https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p"
+    },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {

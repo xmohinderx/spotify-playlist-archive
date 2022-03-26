@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,445 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,047 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 73 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 |
 | 74 | [Birthday Party](https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:18 |
 
-Snapshot ID: `MTY0ODE2OTQxOSwwMDAwMDAwMGQ3N2ViNTFhMzVlYzZlZjVjZDNkOWJhOTJkMDIwYTdk`
+Snapshot ID: `MTY0ODI1NTg3MiwwMDAwMDAwMGQ3N2ViNTFhMzVlYzZlZjVjZDNkOWJhOTJkMDIwYTdk`

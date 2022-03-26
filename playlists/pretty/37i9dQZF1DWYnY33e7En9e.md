@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,939 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,995 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Party Up](https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/10memku7dGZY14rvvlNpPv) | 4:28 |
 | 100 | [Da Joint](https://open.spotify.com/track/7nk7oS0G6qG3ofHUAKbg9F) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Back In Business](https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh) | 3:28 |
 
-Snapshot ID: `MTY0ODE2OTM0MCwwMDAwMDAwMDE2MGJkODk4NGIxYjQzM2E3ZGRlOWRkMzUyOTUzM2Fj`
+Snapshot ID: `MTY0ODI1NTc5MCwwMDAwMDAwMDE2MGJkODk4NGIxYjQzM2E3ZGRlOWRkMzUyOTUzM2Fj`

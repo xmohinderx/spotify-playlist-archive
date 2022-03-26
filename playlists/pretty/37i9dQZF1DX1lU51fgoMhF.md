@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: XIA\(준수\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,537 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,542 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Better Me](https://open.spotify.com/track/7sikv3XMiEIDESAS7PEkBB) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:01 |
 | 70 | [BIM BAM BUM](https://open.spotify.com/track/7JfqtEztxAA11Q7O9N6ryT) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [PINK PUNCH](https://open.spotify.com/album/243nNJW4Zk1vhQwNhZKXh7) | 3:16 |
 
-Snapshot ID: `MTY0ODE2OTQzMywwMDAwMDAwMGMzYWQxNGQ0YTU1NTJmYjkyNDIwMjgwYmI2Y2VmYWRh`
+Snapshot ID: `MTY0ODI1NTg4NSwwMDAwMDAwMGMzYWQxNGQ0YTU1NTJmYjkyNDIwMjgwYmI2Y2VmYWRh`

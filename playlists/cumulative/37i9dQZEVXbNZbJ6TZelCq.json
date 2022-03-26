@@ -3079,7 +3079,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 174130,
       "name": "Doua Lumi",
       "url": "https://open.spotify.com/track/3w0zgo6MI4BQUQBlKn258R"
@@ -3531,6 +3531,24 @@
       "duration_ms": 147341,
       "name": "Evian",
       "url": "https://open.spotify.com/track/5Ibxha7N01DUemV7b99LH4"
+    },
+    {
+      "album": {
+        "name": "Exorcist (Bgm)",
+        "url": "https://open.spotify.com/album/6MQfIis9bPmQ7tMH2iMrFu"
+      },
+      "artists": [
+        {
+          "name": "Rajsofficial",
+          "url": "https://open.spotify.com/artist/4xDNdyI0CDo5h81bDUwD6n"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71285,
+      "name": "Exorcist (Bgm)",
+      "url": "https://open.spotify.com/track/3I6v1zLqMFoDUeJWsgjJOO"
     },
     {
       "album": {
@@ -6821,7 +6839,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
@@ -9575,7 +9593,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-06-07",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -10223,7 +10241,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 232203,
       "name": "Something In The Way - Remastered",
       "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
@@ -12373,7 +12391,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 158112,
       "name": "Zeu",
       "url": "https://open.spotify.com/track/1BwDccvmbuyZMrQ8FGQlrh"

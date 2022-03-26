@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,850 likes - 36 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,884 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 | 35 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
 | 36 | [No Woman No Cry](https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:46 |
 
-Snapshot ID: `MTY0ODE2OTQ3OSwwMDAwMDAwMDQ1YTVlZjA3ZTk1MzdmY2VkNzcyOTk5ZDIwYjMzYjE4`
+Snapshot ID: `MTY0ODI1NTkzMywwMDAwMDAwMDQ1YTVlZjA3ZTk1MzdmY2VkNzcyOTk5ZDIwYjMzYjE4`

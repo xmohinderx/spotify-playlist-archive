@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Aleesha, Nicki Nicole, TAICHU Juicy BAE",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bad Gyal",
   "name": "New Urbano",
   "published_playlist_ids": [
     "1VeWyX96wAd9PwEhX7cbqr"
@@ -484,6 +484,28 @@
     },
     {
       "album": {
+        "name": "Flow 2000 (Remix)",
+        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168520,
+      "name": "Flow 2000 - Remix",
+      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
+    },
+    {
+      "album": {
         "name": "Flow Calle",
         "url": "https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6"
       },
@@ -891,7 +913,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 134659,
       "name": "PobreDiablo - Interlude",
       "url": "https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS"
@@ -997,6 +1019,28 @@
       "duration_ms": 259310,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr"
+    },
+    {
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "album": {

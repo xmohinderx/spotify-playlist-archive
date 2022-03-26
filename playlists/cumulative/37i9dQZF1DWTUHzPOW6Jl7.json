@@ -614,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/01FqJwpa24Vfb8DI6sZI6B"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236506,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/5MiIyCJ1DYbWLdwWYzyNcJ"
+    },
+    {
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-24",
+      "date_removed": null,
       "duration_ms": 206106,
       "name": "Trick Me",
       "url": "https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,594,022 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,594,522 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 3 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
 | 4 | [The Upsetter](https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:05 |
 | 5 | [Mellow Mood](https://open.spotify.com/track/0OKMUpT5jHO3g5MePDoDXr) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/5rM5qPO90wib9kRdESozAt) | 3:51 |
-| 6 | [Fu Man Chu](https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Aces](https://open.spotify.com/artist/5l6EjGbVOK3ciVYP20II6p) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 3:19 |
+| 6 | [Fu Man Chu](https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 3:19 |
 | 7 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 |
 | 8 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
 | 9 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 44 | [Train To Skaville](https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Absolutely The Best Of Reggae Vol\. 1](https://open.spotify.com/album/0U9LMMfkDK3alar1KZ7JEX) | 2:54 |
 | 45 | [Milk & Honey](https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook](https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5) | 3:39 |
 | 46 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
-| 47 | [It Mek](https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [The Aces](https://open.spotify.com/artist/5l6EjGbVOK3ciVYP20II6p) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:33 |
+| 47 | [It Mek](https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:33 |
 | 48 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 | 49 | [Marcus Garvey](https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Jah No Dead \- An Introduction To Burning Spear](https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL) | 3:19 |
 | 50 | [It Must Be True Love](https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Trojan Lovers Collection](https://open.spotify.com/album/1nmApsog19BD430O3mPzXm) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
 | 60 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 
-Snapshot ID: `MTY0ODE2OTc0MCwwMDAwMDAwMGFiYWFlODIzNDI5ZDIxYTQ4NGZjNzBmYTY0NmI2MDdk`
+Snapshot ID: `MTY0ODI1NjE5NSwwMDAwMDAwMGFiYWFlODIzNDI5ZDIxYTQ4NGZjNzBmYTY0NmI2MDdk`

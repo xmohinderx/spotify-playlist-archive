@@ -1002,6 +1002,46 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4NnwLNTiAQkGZvhs3b9GET"
+      },
+      "artists": [
+        {
+          "name": "Bellorum",
+          "url": "https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/3l5KAvmMw41kdoU4lZZHVJ"
+    },
+    {
+      "album": {
+        "name": "Dead In The Water (feat. Zack Gray)",
+        "url": "https://open.spotify.com/album/6FbfWSfaLmc3HqjIUwktl4"
+      },
+      "artists": [
+        {
+          "name": "Falling North",
+          "url": "https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5"
+        },
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "Dead In The Water (feat. Zack Gray)",
+      "url": "https://open.spotify.com/track/4lYq3zUbjg9gkb1HaECfzA"
+    },
+    {
+      "album": {
         "name": "Decoded",
         "url": "https://open.spotify.com/album/7vegLp4uXP12y3DF1Xv8q0"
       },
@@ -3459,7 +3499,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 141732,
       "name": "Reload",
       "url": "https://open.spotify.com/track/3k9YyN18G8QW4S2OSs8Iuj"
@@ -3875,12 +3915,12 @@
       },
       "artists": [
         {
-          "name": "Alltair",
-          "url": "https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY"
-        },
-        {
           "name": "Wiguez",
           "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Alltair",
+          "url": "https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY"
         }
       ],
       "date_added": "2022-03-18",
@@ -4163,7 +4203,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 181153,
       "name": "The Far Side",
       "url": "https://open.spotify.com/track/6uRskPnpCJ9sHdDxGjZwRH"
@@ -4743,7 +4783,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 200000,
       "name": "With Us",
       "url": "https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w"
@@ -4791,6 +4831,62 @@
       "duration_ms": 195428,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2SlQJGn5ZR0ZNO7M9sV7UT"
+    },
+    {
+      "album": {
+        "name": "Would U",
+        "url": "https://open.spotify.com/album/1HF7ZHo81mkE9mah9y19xl"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Would U",
+      "url": "https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0"
+    },
+    {
+      "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/016KUKMAlAj8UifThxO0aK"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4o5B573iIdWZIcoObwx11j"
+        },
+        {
+          "name": "Jstn Dmnd",
+          "url": "https://open.spotify.com/artist/3RmnY5cG1cCKsQ1h8048Y5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190735,
+      "name": "Yeah!",
+      "url": "https://open.spotify.com/track/1L9Ap8KcIC7oiwVISVW4If"
     },
     {
       "album": {

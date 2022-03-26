@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vũ Thanh Vân; thiết kế: Isu Kim
+> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Kis; thiết kế: Isu Kim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Đi Hoang](https://open.spotify.com/track/39t5AIpAq8v8ELF8e6iDIN) | [Nguyễn Thiện Thảo](https://open.spotify.com/artist/1ne8czCC65zYLQvff1eida), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Đi Hoang](https://open.spotify.com/album/0PmBjzGbJys7wCHTvltXX0) | 5:27 | 2022-03-02 | 2022-03-13 |
 | [Đi Qua Thăng Trầm](https://open.spotify.com/track/3Z9JUQEyzAAJiBR1mQtZf9) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Đi Qua Thăng Trầm](https://open.spotify.com/album/3dkfxzpq1C00JZdWcKmFIa) | 2:46 | 2022-01-06 | 2022-02-15 |
 | [Đom Đóm Và Ánh Trăng](https://open.spotify.com/track/7rjtVVhH6jq8Z0VTRokukb) | [Foo](https://open.spotify.com/artist/3PjOP4SqB2RsVLENwXJEEK) | [Đom Đóm Và Ánh Trăng](https://open.spotify.com/album/2YrRmoECIgQf8FMqcUbJsJ) | 4:50 | 2022-01-20 | 2022-01-29 |
+| [Đoạn Tuyệt Nàng Đi \- Remix Version](https://open.spotify.com/track/1AZjDUHNSHOymow3bmddj6) | [Phát Huy T4](https://open.spotify.com/artist/2Nzh0EMg4e4y7yo9yZB8cB) | [Đoạn Tuyệt Nàng Đi \(Remix Version\)](https://open.spotify.com/album/7hB1fKudViwpFNjRyWyI0C) | 2:43 | 2022-03-25 |  |
 | [Đâu Ai Dám Hứa](https://open.spotify.com/track/0lPAHloMDJcbdp9m7Xyjr1) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Đâu Ai Dám Hứa](https://open.spotify.com/album/3r8Skpiwqj8DlWPmtKF5XH) | 3:44 | 2022-01-06 |  |
 | [Đâu Đó Không Là Anh](https://open.spotify.com/track/55IxRbp5vTcnOw0DhAWESs) | [Opal](https://open.spotify.com/artist/1GkiBY8d6lkwJvWb6YFlzS) | [Đâu Đó Không Là Anh](https://open.spotify.com/album/1kWGdSwJWrO33Dx7GGhDD9) | 3:14 | 2022-01-06 | 2022-01-21 |
 | [đây là một chiếc buồn...](https://open.spotify.com/track/7GrWiWAx0Wklaixmcic8ln) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [đây là một chiếc buồn...](https://open.spotify.com/album/2YJc2JSAfLgkyjzRsRZrJX) | 3:13 | 2022-01-06 |  |

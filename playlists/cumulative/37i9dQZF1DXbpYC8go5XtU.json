@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY"
+      },
+      "artists": [
+        {
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192580,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v"
+    },
+    {
+      "album": {
         "name": "Equanimity",
         "url": "https://open.spotify.com/album/52xMZto4FqEu09Vzrp7NHm"
       },

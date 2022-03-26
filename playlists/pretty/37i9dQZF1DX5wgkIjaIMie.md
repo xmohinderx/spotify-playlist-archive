@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,969 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,057 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 |
 | 70 | [The Greatest](https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [SIX60](https://open.spotify.com/album/7bezhg8dTWkIwxsXlCVLPc) | 2:50 |
 
-Snapshot ID: `MTY0ODE2OTU3MiwwMDAwMDAwMDUzNTFkZWVhZGFlMzZiNGEwNjkyYzYxZTIwY2M1MmZh`
+Snapshot ID: `MTY0ODI1NjAyNiwwMDAwMDAwMDUzNTFkZWVhZGFlMzZiNGEwNjkyYzYxZTIwY2M1MmZh`

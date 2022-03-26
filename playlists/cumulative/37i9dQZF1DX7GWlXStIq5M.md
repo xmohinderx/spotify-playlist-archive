@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7GWlXStIq5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7GWlXStIq5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7GWlXStIq5M)
 
-### Gamer Gang
+### [Gamer Gang](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 

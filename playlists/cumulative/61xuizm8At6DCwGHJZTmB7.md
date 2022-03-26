@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### [Easter Worship 2022](https://open.spotify.com/playlist/1ljbyBPquPF68hV49Fea2h)
+### [Worship 2022](https://open.spotify.com/playlist/1ljbyBPquPF68hV49Fea2h)
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
@@ -19,6 +19,7 @@
 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2022-03-15 |  |
 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 | 2022-02-17 |  |
 | [Christ Be Magnified](https://open.spotify.com/track/4N2SVgJkVmn4sgS7s2410F) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:02 | 2022-02-17 |  |
+| [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 | 2022-02-17 | 2022-03-16 |
 | [Communion \- Live](https://open.spotify.com/track/66zwB70pTK6JQXGZV65sV3) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 6:20 | 2022-03-15 |  |
 | [Do It Again](https://open.spotify.com/track/3IVoTSr3MHv8gClp6wGmQi) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:33 | 2022-02-17 | 2022-03-16 |

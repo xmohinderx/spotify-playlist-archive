@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > turn up with Blessd, Ovy On The Drums, and Myke Towers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,556 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,638 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 79 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
 | 80 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 |
 
-Snapshot ID: `MTY0ODE2OTY2MCwwMDAwMDAwMDUwMGVlNzZhMWFhMjg0YjFmYTlkMmM1NjZkZjdkMmE0`
+Snapshot ID: `MTY0ODI1NjExNSwwMDAwMDAwMDUwMGVlNzZhMWFhMjg0YjFmYTlkMmM1NjZkZjdkMmE0`

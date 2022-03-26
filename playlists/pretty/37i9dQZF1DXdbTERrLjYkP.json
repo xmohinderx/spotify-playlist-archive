@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Peter McPoland",
-  "num_followers": 55569,
+  "num_followers": 55767,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3NjAwMCwwMDAwMDA0OTAwMDAwMTdmOWIyZWE2YzYwMDAwMDE3Zjk5YjgyZjMw",
+  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDA0YTAwMDAwMTdmYmYzYjJhYzMwMDAwMDE3Zjk5YjgyZjMw",
   "tracks": [
     {
       "added_at": "2022-03-18 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
     },
     {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Call My Own",
+        "url": "https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Call My Own",
+      "url": "https://open.spotify.com/track/2Tp03ZfNBqXL8Ny0g9e8sM"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Forward / Slash",
@@ -57,20 +73,84 @@
       "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Since I Met You",
-        "url": "https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2"
+        "name": "Remember me Happy",
+        "url": "https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj"
       },
       "artists": [
         {
-          "name": "Cassidy Mann",
-          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 270233,
-      "name": "Since I Met You",
-      "url": "https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW"
+      "duration_ms": 141096,
+      "name": "Remember me Happy",
+      "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "Starting To Get To You",
+      "url": "https://open.spotify.com/track/2p0UvLVpANua6yrhrDNTcM"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "I Wanna Be a Boy",
+        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "I Wanna Be a Boy",
+      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Single in September (Acoustic)",
+        "url": "https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 200888,
+      "name": "Single in September - Acoustic",
+      "url": "https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -89,6 +169,38 @@
       "url": "https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU"
     },
     {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Since I Met You",
+        "url": "https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Since I Met You",
+      "url": "https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "All I Ever Asked",
@@ -103,22 +215,6 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "I Wanna Be a Boy",
-        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "I Wanna Be a Boy",
-      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -183,22 +279,6 @@
       "duration_ms": 187293,
       "name": "Mr. Forgettable",
       "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -525,22 +605,6 @@
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "new year",
-        "url": "https://open.spotify.com/album/4qPaD8Ab0uIFXL24s1ypgc"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 135233,
-      "name": "new year",
-      "url": "https://open.spotify.com/track/0uqc00wyYU4ikXuVFDaqux"
-    },
-    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "mona lisa",
@@ -683,22 +747,6 @@
       "duration_ms": 178447,
       "name": "girl like me",
       "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Remember me Happy",
-        "url": "https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 141096,
-      "name": "Remember me Happy",
-      "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
     },
     {
       "added_at": "2022-01-28 05:15:10",
@@ -851,18 +899,18 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+        "name": "Late To The Party",
+        "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+      "duration_ms": 177176,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1283,22 +1331,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Late To The Party",
-        "url": "https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "When It Ends",
         "url": "https://open.spotify.com/album/1omEOMchSWNS0JW7jcLWAU"
       },
@@ -1415,22 +1447,6 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Back to Friends",
-        "url": "https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 215980,
-      "name": "Back to Friends",
-      "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

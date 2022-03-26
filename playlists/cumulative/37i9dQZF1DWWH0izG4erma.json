@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "All I Can Think About Lately",
+        "url": "https://open.spotify.com/album/3JrC0f2pdNHKs2Fx8xK0AW"
+      },
+      "artists": [
+        {
+          "name": "CJ Solar",
+          "url": "https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226130,
+      "name": "All I Can Think About Lately",
+      "url": "https://open.spotify.com/track/5pkNN8QrCbPAvgh0QAfupx"
+    },
+    {
+      "album": {
         "name": "All It Cost Me Was Everything",
         "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
       },
@@ -153,6 +171,24 @@
       "duration_ms": 197267,
       "name": "American Thread",
       "url": "https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB"
+    },
+    {
+      "album": {
+        "name": "Antioch",
+        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245643,
+      "name": "Antioch",
+      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
     },
     {
       "album": {
@@ -619,6 +655,24 @@
       "duration_ms": 270675,
       "name": "DLTGYD",
       "url": "https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb"
+    },
+    {
+      "album": {
+        "name": "Doghouse",
+        "url": "https://open.spotify.com/album/5FsoKIJS8g2erLSvmRQrnb"
+      },
+      "artists": [
+        {
+          "name": "Highway Natives",
+          "url": "https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Doghouse",
+      "url": "https://open.spotify.com/track/2BqlDDr1IykiGe6JvlMCd5"
     },
     {
       "album": {
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 225652,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4Kt1bb3fWGhgRsoRgZCAJ8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > thinking of her
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,238 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,258 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 75 | [Look Who’s Inside Again](https://open.spotify.com/track/7d8dqy6GbiUqotcTSs0jXg) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 1:23 |
 
-Snapshot ID: `MTY0ODE2OTI1NSwwMDAwMDAwMDgxNDViODJlZWNhYzM1NDc5ODNhN2E5NzgyMTM2Mzg1`
+Snapshot ID: `MTY0ODI1NTcwMiwwMDAwMDAwMDgxNDViODJlZWNhYzM1NDc5ODNhN2E5NzgyMTM2Mzg1`

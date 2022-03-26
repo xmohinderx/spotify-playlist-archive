@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Few Reasons",
+        "url": "https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ"
+      },
+      "artists": [
+        {
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151940,
+      "name": "A Few Reasons",
+      "url": "https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf"
+    },
+    {
+      "album": {
         "name": "A Sign of Solace",
         "url": "https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F"
       },
@@ -441,7 +459,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 218293,
       "name": "Campeche",
       "url": "https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q"
@@ -1615,6 +1633,24 @@
       "duration_ms": 239886,
       "name": "in den Bergen",
       "url": "https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI"
+    },
+    {
+      "album": {
+        "name": "In Madeira",
+        "url": "https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr"
+      },
+      "artists": [
+        {
+          "name": "Emil Dahl",
+          "url": "https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105892,
+      "name": "In Madeira",
+      "url": "https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8"
     },
     {
       "album": {
@@ -3135,6 +3171,24 @@
       "duration_ms": 213499,
       "name": "Shoes Filled With Water",
       "url": "https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c"
+    },
+    {
+      "album": {
+        "name": "Showers of Peace",
+        "url": "https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161877,
+      "name": "Showers of Peace",
+      "url": "https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t"
     },
     {
       "album": {

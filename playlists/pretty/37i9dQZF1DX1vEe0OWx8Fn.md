@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,469 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,540 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [There's Nowhere Better Than This](https://open.spotify.com/track/0YRtaQuU5j8qiCBCRQYwf3) | [Anxiety Attacks!](https://open.spotify.com/artist/2MFiIdBZb1qMLyOyaLioLn) | [Never Greener](https://open.spotify.com/album/2SsgvtJFluiPNdIlE8SZMW) | 2:27 |
 | 50 | [ONE LAST TIME](https://open.spotify.com/track/4awR8pzDR0LhSmDyoy5lAJ) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [ONE LAST TIME](https://open.spotify.com/album/63F1wUrRm2pB8OWXCpQjgU) | 2:36 |
 
-Snapshot ID: `MTY0ODE2OTQ0MSwwMDAwMDAwMDRiMmNkYjUxY2NhZWU3OWQ4ZTYwMGZkZDk0ZGNhZDE2`
+Snapshot ID: `MTY0ODI1NTg5NCwwMDAwMDAwMDRiMmNkYjUxY2NhZWU3OWQ4ZTYwMGZkZDk0ZGNhZDE2`

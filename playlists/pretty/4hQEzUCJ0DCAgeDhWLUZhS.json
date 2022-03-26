@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTU2OCxjMTY5MTFlZjM5ODJlNjcyNmVmYjkzYzk2OTA5MzY2M2QxNzk3MzBl",
+  "snapshot_id": "MTU3MCw4ZjBiZmFjODcwM2RhMTg5ZjEyZTQ5MTA3ODhkNmJhNjExMWEyM2Y4",
   "tracks": [
     {
       "added_at": "2022-03-18 05:24:41",
@@ -87,6 +87,38 @@
       "duration_ms": 245013,
       "name": "Initiation",
       "url": "https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw"
+    },
+    {
+      "added_at": "2022-03-25 01:36:59",
+      "album": {
+        "name": "If We Get Caught",
+        "url": "https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 194651,
+      "name": "If We Get Caught",
+      "url": "https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u"
+    },
+    {
+      "added_at": "2022-03-25 01:29:44",
+      "album": {
+        "name": "SZNZ: Spring",
+        "url": "https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "The Garden of Eden",
+      "url": "https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7"
     },
     {
       "added_at": "2022-03-18 05:24:41",

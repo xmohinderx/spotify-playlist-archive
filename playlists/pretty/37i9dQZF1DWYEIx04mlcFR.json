@@ -1,12 +1,12 @@
 {
   "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Nicole Horts. \ud83c\udf0a\u2728 ",
-  "num_followers": 21934,
+  "num_followers": 21983,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA3MzQ0MywwMDAwMDAzZDAwMDAwMTdmYjhkNTBhMjYwMDAwMDE3ZjUxODc3ZDhl",
+  "snapshot_id": "MTY0ODE4ODAwMCwwMDAwMDAzZTAwMDAwMTdmYmZhOTA3OTAwMDAwMDE3ZjUxODc3ZDhl",
   "tracks": [
     {
       "added_at": "2022-03-11 06:23:50",
@@ -27,18 +27,54 @@
     {
       "added_at": "2022-03-11 06:23:50",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 159378,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "qu\u00e9 voy a hacer conmigo???",
+        "url": "https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 165674,
+      "name": "qu\u00e9 voy a hacer conmigo???",
+      "url": "https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -57,20 +93,52 @@
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
     },
     {
-      "added_at": "2022-03-11 06:23:50",
+      "added_at": "2022-03-25 06:00:00",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "empleado del mes",
+        "url": "https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "empleado del mes",
+      "url": "https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -93,20 +161,20 @@
       "url": "https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK"
     },
     {
-      "added_at": "2022-03-23 22:10:43",
+      "added_at": "2022-03-25 06:00:00",
       "album": {
-        "name": "FAKE",
-        "url": "https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq"
+        "name": "LSNC",
+        "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 160213,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp"
+      "duration_ms": 153711,
+      "name": "LSNC",
+      "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -131,6 +199,38 @@
       "duration_ms": 217797,
       "name": "Te Marqu\u00e9 Pedo - Remix",
       "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 177463,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg"
+    },
+    {
+      "added_at": "2022-03-11 06:23:50",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -169,6 +269,22 @@
       "url": "https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa"
     },
     {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "Relatividad",
+        "url": "https://open.spotify.com/album/0q9gkCFI5cQYr8G4KSW8g4"
+      },
+      "artists": [
+        {
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
+        }
+      ],
+      "duration_ms": 267854,
+      "name": "Relatividad",
+      "url": "https://open.spotify.com/track/2zkpeuVLL6CrQjzRqc6GUR"
+    },
+    {
       "added_at": "2022-03-11 06:23:50",
       "album": {
         "name": "Solo Dime Que S\u00ed",
@@ -187,22 +303,6 @@
       "duration_ms": 204500,
       "name": "Solo Dime Que S\u00ed",
       "url": "https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -239,6 +339,54 @@
       "duration_ms": 262500,
       "name": "aunque quisiera, no podr\u00eda",
       "url": "https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG"
+    },
+    {
+      "added_at": "2022-03-11 06:23:50",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2022-03-11 06:23:50",
+      "album": {
+        "name": "I Like 2 Be",
+        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+    },
+    {
+      "added_at": "2022-03-23 22:10:43",
+      "album": {
+        "name": "FAKE",
+        "url": "https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -299,18 +447,18 @@
     {
       "added_at": "2022-03-11 06:23:50",
       "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
+        "name": "heartbreaker",
+        "url": "https://open.spotify.com/album/6ZtYF02g1gexQ4lIb95qTU"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
         }
       ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+      "duration_ms": 166586,
+      "name": "\u00bfQu\u00e9 M\u00e1s Quieres De M\u00ed?",
+      "url": "https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -327,22 +475,6 @@
       "duration_ms": 166113,
       "name": "Me Jodiste",
       "url": "https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "heartbreaker",
-        "url": "https://open.spotify.com/album/6ZtYF02g1gexQ4lIb95qTU"
-      },
-      "artists": [
-        {
-          "name": "Alan Navarro",
-          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
-        }
-      ],
-      "duration_ms": 166586,
-      "name": "\u00bfQu\u00e9 M\u00e1s Quieres De M\u00ed?",
-      "url": "https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -731,22 +863,6 @@
       "duration_ms": 201601,
       "name": "A Donde Quiero Estar",
       "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "Qu\u00e9 Jodido",
-        "url": "https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 246587,
-      "name": "Qu\u00e9 Jodido",
-      "url": "https://open.spotify.com/track/5ILOjHzlwbtGC2mfxh7nHn"
     },
     {
       "added_at": "2022-03-11 06:23:50",
@@ -1151,22 +1267,6 @@
     {
       "added_at": "2022-03-11 06:23:50",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
         "name": "Respira",
         "url": "https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW"
       },
@@ -1291,22 +1391,6 @@
       "duration_ms": 222638,
       "name": "yo x3",
       "url": "https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "Hoy te Dejo de So\u00f1ar",
-        "url": "https://open.spotify.com/album/2H7dZJggkMv3MXH7ZKSzQm"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 191703,
-      "name": "Hoy te Dejo de So\u00f1ar",
-      "url": "https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM"
     },
     {
       "added_at": "2022-03-11 06:23:50",

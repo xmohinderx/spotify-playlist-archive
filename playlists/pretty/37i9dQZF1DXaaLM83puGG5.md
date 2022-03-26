@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going where ever you are.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,998 likes - 71 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,028 likes - 71 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

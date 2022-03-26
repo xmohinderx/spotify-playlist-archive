@@ -1884,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY"
       },

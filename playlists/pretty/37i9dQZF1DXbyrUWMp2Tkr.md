@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,267 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,441 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 | 49 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 |
 | 50 | [Disciples of the Watch](https://open.spotify.com/track/6bXHw7cdcN45I04pesdWnG) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The New Order](https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569) | 5:07 |
 
-Snapshot ID: `MTY0ODE2OTc1NCwwMDAwMDAwMDM5MTYzNzMyNDUyYmFiNmUzMzUxNjQ5Mzc2MWU5OGY2`
+Snapshot ID: `MTY0ODI1NjIwOCwwMDAwMDAwMDM5MTYzNzMyNDUyYmFiNmUzMzUxNjQ5Mzc2MWU5OGY2`

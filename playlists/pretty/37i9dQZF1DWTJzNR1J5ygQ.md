@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 > It's a Midwest thing\. Cover: Nelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,836 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,140 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

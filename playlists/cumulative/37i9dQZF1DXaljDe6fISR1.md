@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaljDe6fISR1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaljDe6fISR1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaljDe6fISR1)
 
-### Gigantes do Rap Nacional
+### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 

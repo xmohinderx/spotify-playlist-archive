@@ -1,13 +1,81 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 35756,
+  "num_followers": 35776,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA0MjAwMDAwMTdmOWI2NTk1MzEwMDAwMDE3ZWQ5ZWQwNzZm",
+  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDA0MzAwMDAwMTdmYmYzYzE0ZDQwMDAwMDE3ZWQ5ZWQwNzZm",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "The Razor's Edge",
+        "url": "https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "The Razor's Edge",
+      "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Pick a Bale of Cotton",
+        "url": "https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Pick a Bale of Cotton",
+      "url": "https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Bad Man",
+        "url": "https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg"
+      },
+      "artists": [
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        }
+      ],
+      "duration_ms": 279223,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Something's Got a Hold of My Heart / Made Up Mind",
+        "url": "https://open.spotify.com/album/3XZEdt2q21fNTX6ZISUR9l"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 292053,
+      "name": "Something's Got a Hold of My Heart",
+      "url": "https://open.spotify.com/track/6Im2CaHEparEKMF7ooUQ44"
+    },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
@@ -27,6 +95,26 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Blues Without You",
+        "url": "https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        },
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Down To The Bottom",
+      "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
     },
     {
       "added_at": "2022-03-18 05:00:00",

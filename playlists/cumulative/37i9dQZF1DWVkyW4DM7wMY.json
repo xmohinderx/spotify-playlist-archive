@@ -48,6 +48,32 @@
     },
     {
       "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186875,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
+    },
+    {
+      "album": {
         "name": "IFIEVERCANTMAKEIT.JPG",
         "url": "https://open.spotify.com/album/5EUP2zubhoYrkO9kGFgIfd"
       },
@@ -289,6 +315,24 @@
       "duration_ms": 167500,
       "name": "Echoes - Remix",
       "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
+    },
+    {
+      "album": {
+        "name": "Entebbe",
+        "url": "https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232967,
+      "name": "Entebbe",
+      "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
     },
     {
       "album": {
@@ -659,7 +703,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 158400,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH"
@@ -771,6 +815,28 @@
       "duration_ms": 128000,
       "name": "Klabu",
       "url": "https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP"
+    },
+    {
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85947,
+      "name": "Less",
+      "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
     },
     {
       "album": {
@@ -1217,7 +1283,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168121,
       "name": "Panda Shuka",
       "url": "https://open.spotify.com/track/1Kbw16cy2N3q78nDePIcWl"
@@ -1717,7 +1783,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 199436,
       "name": "Tonelabira",
       "url": "https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr"

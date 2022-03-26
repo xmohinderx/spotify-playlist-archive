@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 176091,
       "name": "Breathing Star",
       "url": "https://open.spotify.com/track/2TcvA5WlWyZdLMdQrX05LG"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 208992,
       "name": "Call for Desolation",
       "url": "https://open.spotify.com/track/2bqjTFu2VeFyk4EjP53ZzR"
@@ -3853,7 +3853,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 168113,
       "name": "feelings",
       "url": "https://open.spotify.com/track/2ukdz6UagW44yM6latM2as"
@@ -3889,7 +3889,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 166105,
       "name": "FILO",
       "url": "https://open.spotify.com/track/7ahiYT2P9GsWQ8bkd1vRzn"
@@ -5783,7 +5783,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 218334,
       "name": "Land Of Eternal Spring",
       "url": "https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP"
@@ -6431,7 +6431,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 250933,
       "name": "Minds Traversed",
       "url": "https://open.spotify.com/track/5OxLsoveEfCtK2M3CuqCd7"
@@ -6827,7 +6827,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 159295,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/4pPQehDJIPMstBLVCzouTs"
@@ -7475,7 +7475,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 200000,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN"
@@ -7893,6 +7893,24 @@
       "duration_ms": 211150,
       "name": "Pure Air",
       "url": "https://open.spotify.com/track/5dMI1sHkCxUWvh8vksx0Rz"
+    },
+    {
+      "album": {
+        "name": "Pure And Simple",
+        "url": "https://open.spotify.com/album/2a3C0VnpOuNkCvnMIY82mp"
+      },
+      "artists": [
+        {
+          "name": "Edmund\u2019s Oasis",
+          "url": "https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149365,
+      "name": "Pure And Simple",
+      "url": "https://open.spotify.com/track/4r5bGfbWE7xqjeGT6b7JqX"
     },
     {
       "album": {
@@ -8429,7 +8447,7 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 226000,
       "name": "Sangre",
       "url": "https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1"
@@ -10399,6 +10417,24 @@
       "duration_ms": 139600,
       "name": "Tomorrow's Rain",
       "url": "https://open.spotify.com/track/6k3klAdvGa2JiXTio8IIDr"
+    },
+    {
+      "album": {
+        "name": "Tonals",
+        "url": "https://open.spotify.com/album/67BtMEqyk4L6yvyXwKbQYh"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177038,
+      "name": "Tonals",
+      "url": "https://open.spotify.com/track/2H9IPI2Hu7ctIzPcoaACRC"
     },
     {
       "album": {

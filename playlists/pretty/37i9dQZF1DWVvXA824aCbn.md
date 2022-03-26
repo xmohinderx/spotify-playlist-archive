@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,871 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,906 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 99 | [Late Lament](https://open.spotify.com/track/6Yq7c4xi4og0panpqWtonR) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Late Lament](https://open.spotify.com/album/2WHn7qSpz125SHdgwZK2eL) | 5:58 |
 | 100 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 |
 
-Snapshot ID: `MTY0ODE2OTI1MiwwMDAwMDAwMDE5Mjk4OWNkOTgzMWM4MjUzNzdmNmYzMDRhNjU3ODk2`
+Snapshot ID: `MTY0ODI1NTY5OSwwMDAwMDAwMDE5Mjk4OWNkOTgzMWM4MjUzNzdmNmYzMDRhNjU3ODk2`

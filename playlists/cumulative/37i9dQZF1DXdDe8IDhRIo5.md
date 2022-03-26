@@ -65,6 +65,7 @@
 | [Tico Tico](https://open.spotify.com/track/385JaZTfI5676RUcXfELR3) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Anything for You](https://open.spotify.com/album/5XzaYOo5muDfF8O0sfKMNU) | 2:24 | 2021-02-04 |  |
 | [Trompettes de la renommée](https://open.spotify.com/track/0dNpnqNn3q0tz2HP9ADZOC) | [Les pommes de ma douche](https://open.spotify.com/artist/2851SiC9O0PIsVKjNMtj4f) | [Emules de Django, disciples de Brassens](https://open.spotify.com/album/34wWpd6C8HJTNetiPekD7g) | 3:53 | 2021-02-04 |  |
 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 | 2021-02-04 |  |
+| [You Took Advantage Of Me](https://open.spotify.com/track/6tUfFZc8frmIaHGcj8Iab1) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Romain Vuillemin](https://open.spotify.com/artist/6ESCMyNeWpXYIWGTskmRwe), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2) | [Gustav Lundgren with Romain Vuillemin & Edouard Pennes](https://open.spotify.com/album/4l1mEFdC1RWXlefgkLWHfT) | 3:11 | 2022-03-25 |  |
 | [Zaïdy](https://open.spotify.com/track/3ElE02I5lNr8BAKECanuQQ) | [Ninine Garcia Quintet](https://open.spotify.com/artist/5UnB8qOGibScMC94M1FQbe) | [Nouvelle vie](https://open.spotify.com/album/11X2H1UxSIugEwjJ08PcaX) | 3:35 | 2021-02-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

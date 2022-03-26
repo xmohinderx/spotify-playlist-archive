@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Be\u00e9le y Blessd",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Piso 21 & \u00d1ejo",
   "name": "Popet\u00f3n",
   "published_playlist_ids": [
     "4GGMZcx3ZrrtspE4f42F2z"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2"
+    },
     {
       "album": {
         "name": "2005",
@@ -71,7 +93,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 198542,
       "name": "Alcanc\u00eda",
       "url": "https://open.spotify.com/track/020womZSqTEXnoDptWI6mL"
@@ -372,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Cocoloco",
+        "url": "https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Cocoloco",
+      "url": "https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1ntas veces",
         "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
       },
@@ -501,6 +541,24 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "album": {
+        "name": "Ley De Gravedad",
+        "url": "https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB"
     },
     {
       "album": {
@@ -745,6 +803,24 @@
       "duration_ms": 202000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/1c5Jc2aaUqe6y729qjADLN"
+    },
+    {
+      "album": {
+        "name": "Har\u00e9, Har\u00e9",
+        "url": "https://open.spotify.com/album/6Ddc6DUxj6AmpVbUIHTXSj"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Har\u00e9, Har\u00e9",
+      "url": "https://open.spotify.com/track/4QX4DDZGil1gky7hKSYtCD"
     },
     {
       "album": {
@@ -1002,6 +1078,28 @@
     },
     {
       "album": {
+        "name": "La Tarea",
+        "url": "https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221362,
+      "name": "La Tarea",
+      "url": "https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr"
+    },
+    {
+      "album": {
         "name": "Ley Seca",
         "url": "https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn"
       },
@@ -1197,7 +1295,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 174335,
       "name": "Marpesia",
       "url": "https://open.spotify.com/track/5M4MFwCKS2UFQICLrsxXki"
@@ -1267,6 +1365,28 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/3mB3WRpKN8tTX7bI9qJIJb"
+    },
+    {
+      "album": {
+        "name": "Mereces Menos",
+        "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Mereces Menos",
+      "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
     },
     {
       "album": {
@@ -1385,6 +1505,28 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "album": {
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
       "album": {
@@ -1619,7 +1761,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 171093,
       "name": "Perro Es Perro",
       "url": "https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD"
@@ -1663,6 +1805,32 @@
       "duration_ms": 208760,
       "name": "POR ELLA",
       "url": "https://open.spotify.com/track/2fjfJqLTtNPEAUJUYuUxzZ"
+    },
+    {
+      "album": {
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     },
     {
       "album": {
@@ -1761,7 +1929,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 232348,
       "name": "Recordar",
       "url": "https://open.spotify.com/track/5OqHiduQCQDsOA2SB5CQJJ"
@@ -1783,10 +1951,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
+    },
+    {
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7"
     },
     {
       "album": {
@@ -2141,6 +2331,24 @@
       "duration_ms": 155440,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c"
+    },
+    {
+      "album": {
+        "name": "Vali\u00f3 La Pena",
+        "url": "https://open.spotify.com/album/0tjSbtqRjSDIgiXncDEHx0"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152383,
+      "name": "Vali\u00f3 La Pena",
+      "url": "https://open.spotify.com/track/0ET8DXzYpcYHAXuY6NNfqi"
     },
     {
       "album": {

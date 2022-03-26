@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Colt Ford
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,326 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,345 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 42 | [Talladega Nights](https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Talladega Nights](https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7) | 2:05 |
 | 43 | [Dirt Road Anthem \(Revisited\)](https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:38 |
 | 44 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
-| 45 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 |
+| 45 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 |
 | 46 | [Shawty In The Truck](https://open.spotify.com/track/0gvThRb8Wfo7Lotup0uVTg) | [DJ CANNON BANYON](https://open.spotify.com/artist/2LRrFl4GOEkg86nmlQiGCG), [Samroc](https://open.spotify.com/artist/1m4hS0iTIVDX3LuYAXkvSb), [T.J\. Freeq](https://open.spotify.com/artist/5E1uNCtJkKkFFJe5NvIeiq), [Big Jimmy](https://open.spotify.com/artist/09CKHoyg9Icjir1uOOYKSl), [Mo Beatz](https://open.spotify.com/artist/3PMIDJZdpCViOzn3XZ5Wjt) | [Shawty In The Truck](https://open.spotify.com/album/3rzBqaNxEiFZ0Qjd0Isf8A) | 4:33 |
 | 47 | [Boom In The Boondocks](https://open.spotify.com/track/2eVjwdtfFveTtDcYjJd2EB) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Boom In The Boondocks](https://open.spotify.com/album/3NMusnSQQq78QjwpD9fmEr) | 3:02 |
 | 48 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 80 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 | 81 | [Fire’t Up](https://open.spotify.com/track/5KZhXRh1uDFJLHwz7La3j0) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire't Up](https://open.spotify.com/album/1QVacxKplSJNOvoLTeYDZJ) | 2:56 |
 
-Snapshot ID: `MTY0NzU3NjAwMCwwMDAwMDAzNDAwMDAwMTdmOWIyZWE2ZDEwMDAwMDE3ZjlhYmZkYmY2`
+Snapshot ID: `MTY0ODE4MDgwMCwwMDAwMDAzNTAwMDAwMTdmYmYzYjJhZDUwMDAwMDE3ZjlhYmZkYmY2`

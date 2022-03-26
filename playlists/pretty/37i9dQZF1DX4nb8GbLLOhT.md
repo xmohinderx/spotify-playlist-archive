@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,185 likes - 115 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,201 likes - 115 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [Golden Slumbers \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 2:47 |
 | 115 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
 
-Snapshot ID: `MTY0ODE2OTUzMCwwMDAwMDAwMDQyNGZhZDA5ZDFkZDI2NTQ5YjM1YmM5YTIwOWM2OWE1`
+Snapshot ID: `MTY0ODI1NTk4NCwwMDAwMDAwMDQyNGZhZDA5ZDFkZDI2NTQ5YjM1YmM5YTIwOWM2OWE1`

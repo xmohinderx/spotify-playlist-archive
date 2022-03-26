@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "My Chains Are Gone",
+        "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Amazing Grace / My Chains Are Gone",
+      "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
+    },
+    {
+      "album": {
         "name": "Angels Among Us: Hymns & Gospel Favorites",
         "url": "https://open.spotify.com/album/0j1LQDaUnYrE1yWP6od783"
       },

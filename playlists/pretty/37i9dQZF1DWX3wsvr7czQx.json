@@ -1,13 +1,33 @@
 {
   "description": "Icons only. Cover: Bryan Adams",
-  "num_followers": 3613,
+  "num_followers": 3649,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAxMzAwMDAwMTdmNzc1YWU1YjgwMDAwMDE3ZjZmNGEyZWYz",
+  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDAxNDAwMDAwMTdmYmYzYzE0ZTAwMDAwMDE3ZjZmNGEyZWYz",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
+        "url": "https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "American Song Contest",
+          "url": "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+        }
+      ],
+      "duration_ms": 197807,
+      "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
+      "url": "https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8"
+    },
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
@@ -839,30 +859,6 @@
       "duration_ms": 267207,
       "name": "Precious Time",
       "url": "https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "We Are The People (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
-        "url": "https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bono",
-          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
-        },
-        {
-          "name": "The Edge",
-          "url": "https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
-      "url": "https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK"
     }
   ],
   "unique_name": "Classic Artists New Music",

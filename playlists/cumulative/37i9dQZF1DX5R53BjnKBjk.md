@@ -2,10 +2,11 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
-> As novidades dos artistas independentes que você precisa conhecer\. Foto: Crime Caqui\. Arte: Isu Kim
+> As novidades dos artistas independentes que você precisa conhecer\. Foto: Helo Cleaver\. Arte: Isu Kim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [20 e poucos](https://open.spotify.com/track/6zsyDhdQb7Kk0HLeRjUeLA) | [Belle](https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc) | [20 e poucos](https://open.spotify.com/album/1yNAcEBYQTtemgIrZMUocV) | 2:27 | 2022-03-25 |  |
 | [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 | 2022-02-26 |
 | [Antes e Agora](https://open.spotify.com/track/0ixvkDEjhg6Qgxnm5vx1pk) | [Vintilamor](https://open.spotify.com/artist/7b063540QilA3bvw6qehet) | [Antes e Agora](https://open.spotify.com/album/2Db82NFqE0UYpFajdRUwEi) | 2:55 | 2022-01-07 |  |
 | [Apetite](https://open.spotify.com/track/5ahZdgNIccEiKU1wmUJT45) | [Marina Miglio](https://open.spotify.com/artist/5OS4BFYXloJYiNnyqYK6bH) | [Apetite](https://open.spotify.com/album/7En7KqiCwS09bCfvBaPwMG) | 3:06 | 2022-01-07 |  |
@@ -15,6 +16,7 @@
 | [Beat Lobo \(Mande um Sinal\)](https://open.spotify.com/track/4PnVS3vhthIwnPBZYmYcHD) | [papossa](https://open.spotify.com/artist/1bt9cpALCIOULyKbRwJns9) | [Canções de Smartphone, Vol\. 2](https://open.spotify.com/album/1FAfwo1ziArlfSKa0Gn6US) | 4:07 | 2022-01-07 |  |
 | [Boicu](https://open.spotify.com/track/0JegejUhSjSnMoCqJvsMFB) | [RUBI](https://open.spotify.com/artist/3jQyny7wWlH02qT4sIypRG), [NIFF](https://open.spotify.com/artist/64sN4IAXWvjmd2Dsh5x0Wv) | [O TOMBO](https://open.spotify.com/album/2CJLGbOWZTpTSfR3XaS2VS) | 3:33 | 2022-01-07 |  |
 | [Café](https://open.spotify.com/track/3eXEO5e0GsKElU5etvbhIk) | [Lvtz](https://open.spotify.com/artist/1Y8F4Is3wceZwvWmlq9juL), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [O Disco Que Escrevi Da Janela](https://open.spotify.com/album/3gZQC1bcCd5hFMYFmKpOad) | 3:11 | 2022-01-07 |  |
+| [Café com Leite](https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX) | [Helo Cleaver](https://open.spotify.com/artist/5ddPmN9f59M0HHWxdObC3F) | [Priguis](https://open.spotify.com/album/5uWkRYYKp9dUQjWJFggTI5) | 3:17 | 2022-03-25 |  |
 | [Calmaria](https://open.spotify.com/track/2H10zYHvlmnW3qJYZAL5x5) | [Thiago Ruas](https://open.spotify.com/artist/1reHkoisTePfQQ3kgtEOXJ), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Calmaria](https://open.spotify.com/album/1nM4vUHD1T5IVaVKbu7dep) | 5:14 | 2022-01-07 |  |
 | [Carnaval](https://open.spotify.com/track/1c7HUxuSqQLOm5T5bK2fB8) | [ZAINA](https://open.spotify.com/artist/6jJhhdjcxwEekmGV2cBvOW) | [Carnaval](https://open.spotify.com/album/5dbVY5NJpmtcIV4CeBlqgN) | 3:07 | 2022-02-18 |  |
 | [Carpe Diem](https://open.spotify.com/track/7iGVqFzpfBCg8Q8fJHSPl5) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I) | [Carpe Diem](https://open.spotify.com/album/600kV0xSMSL0FKL175DcVv) | 2:40 | 2022-01-21 | 2022-02-05 |
@@ -53,7 +55,7 @@
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 |  |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 |  |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 |  |
-| [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 |  |
+| [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 |  |
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 |  |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
@@ -64,7 +66,7 @@
 | [O Que Ha La](https://open.spotify.com/track/7nrsy3Mlq8sF8ROJ4PajWx) | [Mulungu](https://open.spotify.com/artist/09e6CSFEi3geEtxuFmri3y) | [O Que Há Lá](https://open.spotify.com/album/01jZA3S7AUVAxgf5px1XdX) | 3:35 | 2022-01-07 |  |
 | [objetos sensíveis](https://open.spotify.com/track/4qbdMHoYoyc6N0fBB3wXim) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [objetos sensíveis](https://open.spotify.com/album/5UODkKaAqXRsU6icUCpL36) | 2:53 | 2022-01-07 |  |
 | [Olhos Coloridos](https://open.spotify.com/track/16uWITf1BYQrxq9579qi5n) | [Oblomov](https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7) | [Oblomov II](https://open.spotify.com/album/0F9fNWVNLnhNJSaCOjSEAs) | 5:22 | 2022-01-07 |  |
-| [Orfeu](https://open.spotify.com/track/6e7WdQ8m93gu91m4Qrt9rl) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Orfeu](https://open.spotify.com/album/2FWeHrVr8JHKxi8Q8XJtR5) | 2:49 | 2022-01-07 |  |
+| [Orfeu](https://open.spotify.com/track/6e7WdQ8m93gu91m4Qrt9rl) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Orfeu](https://open.spotify.com/album/2FWeHrVr8JHKxi8Q8XJtR5) | 2:49 | 2022-01-07 | 2022-03-26 |
 | [Paraíso](https://open.spotify.com/track/4jWowg9G99UztDCjW41i7T) | [Mario MP](https://open.spotify.com/artist/6Yvq0nboAiaidaVEXRorfS) | [Paraíso](https://open.spotify.com/album/0OpTjEJgTrEXjCf1I71SOi) | 3:11 | 2022-01-07 | 2022-02-19 |
 | [Paraíso Astral](https://open.spotify.com/track/04dKPoNUfNnAQldSvWFei0) | [Guma](https://open.spotify.com/artist/0ZzAWoYMZEgOwz3jz4LbQF) | [Paraíso Astral](https://open.spotify.com/album/5MFfEqDIkfHMYVE7H5gTFv) | 3:50 | 2022-01-07 |  |
 | [Pedra Preta](https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq) | [Josy.Anne](https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH) | [Mozamba](https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS) | 4:45 | 2022-01-21 |  |
@@ -81,6 +83,7 @@
 | [REGRESSO](https://open.spotify.com/track/5AL8P55NaoIcO6UzVTyxli) | [Marvi](https://open.spotify.com/artist/42malNkzNeM1gwlbD5zYk2), [Reversa](https://open.spotify.com/artist/5sI77g2fCFCleHCJqrts1u) | [LAMA](https://open.spotify.com/album/5rwf7TwwUogHHB4zpPv2I6) | 2:47 | 2022-01-07 | 2022-01-15 |
 | [Saltos de Realidade](https://open.spotify.com/track/2AXZSybVqhbRbRuI7aGO19) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Bebé](https://open.spotify.com/album/6JAI4RgT7MCp8tEoKTwmKB) | 3:12 | 2022-01-07 |  |
 | [Samba do Delírio](https://open.spotify.com/track/5H81SifZB6ypcyjIh7L3Uj) | [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Samba do Delírio](https://open.spotify.com/album/2TmbxV3EgXJXqB4T5XDUOS) | 4:11 | 2022-01-07 |  |
+| [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 | 2022-03-25 |  |
 | [Sedução Vegetal](https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO) | [Matheus Souto](https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp) | [Sedução Vegetal](https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh) | 5:35 | 2022-01-07 |  |
 | [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 2:28 | 2022-02-04 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 |  |

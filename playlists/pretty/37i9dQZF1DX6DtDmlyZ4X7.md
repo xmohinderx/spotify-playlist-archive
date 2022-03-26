@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,009 likes - 400 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,006 likes - 400 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 399 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 |
 | 400 | [Veszprém](https://open.spotify.com/track/2ZC0zLg4UMtC4AFWTd34Ly) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Veszprém](https://open.spotify.com/album/51QJQwxCAO6ol5ZVG7vL1U) | 3:01 |
 
-Snapshot ID: `MTY0ODE2OTU4MCwwMDAwMDAwMGZiNGU2YzliZTExM2U5NmM5NTI1ZDMzNzJkYmUzMGIx`
+Snapshot ID: `MTY0ODI1NjAzNCwwMDAwMDAwMGZiNGU2YzliZTExM2U5NmM5NTI1ZDMzNzJkYmUzMGIx`

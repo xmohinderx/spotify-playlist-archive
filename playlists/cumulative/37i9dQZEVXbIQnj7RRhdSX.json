@@ -3867,7 +3867,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -4785,7 +4785,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 165226,
       "name": "Fumo Erba",
       "url": "https://open.spotify.com/track/2uZOFf1VMUfzZEf9rPtpu4"
@@ -6086,24 +6086,6 @@
     },
     {
       "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "date_added": "2022-03-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144520,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT"
-    },
-    {
-      "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
       },
@@ -6119,6 +6101,24 @@
       "duration_ms": 170960,
       "name": "Intro",
       "url": "https://open.spotify.com/track/07hmvoBWeqPwyhGwODFAc2"
+    },
+    {
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Intro (Cielo)",
+      "url": "https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT"
     },
     {
       "album": {
@@ -9701,7 +9701,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-06",
+      "date_removed": null,
       "duration_ms": 177310,
       "name": "Occhi rossi",
       "url": "https://open.spotify.com/track/0KS1D0MaqgqYku6LDj3ekl"
@@ -12303,7 +12303,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 186106,
       "name": "Stelle",
       "url": "https://open.spotify.com/track/66AUa1k42pssdUkFCDOhC8"
@@ -12559,7 +12559,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 205026,
       "name": "Sulla Giostra",
       "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
@@ -12675,7 +12675,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 128391,
       "name": "TARANTELLE",
       "url": "https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss"

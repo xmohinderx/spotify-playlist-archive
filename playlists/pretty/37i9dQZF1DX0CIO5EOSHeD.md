@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: fanclubwallet
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,617 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,786 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 |
 | 100 | [Flowers](https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Flowers](https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM) | 2:28 |
 
-Snapshot ID: `MTY0ODE2OTM4MywwMDAwMDAwMGU1MzBjMmFmYTFiZjIxN2EwMjdkM2JlNzhjZTI1YjVi`
+Snapshot ID: `MTY0ODI1NTgzMywwMDAwMDAwMGU1MzBjMmFmYTFiZjIxN2EwMjdkM2JlNzhjZTI1YjVi`

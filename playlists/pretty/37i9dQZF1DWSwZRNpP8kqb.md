@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra\. Foto: Flor Paz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,634 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,643 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [Pecnectao](https://open.spotify.com/track/6u81JlGPvFBHm3TBClBXps) | [Paula Neder](https://open.spotify.com/artist/2MPDqzRlmcCjqAKMPbU1pb), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [illa](https://open.spotify.com/album/4cfbzZI3A18wvDsQGbKFJR) | 3:27 |
 | 75 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 |
 
-Snapshot ID: `MTY0ODE2OTE1OCwwMDAwMDAwMGE4ZWQ4MGFmNzM0MjA4ZTcwOGM5OTljNTE1M2JlMjkw`
+Snapshot ID: `MTY0ODI1NTYwNSwwMDAwMDAwMGE4ZWQ4MGFmNzM0MjA4ZTcwOGM5OTljNTE1M2JlMjkw`

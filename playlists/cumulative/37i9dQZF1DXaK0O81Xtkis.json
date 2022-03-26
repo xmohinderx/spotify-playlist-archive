@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "shake it up and let it pop! cover: Dreamer Boy",
+  "description": "shake it up and let it pop! cover: COIN",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 174368,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 216187,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM"
@@ -541,6 +541,24 @@
       "duration_ms": 199773,
       "name": "Catch Myself",
       "url": "https://open.spotify.com/track/6accWkHJFVQElZ5aTwdBMQ"
+    },
+    {
+      "album": {
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/0ZCt0jWZtI1JZUJ84cLoyC"
+      },
+      "artists": [
+        {
+          "name": "LOWBORN",
+          "url": "https://open.spotify.com/artist/0tAM9QPUwdBLBPbtOzJD09"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167288,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/0sFO6b53HyYK3PUi41H93d"
     },
     {
       "album": {
@@ -815,6 +833,28 @@
       "duration_ms": 127620,
       "name": "Die Right Here",
       "url": "https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz"
+    },
+    {
+      "album": {
+        "name": "Disappointment (feat. Rxseboy)",
+        "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142092,
+      "name": "Disappointment (feat. Rxseboy)",
+      "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
     },
     {
       "album": {
@@ -1323,7 +1363,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
@@ -1745,7 +1785,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 217243,
       "name": "if jesus saves, she's my type",
       "url": "https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH"
@@ -1807,6 +1847,24 @@
       "duration_ms": 144438,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/4jLiu89QIhVwAES7bvSpWk"
+    },
+    {
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN"
     },
     {
       "album": {
@@ -2524,6 +2582,28 @@
     },
     {
       "album": {
+        "name": "POINT",
+        "url": "https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW"
+      },
+      "artists": [
+        {
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
+        },
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206185,
+      "name": "POINT",
+      "url": "https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G"
+    },
+    {
+      "album": {
         "name": "popstar",
         "url": "https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE"
       },
@@ -2575,7 +2655,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
@@ -2723,6 +2803,24 @@
       "duration_ms": 159244,
       "name": "Run For Your Money",
       "url": "https://open.spotify.com/track/0pn8aJZkNWO9kOfQRnCQmc"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1Td33W13Kvh7xAam42b2pK"
+      },
+      "artists": [
+        {
+          "name": "Seb Torgus",
+          "url": "https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218524,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6DwesuBTzYmdAjTynjuKEd"
     },
     {
       "album": {
@@ -3317,7 +3415,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 226154,
       "name": "The Curse",
       "url": "https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT"
@@ -3773,6 +3871,24 @@
       "duration_ms": 179253,
       "name": "You Shaped Hole",
       "url": "https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7"
+    },
+    {
+      "album": {
+        "name": "LOSS ANGELES: OVERDOSE",
+        "url": "https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W"
+      },
+      "artists": [
+        {
+          "name": "RILEY",
+          "url": "https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "YOUR GHOST",
+      "url": "https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz"
     },
     {
       "album": {

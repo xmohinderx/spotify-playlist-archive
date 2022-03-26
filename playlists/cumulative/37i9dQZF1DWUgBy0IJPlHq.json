@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Hailey Whitters",
+  "description": "A new shade of Country. Cover: Ian Noe",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "All You Got",
+        "url": "https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193320,
+      "name": "All You Got",
+      "url": "https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI"
+    },
+    {
+      "album": {
         "name": "Back Down Home",
         "url": "https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 314480,
       "name": "Ballad Of Lost",
       "url": "https://open.spotify.com/track/4xSBlVA2y2bGbpgmZDzGWM"
@@ -733,6 +751,28 @@
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275054,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
     },
     {
       "album": {
@@ -1693,7 +1733,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 159303,
       "name": "Love Is A Magnet",
       "url": "https://open.spotify.com/track/6Whw6zB6yZhUjvCWQXqXyB"
@@ -1805,6 +1845,24 @@
       "duration_ms": 191986,
       "name": "Misery And Gin",
       "url": "https://open.spotify.com/track/0adJ2biCBdsGx8UvQHOo0E"
+    },
+    {
+      "album": {
+        "name": "Monkey in the Middle",
+        "url": "https://open.spotify.com/album/60Q2AAD32xJgAfxFQV3MKA"
+      },
+      "artists": [
+        {
+          "name": "Dave Hause",
+          "url": "https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Monkey in the Middle",
+      "url": "https://open.spotify.com/track/36NTnP2EXnqdmasNeXA88y"
     },
     {
       "album": {
@@ -2039,7 +2097,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 245946,
       "name": "Pine Grove (Madhouse)",
       "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
@@ -2307,10 +2365,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 200672,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ"
+    },
+    {
+      "album": {
+        "name": "Something on Your Mind (Alternate Take)",
+        "url": "https://open.spotify.com/album/1QH2Bjoy2eRCt4h7nuJwmI"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202690,
+      "name": "Something on Your Mind (Alternate Take)",
+      "url": "https://open.spotify.com/track/4Kx8inK6bc9CZzeMek9egh"
     },
     {
       "album": {
@@ -2351,6 +2427,28 @@
       "duration_ms": 258061,
       "name": "State Of Mind (feat. Margo Price)",
       "url": "https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV"
+    },
+    {
+      "album": {
+        "name": "Storms Never Last",
+        "url": "https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202582,
+      "name": "Storms Never Last",
+      "url": "https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa"
     },
     {
       "album": {
@@ -2647,7 +2745,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 192458,
       "name": "The Light Saw Me",
       "url": "https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur"
@@ -2833,6 +2931,24 @@
       "duration_ms": 168124,
       "name": "This Town (feat. Shakey Graves)",
       "url": "https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ"
+    },
+    {
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "album": {
@@ -3039,7 +3155,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 271825,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs"
@@ -3069,6 +3185,24 @@
       "duration_ms": 231749,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6"
+    },
+    {
+      "album": {
+        "name": "Whose God Is This?",
+        "url": "https://open.spotify.com/album/7m1gUIPvku2bAqyBH0HibY"
+      },
+      "artists": [
+        {
+          "name": "Will Hoge",
+          "url": "https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314174,
+      "name": "Whose God Is This?",
+      "url": "https://open.spotify.com/track/5QEQGO6pC9FDMy8BcgIO2D"
     },
     {
       "album": {
@@ -3257,6 +3391,24 @@
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "album": {
+        "name": "You, Somehow",
+        "url": "https://open.spotify.com/album/70wDZDBNMMUm21MO3PIAxu"
+      },
+      "artists": [
+        {
+          "name": "Bailey Bigger",
+          "url": "https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "You, Somehow",
+      "url": "https://open.spotify.com/track/1yzCyaK0vw5Dk5Auqu8wSw"
     },
     {
       "album": {

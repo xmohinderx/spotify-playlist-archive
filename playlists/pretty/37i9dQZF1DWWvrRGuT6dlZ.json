@@ -1,12 +1,12 @@
 {
   "description": "Unearthing your new favourite artists. Cover: YANA. Artwork: Isu Kim.",
-  "num_followers": 4186,
+  "num_followers": 4191,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODEzODQwNCwwMDAwMDA0MzAwMDAwMTdmYmNiNDQxZjYwMDAwMDE3ZmJjYjNmYWFi",
+  "snapshot_id": "MTY0ODE4Nzg3NCwwMDAwMDA0NDAwMDAwMTdmYmZhNzFkNDYwMDAwMDE3ZmJjYjNmYWFi",
   "tracks": [
     {
       "added_at": "2022-03-24 16:13:24",
@@ -55,6 +55,22 @@
       "duration_ms": 206000,
       "name": "Distant Love",
       "url": "https://open.spotify.com/track/5bA9CDXm4tD063u6PQEOeT"
+    },
+    {
+      "added_at": "2022-03-25 05:57:54",
+      "album": {
+        "name": "Menunggu",
+        "url": "https://open.spotify.com/album/0B2S4u0uLlT2z3BTqjcYMl"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Menunggu",
+      "url": "https://open.spotify.com/track/7InRTm84qWaAhEIvcg97ai"
     },
     {
       "added_at": "2022-03-24 16:13:24",

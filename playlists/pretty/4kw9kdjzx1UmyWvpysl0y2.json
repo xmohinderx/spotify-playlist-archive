@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128366,
+  "num_followers": 128375,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMxOSw0YzhhZmNhM2EzOGExNDM5ZjMzYjgxMTU3MGEwZGEwNzA5ZWZlZmJm",
+  "snapshot_id": "MzMyMyxhMjA3M2JiYTZiZTRjNDU2MjUyYzFjNDViYjAxNzc0YWY4OWRjMTQy",
   "tracks": [
+    {
+      "added_at": "2022-03-25 16:07:53",
+      "album": {
+        "name": "just wanna luv",
+        "url": "https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 257278,
+      "name": "just wanna luv",
+      "url": "https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee"
+    },
+    {
+      "added_at": "2022-03-25 16:07:43",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL"
+      },
+      "artists": [
+        {
+          "name": "Aftruu",
+          "url": "https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK"
+    },
     {
       "added_at": "2022-03-24 17:25:01",
       "album": {
@@ -1099,42 +1131,6 @@
       "duration_ms": 178519,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Wheel Of Life",
-        "url": "https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR"
-      },
-      "artists": [
-        {
-          "name": "IPeiqi",
-          "url": "https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Wheel Of Life",
-      "url": "https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Arms Race",
-        "url": "https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ"
-      },
-      "artists": [
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        },
-        {
-          "name": "Direct",
-          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "Arms Race",
-      "url": "https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

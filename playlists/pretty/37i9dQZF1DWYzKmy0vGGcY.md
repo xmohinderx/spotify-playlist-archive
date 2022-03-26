@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,789 likes - 123 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,987 likes - 123 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 122 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
 | 123 | [The Tracks Of My Tears](https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW) | 2:54 |
 
-Snapshot ID: `MTY0ODE2OTM0NiwwMDAwMDAwMGFiZWE2MjhjYzJhMjAzOTBkOGU4N2E5NDJkMmRmODgw`
+Snapshot ID: `MTY0ODI1NTc5NiwwMDAwMDAwMGFiZWE2MjhjYzJhMjAzOTBkOGU4N2E5NDJkMmRmODgw`

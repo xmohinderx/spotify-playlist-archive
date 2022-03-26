@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-24",
   "description": "\ud83d\ude82 \ud83d\ude82 \ud83d\ude82 pz e maneirinho reis do cpx ",
   "name": "creme",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5KoqCQZRKW4rzG9099X41H"
+  ],
   "tracks": [
     {
       "album": {
@@ -85,6 +87,24 @@
       "duration_ms": 261333,
       "name": "Amor e Amor",
       "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
+    },
+    {
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
     },
     {
       "album": {
@@ -421,7 +441,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 201682,
       "name": "Final de Semana",
       "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
@@ -647,7 +667,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 125142,
       "name": "Mds",
       "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
@@ -785,6 +805,40 @@
       "duration_ms": 156153,
       "name": "Oi, Como Ce T\u00e1?",
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
+    },
+    {
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3feoSyeCZPVS0SROIuQr8j"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "The very best in new music from around the world. ",
-  "num_followers": 302534,
+  "description": "The very best in new music from around the world. Cover: Ed Sheeran & J Balvin",
+  "num_followers": 302632,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE2MjgwMCwwMDAwMDM2NzAwMDAwMTdmYmUyODgyNzAwMDAwMDE3ZmJlMWQ2YjMz",
+  "snapshot_id": "MTY0ODE3MTIwNywwMDAwMDM2ODAwMDAwMTdmYmVhOGNhZTUwMDAwMDE3ZmJlYTg0YzQx",
   "tracks": [
     {
       "added_at": "2022-03-24 23:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-03-24 23:00:00",
       "album": {
+        "name": "Stars In The Sky",
+        "url": "https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 185668,
+      "name": "Stars In The Sky",
+      "url": "https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR"
       },
@@ -441,7 +457,7 @@
         },
         {
           "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/5tn3cJfj8pkCof4CaV7bzt"
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         }
       ],
       "duration_ms": 145174,
@@ -655,6 +671,22 @@
     {
       "added_at": "2022-03-24 23:00:00",
       "album": {
+        "name": "Yellow Tape 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "I Be",
+      "url": "https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
         "name": "Mojando Asientos (feat. Feid)",
         "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
       },
@@ -671,6 +703,22 @@
       "duration_ms": 252162,
       "name": "Mojando Asientos (feat. Feid)",
       "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/4rXfbIpiDnGxZYIflm8LSQ"
     },
     {
       "added_at": "2022-03-24 23:00:00",
@@ -1123,6 +1171,22 @@
     {
       "added_at": "2022-03-24 23:00:00",
       "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "Hoochie Mama",
+      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/6cpfWSy3Tw6ZJtmbO4j7qC"
       },
@@ -1291,6 +1355,22 @@
       "duration_ms": 233211,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh"
+    },
+    {
+      "added_at": "2022-03-24 23:00:00",
+      "album": {
+        "name": "White Orchids",
+        "url": "https://open.spotify.com/album/5kisFZt1dfCkmN312AwGh0"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "duration_ms": 176774,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/6mP7CeP3ZjmRNSBRlQGhyQ"
     },
     {
       "added_at": "2022-03-24 23:00:00",

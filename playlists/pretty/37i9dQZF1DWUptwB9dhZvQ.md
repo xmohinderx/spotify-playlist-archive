@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Ajith Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,557 likes - 56 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,586 likes - 56 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 55 | [Master the Blaster \- Background Score](https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:32 |
 | 56 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 |
 
-Snapshot ID: `MTY0ODE2OTIxNSwwMDAwMDAwMDMwODRhMjFmMDBmNDllMjM3NzJjN2ZiZDE3NTdjMzdl`
+Snapshot ID: `MTY0ODI1NTY2MiwwMDAwMDAwMDMwODRhMjFmMDBmNDllMjM3NzJjN2ZiZDE3NTdjMzdl`

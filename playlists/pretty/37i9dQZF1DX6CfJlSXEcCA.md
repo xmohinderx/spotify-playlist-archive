@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,756 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,758 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
 | 50 | [CRISTAR MYMINE STAGE](https://open.spotify.com/track/5sNAphLSbEDIiM9fPOEcnv) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [ロックマンX2 サウンド コレクション](https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89) | 1:36 |
 
-Snapshot ID: `MTY0ODE2OTU3OSwwMDAwMDAwMDliYmM1ZmI5YmQyZDM2YjE4NzMyY2E5YWI0MTBjZmFh`
+Snapshot ID: `MTY0ODI1NjAzMywwMDAwMDAwMDliYmM1ZmI5YmQyZDM2YjE4NzMyY2E5YWI0MTBjZmFh`

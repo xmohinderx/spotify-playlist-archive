@@ -546,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201901,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
+    },
+    {
+      "album": {
         "name": "Beneath the Crystal Veil",
         "url": "https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB"
       },

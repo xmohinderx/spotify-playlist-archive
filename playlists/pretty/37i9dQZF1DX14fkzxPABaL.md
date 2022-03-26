@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Luis Fonsi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,261 likes - 107 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,407 likes - 107 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

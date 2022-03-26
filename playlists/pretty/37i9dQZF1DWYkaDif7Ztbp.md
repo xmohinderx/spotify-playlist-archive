@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=1M6y1E0lQJWOhJ5CpaFWEQ" > Pheelz </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=v814uCbPQMS7I25p4aMPnw" > Rema </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,113 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,932 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
 | 50 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
 
-Snapshot ID: `MTY0ODE2MjgwMCwwMDAwMDIzMzAwMDAwMTdmYmUyODgyNzQwMDAwMDE3ZmJjNjAyYWQy`
+Snapshot ID: `MTY0ODIyMzU0NCwwMDAwMDIzNTAwMDAwMTdmYzFjNzYzMTIwMDAwMDE3ZmJjNjAyYWQy`

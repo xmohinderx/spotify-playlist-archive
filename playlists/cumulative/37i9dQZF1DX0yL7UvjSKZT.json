@@ -724,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb"
+      },
+      "artists": [
+        {
+          "name": "Michelle Rivers",
+          "url": "https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245703,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb"
       },
@@ -1183,6 +1201,24 @@
       "duration_ms": 211120,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC"
+    },
+    {
+      "album": {
+        "name": "Coyote Red",
+        "url": "https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah"
+      },
+      "artists": [
+        {
+          "name": "Bailey Bigger",
+          "url": "https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323533,
+      "name": "No Falling Out of Love",
+      "url": "https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq"
     },
     {
       "album": {
@@ -2165,6 +2201,24 @@
       "duration_ms": 225721,
       "name": "You Look Like Trouble - But I Guess I Do Too",
       "url": "https://open.spotify.com/track/7KVUUbgwJsr5upohiyQkW7"
+    },
+    {
+      "album": {
+        "name": "You Never Told Me I Was Pretty",
+        "url": "https://open.spotify.com/album/1eeJNt5xneBYT3kqOFmMap"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222850,
+      "name": "You Never Told Me I Was Pretty",
+      "url": "https://open.spotify.com/track/60L5IGUFyaYbq5trTeXris"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,199 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,211 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Reggaeprofil Feat\. Jr Erik](https://open.spotify.com/track/01YRjjmY3VmYixPrVPV3TR) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/0dSRC0KYXkkQMCSPo72LHX) | 3:47 |
 | 50 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
 
-Snapshot ID: `MTY0ODE2OTUxMywwMDAwMDAwMDc2MjkyYTFlNjYzNGYzZDEwZDgxNmExNzBjNGQ4NzNi`
+Snapshot ID: `MTY0ODI1NTk2OCwwMDAwMDAwMDc2MjkyYTFlNjYzNGYzZDEwZDgxNmExNzBjNGQ4NzNi`

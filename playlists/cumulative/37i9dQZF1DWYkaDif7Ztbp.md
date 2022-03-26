@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=1M6y1E0lQJWOhJ5CpaFWEQ" > Pheelz </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=v814uCbPQMS7I25p4aMPnw" > Rema </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

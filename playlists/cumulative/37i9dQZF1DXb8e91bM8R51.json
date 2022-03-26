@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 238453,
       "name": "10 More Commandments (feat. Diddy)",
       "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
@@ -63,10 +63,46 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "1999",
       "url": "https://open.spotify.com/track/70Y2ZoJssFfGhqIxWfdDeP"
+    },
+    {
+      "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+    },
+    {
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187416,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
     },
     {
       "album": {
@@ -117,7 +153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 309570,
       "name": "AMERICAN HORROR STORY",
       "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
@@ -415,7 +451,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
@@ -586,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -645,7 +699,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 155200,
       "name": "COUNT ON ME",
       "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
@@ -667,7 +721,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 160948,
       "name": "Crypto (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
@@ -700,6 +754,42 @@
     },
     {
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
+        "name": "Labcabincalifornia",
+        "url": "https://open.spotify.com/album/7fnTiSzHCHm5T6wIhRWKqe"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336293,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/3JRpLfo1JmUL2LLeTWksN3"
+    },
+    {
+      "album": {
         "name": "King's Disease II",
         "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
       },
@@ -723,6 +813,24 @@
       "duration_ms": 214434,
       "name": "EPMD 2 (feat. Eminem & EPMD)",
       "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
+    },
+    {
+      "album": {
+        "name": "Body Of The Life Force",
+        "url": "https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96"
+      },
+      "artists": [
+        {
+          "name": "Afu-Ra",
+          "url": "https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277320,
+      "name": "Equality",
+      "url": "https://open.spotify.com/track/5rIq9qIH2NERKuolO6CNEz"
     },
     {
       "album": {
@@ -807,7 +915,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 339826,
       "name": "Fakin Jax",
       "url": "https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV"
@@ -938,6 +1046,28 @@
     },
     {
       "album": {
+        "name": "Fujiko Mine",
+        "url": "https://open.spotify.com/album/2qdAWykXw1exE20SGs5dPN"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Mc Melodee",
+          "url": "https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127379,
+      "name": "Fujiko Mine",
+      "url": "https://open.spotify.com/track/4KsbuHaxln15tNMk1IMPyq"
+    },
+    {
+      "album": {
         "name": "FWMGAB",
         "url": "https://open.spotify.com/album/58zbc1nYIQmLd4rxnH1Blt"
       },
@@ -989,7 +1119,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 190812,
       "name": "G Lock",
       "url": "https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC"
@@ -1029,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -1165,7 +1295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 219773,
       "name": "Good Thing (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE"
@@ -1239,7 +1369,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 223364,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/62Xth0Qh5PZrz1Xc6eEUxM"
@@ -1283,7 +1413,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 175040,
       "name": "Grinding All My Life",
       "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
@@ -1455,7 +1585,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 239954,
       "name": "Insomniak (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
@@ -1477,7 +1607,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 277666,
       "name": "It's a Party (feat. Zhane)",
       "url": "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
@@ -1637,7 +1767,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 184508,
       "name": "Legend",
       "url": "https://open.spotify.com/track/0SRRejumehaZSuf1BJ6rVA"
@@ -1677,7 +1807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 391656,
       "name": "Life Of The Party (with Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/2yBb1CRq98SSWRuDSn36SZ"
@@ -1715,7 +1845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 216761,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/2CWQS8nDKjISOvFLasSXEh"
@@ -1741,7 +1871,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
@@ -1767,6 +1897,32 @@
       "duration_ms": 154432,
       "name": "Lonely (with Lil Wayne)",
       "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
+    },
+    {
+      "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174862,
+      "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
+      "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
     },
     {
       "album": {
@@ -1867,6 +2023,42 @@
       "duration_ms": 222169,
       "name": "Manifestin",
       "url": "https://open.spotify.com/track/1WStBZcSBOEaRibN9BFSA0"
+    },
+    {
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/4jZI8SruF5N6sKJoWItEhl"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Mathematics",
+      "url": "https://open.spotify.com/track/32W1K50AaXGXoRBn3Zyax4"
+    },
+    {
+      "album": {
+        "name": "Hold It Down",
+        "url": "https://open.spotify.com/album/2t70lfxoIbKZHKFKN9ZnqE"
+      },
+      "artists": [
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "Microphone Master",
+      "url": "https://open.spotify.com/track/4HBjg3KAkjoHZFWQL6STl5"
     },
     {
       "album": {
@@ -2006,6 +2198,28 @@
     },
     {
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/7mUzxkBleB7QiVUw6wJsXU"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        },
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Music (feat. Marvin Gaye)",
+      "url": "https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx"
+    },
+    {
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -2109,6 +2323,24 @@
       "duration_ms": 152746,
       "name": "No Bark When I Bite (feat. Rick Ross & Cruel Youth)",
       "url": "https://open.spotify.com/track/1ab84pPNDrYToyqsYj9skD"
+    },
+    {
+      "album": {
+        "name": "No Effort",
+        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "No Effort",
+      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
     },
     {
       "album": {
@@ -2223,7 +2455,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 292727,
       "name": "Olathe (feat. Conway The Machine)",
       "url": "https://open.spotify.com/track/3MehQXb6wyDgB7nJ0ZXHsH"
@@ -2289,10 +2521,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
+    },
+    {
+      "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
       "album": {
@@ -2307,7 +2557,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Player's Ball",
       "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
@@ -2439,7 +2689,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
@@ -2490,6 +2740,40 @@
     },
     {
       "album": {
+        "name": "Wu-Tang Forever",
+        "url": "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321733,
+      "name": "Reunited (feat. GZA, Ol' Dirty Bastard, RZA & Method Man)",
+      "url": "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"
+    },
+    {
+      "album": {
         "name": "Rice N Gravy - A COLORS SHOW",
         "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
       },
@@ -2501,7 +2785,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 159733,
       "name": "Rice N Gravy - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
@@ -2633,7 +2917,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
@@ -2659,7 +2943,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 267520,
       "name": "Run This Town",
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
@@ -2801,7 +3085,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 152009,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/5CiYxsCieteb5iMjrHAkvV"
@@ -2863,7 +3147,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 111498,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
@@ -2965,7 +3249,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 208131,
       "name": "Strangeland",
       "url": "https://open.spotify.com/track/6kJ2PNOQeVBe3mVcYulVQL"
@@ -3013,7 +3297,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 223904,
       "name": "Sucka Free (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/4BsT04mOym0M60CbG6uMf3"
@@ -3031,7 +3315,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 177553,
       "name": "Super",
       "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
@@ -3127,7 +3411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 193293,
       "name": "Tequila Shots",
       "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
@@ -3317,6 +3601,28 @@
       "duration_ms": 194453,
       "name": "Top Gone (with Lunay)",
       "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "album": {
+        "name": "Troubles [Feat. T-Pain]",
+        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Troubles [Feat. T-Pain]",
+      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
     },
     {
       "album": {
@@ -3633,7 +3939,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
@@ -3655,7 +3961,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 191088,
       "name": "What's Life - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3"

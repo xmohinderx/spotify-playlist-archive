@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,009 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,099 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 12 | [Make You Smile](https://open.spotify.com/track/7au23Qf6zRs72N3RztqUQe) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 2:59 |
 | 13 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 14 | [Come & Go](https://open.spotify.com/track/1jTrQnMziyawXMHjd6y4R1) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Come & Go](https://open.spotify.com/album/1iOQNkFxtPkiZDYq9RZDyV) | 2:59 |
-| 15 | [Rockstar Manners](https://open.spotify.com/track/5kpMBRlNBmjz7ZXHnlfvrB) | [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [LJ](https://open.spotify.com/artist/42y45LydiRf0iKGoTQuvNX) | [Rockstar Manners](https://open.spotify.com/album/12DWBA8ciLu76iQxrZq0z6) | 5:17 |
+| 15 | [Rockstar Manners](https://open.spotify.com/track/5kpMBRlNBmjz7ZXHnlfvrB) | [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [L Jugg](https://open.spotify.com/artist/2RZZzC681hn2CY4ONzshNk) | [Rockstar Manners](https://open.spotify.com/album/12DWBA8ciLu76iQxrZq0z6) | 5:17 |
 | 16 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 17 | [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 |
 | 18 | [Shine](https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Shine](https://open.spotify.com/album/7kNpJfdJrvzVZuwWvt2w0S) | 2:33 |

@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+    },
+    {
+      "album": {
         "name": "7 De Mayo",
         "url": "https://open.spotify.com/album/1nKovORSFiC5BVIhuZAHBP"
       },
@@ -285,7 +303,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 140130,
       "name": "Basura",
       "url": "https://open.spotify.com/track/0cYBYOIh4MBfqKTJLW7l7B"
@@ -479,6 +497,28 @@
       "duration_ms": 271646,
       "name": "DHARMA",
       "url": "https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV"
+    },
+    {
+      "album": {
+        "name": "Dios y La Muerte",
+        "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172126,
+      "name": "Dios y La Muerte",
+      "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
     },
     {
       "album": {
@@ -1669,7 +1709,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 213529,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/70GICKO4fojYsRGUx4nb4z"

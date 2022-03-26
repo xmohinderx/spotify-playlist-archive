@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,952 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,020 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 12 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 | 13 | [FFVII REMAKE: ガードスコーピオン \(Scorpion Sentinel\)](https://open.spotify.com/track/5BddF0DpRH8civu6HEXWyv) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [島 翔太朗](https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:10 |
 | 14 | [Prologue](https://open.spotify.com/track/3EvqjPztsK8K4OESVMRLzj) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IV Original Soundtrack](https://open.spotify.com/album/55779J248b7xDIJd3iExEn) | 1:10 |
-| 15 | [ファイナルファンタジーⅤ メインテーマ](https://open.spotify.com/track/0qISKNeLG1769LrJDOl6ke) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:37 |
-| 16 | [ビッグブリッヂの死闘](https://open.spotify.com/track/6g30UbvYBlZqGb2ZPuoGDg) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:29 |
+| 15 | [Main Theme of Final Fantasy V](https://open.spotify.com/track/0qISKNeLG1769LrJDOl6ke) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:37 |
+| 16 | [Battle at the Big Bridge](https://open.spotify.com/track/6g30UbvYBlZqGb2ZPuoGDg) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:29 |
 | 17 | [Somnus \- Instrumental Version](https://open.spotify.com/track/6b1n2ORIYdDD5zrbUS0z1H) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 2:32 |
 | 18 | [JENOVA](https://open.spotify.com/track/3Kgg6qCVCH7pKOqMYjrWgQ) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 2:32 |
 | 19 | [Heavensward](https://open.spotify.com/track/4YsrOSomyvkRQvFwE5j8Lw) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Dust to Dust](https://open.spotify.com/track/4lGaNYZ9iEZ8dbySaE87Am) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 3:48 |
 | 100 | [Precipitous Combat](https://open.spotify.com/track/2eyaZmFVMi4JzfNMpWSZzh) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:30 |
 
-Snapshot ID: `MTY0ODE2OTM0MCwwMDAwMDAwMGVkZDk3MWE5NDhhMjkxOTZiMGZjNmZiNjhjNjE5OGEw`
+Snapshot ID: `MTY0ODI1NTc5MCwwMDAwMDAwMGVkZDk3MWE5NDhhMjkxOTZiMGZjNmZiNjhjNjE5OGEw`

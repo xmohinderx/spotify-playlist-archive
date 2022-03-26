@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Suena en el barrio, suena ac\u00e1 {John C}",
+  "description": "Suena en el barrio, suena ac\u00e1.",
   "name": "Cumbia 420",
   "published_playlist_ids": [
     "08wPNXaQ2kxk28fUrtfLBd"
@@ -96,6 +96,28 @@
     },
     {
       "album": {
+        "name": "CARANCHO",
+        "url": "https://open.spotify.com/album/0YnJLL2o3w6VkVWZKTpz6N"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "CARANCHO",
+      "url": "https://open.spotify.com/track/6PMWJlpsP6uocjP4YTUW3H"
+    },
+    {
+      "album": {
         "name": "Combi Nueva",
         "url": "https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM"
       },
@@ -123,6 +145,28 @@
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p"
+    },
+    {
+      "album": {
+        "name": "Corolla",
+        "url": "https://open.spotify.com/album/4lq7ZMUXWT4SKetW6ys3Bp"
+      },
+      "artists": [
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128863,
+      "name": "Corolla",
+      "url": "https://open.spotify.com/track/76hHENeXQUPkf0cISBNytg"
     },
     {
       "album": {
@@ -167,7 +211,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 225051,
       "name": "Cumbia 420 Pa los Turros",
       "url": "https://open.spotify.com/track/7eOENgj0kNVkuQNcn990oM"
@@ -765,7 +809,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 214218,
       "name": "Pa Abajo",
       "url": "https://open.spotify.com/track/1OsoyX2TCicWp2xWBoXFrU"
@@ -1041,7 +1085,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 158627,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/6S6UIA5csiXlsC5AwZOCaG"
@@ -1367,6 +1411,32 @@
       "duration_ms": 205434,
       "name": "Titubeo",
       "url": "https://open.spotify.com/track/23UX82uDIfCUUneRfzDTD5"
+    },
+    {
+      "album": {
+        "name": "Todo Cheto",
+        "url": "https://open.spotify.com/album/6SLXaF1s2TkrEZ9MSXDPu6"
+      },
+      "artists": [
+        {
+          "name": "Nahuel one23",
+          "url": "https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05"
+        },
+        {
+          "name": "Anthony MM",
+          "url": "https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8"
+        },
+        {
+          "name": "Gian",
+          "url": "https://open.spotify.com/artist/6pKHMx8Rh60XWnmFv0aNd5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Todo Cheto",
+      "url": "https://open.spotify.com/track/6k3oOYc4VdDCWeCR0BzEZh"
     },
     {
       "album": {

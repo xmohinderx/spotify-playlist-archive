@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-24",
   "description": "Rap rom\u00e2ntico pra amolecer os cora\u00e7\u00f5es apaixonados e esquentar o clima.",
   "name": "Flow Romance",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1yPSGL28SyZuxYmPOGgnKz"
+  ],
   "tracks": [
     {
       "album": {
@@ -91,6 +93,24 @@
       "duration_ms": 264035,
       "name": "Anos Luz",
       "url": "https://open.spotify.com/track/0GYPcKDlsb8WEtJkkKdtgH"
+    },
+    {
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
     },
     {
       "album": {
@@ -1289,6 +1309,32 @@
       "duration_ms": 207314,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/5MK57OSY3yumqnxtvu6xIM"
+      },
+      "artists": [
+        {
+          "name": "Ricca",
+          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
+        },
+        {
+          "name": "Auler",
+          "url": "https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m"
+        },
+        {
+          "name": "Rod",
+          "url": "https://open.spotify.com/artist/2kPkt66RFtRtnJiB1NjYqP"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154695,
+      "name": "S2",
+      "url": "https://open.spotify.com/track/6iZetMvxSFh0kiHvEIKs1w"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Jordan St. Cyr  ",
+  "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Jeremy Camp",
   "name": "Top Christian Contemporary",
   "published_playlist_ids": [
     "4vhwseXb2IJBghYVawMgmp"
@@ -129,6 +129,24 @@
       "duration_ms": 230000,
       "name": "Always Will Be",
       "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "album": {
+        "name": "My Chains Are Gone",
+        "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Amazing Grace / My Chains Are Gone",
+      "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
     },
     {
       "album": {
@@ -555,7 +573,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
@@ -635,6 +653,24 @@
       "duration_ms": 251746,
       "name": "Godsend",
       "url": "https://open.spotify.com/track/2S87GKNKjQuNbtBKGW8oHz"
+    },
+    {
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
     },
     {
       "album": {
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 213746,
       "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
       "url": "https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ"
@@ -1544,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Prepare The Way",
+        "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255522,
+      "name": "Prepare The Way",
+      "url": "https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7"
+    },
+    {
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z"
       },
@@ -1631,7 +1685,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 212066,
       "name": "Rest For Your Soul - Radio Edit",
       "url": "https://open.spotify.com/track/33SARMQfHP0TlKq7ZiLccc"
@@ -1653,6 +1707,24 @@
       "duration_ms": 169435,
       "name": "River Of Life",
       "url": "https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau"
+    },
+    {
+      "album": {
+        "name": "When You Speak (Deluxe)",
+        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216610,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
     },
     {
       "album": {
@@ -1743,7 +1815,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
@@ -1805,6 +1877,24 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
+    },
+    {
+      "album": {
+        "name": "Thank God For Sunday Morning",
+        "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208801,
+      "name": "Thank God For Sunday Morning",
+      "url": "https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw"
     },
     {
       "album": {
@@ -2119,7 +2209,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"

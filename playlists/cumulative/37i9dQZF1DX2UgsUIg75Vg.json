@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Crazy Down",
+        "url": "https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Crazy Down",
+      "url": "https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID"
+    },
+    {
+      "album": {
         "name": "Crazy Kind of Love (From \"True to the Game 2\")",
         "url": "https://open.spotify.com/album/5xvGwfZIq9bvjVLjzvYSHv"
       },
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 219351,
       "name": "DON'T PLAY WITH MY HEART",
       "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
@@ -2654,6 +2672,28 @@
     },
     {
       "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248700,
+      "name": "Happy Hour (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
+    },
+    {
+      "album": {
         "name": "I Used To Know Her - Part 2 - EP",
         "url": "https://open.spotify.com/album/46imFLgb9fR1Io6EoPYeQh"
       },
@@ -2941,6 +2981,24 @@
       "duration_ms": 232706,
       "name": "In Too Deep (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+    },
+    {
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189905,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD"
     },
     {
       "album": {
@@ -4422,6 +4480,28 @@
     },
     {
       "album": {
+        "name": "Pieces ft Duckwrth",
+        "url": "https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "Pieces ft Duckwrth",
+      "url": "https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s"
+    },
+    {
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/2XQiUnNoxy7B6QJRsbthMh"
       },
@@ -5125,7 +5205,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
@@ -6207,7 +6287,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 185753,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
@@ -6287,7 +6367,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 175702,
       "name": "What You Deserve",
       "url": "https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v"

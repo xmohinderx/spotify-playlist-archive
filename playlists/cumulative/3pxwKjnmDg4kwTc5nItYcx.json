@@ -1256,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop This Party",
+        "url": "https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222849,
+      "name": "Can't Stop This Party",
+      "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Help Myself",
         "url": "https://open.spotify.com/album/2eA02NTgjx7GKkU5yhgRIV"
       },

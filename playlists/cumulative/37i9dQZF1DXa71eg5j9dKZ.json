@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Joy Orbison",
+  "description": "The home for alternative electronic music. Cover: Logic1000",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -153,6 +153,24 @@
       "duration_ms": 227840,
       "name": "A Good Place",
       "url": "https://open.spotify.com/track/63Z07zVXKkyankXjpmFEfr"
+    },
+    {
+      "album": {
+        "name": "Acid / Ganzfeld 12\u201d",
+        "url": "https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Acid in My Blood",
+      "url": "https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX"
     },
     {
       "album": {
@@ -1448,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "Fru Fru (Edit)",
+        "url": "https://open.spotify.com/album/065UAqE70N4OrZ2JUFF2xz"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291337,
+      "name": "Fru Fru - Edit",
+      "url": "https://open.spotify.com/track/3tvGBi6sxIeTzKzvgRWHgf"
+    },
+    {
+      "album": {
         "name": "Gentle Romance",
         "url": "https://open.spotify.com/album/3PoSc1ElaxLbLk8QQaunBn"
       },
@@ -1557,6 +1593,24 @@
       "duration_ms": 196796,
       "name": "Hannah (The Sun)",
       "url": "https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft"
+    },
+    {
+      "album": {
+        "name": "HeForShe x femme culture Vol. 4.2",
+        "url": "https://open.spotify.com/album/4grlb18lV3GveEKQqlAjJG"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226971,
+      "name": "Head Back",
+      "url": "https://open.spotify.com/track/25XeeZe1GNgCsnjJwubdMW"
     },
     {
       "album": {
@@ -2187,7 +2241,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 296344,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o"
@@ -2365,7 +2419,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
@@ -2938,6 +2992,24 @@
     },
     {
       "album": {
+        "name": "Rush / Can't Stop Thinking About",
+        "url": "https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246493,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1"
+    },
+    {
+      "album": {
         "name": "Salta",
         "url": "https://open.spotify.com/album/7ES0OnrC9DzAN2rhfxCj7s"
       },
@@ -3207,7 +3279,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-26",
       "duration_ms": 269925,
       "name": "Something Wonderful",
       "url": "https://open.spotify.com/track/1RBRqbd3PqvtpumDcYkPBj"
