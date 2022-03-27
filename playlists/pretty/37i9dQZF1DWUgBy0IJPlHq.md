@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Ian Noe
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,616 likes - 117 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,858 likes - 117 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 37 | [Hallelujah](https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 5:00 |
 | 38 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 |
 | 39 | [The Mountain](https://open.spotify.com/track/65bs9Mbl9VuJXtkMknT3lg) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Buckskin](https://open.spotify.com/album/27K52pfrgwrUqsaAJZ2WLn) | 4:12 |
-| 40 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 |
+| 40 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 |
 | 41 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 |
 | 42 | [Cheap Seats](https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 4:04 |
 | 43 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 |

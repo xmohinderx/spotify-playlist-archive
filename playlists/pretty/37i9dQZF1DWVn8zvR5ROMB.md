@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,401 likes - 147 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,459 likes - 147 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 21 | [Lock Me Down](https://open.spotify.com/track/3lJLjD6knfaxzyhcImi4Gw) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Lock Me Down](https://open.spotify.com/album/0jjYRPyCLbJAUAtESBCmwK) | 3:20 |
 | 22 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 |
 | 23 | [Someone's Woman](https://open.spotify.com/track/1QJgPl2DHRpcluX2qtCNCg) | [Hannah Bethel](https://open.spotify.com/artist/4mUIjM7G8fohMBSUzFpyxX) | [Until the Sun Comes Back Around](https://open.spotify.com/album/0Ej5kiMvKOgkOlF6fLz9t6) | 3:55 |
-| 24 | [America's My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America's My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 |
+| 24 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 |
 | 25 | [Wastin' Whiskey](https://open.spotify.com/track/5bQobcpIOEg2Abn5Ai5G3Y) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA) | 3:10 |
 | 26 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 |
 | 27 | [Dance Alone](https://open.spotify.com/track/13cwoMMYrdXnAWroK8dAtF) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Dance Alone](https://open.spotify.com/album/52NX3FPmU1fRkChVVdJD1C) | 3:49 |

@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 51 | [Head Rush](https://open.spotify.com/track/6P7hgOGUCwxwMSBD2U5TaW) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Head Rush](https://open.spotify.com/album/4vusfXlDX1OWRRO3rfAJyq) | 2:32 |
 | 52 | [My Heart](https://open.spotify.com/track/2tinYknqBborA5kYv07aKX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart](https://open.spotify.com/album/0ntarsVywCQ1WDApCRJJMK) | 3:20 |
 | 53 | [Heartaches \- Covex Remix](https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [The Long Way Home \(Remixes\)](https://open.spotify.com/album/6lPQI2Yy6pllkfommUkbvq) | 3:08 |
-| 54 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
+| 54 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 55 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 |
 
 Snapshot ID: `OTU4MSwxODllYjMyZjliMTlmMzQ5MmY1NDAzMTM2OGEzODgyYzJiMjFlOWEw`

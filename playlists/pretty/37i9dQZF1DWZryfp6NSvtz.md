@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Placebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,799 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,965 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [If We Get Caught](https://open.spotify.com/track/3Gq6s5E6RKnQ4YVluGKd6u) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [If We Get Caught](https://open.spotify.com/album/1oaHw2W2H645sOxpsTWYuY) | 3:14 |
 | 9 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 |
 | 10 | [Disaster Girl](https://open.spotify.com/track/0AgZmVy57KygTp6eYHHBkk) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Disaster Girl](https://open.spotify.com/album/1UCrUZHeQ7ohG9Z1H0YxsU) | 2:30 |
-| 11 | [Bloodrush](https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Bloodrush](https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G) | 3:37 |
+| 11 | [Bloodrush \- Edit](https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Bloodrush](https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G) | 3:37 |
 | 12 | [This Kiss](https://open.spotify.com/track/7jC8Zmo0vOAc2dnXTLALqP) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [This Kiss](https://open.spotify.com/album/2jnpavQpoUrK2dmsueCbt9) | 3:34 |
 | 13 | [I Love This Part](https://open.spotify.com/track/4wy91vbmH7EGY0q8qrUjTX) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [I Love This Part](https://open.spotify.com/album/4dwxRRxH7No8fqNlMG3qMF) | 3:02 |
 | 14 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 |

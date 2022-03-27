@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Nicky Youre & David Hugo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,642 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,706 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 26 | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1) | 2:42 |
 | 27 | [Eyes Don’t Lie](https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie](https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6) | 3:56 |
 | 28 | [Personally](https://open.spotify.com/track/3WUSeDStXyrybmiHEH0aO3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/02KYZ3NCXrWlcKQDYMQdvZ) | 3:41 |
-| 29 | [Stars In The Sky](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
+| 29 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
 | 30 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 |
 | 31 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 |
 | 32 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 |

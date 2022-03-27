@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,082 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,599 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 |
 | 125 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 |
 
-Snapshot ID: `MTY0ODI1NjE3NiwwMDAwMDAwMGVjOTI3NWJmM2JiMDNlY2Q0MjVhNDljMGI1NDg5YTg2`
+Snapshot ID: `MTY0ODM0MjkzOCwwMDAwMDAwMGVjOTI3NWJmM2JiMDNlY2Q0MjVhNDljMGI1NDg5YTg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The sound, the feeling and the mood of Jazz\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,679 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,730 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [Steppin' Out With My Baby](https://open.spotify.com/track/16XegBhsozta1GH3t5LGSm) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:20 |
 | 150 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 |
 
-Snapshot ID: `MTY0ODI1NTkxNywwMDAwMDAwMGRlYjFhM2YwMTlmNmZlMTE4NjcyZWFmYmZiNGY2NTFl`
+Snapshot ID: `MTY0ODM0MjY3NSwwMDAwMDAwMGRlYjFhM2YwMTlmNmZlMTE4NjcyZWFmYmZiNGY2NTFl`

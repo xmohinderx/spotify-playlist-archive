@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,463,243 likes - 125 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463,382 likes - 125 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 124 | [We Are One](https://open.spotify.com/track/331Ut7fiEn2XSlAT4qSzjj) | [The Winery Dogs](https://open.spotify.com/artist/0XQIFN6X5mD98c6gOSLtfJ) | [The Winery Dogs](https://open.spotify.com/album/7E77hVVM3jtoyXDjMq82fS) | 4:32 |
 | 125 | [Take Me Out](https://open.spotify.com/track/0ancVQ9wEcHVd0RrGICTE4) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/03akiuheNt5mJqltALnalP) | 3:57 |
 
-Snapshot ID: `MTY0ODI1NTcxOCwwMDAwMDAwMGVlMTU3ZDAyNzRmOGU2MDUyNTdkNmYzMTA3YmIwYjA3`
+Snapshot ID: `MTY0ODM0MjQ3OCwwMDAwMDAwMGVlMTU3ZDAyNzRmOGU2MDUyNTdkNmYzMTA3YmIwYjA3`

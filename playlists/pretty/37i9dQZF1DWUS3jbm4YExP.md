@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,467 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,634 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 |
 | 100 | [AO Longo Do Rio](https://open.spotify.com/track/1guNEjxD2ZIxKti8jtMehV) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [AO Longo Do Rio](https://open.spotify.com/album/6ceZRBfduXzV866yCtMzxV) | 4:34 |
 
-Snapshot ID: `MTY0ODI1NTY1MywwMDAwMDAwMDE4NDZiMWJjY2E0YjM2OTNiYjdhZGFlOWI0YjlkMzcz`
+Snapshot ID: `MTY0ODM0MjQxMywwMDAwMDAwMDE4NDZiMWJjY2E0YjM2OTNiYjdhZGFlOWI0YjlkMzcz`

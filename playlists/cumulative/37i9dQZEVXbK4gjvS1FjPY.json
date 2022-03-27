@@ -1190,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "album": {
         "name": "Cheating on You",
         "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
       },
@@ -2743,7 +2761,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
@@ -3205,7 +3223,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
@@ -5121,6 +5139,28 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "it's summer '13, you're on a roadtrip vibing and life's good",
+        "url": "https://open.spotify.com/album/5pWY8Sg8FEwYPiGMp5YTye"
+      },
+      "artists": [
+        {
+          "name": "11:11 Music Group",
+          "url": "https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi"
+        },
+        {
+          "name": "Martin Arteta",
+          "url": "https://open.spotify.com/artist/4bGPjihFEUsxf9LPn1epOv"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134582,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/3NPWH2UbMjch2vnS7qMFGM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,363 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,857 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Honey Come Back](https://open.spotify.com/track/26qDFDKrveLljfIX5ft061) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 2:58 |
 | 150 | [That's The Way I've Always Heard It Should Be](https://open.spotify.com/track/4jkn5PRfAJoKfXF0OPL7n7) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Carly Simon](https://open.spotify.com/album/2cuqP3kLRSgnjDmAN7SHA9) | 4:18 |
 
-Snapshot ID: `MTY0ODI1NTYyMywwMDAwMDAwMDllZDk4MTAzZWQxNzZlNWUzZWU1YTQ1YTZhMTI3NGRj`
+Snapshot ID: `MTY0ODM0MjM4NCwwMDAwMDAwMDllZDk4MTAzZWQxNzZlNWUzZWU1YTQ1YTZhMTI3NGRj`

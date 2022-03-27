@@ -2330,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235556,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM"
+    },
+    {
+      "album": {
         "name": "CHAPTER 2: The Shedding",
         "url": "https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ"
       },

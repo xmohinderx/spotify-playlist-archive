@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Moneybagg Yo & Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,457 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,577 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
 | 50 | [Geeked](https://open.spotify.com/track/0MHEpmOPl9E988lMIcRBuS) | [C Blu](https://open.spotify.com/artist/2OjTwiWZJUuKNcNRPC0VTE), [C\-HII WVTTZ](https://open.spotify.com/artist/7qeqxguq9U5yvK2ddn8p8b), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Geeked](https://open.spotify.com/album/5Oho6PdHHDdAetQpX9XrWc) | 2:58 |
 
-Snapshot ID: `MTY0ODI1NTcxMSwwMDAwMDAwMGJlZTg3NTQ2Yjg2NmZmMzFiYzVlMDYyZDFiMmFmNDgz`
+Snapshot ID: `MTY0ODM0MjQ3MSwwMDAwMDAwMGJlZTg3NTQ2Yjg2NmZmMzFiYzVlMDYyZDFiMmFmNDgz`

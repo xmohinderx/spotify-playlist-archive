@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > Activate your dark side.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,377 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,575 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 99 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 |
 | 100 | [My Heart's Grave](https://open.spotify.com/track/6QIZUbPbMqbDUORTuZtxsV) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [My Heart's Grave](https://open.spotify.com/album/31AmEGVrF05ISPMWLNmvRs) | 3:50 |
 
-Snapshot ID: `MTY0ODI1NTk0NCwwMDAwMDAwMDFhYzZkYWY5NWJiNzZmOGVmMTBlNzkzM2ZkZGZjYTQw`
+Snapshot ID: `MTY0ODM0MjcwMSwwMDAwMDAwMDFhYzZkYWY5NWJiNzZmOGVmMTBlNzkzM2ZkZGZjYTQw`

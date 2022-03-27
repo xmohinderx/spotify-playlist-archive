@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,338 likes - 228 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,568 likes - 228 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 20 | [I Wanna Dance With Somebody \- UK Edit](https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Wanna Dance With Somebody](https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS) | 2:14 |
 | 21 | [We Don’t Need](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 |
 | 22 | [Motley Crew](https://open.spotify.com/track/6ws84fORsggbFxAP2cHBGc) | [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V), [popstar.TJ](https://open.spotify.com/artist/6geWpgrlTUlYqSwAdibJXJ), [Contiez](https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep) | [Motley Crew](https://open.spotify.com/album/1kGNm505CDg0rG4EkyiR7t) | 3:17 |
-| 23 | [Discovery Channel](https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Discovery Channel](https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui) | 2:19 |
+| 23 | [Discovery Channel](https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Discovery Channel](https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui) | 2:09 |
 | 24 | [Cry For You](https://open.spotify.com/track/3ml2zPEx4LiKDEsWjneROo) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J) | [Cry For You](https://open.spotify.com/album/00lN5WAzPoLAGNGRB4iCS8) | 2:28 |
 | 25 | [I Want You](https://open.spotify.com/track/5jmfOzBoKcvqWIDLkwBFoX) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [I Want You](https://open.spotify.com/album/5KbNJqjMgIc7PstTuFrkcE) | 3:00 |
 | 26 | [Aint No Mountain High Enough](https://open.spotify.com/track/72OQ4c2it0lRvyS4Sk5bmG) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OLWIK](https://open.spotify.com/artist/7z55f4aJkaPR4EF2BXqsq7), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [Ain't No Mountain High Enough](https://open.spotify.com/album/5J3Vjc4z4aLQdEdu8vd19U) | 2:36 |

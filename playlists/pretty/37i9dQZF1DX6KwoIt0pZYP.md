@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,051 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,293 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [cold these days](https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [michigan/missinghim](https://open.spotify.com/album/3CUpup4zXABeyEfMZNDfA8) | 2:39 |
 | 100 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
 
-Snapshot ID: `MTY0ODI1NjAzOSwwMDAwMDAwMGUzYTMwNGZjODc2OGZmODUxZDY5OTM2MGFjZDRhODcx`
+Snapshot ID: `MTY0ODM0Mjc5NiwwMDAwMDAwMGUzYTMwNGZjODc2OGZmODUxZDY5OTM2MGFjZDRhODcx`

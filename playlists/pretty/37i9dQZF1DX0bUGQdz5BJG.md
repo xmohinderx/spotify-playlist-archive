@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,553 likes - 155 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,647 likes - 155 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 56 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 |
 | 57 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 58 | [Burned Out](https://open.spotify.com/track/76i6pbHbUXVngXGmqmaAeO) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Burned Out](https://open.spotify.com/album/29fXlrBSPq0n5QSfONE0wX) | 2:58 |
-| 59 | [America's My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America's My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 |
+| 59 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 |
 | 60 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 |
 | 61 | [Death Row](https://open.spotify.com/track/6SfrCSnhSoiJPzCJafw9m0) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Death Row](https://open.spotify.com/album/6MWy82eeVqcCSSBXeVPRVx) | 3:51 |
 | 62 | [Paper Airplane](https://open.spotify.com/track/5VtJXLUIsFw94ZtCBhkz5I) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Paper Airplane](https://open.spotify.com/album/1sO4Zy6l8XkGHUpwcOqFAi) | 4:06 |

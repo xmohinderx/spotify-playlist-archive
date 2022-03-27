@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Perotá Chingó
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,805 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,866 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Corazoncito Mío](https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 3:15 |
 | 100 | [Visiones Doradas](https://open.spotify.com/track/3K2EEF60dB0dGNlKXXxljH) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/0Mf1iyELe7inwpUyiOmDL8) | 2:46 |
 
-Snapshot ID: `MTY0ODI1NjIyNCwwMDAwMDAwMDg5OWYzMWUzNmY2OTk1YjkwZmI4NTU1NTFkMmM4Njg2`
+Snapshot ID: `MTY0ODM0Mjk4NSwwMDAwMDAwMDg5OWYzMWUzNmY2OTk1YjkwZmI4NTU1NTFkMmM4Njg2`

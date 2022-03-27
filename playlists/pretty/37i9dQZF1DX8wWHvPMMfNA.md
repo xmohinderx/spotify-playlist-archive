@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for your focus time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,684 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,722 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
 | 100 | [Dear Sir](https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:55 |
 
-Snapshot ID: `MTY0ODI1NjExNywwMDAwMDAwMGZlMmEwNzZkZjQ1ZWMwM2NjMDAzNWFjMTZjZDk3OWEw`
+Snapshot ID: `MTY0ODM0Mjg3NywwMDAwMDAwMGZlMmEwNzZkZjQ1ZWMwM2NjMDAzNWFjMTZjZDk3OWEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,008 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,015 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 89 | [Close Call](https://open.spotify.com/track/0wBsoyKPkxFeKbOujlRyyu) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Close Call](https://open.spotify.com/album/6UyRIkeKgIehaBSoLbLx8n) | 3:24 |
 | 90 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
 | 91 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/3jE1H7U8EFjj8wcYPMtKuY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Write A List of Things To Look Forward To](https://open.spotify.com/album/0Agc23wEgrRlf0CgmZMWxn) | 2:48 |
-| 92 | [Now \(In Space\)](https://open.spotify.com/track/5KihAQxIO270T9EQbWgPLk) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [Now \(In Space\)](https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk) | 3:26 |
+| 92 | [now \(in space\)](https://open.spotify.com/track/5KihAQxIO270T9EQbWgPLk) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [now \(in space\)](https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk) | 3:26 |
 | 93 | [I Just Got So High](https://open.spotify.com/track/1hIUQdk73XEkPvyE7KosYm) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [I Just Got So High](https://open.spotify.com/album/4dCt5rU70DPp6GNJJt9k5p) | 2:41 |
 | 94 | [We Are The Youth](https://open.spotify.com/track/1ijRu7arxxts03bQsPYAoI) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [We Are The Youth](https://open.spotify.com/album/7vZrPC0ucy7S7zdGrndNoz) | 3:33 |
 | 95 | [Allergy Season](https://open.spotify.com/track/0Eed1YZo3j0Jl0cCC0Q1Z2) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Allergy Season](https://open.spotify.com/album/10mTq7bfmMPLSiickj3AX0) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,694 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,779 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 37 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
 | 38 | [I Hate It Here \- Live](https://open.spotify.com/track/66E7IrBV9rd5YNR6xCQJsy) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Live From the Pit](https://open.spotify.com/album/7Jwxk8laLKJF5gWLWIamVj) | 2:30 |
 | 39 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 |
-| 40 | [Stars In The Sky](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
+| 40 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
 | 41 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 |
 | 42 | [NASTY GIRL](https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:52 |
 | 43 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [Coupe](https://open.spotify.com/track/6SOiglkSPpcLvk68nY8yil) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Keep da K / Coupe](https://open.spotify.com/album/4FS5ptxfqf4wuDcKkXrhmR) | 2:07 |
 | 99 | [HEATING ROCKS](https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 |
 
-Snapshot ID: `MTY0ODI1NTY4NywwMDAwMDAwMDhmZDIwZTg1ZTIyYjNkZGY1ZjIwZjYxNDEwYmE5YWQ5`
+Snapshot ID: `MTY0ODM0MjQ0OCwwMDAwMDAwMDhmZDIwZTg1ZTIyYjNkZGY1ZjIwZjYxNDEwYmE5YWQ5`

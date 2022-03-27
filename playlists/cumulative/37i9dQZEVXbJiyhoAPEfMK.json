@@ -248,6 +248,32 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/4xHYutiTTkEedn2PgDVwlx"
+      },
+      "artists": [
+        {
+          "name": "Fard",
+          "url": "https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN"
+        },
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Asche",
+          "url": "https://open.spotify.com/artist/4422XPmmt7lJGKjYbYSI6B"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "3",
+      "url": "https://open.spotify.com/track/4LUTIob7qIokz4tKMr54Sr"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/59dOGXbgXlBHJl0SLSA11z"
       },
@@ -2473,7 +2499,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -2797,7 +2823,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -3274,6 +3300,28 @@
     },
     {
       "album": {
+        "name": "Crash (feat. Ufo361)",
+        "url": "https://open.spotify.com/album/60poEVA5UC3x1BgRtVHjxa"
+      },
+      "artists": [
+        {
+          "name": "flowerboii",
+          "url": "https://open.spotify.com/artist/5aKVNeiiEzFHZHKiPx5X9p"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Crash (feat. Ufo361)",
+      "url": "https://open.spotify.com/track/4dQuL06qPM1rpaxAydjwQc"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/5W5P1hgkLPm3JowYZbjUaH"
       },
@@ -3289,6 +3337,32 @@
       "duration_ms": 169445,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/5zUAncNzilbPGxFGWBuCNB"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/40Vl4nxvxKkNr6EHF6e5Oj"
+      },
+      "artists": [
+        {
+          "name": "Jala Brat",
+          "url": "https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL"
+        },
+        {
+          "name": "Buba Corelli",
+          "url": "https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144681,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/041yCPAEGPSIKv3p1P5NP0"
     },
     {
       "album": {
@@ -5313,7 +5387,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -5427,6 +5501,24 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "album": {
+        "name": "MOONBOY",
+        "url": "https://open.spotify.com/album/2YVTZF2hb0duuY5kAIltEu"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162482,
+      "name": "GEH NICHT",
+      "url": "https://open.spotify.com/track/3F1tMcAaJJh1enuFi1pS2Z"
     },
     {
       "album": {
@@ -5787,6 +5879,28 @@
       "duration_ms": 188000,
       "name": "Gjuj Per To",
       "url": "https://open.spotify.com/track/0hDYvoQ26ItfdfGZNjid7P"
+    },
+    {
+      "album": {
+        "name": "Altbau",
+        "url": "https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143160,
+      "name": "Gl\u00fccklich",
+      "url": "https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf"
     },
     {
       "album": {
@@ -10797,7 +10911,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -13895,7 +14009,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 152826,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
@@ -14317,7 +14431,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -17667,7 +17781,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 152752,
       "name": "\u5b64\u72ec",
       "url": "https://open.spotify.com/track/6o1bc10R4IfNkL3YVrxKgu"

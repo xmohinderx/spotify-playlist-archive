@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Kenia OS; J Balvin & Ed Sheeran; Paulo Londra; Elsa y Elmar & Bruses; y m\u00e1s!",
-  "num_followers": 693869,
+  "num_followers": 694513,
   "original_name": "Novedades Viernes MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE5MDU2NiwwMDAwMDQxNTAwMDAwMTdmYmZkMDJlOGMwMDAwMDE3ZmIyYmJhYTJi",
+  "snapshot_id": "MTY0ODMxNDgyNSwwMDAwMDQxNjAwMDAwMTdmYzczODM5OTIwMDAwMDE3ZmIyYmJhYTJi",
   "tracks": [
     {
       "added_at": "2022-03-25 06:42:46",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-03-25 06:00:00",
       "album": {
-        "name": "In My Head (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 130117,
-      "name": "In My Head (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
-    },
-    {
-      "added_at": "2022-03-25 06:00:00",
-      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
@@ -373,7 +353,7 @@
         }
       ],
       "duration_ms": 157333,
-      "name": "Cruela",
+      "name": "Cruella",
       "url": "https://open.spotify.com/track/2Q7A5uNAnFjoZMdAFgesyU"
     },
     {
@@ -771,6 +751,26 @@
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "In My Head (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 130117,
+      "name": "In My Head (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
     },
     {
       "added_at": "2022-03-25 06:00:00",

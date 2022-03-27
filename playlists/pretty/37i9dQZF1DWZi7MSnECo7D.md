@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Jovem Dionísio
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,420 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,474 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 13 | [Plano Certo](https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Plano Certo](https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R) | 2:21 |
 | 14 | [Café com Leite](https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX) | [Helo Cleaver](https://open.spotify.com/artist/5ddPmN9f59M0HHWxdObC3F) | [Priguis](https://open.spotify.com/album/5uWkRYYKp9dUQjWJFggTI5) | 3:17 |
 | 15 | [Mandando](https://open.spotify.com/track/02LpHb4Jij5FbiII3FApBu) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Mandando](https://open.spotify.com/album/7H8Mbrgu2IA7oEYtCE8W63) | 3:37 |
-| 16 | [Tão Bom](https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Tão Bom](https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW) | 2:25 |
+| 16 | [Tão Bom](https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Tão Bom](https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW) | 2:25 |
 | 17 | [Convenções Humanas](https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Convenções Humanas](https://open.spotify.com/album/64dFOgBTk4vXAJbkb9O6gu) | 4:18 |
 | 18 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 |
 | 19 | [Jangada](https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb) | [mamguá](https://open.spotify.com/artist/68muZlHFoo6eQf8FMChxRi) | [Este é um disco sobre amor](https://open.spotify.com/album/6Z0DDEnCHnOCGmPT78etYH) | 3:26 |

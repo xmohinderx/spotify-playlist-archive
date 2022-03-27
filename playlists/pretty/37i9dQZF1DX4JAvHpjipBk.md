@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from J Balvin & Ed Sheeran, Tate McRae, Maren Morris, MGK, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,878,055 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,878,550 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 25 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
 | 26 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
 | 27 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 |
-| 28 | [Stars In The Sky](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
+| 28 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
 | 29 | [Bring It On Home to Me](https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 4:35 |
 | 30 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 |
 | 31 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 |
 | 98 | [don't call me](https://open.spotify.com/track/3gKY1wkjy7wRbgiK4Um8dz) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [don't call me](https://open.spotify.com/album/5aoD6fu1YipqnOVVCNLGss) | 3:01 |
 
-Snapshot ID: `MTY0ODIzNDgxOSwwMDAwMDM5ZDAwMDAwMTdmYzI3MzcwMDgwMDAwMDE3ZmJlYTY1ZmEw`
+Snapshot ID: `MTY0ODMxNDE5NCwwMDAwMDM5ZTAwMDAwMTdmYzcyZTliOTcwMDAwMDE3ZmJlYTY1ZmEw`

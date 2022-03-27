@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > Khalid is celebrating 5 years of American Teen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,055,800 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,057,020 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 | 149 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
 | 150 | [Dynamite](https://open.spotify.com/track/4lYKuF88iTBrppJoq03ujE) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:22 |
 
-Snapshot ID: `MTY0ODI1NjAwMCwwMDAwMDAwMGE0MjM2NGNiY2U1NmRhMjU1ZThjMzMwNzhjMzM2MjMy`
+Snapshot ID: `MTY0ODM0Mjc1NywwMDAwMDAwMGE0MjM2NGNiY2U1NmRhMjU1ZThjMzMwNzhjMzM2MjMy`

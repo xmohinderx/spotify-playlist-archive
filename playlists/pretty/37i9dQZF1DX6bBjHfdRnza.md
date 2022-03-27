@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Poté, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,217 likes - 110 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,329 likes - 110 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

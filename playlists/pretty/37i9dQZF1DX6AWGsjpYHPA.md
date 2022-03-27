@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,139 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,327 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 75 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 |
 
-Snapshot ID: `MTY0ODI1NjAzMiwwMDAwMDAwMDgzZTY4M2UyNDZkYWRlYWM2NmZjN2IyMDI3M2JhY2M4`
+Snapshot ID: `MTY0ODM0Mjc5MCwwMDAwMDAwMDgzZTY4M2UyNDZkYWRlYWM2NmZjN2IyMDI3M2JhY2M4`

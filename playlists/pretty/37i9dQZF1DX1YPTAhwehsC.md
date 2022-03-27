@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,410 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,465 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 6 | [Steppers](https://open.spotify.com/track/0Cof04dNGqSQPNc2NpQg8J) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:30 |
 | 7 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4o1WfX3N1GXDFsPCCDldYb) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/7ntiFX9CASiTGADhPIGlVe) | 4:15 |
 | 8 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 |
-| 9 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 |
+| 9 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 |
 | 10 | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Crypto \(feat\. Rich The Kid\)](https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O) | 2:40 |
 | 11 | [Any Second](https://open.spotify.com/track/6uutbgDc16Bu74bpmpkA6k) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Any Second](https://open.spotify.com/album/18HOlFvpNYKCPdwy2kbDxx) | 2:53 |
 | 12 | [Bing Bong \(feat\. Fat Joe, Busta Rhymes & Styles P\) \- Remix](https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Bing Kong](https://open.spotify.com/album/1arsb5zt7yy7ezUu7chQg4) | 3:57 |

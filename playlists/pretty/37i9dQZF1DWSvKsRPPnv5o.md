@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,422 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,477 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 21 | [Covenant](https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [Covenant](https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz) | 2:31 |
 | 22 | [Keep Goin](https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [BABYST5XNE GORILLAS](https://open.spotify.com/album/63ypakNyLDCYERVQz17caO) | 2:59 |
 | 23 | [With The Villains](https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl) | 2:23 |
-| 24 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [Price](https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
+| 24 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
 | 25 | [Find A Balance \(feat\. DOM KENNEDY\)](https://open.spotify.com/track/21hh71ZaowC1PKgqoZBOq7) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Find A Balance \(feat\. DOM KENNEDY\)](https://open.spotify.com/album/2zDR3yVu9tET02YtGkcI1m) | 2:36 |
 | 26 | [Okay](https://open.spotify.com/track/1QKG0n4AawYX4K8SkvjxtS) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Dawgybone](https://open.spotify.com/album/4Q4TR9gcpJjm3xtm8uHNQX) | 2:04 |
 | 27 | [Cheap](https://open.spotify.com/track/5ICnHKFy7yBDTEFjZ8hODA) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Cheap](https://open.spotify.com/album/1ddtZxVVgYsrpfE7qhXSxn) | 1:46 |

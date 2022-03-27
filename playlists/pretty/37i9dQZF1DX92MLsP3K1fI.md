@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! En portada: Alan Navarro
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,495 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,541 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 50 | [Oportunidad](https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R) | [Made](https://open.spotify.com/artist/5yHZluiOoBTPf6QyT0LzY6) | [Oportunidad](https://open.spotify.com/album/7Gyf6o9zasu7KqfQPmy9pf) | 3:05 |
 
-Snapshot ID: `MTY0ODI1NjEyMSwwMDAwMDAwMDRkN2EzMmRkMGJhOGMzY2U1ZmZkNzdlNWQ5NzVlMjk3`
+Snapshot ID: `MTY0ODM0Mjg4MSwwMDAwMDAwMDRkN2EzMmRkMGJhOGMzY2U1ZmZkNzdlNWQ5NzVlMjk3`

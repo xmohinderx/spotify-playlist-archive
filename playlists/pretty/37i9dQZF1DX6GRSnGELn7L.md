@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,013 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,079 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 99 | [Mute Love](https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Mute Talk](https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi) | 4:07 |
 | 100 | [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 |
 
-Snapshot ID: `MTY0ODI1NjAzNiwwMDAwMDAwMDFhYWU3ZjIwZGIyYzA2ZmYyYWQ0Njk0NzFhMDczYWM5`
+Snapshot ID: `MTY0ODM0Mjc5MywwMDAwMDAwMDFhYWU3ZjIwZGIyYzA2ZmYyYWQ0Njk0NzFhMDczYWM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,354 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,685 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 |
 | 100 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 |
 
-Snapshot ID: `MTY0ODI1NjI0MSwwMDAwMDAwMGI5NjNmYzk1Y2VkNjU0MzRlOWRhYjgwODg2NmVhODAz`
+Snapshot ID: `MTY0ODM0MzAwMSwwMDAwMDAwMGI5NjNmYzk1Y2VkNjU0MzRlOWRhYjgwODg2NmVhODAz`

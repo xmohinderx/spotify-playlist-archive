@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,558 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,712 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [My Cherie Amour](https://open.spotify.com/track/7njZh7zfFuSHCufWu6OzID) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century](https://open.spotify.com/album/6Rzevhb3jIr5bgbhHHWiVv) | 2:51 |
 | 70 | [I'd Rather Go Blind](https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama The Complete Muscle Shoals Sessions](https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS) | 2:36 |
 
-Snapshot ID: `MTY0ODI1NTYyMCwwMDAwMDAwMDczNDg3MjhmZWU2YjdiMTRhM2E3MTg3MTVkYmJiODg2`
+Snapshot ID: `MTY0ODM0MjM4MSwwMDAwMDAwMDczNDg3MjhmZWU2YjdiMTRhM2E3MTg3MTVkYmJiODg2`

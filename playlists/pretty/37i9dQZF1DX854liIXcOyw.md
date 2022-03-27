@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 
 > The tracks sticking us together
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,756 likes - 200 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,896 likes - 200 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 | 151 | [Take Me Home, Country Roads](https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/5oH6XhYgqwJ9x6iw6azNiO) | 3:17 |
 | 152 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 153 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
-| 154 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
+| 154 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis \(Live\)](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
 | 155 | [My Cherie Amour](https://open.spotify.com/track/4dnMkuwrUOMA2ShSA6qPCf) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l) | 2:51 |
 | 156 | [Celebration \- Single Version](https://open.spotify.com/track/6CSLNGruNhqpb5zhfs5n3i) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/02ez6TRQvxsxdA2LaCK5BU) | 3:35 |
 | 157 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX854liIXcOyw.md) - [plain]
 | 199 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/2bZfoRmADhlF5gMCSZ4pDS) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/3KfWAE3Y0JDa7CNo8ovJWu) | 5:20 |
 | 200 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
 
-Snapshot ID: `MTY0ODI1NjA5MSwwMDAwMDAwMGJlMTBhMTIwNWJkOWUwZjE5ZjRiMzhhMDhlZWVkZmVl`
+Snapshot ID: `MTY0ODM0Mjg0OSwwMDAwMDAwMGJlMTBhMTIwNWJkOWUwZjE5ZjRiMzhhMDhlZWVkZmVl`

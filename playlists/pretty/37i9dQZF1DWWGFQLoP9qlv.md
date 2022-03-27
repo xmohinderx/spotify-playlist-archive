@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 
 > Great songs by indisputable music legends\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,079,046 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,079,449 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 | 5 | [Go Your Own Way](https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 3:38 |
 | 6 | [Dancing In The Dark](https://open.spotify.com/track/4moXVLw4YS7tVNmjs8v60A) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/14IYDXybb1XKu51QHDryak) | 3:59 |
 | 7 | [Romeo And Juliet](https://open.spotify.com/track/2fF7mQOxo1SZuIMHTQgQD8) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies \(Remastered\)](https://open.spotify.com/album/2thaV3YkqjK7f2AL8LC4xF) | 6:00 |
-| 8 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
+| 8 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis \(Live\)](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 |
 | 9 | [Layla \- 40th Anniversary Version / 2010 Remastered](https://open.spotify.com/track/3k9i7UzeSUYWIfUZFeFDUd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(40th Anniversary / 2010 Remastered\)](https://open.spotify.com/album/5IJXJ6OL7wtN8nc3EyQj4N) | 7:03 |
 | 10 | [Get It On](https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \(Deluxe Edition\)](https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox) | 4:22 |
 | 11 | [With A Little Help From My Friends](https://open.spotify.com/track/4pU7ed71DOZozQrBQzqkdw) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/59fLzpUXqk2dx3CMfECVlG) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 | 69 | [Band On The Run \- Remastered 2010](https://open.spotify.com/track/40b31eggZB30hoqXhGm4qc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB) | 5:13 |
 | 70 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
 
-Snapshot ID: `MTY0ODI1NTcxMCwwMDAwMDAwMDFmMDE5OGFiMTg4NjhiYmE1ZTRjY2M0NmJhMTVjNDAy`
+Snapshot ID: `MTY0ODM0MjQ3MCwwMDAwMDAwMDFmMDE5OGFiMTg4NjhiYmE1ZTRjY2M0NmJhMTVjNDAy`

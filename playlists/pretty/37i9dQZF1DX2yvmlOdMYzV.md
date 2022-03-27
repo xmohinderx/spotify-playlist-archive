@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > it's just chill vibes, respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,172 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,476 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 |
 | 100 | [Bout It](https://open.spotify.com/track/3H4ohIbQHof4qKgrV6Fchc) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Bout It](https://open.spotify.com/album/1PbSsoxiRuWMV9CVmXvHXd) | 3:50 |
 
-Snapshot ID: `MTY0ODI1NTkyNiwwMDAwMDAwMDZhZDY1MDQ5Yjg3ZGE5NjFlMmQ0NDUyZjVmZjNmMTky`
+Snapshot ID: `MTY0ODM0MjY4NSwwMDAwMDAwMDZhZDY1MDQ5Yjg3ZGE5NjFlMmQ0NDUyZjVmZjNmMTky`

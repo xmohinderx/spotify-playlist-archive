@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,911 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,970 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 |
 | 100 | [Wage War](https://open.spotify.com/track/0cMYr5QwzbNWATsKl3aZBP) | [Prison](https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq) | [Still Alive](https://open.spotify.com/album/5DDovcRwzH0qblH2en7Xd7) | 3:19 |
 
-Snapshot ID: `MTY0ODI1NTg4MiwwMDAwMDAwMGE4MjJlYjhmMjU2ZGEyZDUyYzE3NDQzYTI1ZmI3MDVj`
+Snapshot ID: `MTY0ODM0MjY0MCwwMDAwMDAwMGE4MjJlYjhmMjU2ZGEyZDUyYzE3NDQzYTI1ZmI3MDVj`

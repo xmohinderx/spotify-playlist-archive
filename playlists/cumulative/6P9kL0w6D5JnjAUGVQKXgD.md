@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Dimitri Vegas, Like Mike, Kim Loaiza, Azteck
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

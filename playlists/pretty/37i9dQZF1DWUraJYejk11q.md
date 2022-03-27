@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,405 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,443 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [We](https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [We](https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv) | 5:29 |
 | 50 | [Krautzig](https://open.spotify.com/track/5wHwkOh0OSD1jTuCU0vbON) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/0o3CLwPVmejxqUgpkuJ4AK) | 4:07 |
 
-Snapshot ID: `MTY0ODI1NTY2MywwMDAwMDAwMDJjMTZiZTNkZjUwNzMwZmUwY2EyM2M0MTg3NmM1NmI5`
+Snapshot ID: `MTY0ODM0MjQyNCwwMDAwMDAwMDJjMTZiZTNkZjUwNzMwZmUwY2EyM2M0MTg3NmM1NmI5`

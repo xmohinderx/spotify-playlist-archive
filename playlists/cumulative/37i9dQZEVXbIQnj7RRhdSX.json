@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "#SI (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/7jMQtpxqAVNMyVHsel5OZq"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "#SI (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC"
+    },
+    {
+      "album": {
         "name": "Il cielo contromano",
         "url": "https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt"
       },
@@ -639,7 +661,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 169546,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/6BQAc2HhuDupDytILiSkZe"
@@ -679,7 +701,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1205,6 +1227,28 @@
       "duration_ms": 146933,
       "name": "BIG CHECKS (feat. Jake La Furia & Shiva)",
       "url": "https://open.spotify.com/track/7djURrG8mUDSehfhX97G35"
+    },
+    {
+      "album": {
+        "name": "BIRKIN (feat. Rondodasosa)",
+        "url": "https://open.spotify.com/album/7uXB0wqBqrdSlsf06uHxM6"
+      },
+      "artists": [
+        {
+          "name": "Trenches Baby",
+          "url": "https://open.spotify.com/artist/3q6fbAYooRJkfLgYgZrDX2"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "BIRKIN (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/7eA4sopBqbiwCfMvrU0504"
     },
     {
       "album": {
@@ -2326,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "cielo dammi la luna",
+        "url": "https://open.spotify.com/album/2thxODtq4K59HCgrrhTbw6"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154271,
+      "name": "cielo dammi la luna",
+      "url": "https://open.spotify.com/track/6OPtTeyh2B4I3Pm6biB91c"
+    },
+    {
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
       },
@@ -3117,7 +3179,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 192560,
       "name": "Demo Nello Stereo",
       "url": "https://open.spotify.com/track/7zMWPYqky1LBAmchavCAZI"
@@ -3923,6 +3985,24 @@
       "duration_ms": 196758,
       "name": "Envidioso (feat. Morad)",
       "url": "https://open.spotify.com/track/4jEPGkpoaINmlOYGVs79Ok"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/6a2IzTknTaQDYIV46Q5gd4"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214512,
+      "name": "Equilibrio mentale - Home piano session",
+      "url": "https://open.spotify.com/track/5frS6Yg6s0QBDca1rpnQqq"
     },
     {
       "album": {
@@ -6443,7 +6523,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
@@ -6767,6 +6847,28 @@
       "duration_ms": 267746,
       "name": "La Nuova Stella Di Broadway",
       "url": "https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46"
+    },
+    {
+      "album": {
+        "name": "Siamo Qui",
+        "url": "https://open.spotify.com/album/6xGhTntyRBXAchKqc331rW"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212828,
+      "name": "La Pioggia Alla Domenica (con Marracash)",
+      "url": "https://open.spotify.com/track/7I22RwUxDeWdQp2MQBbEfh"
     },
     {
       "album": {
@@ -8678,6 +8780,24 @@
     },
     {
       "album": {
+        "name": "MOLOTOV",
+        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160204,
+      "name": "MOLOTOV",
+      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
+    },
+    {
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
@@ -9121,7 +9241,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 197906,
       "name": "Nessuno",
       "url": "https://open.spotify.com/track/2ssTQhfRXPacZfzcXrrBza"
@@ -9395,7 +9515,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 284253,
       "name": "Noia",
       "url": "https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1"
@@ -11928,6 +12048,24 @@
     },
     {
       "album": {
+        "name": "Soldi Puliti",
+        "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Soldi Puliti",
+      "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
+    },
+    {
+      "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2"
       },
@@ -12675,7 +12813,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 128391,
       "name": "TARANTELLE",
       "url": "https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss"

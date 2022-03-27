@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Anna Lunoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,682 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,847 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 6 | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe) | 2:52 |
 | 7 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 |
 | 8 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 |
-| 9 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
+| 9 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 10 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 |
 | 11 | [Try](https://open.spotify.com/track/5hM4F7T6hEJUHdoVgukAiq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Try](https://open.spotify.com/album/2NehevZaBmXT9108S5mMyM) | 3:09 |
 | 12 | [Couple Bandz](https://open.spotify.com/track/6aVk0HYYYJKcIDeh16kOvk) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Couple Bandz EP](https://open.spotify.com/album/3ZNys1mUDFjv5lHpyNDYik) | 3:44 |

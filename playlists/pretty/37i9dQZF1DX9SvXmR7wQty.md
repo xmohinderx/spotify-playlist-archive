@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Corneille
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,957 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,961 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 24 | [Aphélie](https://open.spotify.com/track/1oyFzGMjJWnAsg9yC5u1GO) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Aphélie](https://open.spotify.com/album/0Ioq2Js5cjVVRR9jytXRRr) | 4:24 |
 | 25 | [Mydriase](https://open.spotify.com/track/01yc97XfLqHEzStxiSe5xA) | [Thick Glasses](https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj) | [Mydriase](https://open.spotify.com/album/1cIf2PdZsIFQLaN5Q1mGGe) | 3:24 |
 | 26 | [Loin de la guenille](https://open.spotify.com/track/208JeNNblyObOwyELA4R1o) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Loin de la guenille](https://open.spotify.com/album/41oj3WILNBUCB5nZLLjPwT) | 3:42 |
-| 27 | [Fléau Dicaprio \- Intro](https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Fléau Dicaprio \(Intro\)](https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN) | 2:49 |
+| 27 | [Fléau Dicaprio \- Intro](https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Fléau Dicaprio \(Intro\)](https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN) | 1:37 |
 | 28 | [Gossip](https://open.spotify.com/track/5GWE2impMFvY0oeRd1Xivt) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Gossip](https://open.spotify.com/album/2RBHpIgzKjrGmmkLPUcVI3) | 4:01 |
 | 29 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 |
 | 30 | [Rêvalité](https://open.spotify.com/track/0TXw4Bf24hMYaZrIQFLyyJ) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité](https://open.spotify.com/album/1XNjmVAarNS7T7cy99Ctt5) | 2:32 |

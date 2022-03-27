@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,122 likes - 77 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,181 likes - 77 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -19,7 +19,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 189693,
       "name": "At Your Funeral",
       "url": "https://open.spotify.com/track/340FrzH0Ji2keVAlX2FJZ5"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 240453,
       "name": "Be My Escape",
       "url": "https://open.spotify.com/track/5GhYfK0jevTEtXOaqCKCxw"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 220146,
       "name": "Check Yes, Juliet",
       "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 192373,
       "name": "Chick Magnet",
       "url": "https://open.spotify.com/track/4KLsA7o43EsGg2swkuol2J"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/3ZsexY07D4t4HRq7ogeSAS"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
@@ -343,10 +343,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 153426,
       "name": "Don't Call Me White",
       "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
+    },
+    {
+      "album": {
+        "name": "Hard Rock Bottom",
+        "url": "https://open.spotify.com/album/6TdS0Yfp7GcukVlZJfjmo3"
+      },
+      "artists": [
+        {
+          "name": "No Use For A Name",
+          "url": "https://open.spotify.com/artist/5p3WimI9yquAF6Lqhlm4Ol"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Dumb Reminders",
+      "url": "https://open.spotify.com/track/1OSm509RxY5oEQwSZEPeF6"
     },
     {
       "album": {
@@ -368,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Singles Going Steady",
+        "url": "https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Everybody's Happy Nowadays - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7xUEsVEwSSXhjgBgZG57Tl"
+    },
+    {
+      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -379,7 +415,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 188840,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 135133,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 218626,
       "name": "Ignorance",
       "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 185373,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/6i9dXbSk2vPtgciV9ZuRUv"
@@ -631,7 +667,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 130266,
       "name": "Linoleum",
       "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
@@ -775,7 +811,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "My Friends Over You",
       "url": "https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt"
@@ -818,6 +854,42 @@
     },
     {
       "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "No Cigar",
+      "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -847,7 +919,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 184293,
       "name": "Ole",
       "url": "https://open.spotify.com/track/2McQQA5nCLVL0XvzcxWhFC"
@@ -865,7 +937,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 157533,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
@@ -1027,7 +1099,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 220506,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6oiaq7aC6DooFHBFJkmQ1n"
@@ -1045,7 +1117,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Swing, Swing",
       "url": "https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2"
@@ -1099,7 +1171,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
@@ -1135,7 +1207,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/2D7tauy2bntJnJQ2C4rO4x"
@@ -1153,7 +1225,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 171093,
       "name": "The Rock Show",
       "url": "https://open.spotify.com/track/3C0f4W0lQSgMARICJF3KLh"
@@ -1178,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
+    },
+    {
+      "album": {
         "name": "How I Spent My Summer Vacation",
         "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
       },
@@ -1189,7 +1279,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
@@ -1207,7 +1297,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 133826,
       "name": "Unity - 2007 Remaster",
       "url": "https://open.spotify.com/track/2TncdAnbeRHID1yNR8YJC9"
@@ -1243,7 +1333,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 228693,
       "name": "Urban Struggle",
       "url": "https://open.spotify.com/track/7LqPbpF0tmGOkBBmXKmfI8"
@@ -1279,7 +1369,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/7dN52YlyGl6c9tmxdv6zMp"
@@ -1315,7 +1405,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"

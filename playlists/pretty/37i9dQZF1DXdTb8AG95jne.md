@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Wilcox\(윌콕스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,155 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,417 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [My Last Teen](https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [My Last Teen](https://open.spotify.com/album/1WkXMTU4ozoGKFQmM9xyIB) | 2:55 |
 | 50 | [Let's stay together](https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th) | [O.zic](https://open.spotify.com/artist/3CAnNFqNZE11RKX3743MfR), [Martian](https://open.spotify.com/artist/2NBnwR3hvn7iOIfxWBzCYK) | [Let's stay together](https://open.spotify.com/album/6pZaDtwrcHUTPW1XOok1kA) | 3:59 |
 
-Snapshot ID: `MTY0ODI1NjI1MywwMDAwMDAwMDY0YmI5ODE0ZWUxMGYyMDMyZDQxMTkxZmY4YWRiYjVj`
+Snapshot ID: `MTY0ODM0MzAxMiwwMDAwMDAwMDY0YmI5ODE0ZWUxMGYyMDMyZDQxMTkxZmY4YWRiYjVj`

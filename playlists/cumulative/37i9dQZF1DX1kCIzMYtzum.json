@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 199017,
       "name": "Around The World (feat. NOUMENN)",
       "url": "https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 139687,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5q2cqCySPgK595wNyN0XEr"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 182115,
       "name": "Big Love (with Wrabel)",
       "url": "https://open.spotify.com/track/0PGpWcKIlayTwPdz6Qstol"
@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Breakfast In Vegas",
+        "url": "https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Breakfast In Vegas",
+      "url": "https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A"
+    },
+    {
+      "album": {
         "name": "Breathe (feat. kaspara)",
         "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 172500,
       "name": "Bridged By A Lightwave - Radio Edit",
       "url": "https://open.spotify.com/track/5emTyRnoMTLc9G44RR6XIE"
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 334080,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/7lASXKZKcnCf9pS03638hS"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "Close to You (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
@@ -519,7 +537,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 268817,
       "name": "Colours",
       "url": "https://open.spotify.com/track/22y2mqIBERBviZF0fa86iw"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 191250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
@@ -611,10 +629,36 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 150468,
       "name": "Distant Memory (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
+    },
+    {
+      "album": {
+        "name": "Domino (feat. Oxia)",
+        "url": "https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Domino (feat. Oxia)",
+      "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
     },
     {
       "album": {
@@ -655,7 +699,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 153276,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/2FxJX5c1FkfLpladsgoLAD"
@@ -677,10 +721,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6FzpGsnMM5OMVw2xY8tCm5"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192470,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3E7NvHQfe0GNagcVW3fzlm"
     },
     {
       "album": {
@@ -703,7 +765,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 192352,
       "name": "Echo (with KSHMR)",
       "url": "https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL"
@@ -785,7 +847,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
@@ -877,7 +939,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 200347,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/06PBQ4rDmHRVfWsszDwLTa"
@@ -895,7 +957,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 217322,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm"
@@ -1023,7 +1085,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 173694,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
@@ -1119,7 +1181,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 149032,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
@@ -1141,7 +1203,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 154687,
       "name": "Harmony (feat. Xillions)",
       "url": "https://open.spotify.com/track/3pfFewDjOS8qWeffxjALA2"
@@ -1163,10 +1225,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 156444,
       "name": "Hasta La Vista",
       "url": "https://open.spotify.com/track/0PTO7jQosM3VY3Orohun9y"
+    },
+    {
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "album": {
@@ -1332,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161035,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
+    },
+    {
+      "album": {
         "name": "Into The Fire",
         "url": "https://open.spotify.com/album/33i8sQO6hNZk6wMhIBJSEv"
       },
@@ -1387,7 +1489,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 133124,
       "name": "Kong",
       "url": "https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA"
@@ -1405,7 +1507,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 224285,
       "name": "Learn To Love Again",
       "url": "https://open.spotify.com/track/4548LyFomXQmDAINcFizEq"
@@ -1449,7 +1551,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 173830,
       "name": "Leave A Little Love - Club Mix",
       "url": "https://open.spotify.com/track/0Z2X7AmqYiIFVKVRMYd2Ka"
@@ -1467,10 +1569,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 191000,
       "name": "Letters",
       "url": "https://open.spotify.com/track/21te7Pz3VowOuFho1nfdR0"
+    },
+    {
+      "album": {
+        "name": "Liberty (feat. Heleen)",
+        "url": "https://open.spotify.com/album/6gwgGQXfWRutMS0p62hvAe"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209531,
+      "name": "Liberty (feat. Heleen)",
+      "url": "https://open.spotify.com/track/5HhmdA5b7eVszPf7GqIocf"
     },
     {
       "album": {
@@ -1515,7 +1639,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 209538,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/4IZ3DxkUdkZVPNGoAHOk3m"
@@ -1533,7 +1657,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
@@ -1555,10 +1679,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm"
     },
     {
       "album": {
@@ -1607,7 +1749,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
@@ -1633,7 +1775,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Love Is Gone (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/4AoUdMZGoPZZQxVFnoVQEl"
@@ -1677,7 +1819,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl"
@@ -1699,7 +1841,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Love Tonight - David Guetta Remix Edit",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
@@ -1823,7 +1965,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
@@ -1907,7 +2049,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 167503,
       "name": "More Than I Want To",
       "url": "https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy"
@@ -1958,6 +2100,32 @@
     },
     {
       "album": {
+        "name": "My Sound",
+        "url": "https://open.spotify.com/album/6t8b5FAmdQe8nCA1VVwxg8"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125584,
+      "name": "My Sound",
+      "url": "https://open.spotify.com/track/3JvHrWx1xEIdhhkR6pXW0L"
+    },
+    {
+      "album": {
         "name": "Neon Lights",
         "url": "https://open.spotify.com/album/4RxUDHm3Qd2YV5lTQx0tnB"
       },
@@ -1969,7 +2137,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 182243,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/4iqmktYiX3g7jAwr73i6yC"
@@ -2013,10 +2181,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 382439,
       "name": "Next to Me - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz"
+    },
+    {
+      "album": {
+        "name": "Nextra",
+        "url": "https://open.spotify.com/album/5adMXoePLQgfglzbA7M7vp"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Nextra",
+      "url": "https://open.spotify.com/track/6U9XV3WFi4Lo89SHxFpyNg"
     },
     {
       "album": {
@@ -2261,7 +2447,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 301600,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/6VHjUmQyWCh1WeFv69FzXS"
@@ -2283,7 +2469,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 186666,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
@@ -2349,7 +2535,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 185585,
       "name": "Places",
       "url": "https://open.spotify.com/track/1FxZblJPTjTl7SWSOwdmBk"
@@ -2459,7 +2645,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 238124,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4rlvB2h88B4Qhi7dfuDDlt"
@@ -2503,7 +2689,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 177142,
       "name": "Relight My Love",
       "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
@@ -2555,7 +2741,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 301090,
       "name": "Returning To You (feat. Alison May)",
       "url": "https://open.spotify.com/track/6IzwNz9jjHpvEqWmyLYUXa"
@@ -2625,7 +2811,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 208800,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7"
@@ -2647,7 +2833,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 176078,
       "name": "Satellites (feat. Joe Jury)",
       "url": "https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w"
@@ -2673,7 +2859,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 171796,
       "name": "Save Me (feat. Violet Days) - Tungevaag Remix",
       "url": "https://open.spotify.com/track/45srzqej6QL7I5CQtorj0d"
@@ -2695,7 +2881,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 267676,
       "name": "Saving Lives",
       "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
@@ -2765,7 +2951,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 165916,
       "name": "Set Me Free (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/1uGsxm2hkpBHiPvn8g2zwH"
@@ -2839,7 +3025,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 186212,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY"
@@ -2895,7 +3081,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 251830,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F"
@@ -3015,7 +3201,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
@@ -3044,6 +3230,24 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6iGoeRL6uGgXlKwLEgUcSf"
+      },
+      "artists": [
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2ERm2HjvmrpTMuqxIIBUsk"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh"
       },
@@ -3055,7 +3259,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 186141,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To"
@@ -3129,7 +3333,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -3151,7 +3355,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 162187,
       "name": "The Logical Song",
       "url": "https://open.spotify.com/track/1pUTByFRmxwuFIl18NpUB8"
@@ -3173,7 +3377,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 156923,
       "name": "The Lone Ranger",
       "url": "https://open.spotify.com/track/12KMoAMzaeBFh91O5sxP2o"
@@ -3195,10 +3399,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "album": {
+        "name": "This Is Our Legacy",
+        "url": "https://open.spotify.com/album/4Ce0abdgk79C6cH8frg7Eq"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "This Is Our Legacy",
+      "url": "https://open.spotify.com/track/32aKImKoiukzUxnWENXJXb"
     },
     {
       "album": {
@@ -3224,6 +3454,32 @@
     },
     {
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
       },
@@ -3239,7 +3495,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 218239,
       "name": "Tie Me Down (with Elley Duh\u00e9)",
       "url": "https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs"
@@ -3283,7 +3539,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 183090,
       "name": "Unbreakable (with Sam Gray)",
       "url": "https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh"
@@ -3309,7 +3565,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "Use Your Love (feat. Goldford)",
       "url": "https://open.spotify.com/track/5W05N4aETUauCVzddI8L66"
@@ -3404,6 +3660,28 @@
     },
     {
       "album": {
+        "name": "Dharma: Sounds of Summer Vol. III",
+        "url": "https://open.spotify.com/album/40PtQ7ERWxDO7gkcgimSRq"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210434,
+      "name": "Winners Anthem",
+      "url": "https://open.spotify.com/track/2kQvw0jH3JKKWVBccDPK9Y"
+    },
+    {
+      "album": {
         "name": "Wish It Was You",
         "url": "https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb"
       },
@@ -3419,7 +3697,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 192000,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
@@ -3471,7 +3749,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 225000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
@@ -3519,7 +3797,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 190312,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8"
@@ -3603,7 +3881,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 156729,
       "name": "Young Summer",
       "url": "https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw"

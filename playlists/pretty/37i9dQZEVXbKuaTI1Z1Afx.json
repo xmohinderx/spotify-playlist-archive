@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 359696,
+  "num_followers": 359747,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAxNTI2ODQyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAxNjEyMzU3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Turning Red (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
@@ -65,10 +65,10 @@
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+        "name": "Just A Cloud Away",
+        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
       },
       "artists": [
         {
@@ -77,11 +77,11 @@
         }
       ],
       "duration_ms": 176078,
-      "name": "Just a Cloud Away",
-      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+      "name": "Just A Cloud Away",
+      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Sleazy Flow",
         "url": "https://open.spotify.com/album/4Qku5Zl0Smuzw2ZbupxtaV"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5mt882Eqx22RwFOTE01jS8"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia"
@@ -133,23 +133,7 @@
       "url": "https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
-      },
-      "artists": [
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Messages from the Stars",
-      "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Birthday Cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
+      },
+      "artists": [
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Messages from the Stars",
+      "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Nevermind (30th Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Numb Little Bug",
         "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "L.A. to Miami",
         "url": "https://open.spotify.com/album/2KtKTDPHET53VNgccwlYvj"
@@ -229,71 +229,23 @@
       "url": "https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Virtuous",
-        "url": "https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "556 (Green Tip)",
-      "url": "https://open.spotify.com/track/34avwQb8IKQDlzbSwfktmv"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
@@ -309,7 +261,39 @@
       "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -325,7 +309,7 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
@@ -341,7 +325,39 @@
       "url": "https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Virtuous",
+        "url": "https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "556 (Green Tip)",
+      "url": "https://open.spotify.com/track/34avwQb8IKQDlzbSwfktmv"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
@@ -357,7 +373,23 @@
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "UNDERWATER",
         "url": "https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4"
@@ -377,55 +409,23 @@
       "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Super Urus",
-        "url": "https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Super Urus",
-      "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Super Urus",
+        "url": "https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Super Urus",
+      "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "I'm Tired (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
@@ -477,23 +493,7 @@
       "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "From Austin",
-        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "From Austin",
-      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -525,43 +525,7 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 122226,
-      "name": "CHICKEN TERIYAKI",
-      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
@@ -581,7 +545,27 @@
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
@@ -597,7 +581,7 @@
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Street Poetry",
         "url": "https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy"
@@ -617,7 +601,7 @@
       "url": "https://open.spotify.com/track/27jThnrlCYR5fqSaRfjmxX"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Good Ol' Man",
         "url": "https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s"
@@ -633,7 +617,23 @@
       "url": "https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Raised",
         "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
@@ -649,7 +649,27 @@
       "url": "https://open.spotify.com/track/0ENB9P6WtUEKYjQ3dKnK23"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "GHETTO GODS",
         "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
@@ -673,23 +693,7 @@
       "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
@@ -705,75 +709,23 @@
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
-        "name": "The Last Goodbye (feat. Bettye LaVette)",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye (feat. Bettye LaVette)",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "Cut My Fingers Off",
-        "url": "https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Cut My Fingers Off",
-      "url": "https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
@@ -789,7 +741,75 @@
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "Cut My Fingers Off",
+        "url": "https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 139836,
+      "name": "Cut My Fingers Off",
+      "url": "https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
+    },
+    {
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
         "name": "IMPERA",
         "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
@@ -849,40 +869,20 @@
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
     },
     {
-      "added_at": "2022-03-25 12:34:02",
+      "added_at": "2022-03-26 12:19:17",
       "album": {
-        "name": "Growing Old With You",
-        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 196007,
-      "name": "Growing Old With You",
-      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
-    },
-    {
-      "added_at": "2022-03-25 12:34:02",
-      "album": {
-        "name": "The Gold (Phoebe Bridgers Version)",
-        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "The Gold - Phoebe Bridgers Version",
-      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     }
   ],
   "unique_name": "Viral 50 - USA",

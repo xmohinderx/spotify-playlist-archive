@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,299 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,408 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

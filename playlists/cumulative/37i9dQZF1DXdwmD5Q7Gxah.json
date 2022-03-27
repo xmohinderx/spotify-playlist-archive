@@ -11006,6 +11006,24 @@
     },
     {
       "album": {
+        "name": "View from the Bridge",
+        "url": "https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/5w54zex3SDT8IKQ3WjCYcc"
+    },
+    {
+      "album": {
         "name": "Hide n Seek",
         "url": "https://open.spotify.com/album/7ipGqWiyrmvRb2uuWr4FT6"
       },

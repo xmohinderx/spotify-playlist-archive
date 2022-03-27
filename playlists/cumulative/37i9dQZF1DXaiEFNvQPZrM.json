@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Broke Again",
+        "url": "https://open.spotify.com/album/38tkV9kjqwQ5jho1f6N26W"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151930,
+      "name": "Broke Again",
+      "url": "https://open.spotify.com/track/0Mb0wOCpbmHOZbxyD0Eomu"
+    },
+    {
+      "album": {
         "name": "Broken Neon Hearts",
         "url": "https://open.spotify.com/album/3UBCPfcnpK4KidTVfJT6BE"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 201435,
       "name": "Broken Neon Hearts",
       "url": "https://open.spotify.com/track/4p3FGuE3sa95Oq8CUggOtg"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 227198,
       "name": "Dancing Away with My Heart",
       "url": "https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Demons",
       "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 203400,
       "name": "Eighteen Wheels And A Dozen Roses",
       "url": "https://open.spotify.com/track/50iMY1vxRo3GiVvReK9Hxf"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 202786,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 212586,
       "name": "Forever and Ever, Amen",
       "url": "https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 212133,
       "name": "Gettin' You Home",
       "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 202346,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 239145,
       "name": "I Can Be Your Whiskey",
       "url": "https://open.spotify.com/track/0A7GvbqAUCnpSQb3TLKKFO"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 223280,
       "name": "If Heaven Wasn't So Far Away",
       "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 144186,
       "name": "Louisiana Saturday Night",
       "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 157961,
       "name": "My Kinda Trouble",
       "url": "https://open.spotify.com/track/26DQPEXZJNwU5Qiite8NxW"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 221266,
       "name": "Ol' Red",
       "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 191200,
       "name": "One More Last Chance",
       "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "One Night Standards",
       "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 197044,
       "name": "Over Drinkin' Under Thinkin'",
       "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 173866,
       "name": "Straight Tequila Night",
       "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
@@ -1804,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Sounds So Good",
+        "url": "https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO"
+      },
+      "artists": [
+        {
+          "name": "Ashton Shepherd",
+          "url": "https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154706,
+      "name": "The Bigger The Heart",
+      "url": "https://open.spotify.com/track/46LEbaPEXAPlD4opcKx9Q3"
+    },
+    {
+      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 206320,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 181973,
       "name": "Watermelon Crawl",
       "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"

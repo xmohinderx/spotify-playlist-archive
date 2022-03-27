@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,332 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,411 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 7 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |
 | 8 | [Few Good Things \(feat\. Black Thought and Eryn Allen Kane\)](https://open.spotify.com/track/61fQSX9Dq75oDhJbIP8v9n) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 7:08 |
 | 9 | [Dirty Work](https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dirty Work](https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa) | 2:42 |
-| 10 | [OXTAILS](https://open.spotify.com/track/4tY9FYkN8KT9hLjiWW1cHx) | [Price](https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 2:27 |
+| 10 | [OXTAILS](https://open.spotify.com/track/4tY9FYkN8KT9hLjiWW1cHx) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 2:27 |
 | 11 | [Coastin'](https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa) | [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq), [Traxx Sanders](https://open.spotify.com/artist/39hYtulYdIhaHAWXrAdlJy) | [Rise & Fall of Slaughterhouse](https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp) | 4:00 |
 | 12 | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Heaven's Sky \(feat\. Rae Khalil\)](https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj) | 3:49 |
 | 13 | [No Yeast \(feat\. Boldy James\)](https://open.spotify.com/track/3x9UBH1vVMNVLCPTx9duyZ) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 4:03 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 15 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 |
 | 16 | [Back 2x \(feat\. Stove God Cooks\)](https://open.spotify.com/track/0jMPyBUzWqpfkoWstJyphm) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:50 |
 | 17 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 |
-| 18 | [BURNT OUT](https://open.spotify.com/track/5Qhs1lVqyEgYaubGR4sag5) | [Price](https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 2:50 |
+| 18 | [BURNT OUT](https://open.spotify.com/track/5Qhs1lVqyEgYaubGR4sag5) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 2:50 |
 | 19 | [Sorry](https://open.spotify.com/track/7toYuUKCvujYvabAaHM19N) | [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq) | [Rise & Fall of Slaughterhouse](https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp) | 3:23 |
 | 20 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 |
 | 21 | [Weekends In The Perry's \(feat\. Boldy James\)](https://open.spotify.com/track/2r5G6pNUrUrNs1IjNVB9y0) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,331 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,642 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Better By Your Side](https://open.spotify.com/track/1veoLuuMcaSn6rPACuG52I) | [Aeble](https://open.spotify.com/artist/2rj2ySmbSsmrzVGtufnXAZ), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/7hGjlFp2mMlkZW21nXjH7D) | 5:19 |
 | 115 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 |
 
-Snapshot ID: `MTY0ODI1NjIwNCwwMDAwMDAwMDBkNDJhZGFkZjgyYzNkZjhkYjA1YmUxY2M0ZTc3MWJj`
+Snapshot ID: `MTY0ODM0Mjk2NiwwMDAwMDAwMDBkNDJhZGFkZjgyYzNkZjhkYjA1YmUxY2M0ZTc3MWJj`

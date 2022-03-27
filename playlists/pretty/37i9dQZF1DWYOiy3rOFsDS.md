@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Flor Amargo y Michelle Rodriguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,943 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,011 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 100 | [Por Siempre Lara / Popurrí](https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 5:30 |
 
-Snapshot ID: `MTY0ODI1NTc4MCwwMDAwMDAwMGNlMjkyZDg1NGFlNjY2ZTM1ZjI0NjYzNGJkYzAxYWU5`
+Snapshot ID: `MTY0ODM0MjUzOCwwMDAwMDAwMGNlMjkyZDg1NGFlNjY2ZTM1ZjI0NjYzNGJkYzAxYWU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,115 likes - 130 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,283 likes - 130 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 10 | [Locco](https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco](https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj) | 3:03 |
 | 11 | [Perfect](https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Perfect](https://open.spotify.com/album/3tqNGEZdCA5ZyLxquLoxBY) | 3:06 |
 | 12 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 |
-| 13 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
+| 13 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 14 | [Sin City](https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Miami MMW](https://open.spotify.com/album/7oNOJ2vYMskdtGToAqloUs) | 5:58 |
 | 15 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 |
 | 16 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 |

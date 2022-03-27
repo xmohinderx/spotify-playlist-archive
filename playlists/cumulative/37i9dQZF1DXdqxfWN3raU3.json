@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 191688,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4FjobZuLYrJvFpeXcn2Ual"
@@ -872,6 +872,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra"
+    },
+    {
+      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 213352,
       "name": "Mil D\u00edas",
       "url": "https://open.spotify.com/track/4lOgqoITjicF1LYFHNuDxh"
@@ -2201,6 +2223,28 @@
       "duration_ms": 159000,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/4fq8WAZCvNYr8seBcf1ONw"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/07sanYUCVRMbsAAwBiIWkk"
+      },
+      "artists": [
+        {
+          "name": "LUL\u00da",
+          "url": "https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/3gOA4thR0Rv6pMzQgeh3Kk"
     },
     {
       "album": {

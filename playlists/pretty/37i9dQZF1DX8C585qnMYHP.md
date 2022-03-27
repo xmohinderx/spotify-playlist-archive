@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Kai Landre, Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,741 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,845 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Invierno](https://open.spotify.com/track/2PrXFWtMzClqhoCcACdfKZ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Frecuencias](https://open.spotify.com/album/6ZRpYwVvo9cXjBekMTm78o) | 7:03 |
 | 50 | [Gloren](https://open.spotify.com/track/5GG0vgXMzx2amjFofdeoyh) | [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj) | [Het Jaar Rond \(Part 1 & 2\)](https://open.spotify.com/album/3EJCDGgWiR4zQgxmOvT2K0) | 2:05 |
 
-Snapshot ID: `MTY0ODI1NjA5MywwMDAwMDAwMGRiNWYxZTczYTEyMDg3NzFlNjBmZjYzNzJjZDFmOTI1`
+Snapshot ID: `MTY0ODM0Mjg1MiwwMDAwMDAwMGRiNWYxZTczYTEyMDg3NzFlNjBmZjYzNzJjZDFmOTI1`

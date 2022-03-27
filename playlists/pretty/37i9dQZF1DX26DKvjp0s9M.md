@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,524 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,746 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Our Way to Fall](https://open.spotify.com/track/6Cp1LNb26iMtPT7JTtEZyD) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5egsoXU4SPbj38cP9sBlXk) | 4:18 |
 | 100 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
 
-Snapshot ID: `MTY0ODI1NTg5OSwwMDAwMDAwMGJiNThiZjJlNTM1NmYwMjUyZDJmZjczZWQ3MmI5ZmI3`
+Snapshot ID: `MTY0ODM0MjY1OCwwMDAwMDAwMGJiNThiZjJlNTM1NmYwMjUyZDJmZjczZWQ3MmI5ZmI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,865 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,973 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 28 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 |
 | 29 | [On My Mind](https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [On My Mind](https://open.spotify.com/album/6PEkbnlo9YzRWqEL4A7hru) | 3:13 |
 | 30 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 |
-| 31 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
+| 31 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 32 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 |
 | 33 | [Afterparty](https://open.spotify.com/track/2hA6fssYxjLYjsVolzghO7) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Afterparty](https://open.spotify.com/album/2ltcoGtwFuWByn247k6SYB) | 2:36 |
 | 34 | [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 |

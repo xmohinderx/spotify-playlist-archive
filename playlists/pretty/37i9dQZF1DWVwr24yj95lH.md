@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,568 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,871 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 74 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 75 | [Bulletproof Skin](https://open.spotify.com/track/6JJ8dMD8ZHo9RQbZfKUTyK) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/39NUMGNHvB1k3VWzujcCPv) | 4:25 |
 
-Snapshot ID: `MTY0ODI1NTY5OSwwMDAwMDAwMDcwN2FmZjhhODIwM2IxZTZjNGQ0ZjFjODI5MmY3ZTY4`
+Snapshot ID: `MTY0ODM0MjQ2MCwwMDAwMDAwMDcwN2FmZjhhODIwM2IxZTZjNGQ0ZjFjODI5MmY3ZTY4`

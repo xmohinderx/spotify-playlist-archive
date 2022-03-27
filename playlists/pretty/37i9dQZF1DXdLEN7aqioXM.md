@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,945 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,222 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 74 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 |
 | 75 | [Karpen Island](https://open.spotify.com/track/09U5UJaUJM9PPVGLtJpfBo) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Karpen Island](https://open.spotify.com/album/3cQfF7a7qLoeE8L2IIPUqq) | 4:04 |
 
-Snapshot ID: `MTY0ODI1NjI0OCwwMDAwMDAwMDI2YjU2ZTM3NjkzNjQ1ZWNiODgxZjVjNmU1Nzk3Yzc1`
+Snapshot ID: `MTY0ODM0MzAwOCwwMDAwMDAwMDI2YjU2ZTM3NjkzNjQ1ZWNiODgxZjVjNmU1Nzk3Yzc1`

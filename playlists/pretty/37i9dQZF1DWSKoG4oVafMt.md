@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,347 likes - 130 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,380 likes - 130 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 26 | [Password](https://open.spotify.com/track/1rM0PeiGbNxzCZ1ilf71d8) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Password](https://open.spotify.com/album/0lxZ4cOQs3JYsii2lyKacl) | 3:57 |
 | 27 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 |
 | 28 | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/4qjrUAcl6Wn7BdEVBLk33y) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/1NtyJGZS5HMYEjF8TQHdGU) | 3:14 |
-| 29 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/7JNt8mjHCpQhyHzSeoePjh), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 |
+| 29 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 |
 | 30 | [Peg Patiala](https://open.spotify.com/track/1T2zltv44cifAqZIbG3D2N) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Arash Chhina](https://open.spotify.com/artist/6Sy6FzlKYR4MeDoTgfMyom) | [Peg Patiala](https://open.spotify.com/album/5avTKrtiB7J3HbUWYGStQB) | 3:06 |
 | 31 | [Gal Ni Bani](https://open.spotify.com/track/14yIcx0HA4RTKkndUvHlda) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Gal Ni Bani](https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl) | 3:07 |
 | 32 | [Kamle](https://open.spotify.com/track/5uNm77aBEuopKbTF7YiS89) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Kamle](https://open.spotify.com/album/3KDTdujphlEgheFK4JNqMu) | 3:39 |

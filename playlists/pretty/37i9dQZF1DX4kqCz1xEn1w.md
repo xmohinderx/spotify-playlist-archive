@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,386 likes - 80 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,562 likes - 80 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 79 | [Jesus Only You](https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Jesus Only You](https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy) | 4:43 |
 | 80 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 
-Snapshot ID: `MTY0ODI1NTk4MywwMDAwMDAwMDZkZDdjZTk3MWM5ZmZkMGRhYjhjNmFiNjQyYTgwZDlh`
+Snapshot ID: `MTY0ODM0Mjc0MCwwMDAwMDAwMDZkZDdjZTk3MWM5ZmZkMGRhYjhjNmFiNjQyYTgwZDlh`

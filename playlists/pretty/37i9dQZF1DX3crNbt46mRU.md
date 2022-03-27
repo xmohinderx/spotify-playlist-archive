@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: J Balvin, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,846 likes - 111 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,854 likes - 111 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Dancing Alone](https://open.spotify.com/track/0kd0RQZjFRUkS1CEh6Ry47) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Human disorder](https://open.spotify.com/album/7pqfT0igQtjHaDnYChZjCl) | 2:57 |
 | 41 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 |
 | 42 | [Joy\. \(Baobab Forever\)](https://open.spotify.com/track/0x4tHC3PWbBR3M7iw8VTk1) | [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [Joy\. \(Baobab Forever\)](https://open.spotify.com/album/3Z3ZO3INHmdyIzHFYRn68W) | 3:13 |
-| 43 | [CANIM](https://open.spotify.com/track/1tWARjTaLLHYLCZ8xZPF6r) | [OMG](https://open.spotify.com/artist/6tYttpEMZc06pbMnWBe7mg), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [CANIM](https://open.spotify.com/album/74g1NnNDDWwBivhFaJVoi9) | 2:29 |
+| 43 | [CANIM](https://open.spotify.com/track/1tWARjTaLLHYLCZ8xZPF6r) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [CANIM](https://open.spotify.com/album/74g1NnNDDWwBivhFaJVoi9) | 2:29 |
 | 44 | [CALL MY NAME](https://open.spotify.com/track/58up6yfV93UQeLdPbjFBWe) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [BLVTH](https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e) | [CALL MY NAME](https://open.spotify.com/album/1EjIyKFyeW0e6N8SMVClqr) | 2:31 |
 | 45 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 |
 | 46 | [Es regnet Hirn](https://open.spotify.com/track/5hOSeZSnO899mHN5iDzuyu) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Es regnet Hirn](https://open.spotify.com/album/54CpplyZMqdDjZl1pm6a9a) | 3:21 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 71 | [Equilibre](https://open.spotify.com/track/6Pbpxnggnmnqf6ZLt9jQOa) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Ali](https://open.spotify.com/artist/3mGNF0avcgm8aDyN2GexLC) | [NAUTILUS](https://open.spotify.com/album/5WdmtTa8KU8Rq8ZPGD5XXH) | 3:40 |
 | 72 | [Heimlich weinen](https://open.spotify.com/track/3j2SqIXv55gkfLZQIWb70i) | [Julita](https://open.spotify.com/artist/4NKBz9XWRy7r1B69L4gg5l), [Laruzo](https://open.spotify.com/artist/2PzqiEyRzlQW0ZAVr1cuQM) | [Heimlich weinen](https://open.spotify.com/album/1uVlOVy3XPWDynTZoGkbW6) | 2:29 |
 | 73 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
-| 74 | [Stars In The Sky](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
+| 74 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
 | 75 | [Alois](https://open.spotify.com/track/5qLNPn5khPDXOJKs3QXxov) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alois](https://open.spotify.com/album/0S1r5BudmNdAnkGRqrcKrL) | 2:42 |
 | 76 | [Baby, dass du es weißt](https://open.spotify.com/track/6y30hdPJ5Kpux61XBYNZ7f) | [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Baby, dass du es weißt](https://open.spotify.com/album/1OS1IyU8kHYFciyVACKbdF) | 4:17 |
 | 77 | [One Last Time](https://open.spotify.com/track/4782ymSviHoczj1avogoi6) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [One Last Time](https://open.spotify.com/album/386MEAVaDVaOFyywaU27Hj) | 2:45 |

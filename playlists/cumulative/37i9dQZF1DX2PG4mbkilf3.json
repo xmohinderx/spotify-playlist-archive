@@ -1236,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "IT'S NOT PERSONAL",
+        "url": "https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199548,
+      "name": "IF HE RULES THE WORLD",
+      "url": "https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs"
+    },
+    {
+      "album": {
         "name": "IF HE RULES THE WORLD",
         "url": "https://open.spotify.com/album/5APVoIcLvUR7nXp9cY4VKU"
       },

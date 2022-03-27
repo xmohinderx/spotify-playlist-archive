@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Latto, Nigo, 42 Dugg and more\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,686 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,845 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [Late Nights \(feat\. Jim Jones\)](https://open.spotify.com/track/40i123eK1z1saRvFPPX8YV) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [2 P'z In A Pod](https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk) | 3:51 |
 | 17 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 |
 | 18 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 |
-| 19 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 |
+| 19 | [How The Story Goes](https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [How The Story Goes](https://open.spotify.com/album/3Lh9rO1ivLNkrRr7iIAiEv) | 3:09 |
 | 20 | [B.A.M.](https://open.spotify.com/track/4zcvcmOQNzhIseuZyt4Jqe) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [B.A.M.](https://open.spotify.com/album/27tc3vusfciaqBm3j48Upx) | 3:00 |
 | 21 | [Cant Blame Ye](https://open.spotify.com/track/1Ob1NbJeCfWIlvVkHnCDU7) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Cant Blame Ye](https://open.spotify.com/album/6jzGSDifdef9dDu0flGJlp) | 2:10 |
 | 22 | [Heaven Gates](https://open.spotify.com/track/6jRUBdaeGnZ60igqlQwY7L) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [All is Well \- EP](https://open.spotify.com/album/0EC10ZXXZippfmwd7KXiyH) | 1:43 |

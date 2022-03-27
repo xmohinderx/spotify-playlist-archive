@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,300 likes - 116 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,830 likes - 116 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 115 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 |
 | 116 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 |
 
-Snapshot ID: `MTY0ODI1NTU5NiwwMDAwMDAwMDJjMWZhNzE4M2JmOGIyZjJkZjg1MGI0ZWE2ZmFiMmEx`
+Snapshot ID: `MTY0ODM0MjM1NiwwMDAwMDAwMDJjMWZhNzE4M2JmOGIyZjJkZjg1MGI0ZWE2ZmFiMmEx`

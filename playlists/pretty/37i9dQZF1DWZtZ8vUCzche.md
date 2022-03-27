@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,234 likes - 150 songs - 12 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,880 likes - 150 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 149 | [Gosh](https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:51 |
 | 150 | [Wrong](https://open.spotify.com/track/45vwGBTaybVPIIxNvxUWQO) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/459tNoDnuv0bL9ue9pENVz) | 4:36 |
 
-Snapshot ID: `MTY0ODI1NTgyMiwwMDAwMDAwMDNkMWMzODE0MDZlYWJkMzhlYzg2OWIzNzg2NzVjNjZl`
+Snapshot ID: `MTY0ODM0MjU4MiwwMDAwMDAwMDNkMWMzODE0MDZlYWJkMzhlYzg2OWIzNzg2NzVjNjZl`

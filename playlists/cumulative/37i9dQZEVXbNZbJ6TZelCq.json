@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 228750,
       "name": "60 De Zile II",
       "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 177000,
       "name": "AKATSUKI CYPHER",
       "url": "https://open.spotify.com/track/0RrGT6iyMoJgAxYHf3udEO"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 183745,
       "name": "Biliard",
       "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
@@ -1405,6 +1405,28 @@
       "duration_ms": 278085,
       "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
       "url": "https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229285,
+      "name": "Bonsai",
+      "url": "https://open.spotify.com/track/1bQVPUUy0VMcqpIRtByrpN"
     },
     {
       "album": {
@@ -1800,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Cand o sa mor o sa ma iubiti",
+      "url": "https://open.spotify.com/track/2WEgvz7sC24V8cWgYHWbZ2"
+    },
+    {
+      "album": {
         "name": "Capitanu'",
         "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
       },
@@ -1889,6 +1929,42 @@
       "duration_ms": 192666,
       "name": "Cel Mai Trist Refren",
       "url": "https://open.spotify.com/track/2I2lGNPJaPKRHNgA8KVf65"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Cel Mai Trist Refren",
+      "url": "https://open.spotify.com/track/6ON6vvS7yOeYz42ly7srah"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Central Cee",
+      "url": "https://open.spotify.com/track/24sTVPMtSRMUkQVKvF6iiC"
     },
     {
       "album": {
@@ -3079,7 +3155,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 174130,
       "name": "Doua Lumi",
       "url": "https://open.spotify.com/track/3w0zgo6MI4BQUQBlKn258R"
@@ -3545,7 +3621,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 71285,
       "name": "Exorcist (Bgm)",
       "url": "https://open.spotify.com/track/3I6v1zLqMFoDUeJWsgjJOO"
@@ -3669,6 +3745,28 @@
       "duration_ms": 134750,
       "name": "Fara ea 2",
       "url": "https://open.spotify.com/track/1UjP9uo5gZryK4oe1Tbu4B"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Azteca",
+          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Farmec",
+      "url": "https://open.spotify.com/track/4LfjUicRgxrGnP64qyWQ4W"
     },
     {
       "album": {
@@ -4263,7 +4361,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 169156,
       "name": "Giulesti Crangasi",
       "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
@@ -4513,7 +4611,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 177324,
       "name": "Hai s\u0103 uit\u0103m de tot",
       "url": "https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz"
@@ -5647,7 +5745,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 202001,
       "name": "Janes Romanes",
       "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
@@ -5887,6 +5985,24 @@
       "duration_ms": 221385,
       "name": "Keep My Spirit Alive",
       "url": "https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206098,
+      "name": "Kira",
+      "url": "https://open.spotify.com/track/2VidPtBBYDTGB5pVTFgLDR"
     },
     {
       "album": {
@@ -6367,6 +6483,24 @@
       "duration_ms": 269248,
       "name": "Light It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151648,
+      "name": "Light Yagami",
+      "url": "https://open.spotify.com/track/6osHAN7F3P3LgCGui3dtNm"
     },
     {
       "album": {
@@ -7844,6 +7978,24 @@
     },
     {
       "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166808,
+      "name": "Nu te inteleg",
+      "url": "https://open.spotify.com/track/2gwui43PjsnTNNKUCAUCWk"
+    },
+    {
+      "album": {
         "name": "BANDO 2",
         "url": "https://open.spotify.com/album/6KGDcUVT6gGuJfpiOQ6lBG"
       },
@@ -7863,6 +8015,24 @@
       "duration_ms": 189268,
       "name": "Nu Te Mai Recunosc",
       "url": "https://open.spotify.com/track/0BCQslPosacXKTL0ox7nQa"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "O vreau pe mama fericita",
+      "url": "https://open.spotify.com/track/3lJOwdQ4BGQbsT8mvitzGM"
     },
     {
       "album": {
@@ -8670,6 +8840,32 @@
     },
     {
       "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Alberto Grasu",
+          "url": "https://open.spotify.com/artist/6nzeqmuQeZAVidJy3j5Dck"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Praf",
+      "url": "https://open.spotify.com/track/4X1KfuOJRRDOZi1JgfxbN9"
+    },
+    {
+      "album": {
         "name": "Praf",
         "url": "https://open.spotify.com/album/01Og6fMaT3OAkDCFiHG2ke"
       },
@@ -8769,6 +8965,28 @@
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Adriana Rusu",
+          "url": "https://open.spotify.com/artist/7ljGh73TGhAJseDXOpr8Q7"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212172,
+      "name": "Promisiuni",
+      "url": "https://open.spotify.com/track/0cFvIrgsoYTOI2KZ2R2BqK"
     },
     {
       "album": {
@@ -9272,6 +9490,28 @@
     },
     {
       "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Yung Fume",
+          "url": "https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175294,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/3CvHPQJiZV0SXnB4olMLLu"
+    },
+    {
+      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
       },
@@ -9593,7 +9833,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -10733,7 +10973,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 219424,
       "name": "Tabara",
       "url": "https://open.spotify.com/track/738G1vrNGeyXxJXxGo1CRj"
@@ -11087,10 +11327,32 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 200727,
       "name": "TIpa Noua",
       "url": "https://open.spotify.com/track/3CoEgSGqBtBTMuRp7aGzbf"
+    },
+    {
+      "album": {
+        "name": "Kira",
+        "url": "https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Toata lumea",
+      "url": "https://open.spotify.com/track/7xMmO8qGy1EuXMvptQbdPK"
     },
     {
       "album": {
@@ -11439,7 +11701,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 204923,
       "name": "Umbre",
       "url": "https://open.spotify.com/track/4Ful3GfjQxc1s9x0I5znFs"
@@ -11603,6 +11865,24 @@
       "duration_ms": 118938,
       "name": "Versace",
       "url": "https://open.spotify.com/track/67onK4lAuw5oZbrNF1nELK"
+    },
+    {
+      "album": {
+        "name": "Veste",
+        "url": "https://open.spotify.com/album/5KcTncpATDwoLVX9DtXiJ0"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Veste",
+      "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"
     },
     {
       "album": {

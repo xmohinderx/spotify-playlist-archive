@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,344 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,375 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 86 | [Apologize](https://open.spotify.com/track/7ki5Zd8IydTM7m4uUauLVp) | [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [King](https://open.spotify.com/album/7upF3UTuPtrWKf3LU9Jn4t) | 2:14 |
 | 87 | [Glitchy Gal](https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76) | [Dj Super Will](https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu) | [Glitchy Gal](https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx) | 2:59 |
 | 88 | [Putcha Back Into It \(Bend It Over\)](https://open.spotify.com/track/1vO1sMpkplct8j62cM1i86) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39) | [Putcha Back Into It \(Bend It Over\)](https://open.spotify.com/album/4r0iqiNICOrbNFLhUYg8eC) | 1:51 |
-| 89 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 |
+| 89 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 |
 | 90 | [When We Get Home](https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA) | [Mike Hardy](https://open.spotify.com/artist/1RTH5BpQTgj2EUBgE357It), [West End Tricks](https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK) | [When We Get Home](https://open.spotify.com/album/3caxs1G4p2kggKYYbg5RQf) | 2:07 |
 | 91 | [Level Up \(Jersey Club\)](https://open.spotify.com/track/0nhlsJHrfmxMIWYKAeQYIk) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [Dj K\-Deucez](https://open.spotify.com/artist/3TE5mTqmLBjN340lrmW2YF) | [Level Up \(Jersey Club\)](https://open.spotify.com/album/3AuNlv0TPfqYDODedT1Atx) | 2:06 |
 | 92 | [For You](https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [XENOWRLD](https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 99 | [deep insides](https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj) | [Inexhaustible](https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2) | 3:36 |
 | 100 | [Shake Dat](https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Shake Dhat](https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL) | 0:56 |
 
-Snapshot ID: `MTY0ODI1NjE3NSwwMDAwMDAwMGFkZTRjMGMyM2RlNzlmMDFhNzNlYWVmN2E1ODE3YWRl`
+Snapshot ID: `MTY0ODM0MjkzNywwMDAwMDAwMGFkZTRjMGMyM2RlNzlmMDFhNzNlYWVmN2E1ODE3YWRl`

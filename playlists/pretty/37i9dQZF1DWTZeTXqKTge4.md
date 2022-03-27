@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud, White\-B
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,396 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,414 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 20 | [Whoopty](https://open.spotify.com/track/2sQSWHkBKN4cuEx9RkAEGB) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Whoopty](https://open.spotify.com/album/1JOZu5P4aQ1NLcqtiDVYFp) | 2:43 |
 | 21 | [Balboa](https://open.spotify.com/track/6Db5GnfErREpT4uVfCscDE) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc), [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay) | [Balboa](https://open.spotify.com/album/4x7yE5sAq5hnrjNOoW5bvD) | 3:12 |
 | 22 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
-| 23 | [Fléau Dicaprio \- Intro](https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Fléau Dicaprio \(Intro\)](https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN) | 2:49 |
+| 23 | [Fléau Dicaprio \- Intro](https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Fléau Dicaprio \(Intro\)](https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN) | 1:37 |
 | 24 | [Message Direct](https://open.spotify.com/track/5LhYhfvvdY1wynWDk3sK2b) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Naître et Grandir](https://open.spotify.com/album/1zQo997aIZPk298Aeubdjd) | 3:12 |
 | 25 | [Rose Noire](https://open.spotify.com/track/2iGj1Dgx5M5eYBjw7vgKsc) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Rose Noire](https://open.spotify.com/album/1RXI1kOEhiitv0f8lUENJj) | 3:22 |
 | 26 | [Haine & Peine](https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:43 |

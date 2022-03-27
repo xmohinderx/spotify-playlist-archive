@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > La casa del Trap de Argentino\. Foto: KAKTOV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,052 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,100 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 7 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
 | 8 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 |
 | 9 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 |
-| 10 | [Demasiado Acá](https://open.spotify.com/track/7m3Xelht46B638RTXA9GGQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Demasiado Acá](https://open.spotify.com/album/3fJn9ymxRpel8WNvRwjOwV) | 2:10 |
+| 10 | [DEMASIADO ACÁ](https://open.spotify.com/track/7m3Xelht46B638RTXA9GGQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [DEMASIADO ACÁ](https://open.spotify.com/album/3fJn9ymxRpel8WNvRwjOwV) | 2:10 |
 | 11 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 |
 | 12 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 |
 | 13 | [Solo en la Capital](https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Atrapado en las Colinas](https://open.spotify.com/album/2Tuewq0PbKjIgUtIuCx1PL) | 2:42 |

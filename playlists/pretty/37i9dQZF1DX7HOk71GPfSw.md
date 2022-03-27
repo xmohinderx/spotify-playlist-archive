@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > UMRU\_snare\_bespoke.wav
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,403 likes - 110 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,587 likes - 110 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [losin my mind](https://open.spotify.com/track/4I6p1e6U3tAPTDb7x12GYc) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [emotegi](https://open.spotify.com/artist/0EZi1A6N8QYNTuA3D9KwB5), [Aj simons](https://open.spotify.com/artist/2Hg3jEqEsp1jThhvybP0HX) | [comfort noise](https://open.spotify.com/album/0xdxVPOEDH8DUbpV0O6srR) | 2:34 |
 | 2 | [Bozo bozo bozo \- carolesdaughter Version](https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Bozo bozo bozo \(carolesdaughter Version\)](https://open.spotify.com/album/6SejkbqnyThvvqGpMa3C1R) | 2:38 |
-| 3 | [step back](https://open.spotify.com/track/6xFDa84aiINK5ZeCn16KAm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [better luck next time.](https://open.spotify.com/album/740UBxriXWslmnRWfTRaDD) | 2:35 |
-| 4 | [The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:59 |
-| 5 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 |
-| 6 | [lazy](https://open.spotify.com/track/0qZBbT749egZDhvo7HsN87) | [d1v](https://open.spotify.com/artist/074DHAmvABdQooCWAABq8N) | [lazy](https://open.spotify.com/album/49sG2d2Ztsqffyp7pF0sLf) | 1:56 |
-| 7 | [Big Knife](https://open.spotify.com/track/63EYu4a6H2yxOiLMa6KarS) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Big Knife](https://open.spotify.com/album/7xiGq6zF9DiMNIbdBXGmNF) | 2:11 |
-| 8 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 |
-| 9 | [la fleur](https://open.spotify.com/track/6pZaP9L3hJ04ZdIEEYMPj0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [la fleur](https://open.spotify.com/album/5k0C86pUKd7RFNzabzGPaw) | 1:39 |
-| 10 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
-| 11 | [STATiC](https://open.spotify.com/track/3U53uPJESnIFnPpV9Po2Gr) | [nervyyy](https://open.spotify.com/artist/5UFY2CrDO385nXztkbzT4U) | [STATiC](https://open.spotify.com/album/4pm8GATYzNxFc7bW2NkVYO) | 2:28 |
-| 12 | [LUV You](https://open.spotify.com/track/4Nvwn3s2oErVEhShuSXf0a) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh), [Frank Royal](https://open.spotify.com/artist/3ZTB5PqOuna0F3JYNUeHUE), [Fairy Boy](https://open.spotify.com/artist/7AIwzwBzGtdZk4Yajp6muB) | [LUV You](https://open.spotify.com/album/1fMHPddLJoLCCIoMH0WETA) | 3:28 |
+| 3 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 |
+| 4 | [la fleur](https://open.spotify.com/track/6pZaP9L3hJ04ZdIEEYMPj0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [la fleur](https://open.spotify.com/album/5k0C86pUKd7RFNzabzGPaw) | 1:39 |
+| 5 | [step back](https://open.spotify.com/track/6xFDa84aiINK5ZeCn16KAm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [better luck next time.](https://open.spotify.com/album/740UBxriXWslmnRWfTRaDD) | 2:35 |
+| 6 | [The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:59 |
+| 7 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
+| 8 | [lazy](https://open.spotify.com/track/0qZBbT749egZDhvo7HsN87) | [d1v](https://open.spotify.com/artist/074DHAmvABdQooCWAABq8N) | [lazy](https://open.spotify.com/album/49sG2d2Ztsqffyp7pF0sLf) | 1:56 |
+| 9 | [Big Knife](https://open.spotify.com/track/63EYu4a6H2yxOiLMa6KarS) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [Big Knife](https://open.spotify.com/album/7xiGq6zF9DiMNIbdBXGmNF) | 2:11 |
+| 10 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 |
+| 11 | [LUV You](https://open.spotify.com/track/4Nvwn3s2oErVEhShuSXf0a) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh), [Frank Royal](https://open.spotify.com/artist/3ZTB5PqOuna0F3JYNUeHUE), [Fairy Boy](https://open.spotify.com/artist/7AIwzwBzGtdZk4Yajp6muB) | [LUV You](https://open.spotify.com/album/1fMHPddLJoLCCIoMH0WETA) | 3:28 |
+| 12 | [self\-esteem](https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [peer2peer](https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp) | 2:58 |
 | 13 | [parasomnia \(weakness II\)](https://open.spotify.com/track/00gitwiSw5K0NYXLOkFprS) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Sulfur EP](https://open.spotify.com/album/3IdhqLHoxEWl76ZcE7FbT5) | 3:14 |
-| 14 | [self\-esteem](https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [peer2peer](https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp) | 2:58 |
-| 15 | [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 |
-| 16 | [clutch](https://open.spotify.com/track/2r30yCy0ybzQkbY2LsPCoO) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK), [Devstacks](https://open.spotify.com/artist/4Ijbgdusp7syatYSHIIulR) | [clutch](https://open.spotify.com/album/5J1earJqB1MYBGUeBellaV) | 1:32 |
-| 17 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 |
+| 14 | [STATiC](https://open.spotify.com/track/3U53uPJESnIFnPpV9Po2Gr) | [nervyyy](https://open.spotify.com/artist/5UFY2CrDO385nXztkbzT4U) | [STATiC](https://open.spotify.com/album/4pm8GATYzNxFc7bW2NkVYO) | 2:28 |
+| 15 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 |
+| 16 | [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 |
+| 17 | [clutch](https://open.spotify.com/track/2r30yCy0ybzQkbY2LsPCoO) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK), [Devstacks](https://open.spotify.com/artist/4Ijbgdusp7syatYSHIIulR) | [clutch](https://open.spotify.com/album/5J1earJqB1MYBGUeBellaV) | 1:32 |
 | 18 | [texas](https://open.spotify.com/track/5PbdV7i87rT8kTD2EcAe4F) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p), [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [texas](https://open.spotify.com/album/0VBiDYI7RG5acRP1dQ10KG) | 2:53 |
 | 19 | [TWIN GODS](https://open.spotify.com/track/2biOwcl3f0Zobe1z5ol43Y) | [Button Maker](https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ) | [TWIN GODS](https://open.spotify.com/album/4NXocECKYYyU1cUTWojHd1) | 1:36 |
 | 20 | [Heavenly](https://open.spotify.com/track/5LqhXiaz6Y1yfUM4IG0HnL) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Heavenly](https://open.spotify.com/album/4srgPoLwFcRbOHUkAD9yre) | 2:12 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 109 | [Party By Myself](https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Party By Myself](https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF) | 2:13 |
 | 110 | [Rose Coloured Ear Drums](https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BIG KILL FUTURE](https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45) | 2:58 |
 
-Snapshot ID: `MTY0ODIzNDU5NywwMDAwMDE0NDAwMDAwMTdmYzI3MDBhYjAwMDAwMDE3ZmJlYjIwZjRm`
+Snapshot ID: `MTY0ODMxNTQxMiwwMDAwMDE0NjAwMDAwMTdmYzc0MTMxMzgwMDAwMDE3ZmJlYjIwZjRm`

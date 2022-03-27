@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Warren Hue
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,570 likes - 124 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,582 likes - 124 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 |
 | 95 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 |
 | 96 | [Kucingmu Lari](https://open.spotify.com/track/4oFtLrXbeuFk5F9vdkxE0l) | [Haruka Nakagawa](https://open.spotify.com/artist/4SKdcPiUFYEFk7Kjj2WKfn) | [Kucingmu Lari](https://open.spotify.com/album/6SnQcAWAyvIIhURi1RjMhr) | 3:14 |
-| 97 | [Another...](https://open.spotify.com/track/7yAqOKyp0P4LURcMUHjgPy) | [RL KLAV](https://open.spotify.com/artist/6BL6JxAoKRlgi64Rgkamru) | [Another...](https://open.spotify.com/album/2m7FimXbtu1Mj2GWiRfVH8) | 3:11 |
+| 97 | [Another...](https://open.spotify.com/track/7yAqOKyp0P4LURcMUHjgPy) | [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc) | [Another...](https://open.spotify.com/album/2m7FimXbtu1Mj2GWiRfVH8) | 3:11 |
 | 98 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 |
 | 99 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 |
 | 100 | [Run to You](https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:36 |

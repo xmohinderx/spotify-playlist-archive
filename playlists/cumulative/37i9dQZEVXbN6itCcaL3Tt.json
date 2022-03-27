@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 157611,
       "name": "10 PAK",
       "url": "https://open.spotify.com/track/4kYAHxCk0u2yRsqkCb43GK"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1476,6 +1476,32 @@
     },
     {
       "album": {
+        "name": "Biznesmeni z podw\u00f3rka",
+        "url": "https://open.spotify.com/album/0WzTqWYu10Y2GRdZXCKyUx"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Biznesmeni z podw\u00f3rka",
+      "url": "https://open.spotify.com/track/47Xo69AIwp51QEZFch17yC"
+    },
+    {
+      "album": {
         "name": "W samo po\u0142udnie",
         "url": "https://open.spotify.com/album/4FDs0EKmcJlEAVyGcx2bFg"
       },
@@ -1663,6 +1689,32 @@
       "duration_ms": 187956,
       "name": "boj\u0119 si\u0119",
       "url": "https://open.spotify.com/track/6xS6wo487HNu40vh9e3fql"
+    },
+    {
+      "album": {
+        "name": "BON APPETIT",
+        "url": "https://open.spotify.com/album/1RuqnTqTsvbDqzBKq7UpyJ"
+      },
+      "artists": [
+        {
+          "name": "Reto",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "ZetHa",
+          "url": "https://open.spotify.com/artist/51GeNlazymktHPTNn8aEyn"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "Bon appetit",
+      "url": "https://open.spotify.com/track/1hz0GlXPfnnlxxXo92Yyoj"
     },
     {
       "album": {
@@ -2415,7 +2467,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
@@ -11245,6 +11297,28 @@
       "duration_ms": 225000,
       "name": "Tr\u00f3jk\u0105t Bermudzki",
       "url": "https://open.spotify.com/track/6L84MxeCGyg7fjTXzWYdmQ"
+    },
+    {
+      "album": {
+        "name": "T\u0119skni\u0119 sobie",
+        "url": "https://open.spotify.com/album/0Pu3hB0Qsl6g2X2cBtSSlL"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289642,
+      "name": "T\u0119skni\u0119 sobie",
+      "url": "https://open.spotify.com/track/2XrxfDmGGAkU14vQ9QVJeb"
     },
     {
       "album": {

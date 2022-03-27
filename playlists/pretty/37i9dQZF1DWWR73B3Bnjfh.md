@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,932 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,069 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 99 | [House Of Jade \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:53 |
 | 100 | [Night Flower \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/02rDg3xZg4crus7U6VjCOm) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 6:48 |
 
-Snapshot ID: `MTY0ODI1NTcxNywwMDAwMDAwMGE0ZmE3MTIwYTIxNWExOTk4ZjRjMTdlMzY0ZDVkNWFh`
+Snapshot ID: `MTY0ODM0MjQ3OCwwMDAwMDAwMGE0ZmE3MTIwYTIxNWExOTk4ZjRjMTdlMzY0ZDVkNWFh`

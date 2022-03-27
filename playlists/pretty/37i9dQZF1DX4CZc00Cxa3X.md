@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,417 likes - 60 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,451 likes - 60 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 59 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 |
 | 60 | [Buenas Noches, Yuki](https://open.spotify.com/track/6OXmhrJPmcFNVK4nXskReG) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:21 |
 
-Snapshot ID: `MTY0ODI1NTk2NCwwMDAwMDAwMDkxNTNkNDFkZTkyYjJkYzE3M2ZkYzJiZWRjMzc3NTU1`
+Snapshot ID: `MTY0ODM0MjcyMSwwMDAwMDAwMDkxNTNkNDFkZTkyYjJkYzE3M2ZkYzJiZWRjMzc3NTU1`

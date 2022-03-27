@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,173 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,244 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
 | 50 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
 
-Snapshot ID: `MTY0ODI1NjE4MywwMDAwMDAwMGMwOWU0ZjQ1MzE1NGRhNWIzNDJlOWVjMDgxMzViYzRh`
+Snapshot ID: `MTY0ODM0Mjk0NiwwMDAwMDAwMGMwOWU0ZjQ1MzE1NGRhNWIzNDJlOWVjMDgxMzViYzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > ladies and gentlemen..\. Chance The Rapper
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,629 likes - 52 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,683 likes - 52 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 7 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
 | 8 | [Boom \(feat\. JID\)](https://open.spotify.com/track/512YmmPt5AELP0TLAdzSUW) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Pink Is Better](https://open.spotify.com/album/4Y17kPa7ZinOjwfpy6TW7A) | 2:34 |
 | 9 | [Lucy](https://open.spotify.com/track/6GvMQIbZJLv7DczrwXTv43) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Lucy](https://open.spotify.com/album/4YFSCvbk1cu3ivAzYaJQRd) | 3:44 |
-| 10 | [Stars In The Sky](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
+| 10 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 |
 | 11 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 |
 | 12 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 |
 | 13 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 |

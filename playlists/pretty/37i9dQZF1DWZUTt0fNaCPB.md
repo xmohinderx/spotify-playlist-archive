@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,525 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,827 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Get It](https://open.spotify.com/track/0vXC7Q017BJWeytEmDUPNy) | [Deepfield](https://open.spotify.com/artist/7wBfoMAxS8VHDwIFnh6cVi) | [Archetypes And Repitition](https://open.spotify.com/album/2Y8yYRXjdNM5nZzptt8WWy) | 2:50 |
 | 75 | [From Hell with Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell with Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 
-Snapshot ID: `MTY0ODI1NTgwOCwwMDAwMDAwMGIyNWFlNDU3N2MxMTg1NGZkNjMwMjQxNGZkMmViZmQw`
+Snapshot ID: `MTY0ODM0MjU2NiwwMDAwMDAwMGIyNWFlNDU3N2MxMTg1NGZkNjMwMjQxNGZkMmViZmQw`

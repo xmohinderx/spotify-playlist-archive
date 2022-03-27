@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBtoy268thT.md) - [plain]
 
 > Tap your foot and laugh your head off with this hilarious Musical Comedy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,694 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

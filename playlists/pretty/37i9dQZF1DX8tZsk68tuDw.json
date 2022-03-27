@@ -1,6 +1,6 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Anna Lunoe",
-  "num_followers": 1970682,
+  "num_followers": 1970847,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
@@ -160,12 +160,12 @@
       },
       "artists": [
         {
-          "name": "Brisotti",
-          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
-        },
-        {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
         }
       ],
       "duration_ms": 176791,

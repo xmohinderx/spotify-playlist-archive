@@ -19864,6 +19864,24 @@
     },
     {
       "album": {
+        "name": "Soon Come",
+        "url": "https://open.spotify.com/album/1WgpP0MMKas5FO8ixC1jn5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Grossman",
+          "url": "https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188199,
+      "name": "Soon Come",
+      "url": "https://open.spotify.com/track/0axpkcx0olVmVJdR4vlBhk"
+    },
+    {
+      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/1rNRbr2ymx2n9r1TWoeWd2"
       },

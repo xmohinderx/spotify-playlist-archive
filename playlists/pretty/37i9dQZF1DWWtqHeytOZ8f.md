@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,366 likes - 200 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,408 likes - 200 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 152 | [My Night, My Day](https://open.spotify.com/track/3QvB6AhSmcGcajiKnANT3o) | [Olivier Alary](https://open.spotify.com/artist/7tg7utIvViIXxA4zi0vl2t), [Johannes Malfatti](https://open.spotify.com/artist/6xQOMfltktlRre6jV8wxPG) | [u,i](https://open.spotify.com/album/2XPM7NE0nzi2EKVVeMSiQS) | 5:18 |
 | 153 | [A Study in Vastness](https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:50 |
 | 154 | [Frozen Tundra](https://open.spotify.com/track/3KX5zmTOX6JmHFVqG5ID12) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Frozen Tundra](https://open.spotify.com/album/7vQQLdO1pPzyP9aF5JDsSk) | 3:32 |
-| 155 | [Answering Now](https://open.spotify.com/track/5XTADVFUNk1YvRCmYdV7xt) | [Locust](https://open.spotify.com/artist/7AlZ90PGDQdRcSp1ooPqst) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:07 |
+| 155 | [Answering Now](https://open.spotify.com/track/5XTADVFUNk1YvRCmYdV7xt) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:07 |
 | 156 | [Underwater Gold Dust.](https://open.spotify.com/track/780pRBMF3QJvlgWKTi5JGt) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/3pVpwlqYLMy2c3k6KAimw1) | 3:27 |
 | 157 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 |
 | 158 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Back to Hastings](https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Hotel Hastings \(Music by Alejandro Morse for a Book by Eduardo Padilla\)](https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0) | 3:55 |
 | 200 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 
-Snapshot ID: `MTY0ODI1NTczMiwwMDAwMDAwMDgzMWZmYjRkNDY1OGE4N2U3MjUzNDQ3NmFlN2Q5ODk4`
+Snapshot ID: `MTY0ODM0MjQ5MywwMDAwMDAwMDgzMWZmYjRkNDY1OGE4N2U3MjUzNDQ3NmFlN2Q5ODk4`

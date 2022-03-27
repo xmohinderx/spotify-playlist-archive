@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa?si=shPe6K9qQaCABPthGiVsuQ">Aoife O'Donovan</a> takes over this playlist full of acoustic and roots music gems in celebration of her new album, <a href=https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC?si=3fbeef5aa7ee4b20">Age Of Apathy</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,138,378 likes - 160 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,138,396 likes - 160 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
 | 160 | [Smoke \- Acoustic](https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Smoke \(Acoustic\)](https://open.spotify.com/album/4T9aGWicnCbNrfPrFvHrWH) | 2:32 |
 
-Snapshot ID: `MTY0ODI1NjA1NywwMDAwMDAwMDU1YTk2YjYzM2JjZjJlNDI0ODI2NDcwYzliMmQ2MjJk`
+Snapshot ID: `MTY0ODM0MjgxNCwwMDAwMDAwMDU1YTk2YjYzM2JjZjJlNDI0ODI2NDcwYzliMmQ2MjJk`

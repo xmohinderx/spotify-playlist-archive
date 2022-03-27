@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,976 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,301 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 8 | [Still Here \(feat\. Cordae\)](https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Still Here \(feat\. Cordae\)](https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b) | 3:16 |
 | 9 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
 | 10 | [Louis Baggage \(feat\. Babyface Ray\)](https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 2:30 |
-| 11 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [Price](https://open.spotify.com/artist/3iVIizMnl3ruGErRBuCL2W), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
+| 11 | [PROBLEMS](https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [THE PRICE EP](https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS) | 3:10 |
 | 12 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 |
 | 13 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 |
 | 14 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 |

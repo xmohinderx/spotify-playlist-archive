@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,806 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,100 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Surf City](https://open.spotify.com/track/1Oewmmr12xuhgzvUJ9Q0cf) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City And Other Swingin' Cities](https://open.spotify.com/album/7yzoaZNNZM1i4QV2vrgJeK) | 2:27 |
 | 150 | [Sugar Baby Love](https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:29 |
 
-Snapshot ID: `MTY0ODI1NTY4OSwwMDAwMDAwMDljZmQ2NjgwY2RmMzVjNTc4YzZmNjZjNTllMDY4MDIz`
+Snapshot ID: `MTY0ODM0MjQ1MCwwMDAwMDAwMDljZmQ2NjgwY2RmMzVjNTc4YzZmNjZjNTllMDY4MDIz`

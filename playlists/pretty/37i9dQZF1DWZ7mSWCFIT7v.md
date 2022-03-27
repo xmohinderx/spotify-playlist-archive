@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,607 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,656 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 45 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 |
 | 46 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 |
 | 47 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 |
-| 48 | [Towers](https://open.spotify.com/track/7hvzrDrHlu5wD2RWjhHHJW) | [Locust](https://open.spotify.com/artist/7AlZ90PGDQdRcSp1ooPqst) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 1:55 |
+| 48 | [Towers](https://open.spotify.com/track/7hvzrDrHlu5wD2RWjhHHJW) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 1:55 |
 | 49 | [Arthur](https://open.spotify.com/track/0FLNKkwmlA8IN2RN1KNIHt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 7:05 |
 | 50 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 |
 | 51 | [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Ecovocative](https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 3:48 |
 | 100 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
 
-Snapshot ID: `MTY0ODI1NTc5OCwwMDAwMDAwMDIyZjUxNDVmODVlNDYwNGI0OGVkZDdiZWNlYmYxMjQ2`
+Snapshot ID: `MTY0ODM0MjU1NywwMDAwMDAwMDIyZjUxNDVmODVlNDYwNGI0OGVkZDdiZWNlYmYxMjQ2`

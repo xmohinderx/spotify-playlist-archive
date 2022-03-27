@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,122 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,244 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 46 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 |
 | 47 | [Queens Highway](https://open.spotify.com/track/6i54mmaH64HhMGBv9mVezo) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Queens Highway](https://open.spotify.com/album/0LjAxZFRZp0YcbeE2Jiile) | 1:07 |
 | 48 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 |
-| 49 | [Provide](https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Provide](https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa) | 4:00 |
+| 49 | [Provide](https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Provide](https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa) | 5:15 |
 | 50 | [PRAYER](https://open.spotify.com/track/4QjiSWINhQRyfAnzXNoQ3r) | [Shine](https://open.spotify.com/artist/5xNXTKAlmjwG90lbKthD83), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [PRAYER](https://open.spotify.com/album/6ZdnNQMFFLoblwe92YJi3e) | 2:21 |
 | 51 | [Spacey Love](https://open.spotify.com/track/6DnlwDcVM1o96ZpAdScdxZ) | [Apollo Bebop](https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG) | [Spacey Love](https://open.spotify.com/album/7wJNo6BZ5iNtq6zKdBG2Eq) | 3:06 |
 | 52 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Slush](https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Slush](https://open.spotify.com/album/5WI4Iwq4M6g4enr4ZCUozH) | 3:57 |
 | 100 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 
-Snapshot ID: `MTY0ODI1NTcwMSwwMDAwMDAwMDU4YmRmY2IxOWRmNzI3NTgxZGJmZmNiYzYzNWIwMDQ1`
+Snapshot ID: `MTY0ODM0MjQ2MiwwMDAwMDAwMDU4YmRmY2IxOWRmNzI3NTgxZGJmZmNiYzYzNWIwMDQ1`

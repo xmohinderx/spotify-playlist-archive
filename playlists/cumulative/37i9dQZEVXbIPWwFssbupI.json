@@ -5683,7 +5683,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 147720,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
@@ -6601,7 +6601,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-27",
       "duration_ms": 189853,
       "name": "L'\u0152il de la Joconde",
       "url": "https://open.spotify.com/track/5KTBqEFYGxYsz5WqoRPqsM"
@@ -6681,6 +6681,28 @@
       "duration_ms": 229733,
       "name": "La cage et la clef",
       "url": "https://open.spotify.com/track/5adBd6nubkd4fUeRDAL8VP"
+    },
+    {
+      "album": {
+        "name": "MOOD2 (Vibe)",
+        "url": "https://open.spotify.com/album/5pblmvwGGeh9zOLhMEUTAw"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "La Calle",
+      "url": "https://open.spotify.com/track/0Z5QE9yGEB79zRNH6uAM76"
     },
     {
       "album": {
@@ -11687,6 +11709,24 @@
       "duration_ms": 171093,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7"
+    },
+    {
+      "album": {
+        "name": "Santa Maria",
+        "url": "https://open.spotify.com/album/7sxlz5Rgse37BmYI6MdqMc"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189519,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/3wfQEIvOfeVkXgGZogK3gL"
     },
     {
       "album": {

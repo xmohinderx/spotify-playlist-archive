@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem J Balvin com Ed Sheeran, LUDMILLA, Hugo & Guilherme e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,737,705 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737,853 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 3 | [Conselho Bom](https://open.spotify.com/track/19ECDC1MlBJnelZXcjJfUC) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Conselho Bom](https://open.spotify.com/album/6ut4iyJG3LEMEyH35pnmKE) | 3:20 |
 | 4 | [Só Restou Beber](https://open.spotify.com/track/5SSah2kLLqUVKVe9mX9TOi) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Resta Beber](https://open.spotify.com/album/651wR37qvSQ8Lfgkwto5XX) | 3:31 |
 | 5 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ) | 2:45 |
-| 6 | [Safadezinha](https://open.spotify.com/track/6TjOL5UxzOVRSQU77Dvg4s) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Safadezinha](https://open.spotify.com/album/3r9hE41jMbDMeb1pJebDCV) | 2:53 |
+| 6 | [SAFADEZINHA](https://open.spotify.com/track/6TjOL5UxzOVRSQU77Dvg4s) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [SAFADEZINHA](https://open.spotify.com/album/3r9hE41jMbDMeb1pJebDCV) | 2:53 |
 | 7 | [Tu É Bandida](https://open.spotify.com/track/03g9ldf0B9sHgv0pgVzdzv) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [GB](https://open.spotify.com/artist/1qRS3j1Apy3xi8XnXlgIuo) | [Tu É Bandida](https://open.spotify.com/album/1TfmS0PiAiE93k8UIFPmk8) | 2:20 |
 | 8 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 |
 | 9 | [Outra Vez](https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Outra Vez](https://open.spotify.com/album/3feoSyeCZPVS0SROIuQr8j) | 4:11 |
