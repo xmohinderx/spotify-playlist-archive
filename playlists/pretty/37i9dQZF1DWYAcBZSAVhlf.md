@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,483 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,775 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [Start Me Up \- 2009 Re\-Mastered Digital Version](https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn) | 3:33 |
 | 80 | [The Tide Is High \- Edit](https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Tide Is High](https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b) | 3:53 |
 
-Snapshot ID: `MTY0ODM0MjUzMiwwMDAwMDAwMGIwN2JmZjc2Nzk2NzZmMDE3OTIyMGQ4YTE4YTBlNTNh`
+Snapshot ID: `MTY0ODQyOTAzMywwMDAwMDAwMGIwN2JmZjc2Nzk2NzZmMDE3OTIyMGQ4YTE4YTBlNTNh`

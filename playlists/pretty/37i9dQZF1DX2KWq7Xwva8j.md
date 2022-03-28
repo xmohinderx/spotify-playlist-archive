@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Walls
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,151 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,162 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Piedad](https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Piedad](https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf) | 2:05 |
 | 50 | [Son Ganas](https://open.spotify.com/track/0dxUEzSnXQZiJ61rIdtzt2) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Son Ganas](https://open.spotify.com/album/5C8jNxCKQrHSWhwhHWIoby) | 3:30 |
 
-Snapshot ID: `MTY0ODM0MjY2MywwMDAwMDAwMDVhMzI4NjAyOTEwMzdlN2NiMjNlZTg3ZDI4MmVjYzU0`
+Snapshot ID: `MTY0ODQyOTE2MiwwMDAwMDAwMDVhMzI4NjAyOTEwMzdlN2NiMjNlZTg3ZDI4MmVjYzU0`

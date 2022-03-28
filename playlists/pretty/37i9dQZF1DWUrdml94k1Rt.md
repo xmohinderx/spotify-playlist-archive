@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,157 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,273 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 149 | [Alcohaulin' Ass](https://open.spotify.com/track/1OXzwmEPLq7cR6J6sbcLto) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [HELLYEAH](https://open.spotify.com/album/2aUYb3rhe78BvvUdyJuIh8) | 3:54 |
 | 150 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
 
-Snapshot ID: `MTY0ODM0MjQyNCwwMDAwMDAwMGZkZjFiMWE0MTA5NGRhYjNkOTBiMDk3MWVmYzBjNDY3`
+Snapshot ID: `MTY0ODQyODkyNSwwMDAwMDAwMGZkZjFiMWE0MTA5NGRhYjNkOTBiMDk3MWVmYzBjNDY3`

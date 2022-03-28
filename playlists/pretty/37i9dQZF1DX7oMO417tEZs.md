@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Busty & the Bass
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,252 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,300 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,384 likes - 100 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,463 likes - 100 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
 | 100 | [Oceans And Continents](https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1) | 6:16 |
 
-Snapshot ID: `MTY0ODM0Mjg1NiwwMDAwMDAwMDA3NmQzMTAwMTVjMjkyYTU0ZDA5MTMyNGViM2Q3YTVh`
+Snapshot ID: `MTY0ODQyOTM1NywwMDAwMDAwMDA3NmQzMTAwMTVjMjkyYTU0ZDA5MTMyNGViM2Q3YTVh`

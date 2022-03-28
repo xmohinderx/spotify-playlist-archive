@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Restu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,139 likes - 57 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,140 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

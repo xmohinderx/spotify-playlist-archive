@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,841 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,811 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 99 | [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 |
 | 100 | [Come See \(Glory Hallelujah\)](https://open.spotify.com/track/0b6kJeukz3aFUyAiHoRT3U) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power +](https://open.spotify.com/album/26UqkxKwmjXrxdOFFzOCXj) | 3:54 |
 
-Snapshot ID: `MTY0ODM0MjQ1MCwwMDAwMDAwMGI1NGM5ZDM5ODgzYmUyM2VhMGQ2NDhkYjNmMGRjNzcz`
+Snapshot ID: `MTY0ODQyODk1MCwwMDAwMDAwMGI1NGM5ZDM5ODgzYmUyM2VhMGQ2NDhkYjNmMGRjNzcz`

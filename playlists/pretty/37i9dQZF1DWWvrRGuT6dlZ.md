@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: YANA\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,192 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,196 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

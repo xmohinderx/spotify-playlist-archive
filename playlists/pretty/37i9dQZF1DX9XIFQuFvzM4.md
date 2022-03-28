@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,382,027 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,382,774 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
 | 100 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 4:50 |
 
-Snapshot ID: `MTY0ODM0Mjg5NywwMDAwMDAwMDM4YjE3NGMzODc0NWU0NTUwYjA3MzZmMTE5OTAzM2Ew`
+Snapshot ID: `MTY0ODQyOTM5NiwwMDAwMDAwMDM4YjE3NGMzODc0NWU0NTUwYjA3MzZmMTE5OTAzM2Ew`

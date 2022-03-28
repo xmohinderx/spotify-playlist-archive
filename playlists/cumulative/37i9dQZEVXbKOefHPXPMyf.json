@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 221746,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4wMXOcFLq0e73zlOj82gtY"
@@ -1358,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "Duro 2 Horas",
+        "url": "https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF"
+      },
+      "artists": [
+        {
+          "name": "Fara\u00f3n Love Shady",
+          "url": "https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140495,
+      "name": "Duro 2 Horas",
+      "url": "https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc"
+    },
+    {
+      "album": {
         "name": "De Mi Para Ti",
         "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
       },
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 198658,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 206681,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -4505,7 +4523,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Tyga & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,080,251 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,080,669 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 | 74 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 75 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/5uA5D9o5jGFuITTw3aXQgB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/6sp02aeyiwfX35xRqwNiPv) | 4:51 |
 
-Snapshot ID: `MTY0ODM0MjkxMiwwMDAwMDAwMDU5MjIzM2FmMWYyMGY3OTQ5ZWE5NmEzMjIwNjc3MWU5`
+Snapshot ID: `MTY0ODQyOTQxMSwwMDAwMDAwMDU5MjIzM2FmMWYyMGY3OTQ5ZWE5NmEzMjIwNjc3MWU5`

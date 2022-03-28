@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,559 likes - 200 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,130 likes - 200 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [Crash! Boom! Bang!](https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 5:01 |
 | 200 | [Everybody Plays The Fool](https://open.spotify.com/track/0mKqVghILq1TmTDHiaRf9d) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Warm Your Heart](https://open.spotify.com/album/3kKV9kaJUOtL98njVrt03f) | 4:25 |
 
-Snapshot ID: `MTY0ODM0MjY4MiwwMDAwMDAwMDdlZWMyMjY0MmE0YzZiNDBkZmM1YTNkZTgwY2UzZjYy`
+Snapshot ID: `MTY0ODQyOTE4MCwwMDAwMDAwMDdlZWMyMjY0MmE0YzZiNDBkZmM1YTNkZTgwY2UzZjYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Ed Sheeran & J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,726 likes - 96 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,818 likes - 96 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

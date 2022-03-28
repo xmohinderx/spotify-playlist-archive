@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s francophones de la semaine. Photo: Corneille",
-  "num_followers": 33961,
+  "num_followers": 33958,
   "original_name": "Nouveaut\u00e9s de la semaine Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDQwZTAwMDAwMTdmYmYzYjJhYzUwMDAwMDE3ZmJkNzY2MTAw",
+  "snapshot_id": "MTY0ODM5MDY3OCwwMDAwMDQwZjAwMDAwMTdmY2JiZGE2ZmQwMDAwMDE3ZmJkNzY2MTAw",
   "tracks": [
     {
       "added_at": "2022-03-25 04:00:00",
@@ -263,38 +263,6 @@
       "duration_ms": 163448,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/2sQSWHkBKN4cuEx9RkAEGB"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Va bene (feat. Jul & Naza)",
-        "url": "https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k"
-      },
-      "artists": [
-        {
-          "name": "4.4.2",
-          "url": "https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Va bene (feat. Jul & Naza)",
-      "url": "https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -556,12 +524,12 @@
       },
       "artists": [
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
           "name": "Mok Saib",
           "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
         }
       ],
       "duration_ms": 190459,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,521 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,470 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [S'il vous plait](https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:15 |
 | 69 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 |
 
-Snapshot ID: `MTY0ODM0MjQwNCwwMDAwMDAwMDU4MjM2MThjMzQzNzNiNzdiMDk2YmI4OTZlOTJhZGQ5`
+Snapshot ID: `MTY0ODQyODkwNSwwMDAwMDAwMDU4MjM2MThjMzQzNzNiNzdiMDk2YmI4OTZlOTJhZGQ5`

@@ -1,12 +1,12 @@
 {
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Dimitri Vegas, Like Mike, Kim Loaiza, Azteck",
   "num_followers": 48529,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTE2OSxiNzMzMjI5ZjAwYjQyNjJjZDFjMzhlYzg5MGNmNDdmNDRlNzEzODgy",
+  "snapshot_id": "MTE3Myw3ZTgyMWE5YTk0NDliYTVlNjYwYzI0ZWM1MTJiN2ZkMzIxMTRkOTFj",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -69,28 +69,32 @@
       "url": "https://open.spotify.com/track/7susKOmSCXt0OKBfzLWCeD"
     },
     {
-      "added_at": "2021-01-28 23:01:05",
+      "added_at": "2020-09-21 08:05:04",
       "album": {
-        "name": "Fav Boyz (Steve Aoki's Gold Star Remix)",
-        "url": "https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX"
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
       "artists": [
         {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Thutmose",
-          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
-      "url": "https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj"
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2022-03-18 15:41:03",
@@ -321,32 +325,28 @@
       "url": "https://open.spotify.com/track/7IGIhEiepXQ1WlbOTSPeaQ"
     },
     {
-      "added_at": "2020-09-21 08:05:04",
+      "added_at": "2021-01-28 23:01:05",
       "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
+        "name": "Fav Boyz (Steve Aoki's Gold Star Remix)",
+        "url": "https://open.spotify.com/album/4p15vw43AeTpxA70sTnjvX"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
         },
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
         },
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+      "duration_ms": 230000,
+      "name": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
+      "url": "https://open.spotify.com/track/0jYtnvT7QIGeAyJ5wbOZsj"
     },
     {
       "added_at": "2021-10-15 15:41:05",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/3lDax71SDuJGcFrCyw9qak"
     },
     {
+      "added_at": "2021-10-23 15:41:01",
+      "album": {
+        "name": "Sweet Vibrations EP",
+        "url": "https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 160667,
+      "name": "Sweet Vibrations",
+      "url": "https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e"
+    },
+    {
       "added_at": "2021-07-01 22:41:05",
       "album": {
         "name": "Undo My Heart",
@@ -1457,20 +1473,24 @@
       "url": "https://open.spotify.com/track/4IKa5EKTmhKvV1wuTJf9Eq"
     },
     {
-      "added_at": "2021-10-23 15:41:01",
+      "added_at": "2022-03-27 15:41:03",
       "album": {
-        "name": "Sweet Vibrations EP",
-        "url": "https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 160667,
-      "name": "Sweet Vibrations",
-      "url": "https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2021-05-12 23:01:06",
@@ -1493,26 +1513,6 @@
       "url": "https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv"
     },
     {
-      "added_at": "2022-03-18 15:41:03",
-      "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
-    },
-    {
       "added_at": "2021-04-08 23:01:07",
       "album": {
         "name": "Too Late",
@@ -1531,6 +1531,26 @@
       "duration_ms": 156480,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+    },
+    {
+      "added_at": "2022-03-18 15:41:03",
+      "album": {
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/4PLKkJXTkZSpYswOczm69A"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 250226,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
     },
     {
       "added_at": "2022-03-24 15:42:03",
@@ -1609,22 +1629,6 @@
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
-      "added_at": "2022-03-06 15:41:03",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Decisions",
@@ -1645,24 +1649,20 @@
       "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
-      "added_at": "2022-03-24 15:42:03",
+      "added_at": "2022-03-06 15:41:03",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2021-06-25 17:34:07",
@@ -1685,6 +1685,26 @@
       "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
+      "added_at": "2022-03-24 15:42:03",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+    },
+    {
       "added_at": "2022-03-06 15:41:03",
       "album": {
         "name": "Breaking Me",
@@ -1703,26 +1723,6 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2021-04-22 23:01:06",
@@ -1749,6 +1749,26 @@
       "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
     },
     {
+      "added_at": "2022-03-24 15:42:03",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
       "added_at": "2022-03-25 15:47:02",
       "album": {
         "name": "Tricky (feat. Autumn Rowe)",
@@ -1769,22 +1789,6 @@
       "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
     },
     {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Say Yeah",
-        "url": "https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 225218,
-      "name": "Say Yeah",
-      "url": "https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut"
-    },
-    {
       "added_at": "2021-03-05 23:01:05",
       "album": {
         "name": "High",
@@ -1799,6 +1803,22 @@
       "duration_ms": 160586,
       "name": "High",
       "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
+    },
+    {
+      "added_at": "2022-03-24 15:42:03",
+      "album": {
+        "name": "Say Yeah",
+        "url": "https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 225218,
+      "name": "Say Yeah",
+      "url": "https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut"
     },
     {
       "added_at": "2022-01-23 15:43:02",
@@ -1849,22 +1869,6 @@
       "url": "https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY"
     },
     {
-      "added_at": "2022-03-16 15:41:02",
-      "album": {
-        "name": "Wait A Minute",
-        "url": "https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Wait A Minute",
-      "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Nothing But Love",
@@ -1889,24 +1893,20 @@
       "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
     },
     {
-      "added_at": "2022-03-18 15:41:03",
+      "added_at": "2022-03-16 15:41:02",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+      "duration_ms": 215000,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
     },
     {
       "added_at": "2021-05-06 23:01:06",
@@ -1931,6 +1931,26 @@
       "duration_ms": 200975,
       "name": "Head Up In The Clouds",
       "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
+    },
+    {
+      "added_at": "2022-03-18 15:41:03",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "added_at": "2022-03-22 15:45:02",
@@ -1973,6 +1993,26 @@
       "url": "https://open.spotify.com/track/6l15fvZdCB1pvNgeuFk6Fw"
     },
     {
+      "added_at": "2020-12-16 10:55:04",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
+      },
+      "artists": [
+        {
+          "name": "James Godfrey",
+          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
+        },
+        {
+          "name": "Danielle Knoll",
+          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
+    },
+    {
       "added_at": "2022-03-23 15:44:03",
       "album": {
         "name": "Good Luck",
@@ -1995,46 +2035,6 @@
       "duration_ms": 235417,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
-    },
-    {
-      "added_at": "2020-12-16 10:55:04",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
-      },
-      "artists": [
-        {
-          "name": "James Godfrey",
-          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
-        },
-        {
-          "name": "Danielle Knoll",
-          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     }
   ],
   "unique_name": "EDM Top 100",

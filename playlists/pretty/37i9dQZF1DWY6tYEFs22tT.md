@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Latto, Smiley, and Nigo is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,413 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,427 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

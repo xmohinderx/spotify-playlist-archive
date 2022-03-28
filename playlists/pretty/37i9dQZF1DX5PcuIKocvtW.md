@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,560 likes - 150 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,799 likes - 150 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 116 | [The Way I Feel](https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [The Way I Feel](https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri) | 2:37 |
 | 117 | [Goodbye Summer](https://open.spotify.com/track/0GnIX4NS0g48MNq29zWFvH) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Goodbye Summer](https://open.spotify.com/album/2xYzbGvRO0HyTdjU47ZrJD) | 2:43 |
 | 118 | [Come Up](https://open.spotify.com/track/3r9VF5IFnMzqlbNd5cWpY6) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [ATHRS](https://open.spotify.com/artist/5AXI65sMlxQ1GtWmoyf3jN) | [Come Up](https://open.spotify.com/album/560WfPL7Ic0yIqCtgNddLW) | 2:45 |
-| 119 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:21 |
+| 119 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:20 |
 | 120 | [Hold Me in the Moonlight](https://open.spotify.com/track/7spqZfs1HsUWUTVr43Fr0i) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Hold Me in the Moonlight](https://open.spotify.com/album/0vcCGF90qepcm2jmbtCNEi) | 2:50 |
 | 121 | [Tattoo](https://open.spotify.com/track/7rIa6qgEMBCsYkvEDNlcZf) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Tattoo](https://open.spotify.com/album/2GNOnmStAcHi9TbvkoZ3TQ) | 2:39 |
 | 122 | [Lifeline](https://open.spotify.com/track/5J5L0yO8Jcdj2MAi9VA89W) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Lifeline](https://open.spotify.com/album/0D2pPmyIwC8twYscUSavhu) | 2:42 |

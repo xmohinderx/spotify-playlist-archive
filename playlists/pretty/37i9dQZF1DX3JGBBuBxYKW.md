@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Soledad & Natalie Perez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,396 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,414 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 | 65 | [Qué bello](https://open.spotify.com/track/3uFzGWv0sQIB7oLu1tIPuI) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Años de Cumbia](https://open.spotify.com/album/4RaI12fLyzj0c9FU5jdUIq) | 4:27 |
 
-Snapshot ID: `MTY0ODM0MjY5NywwMDAwMDAwMDYwOTE5MjQxNDBjYzRmZDA4NmQ2ZDI5YzEyOGY4Y2Rh`
+Snapshot ID: `MTY0ODQyOTE5NSwwMDAwMDAwMDYwOTE5MjQxNDBjYzRmZDA4NmQ2ZDI5YzEyOGY4Y2Rh`

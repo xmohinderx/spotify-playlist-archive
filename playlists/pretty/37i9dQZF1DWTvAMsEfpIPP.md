@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvAMsEfpIPP.md) - [plain]
 
 > Noisy spoken words \- radical and experimental\. Cover: Moor Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,318 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvAMsEfpIPP.md) - [plain]
 | 49 | [Brightly burning, yet alone](https://open.spotify.com/track/4PrxR70V60J8ZGePXFf4Gi) | [ishi vu](https://open.spotify.com/artist/1YUA9X2dr5rzNXdMCUa5rH) | [La Luz](https://open.spotify.com/album/2utsontyjBT4r8eNc1a7qm) | 1:06 |
 | 50 | [OoB Prosthesis](https://open.spotify.com/track/4TMcSDtK369D37OcVxb6li) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [OoB Prosthesis](https://open.spotify.com/album/5k9eIfuaEa5Xd2kU0rEb8T) | 2:01 |
 
-Snapshot ID: `MTY0ODM0MjM5NywwMDAwMDAwMGUwZDZhMWM5NWFjYzJlZjg1YzljYTExM2NjMDQ3YTJi`
+Snapshot ID: `MTY0ODQyODg5OCwwMDAwMDAwMGUwZDZhMWM5NWFjYzJlZjg1YzljYTExM2NjMDQ3YTJi`

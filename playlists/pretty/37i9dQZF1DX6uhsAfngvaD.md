@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,038 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,146 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
 | 80 | [Even True Love](https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Even True Love](https://open.spotify.com/album/4cMrZSmZziTfor1wqUZgGV) | 4:46 |
 
-Snapshot ID: `MTY0ODM0MjgxMiwwMDAwMDAwMDRmMTg0NWRmNDcxNDc4ZWFlNDZiY2RhZmUxNmQ3N2Zk`
+Snapshot ID: `MTY0ODQyOTMxMywwMDAwMDAwMDRmMTg0NWRmNDcxNDc4ZWFlNDZiY2RhZmUxNmQ3N2Zk`

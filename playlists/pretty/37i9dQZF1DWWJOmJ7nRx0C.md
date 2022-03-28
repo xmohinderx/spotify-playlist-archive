@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,108 likes - 151 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,382 likes - 151 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

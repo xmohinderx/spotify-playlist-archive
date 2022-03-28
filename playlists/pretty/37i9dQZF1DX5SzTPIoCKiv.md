@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,187 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,288 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Pioneers](https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Moriah](https://open.spotify.com/artist/3e2CbodV67R5Jtsids32yo), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 5:23 |
 | 100 | [Do For Love](https://open.spotify.com/track/4ecGGCNfUtlOKLYGcxrsUp) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Do For Love](https://open.spotify.com/album/1u1h9JWh54EnDNoZkMlNDn) | 3:37 |
 
-Snapshot ID: `MTY0ODM0Mjc2NywwMDAwMDAwMDJlZTczNWE5MGM5NzNiZmQyNzczMWViNDIxZjA2ZjJm`
+Snapshot ID: `MTY0ODQyOTI2NiwwMDAwMDAwMDJlZTczNWE5MGM5NzNiZmQyNzczMWViNDIxZjA2ZjJm`

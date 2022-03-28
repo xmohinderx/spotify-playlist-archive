@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,862 likes - 60 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,210 likes - 60 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 |
 | 60 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 |
 
-Snapshot ID: `MTY0ODM0MjYxNSwwMDAwMDAwMDc0MTk0YmYwNTg5NWFjNmM5YmNhN2NiYTc0ZGFjNGIx`
+Snapshot ID: `MTY0ODQyOTExNCwwMDAwMDAwMDc0MTk0YmYwNTg5NWFjNmM5YmNhN2NiYTc0ZGFjNGIx`

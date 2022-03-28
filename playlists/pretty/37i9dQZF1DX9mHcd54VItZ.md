@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=34uVb\-0eRy\-in1CwBYVnNg">Internet Girl</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,031 likes - 71 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,042 likes - 71 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,674 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,805 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Crocodile Tears](https://open.spotify.com/track/3TrYli5BpZzzNoyAH64k2K) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [Goon](https://open.spotify.com/album/6IcqXhH9pX48d5ycqnJVw4) | 2:22 |
 | 90 | [Danger](https://open.spotify.com/track/3eTXumsY2qWG6gXM3PvW03) | [Sallie Ford & The Sound Outside](https://open.spotify.com/artist/0Z8RhQLJrLxKMWoUW2qo95) | [Dirty Radio \(Deluxe Version\)](https://open.spotify.com/album/7I9KroNPmpw9qFYZ8Vp7pN) | 2:58 |
 
-Snapshot ID: `MTY0ODM0MjQyOSwwMDAwMDAwMGU3MWZiYTRmZGM3OWIzMmFlYzNhYWE3MGI0ODZlOWQ4`
+Snapshot ID: `MTY0ODQyODkzMCwwMDAwMDAwMGU3MWZiYTRmZGM3OWIzMmFlYzNhYWE3MGI0ODZlOWQ4`

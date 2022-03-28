@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,055,254 likes - 93 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,055,570 likes - 93 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 92 | [Tell Me When to Go \(feat\. Keak da Sneak\)](https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Keak Da Sneak](https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV) | [My Ghetto Report Card](https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl) | 3:57 |
 | 93 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
 
-Snapshot ID: `MTY0ODM0Mjg3MiwwMDAwMDAwMDE1NTFmZDQ5ZWU4Nzg5M2IzNzJjOTUwZDI0ZmI1ZWE5`
+Snapshot ID: `MTY0ODQyOTM3MywwMDAwMDAwMDE1NTFmZDQ5ZWU4Nzg5M2IzNzJjOTUwZDI0ZmI1ZWE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,018 likes - 63 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,049 likes - 63 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

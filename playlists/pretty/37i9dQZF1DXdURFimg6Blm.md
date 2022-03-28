@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,018 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,059 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 149 | [Zhudio54 \- J\. Worra Remix](https://open.spotify.com/track/6KTrU9R5o71XSHPJY16EdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Zhudio54 \(Remixes\)](https://open.spotify.com/album/4rUCC6Pn0Ihi6L7TCo6MQI) | 5:12 |
 | 150 | [Paper Walls](https://open.spotify.com/track/3p7bWzqLgmHc172MBh7Vd2) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Spiral](https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY) | 3:39 |
 
-Snapshot ID: `MTY0ODM0MzAxMywwMDAwMDAwMDFlMWU3MmI4MDNiZDc5MjU2ZWFjYTc5MDA0YzVhNDMy`
+Snapshot ID: `MTY0ODQyOTUxMywwMDAwMDAwMDFlMWU3MmI4MDNiZDc5MjU2ZWFjYTc5MDA0YzVhNDMy`

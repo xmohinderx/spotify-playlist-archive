@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,340 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,490 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 74 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/6j5rt47tD2qb4PzsvZKL1K) | 3:11 |
 | 75 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
 
-Snapshot ID: `MTY0ODM0MjczMCwwMDAwMDAwMGY1NzI1ODYwZGQ1YzQzMTMzNTdjNjU4NTBlNTkxYWNj`
+Snapshot ID: `MTY0ODQyOTIyOSwwMDAwMDAwMGY1NzI1ODYwZGQ1YzQzMTMzNTdjNjU4NTBlNTkxYWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 
 > Embrace your secret favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,117,269 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,117,773 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 | 149 | [Start of Something New](https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella Montez](https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:16 |
 | 150 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
 
-Snapshot ID: `MTY0ODM0Mjc0NCwwMDAwMDAwMDhmNTI5ODBhOTlmOGNkNmUyZjRlZmU1ZmQ5NGIwNTdk`
+Snapshot ID: `MTY0ODQyOTI0MywwMDAwMDAwMDhmNTI5ODBhOTlmOGNkNmUyZjRlZmU1ZmQ5NGIwNTdk`

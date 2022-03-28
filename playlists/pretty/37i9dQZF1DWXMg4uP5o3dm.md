@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,408 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,467 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 56 | [Waterproof](https://open.spotify.com/track/6lFdL2AaWZ70APkyCUf19r) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [Waterproof](https://open.spotify.com/album/5YSVFYYju0F0POQlkCT5db) | 3:39 |
 | 57 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 |
 | 58 | [Behaviour](https://open.spotify.com/track/08VUmUWFeWtXjfswYufGXQ) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Behaviour](https://open.spotify.com/album/2t3NoK6VU6iH91Uo2A38NC) | 3:55 |
-| 59 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:21 |
+| 59 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:20 |
 | 60 | [Pain Killer](https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Pain Killer](https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK) | 3:32 |
 | 61 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
 | 62 | [Wolves](https://open.spotify.com/track/5op3aMrdlsegxOwPUV7nSm) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Wolves](https://open.spotify.com/album/3HRSJ3sZqsLUnqqNTIcEZL) | 3:43 |

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Algeria.",
-  "num_followers": 78670,
+  "num_followers": 78709,
   "original_name": "Algeria Sounds",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
           "name": "Mok Saib",
           "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
         }
       ],
       "duration_ms": 190459,

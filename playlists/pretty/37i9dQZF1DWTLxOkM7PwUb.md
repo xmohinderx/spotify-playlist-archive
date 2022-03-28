@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,526 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,645 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Yin Yang](https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [Yin Yang](https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb) | 2:42 |
 | 100 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 |
 
-Snapshot ID: `MTY0ODM0MjM3OSwwMDAwMDAwMGYxNjhkZTdlNzQ3MmFkZmNmMTUwNzBkMjkxZTIyN2Q1`
+Snapshot ID: `MTY0ODQyODg3OSwwMDAwMDAwMGYxNjhkZTdlNzQ3MmFkZmNmMTUwNzBkMjkxZTIyN2Q1`

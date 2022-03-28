@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXco6WE2xPt0R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXco6WE2xPt0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXco6WE2xPt0R)
 
-### [dengo](https://open.spotify.com/playlist/1h6jWSMJ9UemlEEx1oSk8n)
+### [dengo](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 > Aquela playlist pra ficar no quentin, gostosin.
 

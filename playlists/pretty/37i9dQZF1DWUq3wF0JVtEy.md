@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Öwnboss & Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,532 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,735 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Lost](https://open.spotify.com/track/6eYfkgN9nW7orzzRrdAND5) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Marco XO](https://open.spotify.com/artist/5QQDdATA7gqVa1v6g6nP62) | [Lost](https://open.spotify.com/album/3mCOnOtaLT8DwIpO2MLcEK) | 2:41 |
 | 100 | [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 |
 
-Snapshot ID: `MTY0ODM0MjQyMywwMDAwMDAwMDIxNGJmNzgwNGUwNzcxODUyZTAzMTc2MmM5N2FmYzY3`
+Snapshot ID: `MTY0ODQyODkyNCwwMDAwMDAwMDIxNGJmNzgwNGUwNzcxODUyZTAzMTc2MmM5N2FmYzY3`

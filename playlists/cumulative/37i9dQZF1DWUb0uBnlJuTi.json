@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 177204,
       "name": "$ouls in The City Part 2",
       "url": "https://open.spotify.com/track/6Jw1gjVB8ssw4CYxo8lSHQ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 185056,
       "name": "A Walk Down 7th st.",
       "url": "https://open.spotify.com/track/5vlBePKYHkVWzZoYUBIG0O"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 244391,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/3wVUiPGvtz01ThUNS97wMj"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 386583,
       "name": "Anomynous (Bonus Track) - 2020 Remaster",
       "url": "https://open.spotify.com/track/1r7si2LuTgMM5vmKePACHK"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 395653,
       "name": "Aspects - Greg Wilson Mix",
       "url": "https://open.spotify.com/track/55JdE1v103dWXnZk8FYkBy"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 193516,
       "name": "Be on the Lookout",
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 168820,
       "name": "Bird Brain",
       "url": "https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 299800,
       "name": "Blues for Ben",
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 369423,
       "name": "Booker Time",
       "url": "https://open.spotify.com/track/4FEf0SPcWVicIXsPz7HkHl"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 349290,
       "name": "Can't Make It with Your Brain",
       "url": "https://open.spotify.com/track/5kaBvDFliuVJE8zy9BjVtb"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 456114,
       "name": "Celestial Blues",
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 406960,
       "name": "Chank",
       "url": "https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q"
@@ -545,10 +545,36 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 270106,
       "name": "Chum City",
       "url": "https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k"
+    },
+    {
+      "album": {
+        "name": "Ya-Ka-May (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Corey Henry",
+          "url": "https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "Cineramascope",
+      "url": "https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU"
     },
     {
       "album": {
@@ -583,7 +609,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 594133,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
@@ -613,7 +639,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 231894,
       "name": "Code 12 - Live at Masterlink",
       "url": "https://open.spotify.com/track/2kkr4Qeqlk0TlkVub083fe"
@@ -631,7 +657,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 160450,
       "name": "Cold As Weiss",
       "url": "https://open.spotify.com/track/5QDbOItkJ37De1ug8pnPm4"
@@ -675,7 +701,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 256319,
       "name": "Crab Walk",
       "url": "https://open.spotify.com/track/1jZFZBWG6ZPtJdflNoLUVX"
@@ -713,7 +739,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 325084,
       "name": "Creatchy Stomp OTB",
       "url": "https://open.spotify.com/track/0HTEAsoaGKIqmpSlpUqqXp"
@@ -757,7 +783,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 500866,
       "name": "Cucumber Slumber",
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
@@ -793,7 +819,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 270085,
       "name": "Deadlines",
       "url": "https://open.spotify.com/track/0JRsF8dhA1REeU30rW9mKL"
@@ -859,7 +885,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 241445,
       "name": "Dirty Sunday",
       "url": "https://open.spotify.com/track/3x9RyZ3wghoQUKtPSnexTZ"
@@ -877,7 +903,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 334826,
       "name": "Disconnections",
       "url": "https://open.spotify.com/track/2yi9iYn6gL9Rtg5DpTiYJX"
@@ -903,7 +929,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 176000,
       "name": "Dumb People",
       "url": "https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4"
@@ -921,7 +947,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 340640,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD"
@@ -939,7 +965,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 366180,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/1rTNuvi3w20pEjzCuz5eCN"
@@ -957,7 +983,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 317645,
       "name": "Free Angela (Thoughts\u2026 And All I've Got To Say)",
       "url": "https://open.spotify.com/track/1VUnI5Inw1b7ZyVw5jnkaq"
@@ -975,7 +1001,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 336546,
       "name": "Funk in the Hole",
       "url": "https://open.spotify.com/track/5i3bRLDZoGrFSaGob3Pn07"
@@ -1005,7 +1031,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 347333,
       "name": "Funkia",
       "url": "https://open.spotify.com/track/1SqskptrodTat0yps72Xjg"
@@ -1023,7 +1049,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 315266,
       "name": "Funkier Than A Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5LlLJHFVVEmjZDvFvpbqHU"
@@ -1163,7 +1189,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 430968,
       "name": "Hambone",
       "url": "https://open.spotify.com/track/0QSDnSYwEzsBOisXZqzIJy"
@@ -1181,7 +1207,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 675160,
       "name": "Happy 'Cause I'm Goin' Home",
       "url": "https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa"
@@ -1199,7 +1225,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 355266,
       "name": "Harlem Buck Dance Strut",
       "url": "https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q"
@@ -1217,7 +1243,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 470640,
       "name": "Harlem River Drive",
       "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
@@ -1235,7 +1261,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 204432,
       "name": "Herbie",
       "url": "https://open.spotify.com/track/0H93akvUa8SyoWlkYywgRa"
@@ -1319,7 +1345,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 377171,
       "name": "Jimmy's Groove",
       "url": "https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P"
@@ -1337,7 +1363,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 389815,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY"
@@ -1445,7 +1471,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 305360,
       "name": "Kinshasa FC",
       "url": "https://open.spotify.com/track/0F09o824fRsItjCHV48Kk2"
@@ -1463,7 +1489,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 199002,
       "name": "La Fachada",
       "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
@@ -1485,7 +1511,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 604710,
       "name": "Life on Mars - OPOLOPO Extended Remix",
       "url": "https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY"
@@ -1639,7 +1665,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 305946,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ"
@@ -1694,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Traditori Di Tutti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2u0cEPDOm45kocGJuNCTFs"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301299,
+      "name": "Milan, Michigan",
+      "url": "https://open.spotify.com/track/4TtGZhSreZV7guZT8qneOY"
+    },
+    {
+      "album": {
         "name": "Bitches Brew",
         "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
       },
@@ -1733,7 +1777,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
@@ -1787,7 +1831,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 257592,
       "name": "More Lemon Juice",
       "url": "https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1"
@@ -1805,7 +1849,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 320773,
       "name": "Mountain Caravan",
       "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
@@ -1859,7 +1903,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 714152,
       "name": "Nation Time - Live, Bremen",
       "url": "https://open.spotify.com/track/18zguJkNprr893299eGoqj"
@@ -1902,6 +1946,24 @@
     },
     {
       "album": {
+        "name": "Dear Pops (My Tribute)",
+        "url": "https://open.spotify.com/album/15anBA9frAP9DxIFbskhFe"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380121,
+      "name": "Ode To Benny Liku",
+      "url": "https://open.spotify.com/track/1cQgDYOqOj7wgvUO7tOPHm"
+    },
+    {
+      "album": {
         "name": "On The Avenue",
         "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
       },
@@ -1935,6 +1997,28 @@
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/4i8fXVMPlOB0ORcfoD6CQu"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Henry Wu",
+          "url": "https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0s0Q7oINSH48ZbLcEL7NrC"
     },
     {
       "album": {
@@ -1993,7 +2077,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 197373,
       "name": "Pace",
       "url": "https://open.spotify.com/track/1RdLaq5tDG4k22fGRr9a6L"
@@ -2011,7 +2095,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 636733,
       "name": "Palm Grease",
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
@@ -2037,7 +2121,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 199578,
       "name": "Pillars",
       "url": "https://open.spotify.com/track/5Xhgdxq9KzGTO3UlSQgBau"
@@ -2073,7 +2157,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 443126,
       "name": "Point Of Junction",
       "url": "https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ"
@@ -2149,7 +2233,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 290080,
       "name": "Pull Your Pants Up",
       "url": "https://open.spotify.com/track/7cae9xKLHwtdmI5KlVviYo"
@@ -2203,7 +2287,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 276146,
       "name": "Rock Creek Park",
       "url": "https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN"
@@ -2221,7 +2305,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 359796,
       "name": "Rumble in the Jungle",
       "url": "https://open.spotify.com/track/3o5ybQryQMrAG4NcT9UYth"
@@ -2257,7 +2341,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 252093,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/4gZQtkTRTa1iYd58pBDTOw"
@@ -2333,7 +2417,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 424040,
       "name": "So This Is Love?",
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
@@ -2389,7 +2473,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 264974,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
@@ -2469,7 +2553,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 372797,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3lK8UA4FR2FiQpvtarLLol"
@@ -2565,7 +2649,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
@@ -2601,7 +2685,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
@@ -2623,7 +2707,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 326426,
       "name": "Swing Praxis - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO"
@@ -2708,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "The Check In",
+        "url": "https://open.spotify.com/album/58SL6A7W0FWf5hhIWNklEV"
+      },
+      "artists": [
+        {
+          "name": "Jost Nickel",
+          "url": "https://open.spotify.com/artist/79UXe6ws5EuoiJFj7jdUYx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340946,
+      "name": "The Check In",
+      "url": "https://open.spotify.com/track/6TeBNoedebZvrVU3qQ8vho"
+    },
+    {
+      "album": {
         "name": "Space Jungle Luv",
         "url": "https://open.spotify.com/album/6UarOMUKzAcvEdbNnrq77c"
       },
@@ -2719,7 +2821,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 199413,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/0Ombxxu2xzyfMIk7Xb09I2"
@@ -2737,7 +2839,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 335586,
       "name": "The Drift",
       "url": "https://open.spotify.com/track/5EiIfRn8uIdWvQgN1v9Qxy"
@@ -2785,7 +2887,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 409560,
       "name": "The Epic (feat. Stanton Moore, Charlie Hunter & Skerik)",
       "url": "https://open.spotify.com/track/3mR91U7nqzAe2QQmawlQ5M"
@@ -2861,7 +2963,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 205829,
       "name": "The Necessary Change",
       "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
@@ -2919,7 +3021,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
@@ -2941,7 +3043,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 171726,
       "name": "Three Ears",
       "url": "https://open.spotify.com/track/1sgclQe6xZ62RLGkmSulsS"
@@ -2959,7 +3061,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
@@ -2977,7 +3079,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
@@ -2995,7 +3097,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 182440,
       "name": "Tongue Power",
       "url": "https://open.spotify.com/track/47Tt97DXVQoDJyhKTGysGl"
@@ -3043,7 +3145,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "Treason",
       "url": "https://open.spotify.com/track/6P93USHBkvsZNww6QXHa7m"
@@ -3065,7 +3167,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 304026,
       "name": "Under The Radar",
       "url": "https://open.spotify.com/track/6Q21dXNtqc0rbBzW49S6eH"
@@ -3101,7 +3203,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 155280,
       "name": "V Neck Sweater",
       "url": "https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25"
@@ -3127,7 +3229,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
@@ -3163,7 +3265,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 311213,
       "name": "We Like It",
       "url": "https://open.spotify.com/track/5YMKZTKqRsivCEeZrwFOdq"
@@ -3181,7 +3283,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 154838,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/5A6DupXNUwB2qtdcloYaei"
@@ -3217,7 +3319,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
@@ -3257,7 +3359,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 369533,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd"
@@ -3293,7 +3395,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 191253,
       "name": "With You I Rock",
       "url": "https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX"

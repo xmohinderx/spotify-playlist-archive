@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 230986,
       "name": "Alison",
       "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 214173,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/6OiR5hOu9WmALw6sjcUH5K"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 257200,
       "name": "Banditos",
       "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/13mCixSKGBEawcNVPqz6n9"
+      },
+      "artists": [
+        {
+          "name": "Dig",
+          "url": "https://open.spotify.com/artist/3il9CebvfyLvN7YvznmX2u"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/524rh9nvX0UZdFfDbLK22e"
+    },
+    {
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 438906,
       "name": "Black Metallic",
       "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 145706,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/2ugghimAssmeO3YpFIV7mb"
@@ -257,6 +275,24 @@
       "duration_ms": 115120,
       "name": "Boxcar",
       "url": "https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "Boys On The Radio",
+      "url": "https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug"
     },
     {
       "album": {
@@ -379,7 +415,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
@@ -397,7 +433,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 215573,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/51m0PrZokFZNk5b5xptyzC"
@@ -469,7 +505,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 358773,
       "name": "Coffee & TV",
       "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
@@ -505,7 +541,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 351626,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
@@ -595,7 +631,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 254040,
       "name": "Debonair - Remastered",
       "url": "https://open.spotify.com/track/2NGa00eaFm9aMGzn6GkE9z"
@@ -667,7 +703,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 184426,
       "name": "Dream All Day",
       "url": "https://open.spotify.com/track/6NQ9hBc6yra6j9fMbnMTS7"
@@ -703,7 +739,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 321533,
       "name": "Emma Blowgun's Last Stand",
       "url": "https://open.spotify.com/track/34IhFakqoA6aKnCkv97buS"
@@ -739,7 +775,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 290706,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 259600,
       "name": "Feel the Pain",
       "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Galaxie / Hello, Goodbye",
       "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
@@ -901,7 +937,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 233160,
       "name": "Gentlemen - Remastered",
       "url": "https://open.spotify.com/track/4ZmjkfxPnqu62t2gcMgpoU"
@@ -995,7 +1031,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 322040,
       "name": "Grace",
       "url": "https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l"
@@ -1067,7 +1103,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 327893,
       "name": "Heaven Beside You",
       "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 268426,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
@@ -1575,7 +1611,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 147666,
       "name": "Memphis",
       "url": "https://open.spotify.com/track/13nJei7T8AWi9BnMevtLuv"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 474542,
       "name": "Metronomic Underground",
       "url": "https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl"
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 196213,
       "name": "Never Said",
       "url": "https://open.spotify.com/track/1YavIlstxard9kLKRAqe72"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Plainclothes Man",
       "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
@@ -1921,7 +1957,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 229666,
       "name": "Plea from a Cat Named Virtute",
       "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
@@ -1957,7 +1993,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 258912,
       "name": "Race for the Prize - 2017 Remaster",
       "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
@@ -1975,7 +2011,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 238333,
       "name": "Random Rules",
       "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
@@ -2029,7 +2065,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 246440,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
@@ -2119,7 +2155,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 175533,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/669UUGJqllYeW8SoL7lxmB"
@@ -2155,7 +2191,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
@@ -2173,7 +2209,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -2335,7 +2371,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Soul And Fire",
       "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
@@ -2371,7 +2407,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 197480,
       "name": "Strange",
       "url": "https://open.spotify.com/track/0ETvqJscQ6HSCNGbAYZDb3"
@@ -2389,7 +2425,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 249546,
       "name": "Stuck Between Stations",
       "url": "https://open.spotify.com/track/35WmbtcmxN4RhL8uKmsErL"
@@ -2407,7 +2443,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 166800,
       "name": "Sucked Out",
       "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
@@ -2443,7 +2479,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 168840,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
@@ -2497,7 +2533,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/6UGpcXcENaUqQKPc6oqOe4"
@@ -2515,7 +2551,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 314066,
       "name": "The Boy With the Arab Strap",
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
@@ -2569,7 +2605,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 250128,
       "name": "The Drowners",
       "url": "https://open.spotify.com/track/4Dj1sPu7MUYbY32Gwdu6vD"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 159386,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "What\u2019s The Frequency, Kenneth? - Remastered",
       "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
@@ -2749,7 +2785,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 251933,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"

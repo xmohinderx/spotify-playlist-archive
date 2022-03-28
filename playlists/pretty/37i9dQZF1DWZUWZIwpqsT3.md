@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,596,127 likes - 84 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,435 likes - 84 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

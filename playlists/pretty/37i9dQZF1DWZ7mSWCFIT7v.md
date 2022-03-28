@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,656 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,702 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Ecovocative](https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 3:48 |
 | 100 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
 
-Snapshot ID: `MTY0ODM0MjU1NywwMDAwMDAwMDIyZjUxNDVmODVlNDYwNGI0OGVkZDdiZWNlYmYxMjQ2`
+Snapshot ID: `MTY0ODQyOTA1OCwwMDAwMDAwMDIyZjUxNDVmODVlNDYwNGI0OGVkZDdiZWNlYmYxMjQ2`

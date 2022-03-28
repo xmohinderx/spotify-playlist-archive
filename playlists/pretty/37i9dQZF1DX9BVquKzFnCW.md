@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with jazzy sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 100 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,663 likes - 100 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Jacqui](https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:11 |
 | 100 | [La Valse Bleue](https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 7:03 |
 
-Snapshot ID: `MTY0ODM0Mjg4NSwwMDAwMDAwMDczZDNmNDE1NGEzNzZmNzc2Y2MxYjBiZTE5NjU4NGM4`
+Snapshot ID: `MTY0ODQyOTM4NiwwMDAwMDAwMDczZDNmNDE1NGEzNzZmNzc2Y2MxYjBiZTE5NjU4NGM4`

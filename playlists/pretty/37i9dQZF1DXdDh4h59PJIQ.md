@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,277 likes - 149 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,477 likes - 149 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 97 | [LIES](https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [LIES](https://open.spotify.com/album/4FFUfSYqKjyp2X63FMYUVC) | 2:47 |
 | 98 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
 | 99 | [Haiti](https://open.spotify.com/track/3xj8PgXVSPRzG1Fo8g9kb7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [Haiti](https://open.spotify.com/album/1VdAEEIj3XuLSGD5yTW95s) | 2:54 |
-| 100 | [Don't Wanna Stop \(feat\. Conor Maynard\)](https://open.spotify.com/track/725u2wCoy8kDmyAckV72Br) | [Alphalove](https://open.spotify.com/artist/4G59kHVfufDsMkwVr5pb2R), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Don't Wanna Stop \(feat\. Conor Maynard\)](https://open.spotify.com/album/2JoOuHWI3FX6tWyyc9hOMA) | 2:36 |
+| 100 | [Don't Wanna Stop](https://open.spotify.com/track/725u2wCoy8kDmyAckV72Br) | [Alphalove](https://open.spotify.com/artist/4G59kHVfufDsMkwVr5pb2R), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Don't Wanna Stop](https://open.spotify.com/album/2JoOuHWI3FX6tWyyc9hOMA) | 2:36 |
 | 101 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
 | 102 | [Me & U](https://open.spotify.com/track/06nCnkVALuvvNcBwVRNTUS) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Me & U](https://open.spotify.com/album/2M6deeLX5B02deMpHoOu1G) | 3:33 |
 | 103 | [Pressure](https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Pressure](https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW) | 3:48 |

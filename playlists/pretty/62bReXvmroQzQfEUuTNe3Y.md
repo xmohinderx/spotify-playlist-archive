@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 807,283 likes - 92 songs - 4 hr 59 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 808,020 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 25 | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/track/6aVXogDmwqAJCrFguyWbKj) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti) | 3:30 |
 | 26 | [The Otherside](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [The Otherside](https://open.spotify.com/album/5UesfEmQZ72n3jin1LgegB) | 3:34 |
 | 27 | [Love Language](https://open.spotify.com/track/2kII74W6BvQZSOwXBotukX) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/1zDkevWz3xdsqVAYbdANiN) | 3:18 |
-| 28 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 |
+| 28 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 |
 | 29 | [Never Give Up](https://open.spotify.com/track/2p0FewtVb0Y9davyTsUWOz) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/61tLxNTbuKTr7W6LpWUHWa) | 3:51 |
 | 30 | [Holding On](https://open.spotify.com/track/67EPXZyocCphVYz0zUHllM) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Holding On](https://open.spotify.com/album/5oVvqVFvUdgYYVq5XmjFGD) | 2:30 |
 | 31 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2B64RN7KJte5x6iXgg02tv.md) - cumulative - [plain](/playlists/plain/2B64RN7KJte5x6iXgg02tv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2B64RN7KJte5x6iXgg02tv)
 
-### [Vinyasa Flow](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
+### [Vinyasa Flow \(2\)](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
 
 > Focus your gaze and get into the dynamic flow of this engaging, eclectic mix.
 

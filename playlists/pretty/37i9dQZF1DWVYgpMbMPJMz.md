@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  The Belonging Co.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,894 likes - 100 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,943 likes - 100 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

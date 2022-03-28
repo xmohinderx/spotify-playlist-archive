@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,022 likes - 130 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,976 likes - 130 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/7faG1XjcABFEEHc1HNnoJs) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happy Xmas \(War is Over\) / 2000 Miles](https://open.spotify.com/album/5EBioioxvDUDwr7hR4uxZM) | 3:27 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0ODM0Mjc4MywwMDAwMDAwMDBhYzI5MjQ2YjE3NmI1MzUxOTAzZmQ1ZjMxZTFkMTEz`
+Snapshot ID: `MTY0ODQyOTI4MiwwMDAwMDAwMDBhYzI5MjQ2YjE3NmI1MzUxOTAzZmQ1ZjMxZTFkMTEz`

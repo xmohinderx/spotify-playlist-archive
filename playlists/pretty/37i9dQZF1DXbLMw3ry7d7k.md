@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,626 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,073 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [Jangueo](https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK) | 4:19 |
 | 100 | [Perfecta](https://open.spotify.com/track/6QM3YNDJWPdfHVfbZ2kHvq) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Perfecta](https://open.spotify.com/album/79q7mPUO3zx0dRv4LtE2YC) | 3:15 |
 
-Snapshot ID: `MTY0ODM0Mjk1NSwwMDAwMDAwMDhmYmNhZDUwZTViOTJlYTVjZjA4Y2E3YjM0NzhiM2Jj`
+Snapshot ID: `MTY0ODQyOTQ1NCwwMDAwMDAwMDhmYmNhZDUwZTViOTJlYTVjZjA4Y2E3YjM0NzhiM2Jj`

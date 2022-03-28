@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop Acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013,097 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,013,084 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 119 | [NTN](https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [NTN](https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U) | 3:04 |
 | 120 | [Experiences](https://open.spotify.com/track/11jnaFNhZzTHn48gs7A3eJ) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Experiences](https://open.spotify.com/album/5qTvtAfWbpsDQj5CCWwgNy) | 3:45 |
 
-Snapshot ID: `MTY0ODM0MjQ5MCwwMDAwMDAwMDhiZGQ0YjQ4ZDViOWE2MWU4NGEyNGVmZDk2OTNiNDJh`
+Snapshot ID: `MTY0ODQyODk4OSwwMDAwMDAwMDhiZGQ0YjQ4ZDViOWE2MWU4NGEyNGVmZDk2OTNiNDJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,647 likes - 155 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,726 likes - 155 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

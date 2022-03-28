@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,264 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,141,374 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 111 | [In The Dark](https://open.spotify.com/track/2mGIYrzDcaEjGeZpnltE3Y) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/4vPR8RUetBphiU2UDaMwV1) | 5:42 |
 | 112 | [Lonely Days](https://open.spotify.com/track/6B6UOiNJIaymyr05jwMmuw) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Lonely Days](https://open.spotify.com/album/0QELvGe0mwITZXCdlHozC9) | 3:04 |
 
-Snapshot ID: `MTY0ODM0MjY4NiwwMDAwMDAwMDYyN2FiYmNmNTlmMTk2YWQ3ZmQ4NWZjYTQ5NTZhZjE5`
+Snapshot ID: `MTY0ODQyOTE4NSwwMDAwMDAwMDYyN2FiYmNmNTlmMTk2YWQ3ZmQ4NWZjYTQ5NTZhZjE5`

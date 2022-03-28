@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,874 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,877 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Baile de Favela](https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Baile de Favela](https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS) | 3:00 |
 | 74 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 
-Snapshot ID: `MTY0ODM0MjQ4OCwwMDAwMDAwMDEzNzc2YTViY2VkY2E1MTg4MWQ0YWRkYjExMDRkM2Fl`
+Snapshot ID: `MTY0ODQyODk4OCwwMDAwMDAwMDEzNzc2YTViY2VkY2E1MTg4MWQ0YWRkYjExMDRkM2Fl`

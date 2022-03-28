@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 372173,
       "name": "1Train",
       "url": "https://open.spotify.com/track/7AijU6oTPGmG64uWf63Qvc"
@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 199426,
       "name": "3 Peat",
       "url": "https://open.spotify.com/track/58PWl2rA7lU90UBvDufzWm"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 167653,
       "name": "6 Man",
       "url": "https://open.spotify.com/track/4kdfjhj9xNkYU0R8xlDy8k"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 264853,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx"
@@ -220,6 +220,28 @@
     },
     {
       "album": {
+        "name": "H.F.M. 2 (Hunger For More 2)",
+        "url": "https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "Beamer, Benz, Or Bentley",
+      "url": "https://open.spotify.com/track/0cNJ3huiV99wvUN1tmQLTL"
+    },
+    {
+      "album": {
         "name": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
         "url": "https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA"
       },
@@ -257,7 +279,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
@@ -311,7 +333,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 152253,
       "name": "Blockbuster Night Part 1",
       "url": "https://open.spotify.com/track/1cPujjOs9xKYABlm5lRn16"
@@ -329,7 +351,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 217200,
       "name": "Bomb Intro / Pass That Dutch",
       "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo"
@@ -351,7 +373,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 235733,
       "name": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
       "url": "https://open.spotify.com/track/4gdx3sBwgfZTZAqxKzQVTA"
@@ -439,7 +461,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
@@ -457,10 +479,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 271600,
       "name": "Can't Tell Me Nothing",
       "url": "https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm"
+    },
+    {
+      "album": {
+        "name": "Run the Jewels 2",
+        "url": "https://open.spotify.com/album/2lPYlP4eumsjz6LBG8GCbG"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Close Your Eyes (And Count to Fuck) [feat. Zack De La Rocha]",
+      "url": "https://open.spotify.com/track/76QLGx0NleOYqkDtL7HKIA"
     },
     {
       "album": {
@@ -479,7 +523,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
@@ -497,7 +541,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Country Grammar (Hot Shit)",
       "url": "https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ"
@@ -519,7 +563,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -541,7 +585,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 220346,
       "name": "Dance (A$$) Remix",
       "url": "https://open.spotify.com/track/3OVLPcUPS0HbMeAeMP0jZ4"
@@ -577,7 +621,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 165851,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/2cAmsZQwOuWBFhdBr0Za9C"
@@ -599,6 +643,24 @@
       "duration_ms": 286453,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5F7caGhe84C6ONva5S8yXF"
+    },
+    {
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
     },
     {
       "album": {
@@ -667,10 +729,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 263146,
       "name": "Fire",
       "url": "https://open.spotify.com/track/26IRvCz5UZYTbLH4FrWe2L"
+    },
+    {
+      "album": {
+        "name": "Flex (Ooh, Ooh, Ooh) - Single",
+        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176744,
+      "name": "Flex (Ooh, Ooh, Ooh)",
+      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
     },
     {
       "album": {
@@ -685,7 +765,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
@@ -710,6 +790,28 @@
     },
     {
       "album": {
+        "name": "Furious 7: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232772,
+      "name": "Go Hard or Go Home",
+      "url": "https://open.spotify.com/track/2QJnTfMpNG05KFf2E3gVIJ"
+    },
+    {
+      "album": {
         "name": "The R.E.D. Album",
         "url": "https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37"
       },
@@ -725,7 +827,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 278066,
       "name": "Good Girls Go Bad",
       "url": "https://open.spotify.com/track/7vf8yaBjR5LK9xoArmfWkA"
@@ -817,7 +919,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 236733,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6RGvWCHTS6BC46TsMyN0WM"
@@ -835,7 +937,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 214066,
       "name": "Hip-Hop",
       "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
@@ -875,7 +977,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 212815,
       "name": "Hurtin' Me",
       "url": "https://open.spotify.com/track/2VoJe7vkKkigs7C3CGnSXL"
@@ -919,7 +1021,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 227213,
       "name": "I Got (feat. Pimp C & Project Pat) - Explicit Album Version",
       "url": "https://open.spotify.com/track/1H6tjsLMAa8wAEgQLMNtPw"
@@ -937,7 +1039,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 110790,
       "name": "Icy Chain",
       "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
@@ -1007,7 +1109,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 211186,
       "name": "King Sh*t (feat. T.I.)",
       "url": "https://open.spotify.com/track/0cWmYmQ7OjAKiNnH7qtLKk"
@@ -1077,7 +1179,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
@@ -1179,7 +1281,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 322226,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -1241,7 +1343,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 183527,
       "name": "Money",
       "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
@@ -1281,7 +1383,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 168727,
       "name": "NEVER LEFT",
       "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
@@ -1303,7 +1405,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
@@ -1373,7 +1475,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 300173,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/1Yp5r5ZtEBk0zPYok8yDHh"
@@ -1395,7 +1497,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 320160,
       "name": "Poppin Bottles (feat. Drake)",
       "url": "https://open.spotify.com/track/7JNybNPTQfrbyjvH2jghkb"
@@ -1453,7 +1555,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 239813,
       "name": "Press The Start Button",
       "url": "https://open.spotify.com/track/1YCGoXU7dCNz1F7iFoZSUl"
@@ -1471,10 +1573,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 208600,
       "name": "Push It",
       "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
+    },
+    {
+      "album": {
+        "name": "Diary of a Sinner: 1st Entry",
+        "url": "https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286426,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
     },
     {
       "album": {
@@ -1511,7 +1631,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/6ljbkNIzfmFrGyYUTUAleN"
@@ -1551,7 +1671,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/3oOWBUNbwHZkWF2WND4kK2"
@@ -1587,7 +1707,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 213253,
       "name": "So Good",
       "url": "https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2"
@@ -1621,7 +1741,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 289520,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/37qcaCXw7TlBsDD5BgDoCf"
@@ -1669,7 +1789,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 267293,
       "name": "Stuntin' Like My Daddy - Street",
       "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
@@ -1687,7 +1807,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 254040,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
@@ -1785,7 +1905,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 239613,
       "name": "The Show Goes On",
       "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
@@ -1803,7 +1923,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 231760,
       "name": "The Story of O.J.",
       "url": "https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH"
@@ -1821,7 +1941,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 331480,
       "name": "Therapy Session",
       "url": "https://open.spotify.com/track/6WKk8l8EXiwPBYlmSlhZWx"
@@ -1839,7 +1959,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 212613,
       "name": "Under Ground Kings",
       "url": "https://open.spotify.com/track/5bUwUQKGNnTE20kb3MTqHD"
@@ -1857,7 +1977,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
@@ -1897,7 +2017,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 234333,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
@@ -1919,7 +2039,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
@@ -2017,7 +2137,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 281906,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
@@ -2053,7 +2173,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"

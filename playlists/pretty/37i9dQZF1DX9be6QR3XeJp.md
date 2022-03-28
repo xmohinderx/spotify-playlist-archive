@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,676 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,697 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 99 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 100 | [Think That I Don't Need Your Love](https://open.spotify.com/track/15lQe5EUD55Fkq7HWLnJp5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/75Y9qwXRX8OHrDrYTKuBMg) | 3:43 |
 
-Snapshot ID: `MTY0ODM0Mjg5OSwwMDAwMDAwMDljZjk3MjdiYzc5YTgyNzkyNTViMDlhNWM1OGY2ZjM3`
+Snapshot ID: `MTY0ODQyOTM5OCwwMDAwMDAwMDljZjk3MjdiYzc5YTgyNzkyNTViMDlhNWM1OGY2ZjM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,331 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,952 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [I'LL MALL IT OVER](https://open.spotify.com/track/7KTcaHCHouLE8Rv6FWvRu0) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Pure Pressure](https://open.spotify.com/album/2n47Hty8qcXZ0BpubNlbDR) | 3:12 |
 | 75 | [Visualizer.Eden](https://open.spotify.com/track/5vweEhyO7Am4GGXrhHvShK) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Visualizer.Eden](https://open.spotify.com/album/1TQsuV5vpKEadjNeii5ULn) | 3:51 |
 
-Snapshot ID: `MTY0ODM0Mjg4NiwwMDAwMDAwMDQ0ZWI1Mzg2NGFlMjU3OGNjZTUzN2JiNGI1MmM1ZWIz`
+Snapshot ID: `MTY0ODQyOTM4NywwMDAwMDAwMDQ0ZWI1Mzg2NGFlMjU3OGNjZTUzN2JiNGI1MmM1ZWIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Wande
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,744 likes - 95 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,843 likes - 95 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 24 | [Prepare The Way](https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Prepare The Way](https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ) | 4:15 |
 | 25 | [Fuego & Poder](https://open.spotify.com/track/4egnZWPE4EX5qo9TI7ywfi) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder](https://open.spotify.com/album/1UQdxnXGIDgXsod0eNyIyG) | 10:40 |
 | 26 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 |
-| 27 | [Living God](https://open.spotify.com/track/2bD5lwED31Ckfc3QRAlK9S) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Living God](https://open.spotify.com/album/6bA6HMsGHcZA8VUU99WX1u) | 4:48 |
+| 27 | [Living God \- Live](https://open.spotify.com/track/2bD5lwED31Ckfc3QRAlK9S) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Zac Rowe](https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD) | [Living God \(Live\)](https://open.spotify.com/album/6bA6HMsGHcZA8VUU99WX1u) | 4:48 |
 | 28 | [Mustard Seed](https://open.spotify.com/track/5SKRevBBlUlUFhqV9C3shR) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 5:57 |
 | 29 | [Familiar Song](https://open.spotify.com/track/3DnP2FfQRJ2LrHHhZwiBlf) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Familiar Song](https://open.spotify.com/album/3MKRWWBF1E0jLIWGhwRp5K) | 5:20 |
 | 30 | [Only You](https://open.spotify.com/track/4ebt6MOHsjpafxEmjXhAGp) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only You](https://open.spotify.com/album/6AwaUJBqHUAeU6kNQaBfqI) | 4:24 |

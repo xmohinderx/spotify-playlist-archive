@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > pick a favorite ;\) cover: rachel chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,834 likes - 143 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,999 likes - 143 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

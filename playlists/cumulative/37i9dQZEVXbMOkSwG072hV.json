@@ -1580,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
         "name": "Hits 2021 (Mashup)",
         "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
       },
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
       "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-28",
       "duration_ms": 201990,
       "name": "Ily",
       "url": "https://open.spotify.com/track/0S8OkXHUuSHKyCTKomDxaw"
@@ -4259,6 +4277,36 @@
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
+    },
+    {
+      "album": {
+        "name": "Vai Malvadin / Me chama de amor",
+        "url": "https://open.spotify.com/album/3uEm44Uva985bTs9KAaQGC"
+      },
+      "artists": [
+        {
+          "name": "Sony no Beat",
+          "url": "https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb"
+        },
+        {
+          "name": "Mc Izal",
+          "url": "https://open.spotify.com/artist/6F3azfM1wd8PU8aSxV5tyY"
+        },
+        {
+          "name": "Afonso na Voz",
+          "url": "https://open.spotify.com/artist/3nXLL3bkT9459UVX0d3tfW"
+        },
+        {
+          "name": "MC treyce",
+          "url": "https://open.spotify.com/artist/25KINqWHPJHFlj9b3jZLUt"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Vai Malvadin / Me chama de amor",
+      "url": "https://open.spotify.com/track/1z9GR9J5WBqPITrBxre5ov"
     },
     {
       "album": {

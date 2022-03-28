@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > Purrrr with beats to chill, relax, study, code, focus, and sleep..\. 🐱
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,570,799 likes - 998 songs - 1 day 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,572,772 likes - 998 songs - 1 day 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1007,4 +1007,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 997 | [Wabisabi](https://open.spotify.com/track/0lamftmKETSz8pYbyJzD3j) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Japanese Tradition](https://open.spotify.com/album/5Hm3EruxbDAe1Bdd8m36eW) | 1:42 |
 | 998 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 |
 
-Snapshot ID: `MTY0ODM0MjQ3NSwwMDAwMDAwMDZkZmM3NzZhY2JlZmY0Yzc0YzQ1MTE5ZDI5NTI4Yzlh`
+Snapshot ID: `MTY0ODQyODk3NiwwMDAwMDAwMDZkZmM3NzZhY2JlZmY0Yzc0YzQ1MTE5ZDI5NTI4Yzlh`

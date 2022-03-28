@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,171 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,188 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Girra Girra](https://open.spotify.com/track/5GQ5gYGmIXeACMJk5E1RQR) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [F2](https://open.spotify.com/album/0CkMSLqE73UxkDdF2zGMeO) | 4:55 |
 | 52 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
 
-Snapshot ID: `MTY0ODM0MjM5NiwwMDAwMDAwMDk2NzM5Mzg0NGMxMzhiMzQ1YTFjZDJkYjMzYTA5MTBj`
+Snapshot ID: `MTY0ODQyODg5NiwwMDAwMDAwMDk2NzM5Mzg0NGMxMzhiMzQ1YTFjZDJkYjMzYTA5MTBj`

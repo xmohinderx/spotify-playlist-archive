@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,136 likes - 102 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,280 likes - 102 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

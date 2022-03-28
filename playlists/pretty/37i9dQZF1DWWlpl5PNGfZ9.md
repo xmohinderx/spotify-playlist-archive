@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90\. Foto: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,683 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,876 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 49 | [Dr\. Psiquiatra](https://open.spotify.com/track/3jF0zm2dfCPUpnDpLcx2F0) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aqui](https://open.spotify.com/album/2BRDFUTn1bWZP793gSFLJA) | 3:40 |
 | 50 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
 
-Snapshot ID: `MTY0ODM0MjQ4OCwwMDAwMDAwMDVhMGJiM2ZjNzUyNjYyMjFlNzQ5YTQ5NzhmNDEyMDBh`
+Snapshot ID: `MTY0ODQyODk4OCwwMDAwMDAwMDVhMGJiM2ZjNzUyNjYyMjFlNzQ5YTQ5NzhmNDEyMDBh`

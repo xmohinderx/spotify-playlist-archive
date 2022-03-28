@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,291 likes - 150 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,421 likes - 150 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Redeemer](https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH) | [Nicole C\. Mullen](https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF) | [Nicole C\. Mullen](https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3) | 4:54 |
 | 150 | [Extravagant \(Live\)](https://open.spotify.com/track/1LieRwFB0OI3wWGvI71DuX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 6:11 |
 
-Snapshot ID: `MTY0ODM0MjQ5OSwwMDAwMDAwMGVlZWVjZjI1MTc5NTRmMmRlZTgxNGY4MzM0ZDA2ODE1`
+Snapshot ID: `MTY0ODQyODk5OSwwMDAwMDAwMGVlZWVjZjI1MTc5NTRmMmRlZTgxNGY4MzM0ZDA2ODE1`

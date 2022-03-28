@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,979 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,523 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 59 | [Dig](https://open.spotify.com/track/3H0ZY55seypgo0zXI6zwRk) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/1PxA0y3aRMejJGb0wJH9gS) | 2:42 |
 | 60 | [In the Name of Tragedy](https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:03 |
 
-Snapshot ID: `MTY0ODM0MjUwOSwwMDAwMDAwMGQ5Zjc2NGYzNzExNzE0MWM1YzE2YTExYzAyOTVmOWFl`
+Snapshot ID: `MTY0ODQyOTAwOSwwMDAwMDAwMGQ5Zjc2NGYzNzExNzE0MWM1YzE2YTExYzAyOTVmOWFl`

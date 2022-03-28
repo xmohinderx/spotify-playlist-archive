@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,385 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,480 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 | 40 | [Your Smile](https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire ..\. And More](https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9) | 4:15 |
 
-Snapshot ID: `MTY0ODM0MjY2NSwwMDAwMDAwMGQzNzZjOGNkYWFjMDI1OTU3NzA0ODg3YWUxZjllYzdm`
+Snapshot ID: `MTY0ODQyOTE2MywwMDAwMDAwMGQzNzZjOGNkYWFjMDI1OTU3NzA0ODg3YWUxZjllYzdm`
