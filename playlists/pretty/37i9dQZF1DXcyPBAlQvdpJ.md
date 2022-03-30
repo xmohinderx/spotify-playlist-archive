@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,182 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,337 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 37 | [Pode Se Soltar](https://open.spotify.com/track/2mL3B5GilTm4dUT6P8LVpd) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/1n80hObcwA9Ic5k7TWqNNY) | 3:00 |
 | 38 | [Aquecimento das Potrancas](https://open.spotify.com/track/0izojWByMi0kVjiAd2MYqD) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Aquecimento das Potrancas](https://open.spotify.com/album/5iQXSTgcU3HPx8h7TwMgLF) | 3:09 |
 | 39 | [Qual Bumbum Mais Bate, Qual Bumbum Mais Pula](https://open.spotify.com/track/4eZg3l8x5aMvgwsRHcZuIC) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Qual Bumbum Mais Bate, Qual Bumbum Mais Pula](https://open.spotify.com/album/1YQGZVoU4WRqgUaHNyQtG1) | 2:42 |
-| 40 | [Troféu do Ano](https://open.spotify.com/track/7CtFr21TzdM4ntuBkwzpxg) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3tQ3S05OMjsRpkQr8CvIqU), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/14SzrvcMhk0JmTovgiei8e) | 3:09 |
+| 40 | [Troféu do Ano](https://open.spotify.com/track/7CtFr21TzdM4ntuBkwzpxg) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/14SzrvcMhk0JmTovgiei8e) | 3:09 |
 | 41 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 |
 | 42 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |
 | 43 | [Automaticamente](https://open.spotify.com/track/6AaoEX192rJ6o3UFwG43sV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Leléto](https://open.spotify.com/artist/7qga9VgjmVrAAawr8WwUAH), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 3:07 |

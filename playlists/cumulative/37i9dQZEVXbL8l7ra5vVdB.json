@@ -963,6 +963,24 @@
     {
       "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
+        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
+    },
+    {
+      "album": {
+        "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w"
       },
       "artists": [
@@ -5948,6 +5966,28 @@
     },
     {
       "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/6ped7own3bddgsEmwJAvme"
+      },
+      "artists": [
+        {
+          "name": "semmmyq",
+          "url": "https://open.spotify.com/artist/2XDZAH2dpvWNlVnvOHkCJl"
+        },
+        {
+          "name": "shinra",
+          "url": "https://open.spotify.com/artist/62FHJtmMEmNvNGu16VHbUp"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187271,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/0z58HQdBeOGPCveLYfX6lO"
+    },
+    {
+      "album": {
         "name": "URUS",
         "url": "https://open.spotify.com/album/3B9YZoB4arpnD8IBvOThbw"
       },
@@ -9261,7 +9301,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 146242,
       "name": "\u041a\u0430\u0439\u0444 \u0442\u044b \u043f\u043e\u0439\u043c\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/210n2xgoOzGnb3I1K8OF4v"
@@ -11665,7 +11705,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 69531,
       "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 - remix nevroz",
       "url": "https://open.spotify.com/track/1zE2dRkxtOLEOubAmqcHX3"

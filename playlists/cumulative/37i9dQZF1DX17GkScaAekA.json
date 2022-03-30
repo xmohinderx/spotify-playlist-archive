@@ -590,6 +590,28 @@
     },
     {
       "album": {
+        "name": "Music for a While (from Oedipus, Z. 583)",
+        "url": "https://open.spotify.com/album/47DlK06Ua9XvSXOkYO8GMj"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248434,
+      "name": "Music for a While (from Oedipus, Z. 583)",
+      "url": "https://open.spotify.com/track/3ExGm8D3DUSezDEvPiRsYG"
+    },
+    {
+      "album": {
         "name": "Vivaldi",
         "url": "https://open.spotify.com/album/5L54ihl5TWTP8I0nYsnNbN"
       },

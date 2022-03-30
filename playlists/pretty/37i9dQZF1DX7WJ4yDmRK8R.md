@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Goldfinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,000 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,187 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Can't Stop](https://open.spotify.com/track/1G0sX22yArZuXOQV2O5Qyr) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Can't Stop](https://open.spotify.com/album/6yhJV1xf20YS1IyZVcCMLE) | 2:08 |
 | 100 | [Wake Up, The Monster Said](https://open.spotify.com/track/3LyhwdYWw11L7evg7EliIl) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Wake Up, The Monster Said](https://open.spotify.com/album/7L3FX3c3lj2aEeJqMnKeWT) | 3:08 |
 
-Snapshot ID: `MTY0ODQyOTMzMywwMDAwMDAwMDA0YzdhY2QwNDFkM2I2YzVmZGYwMDA0OWYxMjkzNTAw`
+Snapshot ID: `MTY0ODYwMTg5MywwMDAwMDAwMDA0YzdhY2QwNDFkM2I2YzVmZGYwMDA0OWYxMjkzNTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,623 likes - 120 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,702 likes - 120 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Trapped in Chaos](https://open.spotify.com/track/294RpKWjeQbzjzUZssLoXR) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Trapped in Chaos](https://open.spotify.com/album/3kutY8R8gVijhDN1WOBQUB) | 4:03 |
 | 120 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
 
-Snapshot ID: `MTY0ODQyOTA3MiwwMDAwMDAwMDBiOWE4Y2IxZTRlYmMwZjE1OGIxYWJhZDE4YTAyODdh`
+Snapshot ID: `MTY0ODYwMTYzNiwwMDAwMDAwMDBiOWE4Y2IxZTRlYmMwZjE1OGIxYWJhZDE4YTAyODdh`

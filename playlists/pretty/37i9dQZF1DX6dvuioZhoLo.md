@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,621 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,900 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Jackson](https://open.spotify.com/track/7GhTnpAKMLPNCeiY7ylEw3) | [Annalisa Tornfelt](https://open.spotify.com/artist/4Eo2U9v17haXp8fW3g47Za) | [Search Zero](https://open.spotify.com/album/7tnfdJ91P5koAd3B3veyDU) | 3:17 |
 | 100 | [Party Boy](https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 2:33 |
 
-Snapshot ID: `MTY0ODQyOTMwNSwwMDAwMDAwMGIzMTk1NTAyN2EzY2JmNzIzZDAyYWQ3NzA5ZjE1YTY0`
+Snapshot ID: `MTY0ODYwMTg2NiwwMDAwMDAwMGIzMTk1NTAyN2EzY2JmNzIzZDAyYWQ3NzA5ZjE1YTY0`

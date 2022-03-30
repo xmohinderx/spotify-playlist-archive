@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 29496,
+  "num_followers": 29533,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -70,6 +70,10 @@
         {
           "name": "Sir Colin Davis",
           "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "duration_ms": 965280,

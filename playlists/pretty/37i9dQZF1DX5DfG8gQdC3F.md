@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,542 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,658 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 |
 | 92 | [Can You Keep A Secret](https://open.spotify.com/track/2OUjOp4eEiZ77pWrLGhjYE) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb) | [Can You Keep A Secret](https://open.spotify.com/album/05IYu6hoSYNAFvGdLR3LpK) | 2:32 |
 | 93 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 |
-| 94 | [Slittled Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 |
+| 94 | [Slitted Tongue](https://open.spotify.com/track/6lZpYp8Cd6tQlCDchtg3ch) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Slitted Tongue](https://open.spotify.com/album/5co49ntVCysUnAHuIBiBh2) | 3:08 |
 | 95 | [Feel Real](https://open.spotify.com/track/0pW3fEVfxhDHwaX0fTtEEZ) | [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Feel Real](https://open.spotify.com/album/5HrVM0nTs5lYLN8202cQts) | 3:03 |
 | 96 | [Living](https://open.spotify.com/track/5bvG7LZESKTtXsEHsRA2BW) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Afterlife](https://open.spotify.com/album/6hNf3p879mIkKZ6cA2cLeR) | 3:16 |
 | 97 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 |

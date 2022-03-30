@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,210 likes - 500 songs - 21 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,266 likes - 500 songs - 21 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 499 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 |
 | 500 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 |
 
-Snapshot ID: `MTY0ODQyOTE1MywwMDAwMDAwMDM3YmZmMzRjZWJiOTA4MjhkZDU0N2IwY2I0YWM3YjA4`
+Snapshot ID: `MTY0ODYwMTcxNSwwMDAwMDAwMDM3YmZmMzRjZWJiOTA4MjhkZDU0N2IwY2I0YWM3YjA4`

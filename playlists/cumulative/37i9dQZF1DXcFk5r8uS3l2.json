@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242990,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
+    },
+    {
+      "album": {
         "name": "Black Holes and Overdoses",
         "url": "https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y"
       },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 147334,
       "name": "The Tools",
       "url": "https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ"

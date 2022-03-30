@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,105 likes - 115 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,092 likes - 115 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 |
 | 115 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 |
 
-Snapshot ID: `MTY0ODQyOTQ5NywwMDAwMDAwMGI1NzE2ZTU3ZTM1N2NkYzY1MmZmYzY3MTAzYjE3ZTlk`
+Snapshot ID: `MTY0ODYwMjA1NywwMDAwMDAwMGI1NzE2ZTU3ZTM1N2NkYzY1MmZmYzY3MTAzYjE3ZTlk`

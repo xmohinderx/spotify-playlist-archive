@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "13. komnata",
       "url": "https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 107200,
       "name": "Bomby",
       "url": "https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -3657,7 +3657,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 275524,
       "name": "HND (verze69)",
       "url": "https://open.spotify.com/track/7tEXQJHNQ15N7CDYTki7Ui"
@@ -4185,7 +4185,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 198400,
       "name": "Jedna Dva",
       "url": "https://open.spotify.com/track/4YVsXiijWW1hqn7NISLeP6"
@@ -5389,7 +5389,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 204506,
       "name": "Mala dama",
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
@@ -6570,6 +6570,24 @@
     },
     {
       "album": {
+        "name": "NO PHONE",
+        "url": "https://open.spotify.com/album/6VybGHsexRdbENHrCzlLz9"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "NO PHONE",
+      "url": "https://open.spotify.com/track/29nGr7OiERigWKlwoC66bu"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -7471,7 +7489,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "P\u0159\u00edb\u011bhy, sny",
       "url": "https://open.spotify.com/track/2LuBVfML3jK93lgUVF6ZjO"
@@ -7721,7 +7739,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 206197,
       "name": "Rolls",
       "url": "https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze"
@@ -8637,7 +8655,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 256720,
       "name": "Svaz ceskych bohemu",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -8749,7 +8767,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -8767,7 +8785,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"

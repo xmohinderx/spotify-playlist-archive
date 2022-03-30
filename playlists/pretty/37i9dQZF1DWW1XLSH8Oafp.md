@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring yunè pinku
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,083 likes - 106 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,760 likes - 106 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

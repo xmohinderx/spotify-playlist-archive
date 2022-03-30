@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT9XEOPDgFX3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT9XEOPDgFX3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT9XEOPDgFX3)
 
-### Folk Arc
+### [Folk Arc](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 

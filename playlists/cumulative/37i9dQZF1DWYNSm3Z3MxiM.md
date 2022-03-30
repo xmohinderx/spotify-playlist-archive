@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYNSm3Z3MxiM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYNSm3Z3MxiM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYNSm3Z3MxiM)
 
-### Classic Rock Workout
+### [Classic Rock Workout](https://open.spotify.com/playlist/6DYzN0cP7OPnZuZS99dem5)
 
 > Nothing but anthems \- for an extra rep, an extra set, an extra mile...
 

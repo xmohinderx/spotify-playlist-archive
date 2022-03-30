@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTHM4kX49UKs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTHM4kX49UKs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTHM4kX49UKs)
 
-### Ultimate Indie Presents..\. Best Indie Tracks of the 2010s
+### [Ultimate Indie Presents..\. Best Indie Tracks of the 2010s](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 

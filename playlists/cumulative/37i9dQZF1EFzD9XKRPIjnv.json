@@ -1893,6 +1893,24 @@
     {
       "album": {
         "name": "Too High",
+        "url": "https://open.spotify.com/album/2t4h2ecBsgjoaQ2rRg9RVt"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182501,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/6K90HAZnW5jrYMqMeI54BJ"
+    },
+    {
+      "album": {
+        "name": "Too High",
         "url": "https://open.spotify.com/album/5WugpOvIyCVhBuLuZl02mU"
       },
       "artists": [
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 182501,
       "name": "Too High",
       "url": "https://open.spotify.com/track/7gnQy9ENMCOZtGUgLmokyz"

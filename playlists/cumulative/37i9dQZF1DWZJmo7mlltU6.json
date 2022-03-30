@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: grentperez",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: \u03a3tella",
   "name": "borderless",
   "published_playlist_ids": [
     "6bA5HVht0DRnYt7fu1eP5j"
@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Baby You\u2019re the One I Need",
+        "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Baby You\u2019re the One I Need",
+      "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
+    },
+    {
+      "album": {
         "name": "Bad Ting",
         "url": "https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8"
       },
@@ -414,6 +432,28 @@
     },
     {
       "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158359,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
+    },
+    {
+      "album": {
         "name": "postcard from Milan",
         "url": "https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2"
       },
@@ -541,6 +581,24 @@
       "duration_ms": 162000,
       "name": "Como son las cosas",
       "url": "https://open.spotify.com/track/7t8zoNnda5roMNPJVQAdpC"
+    },
+    {
+      "album": {
+        "name": "Conseguenze",
+        "url": "https://open.spotify.com/album/5ptDjx8Em07Z5QeaLucMtg"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9clame",
+          "url": "https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "Conseguenze",
+      "url": "https://open.spotify.com/track/3Qu1niBpz75dwj7ZaghQLJ"
     },
     {
       "album": {
@@ -797,7 +855,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 190675,
       "name": "Dos vidas",
       "url": "https://open.spotify.com/track/4mG1Qzy4jjQ8M41b27aqTL"
@@ -837,6 +895,60 @@
       "duration_ms": 303006,
       "name": "Easy Bake Easy Wake",
       "url": "https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B"
+    },
+    {
+      "album": {
+        "name": "Elon Musk (W ogniu si\u0119 unosz\u0119)",
+        "url": "https://open.spotify.com/album/0CgdTE0nRKpJdkjviXCtr0"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213473,
+      "name": "Elon Musk (W ogniu si\u0119 unosz\u0119)",
+      "url": "https://open.spotify.com/track/3UH5SVLXiVcilknjQzhvT4"
+    },
+    {
+      "album": {
+        "name": "empleado del mes",
+        "url": "https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "empleado del mes",
+      "url": "https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo"
+    },
+    {
+      "album": {
+        "name": "I Don't Like Roses",
+        "url": "https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Empty Air",
+      "url": "https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc"
     },
     {
       "album": {
@@ -891,7 +1003,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 196690,
       "name": "Extra Life",
       "url": "https://open.spotify.com/track/7AngXzeHprtm3cTr9gdFmy"
@@ -1029,7 +1141,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 262533,
       "name": "FORGOTTEN - [Vocal : ermhoi (Black Boboi / millennium parade)]",
       "url": "https://open.spotify.com/track/0XGeamfknqZP8K5g0BcrUg"
@@ -1408,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "La Final",
+        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "La Final",
+      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
+    },
+    {
+      "album": {
         "name": "La Novela",
         "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
       },
@@ -1723,7 +1853,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 269000,
       "name": "Merry Midnight",
       "url": "https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW"
@@ -2216,6 +2346,28 @@
     },
     {
       "album": {
+        "name": "Flea Market Music",
+        "url": "https://open.spotify.com/album/5qQMMQua0Qzutmb6dx2Qjj"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Marques",
+          "url": "https://open.spotify.com/artist/1D0MIo5N8QMrSB0Ek1iHPH"
+        },
+        {
+          "name": "Yannick Falisse",
+          "url": "https://open.spotify.com/artist/3awq4e0quWiIbA3gRrDJFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250726,
+      "name": "Pouco a Pouco",
+      "url": "https://open.spotify.com/track/4hhPfYrZ3KRLj2CN0tClh0"
+    },
+    {
+      "album": {
         "name": "LIMPORTANCEDUVIDE",
         "url": "https://open.spotify.com/album/2WJrL6BbYanLAJRRRdsBhc"
       },
@@ -2285,7 +2437,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 188493,
       "name": "Remember November / Bitcrush*Yr*Life",
       "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
@@ -2321,7 +2473,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 174000,
       "name": "Ricci",
       "url": "https://open.spotify.com/track/6VYA56QtlPxcYEJD9AQkHy"
@@ -2545,7 +2697,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 167044,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
@@ -2726,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Swimming Pools",
+        "url": "https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158013,
+      "name": "Swimming Pools",
+      "url": "https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7"
+    },
+    {
+      "album": {
         "name": "SYNCOPATE",
         "url": "https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL"
       },
@@ -2883,7 +3053,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 217263,
       "name": "to the moon",
       "url": "https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws"
@@ -2905,6 +3075,24 @@
       "duration_ms": 191086,
       "name": "Todas Menos T\u00fa",
       "url": "https://open.spotify.com/track/7f1BZ7o9IWCnWh9yu71nMu"
+    },
+    {
+      "album": {
+        "name": "Tomber sur toi",
+        "url": "https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Tomber sur toi",
+      "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
     },
     {
       "album": {
@@ -3089,7 +3277,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 188108,
       "name": "where I become someone",
       "url": "https://open.spotify.com/track/0ksR5KPinz2gURmTsZpWwU"
@@ -3241,6 +3429,24 @@
       "duration_ms": 154434,
       "name": "\u0427\u0443\u0432\u0441\u0442\u0432\u0430",
       "url": "https://open.spotify.com/track/72O1dX3UTDSxOu7Isg7I1K"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e34\u0e4a\u0e1a\u0e2d\u0e22\u0e39\u0e48 (Fingers Crossed)",
+        "url": "https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184714,
+      "name": "\u0e2d\u0e34\u0e4a\u0e1a\u0e2d\u0e22\u0e39\u0e48 (Fingers Crossed)",
+      "url": "https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Nothing but anthems \- for an extra rep, an extra set, an extra mile...
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,088 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,567 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 64 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 65 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 |
 
-Snapshot ID: `MTY0ODQyOTAzOSwwMDAwMDAwMGY1ZTQxMjNkZmJjM2I2MDQ4NDliMmQ5YTJhNzBhMTIy`
+Snapshot ID: `MTY0ODYwMTYwMywwMDAwMDAwMGY1ZTQxMjNkZmJjM2I2MDQ4NDliMmQ5YTJhNzBhMTIy`

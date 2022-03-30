@@ -1,29 +1,13 @@
 {
-  "description": "Celebrating the 25th anniversary of Baduizm by Erykah Badu.",
-  "num_followers": 270097,
+  "description": "The tracks that you love from the artists you love. Cover: Erykah Badu",
+  "num_followers": 270692,
   "original_name": "I Love My Neo-Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY3MDAwMCwwMDAwMDAxZjAwMDAwMTdlYjI1ZGQzYjMwMDAwMDE3YmUzZDUyZGU5",
+  "snapshot_id": "MTY0ODQ2MjMwNCwwMDAwMDAyMTAwMDAwMTdmZDAwMjk1NDcwMDAwMDE3YmUzZDUyZGU5",
   "tracks": [
-    {
-      "added_at": "2022-01-31 23:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Rim Shot - Intro",
-      "url": "https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma"
-    },
     {
       "added_at": "2022-01-31 23:00:00",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 226133,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3a6YKw9xPXgqzwtOKnsPCQ"
-    },
-    {
-      "added_at": "2022-01-31 23:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/0AdCd5aZbu62xuQTR1gLPe"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Appletree",
-      "url": "https://open.spotify.com/track/36tL7MtytUgnUxjDF830Qb"
     },
     {
       "added_at": "2022-01-31 23:00:00",
@@ -351,22 +319,6 @@
     {
       "added_at": "2022-01-31 23:00:00",
       "album": {
-        "name": "Neo Soul Classic, Vol. 1",
-        "url": "https://open.spotify.com/album/7nEGy460eocRJb87RB3OMa"
-      },
-      "artists": [
-        {
-          "name": "Calvin Richardson",
-          "url": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb"
-        }
-      ],
-      "duration_ms": 308303,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/5jVwN1SBPNA6zQdFiConO0"
-    },
-    {
-      "added_at": "2022-01-31 23:00:00",
-      "album": {
         "name": "Things Fall Apart (Explicit Version)",
         "url": "https://open.spotify.com/album/30NwFThVHXPksCA83zRfWR"
       },
@@ -407,22 +359,18 @@
     {
       "added_at": "2022-01-31 23:00:00",
       "album": {
-        "name": "Things Fall Apart (Explicit Version)",
-        "url": "https://open.spotify.com/album/30NwFThVHXPksCA83zRfWR"
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/0AdCd5aZbu62xuQTR1gLPe"
       },
       "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        },
         {
           "name": "Erykah Badu",
           "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 259293,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/1ANOv63SRuUpI9w347Mgg7"
+      "duration_ms": 265373,
+      "name": "Appletree",
+      "url": "https://open.spotify.com/track/36tL7MtytUgnUxjDF830Qb"
     },
     {
       "added_at": "2022-01-31 23:00:00",
@@ -527,6 +475,26 @@
       "duration_ms": 221986,
       "name": "I Think I Love You",
       "url": "https://open.spotify.com/track/1TlEEopIktdAi8oWRf9Qx6"
+    },
+    {
+      "added_at": "2022-01-31 23:00:00",
+      "album": {
+        "name": "Things Fall Apart (Explicit Version)",
+        "url": "https://open.spotify.com/album/30NwFThVHXPksCA83zRfWR"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/1ANOv63SRuUpI9w347Mgg7"
     },
     {
       "added_at": "2022-01-31 23:00:00",

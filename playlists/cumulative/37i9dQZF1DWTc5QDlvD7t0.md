@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTc5QDlvD7t0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTc5QDlvD7t0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTc5QDlvD7t0)
 
-### Ultimate Indie Presents..\. Best Tracks of 2019
+### [Ultimate Indie Presents..\. Best Tracks of 2019](https://open.spotify.com/playlist/5hz8Xvsg73JZ8spEinKWb8)
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,358 likes - 110 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,445 likes - 110 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 110 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 |
 
-Snapshot ID: `MTY0ODQyOTExOCwwMDAwMDAwMDVjM2YyMTQ1NjA5MjNkYmNkZDEwMTRkNmE0MTAxZDBh`
+Snapshot ID: `MTY0ODYwMTY4MCwwMDAwMDAwMDVjM2YyMTQ1NjA5MjNkYmNkZDEwMTRkNmE0MTAxZDBh`

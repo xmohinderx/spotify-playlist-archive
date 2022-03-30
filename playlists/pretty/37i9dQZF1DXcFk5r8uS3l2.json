@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 405887,
+  "num_followers": 405994,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAzODAwMDAwMTdmOWI2NTk1MjEwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY0ODUwMDY0MywwMDAwMDAzOTAwMDAwMTdmZDI0Yjk2MTAwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
+    {
+      "added_at": "2022-03-28 20:50:43",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
+    },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 229640,
       "name": "Scoundrel",
       "url": "https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Are You Mad Yet?",
-        "url": "https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h"
-      },
-      "artists": [
-        {
-          "name": "Katie Buchanan",
-          "url": "https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1"
-        }
-      ],
-      "duration_ms": 147334,
-      "name": "The Tools",
-      "url": "https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ"
     },
     {
       "added_at": "2022-03-11 05:02:00",

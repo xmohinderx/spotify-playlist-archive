@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,377 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,160 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Psalm 23](https://open.spotify.com/track/27pNX6K1cysiS7V3fAMjSo) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Psalm 23](https://open.spotify.com/album/1VKhOErRNtcdI6Zx1HIvXp) | 4:10 |
 | 80 | [Somewhere](https://open.spotify.com/track/6AqzHdj8Wlokm62tmFwG1D) | [The Danse Society](https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl) | [Seduction \(The Society Collection\)](https://open.spotify.com/album/4f6Hjqi7kUeSkHqPZW0ALk) | 4:20 |
 
-Snapshot ID: `MTY0ODQyOTEwMiwwMDAwMDAwMDkwMTBjZTdiNzk0ZmM3NGQ0NWFjOTZiMWE3ZGE1NzI5`
+Snapshot ID: `MTY0ODYwMTY2NCwwMDAwMDAwMDkwMTBjZTdiNzk0ZmM3NGQ0NWFjOTZiMWE3ZGE1NzI5`

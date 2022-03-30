@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,878 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,382 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Abuso de Poder \- Remix](https://open.spotify.com/track/5RHrHZnQLdBr1zYEvTD8pn) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [Rotwaila](https://open.spotify.com/artist/1eJOv2PV0ZWbez6OwwA2cd), [Quimico](https://open.spotify.com/artist/1g2AsdCl9c1SqL9g4ELWf4), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Abuso de Poder \(Remix\)](https://open.spotify.com/album/2HfSjM4orZYW9OshQUIBdY) | 8:17 |
 | 100 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
 
-Snapshot ID: `MTY0ODQyOTM0MiwwMDAwMDAwMDgyMDM5NzQ1ZTBkMzkzZmFkYjYzMTQ2MjIzYjY5Zjk4`
+Snapshot ID: `MTY0ODYwMTkwMiwwMDAwMDAwMDgyMDM5NzQ1ZTBkMzkzZmFkYjYzMTQ2MjIzYjY5Zjk4`

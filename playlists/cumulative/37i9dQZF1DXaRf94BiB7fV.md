@@ -2,7 +2,7 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Anurag Mishra, Artwork: Isu Kim.
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Sohini Chakraborty, Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

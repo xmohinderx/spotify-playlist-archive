@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Moneybagg Yo & Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,704 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Is Ya Ready](https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Is Ya Ready](https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp) | 2:04 |
 | 2 | [ROLLIN N CONTROLLIN, Pt.2 \(PICTURE ME\)](https://open.spotify.com/track/5phjnA00QqNdF7oo8a6yu0) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN, Pt.2 \(PICTURE ME\)](https://open.spotify.com/album/06do6YAfoBee0ULhdt4qe5) | 2:01 |
-| 3 | [Magic City \(feat\. Quavo\)](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 |
+| 3 | [Magic City](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 |
 | 4 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 5 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/6cQ08IpBxxfGcSKxqE3NmB) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Headshot](https://open.spotify.com/album/74nxdn9ypqp3hqJEttpDNU) | 2:24 |
 | 6 | [Bluuwuu](https://open.spotify.com/track/70dadmYOwUCwEGHgEVV3NV) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Made In The Pyrex \(Bonus Track\)](https://open.spotify.com/album/659HHNEhpkkMd96Klbdrl4) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
 | 50 | [Geeked](https://open.spotify.com/track/0MHEpmOPl9E988lMIcRBuS) | [C Blu](https://open.spotify.com/artist/2OjTwiWZJUuKNcNRPC0VTE), [C\-HII WVTTZ](https://open.spotify.com/artist/7qeqxguq9U5yvK2ddn8p8b), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Geeked](https://open.spotify.com/album/5Oho6PdHHDdAetQpX9XrWc) | 2:58 |
 
-Snapshot ID: `MTY0ODQyODk3MiwwMDAwMDAwMGJlZTg3NTQ2Yjg2NmZmMzFiYzVlMDYyZDFiMmFmNDgz`
+Snapshot ID: `MTY0ODYwMTUzNywwMDAwMDAwMGJlZTg3NTQ2Yjg2NmZmMzFiYzVlMDYyZDFiMmFmNDgz`

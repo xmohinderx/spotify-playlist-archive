@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Música original + batallas de algunos de los mejores gallos\. Foto: WOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,531 likes - 63 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,535 likes - 63 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 62 | [Jack Adrenalina vs Mc Betho \- Cuartos de Final](https://open.spotify.com/track/25QqfufCwX21FIxNonxwW1) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Jack Adrenalina](https://open.spotify.com/artist/2UfgTAkzBVMbVUNmzuy0zS), [MC Betho](https://open.spotify.com/artist/2rYKjFmlOtceirzxiYBt3u), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Final Nacional México 2019 \(Live\)](https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B) | 5:12 |
 | 63 | [Raper RSD vs MC Jeral \- 3er y 4to Puesto](https://open.spotify.com/track/4XLXpgsrvPeOtXYYCsOqAE) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [Raper Rsd](https://open.spotify.com/artist/6I9AlBKoVQfHJDoZW9UL39), [Mc Jeral](https://open.spotify.com/artist/79OQ747odDlkmInYhRyhAI), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Final Nacional República Dominicana 2019 \(Live\)](https://open.spotify.com/album/3z0a5jGWai20HQwdk2Fv72) | 2:12 |
 
-Snapshot ID: `MTY0ODQyOTUzMCwwMDAwMDAwMDI2NTIwNmYwZjViMTA2NzBhNjFlNjMzZDExMDVhMzlj`
+Snapshot ID: `MTY0ODYwMjA4OSwwMDAwMDAwMDI2NTIwNmYwZjViMTA2NzBhNjFlNjMzZDExMDVhMzlj`

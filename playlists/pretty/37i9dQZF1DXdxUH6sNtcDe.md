@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Keith Urban, Carrie Underwood, Kenny Chesney
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,302 likes - 125 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,280 likes - 125 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [Real Good Man](https://open.spotify.com/track/4ns2xaym21aBOOUN1vaBPJ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [35 Biggest Hits](https://open.spotify.com/album/7pul7RvuYLqryKehizOvsG) | 4:14 |
 | 125 | [She Couldn't Change Me](https://open.spotify.com/track/3zjLEJ6EPYJHZRtWGMhMSJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Carrying On](https://open.spotify.com/album/4UBOcfplkXi6ZEJiVn11Dq) | 4:20 |
 
-Snapshot ID: `MTY0ODQyOTUyOCwwMDAwMDAwMGY5N2VmZWJhNWEwNGQ3MTQ0YWY1NGI0NjJmZjFjNGI4`
+Snapshot ID: `MTY0ODYwMjA4OCwwMDAwMDAwMGY5N2VmZWJhNWEwNGQ3MTQ0YWY1NGI0NjJmZjFjNGI4`

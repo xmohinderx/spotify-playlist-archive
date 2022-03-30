@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZY6U3N4Hq7n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZY6U3N4Hq7n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZY6U3N4Hq7n)
 
-### 80s Workout
+### [80s Workout](https://open.spotify.com/playlist/3b0I2xOIGj17FstCLzMt5l)
 
 > Grab your leg warmers and spandex: let's get physical!
 

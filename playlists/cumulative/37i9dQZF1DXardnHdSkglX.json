@@ -1076,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1JbaEJKeT7zMKAapMIQAO3"
+      },
+      "artists": [
+        {
+          "name": "Jony Magui",
+          "url": "https://open.spotify.com/artist/4SflbmW0fcONCRo3wc0Kte"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139162,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/7loCV1ZchsjMzjKqCM5rv2"
+    },
+    {
+      "album": {
         "name": "Cool Covers in Bossa Nova: Taste of Saudade",
         "url": "https://open.spotify.com/album/1iK2rhkqrsZzrvu3EOhkeG"
       },

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-28",
   "description": "Finest of the Indian English Indie. Cover - Tejas",
   "name": "IndiEnglish",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4hbRgfKnTzMsI4t17faPau"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 210420,
       "name": "100 words",
       "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Alive With You",
+        "url": "https://open.spotify.com/album/0TOntj1DBUeTOitcPD6Yj0"
+      },
+      "artists": [
+        {
+          "name": "Ribhavv",
+          "url": "https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Alive With You",
+      "url": "https://open.spotify.com/track/2olspTlBoEJZvoDDMEEKtz"
+    },
+    {
+      "album": {
         "name": "Around you",
         "url": "https://open.spotify.com/album/7dhNRW5oEv6WCdRcaA3XDm"
       },
@@ -53,7 +73,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 213000,
       "name": "Around you",
       "url": "https://open.spotify.com/track/3yxInFvUf3YkNbqt4UTPNZ"
@@ -96,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216275,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N"
       },
@@ -111,7 +149,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 153472,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl"
@@ -173,10 +211,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 278863,
       "name": "Confessions of a Bipolar Mind",
       "url": "https://open.spotify.com/track/3rA6c03IoVVDvkIds5LtZZ"
+    },
+    {
+      "album": {
+        "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195421,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
     },
     {
       "album": {
@@ -274,6 +330,46 @@
     },
     {
       "album": {
+        "name": "DFWM",
+        "url": "https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M"
+      },
+      "artists": [
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        },
+        {
+          "name": "Oceantied",
+          "url": "https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "DFWM",
+      "url": "https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe"
+    },
+    {
+      "album": {
+        "name": "Dreaming In My Mind",
+        "url": "https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF"
+      },
+      "artists": [
+        {
+          "name": "Jaden Maskie",
+          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Dreaming In My Mind",
+      "url": "https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN"
+    },
+    {
+      "album": {
         "name": "Everything's Fine?",
         "url": "https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8"
       },
@@ -285,7 +381,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 259632,
       "name": "Everything's Fine?",
       "url": "https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr"
@@ -307,6 +403,24 @@
       "duration_ms": 271571,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Express",
+          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5"
     },
     {
       "album": {
@@ -379,10 +493,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 227428,
       "name": "Go Grow",
       "url": "https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW"
+    },
+    {
+      "album": {
+        "name": "Holding Onto History",
+        "url": "https://open.spotify.com/album/0yyRIcVGq7BwnvP3CN2RpU"
+      },
+      "artists": [
+        {
+          "name": "krishaa",
+          "url": "https://open.spotify.com/artist/5rZ7vrAU9rGpRtgdlpjklV"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255176,
+      "name": "Holding Onto History",
+      "url": "https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx"
     },
     {
       "album": {
@@ -397,10 +529,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 219353,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8"
+    },
+    {
+      "album": {
+        "name": "Caution to the Wind",
+        "url": "https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "Horoscope",
+      "url": "https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk"
     },
     {
       "album": {
@@ -415,7 +565,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 278874,
       "name": "I Can't Go Back To Sleep",
       "url": "https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9"
@@ -433,7 +583,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 182400,
       "name": "I Saw You in a Dream",
       "url": "https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F"
@@ -455,6 +605,24 @@
       "duration_ms": 212068,
       "name": "I'm On Holiday",
       "url": "https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f"
+    },
+    {
+      "album": {
+        "name": "If I Tried",
+        "url": "https://open.spotify.com/album/7tAEmbfsN6V6fwnULj3rrd"
+      },
+      "artists": [
+        {
+          "name": "Sheil Sagar",
+          "url": "https://open.spotify.com/artist/2PEzZphNZ2CtfL7V8j9AWy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "If I Tried",
+      "url": "https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8"
     },
     {
       "album": {
@@ -545,7 +713,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 270265,
       "name": "Je Suis La Pomme Rouge",
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
@@ -570,6 +738,24 @@
     },
     {
       "album": {
+        "name": "Keep - Single",
+        "url": "https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5"
+      },
+      "artists": [
+        {
+          "name": "Meghana Mokhasi",
+          "url": "https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Keep",
+      "url": "https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/1KKnwcyHAvHuNkQebSgkxN"
       },
@@ -585,6 +771,42 @@
       "duration_ms": 169200,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0"
+    },
+    {
+      "album": {
+        "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO"
+      },
+      "artists": [
+        {
+          "name": "Faime",
+          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150401,
+      "name": "Love Drunk",
+      "url": "https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC"
+    },
+    {
+      "album": {
+        "name": "Lt Dwn",
+        "url": "https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm"
+      },
+      "artists": [
+        {
+          "name": "Moondrip",
+          "url": "https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247875,
+      "name": "Lt Dwn",
+      "url": "https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i"
     },
     {
       "album": {
@@ -621,6 +843,24 @@
       "duration_ms": 229253,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
+    },
+    {
+      "album": {
+        "name": "Mustard Yellow",
+        "url": "https://open.spotify.com/album/7BECaIEpCKN0iFmnm8KxWp"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah de Rozario",
+          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "Mustard Yellow",
+      "url": "https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL"
     },
     {
       "album": {
@@ -693,7 +933,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 171149,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
@@ -729,7 +969,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 154625,
       "name": "Permanent Food",
       "url": "https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG"
@@ -861,7 +1101,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 148000,
       "name": "Schoolbus",
       "url": "https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd"
@@ -966,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "sophomore sweetheart",
+        "url": "https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv"
+      },
+      "artists": [
+        {
+          "name": "sunflower tape machine",
+          "url": "https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "sophomore sweetheart",
+      "url": "https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669"
+    },
+    {
+      "album": {
         "name": "Spare My Heart",
         "url": "https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D"
       },
@@ -1017,7 +1275,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 205046,
       "name": "Sucks To Be Human",
       "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
@@ -1061,7 +1319,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 223071,
       "name": "Through These Years",
       "url": "https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO"
@@ -1123,6 +1381,24 @@
       "duration_ms": 190322,
       "name": "UNO",
       "url": "https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8"
+    },
+    {
+      "album": {
+        "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266393,
+      "name": "When We Feel Young",
+      "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"
     },
     {
       "album": {

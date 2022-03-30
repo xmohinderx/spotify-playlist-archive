@@ -3429,7 +3429,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 212312,
       "name": "Hi\u00e7 \u0130yi De\u011filim",
       "url": "https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2"
@@ -3665,7 +3665,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 274226,
       "name": "\u0130nsan Dertli Olunca",
       "url": "https://open.spotify.com/track/7oPVCLLZYpU52IUKQ3hRc1"
@@ -4243,7 +4243,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 171880,
       "name": "Krvn",
       "url": "https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9"
@@ -4735,7 +4735,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 211016,
       "name": "Makina",
       "url": "https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e"
@@ -4789,7 +4789,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 157439,
       "name": "Mart\u0131lar",
       "url": "https://open.spotify.com/track/1xEpgyKx4ZHtefFAh0SmU5"
@@ -6659,6 +6659,24 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/566tAtCOlz9yNPsXdXZDsr"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171894,
+      "name": "Su\u00e7lar\u0131mdan Biri",
+      "url": "https://open.spotify.com/track/5S0Q8i6RTwekXnE2WU3vQi"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Chandler Leighton",
-  "num_followers": 262103,
+  "num_followers": 262735,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDA3ZTAwMDAwMTdmYmYzYjJhZTgwMDAwMDE3ZjlhODkwYzVh",
+  "snapshot_id": "MTY0ODUxMDkwMywwMDAwMDA3ZjAwMDAwMTdmZDJlODI1YjcwMDAwMDE3ZjlhODkwYzVh",
   "tracks": [
     {
       "added_at": "2022-03-18 04:01:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
+      "added_at": "2022-03-28 23:41:43",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "YES MOM",
@@ -103,6 +119,22 @@
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -219,22 +251,6 @@
       "duration_ms": 185806,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -831,22 +847,6 @@
       "duration_ms": 191485,
       "name": "WISH U HELL",
       "url": "https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Kiss And Tell",
-        "url": "https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT"
-      },
-      "artists": [
-        {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
-        }
-      ],
-      "duration_ms": 152184,
-      "name": "Kiss And Tell",
-      "url": "https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU"
     },
     {
       "added_at": "2021-11-12 05:48:24",

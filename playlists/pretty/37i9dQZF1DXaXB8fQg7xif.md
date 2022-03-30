@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811,278 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,812,453 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 |
 | 125 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 |
 
-Snapshot ID: `MTY0ODQyOTQyOSwwMDAwMDAwMDc4YzRmYzBlNzE2NTVmNmFlZGFkMzNjNzczYzQ3N2Ri`
+Snapshot ID: `MTY0ODYwMTk4NywwMDAwMDAwMDc4YzRmYzBlNzE2NTVmNmFlZGFkMzNjNzczYzQ3N2Ri`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Lizzy Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,154 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,309 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [Isaías 60:2](https://open.spotify.com/track/7bjHbd2HCnf3m4vxFvdYcJ) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Isaías 60:2](https://open.spotify.com/album/3l04X9nIiiHTH9LfHH75Dx) | 3:54 |
 | 80 | [Alabao](https://open.spotify.com/track/7keU5IyhwslJHLKQRqQPib) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf), [El Vacile Gang](https://open.spotify.com/artist/5RbfExBOz0etBLpKbvLkS1) | [Alabao](https://open.spotify.com/album/0AF9JmlK90ZXnl7EnyPU6s) | 2:48 |
 
-Snapshot ID: `MTY0ODQyODk0OCwwMDAwMDAwMGZlZjRlMjczOWQ5NzFiNGMwYzZmYTVkOTljNWYzMzU1`
+Snapshot ID: `MTY0ODYwMTUxMywwMDAwMDAwMGZlZjRlMjczOWQ5NzFiNGMwYzZmYTVkOTljNWYzMzU1`

@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270995,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6QVx8qNSScVNwR5O7nNaUZ"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/5TNltx6fkatJu1CMYZFG1B"
       },
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 160043,
       "name": "Hot Tub",
       "url": "https://open.spotify.com/track/5tfN0jv7r1HxYm2gApFlZP"

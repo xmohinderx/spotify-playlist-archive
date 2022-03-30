@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTDafB3skWPN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTDafB3skWPN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTDafB3skWPN)
 
-### Feeling Accomplished
+### [Feeling Accomplished](https://open.spotify.com/playlist/7GO5PV58ty6EvqeQafdPpW)
 
 > Celebrate yourself with a fun pop & hip hop mix
 

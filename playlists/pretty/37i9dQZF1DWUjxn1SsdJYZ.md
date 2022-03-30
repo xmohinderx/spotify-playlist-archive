@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: BALLY BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,658 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,686 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LET'S TROT!](https://open.spotify.com/track/2oqlgNaWn1ewr3FNKYLoie) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR) | [LET'S TROT!](https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks) | 3:08 |
 | 2 | [Troublesome](https://open.spotify.com/track/0VC5JJ1DVONoX1tv77nxLm) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Troublesome](https://open.spotify.com/album/4jSEeA1ramOD61CZT7KlhW) | 3:03 |
-| 3 | [Forget You](https://open.spotify.com/track/2fShsVCCvgpELEJpbrz007) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Forget You](https://open.spotify.com/album/2QwgK5BvLgBEiBVG4gfucG) | 2:32 |
-| 4 | [OUT OF SIGHT](https://open.spotify.com/track/6a2POOrd49v2PW9RZkV6LD) | [YP](https://open.spotify.com/artist/69UmThngo84p8zzyAAMkGB), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [OUT OF SIGHT](https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF) | 2:37 |
-| 5 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 |
-| 6 | [The March \(feat\. Hooligan Skinny\)](https://open.spotify.com/track/51H2B4LKerv6hLinFydHbC) | [MONTELLEM](https://open.spotify.com/artist/0oZt5sYbSQv8QDSvWXqdVG), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [The March](https://open.spotify.com/album/0G2VwtDHMueZhUF7h4Ck70) | 2:40 |
-| 7 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 |
-| 8 | [MOST WANTED](https://open.spotify.com/track/3tjary4Ztoj0JPYPErLKan) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [ENEMY OF THE STATE](https://open.spotify.com/album/1j62L5h9Rqqo6Xn137NssQ) | 2:05 |
+| 3 | [The March \(feat\. Hooligan Skinny\)](https://open.spotify.com/track/51H2B4LKerv6hLinFydHbC) | [MONTELLEM](https://open.spotify.com/artist/0oZt5sYbSQv8QDSvWXqdVG), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [The March](https://open.spotify.com/album/0G2VwtDHMueZhUF7h4Ck70) | 2:40 |
+| 4 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 |
+| 5 | [Forget You](https://open.spotify.com/track/2fShsVCCvgpELEJpbrz007) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Forget You](https://open.spotify.com/album/2QwgK5BvLgBEiBVG4gfucG) | 2:32 |
+| 6 | [OUT OF SIGHT](https://open.spotify.com/track/6a2POOrd49v2PW9RZkV6LD) | [YP](https://open.spotify.com/artist/69UmThngo84p8zzyAAMkGB), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [OUT OF SIGHT](https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF) | 2:37 |
+| 7 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 |
+| 8 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 |
 | 9 | [Paper Route \- Remix](https://open.spotify.com/track/3uC6ha6T6CGsxoBOTHo5AI) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Paper Route \(Remix\)](https://open.spotify.com/album/7to9Q1Gilm5MIESAbaupZt) | 2:33 |
 | 10 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 |
 | 11 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 16 | [Riding](https://open.spotify.com/track/4ybxvjfoI326eAGZJE13oe) | [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Riding](https://open.spotify.com/album/6iB7lGpfYILPXEWAG1RtzV) | 2:45 |
 | 17 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 |
 | 18 | [TRAP DREAMS](https://open.spotify.com/track/52BylVuxNpng56UeZYUEnA) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [TRAP DREAMS](https://open.spotify.com/album/6Sj7aGHquIVAQtM8HEnPjZ) | 2:23 |
-| 19 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 |
+| 19 | [MOST WANTED](https://open.spotify.com/track/3tjary4Ztoj0JPYPErLKan) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [ENEMY OF THE STATE](https://open.spotify.com/album/1j62L5h9Rqqo6Xn137NssQ) | 2:05 |
 | 20 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
 | 21 | [NINE TO FIVE](https://open.spotify.com/track/7C9jyySCogo2X5zJsS4RFd) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l) | [NINE TO FIVE](https://open.spotify.com/album/5Vo1AiGbU7kV1QjDE2iVL2) | 2:54 |
 | 22 | [The Life I Live](https://open.spotify.com/track/4DEKt7FPmAowNVkZpIb7VH) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [The Life I Live](https://open.spotify.com/album/70g0prL8mQGEDnUlMMtq3t) | 2:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 81 | [Olé](https://open.spotify.com/track/6TGbSXrssLozfdNyn8hk5z) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [ilyaugust](https://open.spotify.com/artist/1LtlO7x7J1OCaUVKRBub5v) | [Olé](https://open.spotify.com/album/4lkxqpdyue8sbKVCwyV5vQ) | 2:01 |
 | 82 | [Top Of The League](https://open.spotify.com/track/2IZlNLOfAKQtEn6o49kGcA) | [CG MOB](https://open.spotify.com/artist/5OwtwKBW9t5Ez047Yispft) | [Top Of The League](https://open.spotify.com/album/42phT9f7Upy6dRhXc5uviC) | 2:45 |
 
-Snapshot ID: `MTY0ODI4NDU5OSwwMDAwMDI2YjAwMDAwMTdmYzU2YjA0YmUwMDAwMDE3ZmI5ZjJhYWMz`
+Snapshot ID: `MTY0ODQzNTY1NiwwMDAwMDI2YzAwMDAwMTdmY2U2YmY1YTcwMDAwMDE3ZmI5ZjJhYWMz`

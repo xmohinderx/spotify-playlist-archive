@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,736 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,258 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 85 | [Rat Castle \(Skylar Spence Remix\)](https://open.spotify.com/track/7coIyCR7adaGjC7cEc5Vow) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH), [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [alchemist rats beg bashful \(remixes\)](https://open.spotify.com/album/2NgnnfzxHXketoOg1iU9uw) | 3:22 |
 | 86 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
 | 87 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 |
-| 88 | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/track/4zFDDTSInTkLg0d0KzxqJj) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/6sgpzbF3b9TyZ3GZzCLuhf) | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/album/7L5rEfs6SmsH8LCiHuNzhT) | 3:46 |
+| 88 | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/track/4zFDDTSInTkLg0d0KzxqJj) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/album/7L5rEfs6SmsH8LCiHuNzhT) | 3:46 |
 | 89 | [Desolate](https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Desolate](https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF) | 4:41 |
 | 90 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 |
 | 91 | [One World Style](https://open.spotify.com/track/3E39kROovCgOemHDjs2h2v) | [Kue](https://open.spotify.com/artist/6x64y9drMAf6ymZCJa7fao) | [One World Style EP](https://open.spotify.com/album/0Q6aR0j8FPj7Gt2mClam6a) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Colorful](https://open.spotify.com/track/53xrAv7XytICW94kWDjQoH) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Colorful](https://open.spotify.com/album/77B2ZiXhYYSqbSbt14h0Bb) | 2:35 |
 | 100 | [Unlimited](https://open.spotify.com/track/7yG4jsZAH8bVIpXfH2VCQJ) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Unlimited](https://open.spotify.com/album/5oaHK8jFDrcFEubxDaeGSp) | 2:54 |
 
-Snapshot ID: `MTY0ODQyOTQ2NSwwMDAwMDAwMDdmODM0MjExMDViMjM4NjExOWZiMTE4M2YwZTBkMDhk`
+Snapshot ID: `MTY0ODYwMjAyMywwMDAwMDAwMDdmODM0MjExMDViMjM4NjExOWZiMTE4M2YwZTBkMDhk`

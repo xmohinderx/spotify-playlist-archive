@@ -141,7 +141,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 168000,
       "name": "Amsha Simba",
       "url": "https://open.spotify.com/track/0gN1EJ0zugTJje0bT2kasF"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 200854,
       "name": "Big Bazu",
       "url": "https://open.spotify.com/track/2NdKUbrVjrgeh2A4vtZ8VY"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 159157,
       "name": "Manyuria",
       "url": "https://open.spotify.com/track/2IZooNJwOxzLWlCy7RUBau"
@@ -1515,6 +1515,46 @@
       "duration_ms": 216338,
       "name": "Mapema",
       "url": "https://open.spotify.com/track/14TYFA5QiKRuBZ3fzGhwES"
+    },
+    {
+      "album": {
+        "name": "Masaa Zake",
+        "url": "https://open.spotify.com/album/6yPT4WKZlXtv5sT5Pi1l2k"
+      },
+      "artists": [
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182217,
+      "name": "Masaa Zake",
+      "url": "https://open.spotify.com/track/2Q9YvawJ0m8zq17N4DQNJF"
+    },
+    {
+      "album": {
+        "name": "Matire",
+        "url": "https://open.spotify.com/album/1c4SXLaHlMmXxFadTBbvDM"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177743,
+      "name": "Matire",
+      "url": "https://open.spotify.com/track/0KsqSRSSsKWXO6iyqfev1b"
     },
     {
       "album": {
@@ -2065,6 +2105,40 @@
       "duration_ms": 269061,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7"
+    },
+    {
+      "album": {
+        "name": "PEREMENDE",
+        "url": "https://open.spotify.com/album/6MC4PQBGzuubl2DpeWUGqT"
+      },
+      "artists": [
+        {
+          "name": "SPARKID",
+          "url": "https://open.spotify.com/artist/0pD4PVapv9iXWOriPiHDec"
+        },
+        {
+          "name": "MaLoon",
+          "url": "https://open.spotify.com/artist/1UrBAEmt3A6YGN7ftrTlqx"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        },
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119823,
+      "name": "PEREMENDE",
+      "url": "https://open.spotify.com/track/2s8rHekSbpRPpzTUH6qEOh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00QnRFT3a0O.md) - [plain]
 
 > Here are the winners of the 48th Annual GMA Dove Awards\. For more information go to <a href="http://doveawards.com//">2017 Dove Awards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 31 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,875 likes - 31 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00QnRFT3a0O.md) - [plain]
 | 30 | [The Very Next Thing](https://open.spotify.com/track/5sblC3MO4ctwscz49PkwCl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:30 |
 | 31 | [Lowly](https://open.spotify.com/track/60OpqYifr2qCaw6AgmNmit) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 5:23 |
 
-Snapshot ID: `MTU4MzQ4ODcwNSwwMDAwMDAwNDAwMDAwMTVmODI2MWM2ZGEwMDAwMDE3MGFmNDgyNTky`
+Snapshot ID: `MTY0ODYwMDg5NSwwMDAwMDAwNTAwMDAwMTdmZDg0NTUwZDMwMDAwMDE3MGFmNDgyNTky`

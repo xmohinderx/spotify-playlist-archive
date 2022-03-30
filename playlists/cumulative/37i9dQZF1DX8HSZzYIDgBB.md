@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8HSZzYIDgBB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8HSZzYIDgBB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8HSZzYIDgBB)
 
-### Indie AlterLatino
+### [Indie AlterLatino](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Tonga Conga y Mula en portada.
 

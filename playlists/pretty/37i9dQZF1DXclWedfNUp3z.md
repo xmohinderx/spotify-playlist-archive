@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,431 likes - 99 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,657 likes - 99 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 98 | [Photosynesthesia](https://open.spotify.com/track/0Re28d5ry1y6p7QV2KQB1z) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:54 |
 | 99 | [A Ritual Study of the Phong Nha Cave](https://open.spotify.com/track/1iGnt81GTY848mNQhaFwCs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Ritual Study of the Phong Nha Cave](https://open.spotify.com/album/6Ofm6zPrL1as8CaVAa1iAa) | 2:31 |
 
-Snapshot ID: `MTY0ODQyOTQ5MywwMDAwMDAwMDdmMDRlY2RjMDg1MGY5ZTM2ZmI1MmViNzk3NTJiNGZl`
+Snapshot ID: `MTY0ODYwMjA1MiwwMDAwMDAwMDdmMDRlY2RjMDg1MGY5ZTM2ZmI1MmViNzk3NTJiNGZl`

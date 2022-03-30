@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,752 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,121 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 90 | [Poppin’](https://open.spotify.com/track/1JTUPJr0rSf93hNlRR6S0g) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:28 |
 | 91 | [Say It](https://open.spotify.com/track/1v63HdaLjF520P32frB392) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:20 |
 | 92 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 |
-| 93 | [Go away go away](https://open.spotify.com/track/6m6PTfVXdPZT6scb1TaONP) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Dr\. Romantic 2 OST Part.3](https://open.spotify.com/album/3Hogb2UeRoLqF8B7KLTZN0) | 3:49 |
+| 93 | [Go away go away](https://open.spotify.com/track/6m6PTfVXdPZT6scb1TaONP) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/4e2usCxOqebGqp8IpDnkHp) | [Dr\. Romantic 2 OST Part.3](https://open.spotify.com/album/3Hogb2UeRoLqF8B7KLTZN0) | 3:49 |
 | 94 | [Non Stop](https://open.spotify.com/track/7bTYdDUxiFegwLJm6u743n) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:24 |
 | 95 | [Ghost](https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:24 |
 | 96 | [Jet Lag](https://open.spotify.com/track/2pGiCkby7jZHeSTGM9aDKE) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:17 |

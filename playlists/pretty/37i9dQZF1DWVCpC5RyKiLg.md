@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,981 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,415 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 79 | [Razão das Minhas Biritas](https://open.spotify.com/track/3k2QcH88P5lgllbw3SKB87) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Razão das Minhas Biritas](https://open.spotify.com/album/4Ip2TRg5YA9MubkqTu4NGv) | 3:10 |
 | 80 | [Esses Vícios](https://open.spotify.com/track/2InUVOBY515umeuwdQtsQ4) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano Voz & Violão](https://open.spotify.com/album/4W5OXF1DfLc08dcDLZ8poS) | 2:35 |
 
-Snapshot ID: `MTY0ODQyODkzMywwMDAwMDAwMGExNTAzOGUyNDA2ZmI1YzVlMDI0MDkzY2RmNjkxMGFh`
+Snapshot ID: `MTY0ODYwMTQ5OCwwMDAwMDAwMGExNTAzOGUyNDA2ZmI1YzVlMDI0MDkzY2RmNjkxMGFh`

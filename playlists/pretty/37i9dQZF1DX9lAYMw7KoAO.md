@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,772 likes - 70 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,838 likes - 70 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 51 | [Safety](https://open.spotify.com/track/1cuv2HnzLqREWgu6KhXI8Q) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sarah Nathalié](https://open.spotify.com/artist/6oPvIaLoZ8pgWDwb9RXReI) | [Safety](https://open.spotify.com/album/2WvtehaIYsdeiBF1X9zYde) | 3:17 |
 | 52 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 53 | [I Need To Worship](https://open.spotify.com/track/1p8RN6wtquSpTn71bgmuE7) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [Ndikhokhele Bawo](https://open.spotify.com/album/2NMfEgGcpPRYj8sZFi4VDa) | 3:56 |
-| 54 | [Itshokwadi \- Live](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 |
+| 54 | [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 |
 | 55 | [I Never Knew](https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0) | [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I Never Knew](https://open.spotify.com/album/6NIPGPuPrJ7KjfDxf5BLyD) | 3:50 |
 | 56 | [Big God](https://open.spotify.com/track/44Mf6xg3FPKJWkHwjJue9F) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 14](https://open.spotify.com/album/6xz2qMcKIOi8Rj6wWSaQPt) | 5:30 |
 | 57 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 |

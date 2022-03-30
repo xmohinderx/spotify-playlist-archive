@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,313 likes - 100 songs - 5 hr 10 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,337 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 |
-| 2 | [Aunque no te pueda ver](https://open.spotify.com/track/7E7AuXsOzVjUS6IWnehgeA) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Punto y Aparte / Serendipia](https://open.spotify.com/album/3gNO25xNR1IR0cauqtnDbd) | 3:36 |
-| 3 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
+| 2 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
+| 3 | [Aunque no te pueda ver](https://open.spotify.com/track/7E7AuXsOzVjUS6IWnehgeA) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Punto y Aparte / Serendipia](https://open.spotify.com/album/3gNO25xNR1IR0cauqtnDbd) | 3:36 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5DKsy3BjyMcvBrDkb2NPpI) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [Life is Beautiful](https://open.spotify.com/album/3iRUzIFtcoNyOlv9YMjL5g) | 2:15 |
 | 5 | [Bon Appetit](https://open.spotify.com/track/5WZTAcOjGDB96YFw6c53Rf) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Bon Appetit](https://open.spotify.com/album/6bDlW9sOC3aH6iYL2x87lr) | 3:10 |
 | 6 | [LUCKY STRIKE](https://open.spotify.com/track/3SaW0rPPGQVf4jwYzEoXIK) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [LUCKY STRIKE](https://open.spotify.com/album/3KmwHCYR22NBPiKp9JulUd) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 99 | [Body Language](https://open.spotify.com/track/2bkgIGPHdyQN03nAmSViSi) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Body Language](https://open.spotify.com/album/3Mhy375dvX9kspGRCe3Wip) | 2:53 |
 | 100 | [CARE](https://open.spotify.com/track/5QRXdYWeTnJ5NQeO1GGgW3) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Your Girl Pho](https://open.spotify.com/artist/5PqOO6WkdOrWgmvDinM2mc) | [CARE](https://open.spotify.com/album/6aiG6lqNOXbZscZaAO0225) | 3:16 |
 
-Snapshot ID: `NDk5MiwzZTM3YzExZDgyM2YwMDYzZjRhYzllZDRjM2RlY2I0ZGIzMmQzOTJj`
+Snapshot ID: `NDk5Myw5NjY1NmJjZDU3M2Q4MmJhNjE2ZGQ5MDI2YmY3NjUyMmIyYjM4NTM2`

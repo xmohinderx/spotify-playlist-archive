@@ -1942,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "HEROIN",
+        "url": "https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187945,
+      "name": "HEROIN",
+      "url": "https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8"
+    },
+    {
+      "album": {
         "name": "Holding On (Rome In Silver Remix)",
         "url": "https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M"
       },
@@ -4878,7 +4896,7 @@
         },
         {
           "name": "Jstn Dmnd",
-          "url": "https://open.spotify.com/artist/3RmnY5cG1cCKsQ1h8048Y5"
+          "url": "https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2"
         }
       ],
       "date_added": "2022-03-25",

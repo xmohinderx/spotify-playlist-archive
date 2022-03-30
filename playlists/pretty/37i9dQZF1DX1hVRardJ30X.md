@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,049 likes - 63 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,145 likes - 62 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 57 | [Mejor Sin Ti](https://open.spotify.com/track/1PsXrqQRY5PPAJlJtzX1ja) | [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd), [SUSHIKING](https://open.spotify.com/artist/4PeuMs7n0LrwEgJPZRq9jX) | [Mejor Sin Ti](https://open.spotify.com/album/7E9d2s3HnSG3na8BahvcDY) | 3:32 |
 | 58 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 |
 | 59 | [oportUNO](https://open.spotify.com/track/7t2ghIdjkElp0FUb0RlzaM) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [oportUNO](https://open.spotify.com/album/3i8CtqJD1n76oXJeaKXAdQ) | 2:36 |
-| 60 | [Me Entretienes](https://open.spotify.com/track/0Kc4xDxGFWtB4GLxScCFN2) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Me Entretienes](https://open.spotify.com/album/1IQJT9io6Tss5xJsy1cmCp) | 2:40 |
-| 61 | [El Honor](https://open.spotify.com/track/06ertwHm6GfQSd7h5j9gTw) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [El Honor](https://open.spotify.com/album/1oXdwFUoYH9IyTpPzTf268) | 2:44 |
-| 62 | [Funeral](https://open.spotify.com/track/42adqUQlMrNQwyHKT6M8R8) | [Xian](https://open.spotify.com/artist/1Pbiq4GTu6lgDi1pjQwsY5) | [Funeral](https://open.spotify.com/album/3iPE2JG76vjetrHGYwSTMd) | 3:09 |
-| 63 | [Tu Y Yo](https://open.spotify.com/track/1jBE1jLDPTZq16B56oIkHD) | [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w), [NOGXNRE](https://open.spotify.com/artist/6BUiP8Jv6mjKltnItEpaHp) | [Tu Y Yo](https://open.spotify.com/album/4LGZN0jI2OVSZx93HIBvU5) | 2:05 |
+| 60 | [El Honor](https://open.spotify.com/track/06ertwHm6GfQSd7h5j9gTw) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [El Honor](https://open.spotify.com/album/1oXdwFUoYH9IyTpPzTf268) | 2:44 |
+| 61 | [Funeral](https://open.spotify.com/track/42adqUQlMrNQwyHKT6M8R8) | [Xian](https://open.spotify.com/artist/1Pbiq4GTu6lgDi1pjQwsY5) | [Funeral](https://open.spotify.com/album/3iPE2JG76vjetrHGYwSTMd) | 3:09 |
+| 62 | [Tu Y Yo](https://open.spotify.com/track/1jBE1jLDPTZq16B56oIkHD) | [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w), [NOGXNRE](https://open.spotify.com/artist/6BUiP8Jv6mjKltnItEpaHp) | [Tu Y Yo](https://open.spotify.com/album/4LGZN0jI2OVSZx93HIBvU5) | 2:05 |
 
-Snapshot ID: `MTY0ODMxMTM3MywwMDAwMDM2ZjAwMDAwMTdmYzcwMzhlODYwMDAwMDE3ZmIyZmY1ODA2`
+Snapshot ID: `MTY0ODU2NjU1NiwwMDAwMDM3MDAwMDAwMTdmZDYzOTU2MWUwMDAwMDE3ZmIyZmY1ODA2`

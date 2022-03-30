@@ -2,7 +2,7 @@
 
 ### [I Love My Neo\-Soul](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
 
-> Celebrating the 25th anniversary of Baduizm by Erykah Badu.
+> The tracks that you love from the artists you love\. Cover: Erykah Badu
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Love Jones](https://open.spotify.com/track/6nKicHEYNBSSPc7gRNvy72) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/59BzD3TlvOhiw7pTc3pk6K) | 4:43 | 2021-07-09 |  |
 | [Love Of My Life \(An Ode To Hip Hop\) \- Radio Edit](https://open.spotify.com/track/4Gn8mSsXZANkqTWmXuVTXN) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Love Of My Life \(Ode To Hip Hop\)](https://open.spotify.com/album/4oOaBLv1WUWd4UalQStRhx) | 3:49 | 2021-07-09 | 2022-02-01 |
 | [Mama Knew Love](https://open.spotify.com/track/01M4Wng6jF5uoNEHLl2OIn) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:28 | 2021-07-09 |  |
-| [More Than a Woman](https://open.spotify.com/track/5jVwN1SBPNA6zQdFiConO0) | [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Neo Soul Classic, Vol\. 1](https://open.spotify.com/album/7nEGy460eocRJb87RB3OMa) | 5:08 | 2021-12-28 |  |
+| [More Than a Woman](https://open.spotify.com/track/5jVwN1SBPNA6zQdFiConO0) | [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Neo Soul Classic, Vol\. 1](https://open.spotify.com/album/7nEGy460eocRJb87RB3OMa) | 5:08 | 2021-12-28 | 2022-03-30 |
 | [More Than A Woman \(feat\. Calvin\) \- Duet w/ Calvin](https://open.spotify.com/track/0fgVs2FjWxf60Gk8aaoECK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [C\-Alvin](https://open.spotify.com/artist/28gwT9YFL86GzAGI4RWCUE) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:53 | 2021-07-09 |  |
 | [Music](https://open.spotify.com/track/6Cl90cl4efMaG05Xm4LjDN) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:05 | 2021-07-09 |  |
 | [N2U f, Marsha Ambrosius](https://open.spotify.com/track/6bX3tUJXNXqgRga5pd6qj9) | [Eric Roberson & Marsha Ambrosius](https://open.spotify.com/artist/6fbolNirlBGjx6VAzZyJ89) | [The Appetizer](https://open.spotify.com/album/1liUbzbC1fnG5GCjH0qclW) | 3:29 | 2021-07-09 |  |
@@ -78,7 +78,7 @@
 | [On & On](https://open.spotify.com/track/3a6YKw9xPXgqzwtOKnsPCQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/0AdCd5aZbu62xuQTR1gLPe) | 3:46 | 2021-07-09 |  |
 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 | 2021-07-09 |  |
 | [Reminisce](https://open.spotify.com/track/57JKgPzcF9uyKHKVvbznR1) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 4:33 | 2021-12-28 |  |
-| [Rim Shot \- Intro](https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 1:57 | 2022-01-31 |  |
+| [Rim Shot \- Intro](https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 1:57 | 2022-01-31 | 2022-03-30 |
 | [Romantic \(feat\. Soulive\)](https://open.spotify.com/track/5liaFrDdoINOvJ4B8WDPa1) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq), [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 5:38 | 2021-07-09 |  |
 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 | 2021-12-28 |  |
 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 | 2021-07-09 |  |

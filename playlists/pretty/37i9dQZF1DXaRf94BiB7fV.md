@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Anurag Mishra, Artwork: Isu Kim.
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Sohini Chakraborty, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,680 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,755 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dhaage](https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dhaage](https://open.spotify.com/album/6UcteRSKERxRKaaAc6rHsX) | 3:16 |
-| 2 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 |
-| 3 | [Rang Daaroongi](https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3) | [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf) | [Rang Daaroongi](https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa) | 4:15 |
-| 4 | [Bill Hilly](https://open.spotify.com/track/2zRbsZPA9Q0zQFcUPmYXyU) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 2:15 |
-| 5 | [Home](https://open.spotify.com/track/5uiswDLthSUVqf8Rk1NnRo) | [Shweta Srivastava](https://open.spotify.com/artist/7fDKGPqbGBIf9uc6Q3gINP) | [Home](https://open.spotify.com/album/0Tl1XKSajBfPFMlgKcvVWf) | 3:38 |
-| 6 | [Aaina](https://open.spotify.com/track/0sgIDSkpvyFxHD3275EI1A) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Aaina](https://open.spotify.com/album/1wSPuEPebCjCH99CfKcFPS) | 4:08 |
-| 7 | [Badalon Se](https://open.spotify.com/track/1xoWAGAR6gmBF0G2NOssg4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Badalon Se](https://open.spotify.com/album/3YIXbhtzmSwNMKlutsFa8b) | 3:44 |
-| 8 | [Bachpan](https://open.spotify.com/track/2UcP8r8o1cNvkhAWK8NVZH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Bachpan](https://open.spotify.com/album/6uJUNfkdx2joU3YCYvYA1H) | 3:01 |
-| 9 | [Tumhaare Liye](https://open.spotify.com/track/4VZ52z4L7JcvEzcWsIEc6P) | [Sohini Chakraborty](https://open.spotify.com/artist/2uPj3lgvxMzWQTf01KkLiQ) | [Tumhaare Liye](https://open.spotify.com/album/3GekTdWCDYf0wcsOnfPxWQ) | 4:15 |
+| 1 | [Tumhaare Liye](https://open.spotify.com/track/4VZ52z4L7JcvEzcWsIEc6P) | [Sohini Chakraborty](https://open.spotify.com/artist/2uPj3lgvxMzWQTf01KkLiQ) | [Tumhaare Liye](https://open.spotify.com/album/3GekTdWCDYf0wcsOnfPxWQ) | 4:15 |
+| 2 | [Dhaage](https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dhaage](https://open.spotify.com/album/6UcteRSKERxRKaaAc6rHsX) | 3:16 |
+| 3 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 |
+| 4 | [Rang Daaroongi](https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3) | [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf) | [Rang Daaroongi](https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa) | 4:15 |
+| 5 | [Bill Hilly](https://open.spotify.com/track/2zRbsZPA9Q0zQFcUPmYXyU) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 2:15 |
+| 6 | [Home](https://open.spotify.com/track/5uiswDLthSUVqf8Rk1NnRo) | [Shweta Srivastava](https://open.spotify.com/artist/7fDKGPqbGBIf9uc6Q3gINP) | [Home](https://open.spotify.com/album/0Tl1XKSajBfPFMlgKcvVWf) | 3:38 |
+| 7 | [Aaina](https://open.spotify.com/track/0sgIDSkpvyFxHD3275EI1A) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Aaina](https://open.spotify.com/album/1wSPuEPebCjCH99CfKcFPS) | 4:08 |
+| 8 | [Badalon Se](https://open.spotify.com/track/1xoWAGAR6gmBF0G2NOssg4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Badalon Se](https://open.spotify.com/album/3YIXbhtzmSwNMKlutsFa8b) | 3:44 |
+| 9 | [Bachpan](https://open.spotify.com/track/2UcP8r8o1cNvkhAWK8NVZH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Bachpan](https://open.spotify.com/album/6uJUNfkdx2joU3YCYvYA1H) | 3:01 |
 | 10 | [Run](https://open.spotify.com/track/6UsJup3QM0i0M2MB89x5dZ) | [Priyanka Nath](https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE) | [Run](https://open.spotify.com/album/27HoiSk2WkvraY0c3pxKlW) | 3:40 |
 | 11 | [Knight in Shining Armour](https://open.spotify.com/track/0E1h8d5F8edBOgi7bkdYq4) | [Klanjan](https://open.spotify.com/artist/2Hoeg7iniUXda8S66Acshq) | [Knight in Shining Armour](https://open.spotify.com/album/5MSs0t322dxImsjngIQ3hr) | 3:21 |
 | 12 | [Le Chal Wahan Candle Light Version](https://open.spotify.com/track/3TxvxCQ8b1AS2r4WHGk67J) | [Deepanshu](https://open.spotify.com/artist/68B9IZXfD5yTTz5oXv3WFO) | [Le Chal Wahan Candle Light Version](https://open.spotify.com/album/1VvboAYJUF31Bd56e1MUqd) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 74 | [Sombre Valley](https://open.spotify.com/track/5YLgjQFodijfE9A2iDPGkW) | [Dridha](https://open.spotify.com/artist/1Es2pwZLCpNubImbBdJwyr) | [Sombre Valley](https://open.spotify.com/album/0STeETeHyVGGhyB28DB2MQ) | 2:58 |
 | 75 | [Zindagi](https://open.spotify.com/track/07xgxwSbFyyYcTkxzNFDL5) | [Aaryan Tiwari](https://open.spotify.com/artist/5k4fwx4cEoKw23tpX47nLQ) | [Zindagi](https://open.spotify.com/album/38FHh1TJECrMoxb63IOVKB) | 3:15 |
 
-Snapshot ID: `MTY0ODAyMDE0OCwwMDAwMDFjODAwMDAwMTdmYjVhN2NmYWMwMDAwMDE3ZmI1ODJmNmU5`
+Snapshot ID: `MTY0ODU5NTkzMywwMDAwMDFjOTAwMDAwMTdmZDdmOTlhZGYwMDAwMDE3ZmQ3ZjZlNjdl`

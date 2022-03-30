@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "180 (Remix) (feat. Kemba)",
       "url": "https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 246117,
       "name": "98 Sabres (feat. Armani Caesar, Conway The Machine & Benny The Butcher)",
       "url": "https://open.spotify.com/track/2WHDnlggrjMCYA8GxwjUaA"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 196236,
       "name": "Ballads (with Conway The Machine)",
       "url": "https://open.spotify.com/track/1wR9S5YnePrWq37LQlqkr7"
@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Best Life",
+        "url": "https://open.spotify.com/album/2tAHWLDYBRxDqFM4d3Dns1"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153508,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/7Eh6MPpRNIFzaFZywrHDMD"
+    },
+    {
+      "album": {
         "name": "Best Rapper in the Fuckin World",
         "url": "https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit"
       },
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 237435,
       "name": "Bing Bong (feat. Fat Joe, Busta Rhymes & Styles P) - Remix",
       "url": "https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y"
@@ -619,7 +637,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 206446,
       "name": "Bruuuh (with Denzel Curry) - Remix",
       "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 169946,
       "name": "Casamigos Freestyle",
       "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 109304,
       "name": "CRITIQUA",
       "url": "https://open.spotify.com/track/6h9atUDhTFazxUSgXywDzS"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 227063,
       "name": "Dangerookipawaa Freestyle",
       "url": "https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 201108,
       "name": "Different",
       "url": "https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 208500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 219800,
       "name": "Ego Check",
       "url": "https://open.spotify.com/track/14y5Ue6VsYiJS4vhNJ2bKu"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 261517,
       "name": "FATHER FIGURE",
       "url": "https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 213980,
       "name": "Fly With Me (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/1sgFFV3J62Q9NTqbxS1ShI"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 176971,
       "name": "Gutter! (feat. WARA)",
       "url": "https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 192000,
       "name": "HEAD SHOTS",
       "url": "https://open.spotify.com/track/1EFKZQ8T6EipEf1DxeZwl7"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 193208,
       "name": "Headshots (4r Da Locals)",
       "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 141547,
       "name": "Hear Me Clearly (with Nigo)",
       "url": "https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 171459,
       "name": "Hollyhood (feat. Kent Jamz)",
       "url": "https://open.spotify.com/track/5OuPKLNJjsBsyRZ9PjTRTj"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 180680,
       "name": "How You Live It (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
@@ -1713,10 +1731,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "Hunnid (feat. Joyce Wrice)",
       "url": "https://open.spotify.com/track/4O4VqQ5dt0uMVoXo60R2WN"
+    },
+    {
+      "album": {
+        "name": "I Love You, I Hate You",
+        "url": "https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "I Love You, I Hate You",
+      "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
     },
     {
       "album": {
@@ -1771,7 +1807,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 243957,
       "name": "If I Wasnt",
       "url": "https://open.spotify.com/track/2YbjuUyAGLuQ4ebkGCxaEF"
@@ -1825,7 +1861,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 136444,
       "name": "INDUSTRY GAMES",
       "url": "https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT"
@@ -1847,7 +1883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 234725,
       "name": "John Lennon",
       "url": "https://open.spotify.com/track/6SLxj2ywUN3sCvqF48dXio"
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 92000,
       "name": "Jus Lef Phoenix",
       "url": "https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz"
@@ -2027,7 +2063,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 188160,
       "name": "King's Blvd 2",
       "url": "https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7"
@@ -2049,7 +2085,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 122080,
       "name": "Laps Around the Sun",
       "url": "https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm"
@@ -2067,7 +2103,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 169945,
       "name": "Latin Grammys",
       "url": "https://open.spotify.com/track/0PCjdStfS6Ezq5zekdlpLb"
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 139050,
       "name": "LAW OF AVERAGES",
       "url": "https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 251935,
       "name": "Meant To Put A Hook",
       "url": "https://open.spotify.com/track/1rQiJnPlBpQX7KpZY3AgDL"
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 129242,
       "name": "Melanin In The Hamptons",
       "url": "https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW"
@@ -2343,7 +2379,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -2431,7 +2467,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 258228,
       "name": "Monica (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/3UFyRXMeiU2NTiMlBe8RoV"
@@ -2537,7 +2573,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 204386,
       "name": "No Explanation",
       "url": "https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4"
@@ -2621,7 +2657,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 136500,
       "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
       "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
@@ -2665,7 +2701,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 198998,
       "name": "One Way Flight (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
@@ -2683,7 +2719,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 81863,
       "name": "Orpheus (Intro)",
       "url": "https://open.spotify.com/track/5dchxg4Ny0QC2tKbPCVdWr"
@@ -2705,7 +2741,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -2864,6 +2900,24 @@
     },
     {
       "album": {
+        "name": "Purple Rain Freestyle (Game, Blouses)",
+        "url": "https://open.spotify.com/album/0aUtcgWrtBpOMNCwacLrb1"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160647,
+      "name": "Purple Rain Freestyle (Game, Blouses)",
+      "url": "https://open.spotify.com/track/4eTCgsjXhdf5nDFDCAROes"
+    },
+    {
+      "album": {
         "name": "Pyrex Picasso (feat. Rick Hyde & Conway the Machine)",
         "url": "https://open.spotify.com/album/4OlhZ1GJRs8Ui5xTcL1ozY"
       },
@@ -2901,7 +2955,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 239106,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1icmxr6OxT03H4dHGOiLFX"
@@ -3017,7 +3071,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -3069,7 +3123,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 251226,
       "name": "Say Peace Feat. Black Thought",
       "url": "https://open.spotify.com/track/57hPQeXXqC7fhBLjk6nkWZ"
@@ -3095,7 +3149,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
@@ -3139,7 +3193,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 178964,
       "name": "Serve",
       "url": "https://open.spotify.com/track/6yFiwigz6J44MOF7k0Fp1h"
@@ -3175,7 +3229,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
@@ -3319,7 +3373,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 195629,
       "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
       "url": "https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz"
@@ -3341,7 +3395,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
@@ -3363,7 +3417,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -3447,7 +3501,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -3465,7 +3519,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Stimulus Check",
       "url": "https://open.spotify.com/track/1nd6YkzmI0JuEMlfPtNDeB"
@@ -3505,7 +3559,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 180672,
       "name": "Stolen Greatness",
       "url": "https://open.spotify.com/track/5NI8sIgUyEj0tDXoghqVja"
@@ -3619,7 +3673,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 186933,
       "name": "Super Deep Brother",
       "url": "https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI"
@@ -3645,7 +3699,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -3689,7 +3743,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -3847,7 +3901,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 125680,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5LyK4EaVofQjOvJ4OGhdfv"
@@ -3873,7 +3927,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 137688,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/6zBiYnh5AmAWtkO709qTZb"
@@ -3931,7 +3985,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
@@ -3967,7 +4021,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -4000,6 +4054,28 @@
     },
     {
       "album": {
+        "name": "THS",
+        "url": "https://open.spotify.com/album/6qNcXdRXXJ6vAUr0J9MwDY"
+      },
+      "artists": [
+        {
+          "name": "Jon Hope",
+          "url": "https://open.spotify.com/artist/5oGS8Bs7cYYAFFlgwWtyrC"
+        },
+        {
+          "name": "Israel Wusu",
+          "url": "https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "THS",
+      "url": "https://open.spotify.com/track/4lm1TTjljEGIDefhl7FfyW"
+    },
+    {
+      "album": {
         "name": "Time Crisis",
         "url": "https://open.spotify.com/album/6KS44Ir8jT67nqQ10Q16ps"
       },
@@ -4011,7 +4087,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 126627,
       "name": "Time Crisis",
       "url": "https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef"
@@ -4051,7 +4127,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 182940,
       "name": "Trap Gods",
       "url": "https://open.spotify.com/track/0rWAegGm4B4c5myyTNGi3k"
@@ -4073,7 +4149,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 134674,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/09AnQUhsPhrCKTAjaKowpR"
@@ -4113,7 +4189,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 113120,
       "name": "True Indeed",
       "url": "https://open.spotify.com/track/60VgKrIVA9iyq27h7PQw8H"
@@ -4331,7 +4407,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 220029,
       "name": "Welcome To America (feat. C.S. Armstrong & Angela Hunte)",
       "url": "https://open.spotify.com/track/26tITm62Ipdj2cUVksBKJA"
@@ -4393,7 +4469,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 170133,
       "name": "Worst Comes To Worst",
       "url": "https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049"
@@ -4433,7 +4509,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

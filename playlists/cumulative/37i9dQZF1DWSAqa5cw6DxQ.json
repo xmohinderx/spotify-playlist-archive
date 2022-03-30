@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "History Of The Sublime",
+        "url": "https://open.spotify.com/album/45lIatZPk8qwDIkw7bje7o"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Awe and Wonder",
+      "url": "https://open.spotify.com/track/61TPtjqb4lT7RgzB9FJq5s"
+    },
+    {
+      "album": {
         "name": "Bedside Angels",
         "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
       },
@@ -858,6 +876,24 @@
     },
     {
       "album": {
+        "name": "On A Bed Of Peace",
+        "url": "https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02"
+      },
+      "artists": [
+        {
+          "name": "Delta Lab",
+          "url": "https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281262,
+      "name": "On A Bed Of Peace",
+      "url": "https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB"
+    },
+    {
+      "album": {
         "name": "Pads of Redemption",
         "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
       },
@@ -1114,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Somber",
+        "url": "https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X"
+      },
+      "artists": [
+        {
+          "name": "Polarsken",
+          "url": "https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253715,
+      "name": "Somber",
+      "url": "https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ"
+    },
+    {
+      "album": {
         "name": "State of Existence",
         "url": "https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI"
       },
@@ -1341,7 +1395,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 225555,
       "name": "Velvetine",
       "url": "https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2"

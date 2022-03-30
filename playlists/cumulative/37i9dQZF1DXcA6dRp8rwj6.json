@@ -2941,7 +2941,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158771,
-      "name": "Magic City (feat. Quavo)",
+      "name": "Magic City",
       "url": "https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih"
     },
     {
@@ -5238,7 +5238,7 @@
         },
         {
           "name": "That's My Shhh",
-          "url": "https://open.spotify.com/artist/1oM0pqeV39JHE2javvkI1a"
+          "url": "https://open.spotify.com/artist/5iUU1iEJjzYNmZv8l2rMVp"
         }
       ],
       "date_added": "2022-03-18",
@@ -5671,6 +5671,28 @@
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "album": {
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255188,
+      "name": "We Go Up (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
     },
     {
       "album": {

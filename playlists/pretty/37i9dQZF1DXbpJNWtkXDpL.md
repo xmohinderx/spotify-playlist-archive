@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Celebramos la Generación 2021 de Radar México con el Spotify Single de Bratty y RENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,808 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,812 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Venus](https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Venus](https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML) | 2:29 |
 | 50 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
 
-Snapshot ID: `MTY0ODQyOTQ2OCwwMDAwMDAwMDUyNzBmYmQ2NzBhYTEwMzM4ZTJjNzgwZWM3MWI0YmYx`
+Snapshot ID: `MTY0ODYwMjAyNiwwMDAwMDAwMDUyNzBmYmQ2NzBhYTEwMzM4ZTJjNzgwZWM3MWI0YmYx`

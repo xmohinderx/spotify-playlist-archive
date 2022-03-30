@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXQXM7agvwjO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXQXM7agvwjO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXQXM7agvwjO)
 
-### .ORG
+### [.ORG](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: brb\. \(Singapore\)
 

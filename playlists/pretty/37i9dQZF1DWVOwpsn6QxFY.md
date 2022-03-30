@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,481 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,680 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 |
 | 80 | [How Can You Tell If You Love Her?](https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp) | [John Myrtle](https://open.spotify.com/artist/42p6gXpB3btdFQWyjY5F6h) | [How Can You Tell If You Love Her?](https://open.spotify.com/album/6GKsF5OAwaMwoheiUxxbsW) | 1:54 |
 
-Snapshot ID: `MTY0ODQyODkzOSwwMDAwMDAwMGVkNGRmOGM1MWRmMzg1YjNjNTcxNzVmODkwY2I0Yjdm`
+Snapshot ID: `MTY0ODYwMTUwNSwwMDAwMDAwMGVkNGRmOGM1MWRmMzg1YjNjNTcxNzVmODkwY2I0Yjdm`

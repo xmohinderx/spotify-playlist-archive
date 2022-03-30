@@ -2,7 +2,7 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Feid
+> Representando la cultura con orgullo\. Representing with pride! Cover: Goyo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Jovem Dionísio
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,510 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,597 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 5 | [Chamo Minhas Ancestrais](https://open.spotify.com/track/2jGnAJXpglKWiuVmtEV3xP) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [De Lua](https://open.spotify.com/album/2Ibuo6sLSVXJK9duM34UPP) | 3:03 |
 | 6 | [Tierra del Fuego](https://open.spotify.com/track/2xWVXSEwJcqSRUrnvRK32F) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [A Tentação do Fracasso](https://open.spotify.com/album/02t2XPkozQeUgfEYesclF0) | 6:21 |
 | 7 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 |
-| 8 | [Vc N É o John Mayer \(Rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Vc N É o John Mayer \(Rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 |
+| 8 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 |
 | 9 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 |
 | 10 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 |
 | 11 | [sei la](https://open.spotify.com/track/4O3ZXXU6CDddfXwXvsbRiL) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [sei la](https://open.spotify.com/album/0BfYdVbmaQnSu3AM2LwZQS) | 2:37 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 33 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 |
 | 34 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 |
 | 35 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 |
-| 36 | [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 |
+| 36 | [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 |
 | 37 | [Difícil](https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Difícil](https://open.spotify.com/album/5PnBdVhjBi6dfATnhLSnIa) | 3:06 |
 | 38 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 |
 | 39 | [AMADA](https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ) | [Ambivalente](https://open.spotify.com/artist/68sZEcd1SSqZyEE0qK5GUr), [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [AMADA](https://open.spotify.com/album/75NHZbvpPsGxpXtQgoZTuJ) | 2:32 |

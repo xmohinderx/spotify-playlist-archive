@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,708 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,184 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 | 75 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/3AO3bjGFZgqYtlc98APeRA) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/album/1EzAzEdjCQKGKqjpSPfZkk) | 5:08 |
 
-Snapshot ID: `MTY0ODQyOTA0NSwwMDAwMDAwMDNmZWFjM2VjNzQwNWRlZTM5YzVmNWRhN2RjMzNhODQ3`
+Snapshot ID: `MTY0ODYwMTYwOSwwMDAwMDAwMDNmZWFjM2VjNzQwNWRlZTM5YzVmNWRhN2RjMzNhODQ3`

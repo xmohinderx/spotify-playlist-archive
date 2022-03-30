@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 | 77 | [June](https://open.spotify.com/track/0o9YSdVpcQTPppyDwDeWY9) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:21 |
 | 78 | [Workin' on Lovin'](https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Workin' on Lovin'](https://open.spotify.com/album/4GSCxebidDdcCIMgljn7gq) | 3:54 |
 
-Snapshot ID: `MjYyLDUxYzU4MDRiZjRmMmQ4MWI4OGM0MWY3OTY3Mzg2NjI0ZTkwYjIyMzY=`
+Snapshot ID: `MjYzLGU0YmI5Njc4NDNkNzFmNDc1ZDExNTdhNGFmN2JhMDk3YTBiYzIxMTk=`

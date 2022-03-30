@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,682 likes - 100 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,727 likes - 100 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 99 | [L.D\. Blues](https://open.spotify.com/track/1ayeOKqBxxcIQIdbRnAbqB) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 5:19 |
 | 100 | [Blues On The Corner](https://open.spotify.com/track/4dL4C5uezPiXv2l6sout5U) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:00 |
 
-Snapshot ID: `MTY0ODQyOTQ0NCwwMDAwMDAwMGJmMzUxYjU0YWEwMDkyZjU2MjM5YjA1Yjk3ODViNjIw`
+Snapshot ID: `MTY0ODYwMjAwMiwwMDAwMDAwMGJmMzUxYjU0YWEwMDkyZjU2MjM5YjA1Yjk3ODViNjIw`

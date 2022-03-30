@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1151,6 +1151,24 @@
       "duration_ms": 244221,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "album": {
@@ -3617,7 +3635,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 169846,
       "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
       "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
@@ -4396,6 +4414,28 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05e6\u05d9 \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3"
+      },
+      "artists": [
+        {
+          "name": "Mor",
+          "url": "https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX"
+        },
+        {
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192428,
+      "name": "\u05d7\u05e6\u05d9 \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d1\u05d3\u05d9 \u05e0\u05de\u05dc",
         "url": "https://open.spotify.com/album/1xsjhMC9cRGaziyJaUOjco"
       },
@@ -4693,7 +4733,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 180000,
       "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
       "url": "https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj"
@@ -5305,7 +5345,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 224062,
       "name": "\u05de\u05e7\u05d1\u05dc \u05e2\u05dc \u05e2\u05e6\u05de\u05d9",
       "url": "https://open.spotify.com/track/0taqIIB89cQQoiA8ZDukWf"
@@ -5587,7 +5627,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 199710,
       "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
@@ -5903,7 +5943,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 201190,
       "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"

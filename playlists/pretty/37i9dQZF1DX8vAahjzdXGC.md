@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Warren Hue
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,581 likes - 124 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,576 likes - 124 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=UWVFHLpqRKuHaxT4mkDqog">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=eqZU3n6GT62hTq1uiXhmUw">Focalistic</a> and <a href="https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=Ep6byfPPSDCEem9fux5flA">Ch'cco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,861 likes - 79 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,718 likes - 80 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,6 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 76 | [Umxabanisi](https://open.spotify.com/track/4NYJGp2qzKN6RXGWZBifUE) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [Dash SA](https://open.spotify.com/artist/16yuO0xLRq5qFeMdG35rrC), [Typical SA](https://open.spotify.com/artist/6PW3r0ZFDKeNxyfsp44CQr) | [Umxabanisi](https://open.spotify.com/album/3kwPmCe9Pg6u20j8y3EylB) | 6:21 |
 | 77 | [Siyathandana \(feat\. Tyler ICU\)](https://open.spotify.com/track/1xiTeNX8GDpDasxqk7Y5S6) | [Nicole Elocin](https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Emoyeni](https://open.spotify.com/album/3tHkA3oUpCSqLalGsD9x0m) | 5:44 |
 | 78 | [iPHOKOPHOKO](https://open.spotify.com/track/5YvBiFLxMp7jCs1sZzuw5q) | [Kammu Dee](https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [iPHOKOPHOKO](https://open.spotify.com/album/3brF3k0j8lFj2t1sXdNSof) | 5:27 |
-| 79 | [Ithonga](https://open.spotify.com/track/23yo4TFlTbFKy8sBOZuSHr) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Drip Gogo](https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP) | [Ithonga](https://open.spotify.com/album/2xUoR69p5GwWn48iYByxWs) | 5:21 |
+| 79 | [Thatheka](https://open.spotify.com/track/0ESNI1FGdYuxqMEOg6jtjI) | [Drizzy Sam Rsa](https://open.spotify.com/artist/400dgBHAKK7icw1lrKLvBg), [Kaymor](https://open.spotify.com/artist/5KyPBcBZNfEHczC9dTkMhw), [Ohp Sage](https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm) | [Thatheka](https://open.spotify.com/album/2y2MeAwM5RbgYVIAL1eZum) | 5:12 |
+| 80 | [Ithonga](https://open.spotify.com/track/23yo4TFlTbFKy8sBOZuSHr) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Drip Gogo](https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP) | [Ithonga](https://open.spotify.com/album/2xUoR69p5GwWn48iYByxWs) | 5:21 |
 
-Snapshot ID: `MTY0ODE5OTA4MiwwMDAwMDMzNjAwMDAwMTdmYzA1MjIwM2QwMDAwMDE3ZmJjNGVlZTM1`
+Snapshot ID: `MTY0ODU5MTI0OSwwMDAwMDMzODAwMDAwMTdmZDdiMjFmYWQwMDAwMDE3ZmJjNGVlZTM1`

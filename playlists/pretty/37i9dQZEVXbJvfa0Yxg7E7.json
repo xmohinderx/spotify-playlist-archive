@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 490963,
+  "num_followers": 491221,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAxNjkxNzA2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAxODY2NjYyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Dans P\u00e5 Bordet",
         "url": "https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g"
@@ -29,27 +29,7 @@
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "TANTE",
-        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lauren",
-          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
-        },
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "TANTE",
-      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Bonanza",
         "url": "https://open.spotify.com/album/7a3xZcgBWeAS6F685fUHZK"
@@ -69,39 +49,27 @@
       "url": "https://open.spotify.com/track/70KdADbxWK0MAVXj0YvWDi"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "Omar Sheriff",
-        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
+        "name": "TANTE",
+        "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
       "artists": [
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "PAF.no",
-      "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "glorie",
-        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
-      },
-      "artists": [
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        },
         {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
         }
       ],
-      "duration_ms": 156497,
-      "name": "glorie",
-      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
+      "duration_ms": 133714,
+      "name": "TANTE",
+      "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "ok jeg lover",
         "url": "https://open.spotify.com/album/1QI2qAcBNuoGmCDK3oQdio"
@@ -117,7 +85,23 @@
       "url": "https://open.spotify.com/track/6xb3ooLtkGkl4j1rGPmGKz"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "glorie",
+        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "glorie",
+      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Sympati",
         "url": "https://open.spotify.com/album/62iiFOpxd6WAnvRGn965kH"
@@ -133,7 +117,23 @@
       "url": "https://open.spotify.com/track/2XAup2iHm6t3UK4Hsjkkwy"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Omar Sheriff",
+        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "PAF.no",
+      "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Bak en fasade",
         "url": "https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Loud Luxury 2022",
         "url": "https://open.spotify.com/album/67Ds9HmHBa23HxCbNSz82B"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/3IVkcYvMiqvRKa4ip0E7a8"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
-        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
-      },
-      "artists": [
-        {
-          "name": "Mr Melk",
-          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
-        }
-      ],
-      "duration_ms": 133457,
-      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
-      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Lekeland 2022",
         "url": "https://open.spotify.com/album/4byCQSvHrXFcy2uMbEuC0Y"
@@ -201,7 +185,23 @@
       "url": "https://open.spotify.com/track/03OkFJQvdweiwzZcPPsQ23"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -217,23 +217,39 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "Give That Wolf A Banana",
-        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
+        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
+        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
       },
       "artists": [
         {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+          "name": "Mr Melk",
+          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
         }
       ],
-      "duration_ms": 171933,
-      "name": "Give That Wolf A Banana",
-      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+      "duration_ms": 133457,
+      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
+      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
@@ -253,39 +269,7 @@
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Omar Sheriff",
-        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 130919,
-      "name": "IBOPROFEN",
-      "url": "https://open.spotify.com/track/5vtRUF1yqzWWwZe5rN901j"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
@@ -305,31 +289,107 @@
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+        "name": "Glad U Came (feat. ZieZie)",
+        "url": "https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Liilz",
+          "url": "https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+      "duration_ms": 125142,
+      "name": "Glad U Came (feat. ZieZie)",
+      "url": "https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Omar Sheriff",
+        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 130919,
+      "name": "IBOPROFEN",
+      "url": "https://open.spotify.com/track/5vtRUF1yqzWWwZe5rN901j"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Give That Wolf A Banana",
+        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "Give That Wolf A Banana",
+      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "En anna m\u00e6",
+        "url": "https://open.spotify.com/album/7yl0rPwl1LzfPSnjTHXJov"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "Meininga med livet",
+      "url": "https://open.spotify.com/track/4MSNnej8lK3TEeiXtNCxBn"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -349,7 +409,75 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Enten G\u00e5r Det Bra, Ellers G\u00e5r Det Over",
+        "url": "https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Pust",
+      "url": "https://open.spotify.com/track/0PKny6x1Yl5lhMLuNAyDjG"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -373,147 +501,31 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "En anna m\u00e6",
-        "url": "https://open.spotify.com/album/7yl0rPwl1LzfPSnjTHXJov"
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
       "artists": [
         {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
-        }
-      ],
-      "duration_ms": 205986,
-      "name": "Meininga med livet",
-      "url": "https://open.spotify.com/track/4MSNnej8lK3TEeiXtNCxBn"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Glad U Came (feat. ZieZie)",
-        "url": "https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9"
-      },
-      "artists": [
-        {
-          "name": "Liilz",
-          "url": "https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "ZieZie",
-          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Glad U Came (feat. ZieZie)",
-      "url": "https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Pust",
-        "url": "https://open.spotify.com/album/078zeD4mtK1j0fbe0sYbzm"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Pust",
-      "url": "https://open.spotify.com/track/7rQGY01dn2IOFTibu9ZDws"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Den fineste Chevy'n (feat. Maria Mena)",
-        "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        },
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Den fineste Chevy'n (feat. Maria Mena)",
-      "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -541,7 +553,55 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Enten G\u00e5r Det Bra, Ellers G\u00e5r Det Over",
+        "url": "https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 196627,
+      "name": "Hvis Jeg Forlot Verden",
+      "url": "https://open.spotify.com/track/6mVs7u8G3mZz2aEkUiOdh4"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Omar Sheriff",
+        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "KENYA - Live from DY Patil Stadium, Mumbai",
+      "url": "https://open.spotify.com/track/49LvD3xCNUitKp7ex86B3P"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -561,55 +621,43 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "Den fineste Chevy'n (feat. Maria Mena)",
+        "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        },
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
         }
       ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+      "duration_ms": 185373,
+      "name": "Den fineste Chevy'n (feat. Maria Mena)",
+      "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
-        "name": "Omar Sheriff",
-        "url": "https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7"
+        "name": "Falle over kanten",
+        "url": "https://open.spotify.com/album/4xpv14qBJqe013sC1CbcQ9"
       },
       "artists": [
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
         }
       ],
-      "duration_ms": 226965,
-      "name": "KENYA - Live from DY Patil Stadium, Mumbai",
-      "url": "https://open.spotify.com/track/49LvD3xCNUitKp7ex86B3P"
+      "duration_ms": 186000,
+      "name": "Falle over kanten",
+      "url": "https://open.spotify.com/track/4db0O38Bre4fB6jjN0mvI9"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Hvis Jeg Forlot Verden",
-        "url": "https://open.spotify.com/album/0rCU9i6gleJ72xoJ3Y454X"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 196627,
-      "name": "Hvis Jeg Forlot Verden",
-      "url": "https://open.spotify.com/track/791LthD0UWUYYXOwneTM3V"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
@@ -629,7 +677,23 @@
       "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Bak en fasade",
+        "url": "https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 172833,
+      "name": "Smilet i ditt eget speil",
+      "url": "https://open.spotify.com/track/6NSkEJkizMph9GJSqjNhFW"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
         "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
@@ -649,7 +713,23 @@
       "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -669,7 +749,119 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "du kommer til \u00e5 hate meg",
+        "url": "https://open.spotify.com/album/7wItUf9xA9MTptCbjq6LuS"
+      },
+      "artists": [
+        {
+          "name": "Celine Madelen",
+          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
+        }
+      ],
+      "duration_ms": 155955,
+      "name": "du kommer til \u00e5 hate meg",
+      "url": "https://open.spotify.com/track/1xzgTojg2THAIvZf8xMSal"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Enten G\u00e5r Det Bra, Ellers G\u00e5r Det Over",
+        "url": "https://open.spotify.com/album/3LIWwqu7IMhuWbrw8CqSSd"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Gj\u00f8r Med Meg",
+      "url": "https://open.spotify.com/track/11jif7NuzvCX2MD9JfegJY"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
+      "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "Fuckboy",
         "url": "https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl"
@@ -689,183 +881,7 @@
       "url": "https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2"
     },
     {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Bak en fasade",
-        "url": "https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 172833,
-      "name": "Smilet i ditt eget speil",
-      "url": "https://open.spotify.com/track/6NSkEJkizMph9GJSqjNhFW"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "... Ellers G\u00e5r Det Over",
-        "url": "https://open.spotify.com/album/4hurIYvc3DvWle0IeIfdqY"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Gj\u00f8r Med Meg",
-      "url": "https://open.spotify.com/track/5hBHXk46yNAqBCciBSnifo"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Falle over kanten",
-        "url": "https://open.spotify.com/album/4xpv14qBJqe013sC1CbcQ9"
-      },
-      "artists": [
-        {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Falle over kanten",
-      "url": "https://open.spotify.com/track/4db0O38Bre4fB6jjN0mvI9"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "du kommer til \u00e5 hate meg",
-        "url": "https://open.spotify.com/album/7wItUf9xA9MTptCbjq6LuS"
-      },
-      "artists": [
-        {
-          "name": "Celine Madelen",
-          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
-        }
-      ],
-      "duration_ms": 155955,
-      "name": "du kommer til \u00e5 hate meg",
-      "url": "https://open.spotify.com/track/1xzgTojg2THAIvZf8xMSal"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
+      "added_at": "2022-03-29 10:57:42",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -879,22 +895,6 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-03-27 10:21:46",
-      "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     }
   ],
   "unique_name": "Top 50 - Norway",

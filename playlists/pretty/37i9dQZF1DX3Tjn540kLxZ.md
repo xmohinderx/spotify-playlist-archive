@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > no thoughts, just non\-stop alt bops
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,472 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,688 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [April](https://open.spotify.com/track/7l94AyvXRwnQgKccUU3PRN) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 3:18 |
 | 100 | [Cocoa Beach](https://open.spotify.com/track/1uEuKU2y2rjjjLXgZbReh1) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Cocoa Beach](https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN) | 3:58 |
 
-Snapshot ID: `MTY0ODQyOTIwMCwwMDAwMDAwMGU1MTczNGM1ZWMzMWIyMTg2NzVjYWI1YzdiMTIzNTk2`
+Snapshot ID: `MTY0ODYwMTc2MywwMDAwMDAwMGU1MTczNGM1ZWMzMWIyMTg2NzVjYWI1YzdiMTIzNTk2`

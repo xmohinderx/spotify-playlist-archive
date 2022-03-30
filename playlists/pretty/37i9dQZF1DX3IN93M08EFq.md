@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,789 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,814 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
 | 45 | [High Drama](https://open.spotify.com/track/1p8FGKTfZMp2aiOBci2JRq) | [Laakso](https://open.spotify.com/artist/4chKPJr2tkdsT0ghHNSUi7) | [My Gods](https://open.spotify.com/album/6gDeHvqMae3KmWyst7LKeF) | 3:11 |
 
-Snapshot ID: `MTY0ODQyOTE5NSwwMDAwMDAwMGYzNGQ3MDkyN2FiNTliODA5YWFhNWVmZjRhNzA5YmI0`
+Snapshot ID: `MTY0ODYwMTc1NywwMDAwMDAwMGYzNGQ3MDkyN2FiNTliODA5YWFhNWVmZjRhNzA5YmI0`

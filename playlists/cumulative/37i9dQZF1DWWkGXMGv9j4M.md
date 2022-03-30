@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWkGXMGv9j4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWkGXMGv9j4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWkGXMGv9j4M)
 
-### Best Indie Songs of 2020
+### [Best Indie Songs of 2020](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 

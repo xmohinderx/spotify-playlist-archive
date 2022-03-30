@@ -1394,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/70MjaaGDN0HkvtxK1aHHGn"
+      },
+      "artists": [
+        {
+          "name": "Ivey Amour",
+          "url": "https://open.spotify.com/artist/0i7kCKpYy3ewWFJ6yGh8aW"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD"
+    },
+    {
+      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -1409,6 +1427,24 @@
       "duration_ms": 335946,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
+    },
+    {
+      "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb"
+      },
+      "artists": [
+        {
+          "name": "Ajuki",
+          "url": "https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217566,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: WurtS",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Bleecker Chrome",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -98,6 +98,50 @@
     },
     {
       "album": {
+        "name": "Bonnie & Clyde",
+        "url": "https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch"
+      },
+      "artists": [
+        {
+          "name": "Young Dalu",
+          "url": "https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm"
+        },
+        {
+          "name": "OSAMI",
+          "url": "https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr"
+        },
+        {
+          "name": "Wes Period",
+          "url": "https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP"
+    },
+    {
+      "album": {
+        "name": "SEVEN THIRTY ONE",
+        "url": "https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170649,
+      "name": "Burning Fuel",
+      "url": "https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL"
+    },
+    {
+      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
       },
@@ -156,6 +200,42 @@
     },
     {
       "album": {
+        "name": "DINDON",
+        "url": "https://open.spotify.com/album/3zZPGpFtwIgcy1ARRD0hVF"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "DINDON",
+      "url": "https://open.spotify.com/track/4rYap0Hsov9eM8LxhZDSBQ"
+    },
+    {
+      "album": {
+        "name": "DOORS",
+        "url": "https://open.spotify.com/album/4RDIiNWS6zv8upiy7KkUIE"
+      },
+      "artists": [
+        {
+          "name": "NEI",
+          "url": "https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251793,
+      "name": "DOORS",
+      "url": "https://open.spotify.com/track/3dAJ5JPLdIt8YQ8bsPCs14"
+    },
+    {
+      "album": {
         "name": "drivin'",
         "url": "https://open.spotify.com/album/0k6uJOhFGvSW7n5iqrJr3A"
       },
@@ -171,6 +251,36 @@
       "duration_ms": 227472,
       "name": "drivin'",
       "url": "https://open.spotify.com/track/2arT5zAY4wphTwipc07SeS"
+    },
+    {
+      "album": {
+        "name": "FLAME",
+        "url": "https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "Saru jr.fool",
+          "url": "https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR"
+        },
+        {
+          "name": "taisyov",
+          "url": "https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "FLAME",
+      "url": "https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM"
     },
     {
       "album": {
@@ -225,6 +335,24 @@
       "duration_ms": 259156,
       "name": "Freezin' Cold",
       "url": "https://open.spotify.com/track/6bEaHOVgu3Srz17tvh3FEA"
+    },
+    {
+      "album": {
+        "name": "Gerbera",
+        "url": "https://open.spotify.com/album/1aCpE4qQJ99g18K1AWVP5f"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Gerbera",
+      "url": "https://open.spotify.com/track/6XAAEYr0JoYH86BXR797l7"
     },
     {
       "album": {
@@ -348,6 +476,24 @@
     },
     {
       "album": {
+        "name": "around dusk",
+        "url": "https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181820,
+      "name": "line",
+      "url": "https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW"
+    },
+    {
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/5i9VYWznAvstGKuQxGogsx"
       },
@@ -460,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Soulbabies",
+        "url": "https://open.spotify.com/album/3nFaM3ciiIo4VXJ06X2rn9"
+      },
+      "artists": [
+        {
+          "name": "\u30bd\u30a6\u30eb\u30d9\u30a4\u30d9\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327602,
+      "name": "na-na-na (Happy song)",
+      "url": "https://open.spotify.com/track/7pniu0XCr6cfRgRBcLbsHm"
+    },
+    {
+      "album": {
         "name": "Nevermore",
         "url": "https://open.spotify.com/album/5ru7PBhCc7z2n9541AYPyz"
       },
@@ -507,7 +671,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 120000,
       "name": "No.9",
       "url": "https://open.spotify.com/track/0b4cJRPCtjUbXek96CV9ry"
@@ -547,7 +711,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 211047,
       "name": "PaBodance - NamitoW Remix",
       "url": "https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH"
@@ -573,6 +737,24 @@
       "duration_ms": 203099,
       "name": "paradise. (feat. demxntia)",
       "url": "https://open.spotify.com/track/6gQDqVCCMQ2wfqUPjcUjBr"
+    },
+    {
+      "album": {
+        "name": "Penguin's Detour",
+        "url": "https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215842,
+      "name": "Penguin's Detour",
+      "url": "https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19"
     },
     {
       "album": {
@@ -605,7 +787,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 265594,
       "name": "small talk",
       "url": "https://open.spotify.com/track/0HoMxHkUCFEGpJ6IVML8XO"
@@ -627,6 +809,28 @@
       "duration_ms": 282986,
       "name": "Small World",
       "url": "https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp"
+    },
+    {
+      "album": {
+        "name": "SOMEDAY - Itsuka (feat. tonun)",
+        "url": "https://open.spotify.com/album/6yndqOxtCbFBpwy5Bz8D6Z"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        },
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303673,
+      "name": "SOMEDAY - Itsuka (feat. tonun) - 45s Edit",
+      "url": "https://open.spotify.com/track/5reLsl2aIIjUdZgcNIMBWU"
     },
     {
       "album": {
@@ -677,7 +881,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 180618,
       "name": "STARR",
       "url": "https://open.spotify.com/track/0clTIsciZ0bwWvpdeT6FVW"
@@ -857,7 +1061,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 244445,
       "name": "your trip",
       "url": "https://open.spotify.com/track/1C9jTemz6FYLSINGxrt1QA"
@@ -969,7 +1173,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 174212,
       "name": "\u3042\u3093\u305f\u304c\u305f\u3069\u3053\u3055",
       "url": "https://open.spotify.com/track/0D7NkRih5RUHO0VV4zA3ws"
@@ -1063,7 +1267,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 235470,
       "name": "\u308f\u304b\u3089\u3093\u30d9\u30a4\u30d9\u30fc",
       "url": "https://open.spotify.com/track/3cXhByoaM3MbcFdQmqO60m"
@@ -1081,7 +1285,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 428740,
       "name": "\u308f\u305f\u3057\u306e\u751f\u304d\u308b\u7269\u8a9e",
       "url": "https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev"
@@ -1153,7 +1357,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 187118,
       "name": "\u30b7\u30e7\u30fc\u30c8\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/51u6JSKwD9wDMQ40DyYc4i"
@@ -1575,7 +1779,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 232362,
       "name": "\u60b2\u3057\u307f\u3070\u304b\u308a\u3067\u6642\u4ee3\u306f\u9032\u3080\u304b\u3089... -Open Up The Door-",
       "url": "https://open.spotify.com/track/1iPk59m1YkhApWqtX9m1PB"
@@ -1701,7 +1905,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-30",
       "duration_ms": 94862,
       "name": "\u6fe1\u6eb6",
       "url": "https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR"
@@ -1849,6 +2053,24 @@
       "duration_ms": 287169,
       "name": "\u82fa",
       "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+    },
+    {
+      "album": {
+        "name": "\u9154\u3072\u3082\u305b\u3059/\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222303,
+      "name": "\u9154\u3072\u3082\u305b\u3059",
+      "url": "https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR"

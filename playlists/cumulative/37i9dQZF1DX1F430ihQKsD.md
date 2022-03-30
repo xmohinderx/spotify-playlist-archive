@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1F430ihQKsD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1F430ihQKsD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1F430ihQKsD)
 
-### Montréal Chill
+### [Montréal Chill](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 > La crème de la crème of Montréal's music scene\. Photo: Sophia Bel
 

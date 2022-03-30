@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Tank and The Bangas",
-  "num_followers": 242945,
+  "num_followers": 243277,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4NDQwMCwwMDAwMDA3NzAwMDAwMTdmYmY3MjE5MDAwMDAwMDE3ZTlkZjNlYjYw",
+  "snapshot_id": "MTY0ODQ3OTA5OSwwMDAwMDA3ODAwMDAwMTdmZDEwMmRiZTYwMDAwMDE3ZTlkZjNlYjYw",
   "tracks": [
     {
       "added_at": "2022-03-25 05:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 169200,
       "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
       "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
+    },
+    {
+      "added_at": "2022-03-28 14:51:39",
+      "album": {
+        "name": "Stolen Fruit",
+        "url": "https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Stolen Fruit",
+      "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
     },
     {
       "added_at": "2022-03-25 05:00:00",

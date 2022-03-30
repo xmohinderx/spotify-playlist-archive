@@ -822,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Luz de la tarde",
+        "url": "https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas"
+      },
+      "artists": [
+        {
+          "name": "Owen Larssen",
+          "url": "https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122926,
+      "name": "Luz de la tarde",
+      "url": "https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn"
+    },
+    {
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8"
       },

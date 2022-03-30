@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,428 likes - 55 songs - 2 hr 59 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,426 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 53 | [Heartaches \- Covex Remix](https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [The Long Way Home \(Remixes\)](https://open.spotify.com/album/6lPQI2Yy6pllkfommUkbvq) | 3:08 |
 | 54 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 55 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 |
+| 56 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 |
+| 57 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 |
 
-Snapshot ID: `OTU4MSwxODllYjMyZjliMTlmMzQ5MmY1NDAzMTM2OGEzODgyYzJiMjFlOWEw`
+Snapshot ID: `OTU4Myw5M2JmYzI1NTMwMmY5OTljOGUwY2VhYWJjZTgyOTVmOWYwYjE2NTM3`
