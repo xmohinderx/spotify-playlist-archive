@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: ROBI",
-  "num_followers": 250353,
+  "num_followers": 250350,
   "original_name": "Latin Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTkzNywwMDAwMDAwMDUxNmE1NjQ3NmI0OTFkMWQwZDQ4MjAzMjRiNGZmNTkz",
+  "snapshot_id": "MTY0ODY4ODI4NiwwMDAwMDAwMDFlYjc5YTY1OTdkNjljZWE2MGZlN2NiZjc2NmI5ODcz",
   "tracks": [
     {
       "added_at": "2022-03-21 15:57:18",
@@ -307,18 +307,22 @@
     {
       "added_at": "2022-03-21 15:57:18",
       "album": {
-        "name": "TuTuRu",
-        "url": "https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt"
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 171113,
-      "name": "TuTuRu",
-      "url": "https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe"
+      "duration_ms": 197241,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m"
     },
     {
       "added_at": "2022-03-21 15:57:18",
@@ -379,22 +383,18 @@
     {
       "added_at": "2022-03-21 15:57:18",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A"
+        "name": "TuTuRu",
+        "url": "https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt"
       },
       "artists": [
         {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         }
       ],
-      "duration_ms": 197241,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m"
+      "duration_ms": 171113,
+      "name": "TuTuRu",
+      "url": "https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe"
     },
     {
       "added_at": "2022-03-21 15:57:18",

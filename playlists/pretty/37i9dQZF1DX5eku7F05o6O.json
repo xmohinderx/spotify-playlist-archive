@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 2240,
+  "num_followers": 2243,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTgzNCwwMDAwMDAwMDBjZWVmMTM2YTBiOGM0NDAzZDgyM2VlOGYyNGY3ODBm",
+  "snapshot_id": "MTY0ODY4ODE4NiwwMDAwMDAwMGRhMjNmZTY1NWEyMTYwMTVkOWY2NDMyNDhiOWQ4YmJm",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "No Water, No Flowers : Part 2 - EP",
         "url": "https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 207418,
       "name": "Mille fois par jour",
       "url": "https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Un Autre \u00c9t\u00e9",
+        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Un Autre \u00c9t\u00e9",
+      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Un Autre \u00c9t\u00e9",
-        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063"
       },
       "artists": [
         {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Un Autre \u00c9t\u00e9",
-      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -311,22 +311,6 @@
       "duration_ms": 211915,
       "name": "Je ne t'oublie pas - Bonus",
       "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -427,6 +411,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le loup - Single (Version Vingt)",
+        "url": "https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V"
+      },
+      "artists": [
+        {
+          "name": "Catherine Durand",
+          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
+        },
+        {
+          "name": "Alexandre D\u00e9silets",
+          "url": "https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Le loup - Version Vingt",
+      "url": "https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "\u00c0 pr\u00e9sent le pass\u00e9",
         "url": "https://open.spotify.com/album/04FLJLihX94PnInFUonkY5"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 54333,
       "name": "Throes",
       "url": "https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le loup - Single (Version Vingt)",
-        "url": "https://open.spotify.com/album/49wlFrSODpWhXeA2jNOJ0V"
-      },
-      "artists": [
-        {
-          "name": "Catherine Durand",
-          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
-        },
-        {
-          "name": "Alexandre D\u00e9silets",
-          "url": "https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Le loup - Version Vingt",
-      "url": "https://open.spotify.com/track/4UdxgVItOw12sBEOowNiWs"
     },
     {
       "added_at": "2021-02-06 03:12:40",

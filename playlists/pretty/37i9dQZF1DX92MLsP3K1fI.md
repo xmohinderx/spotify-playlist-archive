@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! En portada: Alan Navarro
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,686 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,735 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,22 +26,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 16 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 |
 | 17 | [Sincronía](https://open.spotify.com/track/1wNsiqRAWRc6xGCOEGv7li) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Sincronía](https://open.spotify.com/album/6Z3JXvfQtfMo5B0sArZ2TK) | 3:38 |
 | 18 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
-| 19 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
+| 19 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
 | 20 | [The Bleachers](https://open.spotify.com/track/2nZHZE1XRh4SDJLMCbvoEF) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [The Bleachers](https://open.spotify.com/album/3cjvORRqCFBnwv8DM2S7Mf) | 2:43 |
-| 21 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
+| 21 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
 | 22 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
 | 23 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
 | 24 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 |
 | 25 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 26 | [Te Quieres Ir](https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Te Quieres Ir](https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO) | 3:36 |
 | 27 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
-| 28 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 |
-| 29 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 28 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 29 | [180 km/h](https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [180 km/h](https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ) | 2:43 |
 | 30 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 |
 | 31 | [Arrebatada](https://open.spotify.com/track/2NPrK3MXPjgoZgXqgjWDKA) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Arrebatada](https://open.spotify.com/album/5LpKeG5wRaCMdCjoKft3bn) | 2:17 |
 | 32 | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/album/7sF2hlKgjWhBNMd66wu1T8) | 2:40 |
-| 33 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 |
-| 34 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
+| 33 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
+| 34 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 |
 | 35 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 |
 | 36 | [Shot Shot](https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Shot Shot](https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF) | 2:58 |
 | 37 | [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 50 | [Oportunidad](https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R) | [Made](https://open.spotify.com/artist/5yHZluiOoBTPf6QyT0LzY6) | [Oportunidad](https://open.spotify.com/album/7Gyf6o9zasu7KqfQPmy9pf) | 3:05 |
 
-Snapshot ID: `MTY0ODYwMTk0MCwwMDAwMDAwMDRkN2EzMmRkMGJhOGMzY2U1ZmZkNzdlNWQ5NzVlMjk3`
+Snapshot ID: `MTY0ODY4ODI4OSwwMDAwMDAwMGMzMTcwZjRlNDU3YmEzNzE4ODQ1MjFlYWVlNGUwOTc1`

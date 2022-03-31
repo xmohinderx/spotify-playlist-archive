@@ -1,12 +1,12 @@
 {
   "description": "No te preocupes, feel it all here. ",
-  "num_followers": 30200,
+  "num_followers": 30253,
   "original_name": "en mis feelings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTcyOSwwMDAwMDAwMDA3ZGIwZTYyZjc0YjdlNjcwOGM1MDg1YTJhN2RlOWVl",
+  "snapshot_id": "MTY0ODY4ODA4MywwMDAwMDAwMDM4ZGVhZWU3NmI3YTI2MjM1NTc1MzhlZDZiZjU0N2Iy",
   "tracks": [
     {
       "added_at": "2022-02-22 21:19:35",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
-        "name": "ep2 \ud83c\udf27",
-        "url": "https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "llueve",
-      "url": "https://open.spotify.com/track/5NliUthcviXaUsZ2YELGq1"
-    },
-    {
-      "added_at": "2022-02-22 21:19:35",
-      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2022-02-22 21:19:35",
+      "album": {
+        "name": "ep2 \ud83c\udf27",
+        "url": "https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        }
+      ],
+      "duration_ms": 196588,
+      "name": "llueve",
+      "url": "https://open.spotify.com/track/5NliUthcviXaUsZ2YELGq1"
     },
     {
       "added_at": "2022-02-22 21:19:35",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3NR8YCaIbiboXBFUDepwM9"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7"
+    },
+    {
+      "added_at": "2022-02-22 21:19:35",
+      "album": {
         "name": ":( EP",
         "url": "https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 223500,
       "name": "Ya No Es Igual",
       "url": "https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8"
+    },
+    {
+      "added_at": "2022-02-22 21:19:35",
+      "album": {
+        "name": "Cacer\u00eda",
+        "url": "https://open.spotify.com/album/0ZjF6wG8buv9f5LLZ3KFR5"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Cacer\u00eda",
+      "url": "https://open.spotify.com/track/0kZKpOLObAOKeIM36VvScx"
     },
     {
       "added_at": "2022-02-22 21:19:35",
@@ -675,22 +707,6 @@
     {
       "added_at": "2022-02-22 21:19:35",
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3NR8YCaIbiboXBFUDepwM9"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 245783,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7"
-    },
-    {
-      "added_at": "2022-02-22 21:19:35",
-      "album": {
         "name": "Apaga la Luz",
         "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 169684,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
-    },
-    {
-      "added_at": "2022-02-22 21:19:35",
-      "album": {
-        "name": "Cacer\u00eda",
-        "url": "https://open.spotify.com/album/0ZjF6wG8buv9f5LLZ3KFR5"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Cacer\u00eda",
-      "url": "https://open.spotify.com/track/0kZKpOLObAOKeIM36VvScx"
     },
     {
       "added_at": "2022-02-22 21:19:35",

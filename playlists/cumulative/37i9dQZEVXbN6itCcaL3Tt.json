@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 201995,
       "name": "3wagon",
       "url": "https://open.spotify.com/track/69ZU0UZ9FIpRI5RsjZ0Pbk"
@@ -1055,6 +1055,28 @@
       "duration_ms": 184346,
       "name": "AU",
       "url": "https://open.spotify.com/track/080nnzzeeOts6GH9v4MsEt"
+    },
+    {
+      "album": {
+        "name": "audi",
+        "url": "https://open.spotify.com/album/5y5FnBkcn5PvAxVTvsImiE"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "audi",
+      "url": "https://open.spotify.com/track/5XQWRhOjCWb2HekJhdQXMB"
     },
     {
       "album": {

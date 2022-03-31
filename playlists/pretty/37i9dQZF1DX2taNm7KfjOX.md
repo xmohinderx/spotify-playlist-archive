@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Kevin Morby
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,691 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,765 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 17 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 |
 | 18 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 |
 | 19 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 20 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
-| 21 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 |
-| 22 | [Tried to Tell You](https://open.spotify.com/track/6paZpy38anvDucX9Zi4uEK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Atlantic](https://open.spotify.com/album/0a9pQOFCm8ObvipeAcvW53) | 3:38 |
+| 20 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 |
+| 21 | [Tried to Tell You](https://open.spotify.com/track/6paZpy38anvDucX9Zi4uEK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Atlantic](https://open.spotify.com/album/0a9pQOFCm8ObvipeAcvW53) | 3:38 |
+| 22 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
 | 23 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 24 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 |
 | 25 | [The Things We Build](https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ) | [Aerial East](https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi) | [Try Harder](https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg) | 3:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Favorite Part](https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [Favorite Part / Popularity](https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj) | 3:17 |
 | 150 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
 
-Snapshot ID: `MTY0ODYwMTc0MywwMDAwMDAwMDhmNTU5MTgzNThkOGExOTRiNDIzOTIyOTVlYzM0NTY5`
+Snapshot ID: `MTY0ODY4ODA5NywwMDAwMDAwMDYyN2EwZjhiZTg4MjExMmNlYjA1MjZjNDkxNjBmY2Rh`

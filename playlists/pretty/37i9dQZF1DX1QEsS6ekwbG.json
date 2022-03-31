@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 43447,
+  "num_followers": 43619,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY5NSwwMDAwMDAwMGM1MjRmOTRlM2MwZWVhMzNkYjYyMDQ2OWQzMmY3N2Q0",
+  "snapshot_id": "MTY0ODY4ODA0OSwwMDAwMDAwMDdiZWI1ZGFlNTE1YmY0YmFkNjk2ODE1ZTViY2VjZWY2",
   "tracks": [
     {
       "added_at": "2021-11-12 17:19:08",
@@ -287,6 +287,22 @@
     {
       "added_at": "2021-11-12 17:19:08",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2021-11-12 17:19:08",
+      "album": {
         "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 229946,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/52FjcsfkCImlf6HSN83udR"
-    },
-    {
-      "added_at": "2021-11-12 17:19:08",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
     },
     {
       "added_at": "2021-11-12 17:19:08",
@@ -807,18 +807,18 @@
     {
       "added_at": "2021-11-12 17:19:08",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2021-11-12 17:19:08",

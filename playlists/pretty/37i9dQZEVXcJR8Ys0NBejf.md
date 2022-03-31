@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 8 | [Death Of Us](https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Death Of Us](https://open.spotify.com/album/2LkqNFhcGWp6PTyozndEXd) | 3:08 |
 | 9 | [Emo Club Anthem](https://open.spotify.com/track/2HFmykunjjYy1rru5Z0zvv) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 10 | [Bad Little Thing](https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Bad Little Thing](https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW) | 2:23 |
-| 11 | [Call Your Name](https://open.spotify.com/track/5RF8ZYKjSVwdVQXmXGGfJE) | [MDNT BLXNDE](https://open.spotify.com/artist/7JonNJzwcBYW40IYB27z48) | [Call Your Name](https://open.spotify.com/album/4u4eW3vs1AsmPqt1g4dFUO) | 2:36 |
+| 11 | [Call Your Name](https://open.spotify.com/track/5RF8ZYKjSVwdVQXmXGGfJE) | [MIDNIGHT BLXNDE](https://open.spotify.com/artist/4NQ3pWN8k948fVjBxAd5JB) | [Call Your Name](https://open.spotify.com/album/4u4eW3vs1AsmPqt1g4dFUO) | 2:36 |
 | 12 | [Victim](https://open.spotify.com/track/6ITGgQABtRjbBq3AEBXc4o) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Victim](https://open.spotify.com/album/6xHYv0j4br81632OCyLVLF) | 3:20 |
 | 13 | [Psycho](https://open.spotify.com/track/6GNOZzjxSYbuQdxW4171g6) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [RUBY](https://open.spotify.com/album/7dTsFu9aXt1XWviCzgt4ij) | 3:22 |
 | 14 | [Violence](https://open.spotify.com/track/0IBrNLe6QsmYx7FnA0soql) | [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Violence](https://open.spotify.com/album/0ZUPioPbMatcJjffL5sCkV) | 3:23 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
 | 30 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 
-Snapshot ID: `MCwwMDAwMDAwMDEwOGZhODYzZWMwZDMzYWMwZTUxYjYzYjU3ZmU3NTA2`
+Snapshot ID: `MCwwMDAwMDAwMDhkNTJiMmM0NTg4NGEwNDBkNDE4ODg0ZjFkOWYzNTQw`

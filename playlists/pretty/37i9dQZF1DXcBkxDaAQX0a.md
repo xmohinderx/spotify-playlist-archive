@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,240 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,275 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 15 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/2SeJ9YrUC24fQKOlOUZVTG) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/49jzsX4L7SPtw9CZbPiLas) | 3:32 |
 | 16 | [If It Means a Lot to You](https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 4:03 |
 | 17 | [10 AM](https://open.spotify.com/track/7IMb6DsxPHilzpRnfWJjOO) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [10 AM](https://open.spotify.com/album/4YQ0QFdtj6VD89hcD5UKZH) | 3:34 |
-| 18 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/0e7QzF7gA3cEpkCNuZ8AGY) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/5t8EH7X9vL9iRUZn1ySlkU) | 3:18 |
-| 19 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
+| 18 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
+| 19 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/0e7QzF7gA3cEpkCNuZ8AGY) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/5t8EH7X9vL9iRUZn1ySlkU) | 3:18 |
 | 20 | [Today I Saw The Whole World \- Acoustic Version](https://open.spotify.com/track/5EbsXX8qzNSnD88ulWSXGW) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Today I Saw The Whole World EP](https://open.spotify.com/album/3jpj1gAA8kbB6HFDByBaJt) | 3:26 |
 | 21 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
-| 22 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
-| 23 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
+| 22 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
+| 23 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
 | 24 | [Clairvoyant](https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story so Far / Stick to Your Guns Split \- EP](https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M) | 3:01 |
 | 25 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
 | 26 | [Back Together](https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Back Together](https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ) | 4:24 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 63 | [Both of Us \(Acoustic\)](https://open.spotify.com/track/3f0H369QJR5DR0yzzaCnsz) | [You vs Yesterday](https://open.spotify.com/artist/1PxE1tqEDHBQMGsV1K7Dwu) | [Reimagined](https://open.spotify.com/album/6T3gJtKnzOAtow9YloEDHu) | 3:48 |
 | 64 | [Send Help](https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Send Help](https://open.spotify.com/album/57JPx4goPt4LjqDQHFKJiV) | 3:23 |
 | 65 | [Down for the Ride](https://open.spotify.com/track/5m4FRZfAgAf5YCN8T7C3rN) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Jessie Abbey](https://open.spotify.com/artist/4CBfoF9c6LRT464xfoQe1V) | [Revision](https://open.spotify.com/album/6e9d2TheUtdGOkDXmyx31h) | 4:58 |
-| 66 | [Find Peace](https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Find Peace](https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE) | 3:31 |
-| 67 | [Not Fair](https://open.spotify.com/track/2M7KyG8VREcVibyohrQKB9) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Not Fair](https://open.spotify.com/album/39tNuhjnMSmlrIZQaq1x11) | 3:33 |
-| 68 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
+| 66 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
+| 67 | [Find Peace](https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Find Peace](https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE) | 3:31 |
+| 68 | [Not Fair](https://open.spotify.com/track/2M7KyG8VREcVibyohrQKB9) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Not Fair](https://open.spotify.com/album/39tNuhjnMSmlrIZQaq1x11) | 3:33 |
 | 69 | [Soundship \(Reperception\)](https://open.spotify.com/track/49UTGk5dq6qZG3lI5LwPLM) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Reperception, Vol\. 2](https://open.spotify.com/album/6tbeFvz9fMiBvqr2kOszpu) | 4:03 |
 | 70 | [Story Of My Bros \- Acoustic](https://open.spotify.com/track/4lHy961n9KMbzwOM4ewgHP) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:06 |
 | 71 | [Low](https://open.spotify.com/track/7MkoMkBOeoAIXdRyIWzl9s) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Low](https://open.spotify.com/album/2HnqoZFxTxcDwaPW31rjQ2) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [A Dog Named Fletcher](https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy) | [Atlantic Wasteland](https://open.spotify.com/artist/4qypZ10TKGdQI9LMO3Wot7) | [You'll Never See the Bigger Picture If You're Standing That Close](https://open.spotify.com/album/1CYuzHI69dDkpLr2qA9b0H) | 4:54 |
 | 75 | [Criminal \- Acoustic](https://open.spotify.com/track/2QDapBQWEJ0JTuZmnRUzsC) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [10 AM](https://open.spotify.com/album/52f8mvtKVdTjtsYNIciWbX) | 3:40 |
 
-Snapshot ID: `MTY0ODYwMjAzNywwMDAwMDAwMGQ1ZTc1ZDE1Y2JhMjY3NmVlZDk0NWEwYzBiYjY3NjM3`
+Snapshot ID: `MTY0ODY4ODM4MCwwMDAwMDAwMDUwNzY0ZjYwZTgyMTU2Yjk5NDYxODFjY2IzNzE3ZWEy`

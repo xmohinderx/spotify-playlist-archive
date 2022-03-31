@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,687 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,807 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 10 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 11 | [My Life](https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:17 |
 | 12 | [Whatever It Takes](https://open.spotify.com/track/1g795gFDpVVmUF4RNbNjue) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Easy Jazz Classics](https://open.spotify.com/album/5VMaILtZ8uxldsF6p9Z0Ap) | 5:35 |
-| 13 | [Same Love](https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:34 |
-| 14 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 |
+| 13 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 |
+| 14 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
 | 15 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 |
-| 16 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
+| 16 | [Same Love](https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:34 |
 | 17 | [Whatever You Want](https://open.spotify.com/track/4chxiKYwSBoE0pvO4Ea0uv) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!](https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz) | 4:51 |
 | 18 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
 | 19 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 25 | [First Began](https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:53 |
 | 26 | [Do Me, Baby](https://open.spotify.com/track/621BmKwXCNiTBfmeJtxoD8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:43 |
 | 27 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 28 | [Complicated \(feat\. Anthony Hamilton\) \- The Remix](https://open.spotify.com/track/4OOhy6f0Mo3XleHjTRBWYi) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Complicated \(feat\. Anthony Hamilton\) \[The Remix\]](https://open.spotify.com/album/3xPI0lL6igDc2HSeczqA9a) | 4:03 |
-| 29 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
+| 28 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
+| 29 | [Complicated \(feat\. Anthony Hamilton\) \- The Remix](https://open.spotify.com/track/4OOhy6f0Mo3XleHjTRBWYi) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Complicated \(feat\. Anthony Hamilton\) \[The Remix\]](https://open.spotify.com/album/3xPI0lL6igDc2HSeczqA9a) | 4:03 |
 | 30 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 |
 | 31 | [Something in My Heart](https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX) | [Michel'le](https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j) | [Michel'le](https://open.spotify.com/album/2PngFAB0v6216314TZRcGb) | 5:53 |
 | 32 | [Loved By You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4S3FRqrM3VyuajD7jFZcLm) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 | 40 | [Your Smile](https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire ..\. And More](https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9) | 4:15 |
 
-Snapshot ID: `MTY0ODYwMTcyNiwwMDAwMDAwMGQzNzZjOGNkYWFjMDI1OTU3NzA0ODg3YWUxZjllYzdm`
+Snapshot ID: `MTY0ODY4ODA4MCwwMDAwMDAwMDQ4MGI3OGM3OTdiMTlkYjEyMGFlYjU4YzhkNTRmMTdj`

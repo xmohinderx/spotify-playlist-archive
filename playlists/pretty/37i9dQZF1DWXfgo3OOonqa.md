@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,624 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,709 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 66 | [ADHD](https://open.spotify.com/track/4pE0Z4WnclhR1yvBQ6pIqy) | [Florendt](https://open.spotify.com/artist/0wjTxkMlB15RDYeo1wk1cY) | [ADHD](https://open.spotify.com/album/5DV9KpIiQqwcbbKf7bg2uC) | 2:54 |
 | 67 | [Hoodfellas](https://open.spotify.com/track/0VaWaEa0GDTTjlSQgB1v9j) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Hoodfellas](https://open.spotify.com/album/5jm8qrqgb5cK7YgHhDbr7E) | 3:02 |
 | 68 | [Flappy Bird](https://open.spotify.com/track/4qw2H7dbNNYWhIYe9IaP1j) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Flappy Bird](https://open.spotify.com/album/6jNj5sbpl9zL6avQRr7UfX) | 2:22 |
-| 69 | [Eywah](https://open.spotify.com/track/79Kjd4UfzhR1VkRHRDYV2t) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/3h5uiFWf5EutR6cI98Qd58) | [Eywah](https://open.spotify.com/album/118qcA7hZCrqUkJDMpUZNp) | 2:14 |
+| 69 | [Eywah](https://open.spotify.com/track/79Kjd4UfzhR1VkRHRDYV2t) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Eywah](https://open.spotify.com/album/118qcA7hZCrqUkJDMpUZNp) | 2:14 |
 | 70 | [OH OH](https://open.spotify.com/track/55wgQM8KMi2vExJ5v7mDwV) | [Fl4ppie](https://open.spotify.com/artist/2Mc2vYVF2Mta7gBwhgc716) | [OH OH](https://open.spotify.com/album/33qHqxfP0PfWjqKzfcUG3Q) | 2:27 |
 | 71 | [Hiding](https://open.spotify.com/track/1eYsZaXm9dwOduVcsDucjB) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Hiding](https://open.spotify.com/album/2KyOs1fncVeyUX3qc3IytV) | 2:15 |
 | 72 | [Förstå Mig](https://open.spotify.com/track/5B8djcGqRbS0aUJXMUvBGr) | [Jashua K](https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj) | [Förstå Mig](https://open.spotify.com/album/37JRDrV3GVedifYAwx32HO) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,948 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,154 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 15 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
 | 16 | [Town Called Malice](https://open.spotify.com/track/6sX5sm1wrYYV6ooAirEXAa) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Remastered Version\)](https://open.spotify.com/album/3GrWDe1D3ScuU8Ya90r6VN) | 2:53 |
 | 17 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0egYMfS7hjEneR86a9K61w) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:35 |
-| 18 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
-| 19 | [Don't Change](https://open.spotify.com/track/3W5V3fnZGcWb1EPSspF7lW) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah \(Remastered\)](https://open.spotify.com/album/3TgBFSeiKspqODV8Ivk6Zl) | 4:28 |
+| 18 | [Don't Change](https://open.spotify.com/track/3W5V3fnZGcWb1EPSspF7lW) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah \(Remastered\)](https://open.spotify.com/album/3TgBFSeiKspqODV8Ivk6Zl) | 4:28 |
+| 19 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
 | 20 | [I Will Follow](https://open.spotify.com/track/4E0LjJ2894jsfvLMQb6Ti7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/3GCEpIo4vFVQx1hO6UHSsY) | 3:38 |
 | 21 | [Ghost Town](https://open.spotify.com/track/2vEUFrRByOKob8yqOd6LuA) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/1BbtfepZFGgd58Ln2Rir8f) | 3:39 |
 | 22 | [Are 'Friends' Electric?](https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas Redux](https://open.spotify.com/album/1ZTKKrWwhE0prrfe3AudHz) | 5:25 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 30 | [Debaser](https://open.spotify.com/track/3FzKPS0oVknVlCW3PhxIHl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:53 |
 | 31 | [Alternative Ulster](https://open.spotify.com/track/1EkA7sN0hmllT9sUz7juMN) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 2:43 |
 | 32 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
-| 33 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:53 |
-| 34 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 |
+| 33 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 |
+| 34 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:53 |
 | 35 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 36 | [Gigantic](https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:57 |
-| 37 | [Our Lips Are Sealed](https://open.spotify.com/track/5xZSbzCVTp0qQt2K6Dfe0V) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 2:51 |
+| 36 | [Our Lips Are Sealed](https://open.spotify.com/track/5xZSbzCVTp0qQt2K6Dfe0V) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 2:51 |
+| 37 | [Gigantic](https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:57 |
 | 38 | [Birthday](https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/1at2GIPfbUeGwewAUQr4lw) | 3:58 |
 | 39 | [Kid \- 2006 Remaster](https://open.spotify.com/track/56aPHyy70SdIBYWEdV0cEi) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:06 |
 | 40 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 80 | [Birth, School, Work, Death](https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:07 |
 
-Snapshot ID: `MTY0ODYwMTQ1MCwwMDAwMDAwMGMxZjU0YTA2NzIwYzZiMzcwNzBhZjVmY2IyMjNlOTJj`
+Snapshot ID: `MTY0ODY4NzgwNiwwMDAwMDAwMDRiYjAwOWIzOTRjNjcyZWI3ZmU2N2RhY2EwODVjMWUw`

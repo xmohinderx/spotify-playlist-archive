@@ -19,7 +19,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Absolutely (Story of a Girl) - Radio Mix",
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 266026,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6G8fblD9DbcEmaKOKDy3XL"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 236973,
       "name": "Baby, Baby",
       "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3ZpiT9OFY8BawTHDTi1Pfz"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "album": {
         "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
       },
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 267933,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2019-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 247706,
       "name": "Collide - Chris Lord-Alge Mix aka Radio Edit",
       "url": "https://open.spotify.com/track/10tMVFMvd9224Zcq4A5dRL"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 198146,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 271560,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2019-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 188800,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 283400,
       "name": "Flake",
       "url": "https://open.spotify.com/track/09dOpua4kGcHzH9Jt6KTzm"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered",
       "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
@@ -1093,10 +1111,28 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "album": {
+        "name": "Inner Child",
+        "url": "https://open.spotify.com/album/3O1AUjaFcoauFoI10ZZJxi"
+      },
+      "artists": [
+        {
+          "name": "Shanice",
+          "url": "https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257973,
+      "name": "I Love Your Smile",
+      "url": "https://open.spotify.com/track/69mFxANpGyq9s69LqH3d9G"
     },
     {
       "album": {
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2tP7ZekzXfduShx8C6cbll"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 323400,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
@@ -1327,7 +1363,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 220626,
       "name": "Love Come Down - Single Version",
       "url": "https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR"
@@ -1388,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
+        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161306,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
+    },
+    {
+      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -1399,7 +1453,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
@@ -1471,7 +1525,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 286346,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd"
@@ -1583,7 +1637,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 273093,
       "name": "No Woman, No Cry",
       "url": "https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i"
@@ -1601,7 +1655,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 263253,
       "name": "Nothing Left to Lose",
       "url": "https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj"
@@ -1641,6 +1695,24 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "album": {
+        "name": "Extended Revolution",
+        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "album": {
@@ -1745,7 +1817,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
@@ -1763,7 +1835,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
@@ -1817,7 +1889,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 183720,
       "name": "Sitting, Waiting, Wishing",
       "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
@@ -2001,7 +2073,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 213546,
       "name": "SUPERBLOOM",
       "url": "https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ"
@@ -2081,7 +2153,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 254466,
       "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
       "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
@@ -2153,7 +2225,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 135386,
       "name": "The Way I Am",
       "url": "https://open.spotify.com/track/43ddJFnP8m3PzNJXiHuiyJ"
@@ -2171,7 +2243,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 164280,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
@@ -2207,7 +2279,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 180533,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI"
@@ -2225,7 +2297,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS"
@@ -2319,7 +2391,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 208360,
       "name": "Why Can't I?",
       "url": "https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw"
@@ -2355,7 +2427,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 148706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/4oeRfmp9XpKWym6YD1WvBP"
@@ -2373,7 +2445,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 218240,
       "name": "You and I Both",
       "url": "https://open.spotify.com/track/2mKjs6s0Z1imKKb6gOk628"
@@ -2463,7 +2535,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 239640,
       "name": "You Learn - 2015 Remaster",
       "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
@@ -2481,7 +2553,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 254480,
       "name": "You Were Meant For Me",
       "url": "https://open.spotify.com/track/6kBU9uWqar0Fw2Ws0he11A"
@@ -2499,7 +2571,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

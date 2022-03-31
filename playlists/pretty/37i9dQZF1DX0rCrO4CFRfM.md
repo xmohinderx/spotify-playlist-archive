@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,025 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,302 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 22 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 |
 | 23 | [Come As You Are](https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 4:13 |
 | 24 | [Radioactive \- Live](https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [This Is Acoustic](https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv) | 4:32 |
-| 25 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
-| 26 | [Space \- Acoustic Version](https://open.spotify.com/track/2QcsmywCAqaaBtPibf3QRb) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Acoustic Version\)](https://open.spotify.com/album/4pJRwy4zFSevnxOcYPTXxV) | 4:05 |
+| 25 | [Space \- Acoustic Version](https://open.spotify.com/track/2QcsmywCAqaaBtPibf3QRb) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Acoustic Version\)](https://open.spotify.com/album/4pJRwy4zFSevnxOcYPTXxV) | 4:05 |
+| 26 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 27 | [I Sat By The Ocean \(Live Acoustic\)](https://open.spotify.com/track/2un2p1mSIu4Tvt8pSuO9kw) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne](https://open.spotify.com/album/4JYG2AVtZGSVKREL8REdzu) | 4:35 |
 | 28 | [The Funeral \- Live Acoustic](https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Acoustic at The Ryman \(Live\)](https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a) | 5:07 |
 | 29 | [Scars \- Acoustic Version](https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [To Be Loved: The Best Of Papa Roach \(Explicit Version\)](https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
 | 50 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu) | 5:12 |
 
-Snapshot ID: `MTY0ODYwMTY3NywwMDAwMDAwMDA4ZTBiZjc4ZDg3NTc2NmNhNWM5ODlmYzM1NzM3OTYx`
+Snapshot ID: `MTY0ODY4ODAzMSwwMDAwMDAwMGY3OGQ0NTVhMmI0ODhlYmRlY2ZhN2Q5MTJiNGNmMWJk`

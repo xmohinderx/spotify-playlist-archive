@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 26897,
+  "num_followers": 26932,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTg3NywwMDAwMDAwMDNiM2NmOWQ3NmNmNmI2YWMxYzcyYzdjNmMwZTllZjYy",
+  "snapshot_id": "MTY0ODY4ODIyNywwMDAwMDAwMGFhZGMyMzY1YjVmNDkwZTAyYjAwNzRiYjdhZDg0NGQx",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -203,6 +203,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Rock Away",
+      "url": "https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Big Big",
         "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Mr. Brooks...A Better Tomorrow",
-        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Down In Jamaica: 40 Years of VP Records",
-        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
       "artists": [
         {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 237065,
-      "name": "Rock Away",
-      "url": "https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb"
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Down In Jamaica: 40 Years of VP Records",
-        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 232781,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 223400,
       "name": "Saddest Day",
       "url": "https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 232781,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Mr. Budy Bye",
+        "url": "https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Budy Bye",
+      "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "RIDDIM DRIVEN - LIQUID",
         "url": "https://open.spotify.com/album/4e6N1whg9F7qjcpOvZtxEP"
       },
@@ -667,38 +683,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "One Man Against The World",
-        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
-      },
-      "artists": [
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Mr. Budy Bye",
-        "url": "https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw"
-      },
-      "artists": [
-        {
-          "name": "Johnny Osbourne",
-          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Budy Bye",
-      "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Don't Haffi Dread",
         "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238550,
       "name": "Don't Haffi Dread",
       "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",

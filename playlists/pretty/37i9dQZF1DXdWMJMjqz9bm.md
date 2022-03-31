@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > ladies and gentlemen..\. Chance The Rapper
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,834 likes - 52 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,894 likes - 52 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Vengaboys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,380 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,661 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 70 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 |
 | 71 | [Don't Give Me Your Life \- Radio Version](https://open.spotify.com/track/6zTUlTbwdSVC61yrNY0SfS) | [Alex Party](https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD) | [Alex Party](https://open.spotify.com/album/0fYJIhjxCdKwWSYcF8Po99) | 3:17 |
 | 72 | [Children Of The Night \- Radio Edit](https://open.spotify.com/track/3kgJepRrGMc5nq4LbtFg2B) | [Nakatomi](https://open.spotify.com/artist/7xdjiWTeSt3mqtS5Zv1d0Y) | [Children Of The Night](https://open.spotify.com/album/2Zxgh6FvMhUKdqhl5eoqC2) | 4:06 |
-| 73 | [Twist And Shout](https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 3:57 |
-| 74 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
+| 73 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
+| 74 | [Twist And Shout](https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 3:57 |
 | 75 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 76 | [I Turn To You \- Hex Hector Radio Mix](https://open.spotify.com/track/5x5zRAJy1a8lSKWCCKSCIH) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Hex Hector](https://open.spotify.com/artist/1jLOGxY81S3FNq29X3qvmj) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 4:12 |
 | 77 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 132 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
 | 133 | [Thinking About Your Love](https://open.spotify.com/track/1UFU3B9vwxqVitwSnS5wg0) | [Kenny Thomas](https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB) | [Voices](https://open.spotify.com/album/67FR5JTVfxzq0PVTbW7Yrz) | 4:52 |
 | 134 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
-| 135 | [Pray](https://open.spotify.com/track/1luVSQzb1LtLWxFd9xNDYL) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 3:43 |
-| 136 | [Ain't No Man](https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 3:53 |
+| 135 | [Ain't No Man](https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 3:53 |
+| 136 | [Pray](https://open.spotify.com/track/1luVSQzb1LtLWxFd9xNDYL) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 3:43 |
 | 137 | [Boom Boom Boom \- Don't Break My Balls Mix](https://open.spotify.com/track/1m3YR95r3ZuLtu66T8l4Ab) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [1 Polish 2 Biscuits & a Fish Sandwich](https://open.spotify.com/album/3w2YJTPFOXO793xcjPhBWJ) | 4:13 |
 | 138 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
 | 139 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 144 | [If I Can't Have You \- 7" Edit](https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [If I Can't Have You](https://open.spotify.com/album/12uGGJ2a6UwEJTgDHlwCdV) | 3:30 |
 | 145 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 |
 | 146 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
-| 147 | [Don't Talk Just Kiss](https://open.spotify.com/track/4mrbbOwCgfgxiYy8kaVyAO) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up](https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36) | 4:01 |
-| 148 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 |
-| 149 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
-| 150 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
+| 147 | [Insomnia \- Radio Edit](https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [100 90'er Hits](https://open.spotify.com/album/5J8Okaw3myp8TnIqI5qqst) | 3:33 |
+| 148 | [Love & Devotion](https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/4SJ6x0Hlml18n0Ur9hnWNU) | 4:34 |
+| 149 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
+| 150 | [The Power](https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [World Power](https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A) | 3:48 |
 
-Snapshot ID: `MTY0ODYwMjA4NCwwMDAwMDAwMDRjMGVlNjAwODY5ZDExOTM2OTVhMDRmOGU3NDcwMWU0`
+Snapshot ID: `MTY0ODY4ODQyNywwMDAwMDAwMDY2NDdjYWU0NzA4MDc1MzA3MTQ3MDBiOWM4N2VhMzY3`

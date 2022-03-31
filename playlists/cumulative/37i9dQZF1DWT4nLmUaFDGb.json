@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 192173,
       "name": "(Getting Some) Fun out of Life",
       "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 299213,
       "name": "Be Still My Heart",
       "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
@@ -855,10 +855,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 244123,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257019,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg"
     },
     {
       "album": {
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 161271,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 267720,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3xpujyLU8E8AsGTpxji437"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 268600,
       "name": "To Live",
       "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"

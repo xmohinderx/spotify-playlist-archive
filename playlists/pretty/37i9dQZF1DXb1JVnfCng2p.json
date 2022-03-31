@@ -1,12 +1,12 @@
 {
   "description": "Get in mood for dinner with some cooking jazz.",
-  "num_followers": 13727,
+  "num_followers": 13754,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjAwMiwwMDAwMDAwMGJmMzUxYjU0YWEwMDkyZjU2MjM5YjA1Yjk3ODViNjIw",
+  "snapshot_id": "MTY0ODY4ODM0OCwwMDAwMDAwMGZmMDFjMjhlNTZjN2RkYjdmNTdhNTNmYzc3YzkyM2Ey",
   "tracks": [
     {
       "added_at": "2022-03-08 16:10:23",
@@ -227,6 +227,30 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Never Will I Marry",
+      "url": "https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
         "name": "Horace Silver Trio (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3yGcHzdskfjL8p0Zlx9uTH"
       },
@@ -263,30 +287,6 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Never Will I Marry",
-      "url": "https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
         "name": "The Birth Of Hard Bop",
         "url": "https://open.spotify.com/album/22UE0xDlzkey8sG0mq3LFr"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 349133,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/40HEPMxZwO58MYL9hKgBQI"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "added_at": "2022-03-08 16:10:23",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Blues Blue",
-      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Blues Blue",
+      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 394093,
       "name": "Give Me That Feelin'",
       "url": "https://open.spotify.com/track/79sKgKj7XBBmgNKuZfLndd"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
     },
     {
       "added_at": "2022-03-08 16:10:23",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - 20-Bit Remastering/1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
-        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 482186,
-      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
     },
     {
       "added_at": "2022-03-08 16:10:23",
@@ -1631,6 +1615,54 @@
       "duration_ms": 514666,
       "name": "News For Lulu - 1998 Remaster",
       "url": "https://open.spotify.com/track/4OvgbHrvIinni76tkocA1V"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
+        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 482186,
+      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
+        "name": "Doin' Allright",
+        "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 559160,
+      "name": "I Was Doing All Right - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
+      "url": "https://open.spotify.com/track/6gwhLRiUACnJYUrWRTWdlD"
+    },
+    {
+      "added_at": "2022-03-08 16:10:23",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 534546,
+      "name": "A Baptist Beat - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
     },
     {
       "added_at": "2022-03-08 16:10:23",
@@ -1667,22 +1699,6 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 534546,
-      "name": "A Baptist Beat - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
         "name": "The Procrastinator",
         "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 361973,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/0uNoGfQIO8Jtx5vVhlhHg9"
-    },
-    {
-      "added_at": "2022-03-08 16:10:23",
-      "album": {
-        "name": "Doin' Allright",
-        "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 559160,
-      "name": "I Was Doing All Right - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
-      "url": "https://open.spotify.com/track/6gwhLRiUACnJYUrWRTWdlD"
     },
     {
       "added_at": "2022-03-08 16:10:23",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2022-03-08 16:10:23",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Blues On The Corner",
-      "url": "https://open.spotify.com/track/4dL4C5uezPiXv2l6sout5U"
+      "duration_ms": 425960,
+      "name": "Second Balcony Jump - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2bkbV4FxwOAmgPTJHnCWgg"
     }
   ],
   "unique_name": "Cooking Jazz",

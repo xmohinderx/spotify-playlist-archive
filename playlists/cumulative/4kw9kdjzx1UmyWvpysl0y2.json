@@ -754,6 +754,28 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K"
+      },
+      "artists": [
+        {
+          "name": "Hausman",
+          "url": "https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE"
       },
@@ -791,7 +813,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 238344,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"

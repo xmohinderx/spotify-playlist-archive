@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Rubio y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,121 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 10 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
 | 11 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 |
 | 12 | [Sólo Vine a Bailar](https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [La Mar](https://open.spotify.com/album/6fLfcUkSJF8aWGQ3p8rfKZ) | 4:09 |
-| 13 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 |
+| 13 | [Adiós Mi Negrito](https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Adiós Mi Negrito](https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1) | 4:25 |
 | 14 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 |
-| 15 | [Adiós Mi Negrito](https://open.spotify.com/track/6MKjQsM77ioTbQ5idx3sLp) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Adiós Mi Negrito](https://open.spotify.com/album/58OYosg2fG9Ykdz68filu1) | 4:25 |
-| 16 | [El Frío](https://open.spotify.com/track/2uK3du011Ob2Nc6z0rmXpM) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [El Frío](https://open.spotify.com/album/6TvYVBlBD6kTv7rre2qBd0) | 3:26 |
+| 15 | [El Frío](https://open.spotify.com/track/2uK3du011Ob2Nc6z0rmXpM) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [El Frío](https://open.spotify.com/album/6TvYVBlBD6kTv7rre2qBd0) | 3:26 |
+| 16 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 |
 | 17 | [De los Límites](https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [De los Límites](https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W) | 4:13 |
 | 18 | [A Mor](https://open.spotify.com/track/7rlZPWvhjNws5u3GDGCmMR) | [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Clepsidra](https://open.spotify.com/album/7bU2KprBBphLpmBvK9FDHi) | 3:01 |
 | 19 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Temores](https://open.spotify.com/track/3TOCH8ZjLvmIRfyAe2niE8) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 4:14 |
 | 50 | [Olvidarte Es un Arte](https://open.spotify.com/track/55z2lCvu4NB29myyLvbT9s) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Olvidarte Es un Arte](https://open.spotify.com/album/75av1suHOIbgUY9G42Dzv9) | 3:07 |
 
-Snapshot ID: `MTY0ODYwMTk4OCwwMDAwMDAwMDVlYmNjMmIyMDViMjc2NzNjMWZiZTg5MzkxNjBjODhm`
+Snapshot ID: `MTY0ODY4ODMzNCwwMDAwMDAwMDczZGY5YzJmZjI1ZTBkNDMyYjZkNTA4NDQ4ZWViYThj`

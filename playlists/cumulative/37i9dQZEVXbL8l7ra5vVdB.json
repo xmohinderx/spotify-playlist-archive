@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 141479,
       "name": "Faded",
       "url": "https://open.spotify.com/track/57TwN5BQLPXTlDT6e2bVZf"
@@ -9218,6 +9218,24 @@
     },
     {
       "album": {
+        "name": "SWAG SEASON 2",
+        "url": "https://open.spotify.com/album/2nLtNVNj5Pa2I5uAoXV4bi"
+      },
+      "artists": [
+        {
+          "name": "ROCKET",
+          "url": "https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165370,
+      "name": "\u0418\u043d\u043a\u0430\u0441\u0441\u0430\u0442\u043e\u0440",
+      "url": "https://open.spotify.com/track/4DcMqvjv5pcYVu9jTBhpDH"
+    },
+    {
+      "album": {
         "name": "\u041a\u0410\u0427\u0410\u0415\u0422",
         "url": "https://open.spotify.com/album/11b4XIQqkXeOhqGaZ4GOfr"
       },
@@ -10097,7 +10115,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 112653,
       "name": "\u043c\u0430\u043a\u0438\u043d\u0442\u043e\u0448 \u0431\u0438\u0437\u043d\u0435\u0441 \u043e\u043d\u043b\u0438",
       "url": "https://open.spotify.com/track/4v2RVsMWMLpzpmKq3THgFc"
@@ -11705,7 +11723,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 69531,
       "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 - remix nevroz",
       "url": "https://open.spotify.com/track/1zE2dRkxtOLEOubAmqcHX3"

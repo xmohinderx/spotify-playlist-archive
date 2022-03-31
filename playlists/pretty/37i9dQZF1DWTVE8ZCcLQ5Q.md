@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra novos talentos brasileiros no horizonte\. Celebrando a classe de 2021!
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,574 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,593 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 71 | [Bem Melhor](https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Bem Melhor](https://open.spotify.com/album/6ZixmbQx5Rjm4H6wYkPrsp) | 3:17 |
 | 72 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
 | 73 | [Yamaha](https://open.spotify.com/track/3UQwJndjyZtfqKe4HKRSMU) | [Ciana](https://open.spotify.com/artist/2YUZgtzQwtoPYnENthHU8f) | [Yamaha](https://open.spotify.com/album/5vkY5ciGlzxpJhAjGB6Cf3) | 3:07 |
-| 74 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
-| 75 | [Garrafa Colorida](https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [Garrafa Colorida](https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC) | 2:44 |
-| 76 | [60K](https://open.spotify.com/track/25cpIUXstSGxYweWYc10NF) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [60K](https://open.spotify.com/album/4BLqgF7SeDxDQNsKJTG1TH) | 2:38 |
-| 77 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
-| 78 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 |
+| 74 | [Garrafa Colorida](https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [Garrafa Colorida](https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC) | 2:44 |
+| 75 | [60K](https://open.spotify.com/track/25cpIUXstSGxYweWYc10NF) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [60K](https://open.spotify.com/album/4BLqgF7SeDxDQNsKJTG1TH) | 2:38 |
+| 76 | [Tanto Faz](https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:57 |
+| 77 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 |
+| 78 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
 | 79 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
 | 80 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
 
-Snapshot ID: `MTY0ODYwMTQ1MywwMDAwMDAwMGJiYWEwM2QwNDBjZDJkMWJiNDYyYWYwMWU3ZmUxMjgw`
+Snapshot ID: `MTY0ODY4NzgxMCwwMDAwMDAwMGEzZjM1OTVkYmVlNDE0NzA1NDliZjZkYjJiMDlkNmM1`

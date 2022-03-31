@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,127 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,122 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [The Worst](https://open.spotify.com/track/2sz0VnSDdEM5CS61ewwgaV) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [The Worst](https://open.spotify.com/album/649x6RShwv8rO3BemVsdbs) | 3:14 |
 | 71 | [Zoo](https://open.spotify.com/track/7tuPdKiqInoAO6LJ0rN5YQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Zoo](https://open.spotify.com/album/3Yo9TFSeGrUPaXqEo81P2l) | 2:22 |
 | 72 | [Jag Antar](https://open.spotify.com/track/3ODGkTNHaprWShP9J4zdEX) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Jag Antar](https://open.spotify.com/album/6qqwuJu7WmMUvfW0tzVgdi) | 2:52 |
-| 73 | [Paradis](https://open.spotify.com/track/14D7kqAiCNXcoNeIAtutGn) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Paradis](https://open.spotify.com/album/1nFFor9s4KzIOOmGC7G0c9) | 3:54 |
+| 73 | [Det var du \(Paradis\)](https://open.spotify.com/track/14D7kqAiCNXcoNeIAtutGn) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Paradis](https://open.spotify.com/album/1nFFor9s4KzIOOmGC7G0c9) | 3:54 |
 | 74 | [VIP](https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [VIP](https://open.spotify.com/album/57My92fAkm8NMlXI5y8s9x) | 2:30 |
 | 75 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 |
 | 76 | [afraid](https://open.spotify.com/track/44mBQ0Tj8SI0INVfgO3H9n) | [SoLonely](https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv) | [afraid](https://open.spotify.com/album/13jQFvmBKtZE1ki5OSFc8X) | 2:53 |

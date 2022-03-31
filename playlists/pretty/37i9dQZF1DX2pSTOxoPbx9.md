@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,065 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,311 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 11 | [Everything Reminds Me](https://open.spotify.com/track/6LOKuUlI2aiMxEkFQReBwm) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Everything Reminds Me](https://open.spotify.com/album/6eQulTszM3RWVdqJocRfD4) | 3:08 |
 | 12 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 |
 | 13 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 |
-| 14 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 |
-| 15 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
+| 14 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
+| 15 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 |
 | 16 | [Vessel](https://open.spotify.com/track/4wGGWZHX1RXAkJLngvOKrR) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Alarms in the Heart](https://open.spotify.com/album/2mfBfecmeq4XsCUJRq4PPp) | 5:12 |
 | 17 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 |
 | 18 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Boris](https://open.spotify.com/track/1XJFmxQTm4cOQrXEhArm6Q) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/66BEZ127VgaQbxxRJijFZg) | 3:37 |
 | 100 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 
-Snapshot ID: `MTY0ODYwMTc0MCwwMDAwMDAwMDk0ZmYwZWZjOTY0NjQyNmI2NjliODI2ZDk1MWMzOGYx`
+Snapshot ID: `MTY0ODY4ODA5NSwwMDAwMDAwMGJmYjUwNjlkMTAyN2Y0MTVkOTIwNmUxMjE2ZTVlOWI4`

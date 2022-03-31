@@ -289,6 +289,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Ambient Essentials](/playlists/pretty/37i9dQZF1DWUrPBdYfoJvz.md)
 - [Ambient Post\-Rock](/playlists/pretty/37i9dQZF1DX9uKvEw7Rwtq.md)
 - [Ambient Relaxation](/playlists/pretty/37i9dQZF1DX3Ogo9pFvBkY.md)
+- [Ambient Tokyo](/playlists/pretty/37i9dQZF1DWZqNqPemiefM.md)
 - [Ambiente](/playlists/pretty/37i9dQZF1DX9c7yCloFHHL.md)
 - [American Made](/playlists/pretty/37i9dQZF1DWSttCmn8GHUg.md)
 - [Americana Icons](/playlists/pretty/37i9dQZF1DX7tfbjVrTPnV.md)

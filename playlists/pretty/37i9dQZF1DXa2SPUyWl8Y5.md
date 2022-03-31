@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,044 likes - 80 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,268 likes - 80 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 12 | [Eagles \- Aalson Remix](https://open.spotify.com/track/7lLjt2Hdnn3Q0EqRgmvBAG) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Aalson](https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY) | [Eagles \(Aalson Remix\)](https://open.spotify.com/album/1KC8G5Zg5fRmq3lSv2dvxe) | 8:19 |
 | 13 | [Allegri](https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Allegri](https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh) | 5:22 |
 | 14 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
-| 15 | [Panama](https://open.spotify.com/track/6t5ZrF85M2199GUyPm4P3k) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z), [Intaktogene](https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0) | [Panslinger](https://open.spotify.com/album/4oPjm0PzlCpDDJLKopTZcM) | 7:17 |
-| 16 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
-| 17 | [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 |
+| 15 | [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 |
+| 16 | [Panama](https://open.spotify.com/track/6t5ZrF85M2199GUyPm4P3k) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z), [Intaktogene](https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0) | [Panslinger](https://open.spotify.com/album/4oPjm0PzlCpDDJLKopTZcM) | 7:17 |
+| 17 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
 | 18 | [Life](https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Pure Love EP](https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e) | 6:33 |
 | 19 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 |
 | 20 | [Absent Minded in Berlin](https://open.spotify.com/track/5FZsLt0wUHvmoVdDjdRvBA) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Absent Minded in Berlin](https://open.spotify.com/album/3h3q4NDyH1VGvmy4TEkimk) | 5:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 45 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 |
 | 46 | [Crossing](https://open.spotify.com/track/1Lko0eAz8inPzFDSbEVS4Y) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Crossing](https://open.spotify.com/album/5XuCKnhO815k8InduVnMeS) | 5:34 |
 | 47 | [Symbiotic Nature](https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Symbiotic Nature](https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l) | 6:14 |
-| 48 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
-| 49 | [Amantes amentes](https://open.spotify.com/track/4LKS7ed36wRifpsBjXzTbz) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Amantes amentes](https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7) | 7:28 |
+| 48 | [Amantes amentes](https://open.spotify.com/track/4LKS7ed36wRifpsBjXzTbz) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Amantes amentes](https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7) | 7:28 |
+| 49 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
 | 50 | [India](https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [India](https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd) | 8:55 |
 | 51 | [Lapislazuli](https://open.spotify.com/track/1eoCPqc4PZQfC8Li7DwoTE) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Lapislazuli](https://open.spotify.com/album/4ExtDGNIDCRIQWWyaJBP3S) | 8:35 |
 | 52 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Beyond](https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Speicher 114](https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE) | 9:08 |
 | 80 | [Odyssee](https://open.spotify.com/track/2PimOJBhxyKvvgrWKgBpAH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Odyssee](https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO) | 7:40 |
 
-Snapshot ID: `MTY0ODYwMTk3MSwwMDAwMDAwMGU5YjI4MWIwMTZiNTQyNThmOTUzNmVmNDg1OTU0Mzhi`
+Snapshot ID: `MTY0ODY4ODMxOCwwMDAwMDAwMDExNTQ2ZjMxYThjZTEwNThkYmNmMDYzY2E1YzZhNTQ1`

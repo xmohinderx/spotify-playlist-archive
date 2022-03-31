@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Reminisce, keep rollin' to the boogie or discover: get a taste of late 70's and early & 80's clubmusic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,931 likes - 60 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,014 likes - 60 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 34 | [Take Me to the Top](https://open.spotify.com/track/5kncTtbruKRuP0ouhM8Lva) | [Advance](https://open.spotify.com/artist/2Dex4M7LVFtXTpKSFbcglF) | [Take Me to the Top](https://open.spotify.com/album/69KrDOS25US6byBwUTY1hX) | 6:16 |
 | 35 | [Do You Want It Right Now](https://open.spotify.com/track/103lm45d5GzxbirqgRIrax) | [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Do You Want It Right Now](https://open.spotify.com/album/5rTTZRyg1tl54xlKOD29yy) | 6:33 |
 | 36 | [Let No Man Put Asunder \- Shep Pettibone 12" Mix](https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Shep Pettibone](https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 8:01 |
-| 37 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 |
+| 37 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [The Blackbyrds](https://open.spotify.com/artist/4nJ3J7RwgYmMARNAVrFb06) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 |
 | 38 | [Silver Shadow](https://open.spotify.com/track/6adcjYF1VyyTanALCoYzGS) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [True Soul 3 CD Set](https://open.spotify.com/album/1MEa8G0PhyDJrwRrcJ5WQo) | 4:51 |
 | 39 | [You and Me Just Started](https://open.spotify.com/track/5YKj3GJkiWJ53B3757HuaB) | [Linda Taylor](https://open.spotify.com/artist/6zmpKoAzDENIEC0mDGCQxi) | [Star\-Funk, Vol\. 5](https://open.spotify.com/album/1GejYPRInkdBKbhu8sHPwC) | 5:06 |
 | 40 | [Facts of Love](https://open.spotify.com/track/2oxcmG1trE8AKHE9b14Lvx) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Private Passion](https://open.spotify.com/album/1Fm072CXKDM6zUVyLSWxYo) | 4:31 |

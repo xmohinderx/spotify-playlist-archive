@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar.",
-  "num_followers": 826432,
+  "num_followers": 826681,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTkzOCwwMDAwMDAwMDQ1ZjdjMWI0Yjc5NTNkYmJjMGU4NzI0ZTYzZWIzZTBh",
+  "snapshot_id": "MTY0ODY4ODI4NywwMDAwMDAwMDVmNzcxMjg2ZDVhNDJjY2ZmZjZlZGZmYWQ5NDBmOGI4",
   "tracks": [
     {
       "added_at": "2022-02-28 19:55:31",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
         "name": "Mi Ni\u00f1a Mujer",
         "url": "https://open.spotify.com/album/30v9YxJ5EwVv84STFbJXvW"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 192493,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/19p0PEnGr6XtRqCYEI8Ucc"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
-        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
     },
     {
       "added_at": "2022-02-28 19:55:31",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0jXhlN1DHW662aZCXUGxYH"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 217600,
       "name": "Destilando Amor",
       "url": "https://open.spotify.com/track/1VL6n94ZDAHk3nwyqIGgTp"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2022-02-28 19:55:31",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
         "name": "Historia de la Cumbia en el Siglo XX (Vol. 2)",
         "url": "https://open.spotify.com/album/2NE1HmtyFqRKg2zV2uWxY2"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
         "name": "De Reventon",
         "url": "https://open.spotify.com/album/0yB20dyvlBv4qKrWfjfBzA"
       },
@@ -607,6 +607,26 @@
       "duration_ms": 211440,
       "name": "\u00a1Ay! El Amor",
       "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
+        }
+      ],
+      "duration_ms": 246653,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/3gR5KQnC8FYLoPG2LEfbGP"
     },
     {
       "added_at": "2022-02-28 19:55:31",
@@ -643,22 +663,6 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
-        "name": "40 Aniversario (Componente 1)",
-        "url": "https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Mi Matamoros Querido",
-      "url": "https://open.spotify.com/track/6e5rEbGGlrkMlIK1lHYRO7"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
         "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
         "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
       },
@@ -679,6 +683,22 @@
     {
       "added_at": "2022-02-28 19:55:31",
       "album": {
+        "name": "40 Aniversario (Componente 1)",
+        "url": "https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "Mi Matamoros Querido",
+      "url": "https://open.spotify.com/track/6e5rEbGGlrkMlIK1lHYRO7"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
-        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
-        }
-      ],
-      "duration_ms": 246653,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/3gR5KQnC8FYLoPG2LEfbGP"
     },
     {
       "added_at": "2022-02-28 19:55:31",
@@ -763,6 +763,26 @@
       "duration_ms": 300520,
       "name": "Cumbia poder",
       "url": "https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB"
+    },
+    {
+      "added_at": "2022-02-28 19:55:31",
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Co\u0301mo Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn"
     },
     {
       "added_at": "2022-02-28 19:55:31",
@@ -827,26 +847,6 @@
       "duration_ms": 311346,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/5LB9MFeblJWnzkqcDU0HA2"
-    },
-    {
-      "added_at": "2022-02-28 19:55:31",
-      "album": {
-        "name": "C\u00f3mo Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Co\u0301mo Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn"
     }
   ],
   "unique_name": "100% Cumbia",

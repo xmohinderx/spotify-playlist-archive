@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. En portada: Los Panchos ",
-  "num_followers": 149504,
+  "num_followers": 149642,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTcyOCwwMDAwMDAwMDg5MDFjMjNiODEwMjQzOWE0ODA4YWFiZmE0OTM1MTQ1",
+  "snapshot_id": "MTY0ODY4ODA4MywwMDAwMDAwMDY2YmM0ZDE0ZjBlYTUwYzAxYTc3YWQwODhmODU4MGE4",
   "tracks": [
     {
       "added_at": "2021-10-01 13:30:07",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Tres Regalos",
+      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Dos Idolos Cantando",
         "url": "https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 173200,
       "name": "En Mi Viejo San Juan (with Javier Sol\u00eds)",
       "url": "https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "Tres Regalos",
-      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -207,18 +207,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T"
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Odiame",
-      "url": "https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA"
+      "duration_ms": 168960,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Los Tres Caballeros",
         "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 182206,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/27u17peWruKyUe7RfBglZC"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Odiame",
+      "url": "https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI"
     },
     {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "Lo Mejor de Julio Jaramillo",
-        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "Fatalidad",
-      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
-    },
-    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Cita Con Luis Arcaraz",
@@ -417,6 +401,22 @@
       "url": "https://open.spotify.com/track/1wCseyHi5XdKD4K5upw0hP"
     },
     {
+      "added_at": "2021-12-26 11:28:49",
+      "album": {
+        "name": "Lo Mejor de Julio Jaramillo",
+        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "Fatalidad",
+      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
+    },
+    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
@@ -431,6 +431,22 @@
       "duration_ms": 153520,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7bd92UGLbcFLMvq9oBFur5"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Exitos de los Tres Reyes",
+        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -463,22 +479,6 @@
       "duration_ms": 145533,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/6j7AavgVOm42wPdRU5zSsy"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Exitos de los Tres Reyes",
-        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/3fTSR8Q1Dkb3tAgezuzR3a"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/62E8G2xeGJ4UbTRtX1ZW6x"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 181640,
       "name": "Poquita Fe (Sin Fe)",
       "url": "https://open.spotify.com/track/5vDEpIkGRbnOrcUnCCxnzs"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/3fTSR8Q1Dkb3tAgezuzR3a"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/62E8G2xeGJ4UbTRtX1ZW6x"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -643,18 +643,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ"
+        "name": "Los Panchos - \u00c9xitos Esenciales",
+        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
       },
       "artists": [
         {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         }
       ],
-      "duration_ms": 178677,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U"
+      "duration_ms": 142466,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/2qnpSf8OfsFVRxxeW0wnet"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -675,6 +679,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "The Golden Record Vol. 2",
         "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 190400,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Los Panchos - \u00c9xitos Esenciales",
-        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        }
-      ],
-      "duration_ms": 142466,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/2qnpSf8OfsFVRxxeW0wnet"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
-        "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1s1bhfOaPfnrh9nafSEF2f"
       },
       "artists": [
         {
-          "name": "Los Fantasmas",
-          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 190386,
-      "name": "Pagina Blanca",
-      "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
+      "duration_ms": 173217,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0cKU4W7ef6aBvLwzQzlEBb"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
+        "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas",
+          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
+        }
+      ],
+      "duration_ms": 190386,
+      "name": "Pagina Blanca",
+      "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Bodas De Plata",
         "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1s1bhfOaPfnrh9nafSEF2f"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0cKU4W7ef6aBvLwzQzlEBb"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Frente a Frente de Tr\u00edos",
         "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 198310,
       "name": "Reg\u00e1lame Esta Noche",
       "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Los Panchos - \u00c9xitos Esenciales",
+        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/3H5SPeSMl6viD0bhihQEov"
     },
     {
       "added_at": "2021-12-26 11:28:49",
@@ -889,6 +909,22 @@
       "url": "https://open.spotify.com/track/2eNyia284twoi86yKlDFxV"
     },
     {
+      "added_at": "2021-12-26 11:28:49",
+      "album": {
+        "name": "15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "Caminemos",
+      "url": "https://open.spotify.com/track/1iNgLC9bxYKO66hOLd5gKI"
+    },
+    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Somos Novios",
@@ -919,26 +955,6 @@
       "duration_ms": 174213,
       "name": "Total",
       "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Los Panchos - \u00c9xitos Esenciales",
-        "url": "https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/3H5SPeSMl6viD0bhihQEov"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1005,22 +1021,6 @@
       "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
     },
     {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "15 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "Caminemos",
-      "url": "https://open.spotify.com/track/1iNgLC9bxYKO66hOLd5gKI"
-    },
-    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Orquideas Vocales",
@@ -1051,6 +1051,22 @@
       "duration_ms": 163853,
       "name": "Mar y Cielo",
       "url": "https://open.spotify.com/track/1Y4Mmj1ssPrXQpkImdctyA"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Boleros De Los Panchos Volumen 1",
+        "url": "https://open.spotify.com/album/1smpWoDzr7OuQxX6hHOocG"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 146184,
+      "name": "Se Te Olvida",
+      "url": "https://open.spotify.com/track/29ONIznY42DeacI6o1HUdN"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1099,22 +1115,6 @@
       "duration_ms": 171720,
       "name": "Loca Pasi\u00f3n",
       "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Boleros De Los Panchos Volumen 1",
-        "url": "https://open.spotify.com/album/1smpWoDzr7OuQxX6hHOocG"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "Se Te Olvida",
-      "url": "https://open.spotify.com/track/29ONIznY42DeacI6o1HUdN"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Una Copa M\u00e1s",
-      "url": "https://open.spotify.com/track/5dhelPVtMadkXASjPUmqO5"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Trio Delfines",
         "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 165186,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Una Copa M\u00e1s",
+      "url": "https://open.spotify.com/track/5dhelPVtMadkXASjPUmqO5"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Un Siglo de Ausencia - Remasterizado",
-      "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
         "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
       },
@@ -1535,6 +1503,22 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
     },
     {
       "added_at": "2021-12-26 11:28:49",
@@ -1571,6 +1555,22 @@
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Un Siglo de Ausencia - Remasterizado",
+      "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"
     },
     {
       "added_at": "2021-10-01 13:30:07",

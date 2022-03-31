@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 41465,
+  "num_followers": 41470,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY1OSwwMDAwMDAwMDQ1MzE4MDY4ZTQ0MTlhNDc5NTFiMTRhNjFhZDMwMmM3",
+  "snapshot_id": "MTY0ODY4ODAxNCwwMDAwMDAwMDM4ZTIyMjQ3ZGQ5ZWUxMDUzYjRlODc0OWFmMmRjYmJj",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -247,6 +247,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Saving Me Still",
         "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
     },
     {
       "added_at": "2020-12-18 06:02:14",

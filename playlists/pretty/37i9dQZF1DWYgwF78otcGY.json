@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTYxMSwwMDAwMDAwMDU4OWY5NDY0M2Y2NTY2OGY0ZjE4NjhiMTFkMmE0NDM2",
+  "snapshot_id": "MTY0ODY4Nzk2NiwwMDAwMDAwMDQ5ZGY3ZGFmNDhhZTgyNzlhYmQzMGNlMTAzYzA5NWU2",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -287,22 +287,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "L\u00e4ngtan",
         "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 178946,
       "name": "Kom",
       "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -351,22 +351,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "F\u00e5ngad av en stormvind - Swedish Version",
-      "url": "https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Rongedal",
         "url": "https://open.spotify.com/album/2yMlEILxOsbQdEfiukJ8GO"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 181200,
       "name": "Just A Minute",
       "url": "https://open.spotify.com/track/2eAgErGWqrXow47SjwTqMp"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "F\u00e5ngad av en stormvind - Swedish Version",
+      "url": "https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39"
     },
     {
       "added_at": "2019-02-28 12:57:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,525 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 16 | [Hey, That's No Way to Say Goodbye \(with Chilly Gonzales on Piano\) \- Piano by Chilly Gonzales in Paris](https://open.spotify.com/track/0mblDBhfX2SCQu2SbwTMgp) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Is Your Love Big Enough? \(Deluxe Edition\)](https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9) | 3:03 |
 | 17 | [In My Secret Life](https://open.spotify.com/track/32F81jpaJG7O6EZuXQDvrk) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B) | 4:23 |
 | 18 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V) | [Harvey Milk](https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR) | [The Kelly Sessions](https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D) | 2:22 |
-| 19 | [Seems So Long Ago, Nancy](https://open.spotify.com/track/7bvWQhPVCyzfnnVGUQRWrw) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 4:30 |
-| 20 | [First We Take Manhattan](https://open.spotify.com/track/49xcRJXZJpdXC7eqtmWRti) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Drive](https://open.spotify.com/album/2kul45D9k88GoXTx5Bm1YK) | 6:03 |
-| 21 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 |
-| 22 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
-| 23 | [Story Of Isaac](https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 4:06 |
-| 24 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
-| 25 | [Waiting for the Miracle](https://open.spotify.com/track/1uLscO7IxLWSBmgLbMObBw) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B) | 3:55 |
+| 19 | [First We Take Manhattan](https://open.spotify.com/track/49xcRJXZJpdXC7eqtmWRti) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Drive](https://open.spotify.com/album/2kul45D9k88GoXTx5Bm1YK) | 6:03 |
+| 20 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 |
+| 21 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
+| 22 | [Seems So Long Ago, Nancy](https://open.spotify.com/track/7bvWQhPVCyzfnnVGUQRWrw) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 4:30 |
+| 23 | [Waiting for the Miracle](https://open.spotify.com/track/1uLscO7IxLWSBmgLbMObBw) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B) | 3:55 |
+| 24 | [Story Of Isaac](https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 4:06 |
+| 25 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 26 | [Joan Of Arc](https://open.spotify.com/track/4TtTWypT6b5usypltgEMvn) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Desire](https://open.spotify.com/album/0PZoALjcGxhwDdIQzpESsO) | 4:02 |
-| 27 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 |
-| 28 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
-| 29 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
+| 27 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
+| 28 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 |
+| 29 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
 | 30 | [The Traitor](https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:44 |
 | 31 | [Bird On A Wire](https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl) | 4:01 |
 | 32 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [You Know Who I Am](https://open.spotify.com/track/2XGxZZpv8pae2CY18mVK6P) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk) | [The Complete Cass Elliot Solo Collection 1968\-71](https://open.spotify.com/album/2TUNlZmOj0mzu9oLR9D3Gb) | 4:03 |
 | 40 | [Avalanche \- 2009 Digital Remaster](https://open.spotify.com/track/161Snz3Z1f5rMQf8QtAiT3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity](https://open.spotify.com/album/5hhdO54QXmZi6038QpGlMQ) | 5:09 |
 
-Snapshot ID: `MTY0ODYwMTU2NywwMDAwMDAwMDYyM2U4ZGM0ZjFhOGMzZGUxMDVmYTYzNzUyYjRjY2Jj`
+Snapshot ID: `MTY0ODY4NzkyMiwwMDAwMDAwMDdmOTRkZGM3ZjQwMzI1ZmNlM2JmYTBjYmU4MzZjOGZk`

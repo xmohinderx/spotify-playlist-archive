@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,867 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,864 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 97 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
 | 98 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 99 | [Joyeux Noël](https://open.spotify.com/track/1xRBTzIffG760rUzbGeAf3) | [Charlēne](https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 2:39 |
-| 100 | [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 |
+| 100 | [Minuit chrétien](https://open.spotify.com/track/0O1semZ6o0wcA4B7j7L97L) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Un grand noël d'amour](https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE) | 5:08 |
 
-Snapshot ID: `MTY0ODYwMTQ0MiwwMDAwMDAwMGQxMTdiY2Y1Yjg5OTU4ZmQ3M2MxMjNiODY2YzU0ZTA5`
+Snapshot ID: `MTY0ODY4Nzc5OSwwMDAwMDAwMDUwMGZlZGQzNGNiYjA2Y2I0NzE1OTBhZTVlMzE4Njc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,089 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,092 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 12 | [Yes I Am](https://open.spotify.com/track/5dygCpuOvgXkSWB7hPEwEI) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Yes I Am](https://open.spotify.com/album/3gN5NETExLN0RtCJ4KtiQP) | 3:56 |
 | 13 | [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 |
 | 14 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
-| 15 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
-| 16 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 |
-| 17 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
+| 15 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
+| 16 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 17 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 |
 | 18 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
 | 19 | [New Tree](https://open.spotify.com/track/4qD4ofUFewKqPEyokBsYsl) | [Midnight Colors](https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk) | [New Tree](https://open.spotify.com/album/4kB8fo8SFyTW6OxxqV1Db1) | 4:52 |
 | 20 | [Who Needs Words](https://open.spotify.com/track/6MR11qquWaP0BGc2FbXgNt) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Who Needs Words](https://open.spotify.com/album/6mIjvGFZ2vrY6a2C6XQXFS) | 3:30 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Yes I Know](https://open.spotify.com/track/5HGdUDNax7PRir0ctxsY3q) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Yes I Know](https://open.spotify.com/album/3oM0byn09fUkSQDO0MdYLo) | 3:42 |
 | 65 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 |
 
-Snapshot ID: `MTY0ODYwMjA2MSwwMDAwMDAwMDBkZjk2N2M1YzA1ZWIxZDFiMGNmODE0NDZmMmJjNmRm`
+Snapshot ID: `MTY0ODY4ODQwNCwwMDAwMDAwMGY3MjE5ZmExNDg1M2YyNzFjYzliODdmYTRmNjg2MDYz`

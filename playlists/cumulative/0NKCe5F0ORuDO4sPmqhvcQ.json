@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 302702,
       "name": "A Space in Between",
       "url": "https://open.spotify.com/track/22aJnovcYTqiOhfuFMCoVk"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 197716,
       "name": "all i need",
       "url": "https://open.spotify.com/track/7vOjikQFRmxz1DISXsCQqG"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 217680,
       "name": "Amphibious",
       "url": "https://open.spotify.com/track/6BOzOhp0lkineq7GADZNs5"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 202434,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 184919,
       "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
       "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
@@ -646,6 +646,32 @@
     },
     {
       "album": {
+        "name": "Confidence (feat. Jon Waltz) [Slow Magic Remix]",
+        "url": "https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        },
+        {
+          "name": "Jon Waltz",
+          "url": "https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J"
+        },
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Confidence (feat. Jon Waltz) - Slow Magic Remix",
+      "url": "https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9"
+    },
+    {
+      "album": {
         "name": "Could I Break Your Heart",
         "url": "https://open.spotify.com/album/2GxMoCOHTcHK14F4pT7CD2"
       },
@@ -905,7 +931,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 129996,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/43Mws6pQGKCUeJ5bDaSmFR"
@@ -1036,6 +1062,28 @@
     },
     {
       "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262447,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
+    },
+    {
+      "album": {
         "name": "Feel Like That",
         "url": "https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7"
       },
@@ -1109,7 +1157,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 187786,
       "name": "For Goodness Sake",
       "url": "https://open.spotify.com/track/1ZzAja0kcAqJEXLZzVbPms"
@@ -1157,10 +1205,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 193432,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/5AH62IT62TEek7uigczBeR"
+    },
+    {
+      "album": {
+        "name": "Haircut",
+        "url": "https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou"
+      },
+      "artists": [
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178416,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif"
     },
     {
       "album": {
@@ -1175,7 +1241,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 186400,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
@@ -1401,7 +1467,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 181016,
       "name": "Home",
       "url": "https://open.spotify.com/track/4F42lL3HKmFPwbHzva7WNU"
@@ -1437,7 +1503,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 210484,
       "name": "I Don't Believe You",
       "url": "https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT"
@@ -1459,7 +1525,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 173296,
       "name": "I See You (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq"
@@ -1499,7 +1565,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 126545,
       "name": "I'm a Moth!!",
       "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
@@ -1517,7 +1583,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 116504,
       "name": "icarus",
       "url": "https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2"
@@ -1535,7 +1601,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 174000,
       "name": "Incorrect",
       "url": "https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u"
@@ -1695,7 +1761,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 169014,
       "name": "Little League",
       "url": "https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu"
@@ -1769,7 +1835,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 188709,
       "name": "Lucky Ones - Wilde Things Remix",
       "url": "https://open.spotify.com/track/2xlR5f4A5RGabqodlkaGVI"
@@ -1834,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Math",
+        "url": "https://open.spotify.com/album/5TAXcidpYckYTtQRD7LhFj"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213007,
+      "name": "Math",
+      "url": "https://open.spotify.com/track/5YLrCPSE6KIHC3ZiN9OYui"
+    },
+    {
+      "album": {
         "name": "maybe it was god",
         "url": "https://open.spotify.com/album/6d9AFuyDww4pObmZEpuNk2"
       },
@@ -1871,7 +1955,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 218728,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/5hlxswETS4FB4oCg6g7JHk"
@@ -2009,7 +2093,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 155555,
       "name": "NO JOY",
       "url": "https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop"
@@ -2067,7 +2151,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 154237,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2"
@@ -2249,7 +2333,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 148591,
       "name": "pieces",
       "url": "https://open.spotify.com/track/5lIOCSamrX9G9BieD9tDl8"
@@ -2467,7 +2551,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 220500,
       "name": "RETURN TO NOTHINGNESS",
       "url": "https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7"
@@ -2543,7 +2627,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 125928,
       "name": "running back v2",
       "url": "https://open.spotify.com/track/35ux9cbSiFQvCMKF7v8J1z"
@@ -2729,7 +2813,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 205989,
       "name": "Statues",
       "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
@@ -2755,7 +2839,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 179097,
       "name": "Stop The World",
       "url": "https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI"
@@ -2897,7 +2981,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 278319,
       "name": "Tears '06",
       "url": "https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F"
@@ -3027,7 +3111,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 174961,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd"
@@ -3097,7 +3181,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 263500,
       "name": "To Be Alone - informal. Remix",
       "url": "https://open.spotify.com/track/4B5tICQBF6KUXlEq7cH9li"
@@ -3311,7 +3395,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 155926,
       "name": "Visions - SUN/MGNETK Remix",
       "url": "https://open.spotify.com/track/1a40njhjzTInmBNuctG47K"
@@ -3329,7 +3413,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 188080,
       "name": "WAV3S",
       "url": "https://open.spotify.com/track/3WHg0730YWLaPSEnUaZ0E0"
@@ -3409,7 +3493,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 260734,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF"

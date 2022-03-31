@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,001 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,257 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 4 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 |
 | 5 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
 | 6 | [New Bounce](https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y) | 4:47 |
-| 7 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
-| 8 | [Out of the Blue](https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 5:58 |
-| 9 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 |
+| 7 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 |
+| 8 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
+| 9 | [Out of the Blue](https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 5:58 |
 | 10 | [Brazz Street](https://open.spotify.com/track/5zicMKlbOqwkKr3iCuVJnS) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/3NUmzmDKiJpN2I0Jznj6zS) | 4:42 |
 | 11 | [Hope](https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:20 |
 | 12 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 28 | [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 |
 | 29 | [Never Enough](https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 3:59 |
 | 30 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 |
-| 31 | [I'm All Ears](https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [I'm All Ears](https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC) | 4:59 |
-| 32 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 |
-| 33 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 |
-| 34 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
+| 31 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 |
+| 32 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 |
+| 33 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 |
+| 34 | [I'm All Ears](https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [I'm All Ears](https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC) | 4:59 |
 | 35 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 |
 | 36 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
 | 37 | [Something About You](https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 |
 | 50 | [Listen to This](https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:13 |
 
-Snapshot ID: `MTY0ODYwMjA4NiwwMDAwMDAwMGM2NjUyZDQ2ZmRmMWI4Yzg1MjU5Mzk2NThmNmI4MDEx`
+Snapshot ID: `MTY0ODY4ODQyOSwwMDAwMDAwMDU1MTViNTYzYWM3NjBhYThhMGJmMzdhNzNjODY4YTA1`

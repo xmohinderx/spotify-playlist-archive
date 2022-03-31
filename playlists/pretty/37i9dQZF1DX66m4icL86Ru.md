@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Babe Tate
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,836 likes - 81 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,585 likes - 81 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

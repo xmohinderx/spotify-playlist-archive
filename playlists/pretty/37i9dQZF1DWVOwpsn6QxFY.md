@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,680 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,799 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 3 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 4 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
 | 5 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 |
-| 6 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 |
-| 7 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
-| 8 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 |
-| 9 | [Caroline](https://open.spotify.com/track/4jFmHwPcwIjEtEBuKOPoKG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Caroline](https://open.spotify.com/album/1PD0O1Y9RZWynRLk0je4TA) | 4:10 |
-| 10 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 6 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 7 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 |
+| 8 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
+| 9 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 |
+| 10 | [Caroline](https://open.spotify.com/track/4jFmHwPcwIjEtEBuKOPoKG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Caroline](https://open.spotify.com/album/1PD0O1Y9RZWynRLk0je4TA) | 4:10 |
 | 11 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 |
 | 12 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 |
 | 13 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 37 | [Surreal](https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/0OiP7DFcv3L9ERkVz4HyeF) | 3:06 |
 | 38 | [unison](https://open.spotify.com/track/1B0Cien4C0razbujaBrYYG) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [total serene](https://open.spotify.com/album/2fQdsREJ7OX7BGo3K0a1Ii) | 5:08 |
 | 39 | [Orange Yellow Orange](https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9), [The Mysterious Visions](https://open.spotify.com/artist/6rw8GQErqnz03nkFJsSmPp) | [Orange Yellow Orange](https://open.spotify.com/album/3YroNnL5MKTJukgtVuyAaV) | 3:20 |
-| 40 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
-| 41 | [Clementine](https://open.spotify.com/track/2q665uNpqatx58180pLD2a) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clementine](https://open.spotify.com/album/2BqwMbbENJkGzh3t5fdoYd) | 5:09 |
-| 42 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 43 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
+| 40 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
+| 41 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 42 | [Clementine](https://open.spotify.com/track/2q665uNpqatx58180pLD2a) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clementine](https://open.spotify.com/album/2BqwMbbENJkGzh3t5fdoYd) | 5:09 |
+| 43 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 44 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 |
 | 45 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6XZNMTmnxXuuYPNUjKMmbP) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Everything is Different \(To Me\)](https://open.spotify.com/album/5kGUb7l3xISthWVpu1lWKw) | 4:24 |
 | 46 | [any human friend](https://open.spotify.com/track/2qBSeyhTF7JXcbk3JtMCxY) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 |
 | 80 | [How Can You Tell If You Love Her?](https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp) | [John Myrtle](https://open.spotify.com/artist/42p6gXpB3btdFQWyjY5F6h) | [How Can You Tell If You Love Her?](https://open.spotify.com/album/6GKsF5OAwaMwoheiUxxbsW) | 1:54 |
 
-Snapshot ID: `MTY0ODYwMTUwNSwwMDAwMDAwMGVkNGRmOGM1MWRmMzg1YjNjNTcxNzVmODkwY2I0Yjdm`
+Snapshot ID: `MTY0ODY4Nzg2MSwwMDAwMDAwMDE5NzBhNTViYzk4NzM1M2JkNjRjMzU1NTQ0MTAyZTM0`

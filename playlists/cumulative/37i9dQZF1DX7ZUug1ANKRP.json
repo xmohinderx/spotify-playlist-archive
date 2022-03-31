@@ -640,6 +640,28 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221220,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "album": {
         "name": "For You (Deeperlove Remix)",
         "url": "https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec"
       },
@@ -1207,7 +1229,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 138860,
       "name": "Marble",
       "url": "https://open.spotify.com/track/0ymH3Qwwzkl802WD3yy0oY"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -1317,7 +1339,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 130757,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/6X6CUqG6rW8rtGXdzyCOJH"
@@ -1501,7 +1523,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 280002,
       "name": "Pepas - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
@@ -1692,6 +1714,28 @@
     },
     {
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/22qBsT4FYEV5ZHeFrvIenK"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Indiana",
+          "url": "https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144240,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/3QuJ4TqND9JE7cqAkIrgYr"
+    },
+    {
+      "album": {
         "name": "Something Magical",
         "url": "https://open.spotify.com/album/4I14jJHSVIKGF25sO9eDoS"
       },
@@ -1847,6 +1891,32 @@
       "duration_ms": 179308,
       "name": "Stop The World",
       "url": "https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo"
+    },
+    {
+      "album": {
+        "name": "Sunset in Dubai (DJ Antoine & Mad Mark 2k22 Mix)",
+        "url": "https://open.spotify.com/album/7qG3vgkDMvDmhC8F8YNcVT"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Chanin",
+          "url": "https://open.spotify.com/artist/4FRgokXij5IuiufM05094s"
+        },
+        {
+          "name": "Mad Mark",
+          "url": "https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150773,
+      "name": "Sunset in Dubai - DJ Antoine & Mad Mark 2k22 Mix",
+      "url": "https://open.spotify.com/track/0SEbYkdFFbgiF05bKSNKnd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Because the best things in life are wild and free...",
-  "num_followers": 1474387,
+  "num_followers": 1474376,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTgyOCwwMDAwMDAwMGE1ZGI1NzcyNWVlN2Y0MzJkNzM0Zjk1OGFkYzFiYjVk",
+  "snapshot_id": "MTY0ODY4ODE3OSwwMDAwMDAwMDkwZDhkNDliODk2MmI3ZDNjMzUyNWZlZWJkMzJhOWZi",
   "tracks": [
     {
       "added_at": "2021-11-19 05:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
-        "name": "As We Ran",
-        "url": "https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 200321,
-      "name": "As We Ran",
-      "url": "https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
         "name": "Penny, Heads Up",
         "url": "https://open.spotify.com/album/3gMHXQbvGp5xsM1lMhm4xv"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 207186,
       "name": "Penny, Heads Up",
       "url": "https://open.spotify.com/track/1a01Toe3uKNRhqLmW9x3Ar"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "As We Ran",
+        "url": "https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 200321,
+      "name": "As We Ran",
+      "url": "https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx"
     },
     {
       "added_at": "2021-11-19 05:01:00",

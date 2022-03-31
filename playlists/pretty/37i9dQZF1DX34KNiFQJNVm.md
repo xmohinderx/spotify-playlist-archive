@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem J Balvin com Ed Sheeran, LUDMILLA, Hugo & Guilherme e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,124 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738,168 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 26 | [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 |
 | 27 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
 | 28 | [23 FEB MADRID FREESTYLE](https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:30 |
-| 29 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 |
+| 29 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 |
 | 30 | [Rapunzel](https://open.spotify.com/track/2gk2EnyGyqwpMoVwYCWRA4) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Rapunzel](https://open.spotify.com/album/3FDtyzGwsGs0pbKDOpQqHZ) | 3:04 |
 | 31 | [Casal 171](https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO) | [ike](https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Casal 171](https://open.spotify.com/album/7hC9jL7eYPa1OwjCDu2SGH) | 3:21 |
 | 32 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 |

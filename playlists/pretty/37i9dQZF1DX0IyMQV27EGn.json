@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and dark, alluring siren songs. Cover: Ashley Monroe",
-  "num_followers": 587624,
+  "num_followers": 587681,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY2MSwwMDAwMDAwMDQ2NWYwNjUzMmEwN2Q1YjUxOTRiYTdkOGI2OGQzMmJh",
+  "snapshot_id": "MTY0ODY4ODAxNSwwMDAwMDAwMGQxNTQxOGJiYjMzYTBhMWNkZjRkZTFlOGMzODliYTU2",
   "tracks": [
     {
       "added_at": "2021-06-04 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 341533,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
         "name": "Live at St. Margarets Chapel (Live)",
         "url": "https://open.spotify.com/album/4iUKF6bSM4dAsGAfPHVQXm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182381,
       "name": "Touched (Live)",
       "url": "https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N"
+    },
+    {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 341533,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
     },
     {
       "added_at": "2021-06-04 04:01:00",

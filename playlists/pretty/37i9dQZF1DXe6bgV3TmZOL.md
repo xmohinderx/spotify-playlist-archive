@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,038 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,606 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 19 | [Locked \(In My Head\)](https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Locked \(In My Head\)](https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK) | 3:06 |
 | 20 | [Meteor](https://open.spotify.com/track/2yAI6FssGr5WfoqU7NSmPg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Meteor](https://open.spotify.com/album/3xFCNfwrZNxQKajEMBY6lB) | 4:01 |
 | 21 | [Blood Moon](https://open.spotify.com/track/58WQKPZHIB4AntzOdKFTAz) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [Blood Moon](https://open.spotify.com/album/6jG3MOZV9g66en5MsTnr6u) | 3:34 |
-| 22 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 |
-| 23 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
+| 22 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
+| 23 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 |
 | 24 | [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 |
-| 25 | [Uprise](https://open.spotify.com/track/6b9pDaMgmYARNR25XCXbj4) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Uprise](https://open.spotify.com/album/6eHPDy2VsYcvOqQVrfKAK9) | 2:46 |
-| 26 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 |
+| 25 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 |
+| 26 | [Uprise](https://open.spotify.com/track/6b9pDaMgmYARNR25XCXbj4) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Uprise](https://open.spotify.com/album/6eHPDy2VsYcvOqQVrfKAK9) | 2:46 |
 | 27 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
 | 28 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 29 | [Killing Me Slowly](https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Killing Me Slowly](https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes) | 3:57 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 54 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 |
 | 55 | [Another Life](https://open.spotify.com/track/6TQkEzHzTtG2jO6TqPIIMc) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Another Life](https://open.spotify.com/album/3UW7A0HHlT5x5H0vLx4z27) | 3:39 |
 | 56 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
-| 57 | [Ghost Shaped People](https://open.spotify.com/track/3DTBBooSCMAo2OcUQeNt2n) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ghost Shaped People](https://open.spotify.com/album/4wqrKmVmZFZMXwc1lQyE7g) | 4:05 |
-| 58 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
+| 57 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
+| 58 | [Ghost Shaped People](https://open.spotify.com/track/3DTBBooSCMAo2OcUQeNt2n) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ghost Shaped People](https://open.spotify.com/album/4wqrKmVmZFZMXwc1lQyE7g) | 4:05 |
 | 59 | [Brand New Numb](https://open.spotify.com/track/4KTgD62vgozCfk2Inbo9fm) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Brand New Numb/Disguise](https://open.spotify.com/album/4v1UzWSBBr1RICtdwTIn7E) | 3:42 |
 | 60 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
 | 61 | [I'm Not Right](https://open.spotify.com/track/6WjD2x0UB9p9dgoZmRsh0o) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/48e7WM5EplXyxwcpya1jhm) | 3:47 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 116 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 117 | [Leave It All Behind](https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Leave It All Behind](https://open.spotify.com/album/76qwO2cPiwixGhfBnoGZFE) | 3:18 |
 | 118 | [Burn!](https://open.spotify.com/track/3PkosLobiLp6RymQ20mzq5) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Evolution](https://open.spotify.com/album/5MwckFZZCUtZE51d10XXbg) | 2:44 |
-| 119 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 |
-| 120 | [Wouldn't You Rather](https://open.spotify.com/track/6v3n1Ps1F3xnaiIgSdz98v) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Take The Crown](https://open.spotify.com/album/6DAFforPtoYDjndJxPaJUr) | 3:49 |
+| 119 | [Wouldn't You Rather](https://open.spotify.com/track/6v3n1Ps1F3xnaiIgSdz98v) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Take The Crown](https://open.spotify.com/album/6DAFforPtoYDjndJxPaJUr) | 3:49 |
+| 120 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 |
 
-Snapshot ID: `MTY0ODYwMjA5MCwwMDAwMDAwMDY3YzZmYmQyMWRlOTQzNzBhYWQwMjcwNGJkY2EwMjg1`
+Snapshot ID: `MTY0ODY4ODQzMywwMDAwMDAwMDAzODc5NzZkZDgzYjgwMmNlMjA2MmQxYWZhZWFiNmRi`

@@ -1,12 +1,12 @@
 {
   "description": "The pop leaning side of 2000s indie. Cover: Phoenix",
-  "num_followers": 270080,
+  "num_followers": 270293,
   "original_name": "Indie Pop 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk1MCwwMDAwMDAwMDIzOGIwNGRiODBkNmNkODEzNWI3ZDc1MzEyZTc1MWI1",
+  "snapshot_id": "MTY0ODY4ODI5OCwwMDAwMDAwMGUyZTYwZjc0ZTliNjIzMTA2NTM1OGFhNzhiMDhmZWMy",
   "tracks": [
     {
       "added_at": "2022-03-15 17:17:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-15 17:17:05",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
-    },
-    {
-      "added_at": "2022-03-15 17:17:05",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u"
+    },
+    {
+      "added_at": "2022-03-15 17:17:05",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
     },
     {
       "added_at": "2022-03-15 17:17:05",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-15 17:17:05",
       "album": {
-        "name": "Summer in Abaddon",
-        "url": "https://open.spotify.com/album/3XLn9BkDkwq4icsUye2Krp"
-      },
-      "artists": [
-        {
-          "name": "Pinback",
-          "url": "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "Fortress",
-      "url": "https://open.spotify.com/track/6HmTNg44SuMjv7o0PvM1Fs"
-    },
-    {
-      "added_at": "2022-03-15 17:17:05",
-      "album": {
         "name": "Walking On A Dream (Special Edition)",
         "url": "https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp"
       },
@@ -747,6 +731,38 @@
     {
       "added_at": "2022-03-15 17:17:05",
       "album": {
+        "name": "Summer in Abaddon",
+        "url": "https://open.spotify.com/album/3XLn9BkDkwq4icsUye2Krp"
+      },
+      "artists": [
+        {
+          "name": "Pinback",
+          "url": "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
+        }
+      ],
+      "duration_ms": 250226,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/6HmTNg44SuMjv7o0PvM1Fs"
+    },
+    {
+      "added_at": "2022-03-15 17:17:05",
+      "album": {
+        "name": "Transatlanticism",
+        "url": "https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA"
+    },
+    {
+      "added_at": "2022-03-15 17:17:05",
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 215373,
       "name": "Pachuca Sunrise",
       "url": "https://open.spotify.com/track/5UMC0HkqpmwarA1HZ7z3Ck"
-    },
-    {
-      "added_at": "2022-03-15 17:17:05",
-      "album": {
-        "name": "Transatlanticism",
-        "url": "https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "The New Year",
-      "url": "https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA"
     },
     {
       "added_at": "2022-03-15 17:17:05",

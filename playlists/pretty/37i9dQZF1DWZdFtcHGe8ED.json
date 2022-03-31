@@ -1,12 +1,12 @@
 {
   "description": "All the new tunes in the Thrash world.",
-  "num_followers": 354702,
+  "num_followers": 354750,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTYzNiwwMDAwMDAwMDBiOWE4Y2IxZTRlYmMwZjE1OGIxYWJhZDE4YTAyODdh",
+  "snapshot_id": "MTY0ODY4Nzk5MCwwMDAwMDAwMDRjNTQwNTlkNmJjYTdkMzFhOWY4MzBhYzViNmQyMWJi",
   "tracks": [
     {
       "added_at": "2022-03-10 20:37:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
         "name": "Left to Rot",
         "url": "https://open.spotify.com/album/1j6zq4Y2FHyVFmUS7I87mm"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+        "name": "I Sever",
+        "url": "https://open.spotify.com/album/0PzccQNvgYHMXKmMm5QtIi"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+      "duration_ms": 308173,
+      "name": "I Sever",
+      "url": "https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -511,22 +527,6 @@
       "duration_ms": 189360,
       "name": "Thrasher",
       "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
-        "name": "I Sever",
-        "url": "https://open.spotify.com/album/0PzccQNvgYHMXKmMm5QtIi"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "I Sever",
-      "url": "https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "The Beatings Will Continue (Until Morale Improves)",
-        "url": "https://open.spotify.com/album/7jdRD2iA3ZvD11rEGaJNFB"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "The Beatings Will Continue (Until Morale Improves)",
-      "url": "https://open.spotify.com/track/3IHyIb0FofYOCPrS7k924S"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "The Beatings Will Continue (Until Morale Improves)",
+        "url": "https://open.spotify.com/album/7jdRD2iA3ZvD11rEGaJNFB"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "The Beatings Will Continue (Until Morale Improves)",
+      "url": "https://open.spotify.com/track/3IHyIb0FofYOCPrS7k924S"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "Bombenhagel",
-        "url": "https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS"
+        "name": "Conquer Evil",
+        "url": "https://open.spotify.com/album/4jAmivpe2J42yYujDkeGzV"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Tulkas",
+          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
         }
       ],
-      "duration_ms": 366733,
-      "name": "Bombenhagel",
-      "url": "https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf"
+      "duration_ms": 278000,
+      "name": "Conquer Evil",
+      "url": "https://open.spotify.com/track/0YrUPBsQWhGCMHprN0ZmBP"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "Conquer Evil",
-        "url": "https://open.spotify.com/album/4jAmivpe2J42yYujDkeGzV"
-      },
-      "artists": [
-        {
-          "name": "Tulkas",
-          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Conquer Evil",
-      "url": "https://open.spotify.com/track/0YrUPBsQWhGCMHprN0ZmBP"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 210288,
       "name": "Activate",
       "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "Bombenhagel",
+        "url": "https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "Bombenhagel",
+      "url": "https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "Sodom & Gomorrah",
-        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Sodom & Gomorrah",
-      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Operation Misdirection",
         "url": "https://open.spotify.com/album/2ILFNiol36zJ17ZuiTYPMe"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 371693,
       "name": "Cadaver Decomposition Island",
       "url": "https://open.spotify.com/track/4AEOeqhIKJwYHrZLG8kZS6"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "Sodom & Gomorrah",
+        "url": "https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Sodom & Gomorrah",
+      "url": "https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 242660,
+      "name": "Interface with the Infinite",
+      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
         "name": "Metal II",
         "url": "https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 242660,
-      "name": "Interface with the Infinite",
-      "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Sacrilegious Pain",
         "url": "https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 216786,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Soul Sacrifice",
-      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
+        "name": "Phantom Force",
+        "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 179796,
+      "name": "Phantom Force",
+      "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Soul Sacrifice",
+      "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
         "name": "Bow Down To the Clowns",
         "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 237508,
       "name": "The Black Hand Reaches Out",
       "url": "https://open.spotify.com/track/3A0TVDGnROaCQdwwrADxYS"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
-        "name": "Phantom Force",
-        "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 179796,
-      "name": "Phantom Force",
-      "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "State of Apathy",
-        "url": "https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 226598,
-      "name": "State of Apathy",
-      "url": "https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Spread the Fire",
         "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 280224,
       "name": "For the Horde",
       "url": "https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "State of Apathy",
+        "url": "https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "duration_ms": 226598,
+      "name": "State of Apathy",
+      "url": "https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
+        "name": "Indoctrinate",
+        "url": "https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "Indoctrinate",
+      "url": "https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
         "name": "Bleeding Out",
         "url": "https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 231467,
       "name": "Vanguardian",
       "url": "https://open.spotify.com/track/79E5z2MEFopfp422zFzgcg"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
-        "name": "Indoctrinate",
-        "url": "https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo"
-      },
-      "artists": [
-        {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
-        }
-      ],
-      "duration_ms": 339253,
-      "name": "Indoctrinate",
-      "url": "https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
+        "name": "Cabaret De La Guillotine",
+        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 365866,
+      "name": "Betrayed",
+      "url": "https://open.spotify.com/track/2WZbwWB05tnjUzJHt4KL4H"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
         "name": "Bloody Rain",
         "url": "https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 351575,
       "name": "Mania",
       "url": "https://open.spotify.com/track/1Hi1WFQ9Ro26gi1H5yT9Ci"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
-        "name": "Cabaret De La Guillotine",
-        "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
-      },
-      "artists": [
-        {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
-        }
-      ],
-      "duration_ms": 365866,
-      "name": "Betrayed",
-      "url": "https://open.spotify.com/track/2WZbwWB05tnjUzJHt4KL4H"
     },
     {
       "added_at": "2022-03-10 20:37:16",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-03-10 20:37:16",
       "album": {
-        "name": "Trapped in Chaos",
-        "url": "https://open.spotify.com/album/3kutY8R8gVijhDN1WOBQUB"
-      },
-      "artists": [
-        {
-          "name": "Dust Bolt",
-          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
-        }
-      ],
-      "duration_ms": 243915,
-      "name": "Trapped in Chaos",
-      "url": "https://open.spotify.com/track/294RpKWjeQbzjzUZssLoXR"
-    },
-    {
-      "added_at": "2022-03-10 20:37:16",
-      "album": {
         "name": "Ethereal Nightmare",
         "url": "https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 365706,
       "name": "Ethereal Nightmare",
       "url": "https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ"
+    },
+    {
+      "added_at": "2022-03-10 20:37:16",
+      "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/3Ych9a6MRd6LNs1uHyoyoU"
     }
   ],
   "unique_name": "Thrashers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Nicky Youre & David Hugo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,910 likes - 102 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,964 likes - 102 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

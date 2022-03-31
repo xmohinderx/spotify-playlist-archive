@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,934 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,915 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 4 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 |
 | 5 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Top Latino Navidad](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:30 |
 | 6 | [Ven A Cantar](https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Arianna](https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8), [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y), [Hernaldo Zuniga](https://open.spotify.com/artist/42vpZLi12oBjp8MuFFkirS), [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:59 |
-| 7 | [Santa Baby \(Spanish\)](https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 2:45 |
-| 8 | [El Burrito De Belén](https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg) | 3:11 |
-| 9 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 |
+| 7 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 |
+| 8 | [Santa Baby \(Spanish\)](https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 2:45 |
+| 9 | [El Burrito De Belén](https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg) | 3:11 |
 | 10 | [Santa, Te Espero A Las 10](https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Santa, Te Espero A Las 10](https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi) | 2:33 |
 | 11 | [Así Es La Navidad](https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Así Es La Navidad](https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf) | 3:09 |
 | 12 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 65 | [Esta Navidad](https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esta Navidad](https://open.spotify.com/album/5zw4mHXQxQDEKh1hUTBUvy) | 3:50 |
 | 66 | [Este Diciembre](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Este Diciembre](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
 
-Snapshot ID: `MTY0ODYwMTc4MiwwMDAwMDAwMDczMjc0NzI4NDIyZTY3NWQ0ZDU1MzY1MzBjNjJlMDBi`
+Snapshot ID: `MTY0ODY4ODEzNSwwMDAwMDAwMGQyZDcxMjUyMjM5NzcyYTA4Y2Y4ZjY1ZjE0YjZlMWU3`

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 185251,
+  "num_followers": 185259,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTg4MiwwMDAwMDAwMDc0OGM3MDhkN2VhYjZlZTEyNTE2OWMxODNlZDkyZDBk",
+  "snapshot_id": "MTY0ODY4ODIzMiwwMDAwMDAwMDQ0YzExY2UzMzI1ZmQ5YzJmN2FkZWNjZTkzYWZhMTcw",
   "tracks": [
     {
       "added_at": "2021-11-19 16:52:02",
@@ -251,6 +251,26 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
+        "name": "Jag m\u00e5r bra nu (feat. Newkid)",
+        "url": "https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 189441,
+      "name": "Jag m\u00e5r bra nu (feat. Newkid)",
+      "url": "https://open.spotify.com/track/247LJ2oARxtQuFAlbPIx79"
+    },
+    {
+      "added_at": "2021-11-19 16:52:02",
+      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 196849,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/0lixDLKnErIvmoeqmdm0Di"
-    },
-    {
-      "added_at": "2021-11-19 16:52:02",
-      "album": {
-        "name": "Jag m\u00e5r bra nu (feat. Newkid)",
-        "url": "https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        }
-      ],
-      "duration_ms": 189441,
-      "name": "Jag m\u00e5r bra nu (feat. Newkid)",
-      "url": "https://open.spotify.com/track/247LJ2oARxtQuFAlbPIx79"
     },
     {
       "added_at": "2021-11-19 16:52:02",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0O2tiR10gbrCgORjVWiSX4"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Nathaniel",
-          "url": "https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE"
-        }
-      ],
-      "duration_ms": 147203,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3pRRXFGlAQ5yNnLQV9pMqV"
-    },
-    {
-      "added_at": "2021-11-19 16:52:02",
-      "album": {
         "name": "Think You Should",
         "url": "https://open.spotify.com/album/7itxK8CyOVj7nJEMlqWFYv"
       },
@@ -1195,6 +1175,42 @@
     {
       "added_at": "2021-11-19 16:52:02",
       "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
+    },
+    {
+      "added_at": "2021-11-19 16:52:02",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0O2tiR10gbrCgORjVWiSX4"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Nathaniel",
+          "url": "https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE"
+        }
+      ],
+      "duration_ms": 147203,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3pRRXFGlAQ5yNnLQV9pMqV"
+    },
+    {
+      "added_at": "2021-11-19 16:52:02",
+      "album": {
         "name": "Down Under",
         "url": "https://open.spotify.com/album/2G98Mtl6h6ONfPLldnGz3y"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 202802,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/0K3F6uP4XEmYSAPvpSDx7J"
-    },
-    {
-      "added_at": "2021-11-19 16:52:02",
-      "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
     },
     {
       "added_at": "2021-11-19 16:52:02",

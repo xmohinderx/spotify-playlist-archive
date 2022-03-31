@@ -3132,6 +3132,36 @@
     },
     {
       "album": {
+        "name": "Only One I Need (Sunny Lax Remix)",
+        "url": "https://open.spotify.com/album/0F4sVHcV5SIKXmQJsj5nQz"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Thomas Laurent",
+          "url": "https://open.spotify.com/artist/5tIz2pifqzGGWEDKOrrmoE"
+        },
+        {
+          "name": "Sunny Lax",
+          "url": "https://open.spotify.com/artist/0cCOt2mcZfspvOOhY8TdmD"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343759,
+      "name": "Only One I Need - Sunny Lax Remix",
+      "url": "https://open.spotify.com/track/0bPNeiwFcpj1Kg3BbkBzO6"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB"
       },

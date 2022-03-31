@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: \u00c1urea Martins",
-  "num_followers": 310032,
+  "num_followers": 310083,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQ1NSwwMDAwMDAwMDFiNWE1ZWU0NmQwZDMxMjE3ZjliMzEyYjllMGM0Njcz",
+  "snapshot_id": "MTY0ODY4NzgxMSwwMDAwMDAwMGEwZTYyNzM3YmQ2NjI4MDU3MmRhZjI2ZTU2YmM4YjQ2",
   "tracks": [
     {
       "added_at": "2022-03-21 17:10:27",
@@ -243,38 +243,6 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Portas",
-      "url": "https://open.spotify.com/track/7rbAmQfqxxrdmxqjBcN2qA"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -291,22 +259,18 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
-        "name": "C\u00e9u Lil\u00e1s - Na Estrada",
-        "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 218822,
-      "name": "Na Estrada",
-      "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2022-03-21 17:10:27",
@@ -331,6 +295,42 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Portas",
+      "url": "https://open.spotify.com/track/7rbAmQfqxxrdmxqjBcN2qA"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
+        "name": "C\u00e9u Lil\u00e1s - Na Estrada",
+        "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 218822,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
         "name": "Psiu",
         "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 297128,
       "name": "Psiu",
       "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2022-03-21 17:10:27",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
         "name": "No Teu Pesco\u00e7o",
         "url": "https://open.spotify.com/album/4bExdXqjkMhEV4TLZQbkM4"
       },
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Vento Sardo",
-      "url": "https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3l2TdM4HyHoifHzpfzhvaT"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Vento Sardo",
+      "url": "https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm"
     },
     {
       "added_at": "2022-03-21 17:10:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
         "name": "Fim de Festa",
         "url": "https://open.spotify.com/album/16qYsJWglReW0Fl0R26X33"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-03-21 17:10:27",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-03-21 17:10:27",
       "album": {
+        "name": "Garota da Linha Azul",
+        "url": "https://open.spotify.com/album/42bxJst8CSq0kI5631QbkY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Garota da Linha Azul",
+      "url": "https://open.spotify.com/track/7KKPApvO78DY3bhqbZzAa5"
+    },
+    {
+      "added_at": "2022-03-21 17:10:27",
+      "album": {
         "name": "Um Gosto de Sol",
         "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
-    },
-    {
-      "added_at": "2022-03-21 17:10:27",
-      "album": {
-        "name": "Garota da Linha Azul",
-        "url": "https://open.spotify.com/album/42bxJst8CSq0kI5631QbkY"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Garota da Linha Azul",
-      "url": "https://open.spotify.com/track/7KKPApvO78DY3bhqbZzAa5"
     },
     {
       "added_at": "2022-03-21 17:10:27",

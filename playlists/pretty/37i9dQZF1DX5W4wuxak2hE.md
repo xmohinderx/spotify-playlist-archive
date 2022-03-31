@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,184 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,270 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 23 | [Ah! Leah!](https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ) | [Donnie Iris](https://open.spotify.com/artist/4kveDT8ylFciq1mdeYcIvw) | [20th Century Masters: The Millennium Collection: Best of Donnie Iris](https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF) | 3:42 |
 | 24 | [Shake Some Action](https://open.spotify.com/track/0Afai8u1STCaDyTTm1gEZf) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Shake Some Action](https://open.spotify.com/album/2loCCINymjZGU1Q80ik7hP) | 4:33 |
 | 25 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 |
-| 26 | [Alex Chilton](https://open.spotify.com/track/3RsKDyykKDIZ4PVzsO4nno) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Random Noise](https://open.spotify.com/album/6ju0T4frATMN2SeZMutywF) | 3:15 |
-| 27 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
-| 28 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
-| 29 | [Veronica](https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Spike](https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr) | 3:09 |
-| 30 | [It's Different For Girls](https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [I'm The Man](https://open.spotify.com/album/4lHIeu4qr5nSmgaZrZEDtB) | 3:42 |
-| 31 | [No Myth](https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH) | [Michael Penn](https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG) | [March](https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO) | 4:09 |
+| 26 | [Veronica](https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Spike](https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr) | 3:09 |
+| 27 | [Alex Chilton](https://open.spotify.com/track/3RsKDyykKDIZ4PVzsO4nno) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Random Noise](https://open.spotify.com/album/6ju0T4frATMN2SeZMutywF) | 3:15 |
+| 28 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 29 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
+| 30 | [No Myth](https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH) | [Michael Penn](https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG) | [March](https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO) | 4:09 |
+| 31 | [It's Different For Girls](https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [I'm The Man](https://open.spotify.com/album/4lHIeu4qr5nSmgaZrZEDtB) | 3:42 |
 | 32 | [She Bangs the Drums \- Remastered](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 33 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
 | 34 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 49 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 50 | [Day After Day \- Remastered 2010](https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:11 |
 
-Snapshot ID: `MTY0ODYwMTgzMSwwMDAwMDAwMDAxNWMzZmU0MzM5ZTkxZjIyZGMxMTBjZGQ5OGIxNDI5`
+Snapshot ID: `MTY0ODY4ODE4MiwwMDAwMDAwMDgxNzhhYmFlMDdiMmQzODQwOGE5MTAwN2RlZjdmMWE5`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. Cover: \u00d6wnboss & Sevek",
-  "num_followers": 824087,
+  "num_followers": 824278,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQ4OSwwMDAwMDAwMDIxNGJmNzgwNGUwNzcxODUyZTAzMTc2MmM5N2FmYzY3",
+  "snapshot_id": "MTY0ODY4Nzg0NiwwMDAwMDAwMGJhNDdjMGM5M2JlMjBiMmJkMDljOTY3YmRjY2Q4MDVh",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Lied To",
+        "url": "https://open.spotify.com/album/6wDZbTmVURNdkRNi232c1M"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "Lied To",
+      "url": "https://open.spotify.com/track/45zbPKZIdjYvo1Q14z6uQx"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Have Me All (feat. Jelita)",
         "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 180967,
       "name": "Lose CTRL (feat. Sash Sings)",
       "url": "https://open.spotify.com/track/1dK5t2UGFfEAY7vBDb75Gz"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lied To",
-        "url": "https://open.spotify.com/album/6wDZbTmVURNdkRNi232c1M"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Jess Ball",
-          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "Lied To",
-      "url": "https://open.spotify.com/track/45zbPKZIdjYvo1Q14z6uQx"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 171984,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Gotta Let U Go",
         "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 171984,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88"
     },
     {
       "added_at": "2022-03-18 05:00:00",

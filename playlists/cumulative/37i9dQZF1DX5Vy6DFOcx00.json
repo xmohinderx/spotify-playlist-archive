@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
@@ -3488,6 +3488,24 @@
     },
     {
       "album": {
+        "name": "RIP, Love",
+        "url": "https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173942,
+      "name": "RIP, Love",
+      "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"
+    },
+    {
+      "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 142280,
       "name": "Super Urus",
       "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
@@ -3963,6 +3981,24 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "album": {
+        "name": "Tamagotchi",
+        "url": "https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3"
     },
     {
       "album": {
@@ -4581,7 +4617,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"

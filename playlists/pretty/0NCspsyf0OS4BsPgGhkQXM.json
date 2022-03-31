@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2041907,
+  "num_followers": 2041836,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE1MTIsNTJmMDA3YWI4OTk4ZWEwZDliOTBiYjc5NTJkYTQxYTY2YjYyMDQ2OQ==",
+  "snapshot_id": "MTE1MTQsM2UzMmFmNTI2NmQ3YWZhMThhYzM3OWQ1MTBlYmRhNzFlYzJiYmM4NQ==",
   "tracks": [
     {
       "added_at": "2022-03-23 15:58:39",
@@ -131,6 +131,34 @@
       "duration_ms": 155200,
       "name": "Would U",
       "url": "https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0"
+    },
+    {
+      "added_at": "2022-03-30 04:26:23",
+      "album": {
+        "name": "Only One I Need (Sunny Lax Remix)",
+        "url": "https://open.spotify.com/album/0F4sVHcV5SIKXmQJsj5nQz"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Thomas Laurent",
+          "url": "https://open.spotify.com/artist/5tIz2pifqzGGWEDKOrrmoE"
+        },
+        {
+          "name": "Sunny Lax",
+          "url": "https://open.spotify.com/artist/0cCOt2mcZfspvOOhY8TdmD"
+        }
+      ],
+      "duration_ms": 343759,
+      "name": "Only One I Need - Sunny Lax Remix",
+      "url": "https://open.spotify.com/track/0bPNeiwFcpj1Kg3BbkBzO6"
     },
     {
       "added_at": "2022-03-23 15:58:39",

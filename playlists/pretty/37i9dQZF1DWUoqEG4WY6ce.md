@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Road trip tracks...
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,537 likes - 89 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,960 likes - 89 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 10 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 11 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 |
 | 12 | [Ragged Wood](https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 5:07 |
-| 13 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 |
+| 13 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 |
 | 14 | [Kyoto](https://open.spotify.com/track/4m32ZYmSYgGziMwx3cJxS7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Kyoto](https://open.spotify.com/album/7cqPPWhhwZyQdxIUTQhWC8) | 3:04 |
-| 15 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 |
+| 15 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 |
 | 16 | [Sunday Funday](https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Sunday Funday](https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH) | 4:16 |
 | 17 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 18 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 30 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
 | 31 | [No Woman](https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 3:57 |
 | 32 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 |
-| 33 | [Katie Queen Of Tennessee](https://open.spotify.com/track/5iXuX70Sxp6sKdumBcQQW7) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/239UV8PJLsEaJfcNM4T7rb) | 3:24 |
-| 34 | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/4onPyHor2yOlVxCsIaGyHH) | 3:03 |
-| 35 | [All The Time](https://open.spotify.com/track/40WXqoyOLAAugGmJWZU1FY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:54 |
+| 33 | [All The Time](https://open.spotify.com/track/40WXqoyOLAAugGmJWZU1FY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:54 |
+| 34 | [Katie Queen Of Tennessee](https://open.spotify.com/track/5iXuX70Sxp6sKdumBcQQW7) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/239UV8PJLsEaJfcNM4T7rb) | 3:24 |
+| 35 | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/4onPyHor2yOlVxCsIaGyHH) | 3:03 |
 | 36 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 |
 | 37 | [Australia](https://open.spotify.com/track/6OwwTVRndoy9aoDxsmrteR) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Zl638FA70c4Oxh4AimZLh) | 3:56 |
 | 38 | [The Gold \- Nick Waterhouse Remix](https://open.spotify.com/track/0RhJzeWQHRbJ8H9q0Bk9jm) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [The Gold \(Nick Waterhouse Remix\)](https://open.spotify.com/album/2gPXq974PUbF7xPsFTfpS4) | 4:09 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 80 | [Demon's Cave](https://open.spotify.com/track/3GJhE5Y54FYX0np1j4eyiD) | [Roy Irwin](https://open.spotify.com/artist/3X1lDZJlULIxf63AQBFeHb) | [S.O.D.A.](https://open.spotify.com/album/43zc3FNolU7d7oo6ITPt8s) | 2:18 |
 | 81 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
 | 82 | [Café Amarillo](https://open.spotify.com/track/13KkPgATUmUh4b1vWjkNTB) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:23 |
-| 83 | [Living Room](https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Living Room](https://open.spotify.com/album/2mWvsZ54QOniV2kWpDkUBQ) | 3:05 |
-| 84 | [When My Time Comes](https://open.spotify.com/track/6y9Jj7NVcBOCsnn9Ps2CPN) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/3ca8rTTGzriBOcq2JnHchZ) | 5:08 |
+| 83 | [When My Time Comes](https://open.spotify.com/track/6y9Jj7NVcBOCsnn9Ps2CPN) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/3ca8rTTGzriBOcq2JnHchZ) | 5:08 |
+| 84 | [Living Room](https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Living Room](https://open.spotify.com/album/2mWvsZ54QOniV2kWpDkUBQ) | 3:05 |
 | 85 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
 | 86 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 |
 | 87 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 88 | [Falling Thunder](https://open.spotify.com/track/3tfbS5ClqpsmSStP9kMlr0) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sideways to New Italy](https://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0) | 4:05 |
 | 89 | [Bring My Baby Back](https://open.spotify.com/track/70WY0OFaz7293OjqeUPJnL) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [The Psychedelic Swamp](https://open.spotify.com/album/6h2wQk5NSOvLdeNSDZnGR4) | 3:48 |
 
-Snapshot ID: `MTY0ODYwMTQ4OSwwMDAwMDAwMGZiNzUzNDM1YTY3NjQ5MzBlYzRjODZiODJiOWU4NDYz`
+Snapshot ID: `MTY0ODY4Nzg0NSwwMDAwMDAwMDdiMjQzMWEzMjY1NDA5YzEyYmU5N2VhYzIzMmY4ZmQ0`

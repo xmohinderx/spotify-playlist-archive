@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,945 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,228 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 20 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
 | 21 | [Balls to the Wall](https://open.spotify.com/track/28sMmBCmfHoy6NjZnovEYG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 5:42 |
 | 22 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
-| 23 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
-| 24 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
+| 23 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
+| 24 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 25 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 | 26 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
 | 27 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 48 | [Gasoline](https://open.spotify.com/track/7gDi3mxcBa0QXRZ20uWXMb) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/5bS8kLirDX380TztuopXkH) | 3:34 |
 | 49 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 50 | [Renegades](https://open.spotify.com/track/3RyH5KkHlzSC5g1Ddi30ew) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Renegades](https://open.spotify.com/album/6MGBUxrzvMzBm7fS7ytyPY) | 3:40 |
-| 51 | [Billy Balloon Head](https://open.spotify.com/track/6N9I99DVC1fLWYao7ZEieI) | [Massive Wagons](https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP) | [Billy Balloon Head](https://open.spotify.com/album/1aKStgyIGYDENPrer1bOeX) | 4:37 |
-| 52 | [Don't Tell Me How To Live](https://open.spotify.com/track/38km9hpN3FHdapBCLOQ1e4) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Sittin' Heavy](https://open.spotify.com/album/22qWqtxxDXwLfv33xzXxAX) | 4:26 |
+| 51 | [Don't Tell Me How To Live](https://open.spotify.com/track/38km9hpN3FHdapBCLOQ1e4) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Sittin' Heavy](https://open.spotify.com/album/22qWqtxxDXwLfv33xzXxAX) | 4:26 |
+| 52 | [Billy Balloon Head](https://open.spotify.com/track/6N9I99DVC1fLWYao7ZEieI) | [Massive Wagons](https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP) | [Billy Balloon Head](https://open.spotify.com/album/1aKStgyIGYDENPrer1bOeX) | 4:37 |
 | 53 | [It’s Electric](https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [It’s Electric](https://open.spotify.com/album/1OkYZGeYAH4wbHRcTrkQrS) | 3:18 |
 | 54 | [She Won't Let You Go](https://open.spotify.com/track/2VQu9SsyDcJg3UcyeGqiAQ) | [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7) | [She Won't Let You Go](https://open.spotify.com/album/5z6VODv8ibBcqM78ndTWg8) | 3:38 |
 | 55 | [Flowers On A Grave](https://open.spotify.com/track/3oQYe7FdyIzyQXZtoO0TPc) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Flowers On A Grave](https://open.spotify.com/album/2Kvbw8Jz6jTr6rqCsNottI) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Children of the Grave](https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2009 Remastered Version\)](https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5) | 5:14 |
 | 75 | [The Man](https://open.spotify.com/track/2hpNPPYMIJ732VtiNrcivx) | [Small Town Titans](https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on) | [The Man](https://open.spotify.com/album/5mXXrL1rozwbCX8WGlbXip) | 4:00 |
 
-Snapshot ID: `MTY0ODYwMjA2NSwwMDAwMDAwMDNkMGNkODVjY2ZhZGQxODdiYmM5MWUwNWY0NGQzZjE4`
+Snapshot ID: `MTY0ODY4ODQwOCwwMDAwMDAwMDgzOGFhMGQzYTk4ZThkZjY5ODFmZjM3YTZhNGZiZWMz`

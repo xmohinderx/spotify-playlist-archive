@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,901 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,302 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,19 +58,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 48 | ["45"](https://open.spotify.com/track/4t6TpdXtVh5pmwU6qHvSh3) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Special Edition\)](https://open.spotify.com/album/3r72jse8ygMisgT7LHPTPX) | 3:27 |
 | 49 | [Double Arrows Down](https://open.spotify.com/track/5hu0I0RQ1Lbj7lhG3FATIu) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:25 |
 | 50 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
-| 51 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
-| 52 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/2CLmqGqTk9okK3N4hthCiw) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/4xiQhTIvE0MqnzbE5wNHja) | 3:46 |
-| 53 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
-| 54 | [Clear The Air](https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [In Desolation](https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW) | 3:47 |
-| 55 | [Back of Your Head](https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi) | [Screeching Weasel](https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs) | [Some Freaks Of Atavism](https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ) | 1:59 |
+| 51 | [Back of Your Head](https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi) | [Screeching Weasel](https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs) | [Some Freaks Of Atavism](https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ) | 1:59 |
+| 52 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
+| 53 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/2CLmqGqTk9okK3N4hthCiw) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/4xiQhTIvE0MqnzbE5wNHja) | 3:46 |
+| 54 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
+| 55 | [Clear The Air](https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [In Desolation](https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW) | 3:47 |
 | 56 | [Dippy Egg](https://open.spotify.com/track/5ApJ6uoCkLVRDHYu4RoMpW) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [Dippy Egg](https://open.spotify.com/album/0CfC3uT4MA7yuzv0P6YvRv) | 2:32 |
 | 57 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 58 | [Rookie](https://open.spotify.com/track/7IWy06GHpq6drrrQfyXMNF) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/65aFkblR9fIeqO6aOFSrfq) | 4:13 |
-| 59 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 |
-| 60 | [Quarantine](https://open.spotify.com/track/7cpCYJ7oiUMhgalxSZmNdf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Quarantine](https://open.spotify.com/album/3E5dV3odSZ3V6kqrp6zYlC) | 2:02 |
-| 61 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
-| 62 | [Beat Your Heart Out](https://open.spotify.com/track/4ut0TJ2w4uBoiIdX1uzVTB) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(Alternate Cover PA Version\)](https://open.spotify.com/album/1c4fH0GPGQJs4RxfmBLxia) | 2:49 |
-| 63 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
+| 59 | [Quarantine](https://open.spotify.com/track/7cpCYJ7oiUMhgalxSZmNdf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Quarantine](https://open.spotify.com/album/3E5dV3odSZ3V6kqrp6zYlC) | 2:02 |
+| 60 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
+| 61 | [Beat Your Heart Out](https://open.spotify.com/track/4ut0TJ2w4uBoiIdX1uzVTB) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(Alternate Cover PA Version\)](https://open.spotify.com/album/1c4fH0GPGQJs4RxfmBLxia) | 2:49 |
+| 62 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
+| 63 | [Keep on Chasing](https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:03 |
 | 64 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 |
 | 65 | [Two Notes Shy of an Octave](https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH) | [Red City Radio](https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL) | [Titles](https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq) | 3:03 |
 | 66 | [Live While You Can](https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [The Impression That I Get](https://open.spotify.com/track/2F5r18ZlLUBqnt0jjhhETm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/2ZQT4irYHOexoqjzIZXipB) | 3:14 |
 | 100 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 |
 
-Snapshot ID: `MTY0ODYwMTc1OSwwMDAwMDAwMDRhMzE4YWFmOTcxY2FlYjgzMWY2NmIzNDNlN2MwZmFh`
+Snapshot ID: `MTY0ODY4ODExNCwwMDAwMDAwMDIxYWMzYTFjOTYxNzA0YWUwNmQ0ZTkyN2FkYjc1MzI2`

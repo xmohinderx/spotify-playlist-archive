@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,527 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,690 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,21 +79,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 69 | [My Will Be Done](https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The March](https://open.spotify.com/album/708sfirbWrGGssUqiq8Gie) | 3:37 |
 | 70 | [Walk with Me In Hell](https://open.spotify.com/track/6vjvewW34Y3UiGQtJokGlY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:11 |
 | 71 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
-| 72 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
-| 73 | [Pussy](https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:59 |
+| 72 | [Pussy](https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:59 |
+| 73 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
 | 74 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 |
-| 75 | [I Walk Alone](https://open.spotify.com/track/5m8JHIXmasB1qOPCzfGVBr) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Spirit Black](https://open.spotify.com/album/0ezO6QpuvVt2DllNB8AUsV) | 4:27 |
-| 76 | [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 |
-| 77 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
-| 78 | [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 |
-| 79 | [Spellbound](https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Shallow Life](https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0) | 3:21 |
-| 80 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 |
+| 75 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 |
+| 76 | [I Walk Alone](https://open.spotify.com/track/5m8JHIXmasB1qOPCzfGVBr) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Spirit Black](https://open.spotify.com/album/0ezO6QpuvVt2DllNB8AUsV) | 4:27 |
+| 77 | [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 |
+| 78 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
+| 79 | [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 |
+| 80 | [Spellbound](https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Shallow Life](https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0) | 3:21 |
 | 81 | [Lay Down](https://open.spotify.com/track/2HaDds0IU8Iy1hSb6L7VoT) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/3PRkWYgWkSGdEtLA1kQmDm) | 3:05 |
 | 82 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 |
 | 83 | [Shockwave](https://open.spotify.com/track/7rxFdAdDflJZMXZCkGAlNp) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Light From Above](https://open.spotify.com/album/3x9uRyWv85nlIf7CVCTDqz) | 3:37 |
-| 84 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
-| 85 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
-| 86 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 84 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
+| 85 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
+| 86 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
 | 87 | [On Earth](https://open.spotify.com/track/2hsppoOzpkO52cMTYxfwUo) | [Samael](https://open.spotify.com/artist/1WXagRGw8AveVrRxDfUjli) | [Reign of Light](https://open.spotify.com/album/7hX3o4ObrVtGBh5Xvb2iBA) | 4:03 |
 | 88 | [Sinner](https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 2:27 |
 | 89 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 149 | [Alcohaulin' Ass](https://open.spotify.com/track/1OXzwmEPLq7cR6J6sbcLto) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [HELLYEAH](https://open.spotify.com/album/2aUYb3rhe78BvvUdyJuIh8) | 3:54 |
 | 150 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
 
-Snapshot ID: `MTY0ODYwMTQ5MCwwMDAwMDAwMGZkZjFiMWE0MTA5NGRhYjNkOTBiMDk3MWVmYzBjNDY3`
+Snapshot ID: `MTY0ODY4Nzg0NywwMDAwMDAwMGNiYWFiMGExMWUxOTYwMmJmMDA1YzM5MmQ4NmMxZWNk`

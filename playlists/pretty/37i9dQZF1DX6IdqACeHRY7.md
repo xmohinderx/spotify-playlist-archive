@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,313 likes - 114 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,318 likes - 114 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 6 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
 | 7 | [If That's Alright](https://open.spotify.com/track/1PZG9IBZMCY6HdK2v8kSYo) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/0N45Hx7WHKubuoOVWUzgSH) | 3:55 |
 | 8 | [Svag](https://open.spotify.com/track/5SY5BWTxbDqFouuAdelFV9) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Svag](https://open.spotify.com/album/1ziSjnoTBS1nSkBouFNjGU) | 3:11 |
-| 9 | [Everywhere](https://open.spotify.com/track/4NAkSJTQ8yVHOrzCjNfp3I) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk) | 2:18 |
+| 9 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
 | 10 | [Fin Regn](https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Fin Regn](https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6) | 3:21 |
-| 11 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
+| 11 | [Everywhere](https://open.spotify.com/track/4NAkSJTQ8yVHOrzCjNfp3I) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk) | 2:18 |
 | 12 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
 | 13 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/0agVqdVtJx6paNYSplVvpq) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/5470dPg8Z5zWC3XtLAkHEW) | 3:32 |
 | 14 | [Follow You](https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Follow You](https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu) | 3:17 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 22 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
 | 23 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 24 | [Take You Home](https://open.spotify.com/track/6V7dNVUExZ1z1TCHYxLrHg) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Take You Home](https://open.spotify.com/album/235t3rItvh7FSrtI2SuEUG) | 3:13 |
-| 25 | [Hollow Days \- Acoustic](https://open.spotify.com/track/714uY0TGFUPF2DMNK7NNMs) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Hollow Days \(Acoustic\)](https://open.spotify.com/album/5KO6hcgN3Jk2z3InMQKOa8) | 2:42 |
-| 26 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 |
+| 25 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 |
+| 26 | [Hollow Days \- Acoustic](https://open.spotify.com/track/714uY0TGFUPF2DMNK7NNMs) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Hollow Days \(Acoustic\)](https://open.spotify.com/album/5KO6hcgN3Jk2z3InMQKOa8) | 2:42 |
 | 27 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 |
 | 28 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 29 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 114 | [Hold Back The River](https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 |
 
-Snapshot ID: `MTY0ODYwMTg1NiwwMDAwMDAwMGMzZWM2ZmVjMDY2MzViNmE5NDI0MjNkZDQwNjExMDI1`
+Snapshot ID: `MTY0ODY4ODIwNywwMDAwMDAwMDEzODQxZGQzZTZjMWU3MmNiMmFjMjYyZDk2NGJlMDk5`

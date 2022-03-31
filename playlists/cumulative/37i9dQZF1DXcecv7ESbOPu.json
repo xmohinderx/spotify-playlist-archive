@@ -6172,6 +6172,24 @@
     },
     {
       "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/1nFFor9s4KzIOOmGC7G0c9"
+      },
+      "artists": [
+        {
+          "name": "Evert Mob",
+          "url": "https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Det var du (Paradis)",
+      "url": "https://open.spotify.com/track/14D7kqAiCNXcoNeIAtutGn"
+    },
+    {
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD"
       },
@@ -19991,24 +20009,6 @@
       "duration_ms": 192864,
       "name": "Pappersvingar",
       "url": "https://open.spotify.com/track/0w3bijepJKY8WZIlV28z0s"
-    },
-    {
-      "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/1nFFor9s4KzIOOmGC7G0c9"
-      },
-      "artists": [
-        {
-          "name": "Evert Mob",
-          "url": "https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN"
-        }
-      ],
-      "date_added": "2022-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234200,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/14D7kqAiCNXcoNeIAtutGn"
     },
     {
       "album": {

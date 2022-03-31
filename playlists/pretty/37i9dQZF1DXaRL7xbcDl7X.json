@@ -1,12 +1,12 @@
 {
   "description": "a new wave of indie born on the internet. Cover: Lovejoy",
-  "num_followers": 307635,
+  "num_followers": 307652,
   "original_name": "the INDIEnet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk4NCwwMDAwMDAwMGZkNTU4NTQyMWE3MzFlOTEwMzAwZjA4YTFhOThkY2M1",
+  "snapshot_id": "MTY0ODY4ODMzMSwwMDAwMDAwMGIwNTA3YmMzMDA4N2NiZWVmZmZjNWZmOWNlZjU0MjIz",
   "tracks": [
     {
       "added_at": "2021-08-02 18:28:42",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "Montgomery Ricky",
         "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 224543,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/1FWoak0OgTq1jrYfRKfXsj"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -535,38 +535,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/5ErtQGRKEibK2WHaA729O8"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Loving Is Easy",
         "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
       },
@@ -587,6 +555,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/5ErtQGRKEibK2WHaA729O8"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 206974,
+      "name": "Corduroy Dreams",
+      "url": "https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "we just need some time together",
         "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 206974,
-      "name": "Corduroy Dreams",
-      "url": "https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "we fell in love in october / forget her",
         "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 195840,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2021-08-24 23:45:03",
@@ -791,22 +807,6 @@
       "duration_ms": 153293,
       "name": "blind",
       "url": "https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2021-08-02 18:28:42",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
-      "added_at": "2021-09-22 21:53:22",
-      "album": {
-        "name": "The Shave Experiment",
-        "url": "https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Take Me Where Your Heart Is",
-      "url": "https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI"
-    },
-    {
       "added_at": "2021-08-24 23:45:03",
       "album": {
         "name": "Be the Cowboy",
@@ -903,6 +887,22 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2021-09-22 21:53:22",
+      "album": {
+        "name": "The Shave Experiment",
+        "url": "https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Take Me Where Your Heart Is",
+      "url": "https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 205049,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/3S5mohVxC0Xuj0tgZ7vU7g"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
     },
     {
       "added_at": "2021-09-10 23:22:09",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "Bad Contestant",
-        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "Prom Queen",
         "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Arms Tonite",
-      "url": "https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
         "name": "our little angel - EP",
         "url": "https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6"
       },
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2021-08-02 18:28:42",
       "album": {
+        "name": "Bad Contestant",
+        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
         "name": "moment",
         "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
       },
@@ -1351,6 +1335,38 @@
       "duration_ms": 129543,
       "name": "moment",
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Arms Tonite",
+      "url": "https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah"
+    },
+    {
+      "added_at": "2021-08-02 18:28:42",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
     },
     {
       "added_at": "2021-09-10 23:22:09",
@@ -1383,22 +1399,6 @@
       "duration_ms": 187133,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2021-08-02 18:28:42",
-      "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
     },
     {
       "added_at": "2021-08-02 18:28:42",

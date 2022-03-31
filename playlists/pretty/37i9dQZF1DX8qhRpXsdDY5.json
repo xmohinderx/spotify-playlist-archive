@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: El Alfa",
-  "num_followers": 189188,
+  "num_followers": 189161,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTkzMywwMDAwMDAwMDQ3MDRiN2JlMTIzZTIyYzIwMTI0ODkxZDcyYTYzODg3",
+  "snapshot_id": "MTY0ODY4ODI4MiwwMDAwMDAwMDUxZTc4NGY5ZWUzN2ZjMzA4MGM3ZTU2OWMyNzYxOWZh",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Aires De Navidad",
+      "url": "https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Navidades Luis Miguel",
         "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 187026,
       "name": "Mi Mejor Regalo Eres Tu (feat. Maldita Nerea) - Christmas Bonus Track",
       "url": "https://open.spotify.com/track/2Olrd2M87tQSbsOTCIqSNT"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Aires De Navidad",
-      "url": "https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Dulce Navidad",
+      "url": "https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1203,6 +1223,22 @@
       "duration_ms": 239200,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Me Quede Puyu",
+        "url": "https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 275016,
+      "name": "Me Quede Puyu",
+      "url": "https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1223,26 +1259,6 @@
       "duration_ms": 139131,
       "name": "Winter Wonderland (Lleg\u00f3 la Navidad) - Deluxe Edition",
       "url": "https://open.spotify.com/track/4U5SUsTHpugGGbzDOJVVjb"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Eterna Navidad Celebremos",
-        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Dulce Navidad",
-      "url": "https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 238480,
       "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Me Quede Puyu",
-        "url": "https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 275016,
-      "name": "Me Quede Puyu",
-      "url": "https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr"
     },
     {
       "added_at": "2021-12-17 05:01:00",

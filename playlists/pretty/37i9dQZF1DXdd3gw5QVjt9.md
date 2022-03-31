@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,733 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,764 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 32 | [Loretta](https://open.spotify.com/track/724mTUDtMwxfB2G023Kerf) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Loretta](https://open.spotify.com/album/4FwGpAmex8ylZrxcf4qGBk) | 2:28 |
 | 33 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
 | 34 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
-| 35 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
-| 36 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 |
-| 37 | [Always Alone](https://open.spotify.com/track/4hzjprk6T5o9iXzsl7odGB) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Always Alone](https://open.spotify.com/album/3joJp4ekc8rGumGTYAcZno) | 4:41 |
-| 38 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
+| 35 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 |
+| 36 | [Always Alone](https://open.spotify.com/track/4hzjprk6T5o9iXzsl7odGB) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Always Alone](https://open.spotify.com/album/3joJp4ekc8rGumGTYAcZno) | 4:41 |
+| 37 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
+| 38 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 39 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 40 | [Call My Name](https://open.spotify.com/track/2pU5gIulfIITLJw6F38IMK) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Call My Name](https://open.spotify.com/album/4KnNIPnhyfsL1EJMsk0XeO) | 3:12 |
 | 41 | [People Change](https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/0ynSa86jw1PqCHRBcWYskU) | 3:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [Colder Heavens](https://open.spotify.com/track/6JOmZY3BQcnM6A5DIxn5xB) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens](https://open.spotify.com/album/6l3rbBz9CUeQzds9tCKXQ2) | 4:33 |
 | 90 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
 
-Snapshot ID: `MTY0ODYwMjA3OCwwMDAwMDAwMDYxNGIwNzMzZjc5Y2RhNjIzNTI4OGE2NTZmOGY3MDc5`
+Snapshot ID: `MTY0ODY4ODQyMCwwMDAwMDAwMGU3YTRiOWY5N2Q0NmNhZGVlZjUxMWEzOTQ4Yjg0MDZl`

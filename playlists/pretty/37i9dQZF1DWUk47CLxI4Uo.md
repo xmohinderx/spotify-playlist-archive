@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,264 likes - 130 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,376 likes - 130 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 6 | [Synthesis](https://open.spotify.com/track/6K3eOhPwC99IS6vHzf9qQX) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Synthesis](https://open.spotify.com/album/39qDyjkFJ658NyTQnRq5Ju) | 2:39 |
 | 7 | [G.O.A.T.](https://open.spotify.com/track/2aVAlLn2uez3xpcXxdiVek) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [G.O.A.T.](https://open.spotify.com/album/6h5Mi2sGgCuPrLnMNnJC7A) | 3:35 |
 | 8 | [Coma](https://open.spotify.com/track/6wdOphejlm1hNfFhXmzT0l) | [Modern Day Babylon](https://open.spotify.com/artist/1KkwPJo8M1KmVs5qSlkxAa) | [Coma](https://open.spotify.com/album/57pSCeKF7zoUmmSm9HMsXj) | 4:35 |
-| 9 | [Touch and Go](https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 4:21 |
-| 10 | [The Prelude to Bereavement](https://open.spotify.com/track/559Y7yDP8HXuuVb3FGHxGf) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Instrumentals](https://open.spotify.com/album/3E13XWEBDe4il8vgrWbfbX) | 5:51 |
-| 11 | [Kanangra](https://open.spotify.com/track/0nnXaJ7aMUeBsHzhhaFehw) | [Scoredatura](https://open.spotify.com/artist/22onw6eJUxsmz0SoW0wmac) | [Kanangra](https://open.spotify.com/album/79YqVLkcdFkgMkt262Qz3O) | 7:22 |
+| 9 | [The Prelude to Bereavement](https://open.spotify.com/track/559Y7yDP8HXuuVb3FGHxGf) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Instrumentals](https://open.spotify.com/album/3E13XWEBDe4il8vgrWbfbX) | 5:51 |
+| 10 | [Kanangra](https://open.spotify.com/track/0nnXaJ7aMUeBsHzhhaFehw) | [Scoredatura](https://open.spotify.com/artist/22onw6eJUxsmz0SoW0wmac) | [Kanangra](https://open.spotify.com/album/79YqVLkcdFkgMkt262Qz3O) | 7:22 |
+| 11 | [Touch and Go](https://open.spotify.com/track/3nDOvQvA8iPamdULGubIQE) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 4:21 |
 | 12 | [Dark Ages](https://open.spotify.com/track/59hn7nAe5d8GlRJCAX2xII) | [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Invent the Universe](https://open.spotify.com/album/4sJ0okFxxdZ6iXERnO5TId) | 6:43 |
 | 13 | [New Air](https://open.spotify.com/track/5d7mgCyxijA9CRGVHwAeMJ) | [Mattias IA Eklundh](https://open.spotify.com/artist/22upwnTo7nckdSAMI8CrZa) | [New Air](https://open.spotify.com/album/4tisdZihJbwtpNIt2t159o) | 5:01 |
 | 14 | [Reinventions](https://open.spotify.com/track/5Dh2hlNjK0dldTN8a8ifwG) | [Divinex](https://open.spotify.com/artist/6dCrUefhVK0tNUZO0MUlUw) | [Create\. Affect\. Repeat.](https://open.spotify.com/album/78n0boyPbrrhye5LhygjfL) | 4:39 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 46 | [The Legend Of Zelda](https://open.spotify.com/track/5aaRKAxnbEwyFJ77AweDUW) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [The Legend of Zelda](https://open.spotify.com/album/0xO44XkN3U9jsq4Hitl2EJ) | 4:08 |
 | 47 | [The Rivers of Sand and Blood](https://open.spotify.com/track/4TrzCwl0dYBHtNkF7fVHlM) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Rivers of Sand and Blood](https://open.spotify.com/album/5ul1t1IuEql7JiBT6971sS) | 3:26 |
 | 48 | [Stomp the Haunted Crown](https://open.spotify.com/track/4YUAcUPZzIZPO47NA3P5ZJ) | [Pomegranate Tiger](https://open.spotify.com/artist/30T39voTL4EiHKGNE0mQxO) | [Boundless](https://open.spotify.com/album/0PPEx5fIfCQesfyebojcvH) | 5:56 |
-| 49 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 |
-| 50 | [Alfa](https://open.spotify.com/track/2GXNAVESi3Ncv8CumNOljv) | [Goba](https://open.spotify.com/artist/5xURFCFadJUGfKuz62Bhvg) | [Penumbra, Pt\. 2](https://open.spotify.com/album/3MniPhQJX1HqKGMsnRMlQ2) | 3:50 |
-| 51 | [Lucid \- Instrumental](https://open.spotify.com/track/5L2wMhPjdmUxHf9NzhptuN) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/2l56oAA1ahY5Vs3VGWXwKk) | 4:30 |
-| 52 | [Strut](https://open.spotify.com/track/6uHpr84ATepPm1NeJ7HXq0) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Story I](https://open.spotify.com/album/3a0BquAREUzoKbXH51pl3x) | 4:32 |
+| 49 | [Alfa](https://open.spotify.com/track/2GXNAVESi3Ncv8CumNOljv) | [Goba](https://open.spotify.com/artist/5xURFCFadJUGfKuz62Bhvg) | [Penumbra, Pt\. 2](https://open.spotify.com/album/3MniPhQJX1HqKGMsnRMlQ2) | 3:50 |
+| 50 | [Lucid \- Instrumental](https://open.spotify.com/track/5L2wMhPjdmUxHf9NzhptuN) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/2l56oAA1ahY5Vs3VGWXwKk) | 4:30 |
+| 51 | [Strut](https://open.spotify.com/track/6uHpr84ATepPm1NeJ7HXq0) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Story I](https://open.spotify.com/album/3a0BquAREUzoKbXH51pl3x) | 4:32 |
+| 52 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 |
 | 53 | [Ascending](https://open.spotify.com/track/4CVKZdWjp15q1bmSRVnfpZ) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Boundless](https://open.spotify.com/album/6w7q5ueU8FNwqSYDgxaqqg) | 4:59 |
 | 54 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 |
 | 55 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 60 | [Decayer](https://open.spotify.com/track/6BZFeisu2l3kkVm2C2hYzK) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 4:46 |
 | 61 | [Celestial](https://open.spotify.com/track/6JmLarU3CA1ewRprzgqBdT) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Celestial](https://open.spotify.com/album/1pv35RTBxb3cAN3Bs3C6Q0) | 4:17 |
 | 62 | [5\-HTP](https://open.spotify.com/track/3H8cRqHxtvG5tlMXEdxLr1) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [5\-HTP](https://open.spotify.com/album/4Vsv078oiNKKaBTlD4Xu6M) | 3:01 |
-| 63 | [Dirge of the Void \(Instrumental\)](https://open.spotify.com/track/3xkG64CAPv872ur1ilJyOp) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Melancholy \(Instrumentals\)](https://open.spotify.com/album/4DQ6L38DeRK18FsKVVAnYy) | 3:18 |
-| 64 | [The Eye of Ra](https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [Chaos\. Order\. Renewal.](https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj) | 3:04 |
+| 63 | [The Eye of Ra](https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [Chaos\. Order\. Renewal.](https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj) | 3:04 |
+| 64 | [Dirge of the Void \(Instrumental\)](https://open.spotify.com/track/3xkG64CAPv872ur1ilJyOp) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Melancholy \(Instrumentals\)](https://open.spotify.com/album/4DQ6L38DeRK18FsKVVAnYy) | 3:18 |
 | 65 | [It's Raining on the Moon, Pt\. 1](https://open.spotify.com/track/5K8hsK21BinXBIqrSeEC2L) | [StarSystems](https://open.spotify.com/artist/2JEmeK4NqHMXdtSMxCcWad) | [StarSystems III](https://open.spotify.com/album/50wgSGPzuqsQqkNRHLpl9s) | 4:16 |
 | 66 | [Névé](https://open.spotify.com/track/1XBjS9Co5312nsBW0tUMo5) | [Chronologist](https://open.spotify.com/artist/0IaTDHWLYUE3yJvFtIfOF2) | [Equinox I](https://open.spotify.com/album/1CR1pNnx93KwhmSRs920Rj) | 4:20 |
 | 67 | [As Colors Bleed Through](https://open.spotify.com/track/2p7Y4JoqKVHvVlGlNlYQqo) | [The Arbitrary](https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe) | [Entropy](https://open.spotify.com/album/6mfGGbAOqkdfBxsUlvVDSO) | 5:42 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [Trancing Nostalgia](https://open.spotify.com/track/7gZgqLOE9VZjqJQAnUPqrE) | [Save Us from the Archon](https://open.spotify.com/artist/7kzcU2VstxyIv6Lc6R4vNM) | [Melancholia](https://open.spotify.com/album/0gQSYqA5nWXwBA1LOoXTt6) | 3:54 |
 | 130 | [The Serpent](https://open.spotify.com/track/3N9xEr9dWscWEm60dnurYr) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [The Serpent \[Special Edition\]](https://open.spotify.com/album/6WYHfB0go6ZSFP1bu8kpJx) | 2:14 |
 
-Snapshot ID: `MTY0ODYwMTQ4NywwMDAwMDAwMGRhNjM1YmE2NDEyNDE2ZGQzZWE1NGY4ZTNlOTczM2Mw`
+Snapshot ID: `MTY0ODY4Nzg0MywwMDAwMDAwMDhlZTFiM2Y2MDYxODk3ZDEwYTFjMTFkMTg0NjM3N2Ex`

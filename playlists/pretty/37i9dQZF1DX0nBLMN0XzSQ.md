@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,791 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,814 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 10 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
 | 11 | [Rockin' All Over The World](https://open.spotify.com/track/3BVJYKizyS9rT6GDsSE6fY) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Music For Rocking](https://open.spotify.com/album/7f7cWjASFQhv9dYL8RnyIM) | 3:30 |
 | 12 | [Sing Hallelujah!](https://open.spotify.com/track/6RQtvdmW0fnWv1VOKpgYcq) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best Of 1990 \- 1997](https://open.spotify.com/album/1uFAUMUiDxxL59YZFlsou0) | 4:01 |
-| 13 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
-| 14 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
-| 15 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/7r5bS08R8d0jZuDZutVeHQ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv) | 4:54 |
+| 13 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/7r5bS08R8d0jZuDZutVeHQ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv) | 4:54 |
+| 14 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
+| 15 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 16 | [Country Roads \(Radio Version\)](https://open.spotify.com/track/2tuVCjUXN9UvCQNpmt9xlG) | [Hermes House Band](https://open.spotify.com/artist/75QQAQ1DfmGW500AJZbM0i) | [Country Roads](https://open.spotify.com/album/6fg29c6LSKHa7yqQzyRwvf) | 3:21 |
 | 17 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
 | 18 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/1F93GMRPvmWpVP970SzjpH) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts \(UK Mid Price\)](https://open.spotify.com/album/4Zzx7tVCCHj0rufZPXsrhr) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Soul Man \- 45 Version](https://open.spotify.com/track/5JNfpFuU4ew1kq1oEc9OaX) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Man / May I Baby](https://open.spotify.com/album/510opTQ5kdnZYF4n5iXeDA) | 2:36 |
 | 80 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 |
 
-Snapshot ID: `MTY0ODYwMTY3NSwwMDAwMDAwMDc0Y2U3NDc1YWI5NmVjNWJhN2U2N2U1OTdmZjdhMDY3`
+Snapshot ID: `MTY0ODY4ODAzMCwwMDAwMDAwMDMxZjVkMmVkZmRhYTk1MTkyNjQ0NGUyNTFmNmYzNjRk`

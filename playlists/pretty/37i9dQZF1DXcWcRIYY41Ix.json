@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Perot\u00e1 Ching\u00f3",
-  "num_followers": 83073,
+  "num_followers": 83167,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjA0NCwwMDAwMDAwMDg5OWYzMWUzNmY2OTk1YjkwZmI4NTU1NTFkMmM4Njg2",
+  "snapshot_id": "MTY0ODY4ODM4OCwwMDAwMDAwMDdhY2ZjMDU2MjAwYzQ5NmMxZDVlNGZkNzQ0MmZhOTZi",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+        "name": "Al Margen de Ojal\u00e1",
+        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Andr\u00e9s Iwasaki",
+          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
         }
       ],
-      "duration_ms": 245593,
-      "name": "Fui y Volv\u00ed",
-      "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
+      "duration_ms": 326129,
+      "name": "Al Margen de Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Al Margen de Ojal\u00e1",
-        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Iwasaki",
-          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 326129,
-      "name": "Al Margen de Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
+      "duration_ms": 245593,
+      "name": "Fui y Volv\u00ed",
+      "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 188405,
       "name": "En el r\u00edo",
       "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 311080,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Pura Flor",
         "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 237613,
       "name": "Pura Flor",
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 311080,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Toca",
-        "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Toca",
-      "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
     },
     {
       "added_at": "2022-03-18 05:00:00",

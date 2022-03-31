@@ -1,12 +1,12 @@
 {
   "description": "In loving memory of Meat Loaf, king of rock power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1032861,
+  "num_followers": 1033018,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTkwOCwwMDAwMDAwMDExNTI3ZjYzZGRkNjJiZTRkNWI3OTA1M2M1MjYyMmU2",
+  "snapshot_id": "MTY0ODY4ODI1NywwMDAwMDAwMGJhZmFjZjc4ZDU0NjUxZThiNDIxYmNlNjJlZmZjMjkx",
   "tracks": [
     {
       "added_at": "2022-01-21 23:53:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
-    },
-    {
-      "added_at": "2022-01-21 23:53:28",
-      "album": {
         "name": "Hold Your Fire",
         "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 239866,
       "name": "When I Look Into Your Eyes",
       "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
+    },
+    {
+      "added_at": "2022-01-21 23:53:28",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
       "added_at": "2022-01-21 23:53:28",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
-        "name": "Bat Out Of Hell II: Back Into Hell",
-        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
       "artists": [
         {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 316466,
-      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
-      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2022-01-21 23:53:28",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
-        "name": "Dr Feelgood",
-        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 268902,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6BCGNM6wYG0SpXBlTpYkiS"
-    },
-    {
-      "added_at": "2022-01-21 23:53:28",
-      "album": {
         "name": "The Great Radio Controversy",
         "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
+        "name": "Dr Feelgood",
+        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 268902,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6BCGNM6wYG0SpXBlTpYkiS"
+    },
+    {
+      "added_at": "2022-01-21 23:53:28",
+      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2022-01-21 23:53:28",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2022-01-21 23:53:28",
+      "album": {
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
+      },
+      "artists": [
+        {
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
     },
     {
       "added_at": "2022-01-21 23:53:28",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-01-21 23:53:28",
       "album": {
-        "name": "Steelheart",
-        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
-      },
-      "artists": [
-        {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "I'll Never Let You Go",
-      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
-    },
-    {
-      "added_at": "2022-01-21 23:53:28",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 388613,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/6KGXbG5wEb6WlIFAGKDQh0"
+    },
+    {
+      "added_at": "2022-01-21 23:53:28",
+      "album": {
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
+      },
+      "artists": [
+        {
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
     },
     {
       "added_at": "2022-01-21 23:53:28",

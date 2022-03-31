@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,258 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,573 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 30 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
 | 31 | [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 |
 | 32 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
-| 33 | [Hot Chance](https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sexy Times \(3rd Anniversary Edition\)](https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd) | 3:45 |
-| 34 | [Ilios](https://open.spotify.com/track/1K13SpC4kxmynTS55cYTgd) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Ilios](https://open.spotify.com/album/35BvkgSXwSvLb6yqeCL3Re) | 3:12 |
+| 33 | [Ilios](https://open.spotify.com/track/1K13SpC4kxmynTS55cYTgd) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Ilios](https://open.spotify.com/album/35BvkgSXwSvLb6yqeCL3Re) | 3:12 |
+| 34 | [Hot Chance](https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sexy Times \(3rd Anniversary Edition\)](https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd) | 3:45 |
 | 35 | [Kuudere Crush](https://open.spotify.com/track/2POY4U4R7lxUM61ryNHRmL) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Kuudere Crush](https://open.spotify.com/album/30yExUgU7Q1AItAXaSKBaf) | 3:03 |
 | 36 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 37 | [Sweet Baby!](https://open.spotify.com/track/4O1I1VgHT0d0Ntkbuge658) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Sweet Baby!](https://open.spotify.com/album/4K8fg0z60G0HsvsIGFJ9ex) | 2:33 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 60 | [dump](https://open.spotify.com/track/5ubKh2OZ35irDiCWQKNwnu) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [dump](https://open.spotify.com/album/20weAdy9Llm87hJFfLoIBg) | 4:33 |
 | 61 | [Fantango \(2020 Remaster\)](https://open.spotify.com/track/41bzXacOb6NKECrfXddHH3) | [XWaves](https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ) | [Vaporwave for China \(2020 Remaster\)](https://open.spotify.com/album/1c6Rxz4kmp2XukLDzVDjzE) | 3:40 |
 | 62 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
-| 63 | [Sparky \(Original\)](https://open.spotify.com/track/04vGT4j9W8RWBRmIgHJsIL) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD) | [Sunrise](https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5) | 2:28 |
-| 64 | [Summer Cruise](https://open.spotify.com/track/6Bijp8wdLHU6bbShrQoZiT) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99 Extended](https://open.spotify.com/album/0c8XNFUW0YGziJ6GPtahYe) | 2:36 |
-| 65 | [Right on Time](https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:29 |
+| 63 | [Summer Cruise](https://open.spotify.com/track/6Bijp8wdLHU6bbShrQoZiT) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99 Extended](https://open.spotify.com/album/0c8XNFUW0YGziJ6GPtahYe) | 2:36 |
+| 64 | [Right on Time](https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:29 |
+| 65 | [Sparky \(Original\)](https://open.spotify.com/track/04vGT4j9W8RWBRmIgHJsIL) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD) | [Sunrise](https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5) | 2:28 |
 | 66 | [Archangel\-99](https://open.spotify.com/track/52FMjaRWX2mHy1tPVne9c0) | [Chrylo](https://open.spotify.com/artist/1aMHe9PtM7QWfGRccCrU5q), [Loser//99](https://open.spotify.com/artist/7HLhzxOwRhZEpChOpZcSHM) | [Archangel\-99](https://open.spotify.com/album/5swlMiYhckXIN9mqmAUu0H) | 3:33 |
 | 67 | [Take Me Back to Shinjuku](https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Take Me Back to Shinjuku](https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI) | 3:54 |
 | 68 | [みずいろの雨 \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [八神純子 – Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN) | 4:00 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 71 | [Plastic](https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/1cjuAssWUepRNTprygXosp) | 3:15 |
 | 72 | [Satellite](https://open.spotify.com/track/4w3bIm8HFcBSzaBJplqLEU) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Satellite](https://open.spotify.com/album/5HWdHhkptYewfYG9PKmQQx) | 2:22 |
 | 73 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
-| 74 | [Tell Me](https://open.spotify.com/track/5nnnqpBHPEGUChwxxXLu7f) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [FRESH](https://open.spotify.com/album/1YS6KvN6XV85ll6GTmxXQS) | 3:00 |
-| 75 | [Dancing All Night](https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Sendagi Collection](https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi) | 3:55 |
+| 74 | [Dancing All Night](https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Sendagi Collection](https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi) | 3:55 |
+| 75 | [Tell Me](https://open.spotify.com/track/5nnnqpBHPEGUChwxxXLu7f) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [FRESH](https://open.spotify.com/album/1YS6KvN6XV85ll6GTmxXQS) | 3:00 |
 | 76 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
 | 77 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
 | 78 | [Diagonale](https://open.spotify.com/track/1TGMLE2aI80iNmyAqrX4Ss) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Diagonale](https://open.spotify.com/album/4JGh77u2sAIjoMFDqCjeLa) | 3:25 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 92 | [Knights](https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7) | [Bazz](https://open.spotify.com/artist/7L2KG4aO0ik742ux5CFgVp) | [Montaime, Vol\. 1](https://open.spotify.com/album/0Ijy3uJnjyyyahnUgykdDY) | 6:09 |
 | 93 | [Green Path](https://open.spotify.com/track/6tCZ1Y0pmwqOK20xQRV675) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Green Path](https://open.spotify.com/album/5TXutLR046gdfclV3EfJbG) | 3:05 |
 | 94 | [DUCK GROOVE](https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [DUCK GROOVE](https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj) | 2:22 |
-| 95 | [Lovin' You](https://open.spotify.com/track/6nuGskQk0ug4IS8IDF8zgd) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj), [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Lovin' You](https://open.spotify.com/album/6T8BwmOGcZAuanxBGtgZHk) | 3:48 |
-| 96 | [NeoVintage](https://open.spotify.com/track/5zmIchjonu23srAtaV32Lx) | [Saë](https://open.spotify.com/artist/1zN3h9Fm21jrQneBITXmn5) | [NeoVintage](https://open.spotify.com/album/5jVYPQIZAnE5W0e2wvYqPD) | 3:33 |
-| 97 | [Paradise City](https://open.spotify.com/track/02nuHFoIUqCIIo4QV2H09v) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Flavored](https://open.spotify.com/album/1gJA2thOAel9og0B1irB20) | 3:09 |
+| 95 | [NeoVintage](https://open.spotify.com/track/5zmIchjonu23srAtaV32Lx) | [Saë](https://open.spotify.com/artist/1zN3h9Fm21jrQneBITXmn5) | [NeoVintage](https://open.spotify.com/album/5jVYPQIZAnE5W0e2wvYqPD) | 3:33 |
+| 96 | [Paradise City](https://open.spotify.com/track/02nuHFoIUqCIIo4QV2H09v) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Flavored](https://open.spotify.com/album/1gJA2thOAel9og0B1irB20) | 3:09 |
+| 97 | [Lovin' You](https://open.spotify.com/track/6nuGskQk0ug4IS8IDF8zgd) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj), [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Lovin' You](https://open.spotify.com/album/6T8BwmOGcZAuanxBGtgZHk) | 3:48 |
 | 98 | [Soul](https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Soul](https://open.spotify.com/album/6DmxMwMs19UtWdxXwCnYr5) | 3:00 |
 | 99 | [Colorful](https://open.spotify.com/track/53xrAv7XytICW94kWDjQoH) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Colorful](https://open.spotify.com/album/77B2ZiXhYYSqbSbt14h0Bb) | 2:35 |
-| 100 | [Unlimited](https://open.spotify.com/track/7yG4jsZAH8bVIpXfH2VCQJ) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Unlimited](https://open.spotify.com/album/5oaHK8jFDrcFEubxDaeGSp) | 2:54 |
+| 100 | [Journey](https://open.spotify.com/track/3zdzuZCTpZUzWXEggYzVJN) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Journey](https://open.spotify.com/album/4yCmeh4MPTugT67AgoxXph) | 4:20 |
 
-Snapshot ID: `MTY0ODYwMjAyMywwMDAwMDAwMDdmODM0MjExMDViMjM4NjExOWZiMTE4M2YwZTBkMDhk`
+Snapshot ID: `MTY0ODY4ODM2OCwwMDAwMDAwMDZiYWJiMzRjZGI3ZWRhNjA5N2NjYTJhOThmYTFlN2U5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,095 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,149 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 15 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 |
 | 16 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 |
 | 17 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 |
-| 18 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
-| 19 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 |
-| 20 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
+| 18 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
+| 19 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
+| 20 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 |
 | 21 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 |
 | 22 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 |
 | 23 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 73 | [For Heaven's Sake](https://open.spotify.com/track/0mnUFEVSj8hqWj9jJWzOHi) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [For Heaven's Sake](https://open.spotify.com/album/1OedLBy9HcEiqNWmjKXzp1) | 11:52 |
 | 74 | [You Go To My Head](https://open.spotify.com/track/366IPHOgIJJNwxJlfAcnv9) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:27 |
 | 75 | [Lady D](https://open.spotify.com/track/1YEGJGKECYxGoRDE1TLjJC) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Lady D](https://open.spotify.com/album/6jtCNH0s9qMhzP746qNrHj) | 3:23 |
-| 76 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 |
-| 77 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 |
-| 78 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 |
-| 79 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 |
+| 76 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 |
+| 77 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 |
+| 78 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 |
+| 79 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 |
 | 80 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 |
 | 81 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 |
 | 82 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 99 | [Late Lament](https://open.spotify.com/track/6Yq7c4xi4og0panpqWtonR) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Late Lament](https://open.spotify.com/album/2WHn7qSpz125SHdgwZK2eL) | 5:58 |
 | 100 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 |
 
-Snapshot ID: `MTY0ODYwMTUyNSwwMDAwMDAwMDE5Mjk4OWNkOTgzMWM4MjUzNzdmNmYzMDRhNjU3ODk2`
+Snapshot ID: `MTY0ODY4Nzg4MiwwMDAwMDAwMDI4ZDM4MDQ0Y2NkZjg5M2U1NjhhMjg4NzkzZGZmOGRi`

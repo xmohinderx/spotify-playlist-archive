@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89425,
+  "num_followers": 89420,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTYzNywwMDAwMDAwMDEwNGQ1ZWNkYjU0YTczOGM1N2FkZTBlMDMzN2I4OWU4",
+  "snapshot_id": "MTY0ODY4Nzk5MSwwMDAwMDAwMGUxZDkyM2RiZTZjZTc0OWUyYzMyNDhmN2VlM2QwNmQy",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -111,6 +111,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Western Stars",
-      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -247,6 +247,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "There Goes My Miracle",
+        "url": "https://open.spotify.com/album/54d7QpfErR8fTXeLXJMvql"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "There Goes My Miracle",
+      "url": "https://open.spotify.com/track/1pvgYWFziQfxrlsHlAY1sC"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 286426,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "There Goes My Miracle",
-        "url": "https://open.spotify.com/album/54d7QpfErR8fTXeLXJMvql"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "There Goes My Miracle",
-      "url": "https://open.spotify.com/track/1pvgYWFziQfxrlsHlAY1sC"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -363,22 +363,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Champion of The World / Daddy",
-        "url": "https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 184893,
       "name": "One Less Day (Dying Young)",
       "url": "https://open.spotify.com/track/2ZSmbG7hYBy2ObB41JQ3WW"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Champion of The World / Daddy",
+        "url": "https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -999,22 +999,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Only Human (Special Edition)",
-        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Need To Know",
-      "url": "https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Egypt Station",
         "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 302218,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Only Human (Special Edition)",
+        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V"
     },
     {
       "added_at": "2019-11-29 09:37:55",

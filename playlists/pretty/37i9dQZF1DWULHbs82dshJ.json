@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 43261,
+  "num_followers": 43277,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQ3NywwMDAwMDAwMGNlOGEzZDc3M2NhNmIzMTYzM2NmMTc4MTg1ZjY0OTM2",
+  "snapshot_id": "MTY0ODY4NzgzMywwMDAwMDAwMDMwMzMyYzQ0NzBkYTI3NmYxOWEyM2U1YjE1ZjJmOGIy",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Tim Maia 1970",
+        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 198261,
+      "name": "Azul Da Cor Do Mar",
+      "url": "https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
       },
@@ -139,6 +155,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -155,38 +187,6 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Tim Maia 1970",
-        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 198261,
-      "name": "Azul Da Cor Do Mar",
-      "url": "https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Dona de mim",
-      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179373,
       "name": "Old Memories (Originals)",
       "url": "https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Dona de mim",
+      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/3GfLFBVOXEUHqxAAKcBOtu"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 166960,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -467,22 +483,6 @@
       "duration_ms": 181066,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/5mgEMsdO30tknEBsqTzuxN"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2021-12-15 15:42:19",

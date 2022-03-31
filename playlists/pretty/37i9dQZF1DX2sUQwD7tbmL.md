@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,689 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,065 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 30 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
 | 31 | [Long Lost](https://open.spotify.com/track/3UogKIjMzKOTRN1VyuBZFP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5gEBQoKHOrgTXRLYMUKCly) | 4:44 |
 | 32 | [The Bottom of It](https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Bottom of It](https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA) | 3:01 |
-| 33 | [Seventeen](https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/3QfvzIBsZ2zbYWsNp7StMw) | 3:46 |
-| 34 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
+| 33 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
+| 34 | [Seventeen](https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/3QfvzIBsZ2zbYWsNp7StMw) | 3:46 |
 | 35 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 |
 | 36 | [Sunday Soda](https://open.spotify.com/track/4DXCzGr1WFhUNDwWJOau9g) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [Sunday Soda](https://open.spotify.com/album/6orwti9n1Jo5Xy857D40iq) | 3:37 |
 | 37 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 39 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 |
 | 40 | [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 |
 | 41 | [Good Old Days](https://open.spotify.com/track/0uUp3khxvnrRrr6FLCXcC3) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/5d8D46IKAaS3JTRpAO8Nbn) | 3:24 |
-| 42 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 |
-| 43 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
+| 42 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
+| 43 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 |
 | 44 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 |
 | 45 | [R U 4 Me?](https://open.spotify.com/track/1NJ2etRHt8KOJI2wA1S7du) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [R U 4 Me?](https://open.spotify.com/album/5ThbmX1gLaPbtTA3aBgZQo) | 2:49 |
 | 46 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Dance In Room Song](https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Dance In Room Song](https://open.spotify.com/album/3FkUMOuiprjmmlnY1DmV1u) | 2:51 |
 | 120 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 |
 
-Snapshot ID: `MTY0ODYwMTc0MiwwMDAwMDAwMDk2ZDRhZTBiY2IxYjE2NTViOGVhNjE5ZDk1YTkxOTJi`
+Snapshot ID: `MTY0ODY4ODA5NiwwMDAwMDAwMDhkMzUxMGI4Yjk3MjhmNTY3NTA0ZGZmZTljNTMxOWJm`

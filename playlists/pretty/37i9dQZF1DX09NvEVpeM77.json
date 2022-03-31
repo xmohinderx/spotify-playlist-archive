@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites",
-  "num_followers": 140940,
+  "num_followers": 141276,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY1MywwMDAwMDAwMDViZGRhZDlkODdiMjdhNjU5Y2ExNDdiNDQ1MzVkZDhl",
+  "snapshot_id": "MTY0ODY4ODAwNywwMDAwMDAwMDFiMTQxNmNlNjIyNzcyZjZhYmZhYmU4ZDgyMDU2OWQ4",
   "tracks": [
     {
       "added_at": "2022-03-04 19:00:59",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
         "name": "Running on Empty",
         "url": "https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-03-14 17:21:32",
       "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
-    },
-    {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
+      "added_at": "2022-03-14 17:21:32",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -235,22 +235,6 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Countdown To Ecstasy",
-        "url": "https://open.spotify.com/album/3VwMlhrc3Z0YON3UNV0VSC"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 344906,
-      "name": "My Old School",
-      "url": "https://open.spotify.com/track/2TNJMzB30nuEpww7EOx75L"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -319,6 +303,22 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
+        "name": "Countdown To Ecstasy",
+        "url": "https://open.spotify.com/album/3VwMlhrc3Z0YON3UNV0VSC"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 344906,
+      "name": "My Old School",
+      "url": "https://open.spotify.com/track/2TNJMzB30nuEpww7EOx75L"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
         "name": "The Best Of Don McLean",
         "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Chicago VI (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1GFLP3fsozSH4uBKA4oDYM"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Feelin' Stronger Every Day - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 170173,
       "name": "Take the Money and Run",
       "url": "https://open.spotify.com/track/6xTmUziCWS4Nwh2hzqLbCS"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Chicago VI (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1GFLP3fsozSH4uBKA4oDYM"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Feelin' Stronger Every Day - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -447,54 +447,6 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Chicago II",
-        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "25 or 6 to 4 - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -511,6 +463,22 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -557,6 +541,22 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
+    },
+    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Cosmo's Factory",
@@ -587,22 +587,6 @@
       "duration_ms": 201693,
       "name": "Refugee",
       "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -651,6 +635,22 @@
       "duration_ms": 174426,
       "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
       "url": "https://open.spotify.com/track/4yBPSbkj2vCeiPZZUKPK3v"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2022-03-14 17:21:32",

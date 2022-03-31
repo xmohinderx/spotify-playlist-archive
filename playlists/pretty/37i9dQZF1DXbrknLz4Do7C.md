@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,663 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 94 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
 | 95 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 |
 
-Snapshot ID: `MTYzODM3NDMwNSwwMDAwMDAwMzAwMDAwMTdkNzZiN2VlNjgwMDAwMDE3ZDc0MTFiMjk3`
+Snapshot ID: `MTY0ODYxMzk4NiwwMDAwMDAwNjAwMDAwMTdmZDkwZDBmODAwMDAwMDE3ZDc0MTFiMjk3`

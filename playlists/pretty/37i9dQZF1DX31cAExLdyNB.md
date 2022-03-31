@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,748 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,783 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 20 | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng) | 3:25 |
 | 21 | [Lilas](https://open.spotify.com/track/5gb4DPjRoVA3y4O5KMmmQq) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [Edén](https://open.spotify.com/album/6C3AAFYwOUqOHA8HNmizA9) | 3:33 |
 | 22 | [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 |
-| 23 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
-| 24 | [Young](https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/22uHnOv9QiDKHUAQJZz04j) | 3:14 |
+| 23 | [Young](https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/22uHnOv9QiDKHUAQJZz04j) | 3:14 |
+| 24 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 25 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 |
 | 26 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 27 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 |
 | 69 | [Drinkee \- Radio Edit](https://open.spotify.com/track/1hWN9FB6Lxnqt2ij8uPH8V) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/1e2Fq1cdld2yJJC0aMPkOK) | 3:11 |
 
-Snapshot ID: `MTY0ODYwMTc0NywwMDAwMDAwMDA2NjBhYmFjNDVhNjZmYzQzMWNkODQ4ODI1NWUzNWY2`
+Snapshot ID: `MTY0ODY4ODEwMSwwMDAwMDAwMGI0M2ExMDNhOTQ5NWRiMTNhNjlmZWM0MjIwYjMxZTA4`

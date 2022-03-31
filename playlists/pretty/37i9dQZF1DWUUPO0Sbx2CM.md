@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,884 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,928 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 74 | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/track/19o1cnz9syo7tH9zUwpelk) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Gotta Wait \(feat\. Eris Ford\)](https://open.spotify.com/album/69HpLMayRJLXoKsmVH6Bi2) | 3:15 |
 | 75 | [Your Love Is](https://open.spotify.com/track/4fF8W36n4q1M81QzR9Qmkw) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Your Love Is](https://open.spotify.com/album/7IQvFw3QmkF2dO4dJcxFqL) | 4:06 |
 
-Snapshot ID: `MTY0ODYwMTQ4MSwwMDAwMDAwMGUzYzRiMmNlZGI2MTMxNWIwYjc4NWYzYjhjYTBkNDgx`
+Snapshot ID: `MTY0ODY4NzgzNywwMDAwMDAwMGUzYzRiMmNlZGI2MTMxNWIwYjc4NWYzYjhjYTBkNDgx`

@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some uplifting party jazz.",
-  "num_followers": 5804,
+  "num_followers": 5836,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjA1NSwwMDAwMDAwMGRiMDhlOGFjZWI0NWI1M2NkNjJhM2FjNmU5ZGJhNzYz",
+  "snapshot_id": "MTY0ODY4ODM5OCwwMDAwMDAwMGNlODVhYmZmZmZjYzJlMTRlMTQwMmQ2NzQ5MzVjZDVk",
   "tracks": [
     {
       "added_at": "2022-01-26 10:00:50",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "Get Happy! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
@@ -163,42 +179,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "Jazz Queens of the 50's",
-        "url": "https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "More Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 139133,
       "name": "The Critic's Choice",
       "url": "https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "Jazz Queens of the 50's",
+        "url": "https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Ultimate Sinatra: The Centennial Collection",
         "url": "https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 127613,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0IucuP0LDbGVqxvncB17Kf"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 635586,
-      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 239733,
       "name": "Dippin' In The Bag",
       "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        }
+      ],
+      "duration_ms": 635586,
+      "name": "Thedia - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/447IqXYdDWyVP0eGdmv14A"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Jackie's Bag",
         "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 317733,
       "name": "Swingin' The Samba - Rudy Van Gelder Edition / Remastered",
       "url": "https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1463,6 +1463,38 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 451626,
+      "name": "Smokin' - Remastered 2005",
+      "url": "https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 426573,
+      "name": "Five Will Get You Ten - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3qCp2wsIumik19ro8QEIBT"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
         "name": "A New Sound - A New Star, Vol. 2",
         "url": "https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k"
       },
@@ -1495,18 +1527,18 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "Workout",
-        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 451626,
-      "name": "Smokin' - Remastered 2005",
-      "url": "https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb"
+      "duration_ms": 353106,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1523,38 +1555,6 @@
       "duration_ms": 454520,
       "name": "Boy, What A Night - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/57abY9xX9SVdfjn0vydx0t"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 426573,
-      "name": "Five Will Get You Ten - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3qCp2wsIumik19ro8QEIBT"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 353106,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "The Procrastinator",
-        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Stop-Start",
-      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Clubhouse",
         "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 295680,
       "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Stop-Start",
+      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
     },
     {
       "added_at": "2022-01-26 10:00:50",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-01-26 10:00:50",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Avila And Tequila - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
-    },
-    {
-      "added_at": "2022-01-26 10:00:50",
-      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 236240,
       "name": "Carvin' The Rock - Remastered",
       "url": "https://open.spotify.com/track/0nMCpAhJZRXtVn3CkVjPyE"
+    },
+    {
+      "added_at": "2022-01-26 10:00:50",
+      "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Avila And Tequila - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
     },
     {
       "added_at": "2022-01-26 10:00:50",

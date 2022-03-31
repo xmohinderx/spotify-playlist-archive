@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain]
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
-[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,119 likes - 42 songs - 2 hr 33 min
+[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,117 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain]
 | 5 | [Nobody Really Cares If You Don't Go To The Party](https://open.spotify.com/track/181eZlWeKQcF5GLhehiBkD) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit](https://open.spotify.com/album/5FpTrIArvT20xUSpGRXGLY) | 2:46 |
 | 6 | [FourFiveSeconds](https://open.spotify.com/track/5XzmZjXhMjDHr7ZfJ6DELQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/3W6dGZZiH1GxBiQWE5CjzK) | 3:08 |
 | 7 | [Can't Feel My Face](https://open.spotify.com/track/3X38ErFiKgzUxinBlhwuWm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Can’t Feel My Face](https://open.spotify.com/album/6lYwnAawTuMeJS0fC64WyQ) | 3:35 |
-| 8 | [The Buzz](https://open.spotify.com/track/0lFsdfJay6AM4m23hJYGEG) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Mataya](https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ), [TAPZ](https://open.spotify.com/artist/7p54hwKypG19lucXWyQdGG) | [Dark Night Sweet Light](https://open.spotify.com/album/4qWHwJCpjIOPTwYgwjOwTO) | 3:42 |
+| 8 | [The Buzz](https://open.spotify.com/track/0lFsdfJay6AM4m23hJYGEG) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Mataya](https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ), [TAPZ GALLANTINO](https://open.spotify.com/artist/7p54hwKypG19lucXWyQdGG) | [Dark Night Sweet Light](https://open.spotify.com/album/4qWHwJCpjIOPTwYgwjOwTO) | 3:42 |
 | 9 | [Hotline Bling](https://open.spotify.com/track/1UfBAJfmofTffrae5ls6DA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Hotline Bling](https://open.spotify.com/album/2rTxwqA6v4lccbPKD31CQI) | 4:27 |
 | 10 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/47czoFTeAmzHhfUlFPeynR) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/album/22h1k19SjTFkFSDdyHgDFF) | 4:03 |
 | 11 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/2iKDPbYHVCzE91K5IRqUyM) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/album/1bQ6UJ7IdJLl4FkNaNLMq1) | 2:56 |

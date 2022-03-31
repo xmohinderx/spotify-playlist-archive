@@ -1,12 +1,12 @@
 {
   "description": "Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.",
-  "num_followers": 175091,
+  "num_followers": 175185,
   "original_name": "Lazy Chill Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjA2NywwMDAwMDAwMDFmZTRkYzE0Yjc1MDc5NGYzYTMwNmMzMzlkNjM0ZmE0",
+  "snapshot_id": "MTY0ODY4ODQxMCwwMDAwMDAwMDIwODExN2EzOTllMmExYjI4ZDE4YmFjNDMyM2RmNmRi",
   "tracks": [
     {
       "added_at": "2022-03-16 16:24:20",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2022-03-16 16:24:20",
       "album": {
-        "name": "Earth",
-        "url": "https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1"
-      },
-      "artists": [
-        {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/47grvGTNigrMww35L06LJa"
-    },
-    {
-      "added_at": "2022-03-16 16:24:20",
-      "album": {
         "name": "Kingdom 8",
         "url": "https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 128533,
       "name": "frozen in time",
       "url": "https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C"
+    },
+    {
+      "added_at": "2022-03-16 16:24:20",
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/47grvGTNigrMww35L06LJa"
     },
     {
       "added_at": "2022-03-16 16:24:20",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-03-16 16:24:20",
       "album": {
-        "name": "Timescapes : Longer Nights",
-        "url": "https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO"
-      },
-      "artists": [
-        {
-          "name": "Prithvi",
-          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
-        },
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Streetlights",
-      "url": "https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ"
-    },
-    {
-      "added_at": "2022-03-16 16:24:20",
-      "album": {
         "name": "air like perfume",
         "url": "https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 142405,
       "name": "Jazzhop Wonderland",
       "url": "https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj"
+    },
+    {
+      "added_at": "2022-03-16 16:24:20",
+      "album": {
+        "name": "Nuances",
+        "url": "https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs"
+      },
+      "artists": [
+        {
+          "name": "t.Stratt",
+          "url": "https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "duration_ms": 151892,
+      "name": "Blue Day",
+      "url": "https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh"
     }
   ],
   "unique_name": "Lazy Chill Afternoon",

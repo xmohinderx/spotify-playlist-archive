@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812,453 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,813,019 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 53 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
 | 54 | [Don't Speak](https://open.spotify.com/track/4AL1AOOFk7Bqe4XFs8cN86) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Don't Speak](https://open.spotify.com/album/56MKW23aw1Qh9YpYgCxwA0) | 2:45 |
 | 55 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 |
-| 56 | [It Ain't Right](https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [It Ain't Right](https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31) | 3:28 |
-| 57 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 |
-| 58 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/1kTlT3phtU2yqTJYT1x6hb) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/3xX5VuO4ajjPJwm6SeZqFA) | 3:19 |
+| 56 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/1kTlT3phtU2yqTJYT1x6hb) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/3xX5VuO4ajjPJwm6SeZqFA) | 3:19 |
+| 57 | [It Ain't Right](https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [It Ain't Right](https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31) | 3:28 |
+| 58 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 |
 | 59 | [Kids \(feat\. MKLA\)](https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Kids \(feat\. MKLA\)](https://open.spotify.com/album/3iYUmg1PpY33KH7QW0goe1) | 3:04 |
 | 60 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
 | 61 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 |
 | 125 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 |
 
-Snapshot ID: `MTY0ODYwMTk4NywwMDAwMDAwMDc4YzRmYzBlNzE2NTVmNmFlZGFkMzNjNzczYzQ3N2Ri`
+Snapshot ID: `MTY0ODY4ODMzMywwMDAwMDAwMGQ0MjEwMGFmZTU4NDhlNzU2Zjk3YTI3NTU3M2M5MWY1`

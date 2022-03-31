@@ -1,12 +1,12 @@
 {
   "description": "No need to stress out. Stay relaxed with these easy, upbeat songs.",
-  "num_followers": 1907013,
+  "num_followers": 1907307,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQzOSwwMDAwMDAwMDRmOWM4YTQ5MzY0YTUxZjRkNjU5YmQxYWNiNzFiNjli",
+  "snapshot_id": "MTY0ODY4Nzc5NSwwMDAwMDAwMDhkYWJlN2NiOTA1NjdkZGEzMzkyOTI1NWI5M2ZhNTJh",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 239693,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/1QXcCFKg64K5Hp6Is3OXzh"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2022-03-11 05:00:00",

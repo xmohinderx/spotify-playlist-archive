@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Orion Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,346 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,117 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 67 | [IN THE MOMENT feat\. Tyler, The Creator](https://open.spotify.com/track/1tXWUIFKPPHLAth1zCGfmj) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
 | 68 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 |
 | 69 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 |
-| 70 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 |
-| 71 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 |
-| 72 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 |
+| 70 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 |
+| 71 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 |
+| 72 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 |
 | 73 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 |
 | 74 | [Ghostin'](https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Ghostin'](https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd) | 3:17 |
 | 75 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 80 | [NTWFL](https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [NTWFL](https://open.spotify.com/album/67yqGJaYgMvkXi5J1YQcio) | 2:59 |
 | 81 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 |
 | 82 | [Magazines](https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 2: Transformation](https://open.spotify.com/album/7mBzvKYy1dMv2jaeq8H6Ri) | 3:14 |
-| 83 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 |
-| 84 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 |
-| 85 | [call waiting](https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [On A Virgo Mind](https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE) | 2:50 |
-| 86 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 |
-| 87 | [Don't Recommend](https://open.spotify.com/track/6t8ZKSOjhFVwvrJdRcKytT) | [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Don't Recommend](https://open.spotify.com/album/2viuq33ElyD8CXCyrf4fTO) | 3:03 |
-| 88 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 |
-| 89 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
-| 90 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 |
-| 91 | [Mystery Lady](https://open.spotify.com/track/0Ifg6sEGK8dH0XDD4pzKTl) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/3y16fOtHHYMkU706RAua8m) | 3:48 |
+| 83 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 |
+| 84 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 |
+| 85 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 |
+| 86 | [call waiting](https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [On A Virgo Mind](https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE) | 2:50 |
+| 87 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 |
+| 88 | [Don't Recommend](https://open.spotify.com/track/6t8ZKSOjhFVwvrJdRcKytT) | [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Don't Recommend](https://open.spotify.com/album/2viuq33ElyD8CXCyrf4fTO) | 3:03 |
+| 89 | [Mystery Lady](https://open.spotify.com/track/0Ifg6sEGK8dH0XDD4pzKTl) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Studying Abroad: Extended Stay](https://open.spotify.com/album/3y16fOtHHYMkU706RAua8m) | 3:48 |
+| 90 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
+| 91 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 |
 | 92 | [Made to Fall in Love](https://open.spotify.com/track/67PfKFPREimYeu8UPAUVAK) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 4:53 |
 | 93 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 94 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 |
 | 95 | [Medallion](https://open.spotify.com/track/7G1z481K0xAULT3eVaaNQD) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Medallion](https://open.spotify.com/album/27EqAknfF83SRTkgPLRgfZ) | 2:29 |
 | 96 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
-| 97 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
-| 98 | [Wait](https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wait](https://open.spotify.com/album/5VMeHVPli9fPnSKznSqsDr) | 3:10 |
-| 99 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 |
+| 97 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 |
+| 98 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
+| 99 | [Wait](https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wait](https://open.spotify.com/album/5VMeHVPli9fPnSKznSqsDr) | 3:10 |
 | 100 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 
-Snapshot ID: `MTY0ODYwMTQyMiwwMDAwMDAwMDJlMmEzZTNhYjNiYWViNGUwNDgyY2ZjYTczMDQxN2Zm`
+Snapshot ID: `MTY0ODY4Nzc4MCwwMDAwMDAwMDc4ZWRiYzUzNGY2YTE4MTM1MDRjY2UzNzZmOThlYzYz`

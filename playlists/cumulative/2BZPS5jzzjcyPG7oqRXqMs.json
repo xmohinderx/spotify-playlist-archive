@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247294,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
+    },
+    {
+      "album": {
         "name": "As For Me",
         "url": "https://open.spotify.com/album/6T2J8HV6B1apeN6dpMtJBL"
       },

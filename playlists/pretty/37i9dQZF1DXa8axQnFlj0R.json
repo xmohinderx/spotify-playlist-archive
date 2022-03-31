@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 20962,
+  "num_followers": 21046,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk3NCwwMDAwMDAwMGU4ZGY4OTlkYTdmMTEyNDY0ODI5ZjY1YTY2NjRkZWRm",
+  "snapshot_id": "MTY0ODY4ODMyMSwwMDAwMDAwMDBiYjk1NTBlZDdjMjEzNWJlZDA4ZWViYzdjMGZjNDBi",
   "tracks": [
     {
       "added_at": "2022-01-07 17:54:30",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Don't You Worry",
-      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+      "duration_ms": 219880,
+      "name": "Don't You Worry",
+      "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -223,6 +223,22 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Vanilla (Stairwell Version)",
+        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 246070,
+      "name": "Vanilla (Stairwell Version)",
+      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -275,22 +291,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Vanilla (Stairwell Version)",
-        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 246070,
-      "name": "Vanilla (Stairwell Version)",
-      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "mirrorball",
-      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "mirrorball",
+      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Our Day",
-        "url": "https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI"
-      },
-      "artists": [
-        {
-          "name": "Cooza",
-          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
-        }
-      ],
-      "duration_ms": 123374,
-      "name": "I Can See New Zealand From Here",
-      "url": "https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Our Day",
+        "url": "https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "duration_ms": 123374,
+      "name": "I Can See New Zealand From Here",
+      "url": "https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "Devon or Las Vegas",
         "url": "https://open.spotify.com/album/7B4PdirFZUIIPURQNGc4dJ"
       },
@@ -679,38 +695,6 @@
       "duration_ms": 236450,
       "name": "Nothing's Gonna Happen (Demo)",
       "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -763,6 +747,22 @@
       "duration_ms": 182374,
       "name": "How Do You Know",
       "url": "https://open.spotify.com/track/55tFsAqBX9hQa060WnEHK4"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Grapefruit Season",
+        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "the bottom of the well",
         "url": "https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
     },
     {
       "added_at": "2022-01-07 17:54:30",

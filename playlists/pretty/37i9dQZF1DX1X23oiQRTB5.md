@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SDM au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,590 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,919 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 26 | [GROKUWA](https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [GROKUWA](https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH) | 3:02 |
 | 27 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 |
 | 28 | [Apocalypse](https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:50 |
-| 29 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 |
+| 29 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 |
 | 30 | [Loi de la calle](https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW) | [Loi de la calle](https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA) | 5:44 |
 | 31 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 |
 | 32 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 |

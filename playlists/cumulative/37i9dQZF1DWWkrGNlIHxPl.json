@@ -2426,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Wild Things",
+        "url": "https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD"
+      },
+      "artists": [
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191408,
+      "name": "Wild Things",
+      "url": "https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT"
+    },
+    {
+      "album": {
         "name": "Wild Trance",
         "url": "https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML"
       },

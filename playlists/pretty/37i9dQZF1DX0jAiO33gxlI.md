@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kawe
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,854 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,965 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Gratidão](https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 4:07 |
 | 14 | [Sobretudo](https://open.spotify.com/track/4a6LKQk30aTel2cBZbnZUm) | [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3) | [Sobretudo](https://open.spotify.com/album/0DlnrJISoC1XI1nWK84Qvf) | 2:54 |
 | 15 | [Que Nem Criança](https://open.spotify.com/track/1ceM4rUT3e7ilZYSVqPKnO) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Que Nem Criança](https://open.spotify.com/album/4wrYuwiRAIrhkpf5z8Nbtt) | 4:14 |
-| 16 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3ozin](https://open.spotify.com/artist/5Cbjy7nxAdn1jjlUVlbhsJ) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 |
+| 16 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 |
 | 17 | [Sobe junto](https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sobe junto](https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt) | 3:25 |
 | 18 | [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/1ARpf6Tuivb4hnPzgy4tQY) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/66kMEjrEoIXIvERhjEj40q) | 5:03 |
 | 19 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 |

@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems.",
-  "num_followers": 878266,
+  "num_followers": 878912,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk5OCwwMDAwMDAwMDI2NWIyZWY4NzEwNjIxMjI2NGQwYzAwMjVmNzZmZjNj",
+  "snapshot_id": "MTY0ODY4ODM0NCwwMDAwMDAwMDY1YjlhNjdmOWFiNWFlY2U3NzU3NWY1OTgyOWY3NzIx",
   "tracks": [
     {
       "added_at": "2022-03-10 11:16:41",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
+        "name": "December",
+        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 189542,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -447,6 +431,22 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189542,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/0hx6DGF06XL6nmkAX4GsVa"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6Ei2gpD1MwqQGVh7DEXnqZ"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "acting like that (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -499,18 +479,22 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 218054,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/6WoyghnMAvDDRbZfFbpwEo"
+      "duration_ms": 191066,
+      "name": "acting like that (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -563,22 +547,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/5WoRLOCwzWVCGqFXLBghGx"
       },
@@ -595,8 +563,8 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz"
       },
       "artists": [
         {
@@ -604,9 +572,25 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+      "duration_ms": 218054,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/6WoyghnMAvDDRbZfFbpwEo"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -675,6 +659,38 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Some Kind Of Disaster",
+        "url": "https://open.spotify.com/album/5HtpUToS8VYplVBQrTipBt"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 223994,
+      "name": "Some Kind Of Disaster",
+      "url": "https://open.spotify.com/track/0aZfKmSAMSZweDTNKd9UPo"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Some Kind Of Disaster",
-        "url": "https://open.spotify.com/album/5HtpUToS8VYplVBQrTipBt"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 223994,
-      "name": "Some Kind Of Disaster",
-      "url": "https://open.spotify.com/track/0aZfKmSAMSZweDTNKd9UPo"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "Burnout (Deluxe Version)",
         "url": "https://open.spotify.com/album/5w7kcX029ep5BMUApozhsS"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Lovely Little Lonely",
-        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 203057,
-      "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Lovely Little Lonely",
+        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 203057,
+      "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "Lovely Little Lonely",
         "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 192825,
       "name": "Don't Come Down",
       "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 185733,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "The Ballad of Mona Lisa",
-      "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "Scumbag (feat. blink-182)",
         "url": "https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "The Ballad of Mona Lisa",
+      "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
         "name": "Dead Reflection",
         "url": "https://open.spotify.com/album/43mB8nIZ2n1TAKzbkUUtrI"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 188880,
       "name": "The Afterglow",
       "url": "https://open.spotify.com/track/2DdQUpye64CYDB9Hahf3Q3"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
-        "name": "The All-American Rejects",
-        "url": "https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Swing, Swing",
-      "url": "https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -1379,6 +1363,22 @@
       "duration_ms": 197225,
       "name": "Vicious Love (feat. Hayley Williams)",
       "url": "https://open.spotify.com/track/44BrW9G0DSu50xItRb1gFK"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "The All-American Rejects",
+        "url": "https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Swing, Swing",
+      "url": "https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2"
     },
     {
       "added_at": "2022-03-10 11:16:41",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-03-10 11:16:41",
       "album": {
-        "name": "Strange Love",
-        "url": "https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L"
-      },
-      "artists": [
-        {
-          "name": "Simple Creatures",
-          "url": "https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "Strange Love",
-      "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
-    },
-    {
-      "added_at": "2022-03-10 11:16:41",
-      "album": {
         "name": "Louder Now (U.S. Version)",
         "url": "https://open.spotify.com/album/5MkvE4fgTdjQMEyVYZCdCk"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 171533,
       "name": "First Date",
       "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2022-03-10 11:16:41",
+      "album": {
+        "name": "Strange Love",
+        "url": "https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L"
+      },
+      "artists": [
+        {
+          "name": "Simple Creatures",
+          "url": "https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "Strange Love",
+      "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
     },
     {
       "added_at": "2022-03-10 11:16:41",

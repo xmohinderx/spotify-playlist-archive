@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,124 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,125 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 49 | [City of Blinding Lights](https://open.spotify.com/track/4ItWussj1AjpGcBEwhMLP2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Devil Wears Prada \(Music from the Motion Picture\)](https://open.spotify.com/album/2JMIfKLVIBC2ecgFhxuT5s) | 5:44 |
 | 50 | [New York at Night](https://open.spotify.com/track/1AETvuSzlhLT7uasHHmGvI) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:34 |
 
-Snapshot ID: `MTY0ODYwMTU3NSwwMDAwMDAwMDQ5YTMzNDQwMzAwOTJjMzJhNjFlMDkyNjAwOWFhMDA1`
+Snapshot ID: `MTY0ODY4NzkzMSwwMDAwMDAwMDQ5YTMzNDQwMzAwOTJjMzJhNjFlMDkyNjAwOWFhMDA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,299 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,404 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 4 | [Head Mounted Sideways](https://open.spotify.com/track/55kwtXkyaWf9X77Zl5cMSW) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Head Mounted Sideways](https://open.spotify.com/album/5MVC7GzxnLBUOAn1nfgVzq) | 5:34 |
 | 5 | [Eden \- P O R T A L S](https://open.spotify.com/track/62duewknNqt9fZhBoYAanE) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [PORTALS](https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd) | 6:33 |
 | 6 | [The 6 6 9](https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR) | 4:32 |
-| 7 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 |
+| 7 | [Monomyth](https://open.spotify.com/track/0WiLaIOpXOqfyMfCEuKUJ5) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Monomyth](https://open.spotify.com/album/4QpUgATVSx1YGHvq8nDwsl) | 3:26 |
 | 8 | [Shapes](https://open.spotify.com/track/0twqNLMlaIECkRAK5leXQf) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Shapes](https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa) | 2:58 |
 | 9 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 |
 | 10 | [Blind Lead the Blind \- Instrumental](https://open.spotify.com/track/6VuJjoD1aYAgiXCVnE3EWb) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Blind Lead the Blind](https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW) | 2:53 |
 | 11 | [Turned](https://open.spotify.com/track/00CTRQJyxO0inKmGou2UEo) | [Ivent Horizon](https://open.spotify.com/artist/2MHKUsmU9dDzntUPCwa2kY) | [Turned](https://open.spotify.com/album/4S61VNyGoPh1bwqk5Im0jH) | 3:39 |
 | 12 | [Unity](https://open.spotify.com/track/49JK3rJMGOV2ypX9Gvz6up) | [Oddland](https://open.spotify.com/artist/2C4y5kq2y7T69khYjax5YB) | [Unity](https://open.spotify.com/album/54vtA7FHzeHK8zsCvg7XYl) | 6:17 |
-| 13 | [Monomyth](https://open.spotify.com/track/0WiLaIOpXOqfyMfCEuKUJ5) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Monomyth](https://open.spotify.com/album/4QpUgATVSx1YGHvq8nDwsl) | 3:26 |
+| 13 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 |
 | 14 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 |
 | 15 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 |
 | 16 | [Early Grave](https://open.spotify.com/track/5l3ixdypB5Wptrx9ZxHewT) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Early Grave](https://open.spotify.com/album/4VyzqJxJT7RyotKF20NimE) | 3:51 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 20 | [Alone](https://open.spotify.com/track/6DOqduiusrH8Fg6UZIwDnd) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Alone](https://open.spotify.com/album/4myfxSQEdaqViBIv2A8W8E) | 5:47 |
 | 21 | [Leviathan](https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Phronesis](https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75) | 4:34 |
 | 22 | [Judgement \(& Punishment\)](https://open.spotify.com/track/2Jba2VUVpZD7yr5AQl3z6K) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Judgement \(& Punishment\)](https://open.spotify.com/album/1rdD03sOLqU6iqPOEsGAFN) | 4:19 |
-| 23 | [Uncharted](https://open.spotify.com/track/17ZTjoAXGBEQQBKIf9n1L3) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Worlds Apart](https://open.spotify.com/album/1qKNenjTiNf72CXtCze4J3) | 4:52 |
-| 24 | [Vivid](https://open.spotify.com/track/1vnpW0MkecIiL3IkEqkmTj) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/4JmBVe1ha6JOnbqSJKiXaz) | 4:28 |
-| 25 | [Abandoned](https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Abandoned](https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI) | 5:27 |
+| 23 | [Abandoned](https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Abandoned](https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI) | 5:27 |
+| 24 | [Uncharted](https://open.spotify.com/track/17ZTjoAXGBEQQBKIf9n1L3) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Worlds Apart](https://open.spotify.com/album/1qKNenjTiNf72CXtCze4J3) | 4:52 |
+| 25 | [Vivid](https://open.spotify.com/track/1vnpW0MkecIiL3IkEqkmTj) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/4JmBVe1ha6JOnbqSJKiXaz) | 4:28 |
 | 26 | [The Sun Sleeps](https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps](https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP) | 4:14 |
 | 27 | [Antagonist](https://open.spotify.com/track/4G44da3BuHq3IBEAv9fyuP) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Antagonist](https://open.spotify.com/album/6cdXaSFxU2jMO7z3nsArPh) | 6:02 |
 | 28 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 91 | [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 |
 | 92 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 |
 | 93 | [Paradise](https://open.spotify.com/track/64dt6MAY6mSV1mQBUl8Uf0) | [Artificial Sky](https://open.spotify.com/artist/2nrrmLHotFGo4Mg627nDtN) | [Paradise](https://open.spotify.com/album/1LF4dSz5wwgj1jPh0VHXRK) | 4:10 |
-| 94 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 |
-| 95 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 |
-| 96 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 |
-| 97 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 |
-| 98 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 |
-| 99 | [Mute Love](https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Mute Talk](https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi) | 4:07 |
+| 94 | [Mute Love](https://open.spotify.com/track/6uwZSC0XTaSw6wTrcJFQbs) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Mute Talk](https://open.spotify.com/album/4bymBGFH6WbToOEN2gftyi) | 4:07 |
+| 95 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 |
+| 96 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 |
+| 97 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 |
+| 98 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 |
+| 99 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 |
 | 100 | [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 |
 
-Snapshot ID: `MTY0ODYwMTg1NCwwMDAwMDAwMDFhYWU3ZjIwZGIyYzA2ZmYyYWQ0Njk0NzFhMDczYWM5`
+Snapshot ID: `MTY0ODY4ODIwNSwwMDAwMDAwMDVlYTgxMjVjYmNiNDA2MzQ4Yzc0MmNmMzc0ZGY4ZWVj`

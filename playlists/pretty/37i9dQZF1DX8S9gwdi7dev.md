@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 
 > Fun tracks for your Halloween festivities!
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,293 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,862 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 | 59 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/33YmfTNoLnbkRnOjf7YIVm) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is the Mission](https://open.spotify.com/album/0C7tn68LWhhw5Ez6g9LMjz) | 2:56 |
 | 60 | [Witch Doctor](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 |
 
-Snapshot ID: `MTYzNTM1NTQ4MywwMDAwMDAyZDAwMDAwMTdjYzJjODVkNmYwMDAwMDE3YzMyZGY4MzRm`
+Snapshot ID: `MTY0ODY3NzU0MSwwMDAwMDAyZjAwMDAwMTdmZGNkNmQ0OGUwMDAwMDE3YzMyZGY4MzRm`

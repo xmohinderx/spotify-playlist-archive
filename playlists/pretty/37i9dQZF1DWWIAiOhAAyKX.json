@@ -1,12 +1,12 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 27207,
+  "num_followers": 27679,
   "original_name": "bad bunny perreo mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTUzNiwwMDAwMDAwMDkzZDU2ZTAxMzFjMWZlNTRmNWYyZGUxNmZhMjI5MjBl",
+  "snapshot_id": "MTY0ODY4Nzg5MiwwMDAwMDAwMDNlZmMxZWUxNGE1YTAyNDdhODNkN2ZlODU0N2VkYmM1",
   "tracks": [
     {
       "added_at": "2022-02-01 19:04:43",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "MOJAITA",
-      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 196500,
       "name": "Bichiyal",
       "url": "https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "MOJAITA",
+      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "CUIDAO POR AH\u00cd",
+      "url": "https://open.spotify.com/track/6SYSu569pfYdkDT9A5lZqi"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "CUIDAO POR AH\u00cd",
-      "url": "https://open.spotify.com/track/6SYSu569pfYdkDT9A5lZqi"
     },
     {
       "added_at": "2022-02-01 19:04:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,628 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,668 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 48 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
 | 49 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 50 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
-| 51 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 |
-| 52 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 |
-| 53 | [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 |
-| 54 | [Before You Gotta Go](https://open.spotify.com/track/5PuGoOpqQj5duBAefGVRJB) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/0I6nvyv53wMsOwOuJFxGp0) | 3:45 |
-| 55 | [It Wasn't Me](https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [It Wasn't Me](https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03) | 4:07 |
+| 51 | [It Wasn't Me](https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [It Wasn't Me](https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03) | 4:07 |
+| 52 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 |
+| 53 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 |
+| 54 | [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 |
+| 55 | [Before You Gotta Go](https://open.spotify.com/track/5PuGoOpqQj5duBAefGVRJB) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/0I6nvyv53wMsOwOuJFxGp0) | 3:45 |
 | 56 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 |
 | 57 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 |
 | 58 | [Avalanche](https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [Avalanche](https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP) | 2:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 92 | [NYC](https://open.spotify.com/track/3PO6bQHGoPJh4kE2mMBIWw) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3POEgRtT5FxmaaMNdBZWT0) | 3:54 |
 | 93 | [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 |
 | 94 | [Nature's Way](https://open.spotify.com/track/4r05BDLjV65C9vWTWGspVf) | [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [Excelsior!](https://open.spotify.com/album/73WPvTgw83Mcwy05plFvTs) | 3:26 |
-| 95 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
-| 96 | [Judy](https://open.spotify.com/track/35wEKrBJUtpPmuHvu1skxn) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/7bumNcVT747qlpvGnLSXHA) | 2:32 |
-| 97 | [Shine Your Light on Me](https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Shine Your Light on Me](https://open.spotify.com/album/6RS8ZU3E0tfqM9OqKXLd6o) | 3:56 |
+| 95 | [Judy](https://open.spotify.com/track/35wEKrBJUtpPmuHvu1skxn) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/7bumNcVT747qlpvGnLSXHA) | 2:32 |
+| 96 | [Shine Your Light on Me](https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Shine Your Light on Me](https://open.spotify.com/album/6RS8ZU3E0tfqM9OqKXLd6o) | 3:56 |
+| 97 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 | 98 | [Hoops](https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Less Ready to Go](https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa) | 4:27 |
 | 99 | [Something On Your Mind](https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time](https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW) | 3:23 |
 | 100 | [By Myself](https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [By Myself](https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO) | 2:26 |
 
-Snapshot ID: `MTY0ODYwMTQzOSwwMDAwMDAwMGQxZDQ4MzM1ODk4ODU4ZDhlMjc4MTE1ZDk2OTc5Mzdm`
+Snapshot ID: `MTY0ODY4Nzc5NiwwMDAwMDAwMDAyNTUxMTNiMmQ3ZTQ2OTI1NDMwYzdhMGZjZGNlYTNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 
 > Embrace your secret favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,118,522 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,119,007 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 | 19 | [Classic](https://open.spotify.com/track/3BJm2KbylyJuzZjRUFXLBJ) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5lpAXw4rMQajbfPxbc6boh) | 2:55 |
 | 20 | [Call Me Maybe](https://open.spotify.com/track/6ol4ZSifr7r3Lb2a9L5ZAB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Call Me Maybe](https://open.spotify.com/album/3eHEUyFhVdkoXEJzXC0EKT) | 3:13 |
 | 21 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 |
-| 22 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
-| 23 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 |
+| 22 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 |
+| 23 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
 | 24 | [Islands In The Stream](https://open.spotify.com/track/2xSJiMxoZ9eiqsWhfrdYjs) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [All The Hits And All New Love Songs](https://open.spotify.com/album/22frVhmoUMIcCCnBVIm66h) | 4:10 |
 | 25 | [Bring It All Back](https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:34 |
 | 26 | [Sweet Caroline](https://open.spotify.com/track/6b5PBL2QNXmAt1DfqbwO9Z) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Love Songs](https://open.spotify.com/album/0t3mxFC9zsswDNT2OnfoVk) | 3:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 | 149 | [Start of Something New](https://open.spotify.com/track/4LwrgltRSrddxeyhIPSoqa) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella Montez](https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:16 |
 | 150 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
 
-Snapshot ID: `MTY0ODYwMTgwNSwwMDAwMDAwMDhmNTI5ODBhOTlmOGNkNmUyZjRlZmU1ZmQ5NGIwNTdk`
+Snapshot ID: `MTY0ODY4ODE1NywwMDAwMDAwMDE2MGJhOTc2MjJmOWE3ZjkzMzdkN2Y2ZWEzMzY2ODMw`

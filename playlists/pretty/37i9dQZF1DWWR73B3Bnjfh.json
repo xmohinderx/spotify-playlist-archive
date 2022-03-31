@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of jazz.",
-  "num_followers": 28478,
+  "num_followers": 28638,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTU0MywwMDAwMDAwMGE0ZmE3MTIwYTIxNWExOTk4ZjRjMTdlMzY0ZDVkNWFh",
+  "snapshot_id": "MTY0ODY4Nzg5OSwwMDAwMDAwMGQxMWUwMmIwZTE5ZGQyOWM5NDU3M2VkNjcyZjQ1YjZj",
   "tracks": [
     {
       "added_at": "2022-01-26 12:22:37",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -147,18 +163,18 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Moon Beams [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 227760,
-      "name": "That's All",
-      "url": "https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3"
+      "duration_ms": 162680,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -175,22 +191,6 @@
       "duration_ms": 305186,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
-        "name": "Moon Beams [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -319,38 +319,6 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
-        "name": "Coltrane (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 323146,
-      "name": "Soul Eyes",
-      "url": "https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
         "name": "A Swingin' Affair",
         "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -399,6 +383,22 @@
       "duration_ms": 371986,
       "name": "Something I Dreamed Last Night",
       "url": "https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
+        "name": "Coltrane (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 323146,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Fin De L'Affaire - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 480333,
       "name": "The Blues In My Flat",
       "url": "https://open.spotify.com/track/3wyvK7ySxD4pR285UTRIEG"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Fin De L'Affaire - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 346160,
+      "name": "Ballad",
+      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 346160,
-      "name": "Ballad",
-      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
     },
     {
       "added_at": "2022-01-26 12:22:37",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-01-26 12:22:37",
       "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
-    },
-    {
-      "added_at": "2022-01-26 12:22:37",
-      "album": {
         "name": "Sarah Vaughan In Hi-Fi",
         "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 183066,
       "name": "I Must Have That Man!",
       "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
+    },
+    {
+      "added_at": "2022-01-26 12:22:37",
+      "album": {
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": "2022-01-26 12:22:37",

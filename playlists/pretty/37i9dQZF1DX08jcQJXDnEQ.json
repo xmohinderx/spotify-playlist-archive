@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover : Metallica",
-  "num_followers": 521316,
+  "num_followers": 521717,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY1MiwwMDAwMDAwMDQyOWVhYzBlM2JhM2I3ZGZkN2QyNjZiNGNkYjY1MjVj",
+  "snapshot_id": "MTY0ODY4ODAwNywwMDAwMDAwMDIyOWQwYzhlMmVkY2VhY2NlNzdlMzY2ZGM4MzQ1MmNj",
   "tracks": [
     {
       "added_at": "2021-09-09 22:02:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "Images and Words",
         "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Freak On a Leash",
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "March Or Die",
         "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
       },
@@ -215,6 +231,38 @@
       "duration_ms": 275160,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2022-03-17 20:45:52",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Sad But True (Remastered)",
+      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -235,22 +283,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Dirt",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -263,38 +295,6 @@
       "duration_ms": 149466,
       "name": "Them Bones",
       "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Freak On a Leash",
-      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
-    },
-    {
-      "added_at": "2022-03-17 20:45:52",
-      "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Sad But True (Remastered)",
-      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Break Stuff",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Break Stuff",
-      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
+      "duration_ms": 152560,
+      "name": "We Die Young",
+      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -407,22 +423,6 @@
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "We Die Young",
-      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 329760,
-      "name": "King Nothing",
-      "url": "https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },
@@ -537,6 +521,22 @@
       "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
+      "added_at": "2022-02-22 20:15:32",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Toxicity",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
+    },
+    {
       "added_at": "2021-09-09 22:02:00",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
@@ -553,20 +553,20 @@
       "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
-      "added_at": "2022-02-22 20:15:32",
+      "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Toxicity",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
+      "duration_ms": 329760,
+      "name": "King Nothing",
+      "url": "https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
-      "added_at": "2021-09-09 22:02:00",
+      "added_at": "2022-02-22 20:15:32",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 386493,
-      "name": "The Unforgiven",
-      "url": "https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa"
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
     },
     {
-      "added_at": "2022-02-22 20:15:32",
+      "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+      "duration_ms": 386493,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 399266,
+      "name": "\u00c6nema",
+      "url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "The Eye",
-        "url": "https://open.spotify.com/album/0FgjPsE2l9l2kWYmgdwMLh"
-      },
-      "artists": [
-        {
-          "name": "King Diamond",
-          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Eye of the Witch",
-      "url": "https://open.spotify.com/track/2gOliXlK1v88H1fSbB6MBO"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "\u00c6nima",
-        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+        "name": "The Eye",
+        "url": "https://open.spotify.com/album/0FgjPsE2l9l2kWYmgdwMLh"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
         }
       ],
-      "duration_ms": 399266,
-      "name": "\u00c6nema",
-      "url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf"
+      "duration_ms": 227533,
+      "name": "Eye of the Witch",
+      "url": "https://open.spotify.com/track/2gOliXlK1v88H1fSbB6MBO"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "No Prayer for the Dying (2015 Remaster)",
+        "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "Bring Your Daughter... to the Slaughter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
-    },
-    {
-      "added_at": "2022-02-22 20:15:32",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Engine No. 9",
-      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-02-22 20:15:32",
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Engine No. 9",
+      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
+    },
+    {
+      "added_at": "2022-02-22 20:15:32",
+      "album": {
         "name": "Burnt Offerings",
         "url": "https://open.spotify.com/album/0y89MABNBicWddVTsfX2wI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 986826,
       "name": "Dante's Inferno",
       "url": "https://open.spotify.com/track/2G99JtIngAKV9LnMBzQUXG"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "No Prayer for the Dying (2015 Remaster)",
-        "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "Bring Your Daughter... to the Slaughter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2"
     },
     {
       "added_at": "2021-09-09 22:02:00",

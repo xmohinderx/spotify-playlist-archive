@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 200666,
       "name": "Agua",
       "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
@@ -1134,6 +1134,28 @@
     },
     {
       "album": {
+        "name": "Mentiras Con Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1hSA9BiaGVr9aqNoQ0jWQB"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK"
+    },
+    {
+      "album": {
         "name": "Miel de Aguacate",
         "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
       },
@@ -1591,7 +1613,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
@@ -1798,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Tambaleo",
+        "url": "https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146807,
+      "name": "Tambaleo",
+      "url": "https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6"
+    },
+    {
+      "album": {
         "name": "Ten\u00edas Que Avisar",
         "url": "https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ"
       },
@@ -1896,6 +1936,24 @@
     },
     {
       "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+    },
+    {
+      "album": {
         "name": "Vayay\u00f3 (Jiony Remix)",
         "url": "https://open.spotify.com/album/4sr9L7lfsAJsnuQXgBcrgl"
       },
@@ -1929,7 +1987,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 208139,
       "name": "Voy a Hacer las Cosas Lento",
       "url": "https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o"
@@ -1951,6 +2009,24 @@
       "duration_ms": 164651,
       "name": "wepa (Eggglub Remix)",
       "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Vas?",
+        "url": "https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
     },
     {
       "album": {

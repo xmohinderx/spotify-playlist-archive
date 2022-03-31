@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,006 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,125 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 4 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 |
 | 5 | [La vie en rose](https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:47 |
 | 6 | [Moon River](https://open.spotify.com/track/3azuowB4mADwvYCumctRrs) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa) | 5:10 |
-| 7 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:26 |
-| 8 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 |
-| 9 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 |
-| 10 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 |
-| 11 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 |
+| 7 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 |
+| 8 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:26 |
+| 9 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 |
+| 10 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 |
+| 11 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 |
 | 12 | [Are You Lonesome Tonight? \(feat\. Paul Buchanan\)](https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [To Love Again](https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6) | 4:00 |
 | 13 | [The Nearness Of You](https://open.spotify.com/track/5Q8vFGe2wgjD50TzkHWAkp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Precious & Rare: Nancy Wilson](https://open.spotify.com/album/1qvEgeCQpyGkmEFCL2fH8C) | 2:58 |
-| 14 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 |
-| 15 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
-| 16 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 |
-| 17 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 |
-| 18 | [L\-O\-V\-E](https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [L\-O\-V\-E](https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D) | 2:08 |
-| 19 | [I've Got a Crush On You](https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 2:32 |
+| 14 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 |
+| 15 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 |
+| 16 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
+| 17 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 |
+| 18 | [I've Got a Crush On You](https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 2:32 |
+| 19 | [L\-O\-V\-E](https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [L\-O\-V\-E](https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D) | 2:08 |
 | 20 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
 | 21 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 |
 | 22 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
 | 100 | [Midnight Sun](https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:35 |
 
-Snapshot ID: `MTY0ODYwMTQ1NywwMDAwMDAwMDcxYTM3Yjk2ZDY3MGFlMWU3ZWMwZTliYTgyMTIyYjll`
+Snapshot ID: `MTY0ODY4NzgxMywwMDAwMDAwMGY5ZjczYmU2OTdiNjFiZGMzNTRiYmM3ZDU1MWIyZGI0`

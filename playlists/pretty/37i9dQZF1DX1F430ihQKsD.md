@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Sophia Bel
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,017 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,063 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 18 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 19 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
 | 20 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 |
-| 21 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 |
+| 21 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 |
 | 22 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 |
 | 23 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 |
 | 24 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 |

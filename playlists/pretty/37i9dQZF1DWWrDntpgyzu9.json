@@ -1,12 +1,12 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea!",
-  "num_followers": 831055,
+  "num_followers": 831083,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTU1NiwwMDAwMDAwMDAzOTRmZTMyYjFmZWUwNWEwOTFhOWQyMjFmNTViZjNj",
+  "snapshot_id": "MTY0ODY4NzkxMiwwMDAwMDAwMGM4Y2QxODZkYWFhNjBlMjE1ZmUxMjU4NTZkYjM0M2E1",
   "tracks": [
     {
       "added_at": "2021-09-22 16:37:52",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
+        "name": "Meu talism\u00e3",
+        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Meu talism\u00e3",
+      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 302200,
       "name": "Tempo Perdido",
       "url": "https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Meu talism\u00e3",
-        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Meu talism\u00e3",
-      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -551,6 +551,22 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
         "name": "Pesad\u00e3o",
         "url": "https://open.spotify.com/album/1lTqQFgYroGTUZp1e7BoSp"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 199200,
       "name": "Pesad\u00e3o",
       "url": "https://open.spotify.com/track/1BkyiAw1L0BOHYckwpRX4V"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2021-09-22 16:37:52",

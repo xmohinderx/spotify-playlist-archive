@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,474 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,584 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 37 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 |
 | 38 | [I Hear Music \- Remastered](https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Great Ladies Of Song / Spotlight On Dakota Staton](https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl) | 2:32 |
 | 39 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 |
-| 40 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
-| 41 | [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 |
-| 42 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
-| 43 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 |
+| 40 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 |
+| 41 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
+| 42 | [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 |
+| 43 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
 | 44 | [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 |
 | 45 | [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 |
 | 46 | [I Feel Foolish](https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Feel Foolish](https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [He's My Guy](https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 4:12 |
 | 100 | [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 |
 
-Snapshot ID: `MTY0ODYwMTYyMywwMDAwMDAwMDdjMmQ5NzA4NWFmOGI5YmQwNjFmMjU5NDkyYmE0Zjlm`
+Snapshot ID: `MTY0ODY4Nzk3OCwwMDAwMDAwMGIxNTU1ZmNkYzFhNGJmMWJkZjVhNDFjMWE0NjA2Yjky`

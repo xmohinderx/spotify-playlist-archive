@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Big Thief",
-  "num_followers": 41628,
+  "num_followers": 41668,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQzOSwwMDAwMDAwMGQxZDQ4MzM1ODk4ODU4ZDhlMjc4MTE1ZDk2OTc5Mzdm",
+  "snapshot_id": "MTY0ODY4Nzc5NiwwMDAwMDAwMDAyNTUxMTNiMmQ3ZTQ2OTI1NDMwYzdhMGZjZGNlYTNj",
   "tracks": [
     {
       "added_at": "2022-01-21 14:13:43",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-01-21 14:13:43",
       "album": {
+        "name": "It Wasn't Me",
+        "url": "https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 247258,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep"
+    },
+    {
+      "added_at": "2022-01-21 14:13:43",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/5PuGoOpqQj5duBAefGVRJB"
-    },
-    {
-      "added_at": "2022-01-21 14:13:43",
-      "album": {
-        "name": "It Wasn't Me",
-        "url": "https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 247258,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep"
     },
     {
       "added_at": "2022-01-21 14:13:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-01-21 14:13:43",
       "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
-    },
-    {
-      "added_at": "2022-01-21 14:13:43",
-      "album": {
         "name": "Judy / Jeremy's Wedding",
         "url": "https://open.spotify.com/album/7bumNcVT747qlpvGnLSXHA"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 236050,
       "name": "Shine Your Light on Me",
       "url": "https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk"
+    },
+    {
+      "added_at": "2022-01-21 14:13:43",
+      "album": {
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2022-01-21 14:13:43",

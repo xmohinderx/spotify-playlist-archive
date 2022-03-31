@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,593 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,819 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 20 | [Fever](https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:34 |
 | 21 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 22 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
-| 23 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 |
-| 24 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
-| 25 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
+| 23 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
+| 24 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 |
+| 25 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 26 | [The Hell Song](https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:18 |
 | 27 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 |
 | 28 | [Heart Mind Body & Soul](https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K) | [The New Regime](https://open.spotify.com/artist/4XYfaDL9We5ubqAvl3Adli) | [Heart Mind Body & Soul](https://open.spotify.com/album/0Nh26pPaQbBB8Yzf6jpNb4) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 49 | [The Big What If](https://open.spotify.com/track/5S9nq3W1Vzw8L3mXl0L4G9) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/12sNQhAIKd2ymuGrIk4gnx) | 3:14 |
 | 50 | [I Am an Animal](https://open.spotify.com/track/2YAusOVNsAHpsN6oZ8XzoF) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Great Divide \(Deluxe Version\)](https://open.spotify.com/album/6XXVbBty3sMrakjzhql9Pz) | 3:31 |
 
-Snapshot ID: `MTY0ODYwMTU4OSwwMDAwMDAwMGI5NjJiNzIwZTExNDkwMmJjZWI0YzA3ZjJiNTdiZjQy`
+Snapshot ID: `MTY0ODY4Nzk0NSwwMDAwMDAwMGU2NTc2Y2VlZTIyZTg2MTJlZWZiNDllYzQ2NGZlNzBh`

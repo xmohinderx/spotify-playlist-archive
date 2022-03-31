@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 24543,
+  "num_followers": 24561,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTc3MSwwMDAwMDAwMDliYTNhYjU1MWFlN2Q0NmU3MzZhZWY2ZjNjZjUxZTQ4",
+  "snapshot_id": "MTY0ODY4ODEyNSwwMDAwMDAwMGFiMjU3Njg1ZjAwNTIyNThhMzg1ODE0Yzc5MGM5OTdi",
   "tracks": [
     {
       "added_at": "2020-12-04 02:43:20",
@@ -95,6 +95,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "Ways",
+        "url": "https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH"
+      },
+      "artists": [
+        {
+          "name": "Xyla",
+          "url": "https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb"
+        }
+      ],
+      "duration_ms": 277004,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "MODUS OPERANDI 005 (mixed by TRAXMAN)",
         "url": "https://open.spotify.com/album/6yHBIYcEQaKzafljkBvJia"
       },
@@ -143,38 +159,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg"
-      },
-      "artists": [
-        {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
-        }
-      ],
-      "duration_ms": 195023,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Ways",
-        "url": "https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH"
-      },
-      "artists": [
-        {
-          "name": "Xyla",
-          "url": "https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb"
-        }
-      ],
-      "duration_ms": 277004,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 216560,
       "name": "Drank, Kush, Barz",
       "url": "https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg"
+      },
+      "artists": [
+        {
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+        }
+      ],
+      "duration_ms": 195023,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -239,22 +239,6 @@
       "duration_ms": 246308,
       "name": "Nycfw",
       "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "The Grove",
-        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "Skkrtt",
-      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -335,6 +319,22 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
+        "name": "The Grove",
+        "url": "https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "Skkrtt",
+      "url": "https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/0x1yjRNnoer1e1H3bJOUiI"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Some Pulp - EP",
-        "url": "https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s"
-      },
-      "artists": [
-        {
-          "name": "DJ Orange Julius",
-          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Battle",
-      "url": "https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "Perfecto",
         "url": "https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 214915,
       "name": "Flicka",
       "url": "https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Some Pulp - EP",
+        "url": "https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC"
-      },
-      "artists": [
-        {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
-        }
-      ],
-      "duration_ms": 277348,
-      "name": "8 Bit Shit",
-      "url": "https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "ON LIFE",
         "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "Juke Trax Online Vol. 13",
-        "url": "https://open.spotify.com/album/6tBqpKzYDAiIQxanFOZ0FU"
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC"
       },
       "artists": [
         {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
         }
       ],
-      "duration_ms": 338000,
-      "name": "In Da Club Before Eleven O' Clock",
-      "url": "https://open.spotify.com/track/2JsQdDbuwFYNwykifahaYL"
+      "duration_ms": 277348,
+      "name": "8 Bit Shit",
+      "url": "https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -687,6 +671,38 @@
       "duration_ms": 270960,
       "name": "New Start",
       "url": "https://open.spotify.com/track/6lEFi0B4E7tYgN7ahY7HlB"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Juke Trax Online Vol. 13",
+        "url": "https://open.spotify.com/album/6tBqpKzYDAiIQxanFOZ0FU"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "In Da Club Before Eleven O' Clock",
+      "url": "https://open.spotify.com/track/2JsQdDbuwFYNwykifahaYL"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "Juke Pack Vol.1",
+        "url": "https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p"
+      },
+      "artists": [
+        {
+          "name": "EQ Why",
+          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Juke It Up",
+      "url": "https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh"
     },
     {
       "added_at": "2020-12-11 05:59:00",
@@ -747,22 +763,6 @@
       "duration_ms": 150430,
       "name": "Still Geekin'",
       "url": "https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
-        "name": "Juke Pack Vol.1",
-        "url": "https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p"
-      },
-      "artists": [
-        {
-          "name": "EQ Why",
-          "url": "https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Juke It Up",
-      "url": "https://open.spotify.com/track/7FY0rPkPYlRlSmczXl9iQh"
     },
     {
       "added_at": "2020-12-03 17:37:02",
@@ -875,26 +875,6 @@
     {
       "added_at": "2020-12-03 17:37:02",
       "album": {
-        "name": "ON LIFE",
-        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
-      },
-      "artists": [
-        {
-          "name": "Teklife",
-          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
-        },
-        {
-          "name": "DJ Chap",
-          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "ICE CREAM",
-      "url": "https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx"
-    },
-    {
-      "added_at": "2020-12-03 17:37:02",
-      "album": {
         "name": "High on Clouds",
         "url": "https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 290813,
       "name": "Get Down Lil Bit - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+    },
+    {
+      "added_at": "2020-12-03 17:37:02",
+      "album": {
+        "name": "ON LIFE",
+        "url": "https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR"
+      },
+      "artists": [
+        {
+          "name": "Teklife",
+          "url": "https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg"
+        },
+        {
+          "name": "DJ Chap",
+          "url": "https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "ICE CREAM",
+      "url": "https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx"
     },
     {
       "added_at": "2020-12-03 17:37:02",

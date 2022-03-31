@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2408253,
+  "num_followers": 2408202,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTc1MCwwMDAwMDAwMDUwMzA1YTkzMTBmYTUwOGZhNjQxMTQ2NTNjZmJlZGM3",
+  "snapshot_id": "MTY0ODY4ODEwNCwwMDAwMDAwMDJiNTI1ZDc3OTA2ODIyNjBkYWQwNDRhODNlYTJiYzEy",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/4JJS843bH73FFzM5WHXXrc"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "When You're Ready",
         "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2021-10-01 04:01:00",

@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,037 likes - 245 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,063 likes - 245 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Walk With Nature](https://open.spotify.com/track/1OHDjyHn6jwiuyWN84QB5w) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Walk With Nature](https://open.spotify.com/album/66BZweQPwzt1vktfvn7rui) | 2:57 |
-| 2 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 |
-| 3 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
-| 4 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
-| 5 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
-| 6 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 |
-| 7 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 |
-| 8 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
-| 9 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
-| 10 | [Oxbow](https://open.spotify.com/track/2f7wOcyVJUtt9Z6jz8txDN) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Oxbow](https://open.spotify.com/album/3p7CeO37NauvlyDA4maAz9) | 2:58 |
-| 11 | [Peaceful](https://open.spotify.com/track/1ouVnpZfILngw8yFH1jOPd) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Peaceful](https://open.spotify.com/album/3vwkHMs6VtSUiqCLUA0aqC) | 2:04 |
-| 12 | [Memorial](https://open.spotify.com/track/0HjdwMPiT1l7lB26RjQL7M) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Memorial](https://open.spotify.com/album/4IC6MxKrC9UgZy5I3adjP9) | 2:55 |
-| 13 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 |
-| 14 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 |
-| 15 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 |
-| 16 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
-| 17 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 |
-| 18 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
-| 19 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
-| 20 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 |
+| 1 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 |
+| 2 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
+| 3 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 |
+| 4 | [True Projection](https://open.spotify.com/track/4JquZVAMtcMZGyO5NCej5b) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Motionless](https://open.spotify.com/album/73GwotUmJUkfdWXcJFwi6P) | 2:56 |
+| 5 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 |
+| 6 | [Laikas Miega](https://open.spotify.com/track/3ABUiqt1HJUiDMYp3PnTWp) | [Andris Vestiena](https://open.spotify.com/artist/5AgZ4H1tJPzHJ983xZyU0G) | [Laikas Miega](https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt) | 2:45 |
+| 7 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 |
+| 8 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
+| 9 | [Oxbow](https://open.spotify.com/track/2f7wOcyVJUtt9Z6jz8txDN) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Oxbow](https://open.spotify.com/album/3p7CeO37NauvlyDA4maAz9) | 2:58 |
+| 10 | [Peaceful](https://open.spotify.com/track/1ouVnpZfILngw8yFH1jOPd) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Peaceful](https://open.spotify.com/album/3vwkHMs6VtSUiqCLUA0aqC) | 2:04 |
+| 11 | [Memorial](https://open.spotify.com/track/0HjdwMPiT1l7lB26RjQL7M) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Memorial](https://open.spotify.com/album/4IC6MxKrC9UgZy5I3adjP9) | 2:55 |
+| 12 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 |
+| 13 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 |
+| 14 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 |
+| 15 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
+| 16 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 |
+| 17 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
+| 18 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
+| 19 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 |
+| 20 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 |
 | 22 | [Eclipse](https://open.spotify.com/track/2roGc5wvCNpRmUckCDMUON) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:02 |
 | 23 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 244 | [Partly Cloudy](https://open.spotify.com/track/6wxUU9CbveN4vGvokZLqRZ) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:23 |
 | 245 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 |
 
-Snapshot ID: `MTY0NTgxMzk3OCwwMDAwMDA1YTAwMDAwMTdmMzIyODU2ZGIwMDAwMDE2ZDE1NDQzZDA1`
+Snapshot ID: `MTY0ODY0NDQ4NSwwMDAwMDA1YjAwMDAwMTdmZGFkZTcwZjIwMDAwMDE2ZDE1NDQzZDA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356,327 likes - 200 songs - 18 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356,802 likes - 200 songs - 18 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 16 | [Yuregine Deprem](https://open.spotify.com/track/4WyEKbKh03uvJRcdKRnBBi) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Yuregine Deprem](https://open.spotify.com/album/2sdxUgB4Oit1CtucCTaqhm) | 3:47 |
 | 17 | [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 |
 | 18 | [Far Away](https://open.spotify.com/track/0owkRiLsjtXe3JKYxt9tf5) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso), [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Far Away](https://open.spotify.com/album/1A20CLLIpdw7tsZu25xZ7C) | 2:58 |
-| 19 | [Reflections](https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/61ifkR2UdZXUWyPMOZ0y0N) | 3:51 |
+| 19 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 |
 | 20 | [The Truth](https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:42 |
-| 21 | [Erase](https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Erase](https://open.spotify.com/album/76ISW6PFWVDcSJsHO7jBbk) | 4:13 |
-| 22 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
+| 21 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 |
+| 22 | [Reflections](https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/61ifkR2UdZXUWyPMOZ0y0N) | 3:51 |
 | 23 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 |
 | 24 | [Renaissance \- Manuel Riva Remix](https://open.spotify.com/track/6kiVi4iXhooHmaty1G5vV5) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Renaissance \(Manuel Riva Remix\)](https://open.spotify.com/album/0InymYk58sowWFJCdLDk1Q) | 3:46 |
 | 25 | [Into The Sun](https://open.spotify.com/track/07mpkMEJczVv3rXW0m5cmG) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Into The Sun](https://open.spotify.com/album/37GGcijAjQtWkUHbZYwPmL) | 4:03 |
@@ -174,11 +174,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 164 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 |
 | 165 | [Sin City](https://open.spotify.com/track/1YQiIO9Lfx00x2Ce55316v) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/6a6PwmzMz6P2T3SZez82Mj) | 6:31 |
 | 166 | [White Sky](https://open.spotify.com/track/0MuOQWH4N9C9jK44bzRTBQ) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [White Sky](https://open.spotify.com/album/2JpFWVg9PCkJbDKZ41WJDQ) | 2:15 |
-| 167 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 |
-| 168 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 |
-| 169 | [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 |
-| 170 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 |
-| 171 | [Anything & Everything](https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM) | [Beneath Usual](https://open.spotify.com/artist/7v9VVpzvaQx30gTNBHhsJB), [M.A.](https://open.spotify.com/artist/5pdHwAOqazh01p7oNiOPKU) | [Anything & Everything](https://open.spotify.com/album/50hN7avV4g1QOiEc7d320W) | 5:46 |
+| 167 | [Anything & Everything](https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM) | [Beneath Usual](https://open.spotify.com/artist/7v9VVpzvaQx30gTNBHhsJB), [M.A.](https://open.spotify.com/artist/5pdHwAOqazh01p7oNiOPKU) | [Anything & Everything](https://open.spotify.com/album/50hN7avV4g1QOiEc7d320W) | 5:46 |
+| 168 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 |
+| 169 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 |
+| 170 | [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 |
+| 171 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 |
 | 172 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 |
 | 173 | [Beautiful Nothing](https://open.spotify.com/track/2diSOKiCbQIslIZ8WsDCjI) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Beautiful Nothing EP](https://open.spotify.com/album/0wCK3Fxrd3f7KhSeMNr1WT) | 3:28 |
 | 174 | [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/7AVvNCXtylJhJ3seOYl33f) | 3:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Zikaron](https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d) | [Sahar Z](https://open.spotify.com/artist/47YdOgVXS5hzu5spoFFpHU) | [Mixed Feelings / Zikaron](https://open.spotify.com/album/02f2VvjIA20aM11fkIExdd) | 7:46 |
 | 200 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 |
 
-Snapshot ID: `MTY0ODYwMTczMCwwMDAwMDAwMDA2ODJhODdhODRkOWJiMTIzMGFlODkwNzEyZjllZTVi`
+Snapshot ID: `MTY0ODY4ODA4NSwwMDAwMDAwMDE4ZGNjNTk4YTg5ZTA2ZDVhYTQyNDJjZjQ0MDU3Mzg2`

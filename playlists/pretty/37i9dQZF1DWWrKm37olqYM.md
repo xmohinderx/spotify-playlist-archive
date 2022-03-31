@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Mighty Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,841 likes - 57 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,854 likes - 57 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

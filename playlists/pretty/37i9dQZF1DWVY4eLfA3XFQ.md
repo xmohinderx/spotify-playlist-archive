@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,673 likes - 131 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,814 likes - 131 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

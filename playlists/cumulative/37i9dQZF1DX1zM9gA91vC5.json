@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "88",
+        "url": "https://open.spotify.com/album/6YVrFPQ3k1xHiS4CuzsUFm"
+      },
+      "artists": [
+        {
+          "name": "Dani\u00ebl Tom\u00e0s",
+          "url": "https://open.spotify.com/artist/6QzHKkm6TF8gQQlHJxkY5c"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261680,
+      "name": "88",
+      "url": "https://open.spotify.com/track/0gpSBtXhCUiVH2y0DBMFJ5"
+    },
+    {
+      "album": {
         "name": "Comfort & Joy",
         "url": "https://open.spotify.com/album/5IycppouRvKj7TENJ0p31b"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 120124,
       "name": "After Dawn",
       "url": "https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53"
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
+    },
+    {
+      "album": {
         "name": "Always and Never",
         "url": "https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD"
       },
@@ -703,7 +739,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
@@ -955,7 +991,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Anemones",
       "url": "https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 195750,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP"
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Atlantis - Piano Version",
       "url": "https://open.spotify.com/track/5b5wyvqO8PQtnAGaLFBD5l"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 108497,
       "name": "Auf dem Felde",
       "url": "https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 139250,
       "name": "Caricia",
       "url": "https://open.spotify.com/track/5Ty9q3mxVbwHusTDD6ymxG"
@@ -2327,7 +2363,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 136750,
       "name": "Coulee Vert",
       "url": "https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw"
@@ -2381,7 +2417,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Creeks",
       "url": "https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia"
@@ -2421,6 +2457,24 @@
       "duration_ms": 121000,
       "name": "Crossing The Line",
       "url": "https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w"
+    },
+    {
+      "album": {
+        "name": "Cupola Quadrata",
+        "url": "https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5"
+      },
+      "artists": [
+        {
+          "name": "Ton Doux",
+          "url": "https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138019,
+      "name": "Cupola Quadrata",
+      "url": "https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6"
     },
     {
       "album": {
@@ -2597,7 +2651,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 140170,
       "name": "Der Vogel auf dem Felsen",
       "url": "https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M"
@@ -2838,6 +2892,24 @@
     },
     {
       "album": {
+        "name": "dream river.",
+        "url": "https://open.spotify.com/album/2updsK0kMBu23RfGBIP8Dd"
+      },
+      "artists": [
+        {
+          "name": "Woong Sun Hee",
+          "url": "https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87683,
+      "name": "dream river.",
+      "url": "https://open.spotify.com/track/1lHYlFy54afDBxts2V3KZZ"
+    },
+    {
+      "album": {
         "name": "Dried Out",
         "url": "https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX"
       },
@@ -2939,7 +3011,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 122500,
       "name": "Dunmore",
       "url": "https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc"
@@ -3119,7 +3191,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 128750,
       "name": "Egy ma\u0301sik nap",
       "url": "https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s"
@@ -3191,7 +3263,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 199987,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S"
@@ -3263,7 +3335,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 97182,
       "name": "Endings",
       "url": "https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF"
@@ -3497,7 +3569,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 180500,
       "name": "Evergreen Tree",
       "url": "https://open.spotify.com/track/4OMvHo3qtNJ2rgo6P1LjB1"
@@ -3569,7 +3641,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 164694,
       "name": "Fallen Rain",
       "url": "https://open.spotify.com/track/26DpsU4AU11OK1MjF4THqH"
@@ -3767,7 +3839,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Finding Hope",
       "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
@@ -3785,7 +3857,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 171250,
       "name": "Fine",
       "url": "https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7"
@@ -4265,7 +4337,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 132402,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr"
@@ -5003,7 +5075,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 190250,
       "name": "How You're Remembered",
       "url": "https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP"
@@ -5021,7 +5093,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
@@ -5039,7 +5111,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 104101,
       "name": "Human",
       "url": "https://open.spotify.com/track/3xSMHqImMckctNyDwbc6dy"
@@ -5443,7 +5515,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 155732,
       "name": "In Reform",
       "url": "https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI"
@@ -5605,7 +5677,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 155250,
       "name": "Intermedanos",
       "url": "https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP"
@@ -5965,7 +6037,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 212918,
       "name": "Knots",
       "url": "https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8"
@@ -6433,7 +6505,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
@@ -6577,7 +6649,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 142500,
       "name": "Lekko",
       "url": "https://open.spotify.com/track/0CzTFsHrS0ujOi4bgKzHbx"
@@ -6721,7 +6793,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 128374,
       "name": "Liefde",
       "url": "https://open.spotify.com/track/6mcqEF5nxG6PHa0NNaZmcD"
@@ -6793,7 +6865,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 184018,
       "name": "Ligare Arcum",
       "url": "https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N"
@@ -7189,7 +7261,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 140667,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ"
@@ -7675,7 +7747,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Mirror Image",
       "url": "https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI"
@@ -8039,7 +8111,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 147222,
       "name": "Naoko",
       "url": "https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU"
@@ -8363,7 +8435,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 175914,
       "name": "Nuageux",
       "url": "https://open.spotify.com/track/6SxecKjiavy2JnHSo3THF8"
@@ -8633,7 +8705,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 124549,
       "name": "Otherwise",
       "url": "https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs"
@@ -8705,7 +8777,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 153842,
       "name": "Paisible",
       "url": "https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7"
@@ -8723,7 +8795,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 110039,
       "name": "Parce que tu me manques",
       "url": "https://open.spotify.com/track/3uz5pvPIZEkgRgOpaP20Ge"
@@ -8849,7 +8921,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 139978,
       "name": "Peaceful Rebellion",
       "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
@@ -8885,7 +8957,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 128919,
       "name": "Peninsula",
       "url": "https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE"
@@ -8921,7 +8993,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 143883,
       "name": "Perpetuity",
       "url": "https://open.spotify.com/track/1NAue0ATmc0axe2XsTf9e0"
@@ -8957,7 +9029,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 139717,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f"
@@ -8975,7 +9047,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 186000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v"
@@ -9263,7 +9335,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 141124,
       "name": "Progression",
       "url": "https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72"
@@ -9281,7 +9353,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 130937,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k"
@@ -9821,7 +9893,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 123373,
       "name": "Restzeit",
       "url": "https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy"
@@ -9969,6 +10041,24 @@
       "duration_ms": 136000,
       "name": "River Running Free",
       "url": "https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F"
+    },
+    {
+      "album": {
+        "name": "Riverlight",
+        "url": "https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP"
+      },
+      "artists": [
+        {
+          "name": "Garreth Broke",
+          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133250,
+      "name": "Riverlight",
+      "url": "https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU"
     },
     {
       "album": {
@@ -10163,7 +10253,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 128922,
       "name": "Sail",
       "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
@@ -10973,7 +11063,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/2StF1wwPwe1QFeIOilnkDK"
@@ -11081,7 +11171,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 188491,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3CAOZhZM2vAe49V3PQo0Li"
@@ -11171,7 +11261,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 202822,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e"
@@ -11477,7 +11567,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 165000,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI"
@@ -11495,7 +11585,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 119687,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I"
@@ -11513,7 +11603,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 141355,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw"
@@ -11531,7 +11621,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 128187,
       "name": "Strejfer",
       "url": "https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR"
@@ -11625,7 +11715,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 145818,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx"
@@ -11751,7 +11841,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 167295,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
@@ -12093,7 +12183,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 120746,
       "name": "The Hourglass",
       "url": "https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS"
@@ -12291,7 +12381,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 136482,
       "name": "The Taste of Snow",
       "url": "https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf"
@@ -12615,7 +12705,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 160000,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o"
@@ -12839,6 +12929,24 @@
       "duration_ms": 183129,
       "name": "Turning Ahead",
       "url": "https://open.spotify.com/track/0IBQM8tB107DZs0YCcXSt0"
+    },
+    {
+      "album": {
+        "name": "Tuscan Nights",
+        "url": "https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe"
+      },
+      "artists": [
+        {
+          "name": "Mads Alter",
+          "url": "https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182455,
+      "name": "Tuscan Nights",
+      "url": "https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R"
     },
     {
       "album": {
@@ -13087,7 +13195,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
@@ -13105,7 +13213,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 139807,
       "name": "Uprise",
       "url": "https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,060 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,134 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,23 +28,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 18 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 |
 | 19 | [Bunny Man](https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2) | 2:58 |
 | 20 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
-| 21 | [Call Me the West \(with The Dead Deads\)](https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q), [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Dead West](https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2) | 3:34 |
+| 21 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
 | 22 | [Oxygen Thief](https://open.spotify.com/track/59lsHvsyh49rejXU31xY2s) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Oxygen Thief](https://open.spotify.com/album/3HIalBoWd1Rx8a01MhuBhS) | 2:56 |
-| 23 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
+| 23 | [Call Me the West \(with The Dead Deads\)](https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q), [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Dead West](https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2) | 3:34 |
 | 24 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
-| 25 | [Misery](https://open.spotify.com/track/6Zz846CtUmQGP5z4F7sccA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Misery](https://open.spotify.com/album/7nqQxq17r4eUTqsDAdrL6v) | 3:00 |
-| 26 | [My Honest Face](https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/07ZR3JqB2j0tAMc8bPRLan) | 4:34 |
+| 25 | [My Honest Face](https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/07ZR3JqB2j0tAMc8bPRLan) | 4:34 |
+| 26 | [Misery](https://open.spotify.com/track/6Zz846CtUmQGP5z4F7sccA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Misery](https://open.spotify.com/album/7nqQxq17r4eUTqsDAdrL6v) | 3:00 |
 | 27 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
 | 28 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
-| 29 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/4RPI1ERCTF388uHZMvmRmT) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [\[Insert Girls Name Here\]](https://open.spotify.com/album/2QcoTQU2m6eu4LzcV0eXtT) | 3:08 |
-| 30 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 |
-| 31 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 |
+| 29 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 |
+| 30 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 |
+| 31 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/4RPI1ERCTF388uHZMvmRmT) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [\[Insert Girls Name Here\]](https://open.spotify.com/album/2QcoTQU2m6eu4LzcV0eXtT) | 3:08 |
 | 32 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
 | 33 | [I Like the Way You Die](https://open.spotify.com/track/05HQ6KrftQ0kvnvM1qE5pt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 3:08 |
 | 34 | [Euphoria](https://open.spotify.com/track/20g6mjmuL2V8bHTx5MTubE) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Euphoria](https://open.spotify.com/album/1jslok7INBkcqKIei9zfPF) | 4:24 |
-| 35 | [Bury Me](https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bury Me](https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT) | 2:58 |
-| 36 | [Father Of Lies](https://open.spotify.com/track/2Di9hrXOq4ov2MGfSNMZiA) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Father Of Lies](https://open.spotify.com/album/4oILK4Qdj0Ba9tdEXSkhZR) | 4:17 |
-| 37 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 |
+| 35 | [Father Of Lies](https://open.spotify.com/track/2Di9hrXOq4ov2MGfSNMZiA) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Father Of Lies](https://open.spotify.com/album/4oILK4Qdj0Ba9tdEXSkhZR) | 4:17 |
+| 36 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 |
+| 37 | [Bury Me](https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bury Me](https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT) | 2:58 |
 | 38 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
 | 39 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
 | 40 | [Seven White Horses](https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/4357uAusMjqy9RGD7UI2We) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 4:21 |
 | 100 | [Come On](https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Come On](https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m) | 3:29 |
 
-Snapshot ID: `MTY0ODYwMTk3MywwMDAwMDAwMGY3MDJlODZhY2QxNmQ1YWFlZjQ3MDNiZmNhMWZiOTY3`
+Snapshot ID: `MTY0ODY4ODMyMCwwMDAwMDAwMDdkYmVlMmVlZjQ4ZjJhM2VhZjUxYjhhZmVhYjA3N2Fi`

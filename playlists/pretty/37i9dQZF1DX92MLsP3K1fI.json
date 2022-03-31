@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! En portada: Alan Navarro",
-  "num_followers": 40686,
+  "num_followers": 40735,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk0MCwwMDAwMDAwMDRkN2EzMmRkMGJhOGMzY2U1ZmZkNzdlNWQ5NzVlMjk3",
+  "snapshot_id": "MTY0ODY4ODI4OSwwMDAwMDAwMGMzMTcwZjRlNDU3YmEzNzE4ODQ1MjFlYWVlNGUwOTc1",
   "tracks": [
     {
       "added_at": "2022-03-11 19:05:02",
@@ -347,18 +347,22 @@
     {
       "added_at": "2022-03-11 19:05:02",
       "album": {
-        "name": "Morena Mujer",
-        "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Morena Mujer",
-      "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
+      "duration_ms": 222200,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg"
     },
     {
       "added_at": "2022-03-11 19:05:02",
@@ -379,22 +383,18 @@
     {
       "added_at": "2022-03-11 19:05:02",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp"
+        "name": "Morena Mujer",
+        "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg"
+      "duration_ms": 174666,
+      "name": "Morena Mujer",
+      "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
     },
     {
       "added_at": "2022-03-11 19:05:02",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-03-11 19:05:02",
       "album": {
-        "name": "180 km/h",
-        "url": "https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 163960,
-      "name": "180 km/h",
-      "url": "https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY"
-    },
-    {
-      "added_at": "2022-03-11 19:05:02",
-      "album": {
         "name": "Carita Bonita",
         "url": "https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 226981,
       "name": "Carita Bonita",
       "url": "https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR"
+    },
+    {
+      "added_at": "2022-03-11 19:05:02",
+      "album": {
+        "name": "180 km/h",
+        "url": "https://open.spotify.com/album/3mJHsaye3UADQIKwZxKXhZ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 163960,
+      "name": "180 km/h",
+      "url": "https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY"
     },
     {
       "added_at": "2022-03-11 19:05:02",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-03-11 19:05:02",
       "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 141631,
+      "name": "Tu Peor Pesadilla",
+      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+    },
+    {
+      "added_at": "2022-03-11 19:05:02",
+      "album": {
         "name": "Pase Lo Que Pase",
         "url": "https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 185307,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ"
-    },
-    {
-      "added_at": "2022-03-11 19:05:02",
-      "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 141631,
-      "name": "Tu Peor Pesadilla",
-      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
     },
     {
       "added_at": "2022-03-11 19:05:02",

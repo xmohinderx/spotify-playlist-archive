@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 102670,
+  "num_followers": 102715,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTc5NywwMDAwMDAwMDVjMmFjMWEwZWMyODMyZWYwMWE3OWMzN2JmYzdkZTM1",
+  "snapshot_id": "MTY0ODY4ODE0OSwwMDAwMDAwMGM5Nzg0YTA4ZTFkMzNiODA0ZDAwMWY3MDc5YzQzZGQw",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -111,6 +111,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 152453,
       "name": "Lookin' Out My Back Door",
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Return of the Grievous Angel - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Commander Cody & His Lost Planet Airmen",
         "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 304925,
       "name": "New Kid in Town - 2013 Remaster",
       "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Return of the Grievous Angel - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -423,6 +423,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "White Line Fever",
+      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Slippin Away",
         "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 232400,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "White Line Fever",
-      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
     },
     {
       "added_at": "2020-08-05 15:52:11",

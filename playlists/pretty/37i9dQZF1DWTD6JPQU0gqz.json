@@ -1,12 +1,12 @@
 {
   "description": "Black lives and voices matter. Cover: Ibeyi",
-  "num_followers": 44253,
+  "num_followers": 44252,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQ0MSwwMDAwMDAwMGI3NTQ5MmYxOWM1NjVkMjg1ZGM5MTQ3OTAwOGZlOTRi",
+  "snapshot_id": "MTY0ODY4Nzc5NywwMDAwMDAwMDk3NWM3MjRlZTUzMWUxNjU3NjI1MjQ1OThiYTgyZmRm",
   "tracks": [
     {
       "added_at": "2022-02-18 05:01:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "YA",
+        "url": "https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "YA",
+      "url": "https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 184761,
       "name": "Destino",
       "url": "https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "YA",
-        "url": "https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 175029,
-      "name": "YA",
-      "url": "https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "La Funka",
-        "url": "https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198827,
-      "name": "La Funka",
-      "url": "https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Afrodiaspora",
         "url": "https://open.spotify.com/album/33P899lSs20h8BEWTKskCv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 278786,
       "name": "Plena y Bomba (feat. Calle 13)",
       "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "La Funka",
+        "url": "https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198827,
+      "name": "La Funka",
+      "url": "https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Goza Pelota",
+        "url": "https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Adonis MC",
+          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Goza Pelota",
+      "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Goza Pelota",
-        "url": "https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Adonis MC",
-          "url": "https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Goza Pelota",
-      "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Bailar (Remix)",
         "url": "https://open.spotify.com/album/0tImRbQx65klPvAlodCTiS"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "Cuarentena",
-      "url": "https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "El Gavilan",
         "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 207013,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "Cuarentena",
+      "url": "https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 244413,
       "name": "Sue\u00f1o Americano",
       "url": "https://open.spotify.com/track/1d8KyFVxnNBAPmjY5kzJas"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Que Tengo Que Hacer",
         "url": "https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 228000,
       "name": "Que Tengo Que Hacer",
       "url": "https://open.spotify.com/track/1tkwIX1dhNQZmkFKgucIgI"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "ChocQuib House",
+        "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 200685,
+      "name": "No Vuelvas a M\u00ed",
+      "url": "https://open.spotify.com/track/0QtpKLa62AfLe5m0L2x3Gr"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "100% Dominicano",
         "url": "https://open.spotify.com/album/2vM71zMk8YoApIMf2xSgWc"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 205000,
       "name": "Te Ves Buena",
       "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "ChocQuib House",
-        "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 200685,
-      "name": "No Vuelvas a M\u00ed",
-      "url": "https://open.spotify.com/track/0QtpKLa62AfLe5m0L2x3Gr"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 186588,
-      "name": "Portarse Mal",
-      "url": "https://open.spotify.com/track/2a6CLJI6zFBHIXOlpYd6Ku"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1971,6 +1955,38 @@
       "duration_ms": 162834,
       "name": "No Me Digas Na",
       "url": "https://open.spotify.com/track/5LzKV4AtUy1aKli3YzBVxI"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 186588,
+      "name": "Portarse Mal",
+      "url": "https://open.spotify.com/track/2a6CLJI6zFBHIXOlpYd6Ku"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -2047,42 +2063,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "La Modelo (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/1zZAOGpcOD9AjAs6dTkEBb"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2m2ZGfJcs3lHWNPzhWH3XH"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
         "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 163636,
       "name": "Mala",
       "url": "https://open.spotify.com/track/61q1lQx1moopEkcvLwJwiX"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "La Modelo (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/1zZAOGpcOD9AjAs6dTkEBb"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2m2ZGfJcs3lHWNPzhWH3XH"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -2535,26 +2535,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Lado B de Patolog\u00edas del Invisible Inc\u00f3modo (Ep)",
         "url": "https://open.spotify.com/album/3z7EgJEgio0t8Leua5h4in"
       },
@@ -2623,6 +2603,26 @@
       "duration_ms": 234253,
       "name": "BAE",
       "url": "https://open.spotify.com/track/7GiNKSyPAc0XCZz79oRMoX"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2022-02-18 05:01:00",

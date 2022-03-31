@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,622 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,782 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 16 | [Something About The Way You Look Tonight](https://open.spotify.com/track/3cqxioW7XWzqo5j82A3ob7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/2MmBoNQbGSLY7BJQMw5vyX) | 5:08 |
 | 17 | [The River of Dreams](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 4:07 |
 | 18 | [Show Me Heaven \- From "Days Of Thunder" Soundtrack](https://open.spotify.com/track/0smsQNRjaMKjacESbRb3wZ) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Drivetime](https://open.spotify.com/album/3GO384bB5SvHoaqnA5y5NZ) | 3:42 |
-| 19 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
-| 20 | [High](https://open.spotify.com/track/1KP6ieHBqTmEjqLy75gAEn) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/5yK7iXnoIpuJwW8FsAdgYf) | 5:09 |
-| 21 | [Secret Garden](https://open.spotify.com/track/7fyo8M3HAdhU1XTfLH05al) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/50OBIvFZb1J8Cz5hyyHJdj) | 4:26 |
-| 22 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
+| 19 | [High](https://open.spotify.com/track/1KP6ieHBqTmEjqLy75gAEn) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/5yK7iXnoIpuJwW8FsAdgYf) | 5:09 |
+| 20 | [Secret Garden](https://open.spotify.com/track/7fyo8M3HAdhU1XTfLH05al) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/50OBIvFZb1J8Cz5hyyHJdj) | 4:26 |
+| 21 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
+| 22 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
 | 23 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 24 | [I'd Do Anything For Love \(But I Won't Do That\) \- Live From The Beacon Theatre, New York, U.S.A./1995](https://open.spotify.com/track/6fqLce5TNAmNgbFwXD2DdG) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 5:29 |
 | 25 | [You're Gorgeous](https://open.spotify.com/track/0yJiIt4icur8txxfLRDJZK) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Best of Babybird](https://open.spotify.com/album/2ajdS41t4sGJr2cATdNK6i) | 3:42 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 33 | [Why](https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:53 |
 | 34 | [You Gotta Be](https://open.spotify.com/track/5Z8kUbnUQqBUzM5FsBNOAl) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:00 |
 | 35 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
-| 36 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 |
-| 37 | [Circle Of Life](https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:50 |
+| 36 | [Circle Of Life](https://open.spotify.com/track/1DqMnZpdOXy4mjmsXnFv2t) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:50 |
+| 37 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 |
 | 38 | [Dreams](https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Find Your Way](https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj) | 3:42 |
-| 39 | [I Wanna Be the Only One \(feat\. Bebe Winans\)](https://open.spotify.com/track/0XvOoNb9zZOwFIOM0mwbiq) | [Eternal](https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Before The Rain](https://open.spotify.com/album/0FkXp8n7cMtnLBo1l77W20) | 3:36 |
-| 40 | [Sunshine On a Rainy Day](https://open.spotify.com/track/6p2XXeslyqOvCgiv2SK90E) | [Zoe Mazah](https://open.spotify.com/artist/4md7aRL1VkgiOk4SLhnvi1) | [Renaissance The Classics](https://open.spotify.com/album/0KC34vUKxySSzrvGv0SlKm) | 4:47 |
-| 41 | [Friday I'm In Love](https://open.spotify.com/track/20CNpCKq1oTdvekXaboyeq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/6tCOXpiN1FvDBl0eT6WtG3) | 3:35 |
-| 42 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 |
+| 39 | [What Can I Do](https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W), [Tin Tin Out](https://open.spotify.com/artist/1a5l3fWnzmaK7gDD2IkbHq) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 4:19 |
+| 40 | [I Wanna Be the Only One \(feat\. Bebe Winans\)](https://open.spotify.com/track/0XvOoNb9zZOwFIOM0mwbiq) | [Eternal](https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj), [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Before The Rain](https://open.spotify.com/album/0FkXp8n7cMtnLBo1l77W20) | 3:36 |
+| 41 | [Sunshine On a Rainy Day](https://open.spotify.com/track/6p2XXeslyqOvCgiv2SK90E) | [Zoe Mazah](https://open.spotify.com/artist/4md7aRL1VkgiOk4SLhnvi1) | [Renaissance The Classics](https://open.spotify.com/album/0KC34vUKxySSzrvGv0SlKm) | 4:47 |
+| 42 | [Friday I'm In Love](https://open.spotify.com/track/20CNpCKq1oTdvekXaboyeq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/6tCOXpiN1FvDBl0eT6WtG3) | 3:35 |
 | 43 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 44 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
 | 45 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 79 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
 | 80 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
 
-Snapshot ID: `MTY0ODYwMTQ5NywwMDAwMDAwMDI3MDgzNGVkYjZmZGEwN2VhMWFjMGFlMTI2ZDFlYzk4`
+Snapshot ID: `MTY0ODY4Nzg1MywwMDAwMDAwMDViZTcxNTc0ZWFkMTFiZmY5YWRkMDUyNjAyMTM0Njc2`

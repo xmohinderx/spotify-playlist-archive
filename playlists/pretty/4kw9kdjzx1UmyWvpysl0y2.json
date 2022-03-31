@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128404,
+  "num_followers": 128403,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMyNyw5MDEwOTlkZjhlZDQ0ZjRlYjhkMWY5OThiY2E0ZWI1ZjQ5ODFiNGU5",
+  "snapshot_id": "MzMyOSw3OWJiODUxM2I2ZGMxMzYwNzhhMDVjNjZlYmRlMzgzY2NlYmJhMDJl",
   "tracks": [
+    {
+      "added_at": "2022-03-30 16:50:06",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K"
+      },
+      "artists": [
+        {
+          "name": "Hausman",
+          "url": "https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf"
+    },
     {
       "added_at": "2022-03-29 16:21:04",
       "album": {
@@ -1103,26 +1123,6 @@
       "duration_ms": 157714,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 238344,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

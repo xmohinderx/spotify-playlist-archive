@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Debbie Debonaire",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Antony Szmierek",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 188208,
       "name": "(i'm not good at writing) love songs",
       "url": "https://open.spotify.com/track/2p3u3IMdlGydHw20tXHtQs"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "amethyst",
+        "url": "https://open.spotify.com/album/6zx8OSmZ9PWqOcEVVok99W"
+      },
+      "artists": [
+        {
+          "name": "planet girl",
+          "url": "https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155876,
+      "name": "amethyst",
+      "url": "https://open.spotify.com/track/4krGuYcWC40BPg24FhmqTd"
+    },
+    {
+      "album": {
         "name": "anybody else but u",
         "url": "https://open.spotify.com/album/5hpn0V7zDFtaY7CWaDoDbh"
       },
@@ -401,10 +419,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 214691,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3t6NBoUIutK70vB2KZovVc"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed For The Winter",
+        "url": "https://open.spotify.com/album/2Ztxi4TgOLXd7Mw69tvD7z"
+      },
+      "artists": [
+        {
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Bedtime Story",
+      "url": "https://open.spotify.com/track/2LZiJ6MWr9tS2SlNyO0MMX"
     },
     {
       "album": {
@@ -881,7 +917,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
@@ -1086,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "familiar stranger",
+        "url": "https://open.spotify.com/album/4ctjz7j2MWdTy7a3HQeZti"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "familiar stranger",
+      "url": "https://open.spotify.com/track/7xWT1W3mTdj4RvdoC9LQiN"
+    },
+    {
+      "album": {
         "name": "Feel the Fall",
         "url": "https://open.spotify.com/album/6lfGUaGqRxIzVVjBHYllZG"
       },
@@ -1097,7 +1151,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 185684,
       "name": "Feel the Fall",
       "url": "https://open.spotify.com/track/3QF7pzrx8XCACaLHYPuc4X"
@@ -1177,6 +1231,24 @@
       "duration_ms": 198000,
       "name": "For Good",
       "url": "https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P"
+    },
+    {
+      "album": {
+        "name": "Friendly Sex",
+        "url": "https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159193,
+      "name": "Friendly Sex",
+      "url": "https://open.spotify.com/track/0UIaM3C7aw2ao6ZDatzEir"
     },
     {
       "album": {
@@ -1289,7 +1361,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 182280,
       "name": "Girl of the Sea",
       "url": "https://open.spotify.com/track/3wBcgqM50PvbfRCTnUgoXx"
@@ -1769,7 +1841,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij"
@@ -2123,7 +2195,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 189000,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/3thsvz8m59Z8iksGcCrde7"
@@ -2214,6 +2286,24 @@
     },
     {
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/3ZChhFSjqMwj3AkKYRTcKV"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/0gdsXYdwHiLhD9uDBJbJ8S"
+    },
+    {
+      "album": {
         "name": "lose yourself.",
         "url": "https://open.spotify.com/album/1uCQjmgeRjzvmUM8C9UEdE"
       },
@@ -2265,7 +2355,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 205094,
       "name": "Love Is A Serious Mental Illness",
       "url": "https://open.spotify.com/track/4jDYaGsubTxHbvShox1pmm"
@@ -2341,7 +2431,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 187058,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/7p1lLtEenOrmPEQSgHk5mz"
@@ -2367,6 +2457,24 @@
       "duration_ms": 164885,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/4PcZlqSJ8V3Jh1iULfLoTa"
+    },
+    {
+      "album": {
+        "name": "make big money fast online now",
+        "url": "https://open.spotify.com/album/0Fa4OaV0Imp5RFMwuvkl0q"
+      },
+      "artists": [
+        {
+          "name": "Redolent",
+          "url": "https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "make big money fast online now",
+      "url": "https://open.spotify.com/track/1AV2UpYCGl3Dgo7f28vnRr"
     },
     {
       "album": {
@@ -2948,6 +3056,28 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1P4Xenq0OMrvEReOV7SDrE"
+      },
+      "artists": [
+        {
+          "name": "Sophia Lili",
+          "url": "https://open.spotify.com/artist/1HADa5kvLjAV8mBPCCuYV3"
+        },
+        {
+          "name": "Feux",
+          "url": "https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0qb25uVEa1Eo1JbJUYuK7a"
+    },
+    {
+      "album": {
         "name": "Out The Box",
         "url": "https://open.spotify.com/album/0fKTLodsy7ZxNNk58X8e0a"
       },
@@ -3215,7 +3345,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 164571,
       "name": "Popular Loner",
       "url": "https://open.spotify.com/track/1V6d5jHw6eAE5tJbe0uO8X"
@@ -3388,6 +3518,24 @@
     },
     {
       "album": {
+        "name": "Realness",
+        "url": "https://open.spotify.com/album/7cgIrVeEnS8K4V9w5Ojais"
+      },
+      "artists": [
+        {
+          "name": "Ben DSP",
+          "url": "https://open.spotify.com/artist/0x52ztYOxV0PxB4zRseyVq"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/4u5uRIeQR8pvtCDaTDxuZi"
+    },
+    {
+      "album": {
         "name": "Think Flower",
         "url": "https://open.spotify.com/album/1pmuNR5MmjW83sip8WVeot"
       },
@@ -3439,6 +3587,24 @@
       "duration_ms": 155520,
       "name": "Rice And Peas",
       "url": "https://open.spotify.com/track/6UgAx9ilu2DbqTi8650kz5"
+    },
+    {
+      "album": {
+        "name": "Run the Lights",
+        "url": "https://open.spotify.com/album/2YblBkuyN0vDQUCJpntbcl"
+      },
+      "artists": [
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169070,
+      "name": "Run the Lights",
+      "url": "https://open.spotify.com/track/3MOYF2MjXf2sk9l4AINpsE"
     },
     {
       "album": {
@@ -3945,7 +4111,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 174000,
       "name": "Swimming Swimming",
       "url": "https://open.spotify.com/track/3xuCEU1HeFvlM515OpnEBT"
@@ -4006,6 +4172,24 @@
     },
     {
       "album": {
+        "name": "The Hitchhiker's Guide to the Fallacy",
+        "url": "https://open.spotify.com/album/14ex4jx046i3C32ntwcn76"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171132,
+      "name": "The Hitchhiker's Guide to the Fallacy",
+      "url": "https://open.spotify.com/track/3hRRV48T0PYU5hXGF3Gxko"
+    },
+    {
+      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1P9P51xFZfwDkdzKF2jyu6"
       },
@@ -4043,7 +4227,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 242000,
       "name": "Three Stripes",
       "url": "https://open.spotify.com/track/31u2irnhBNcQPV65jg12sp"
@@ -4104,6 +4288,24 @@
     },
     {
       "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/3AWQ8htnZ6T6qEOyVVUbbK"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/29RJXyTjyHr7EapAjoXxuW"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143099,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/36EULE9RzfcFSSB04Ieg90"
+    },
+    {
+      "album": {
         "name": "Twenty-two",
         "url": "https://open.spotify.com/album/4MhmPW6FAWawJZad2nssgT"
       },
@@ -4119,6 +4321,24 @@
       "duration_ms": 163688,
       "name": "Twenty-two",
       "url": "https://open.spotify.com/track/0E4XFbSbafR9jnqEImhF0O"
+    },
+    {
+      "album": {
+        "name": "C.O.A",
+        "url": "https://open.spotify.com/album/54VyL93wDi5j7mtplRRAMB"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "U GET HIGH / I GET NOTHING",
+      "url": "https://open.spotify.com/track/6nNQXXB2VWGDp6zl5MwK6F"
     },
     {
       "album": {

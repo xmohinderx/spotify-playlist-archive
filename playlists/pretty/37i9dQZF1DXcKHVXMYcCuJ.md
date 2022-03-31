@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,038 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,146 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 11 | [Always: Your Way](https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 3:49 |
 | 12 | [Corpse Pose](https://open.spotify.com/track/0zjs4f3SvXV2oggjg8oGnA) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/4XpO1bPQxq8BTnAn2ZDqf5) | 3:05 |
 | 13 | [Be Your Man](https://open.spotify.com/track/5ja7epgM2zgrQ0CnL5Fc52) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom](https://open.spotify.com/album/1mdsGFvnN2Ok832ehemqgX) | 3:35 |
-| 14 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
-| 15 | [Why Bother?](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:06 |
-| 16 | [Your Deep Rest](https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like NoPlace Is There](https://open.spotify.com/album/5jfqj3O8WU3755J2OK19rd) | 3:47 |
+| 14 | [Why Bother?](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:06 |
+| 15 | [Your Deep Rest](https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like NoPlace Is There](https://open.spotify.com/album/5jfqj3O8WU3755J2OK19rd) | 3:47 |
+| 16 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
 | 17 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 18 | [Shot Down](https://open.spotify.com/track/5ELe3K5aE86anTNKGngYwY) | [Nine Black Alps](https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR) | [Everything Is](https://open.spotify.com/album/0fIPMihZtknbVQThrPrMJz) | 2:55 |
 | 19 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
 | 100 | [Fresh](https://open.spotify.com/track/35L49nXqs85DEZ9AuWdTsV) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Dumb Days](https://open.spotify.com/album/0lu1cJqBxKjJ3yECblnCCy) | 4:10 |
 
-Snapshot ID: `MTY0ODYwMjA0MCwwMDAwMDAwMDkyNzc2YjUwZjAzZGE0MmYxZWQzNmM3MTNmMjQzMmI2`
+Snapshot ID: `MTY0ODY4ODM4MywwMDAwMDAwMDk2OTdiMTI0M2IwMzNiYzE4Y2MzZmJhOWJjNmI0ZGI1`

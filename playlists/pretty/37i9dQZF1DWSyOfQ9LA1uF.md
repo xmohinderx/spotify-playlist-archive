@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Uffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,227 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,314 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 21 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/5rv4eHaluaLvw9yUSQP9sR) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania Remixes \- EP](https://open.spotify.com/album/1nSxkq2wInNszSPz0gyKEE) | 5:04 |
 | 22 | [Rainbow Man](https://open.spotify.com/track/2uiYlTkNE4dkdG7KWLEfRN) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Ed Rec VOL\. 2](https://open.spotify.com/album/0nnCigFPxWFGaA6NP5DVax) | 3:32 |
 | 23 | [Genesis](https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd) | 3:54 |
-| 24 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
-| 25 | [Drugs in My Body](https://open.spotify.com/track/3zMGckymnR49aiI4R7ahbs) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/1swgxqOV0i9w5mVteU5Faq) | 3:36 |
-| 26 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
-| 27 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 |
-| 28 | [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 |
-| 29 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/6M2iIzUzlea2yZROhTlxDl) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:07 |
+| 24 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/6M2iIzUzlea2yZROhTlxDl) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:07 |
+| 25 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
+| 26 | [Drugs in My Body](https://open.spotify.com/track/3zMGckymnR49aiI4R7ahbs) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/1swgxqOV0i9w5mVteU5Faq) | 3:36 |
+| 27 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
+| 28 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 |
+| 29 | [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 |
 | 30 | [The Geeks Were Right](https://open.spotify.com/track/5JhhCWiQdHz253wOdEwaBF) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Fasciinatiion](https://open.spotify.com/album/63yWJpF61QJ91svhF9PNXj) | 2:56 |
 | 31 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
 | 32 | [Positif](https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Bump \- Switch Remix](https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi) | [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Bump](https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec) | 7:27 |
 | 75 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 
-Snapshot ID: `MTY0ODYwMTQzMiwwMDAwMDAwMDFlMTRmMzJmNWVlMjMyYTAyZmYxZGNjMzM5OGVkODM0`
+Snapshot ID: `MTY0ODY4Nzc4OSwwMDAwMDAwMDMxMTFlZmU2MDYyNTNmZTZlZDMxNDg5YWY3NGMyYzAw`

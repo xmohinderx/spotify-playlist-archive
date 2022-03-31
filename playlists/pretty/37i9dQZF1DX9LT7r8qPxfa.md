@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,104 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,126 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 10 | [Buzz](https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Buzz](https://open.spotify.com/album/1QChcUJsmg1rp3zL57iafO) | 4:21 |
 | 11 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
 | 12 | [Swimming](https://open.spotify.com/track/7dJR6TWnJns4w9OVYeMY2P) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/7DarjMHpMdUo3ForHknW9t) | 4:12 |
-| 13 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
+| 13 | [Smoke Signals](https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:24 |
 | 14 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 |
-| 15 | [Smoke Signals](https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:24 |
-| 16 | [yellow is the color of her eyes](https://open.spotify.com/track/4D3nttJPU6L0M2epr7sId6) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [yellow is the color of her eyes](https://open.spotify.com/album/47V6znsE4WU8uWXrsXpmhx) | 7:15 |
+| 15 | [yellow is the color of her eyes](https://open.spotify.com/track/4D3nttJPU6L0M2epr7sId6) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [yellow is the color of her eyes](https://open.spotify.com/album/47V6znsE4WU8uWXrsXpmhx) | 7:15 |
+| 16 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 17 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 18 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 19 | [Thirteen](https://open.spotify.com/track/0BuGTUaFGGjeOz1U3CwHrc) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5P8EEn8VjtMJe7idtwrGTp) | 3:04 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 33 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 34 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 |
 | 35 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 36 | [Body](https://open.spotify.com/track/1RqQvfdYJBMsltegb00yN2) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/3Xrmpl2pYkGbIZ5CApEfEA) | 5:07 |
-| 37 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 |
+| 36 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 |
+| 37 | [Body](https://open.spotify.com/track/1RqQvfdYJBMsltegb00yN2) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/3Xrmpl2pYkGbIZ5CApEfEA) | 5:07 |
 | 38 | [Vampire Weeknight](https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Vampire Weeknight](https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV) | 3:24 |
 | 39 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
 | 40 | [Robber](https://open.spotify.com/track/1ZKSWtwZDRT1SWZSE0wrqH) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/2SPVz3b57WsROQsPBeBQwq) | 5:20 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 65 | [Same Mistakes](https://open.spotify.com/track/7l6ootXc12jVyxTybFGKt8) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Same Mistakes](https://open.spotify.com/album/2ktEfBjbTo93qoxwTXgluD) | 2:47 |
 | 66 | [Luster](https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ) | [Twin Oaks](https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk) | [Luster](https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d) | 3:20 |
 | 67 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
-| 68 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
-| 69 | [Cathedral](https://open.spotify.com/track/528i0bBEVKFO8P1WwUYtEp) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 2:50 |
-| 70 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
+| 68 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
+| 69 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
+| 70 | [Cathedral](https://open.spotify.com/track/528i0bBEVKFO8P1WwUYtEp) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 2:50 |
 | 71 | [The King Of All Birds](https://open.spotify.com/track/3X4VOeSsQs7knyH0Uztslz) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 3:56 |
 | 72 | [Family Album](https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN) | [Lia Ices](https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3) | [Family Album](https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD) | 5:07 |
 | 73 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Garden Dove](https://open.spotify.com/track/3wYl7lRiqN3Z685E7LuA6k) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Garden Dove](https://open.spotify.com/album/34eazCBah7uqLtj4wVOf3T) | 3:50 |
 | 100 | [Birthday Party](https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1) | [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [Holidays](https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36) | 2:15 |
 
-Snapshot ID: `MTY0ODYwMTk1MCwwMDAwMDAwMGMyNmE1ZDdhZDExNmNjNTdlMzQ2ZTZiYmZmNzY3NWI2`
+Snapshot ID: `MTY0ODY4ODI5OCwwMDAwMDAwMDg0MjMwN2VmNGVkZDJlMjRkNmZhYzdmZDYxNjY5Mjc3`

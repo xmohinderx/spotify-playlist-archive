@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,897 likes - 78 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,916 likes - 78 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 30 | [The Sweetest Thing](https://open.spotify.com/track/5HIfxhZRZp6BPpsz4wCKq9) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/4MlYueB39zmkX1ScPAdczS) | 4:22 |
 | 31 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
 | 32 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
-| 33 | [Blue Spotted Tail](https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 3:05 |
-| 34 | [Ghosts](https://open.spotify.com/track/0up48KQvGzMCrgqrfT07i2) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1kl17TCIaR1GCVxY2elQOA) | 2:59 |
+| 33 | [Ghosts](https://open.spotify.com/track/0up48KQvGzMCrgqrfT07i2) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1kl17TCIaR1GCVxY2elQOA) | 2:59 |
+| 34 | [Blue Spotted Tail](https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 3:05 |
 | 35 | [No Woman](https://open.spotify.com/track/0URtGENIORu1ruWHbh27F7) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [No Woman](https://open.spotify.com/album/4VgC9s8QkpCDggIeD2MJp1) | 3:58 |
 | 36 | [Wood](https://open.spotify.com/track/7EN9HHkjySM5Eratx2zaMo) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Wood](https://open.spotify.com/album/5tDwiXJnVZY3eg5RObPFh0) | 5:42 |
 | 37 | [17](https://open.spotify.com/track/7GDbkrFBGrCb8ntbQPY3hQ) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/0mcvDycoex7ANLZOmVVRoD) | 3:56 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 49 | [Where Are You Now](https://open.spotify.com/track/4rzWrb9KT2v71cyuHhcbJY) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 3:39 |
 | 50 | [Had To Hear](https://open.spotify.com/track/6hBmL5yVbXDHSWX6GbuogP) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/7lAYJiypiPbCDvjKOBX1TV) | 4:50 |
 | 51 | [Take The Night Off](https://open.spotify.com/track/4VcCAbIwuMaIFzokHrrebn) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E) | 4:12 |
-| 52 | [Dead Sea](https://open.spotify.com/track/6wDKGtbPpF9xPMRv7bswQN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 4:07 |
-| 53 | [Suffering](https://open.spotify.com/track/0GBcfTDD4OjGTGeVVgFl8v) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 6:02 |
-| 54 | [Cavalier](https://open.spotify.com/track/240ElV9j5kjT14OR8RPMoZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/5oXfO26Js29rB7FvKFI2Ud) | 4:43 |
+| 52 | [Cavalier](https://open.spotify.com/track/240ElV9j5kjT14OR8RPMoZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical](https://open.spotify.com/album/5oXfO26Js29rB7FvKFI2Ud) | 4:43 |
+| 53 | [Dead Sea](https://open.spotify.com/track/6wDKGtbPpF9xPMRv7bswQN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 4:07 |
+| 54 | [Suffering](https://open.spotify.com/track/0GBcfTDD4OjGTGeVVgFl8v) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 6:02 |
 | 55 | [The Greatest](https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/2ErZHHnKWGdpUWCwYLjHxU) | 3:22 |
 | 56 | [Line Of Fire](https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO) | 5:39 |
 | 57 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 |
 | 78 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 
-Snapshot ID: `MTY0ODYwMTgwMSwwMDAwMDAwMGU0OTE2ZDA3M2Y4MzAwYTQ5NmNmYjUzOWM2YTVkNzEx`
+Snapshot ID: `MTY0ODY4ODE1MywwMDAwMDAwMGEzM2Q1ZTc2NTFkYzgzY2Q5MGM0YWZmMDk4MmRkYmFi`

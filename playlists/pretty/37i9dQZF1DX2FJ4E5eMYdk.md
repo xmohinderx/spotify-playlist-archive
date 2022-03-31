@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > A little psychedelic, a little groovy, and very rootsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,674 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,737 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 22 | [Eno Nothing](https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [Eno Nothing](https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp) | 3:36 |
 | 23 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
 | 24 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 |
-| 25 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
-| 26 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
+| 25 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
+| 26 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
 | 27 | [Replica](https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2) | [Cory Hanson](https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6) | [The Unborn Capitalist From Limbo](https://open.spotify.com/album/6yg69QGmlM2MDcX1Bdo2RN) | 4:08 |
 | 28 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 29 | [No Quit](https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [No Quit](https://open.spotify.com/album/3If5SivukLSxu4S7DCWbOd) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Island Time](https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N) | [Island Time](https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj) | 3:55 |
 | 60 | [All In My Head](https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:21 |
 
-Snapshot ID: `MTY0ODYwMTcyMiwwMDAwMDAwMDY1ODJkY2Q4MjQ0NDc0MDJjOTE0YmMzODA1M2NhZTEx`
+Snapshot ID: `MTY0ODY4ODA3NywwMDAwMDAwMDliOTRiNDU0MTc4ZjI4ODQ2ZmYwZWZmNDViZjI0ODZk`

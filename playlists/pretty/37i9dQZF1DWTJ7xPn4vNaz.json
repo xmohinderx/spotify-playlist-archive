@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1970s.\n",
-  "num_followers": 4596712,
+  "num_followers": 4597579,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTQ0MywwMDAwMDAwMGVhYWE0Y2U5NmZkNTQ0OTI2ODQ3N2ZhNzg4MDEzZjhj",
+  "snapshot_id": "MTY0ODY4Nzc5OSwwMDAwMDAwMDAzMTBlOTQ0Y2I4ZTM1MmQ0NjUwMGNiODc4OWE4MTUw",
   "tracks": [
     {
       "added_at": "2021-07-15 08:00:00",
@@ -383,6 +383,38 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Peter Gabriel 1: Car (Remastered)",
         "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 240991,
       "name": "Follow You Follow Me - Remastered 2007",
       "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
         "url": "https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 192826,
       "name": "Goodbye Yellow Brick Road - Remastered 2014",
       "url": "https://open.spotify.com/track/6Rvlwah55rEmg1ufhBz022"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -637,20 +637,20 @@
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
-      "added_at": "2021-11-08 08:01:38",
+      "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -685,20 +685,20 @@
       "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
     },
     {
-      "added_at": "2021-07-15 08:00:00",
+      "added_at": "2021-11-08 08:01:38",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -731,6 +731,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Tap Root Manuscript",
         "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 205613,
       "name": "Into the Mystic - 2013 Remaster",
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 241040,
       "name": "Lola",
       "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1E2cTF5jk1nLrb0XMkXq4z"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 262266,
       "name": "He Ain't Heavy He's My Brother - 1998 Remaster",
       "url": "https://open.spotify.com/track/6k5QsifpMWtY5ilnzBZ0u4"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -1211,22 +1195,6 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -1275,6 +1243,38 @@
       "duration_ms": 147493,
       "name": "Who'll Stop The Rain",
       "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 222266,
       "name": "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
         "name": "Frankie Valli...Is The Word",
         "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/77bNe6jYY8yHdP7orXrz5I"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
     },
     {
       "added_at": "2021-07-15 08:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2021-07-15 08:00:00",
       "album": {
-        "name": "Signed Sealed And Delivered",
-        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
-    },
-    {
-      "added_at": "2021-07-15 08:00:00",
-      "album": {
         "name": "The Harder They Come (Remastered)",
         "url": "https://open.spotify.com/album/3L6BeuI5Du0b7sl2AmYVGA"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 254173,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2021-07-15 08:00:00",
+      "album": {
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
     },
     {
       "added_at": "2021-07-15 08:00:00",

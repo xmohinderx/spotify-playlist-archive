@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 25033,
+  "num_followers": 25040,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTc4NSwwMDAwMDAwMGMyMmRjMTZjODgwODQzNTA1ZmU0NDhjY2M5ZjQ3MTI2",
+  "snapshot_id": "MTY0ODY4ODEzOCwwMDAwMDAwMDQ3ZDNkNDYzYjY2ZWFiMzcxZGYyNGE0MGRjYjJkNWFh",
   "tracks": [
     {
       "added_at": "2021-12-14 14:04:58",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
+        "name": "Sex Politik & F\u00e5glar",
+        "url": "https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Grav\u00f6l",
+      "url": "https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
         "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
         "url": "https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os"
       },
@@ -139,6 +155,22 @@
       "duration_ms": 156306,
       "name": "Vrid upp",
       "url": "https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Fina Flickor",
+        "url": "https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Kungar Och Knektar",
+      "url": "https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -175,38 +207,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Sex Politik & F\u00e5glar",
-        "url": "https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6ttgrottorna",
-          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Grav\u00f6l",
-      "url": "https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
-        "name": "Fina Flickor",
-        "url": "https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Kungar Och Knektar",
-      "url": "https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Samlade",
         "url": "https://open.spotify.com/album/126LSgX6MasCdTcVcFOnFI"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
-        "url": "https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Vill inte va med",
-      "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I f\u00e4drens sp\u00e5r",
         "url": "https://open.spotify.com/album/2V8Gu2Ycw8ng6uY5GUmTM6"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 143560,
       "name": "Balladen om lilla Elsa",
       "url": "https://open.spotify.com/track/1lGvRLWhwDUiAokWhx3Kc7"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "En F\u00f6r Alla Ingen F\u00f6r N\u00e5n",
+        "url": "https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Vill inte va med",
+      "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Ebba Gr\u00f6n",
-        "url": "https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Die Mauer",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Tecken i tiden",
         "url": "https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Ebba Gr\u00f6n",
+        "url": "https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Die Mauer",
+      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Vilse p\u00e5 \u00f6ppet hav",
-        "url": "https://open.spotify.com/album/0iSIR7gLR3biV3QX6ZKV8m"
-      },
-      "artists": [
-        {
-          "name": "SARDO NUMSPA",
-          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Vilse p\u00e5 \u00f6ppet hav",
-      "url": "https://open.spotify.com/track/4PERjfb1QptY3TKUfaMoCw"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Historien D\u00f6mer Oss Alla",
         "url": "https://open.spotify.com/album/4ZaG6S0IIZaUrsKk3U7vC2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 258733,
       "name": "Den H\u00e4r \u00c4r Till Er",
       "url": "https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Vilse p\u00e5 \u00f6ppet hav",
+        "url": "https://open.spotify.com/album/0iSIR7gLR3biV3QX6ZKV8m"
+      },
+      "artists": [
+        {
+          "name": "SARDO NUMSPA",
+          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Vilse p\u00e5 \u00f6ppet hav",
+      "url": "https://open.spotify.com/track/4PERjfb1QptY3TKUfaMoCw"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Kaos & Skr\u00e5l 85-87",
-        "url": "https://open.spotify.com/album/17HMP4aFIyIHvGTCBrMaoG"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Betongbarn",
-      "url": "https://open.spotify.com/track/2cVOfWmxEGFB2pYOrXVrSK"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Gryningstid",
         "url": "https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 248640,
       "name": "Hon F\u00e5r...",
       "url": "https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Kaos & Skr\u00e5l 85-87",
+        "url": "https://open.spotify.com/album/17HMP4aFIyIHvGTCBrMaoG"
+      },
+      "artists": [
+        {
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Betongbarn",
+      "url": "https://open.spotify.com/track/2cVOfWmxEGFB2pYOrXVrSK"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
+        "name": "\u00c4nnu En G\u00e5ng",
+        "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
+      },
+      "artists": [
+        {
+          "name": "Gymnastiken",
+          "url": "https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "\u00c4gander\u00e4tt?",
+      "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
         "name": "Demons From The Past",
         "url": "https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU"
       },
@@ -611,18 +627,34 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "\u00c4nnu En G\u00e5ng",
-        "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/5idoXT28PizdHPL2inrMnF"
       },
       "artists": [
         {
-          "name": "Gymnastiken",
-          "url": "https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2"
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
         }
       ],
-      "duration_ms": 155733,
-      "name": "\u00c4gander\u00e4tt?",
-      "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/1cE7wFI32Z7Uq4ttGJ2rcv"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -659,18 +691,18 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/5idoXT28PizdHPL2inrMnF"
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
       "artists": [
         {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
         }
       ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/1cE7wFI32Z7Uq4ttGJ2rcv"
+      "duration_ms": 211640,
+      "name": "39 Steg",
+      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -687,38 +719,6 @@
       "duration_ms": 201093,
       "name": "Lyckliga land",
       "url": "https://open.spotify.com/track/2vQw6ZkLNtnN6oh78ZS0CU"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 211640,
-      "name": "39 Steg",
-      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "I All Hast",
         "url": "https://open.spotify.com/album/2YJjLxn9lI8Y9ShRvVzoWu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167266,
       "name": "MITT SISTA ANDETAG",
       "url": "https://open.spotify.com/track/0PKB26Q6ebljq3ru3MwVch"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Crash Nomada",
-        "url": "https://open.spotify.com/album/09qtUDDsf4gRO4NST7QNkJ"
-      },
-      "artists": [
-        {
-          "name": "Crash Nomada",
-          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "N\u00e5gon form av svar",
-      "url": "https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Automatiskt",
         "url": "https://open.spotify.com/album/5Z7SWe9qj63UOVQu6cJCqU"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "SKULD",
-        "url": "https://open.spotify.com/album/70SVQYfsG1cnLnbKbQwch7"
+        "name": "Crash Nomada",
+        "url": "https://open.spotify.com/album/09qtUDDsf4gRO4NST7QNkJ"
       },
       "artists": [
         {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+          "name": "Crash Nomada",
+          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
         }
       ],
-      "duration_ms": 235308,
-      "name": "Tankar pa\u030a kammaren (\u00e4r det bara jag)",
-      "url": "https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV"
+      "duration_ms": 219146,
+      "name": "N\u00e5gon form av svar",
+      "url": "https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -975,6 +959,22 @@
       "duration_ms": 207693,
       "name": "Leningrad Skyline",
       "url": "https://open.spotify.com/track/3VskmKXoKImujhbFdJtvX5"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "SKULD",
+        "url": "https://open.spotify.com/album/70SVQYfsG1cnLnbKbQwch7"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 235308,
+      "name": "Tankar pa\u030a kammaren (\u00e4r det bara jag)",
+      "url": "https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Blodsp\u00e5r EP",
-        "url": "https://open.spotify.com/album/0QwP45coTJCeq7GqE1690q"
+        "name": "R\u00e4knar till hundra",
+        "url": "https://open.spotify.com/album/38ybfkkUthGM93y9QH90GP"
       },
       "artists": [
         {
-          "name": "Planet Trash",
-          "url": "https://open.spotify.com/artist/3hHRgiVq5NYghoavqMnjHJ"
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
         }
       ],
-      "duration_ms": 104242,
-      "name": "Levande Begravd",
-      "url": "https://open.spotify.com/track/5rPhZgLe7BqVDWmRJBIZZc"
+      "duration_ms": 172171,
+      "name": "R\u00e4knar till hundra",
+      "url": "https://open.spotify.com/track/1bLFrKOklGDLtysIG1werv"
     }
   ],
   "unique_name": "Svensk Punk",

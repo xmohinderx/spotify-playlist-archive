@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Ian Noe
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,512 likes - 117 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,766 likes - 117 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

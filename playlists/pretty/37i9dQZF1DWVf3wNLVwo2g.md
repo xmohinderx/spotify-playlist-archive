@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 195 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 195 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 4 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 |
 | 5 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 |
 | 6 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 |
-| 7 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 |
-| 8 | [Imperfections \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/30sJOexZR7YGqi6094juOC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 2:55 |
-| 9 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
+| 7 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
+| 8 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 |
+| 9 | [Imperfections \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/30sJOexZR7YGqi6094juOC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 2:55 |
 | 10 | [Ivy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2vkGGrvr58ODOWEv3Yhwow) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:22 |
 | 11 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
 | 12 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 190 | [The Garden \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 5:30 |
 | 191 | [It's A Man's World/Sleeping With The One I Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qX2eMwJzsQdhPg2CrmC1r) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Spotify Singles](https://open.spotify.com/album/56P9jRbQcFQ8KOBW17xI00) | 6:02 |
 | 192 | [Emotions And Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 3:14 |
-| 193 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 5:32 |
-| 194 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
-| 195 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
+| 193 | [Ride \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:29 |
+| 194 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 5:32 |
+| 195 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 
-Snapshot ID: `MTY0ODYwMTUxMiwwMDAwMDAwMDllNWE0M2FlNmExNDE2Nzg1YmU3NTk2ZTk3ZWNkODcx`
+Snapshot ID: `MTY0ODY4Nzg2OSwwMDAwMDAwMDk5ZTY5MmJkNjljYzA2OTg2MmQxNGEzNGNjYWExMTNi`

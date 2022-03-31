@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,112 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,162 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 22 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 23 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 24 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 |
-| 25 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 |
-| 26 | [A Light On In The Dark](https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 3:51 |
-| 27 | [Aquamarine](https://open.spotify.com/track/2bNcVuWSoMVWxFIbQIAC7A) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Aquamarine](https://open.spotify.com/album/67i6eRlC0warZ41bgxzs1a) | 4:14 |
+| 25 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/2cFIYohe5DjEyOaxnE0rig) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Song to Make You Fall in Love With Me](https://open.spotify.com/album/3ZVKjggkfiwDjOFrJtGON3) | 2:41 |
+| 26 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 |
+| 27 | [A Light On In The Dark](https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 3:51 |
 | 28 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 |
-| 29 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/2cFIYohe5DjEyOaxnE0rig) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Song to Make You Fall in Love With Me](https://open.spotify.com/album/3ZVKjggkfiwDjOFrJtGON3) | 2:41 |
+| 29 | [Aquamarine](https://open.spotify.com/track/2bNcVuWSoMVWxFIbQIAC7A) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Aquamarine](https://open.spotify.com/album/67i6eRlC0warZ41bgxzs1a) | 4:14 |
 | 30 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 | 31 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 |
 | 32 | [Multiply](https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:16 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 51 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 |
 | 52 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 |
 | 53 | [Dried Up River](https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light \(Deluxe Edition\)](https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3) | 3:51 |
-| 54 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 |
-| 55 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
-| 56 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 |
-| 57 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
-| 58 | [Lose This Number](https://open.spotify.com/track/2KSB2nglqnZuW4ptnJZEIl) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Talk](https://open.spotify.com/album/3dQD1JXR6BEaEtwRm6BVLS) | 3:56 |
+| 54 | [Lose This Number](https://open.spotify.com/track/2KSB2nglqnZuW4ptnJZEIl) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Talk](https://open.spotify.com/album/3dQD1JXR6BEaEtwRm6BVLS) | 3:56 |
+| 55 | [Redwood Tree](https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Redwood Tree](https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep) | 2:50 |
+| 56 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
+| 57 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 |
+| 58 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 |
 | 59 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 60 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 |
 | 61 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 |
 | 150 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 
-Snapshot ID: `MTY0ODYwMTcyMCwwMDAwMDAwMDcwNDI0OTEyNTc5N2RmMTNiN2YxNzU1MTM3ZjE1OWRk`
+Snapshot ID: `MTY0ODY4ODA3NSwwMDAwMDAwMGU0MmEzMGUxZjQzMTZkYjBlMWViZWYxZTc2Y2VmYmIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,881 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,044 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 4 | [It's A Shame \- Remastered](https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Definitive Soul: Spinners](https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9) | 3:12 |
 | 5 | [Theme From Shaft](https://open.spotify.com/track/7nPc4tfJCRvcxxt9Xz3ugx) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft](https://open.spotify.com/album/2fJgWsAG6PKSOhcrsNEyDm) | 4:36 |
 | 6 | [My Girl](https://open.spotify.com/track/1WWbqYAzu1N216ngniTLNq) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 2:58 |
-| 7 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
-| 8 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Hit Pac \- 5 Series](https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM) | 4:02 |
-| 9 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
-| 10 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
+| 7 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
+| 8 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
+| 9 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Hit Pac \- 5 Series](https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM) | 4:02 |
+| 10 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
 | 11 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
 | 12 | [Everyday People](https://open.spotify.com/track/5H4OmZpHmjqYrL5bhijrwj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Definitely Maybe](https://open.spotify.com/album/0gIO9yueDiAdB3Y2Z8iOV2) | 2:21 |
 | 13 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 20 | [What A Man](https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Stax 50th Anniversary](https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396) | 2:40 |
 | 21 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
 | 22 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
-| 23 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 |
-| 24 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
-| 25 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
+| 23 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
+| 24 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 |
+| 25 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
 | 26 | [Rainy Night in Georgia](https://open.spotify.com/track/1mRmNpeDpEbPXQluq7hmTe) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Platinum Collection](https://open.spotify.com/album/4TJpIhnTQkgVewMDkeBm8v) | 3:48 |
 | 27 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 28 | [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Hurt So Bad \- Re\-Recording](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits Of The Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 69 | [Rockin' Robin](https://open.spotify.com/track/0XFRGKNOzBElJCR3lz1NX0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number 1’s: The Jacksons Story](https://open.spotify.com/album/42oS02bWIcliOvLFHsDawf) | 2:32 |
 
-Snapshot ID: `MTY0ODYwMTk0MSwwMDAwMDAwMDQxYjA0MGY3NWM3YTI4NjljM2Y1YmE3NmQ4NTNjZmI3`
+Snapshot ID: `MTY0ODY4ODI5MCwwMDAwMDAwMDE1ZGU3YmM0MGE0ZDUzNDg4NTFkY2NlMjhlMmQxOWFh`

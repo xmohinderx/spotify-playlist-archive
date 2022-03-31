@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 23068,
+  "num_followers": 23102,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk1MCwwMDAwMDAwMGU1NGRmM2E5OWMwMWIxMjI1NTY4ZmMzNDZhYmU4YTVj",
+  "snapshot_id": "MTY0ODY4ODI5OSwwMDAwMDAwMGM3YzAzNjM2YzNlMDZkNjU3YTllZjEyZjg5YjljYmMy",
   "tracks": [
     {
       "added_at": "2022-03-04 05:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/1ppgkZxBxvGzJ5bVr6s5QF"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 421920,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/2LCtpDYvJ8PErWnySoUiAw"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 376986,
       "name": "Colliding Chimps",
       "url": "https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Anti-Hero",
-        "url": "https://open.spotify.com/album/1ppgkZxBxvGzJ5bVr6s5QF"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 421920,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/2LCtpDYvJ8PErWnySoUiAw"
     },
     {
       "added_at": "2021-01-27 19:39:49",

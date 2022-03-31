@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Usher",
-  "num_followers": 1778303,
+  "num_followers": 1778827,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTU4NCwwMDAwMDAwMDdlYjZmMTZmNjQ2ODA0YTE4NTgxOWU3NzQ1MDIxYTJi",
+  "snapshot_id": "MTY0ODY4Nzk0MCwwMDAwMDAwMDcxZmNjN2UxZTg0MTVhMWRmZTNhZjE2ZWZmMTE4NmFh",
   "tracks": [
     {
       "added_at": "2022-03-14 17:48:22",
@@ -123,6 +123,26 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 257249,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 209400,
       "name": "Best Part (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 257249,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
@@ -595,38 +579,22 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "EX (Remix)",
-        "url": "https://open.spotify.com/album/2dCbgIKh7KG0osKxZ5pwU8"
+        "name": "All The Stars (with SZA)",
+        "url": "https://open.spotify.com/album/3mau89iBea8nCPw3I8kKAk"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 196133,
-      "name": "EX - Remix",
-      "url": "https://open.spotify.com/track/4LfoYkTuIPgJ2RlNkN5P5C"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+      "duration_ms": 235540,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -655,22 +623,54 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "All The Stars (with SZA)",
-        "url": "https://open.spotify.com/album/3mau89iBea8nCPw3I8kKAk"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 235540,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "EX (Remix)",
+        "url": "https://open.spotify.com/album/2dCbgIKh7KG0osKxZ5pwU8"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "EX - Remix",
+      "url": "https://open.spotify.com/track/4LfoYkTuIPgJ2RlNkN5P5C"
     },
     {
       "added_at": "2022-03-14 17:48:22",

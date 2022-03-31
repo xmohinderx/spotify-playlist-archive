@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,385 likes - 125 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,506 likes - 125 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 103 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
 | 104 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
 | 105 | [Pillz \(feat\. Green Velvet\)](https://open.spotify.com/track/3gBO1qs4DudT2TlFAKkdHx) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Pillz \(feat\. Green Velvet\)](https://open.spotify.com/album/3B2VAKSStW7cI9MwmfPQtb) | 3:42 |
-| 106 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
-| 107 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 106 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 107 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 108 | [The Drop](https://open.spotify.com/track/3xIwnKhZxWxKcecqrfXBJj) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Ultra Trap](https://open.spotify.com/album/1pLo9QTyw1PgVaLbJNomPh) | 3:49 |
 | 109 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
 | 110 | [Boy Oh Boy](https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 2:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Get Low](https://open.spotify.com/track/5cNAXdmcLBckABGuNhxE37) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/5pr3Yy1S6Nzarr9wO1BLY2) | 3:33 |
 | 125 | [Virus \(How About Now\)](https://open.spotify.com/track/0W6yJKJW8I04iDT6BsINaL) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/6cMs1rlzNK7VhFI5zXNXID) | 3:18 |
 
-Snapshot ID: `MTY0ODYwMTkxMywwMDAwMDAwMDUxYmI4NjJmMmU2MDExNDllODNiYWU5ODgwOGM2MWQw`
+Snapshot ID: `MTY0ODY4ODI2MiwwMDAwMDAwMDUxYmI4NjJmMmU2MDExNDllODNiYWU5ODgwOGM2MWQw`

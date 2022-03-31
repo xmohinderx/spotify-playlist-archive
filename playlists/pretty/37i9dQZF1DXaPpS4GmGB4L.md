@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,052 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,092 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 30 | [Madison Blues](https://open.spotify.com/track/07d1bozzpuOLkG5EKTcYrt) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Slide Guitar Blues](https://open.spotify.com/album/6OpTLo3rOf4fS8GheHnuaX) | 2:26 |
 | 31 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 |
 | 32 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
-| 33 | [Shake Your Money\-Maker](https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:26 |
-| 34 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
-| 35 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 |
-| 36 | [It's My Fault, Darling \- Remastered](https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:53 |
-| 37 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
-| 38 | [I’ve Been Walkin’](https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:34 |
+| 33 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
+| 34 | [Shake Your Money\-Maker](https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:26 |
+| 35 | [It's My Fault, Darling \- Remastered](https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:53 |
+| 36 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
+| 37 | [I’ve Been Walkin’](https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:34 |
+| 38 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 |
 | 39 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 |
 | 40 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 41 | [Messin' With The Kid](https://open.spotify.com/track/0PIaEqgCwnWf3Qi8UI8zWP) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 45 | [Get Right Before You Get Left](https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The High Cost Of Low Living](https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N) | 3:51 |
 | 46 | [Move It On Over](https://open.spotify.com/track/7gfIbrRrOt4eAlQblTqB9O) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/0hK7AoMOpRZrGL5bU1WIv2) | 4:18 |
 | 47 | [Ain't No Good \(But It's Good Enough for Me\)](https://open.spotify.com/track/3VUAKOTROGVzwpPFalb70O) | [Sister Cookie](https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM), [Spencer Evoy](https://open.spotify.com/artist/3M9xbqadZwYIhhNtq0thxX) | [Ain't No Good \(But It's Good Enough For Me\)](https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY) | 2:52 |
-| 48 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
-| 49 | [You Move Me So](https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:04 |
-| 50 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 |
+| 48 | [You Move Me So](https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:04 |
+| 49 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
+| 50 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 |
 
-Snapshot ID: `MTY0ODYwMTk4MywwMDAwMDAwMGUyYWRjZWQ3NjcyZjgyZGM3YTQ0MzhjYzhiNWY5ZWUx`
+Snapshot ID: `MTY0ODY4ODMzMCwwMDAwMDAwMGRhNWI2ZDg3NDI1MjYyZDYzYzQ4ODIyNjhiMjFjMjk2`

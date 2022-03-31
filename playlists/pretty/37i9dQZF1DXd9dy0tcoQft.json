@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 10089,
+  "num_followers": 10092,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjA2MSwwMDAwMDAwMDBkZjk2N2M1YzA1ZWIxZDFiMGNmODE0NDZmMmJjNmRm",
+  "snapshot_id": "MTY0ODY4ODQwNCwwMDAwMDAwMGY3MjE5ZmExNDg1M2YyNzFjYzliODdmYTRmNjg2MDYz",
   "tracks": [
     {
       "added_at": "2022-02-24 20:38:42",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-02-24 20:38:42",
       "album": {
+        "name": "Nona",
+        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 167532,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
+    },
+    {
+      "added_at": "2022-02-24 20:38:42",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7"
-    },
-    {
-      "added_at": "2022-02-24 20:38:42",
-      "album": {
-        "name": "Nona",
-        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 167532,
-      "name": "Sleeptalking",
-      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
     },
     {
       "added_at": "2022-02-24 20:38:42",

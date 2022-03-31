@@ -819,7 +819,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 195973,
       "name": "ALOHA!",
       "url": "https://open.spotify.com/track/22YGEzwGJwqoFKJ0URX1cl"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 217226,
       "name": "Blood Sweat & Tears",
       "url": "https://open.spotify.com/track/4lsn7TSeTBVqeBtlZQnQRw"
@@ -6006,6 +6006,24 @@
     },
     {
       "album": {
+        "name": "Liyem",
+        "url": "https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS"
+      },
+      "artists": [
+        {
+          "name": "Uzishettan",
+          "url": "https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180509,
+      "name": "Liyem",
+      "url": "https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB"
+    },
+    {
+      "album": {
         "name": "Lmadi",
         "url": "https://open.spotify.com/album/5BtOncH7szKPdItM1i7xJm"
       },
@@ -6453,7 +6471,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 184800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I"
@@ -6613,6 +6631,24 @@
       "duration_ms": 184301,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/2awvHqgL0FlM7HMyQ1ZXpS"
+    },
+    {
+      "album": {
+        "name": "MARK",
+        "url": "https://open.spotify.com/album/3Sx4uvZhdQW38tYqIjRCVW"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180946,
+      "name": "MARK",
+      "url": "https://open.spotify.com/track/7xuoic8xwZtXu6iK2HAjTZ"
     },
     {
       "album": {
@@ -8473,7 +8509,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > The Latin hits of tomorrow are on Spotify today\. Cover: Ana Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460,571 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,460,629 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 33 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 |
 | 34 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 |
 | 35 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
-| 36 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 |
-| 37 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 |
+| 36 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 |
+| 37 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 |
 | 38 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 |
 | 39 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 |
 | 40 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 |
 | 50 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 |
 
-Snapshot ID: `MTY0ODYwMTY0MSwwMDAwMDAwMDEzYWQyYzc2ZjgwMzFiOTliNjY0YmJiYmEzZGU2ODkx`
+Snapshot ID: `MTY0ODY4Nzk5NiwwMDAwMDAwMDViMjJhMGZmZDkwMjUzY2Y3ZWRmN2MwYWM1MzM5NDUy`

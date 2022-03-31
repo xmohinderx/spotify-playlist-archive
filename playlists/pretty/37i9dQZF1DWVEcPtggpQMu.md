@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV?si=wAQc0DAxSMulOXdmZWl4dA">Shane Eagle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,538 likes - 69 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,565 likes - 69 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 57 | [ouT oF reacH](https://open.spotify.com/track/1eGJ1UlpNwBnc7OhFNAYnx) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [heaveN caN waiT: thE narroW dooR \(vol\. 1\)](https://open.spotify.com/album/6wEjzLTreHIS9pOdZ1CUis) | 3:50 |
 | 58 | [BEST DAYS](https://open.spotify.com/track/4EGMkwXJT2iKVR6qpF0HYv) | [Steveisfrench](https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [ON HAMILTON AVE](https://open.spotify.com/album/5N7nPSKwEtb2nMsFSeRAIx) | 1:25 |
 | 59 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 |
-| 60 | [Titanic](https://open.spotify.com/track/0AiQwaMUjcNplCprD2mJ8M) | [Casey](https://open.spotify.com/artist/5Q0zJ4xhRw6QsqyC9WyLcq) | [Titanic](https://open.spotify.com/album/5KTXMqWbBAUbqeahg01HLh) | 3:18 |
+| 60 | [Titanic](https://open.spotify.com/track/0AiQwaMUjcNplCprD2mJ8M) | [Casey](https://open.spotify.com/artist/5dXukgQqq8ZuOsSFIxVphp) | [Titanic](https://open.spotify.com/album/5KTXMqWbBAUbqeahg01HLh) | 3:18 |
 | 61 | [018's Finest \- Remix](https://open.spotify.com/track/3HP7pprW9ewAqBBldm1nq5) | [Boity](https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [William Last KRM](https://open.spotify.com/artist/5TIgVeqYHwf9v56rySzVRw), [Towdee Mac](https://open.spotify.com/artist/0MRYJxruJxK18bswUG2ims), [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2) | [018's Finest \(Remix\)](https://open.spotify.com/album/1y9ivDdAsmFrti4APZl910) | 3:44 |
 | 62 | [Sweet Pull Up](https://open.spotify.com/track/1MaR92nBnvIPYyRUBFRyG2) | [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Sweet Pull Up](https://open.spotify.com/album/6NGOV4uOnG6AIA4dq2EFaD) | 3:58 |
 | 63 | [Brand New](https://open.spotify.com/track/1r6vTdBiwWpboaHYkJMRmw) | [DeWun Music](https://open.spotify.com/artist/0oOX6CGH3wjifuSV7yQlQy), [Dre Autumn](https://open.spotify.com/artist/0PGW5aSldNIk8XsrjFgWQq) | [Brand New](https://open.spotify.com/album/56ZLm7NnfPpGcqKwEbkeBs) | 3:14 |

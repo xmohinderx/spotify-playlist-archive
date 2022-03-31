@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1078020,
+  "num_followers": 1078057,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTcwMiwwMDAwMDAwMDg4YjgxYzBmYWEwMDcxMjRhMDRkZjhhZjMxODNlNTQx",
+  "snapshot_id": "MTY0ODY4ODA1NywwMDAwMDAwMDVmNzQ4MDQ5OGZhNzU1Y2FlNWFhZTQwNzQzMDQwYTU5",
   "tracks": [
     {
       "added_at": "2021-09-24 03:10:22",
@@ -391,6 +391,22 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "We're Good",
+      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
-        "name": "Future Nostalgia (The Moonlight Edition)",
-        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "We're Good",
-      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "Meet You There",
-        "url": "https://open.spotify.com/album/10xZODjcj6V1iWxB5a3Jii"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Love You Right",
-      "url": "https://open.spotify.com/track/5c6I3sGmOMiQWUalVjYnj7"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
         "name": "Happier Than Ever (Edit)",
         "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
       },
@@ -1271,6 +1251,42 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/10xZODjcj6V1iWxB5a3Jii"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/5c6I3sGmOMiQWUalVjYnj7"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 175508,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -1443,22 +1459,6 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2021-09-24 03:10:22",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Philippa Kinsky, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Polar Noir, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6LMDALJ7eGqZLxnN6iDeuK"
+      },
+      "artists": [
+        {
+          "name": "JEWLS",
+          "url": "https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214548,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0mOOCAjXTjg3rNhqcSQWjA"
+    },
+    {
+      "album": {
         "name": "Alte Liebe",
         "url": "https://open.spotify.com/album/4bOPG5g094JQGQNTr89okt"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 216562,
       "name": "Anger",
       "url": "https://open.spotify.com/track/1XyQsbgyEBMDqSN6UqmYdF"
@@ -622,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Daniel, You Passed The Test",
+        "url": "https://open.spotify.com/album/4oISpli0xXeXvWGREjZ9mS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Freitag",
+          "url": "https://open.spotify.com/artist/520YNAsP5XkPzlWoeIekgJ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252390,
+      "name": "Daniel, You Passed The Test",
+      "url": "https://open.spotify.com/track/22ZyCEPivDvwMG6HwrrO2y"
+    },
+    {
+      "album": {
         "name": "Dear Future Me",
         "url": "https://open.spotify.com/album/4kQfPkoaYsoUYAvdsNjtHR"
       },
@@ -892,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Experiencer",
+        "url": "https://open.spotify.com/album/4ISmR3EneuPIF7tyInEBqE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dreams",
+          "url": "https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191705,
+      "name": "Experiencer",
+      "url": "https://open.spotify.com/track/3OtAkD3nypkALLtLWZPohS"
+    },
+    {
+      "album": {
         "name": "Fahr los",
         "url": "https://open.spotify.com/album/3pQP2lS1pxdjeCI8NjaWZQ"
       },
@@ -997,7 +1051,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 210000,
       "name": "Fruit Of Mine",
       "url": "https://open.spotify.com/track/4IlNF4KfjZn09M6H4o7vLD"
@@ -1091,7 +1145,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 278263,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5ixbUgxUGrLAPpMkXywRyW"
@@ -1693,7 +1747,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 180828,
       "name": "Jumping The Gun",
       "url": "https://open.spotify.com/track/7G4ZVUO7OFL74hCCTVSuvO"
@@ -1715,6 +1769,24 @@
       "duration_ms": 166161,
       "name": "Jupi",
       "url": "https://open.spotify.com/track/1VM2xgkPbd8yrHcjnowA7b"
+    },
+    {
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/6ROUOgNAM3gJFdADvqBeTK"
+      },
+      "artists": [
+        {
+          "name": "Peter aus der Mozartstrasse",
+          "url": "https://open.spotify.com/artist/2d0hWUrMLEnczPs4u8zTmm"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/5OUs1CehWjX1L8ClOM24ep"
     },
     {
       "album": {
@@ -1747,7 +1819,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 118072,
       "name": "keep on living",
       "url": "https://open.spotify.com/track/2GWvLa32OjRcNNEdjt35W8"
@@ -1917,6 +1989,46 @@
       "duration_ms": 185669,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/4Pi2uAbu29ro4kckXpi30u"
+    },
+    {
+      "album": {
+        "name": "Leere St\u00fchle",
+        "url": "https://open.spotify.com/album/5a3qCFWxBr79BFc8r6Q7w1"
+      },
+      "artists": [
+        {
+          "name": "Tom Taschenmesser",
+          "url": "https://open.spotify.com/artist/5eXer2CYuU6SCNtMaLXgsd"
+        },
+        {
+          "name": "Krakus",
+          "url": "https://open.spotify.com/artist/2IfllQjp2THw4rYtDExufY"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167972,
+      "name": "Leere St\u00fchle",
+      "url": "https://open.spotify.com/track/5rdmCHX5GPdaOd2nrvGuIq"
+    },
+    {
+      "album": {
+        "name": "Leichter",
+        "url": "https://open.spotify.com/album/55fnSAWqSGoobBwAGJHTdn"
+      },
+      "artists": [
+        {
+          "name": "Strandhase",
+          "url": "https://open.spotify.com/artist/7vtC2BwSc7CwJ634wi23ay"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213736,
+      "name": "Leichter",
+      "url": "https://open.spotify.com/track/43ctRqqjV2eIXiAYLfQGy7"
     },
     {
       "album": {
@@ -2349,7 +2461,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 322000,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/1QE8Kb0Sb9FsQXS585oka8"
@@ -2447,7 +2559,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 140487,
       "name": "Passos",
       "url": "https://open.spotify.com/track/6HjTOWkQeWdw897OlUBvDW"
@@ -2487,6 +2599,24 @@
       "duration_ms": 223000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/1GO5INaTsHxBZ77Mlk755E"
+    },
+    {
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/7tgzYyVlzSVuHYDf5jUZ36"
+      },
+      "artists": [
+        {
+          "name": "Ives Electric",
+          "url": "https://open.spotify.com/artist/7ahkPjxXidCSuNDYkoB0kg"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185225,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/4C1yb5GEZU5XOWpOLDcxIg"
     },
     {
       "album": {
@@ -2573,7 +2703,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 152380,
       "name": "Quiet Smile",
       "url": "https://open.spotify.com/track/3ePAcsEO3jJxyHpiJSo9OA"
@@ -2667,6 +2797,24 @@
       "duration_ms": 304887,
       "name": "Remember The Days",
       "url": "https://open.spotify.com/track/4sdxTu5797utDJRFzjGYxa"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/1G1Tnx8wjroUqia9gdjjrD"
+      },
+      "artists": [
+        {
+          "name": "LITO",
+          "url": "https://open.spotify.com/artist/28eWMibpUITBXZVQM0RWnL"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197396,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/2RvheiLZEgoDwiHm5BJNhi"
     },
     {
       "album": {
@@ -2789,7 +2937,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 254836,
       "name": "Slipper",
       "url": "https://open.spotify.com/track/0d3fp4Ra457iohDUlAUqa1"
@@ -2865,6 +3013,24 @@
       "duration_ms": 249250,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/6YnQ3vqYnjGyLZahOh2gw5"
+    },
+    {
+      "album": {
+        "name": "spain",
+        "url": "https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328"
+      },
+      "artists": [
+        {
+          "name": "theja",
+          "url": "https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "spain",
+      "url": "https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01"
     },
     {
       "album": {
@@ -3215,7 +3381,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 208500,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1nuOGa7DFKKselzKjDP7z7"
@@ -3291,6 +3457,24 @@
       "duration_ms": 131574,
       "name": "Tuts Dir Weh?",
       "url": "https://open.spotify.com/track/0trMYgAetwuKs5CKX24Q6n"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0"
+      },
+      "artists": [
+        {
+          "name": "Polar Noir",
+          "url": "https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210953,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf"
     },
     {
       "album": {

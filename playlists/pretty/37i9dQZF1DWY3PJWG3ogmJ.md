@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,263 likes - 120 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,509 likes - 120 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 10 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 |
 | 11 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 12 | [Demolisher](https://open.spotify.com/track/2ZNu55CIrGd8psBWZmw8WY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Demolisher](https://open.spotify.com/album/208720QaPUwdbfMMbDRmhK) | 3:36 |
-| 13 | [Vendetta](https://open.spotify.com/track/5umc4FlbF2BbXmmKZ1n8an) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 3:07 |
-| 14 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
-| 15 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
-| 16 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 |
+| 13 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
+| 14 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
+| 15 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 |
+| 16 | [Vendetta](https://open.spotify.com/track/5umc4FlbF2BbXmmKZ1n8an) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 3:07 |
 | 17 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 |
 | 18 | [Pressure Point](https://open.spotify.com/track/6dSMTj7IJuQc8rgKO10l0E) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Pressure Point](https://open.spotify.com/album/2PfBk5UnG3vgfgB018u2Ib) | 3:50 |
 | 19 | [Killing Season](https://open.spotify.com/track/5i4eaVRpFuV6gztHP6XShL) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Killing Season](https://open.spotify.com/album/4tpiP6K9JO5CmOdNdGM5BV) | 3:32 |
@@ -112,12 +112,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 102 | [Death Becomes My Voice](https://open.spotify.com/track/0XhLCGihcDBnS0C887l4mn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Death Becomes My Voice](https://open.spotify.com/album/7GGaiFym9OnrPcdyRicef9) | 5:19 |
 | 103 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
 | 104 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
-| 105 | [R!OT](https://open.spotify.com/track/4tNBsgJMPMQv4yyPbTV9Dm) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [R!OT](https://open.spotify.com/album/2AxUYLvLgmvLooZErifrGw) | 3:16 |
-| 106 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 |
+| 105 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 |
+| 106 | [R!OT](https://open.spotify.com/track/4tNBsgJMPMQv4yyPbTV9Dm) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [R!OT](https://open.spotify.com/album/2AxUYLvLgmvLooZErifrGw) | 3:16 |
 | 107 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 |
 | 108 | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/track/4A64JdONZNE0ShoiHrJx1N) | [Left Behind](https://open.spotify.com/artist/0D9zhma3Ysy2QqysEkVWRW), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/album/3XI1rSazMxST7wlUiYPgxD) | 3:41 |
-| 109 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
-| 110 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
+| 109 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
+| 110 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
 | 111 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
 | 112 | [Necessary Death](https://open.spotify.com/track/7z4APuNgUvfs1KjzkJOg5x) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Necessary Death](https://open.spotify.com/album/4RzEjXIN0lZMoooWsZ8ERf) | 2:53 |
 | 113 | [Nekketsu](https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 3:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Collapse](https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F) | 4:40 |
 | 120 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 |
 
-Snapshot ID: `MTY0ODYwMTU5MiwwMDAwMDAwMDMxNzc0NGRhYmU1YjE0MTdhODU5ZTEyMjVkMzU5NDAw`
+Snapshot ID: `MTY0ODY4Nzk0OCwwMDAwMDAwMGUwMWYwZTQ4YjIwZWM1NDljNmZkZmZkNzZlZGI5NzY3`

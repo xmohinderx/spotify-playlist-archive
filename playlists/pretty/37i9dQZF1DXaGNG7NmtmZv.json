@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 156185,
+  "num_followers": 156238,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTk3OCwwMDAwMDAwMGY4OGRhNzhhZDBhNjA5MTU0ZWRmNzcxNDlmNDRkN2M0",
+  "snapshot_id": "MTY0ODY4ODMyNSwwMDAwMDAwMDFkYjM2ZGQwMjgyZmMyMmU5NjhlZDA5ZDY5MTlmMmQy",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Before The Quarrel",
+        "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
+      },
+      "artists": [
+        {
+          "name": "Cro-Mags",
+          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        }
+      ],
+      "duration_ms": 96026,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Neutralize the Threat",
         "url": "https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Before The Quarrel",
-        "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
-      },
-      "artists": [
-        {
-          "name": "Cro-Mags",
-          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
-        }
-      ],
-      "duration_ms": 96026,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "From Bliss To Devestation",
         "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Start Today",
         "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 149133,
       "name": "New Direction",
       "url": "https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Nonstop (Re-recordings)",
         "url": "https://open.spotify.com/album/3IZxVsIZ6U6HACFqjDkiak"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165720,
       "name": "Scratch The Surface",
       "url": "https://open.spotify.com/track/6ukEuZo9JvnltTgSqnnAVp"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Solid Bond: The Complete Discography",
+        "url": "https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY"
+      },
+      "artists": [
+        {
+          "name": "CIV",
+          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
+        }
+      ],
+      "duration_ms": 139186,
+      "name": "United Kids",
+      "url": "https://open.spotify.com/track/0QT6JDL8cgndqsY0rXQwdY"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Few and Far Between",
         "url": "https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 121706,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Solid Bond: The Complete Discography",
-        "url": "https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY"
-      },
-      "artists": [
-        {
-          "name": "CIV",
-          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "United Kids",
-      "url": "https://open.spotify.com/track/0QT6JDL8cgndqsY0rXQwdY"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Get It Away",
-        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
+        "name": "Proud To Be",
+        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
       },
       "artists": [
         {
-          "name": "SS Decontrol",
-          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
+          "name": "DFL",
+          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
         }
       ],
-      "duration_ms": 166190,
-      "name": "Get It Away",
-      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
+      "duration_ms": 85800,
+      "name": "Proud To Be DFL",
+      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
     }
   ],
   "unique_name": "Classic Hardcore",

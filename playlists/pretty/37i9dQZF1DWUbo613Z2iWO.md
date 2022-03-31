@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Coco Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,198 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 44 | [What You Want](https://open.spotify.com/track/4YlJ86UEERz5yJB5bx4KUP) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Iconic](https://open.spotify.com/album/2qUVjXy8MeOvAO9qcNpdoR) | 3:27 |
 | 45 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 |
 | 46 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
-| 47 | [Good Life \(2022\)](https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life \(2022\)](https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2) | 3:35 |
+| 47 | [Good Life](https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2) | 3:35 |
 | 48 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 |
 | 49 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 |
 | 50 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 |

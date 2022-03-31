@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Goldfinger",
-  "num_followers": 304187,
+  "num_followers": 304310,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTg5MywwMDAwMDAwMDA0YzdhY2QwNDFkM2I2YzVmZGYwMDA0OWYxMjkzNTAw",
+  "snapshot_id": "MTY0ODY4ODI0MywwMDAwMDAwMDE0MTRkMzk4YzgzYjU5ODM1ZmEzN2I0Y2VjYWQzMGRj",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Hang-Ups",
+        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
       },
@@ -139,38 +155,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Everything Goes Numb",
-        "url": "https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Everything Went Numb",
-      "url": "https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Hang-Ups",
-        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Big Daddy Multitude",
         "url": "https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Everything Goes Numb",
+        "url": "https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Everything Went Numb",
+      "url": "https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 144333,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/5kxxhOkxd7j57e7oL121gI"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -251,34 +235,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Sublime (Explicit Version)",
-        "url": "https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa"
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
         }
       ],
-      "duration_ms": 156533,
-      "name": "Same In The End",
-      "url": "https://open.spotify.com/track/3M7ooJlRuaJYwMY5qrwK4F"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -299,6 +267,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Sublime (Explicit Version)",
+        "url": "https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Same In The End",
+      "url": "https://open.spotify.com/track/3M7ooJlRuaJYwMY5qrwK4F"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "While We're At It",
-        "url": "https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Wonderful Day for the Race",
-      "url": "https://open.spotify.com/track/6h9Su5IoSExGHd5X0fTfhL"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Cinema Beer Nuts",
         "url": "https://open.spotify.com/album/5qQuOwX2PTWy7ju1eq7ktp"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188733,
       "name": "Too Much Information",
       "url": "https://open.spotify.com/track/0SnMkgqpYimCtOmiId16SS"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "While We're At It",
+        "url": "https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Wonderful Day for the Race",
+      "url": "https://open.spotify.com/track/6h9Su5IoSExGHd5X0fTfhL"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Awkward Always",
-        "url": "https://open.spotify.com/album/079riMJqKu6hjZZUIT4JEI"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 154686,
-      "name": "Awkward Always",
-      "url": "https://open.spotify.com/track/15pG633R6ETfX5OVhSisYS"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "While We're At It",
         "url": "https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Awkward Always",
+        "url": "https://open.spotify.com/album/079riMJqKu6hjZZUIT4JEI"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "Awkward Always",
+      "url": "https://open.spotify.com/track/15pG633R6ETfX5OVhSisYS"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Gemini, Her Majesty",
-        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 291147,
-      "name": "Ruby Cumulous",
-      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Gemini, Her Majesty",
+        "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 291147,
+      "name": "Ruby Cumulous",
+      "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Work Hard, Play Hard, See You in the Graveyard",
         "url": "https://open.spotify.com/album/7gQDqeLcyp8Xfxs7YZFZmz"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
     },
     {
       "added_at": "2021-09-02 23:00:00",

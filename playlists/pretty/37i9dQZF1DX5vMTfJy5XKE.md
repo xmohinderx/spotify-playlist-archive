@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,901 likes - 130 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,845 likes - 130 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 15 | [Jingle Bells](https://open.spotify.com/track/0Rh9uw3Xl29IaZEZYbEyRa) | [Kris Jenner](https://open.spotify.com/artist/4kQM5AwmCV3qiLikmhngET), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kourtney Kardashian](https://open.spotify.com/artist/38R8cIQwYw8nygI3WU39Qh) | [Jingle Bells](https://open.spotify.com/album/3eFlxTKQwSWX8Ti6ZODYXm) | 1:30 |
 | 16 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 |
 | 17 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 |
-| 18 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
+| 18 | [Happiness \(Is Christmas\) / Christmas Time Is Here \- Medley](https://open.spotify.com/track/6NdYUsXSosT32J3g09ZiZM) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Happiness \(Is Christmas\) / Christmas Time Is Here \[Medley\]](https://open.spotify.com/album/3EHLXow9Wsj6TG94gJa7YV) | 4:25 |
 | 19 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3wE51vrzMS4T2jmz1VlnMn) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/4weBbbWNHkVUshQRRQdJUP) | 2:27 |
 | 20 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
-| 21 | [Happiness \(Is Christmas\) / Christmas Time Is Here \- Medley](https://open.spotify.com/track/6NdYUsXSosT32J3g09ZiZM) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Happiness \(Is Christmas\) / Christmas Time Is Here \[Medley\]](https://open.spotify.com/album/3EHLXow9Wsj6TG94gJa7YV) | 4:25 |
+| 21 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 22 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 |
 | 23 | [Merry Christmas, Happy New Year](https://open.spotify.com/track/1d3swnmFMH2dhIFiFmkkB6) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [Merry Christmas, Happy New Year](https://open.spotify.com/album/7BiCKuzauJs1gntzEhjkzf) | 3:39 |
 | 24 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/4zHDuDQx8dcWVmVVtyIzRO) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:51 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/7faG1XjcABFEEHc1HNnoJs) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happy Xmas \(War is Over\) / 2000 Miles](https://open.spotify.com/album/5EBioioxvDUDwr7hR4uxZM) | 3:27 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0ODYwMTg0NCwwMDAwMDAwMDBhYzI5MjQ2YjE3NmI1MzUxOTAzZmQ1ZjMxZTFkMTEz`
+Snapshot ID: `MTY0ODY4ODE5NSwwMDAwMDAwMGQwZDA3YTc5NmI2NDExMzIwNDRkOTFkZTZkZWVjMjI4`

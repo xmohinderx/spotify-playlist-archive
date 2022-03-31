@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Scene Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,762 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,880 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 16 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 |
 | 17 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 |
 | 18 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
-| 19 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
-| 20 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 |
-| 21 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 |
-| 22 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 |
+| 19 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 |
+| 20 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 |
+| 21 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 |
+| 22 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 |
 | 23 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 |
 | 24 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 |
 | 25 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 43 | [Jinnslammer](https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Jinnslammer](https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9) | 4:39 |
 | 44 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 |
 | 45 | [Essence of Creation](https://open.spotify.com/track/3bBNyJyFq8URxkT4HEH0CV) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Essence of Creation](https://open.spotify.com/album/3DQp7BgAjsEc0L6ZKnsCjx) | 3:40 |
-| 46 | [As Above, So Below](https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [As Above, So Below / Hunting Grounds / The In\-Between](https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK) | 4:09 |
-| 47 | [Entertain You](https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3) | 3:31 |
+| 46 | [Entertain You](https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3) | 3:31 |
+| 47 | [As Above, So Below](https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [As Above, So Below / Hunting Grounds / The In\-Between](https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK) | 4:09 |
 | 48 | [The Game Is Over](https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Game Is Over](https://open.spotify.com/album/4OWpobECNo3zO0S9HHxzmW) | 4:21 |
 | 49 | [Eyes Of The World](https://open.spotify.com/track/6BQhXq7JHYEEEu9G52UIws) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/5CvD9cjmaWp8C8oB3HVavl) | [Eyes Of The World](https://open.spotify.com/album/7kxAYpirhF9ov4wHoe6yXn) | 3:52 |
 | 50 | [One Second](https://open.spotify.com/track/6frLIzuYmfTQcfX4khfRZP) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [One Second](https://open.spotify.com/album/6cyzwj2z7TDNU9Vhk85w1s) | 3:36 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 68 | [Better Without You](https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Better Without You](https://open.spotify.com/album/7rhu8SK2H2Fya2bWx8yPjG) | 4:05 |
 | 69 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 |
 | 70 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 |
-| 71 | [Lift Me Up](https://open.spotify.com/track/6ZwpGvNNC9vEzqsrtdRyVk) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/0EaobWjAKwyRNMheJL0OMU) | 3:29 |
-| 72 | [Dark Love Empress](https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Dark Love Empress](https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW) | 4:43 |
-| 73 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 |
-| 74 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 |
-| 75 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 |
+| 71 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 |
+| 72 | [Lift Me Up](https://open.spotify.com/track/6ZwpGvNNC9vEzqsrtdRyVk) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/0EaobWjAKwyRNMheJL0OMU) | 3:29 |
+| 73 | [Dark Love Empress](https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Dark Love Empress](https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW) | 4:43 |
+| 74 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 |
+| 75 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 |
 | 76 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
 | 77 | [The Waters Rising](https://open.spotify.com/track/59EXUU1Fde9Lc6QjGotk2B) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [The Waters Rising](https://open.spotify.com/album/58fcRPmN042228TwRVoVsQ) | 4:23 |
-| 78 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 |
-| 79 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
-| 80 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 |
+| 78 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
+| 79 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 |
+| 80 | [Take Me There](https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Take Me There](https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj) | 3:41 |
 
-Snapshot ID: `MTY0ODYwMTU2OCwwMDAwMDAwMDI4ZjliNTExNDZiNTMzNGZiZTYyYWM3ZDAyZTEyMDM5`
+Snapshot ID: `MTY0ODY4NzkyNCwwMDAwMDAwMGNmODk0OTM0NjkxOGMyY2NiYTk1MzRiYzAyMGFiMGQy`

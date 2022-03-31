@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,506 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,717 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 10 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 11 | [Esperando na janela](https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Eu, Tu, Eles](https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA) | 4:16 |
 | 12 | [Onde Você Mora?](https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Onde Você Mora?](https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ) | 3:58 |
-| 13 | [Quero Te Encontrar](https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [A Forma](https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny) | 3:50 |
+| 13 | [Beleza Rara](https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara](https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz) | 3:55 |
 | 14 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 |
 | 15 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 |
-| 16 | [Beleza Rara](https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara](https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz) | 3:55 |
+| 16 | [Quero Te Encontrar](https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [A Forma](https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny) | 3:50 |
 | 17 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
 | 18 | [Enquanto Houver Sol](https://open.spotify.com/track/4Eu11AEW4PK9Rtc3TkTwl7) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Como estão vocês?](https://open.spotify.com/album/3DDNSWI08bjLGOsK2EBY7w) | 3:02 |
 | 19 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 26 | [Rindo À Toa](https://open.spotify.com/track/36OHYoQYvFtjuTE3LCdEoH) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Falamansa Essencial](https://open.spotify.com/album/6QB3is8FTgiJ84fLQsMOJU) | 3:41 |
 | 27 | [Beija\-Flor](https://open.spotify.com/track/2qzvVh6WD7pP0DUkSyANNf) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ) | [Timbalada](https://open.spotify.com/album/7DBNBSDCsPxPzW9QyivdTc) | 4:29 |
 | 28 | [Passarinhos](https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:41 |
-| 29 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
-| 30 | [Além do Horizonte](https://open.spotify.com/track/42rMA2pfIu7J6a80nODfAn) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Até Onde Vai](https://open.spotify.com/album/3GiJagG5k5VmCMoVxnFs0F) | 4:36 |
-| 31 | [Puro Êxtase](https://open.spotify.com/track/0D3s0ShhcmT98e4aiqlXdX) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Barão Pra Sempre](https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK) | 3:51 |
+| 29 | [Além do Horizonte](https://open.spotify.com/track/42rMA2pfIu7J6a80nODfAn) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Até Onde Vai](https://open.spotify.com/album/3GiJagG5k5VmCMoVxnFs0F) | 4:36 |
+| 30 | [Puro Êxtase](https://open.spotify.com/track/0D3s0ShhcmT98e4aiqlXdX) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Barão Pra Sempre](https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK) | 3:51 |
+| 31 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
 | 32 | [Linda](https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 2:55 |
 | 33 | [Anna Júlia](https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Los Hermanos](https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh) | 3:32 |
 | 34 | [Burguesinha](https://open.spotify.com/track/3mXjQTPztvXVRuL6tt6jY3) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil O Disco](https://open.spotify.com/album/5TjMovSYXlYcz8y10cBwS2) | 4:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 |
 | 60 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 
-Snapshot ID: `MTY0ODYwMTQ3NiwwMDAwMDAwMDBiY2RiZThlZTZiZjIwYzc2MDUxMTI3ZjFhOTg1NDUy`
+Snapshot ID: `MTY0ODY4NzgzMiwwMDAwMDAwMDJmODRiZDZlODgyOWIzMjhiNTMxODExN2JlZGVkNzk2`

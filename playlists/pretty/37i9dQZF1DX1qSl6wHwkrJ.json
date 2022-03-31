@@ -1,12 +1,12 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 4882,
+  "num_followers": 4880,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTcwOCwwMDAwMDAwMGFjY2I3NGJkY2UzNDcyYWU2ZjRhYTAxZTU0YzMyNGJj",
+  "snapshot_id": "MTY0ODY4ODA2MywwMDAwMDAwMDViZjg2ZThjNDUxNjRhNzVlNjNlODE3Mzg0NGZhZDYw",
   "tracks": [
     {
       "added_at": "2021-12-14 11:42:02",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Lonesome Christmas",
-      "url": "https://open.spotify.com/track/5tpYxyS2Ic5rugVnlSKGU0"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "A Christmas Celebration Of Hope",
         "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 212626,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/5tpYxyS2Ic5rugVnlSKGU0"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "A Christmas Celebration Of Hope",
-        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Lonesome Christmas",
-      "url": "https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "Rockin' Christmas Blues",
         "url": "https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 216469,
       "name": "Bring Back My Cadillac",
       "url": "https://open.spotify.com/track/1oSwpnWK8Tw69W5wFXVv4Q"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "A Christmas Celebration Of Hope",
+        "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J"
     },
     {
       "added_at": "2021-12-14 11:42:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-12-14 11:42:02",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "A Little Bit Of Christmas Love",
-      "url": "https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf"
-    },
-    {
-      "added_at": "2021-12-14 11:42:02",
-      "album": {
         "name": "Rockin' Christmas Blues",
         "url": "https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 414066,
       "name": "Christmas Boogie (One Little Kiss)",
       "url": "https://open.spotify.com/track/78YBLISfvGcnRlMQQpdR6L"
+    },
+    {
+      "added_at": "2021-12-14 11:42:02",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "A Little Bit Of Christmas Love",
+      "url": "https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf"
     },
     {
       "added_at": "2021-12-14 11:42:02",

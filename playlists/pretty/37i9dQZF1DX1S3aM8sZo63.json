@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 715278,
+  "num_followers": 715624,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY5NiwwMDAwMDAwMDI1ZTgyMmU2OTA0YTAyZDY5MjlmZGY2ZmIxNjAzYzVk",
+  "snapshot_id": "MTY0ODY4ODA1MCwwMDAwMDAwMDVmMGFjMjhkZjk5OTk3ZTFhNTQzOTYyZGNlMzNlNjQ4",
   "tracks": [
     {
       "added_at": "2021-12-27 19:15:27",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "El Amor So\u00f1ado",
         "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 182680,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -203,22 +203,22 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "El Amor De Tu Vida (feat. Tony Melendez)",
-        "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Edici\u00f3n Especial",
+          "url": "https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc"
         }
       ],
-      "duration_ms": 163230,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -255,6 +255,26 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
+        "name": "El Amor De Tu Vida (feat. Tony Melendez)",
+        "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 163230,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -283,42 +303,6 @@
       "duration_ms": 212946,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Edici\u00f3n Especial",
-          "url": "https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc"
-        }
-      ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -371,6 +355,22 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -503,22 +487,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "Nos Divertimos Logrando Lo Imposible",
-        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "Sinaloense Hasta Las Cachas",
         "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 214466,
       "name": "Todo Porque Te Amo",
       "url": "https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "Nos Divertimos Logrando Lo Imposible",
+        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 194538,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -579,6 +563,22 @@
       "duration_ms": 239497,
       "name": "Ojitos de Miel",
       "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 234000,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/1Utd9DbmWNHWjEuzItBmRX"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2021-12-27 19:15:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-12-27 19:15:27",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
-    },
-    {
-      "added_at": "2021-12-27 19:15:27",
-      "album": {
         "name": "Un Cantautor Con Alma de Triunfador",
         "url": "https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 272920,
       "name": "Aliado Del Tiempo",
       "url": "https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF"
+    },
+    {
+      "added_at": "2021-12-27 19:15:27",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2021-12-27 19:15:27",

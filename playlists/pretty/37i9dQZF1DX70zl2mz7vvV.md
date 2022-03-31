@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,897 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,932 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 10 | [It's Growing](https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [It's Growing](https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC) | 3:39 |
 | 11 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 12 | [I'm Missing You](https://open.spotify.com/track/7d2gr7qoBXzybhUGscD03H) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [One In A Million](https://open.spotify.com/album/0Xc31I7ncsYzDIH6TVBIi7) | 3:21 |
-| 13 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
-| 14 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
+| 13 | [Rock Away](https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:57 |
+| 14 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
 | 15 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
-| 16 | [Rock Away](https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:57 |
+| 16 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 17 | [When I See You Smile](https://open.spotify.com/track/0sedwk5jVoYD78bxdwJIjt) | [Singing Sweet](https://open.spotify.com/artist/1ABKdHci1opQWv1GLXH0Na) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:43 |
 | 18 | [Longing For](https://open.spotify.com/track/5AJrLAegpdGCK0nhEAf8Zv) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:51 |
 | 19 | [Everyone Falls In Love](https://open.spotify.com/track/1jRVjtZnyLjE0LOS8UT78f) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:48 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 25 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
 | 26 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
 | 27 | [Ganga Lee](https://open.spotify.com/track/7GrDTXhDzVTUKYl49Whe9e) | [Louie Culture](https://open.spotify.com/artist/65xomMlePqBzEuBb4XXRjE) | [Ganga Lee](https://open.spotify.com/album/4QlYySdP2EIK3mHElsQOvr) | 2:56 |
-| 28 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
-| 29 | [Saddest Day](https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:43 |
+| 28 | [Saddest Day](https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:43 |
+| 29 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
 | 30 | [Lord Watch Over Our Shoulders](https://open.spotify.com/track/1HFbmxRMA8kI3aSAi3mE0V) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:33 |
 | 31 | [Lioness On The Rise](https://open.spotify.com/track/46ZiBZ2u1pHLG3VnTSCpqE) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 4:05 |
 | 32 | [I Am Not Afraid](https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [The Strong One](https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ) | 4:00 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 37 | [Strange](https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ) | [Papa San](https://open.spotify.com/artist/06eDTSeVX3k8W5bNAbnF9a) | [Dancehall 101 Vol\. 4](https://open.spotify.com/album/6ZcTGeWRDeMEguHWZlwAmf) | 3:55 |
 | 38 | [Lights Out](https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Lovers Rock](https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge) | 3:23 |
 | 39 | [Pon De River, Pon De Bank](https://open.spotify.com/track/05ldMUa2b7KhctXmx0T30M) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:59 |
-| 40 | [Give It To Her](https://open.spotify.com/track/4ZS5tKyn5PsNS2NI4NxyiJ) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [RIDDIM DRIVEN \- LIQUID](https://open.spotify.com/album/4e6N1whg9F7qjcpOvZtxEP) | 3:28 |
-| 41 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
-| 42 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 3:20 |
-| 43 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
-| 44 | [Don't Haffi Dread](https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Don't Haffi Dread](https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb) | 3:58 |
+| 40 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
+| 41 | [Give It To Her](https://open.spotify.com/track/4ZS5tKyn5PsNS2NI4NxyiJ) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [RIDDIM DRIVEN \- LIQUID](https://open.spotify.com/album/4e6N1whg9F7qjcpOvZtxEP) | 3:28 |
+| 42 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
+| 43 | [Don't Haffi Dread](https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1) | [Don't Haffi Dread](https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb) | 3:58 |
+| 44 | [Rumours](https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [One Man Against The World](https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr) | 3:20 |
 | 45 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 |
 | 46 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
 | 47 | [Baby Can I Hold You Tonight](https://open.spotify.com/track/1UZu42Sn6pGcRPFyPh2yTo) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Splashing Dashing](https://open.spotify.com/track/0Cenbvs1uDQvTLhnCXw9zv) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Reggae Anthology: Music Is The Rod](https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk) | 3:19 |
 | 50 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 
-Snapshot ID: `MTY0ODYwMTg3NywwMDAwMDAwMDNiM2NmOWQ3NmNmNmI2YWMxYzcyYzdjNmMwZTllZjYy`
+Snapshot ID: `MTY0ODY4ODIyNywwMDAwMDAwMGFhZGMyMzY1YjVmNDkwZTAyYjAwNzRiYjdhZDg0NGQx`

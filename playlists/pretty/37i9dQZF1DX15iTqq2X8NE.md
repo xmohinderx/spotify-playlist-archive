@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > The sweet sounds of Sudan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,635 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,638 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 46 | [Amnesia \(with Ari Lennox & Kiddominant\)](https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 3:35 |
 | 47 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 |
 | 48 | [حبك وطن](https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS) | [حبك وطن](https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8) | 3:39 |
-| 49 | [Soukura \- Boddhi Satva Ancestral Soul Remix](https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Soukura \- EP](https://open.spotify.com/album/5uIKH8R1wPDKABSt6AOv73) | 5:20 |
+| 49 | [Salmly Ala A'azar](https://open.spotify.com/track/5sAUicg8TjuZohrSHxfx9S) | [Karim Heraje](https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ), [Eslam Farouk](https://open.spotify.com/artist/2xahQ0NAD1DKzz0ObtSbUo) | [Salmly Ala A'azar](https://open.spotify.com/album/7jwNq4kvH7mOC2oVvw9f3F) | 3:35 |
 | 50 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 
-Snapshot ID: `MTY0ODYwMTY4NiwwMDAwMDAwMGFlYTMzNzY1MDUyZDhlYjc4NjVhOTM1NjgwNTIzMDlm`
+Snapshot ID: `MTY0ODY4ODA0MSwwMDAwMDAwMDI3MWMyNTA4OTNjNmNkMGQyMWQ3MjczYjM3NzYzYzAz`

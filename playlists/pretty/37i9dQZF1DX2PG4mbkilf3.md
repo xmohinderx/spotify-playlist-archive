@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: KALLITECHNIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,911 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,948 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 290164,
+  "num_followers": 290277,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTYzMywwMDAwMDAwMGNlMmRmZmU2MjZlYjlhZmMzYmVlN2U1NjA1MjEyOGI1",
+  "snapshot_id": "MTY0ODY4Nzk4NywwMDAwMDAwMDEyNDlkMmEwNzJiM2ZhMDkxNDdkYWM1ZGEwODc3YTI3",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Once Upon A Time (Deluxe)",
         "url": "https://open.spotify.com/album/2H2eNZClayR5jbgBa2iZx1"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 228840,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/2dO88mixgzqmgy56wFUVSY"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/6VdD9Tw3GtwNMDT6hlHSWS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 377266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/41MU7uoimNrKUfPKVFCCqZ"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "The Best of Branigan",
         "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/6VdD9Tw3GtwNMDT6hlHSWS"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 377266,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/41MU7uoimNrKUfPKVFCCqZ"
     },
     {
       "added_at": "2021-12-22 16:16:43",

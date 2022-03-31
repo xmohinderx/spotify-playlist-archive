@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: ROBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,353 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,350 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 15 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 |
 | 16 | [Paracaidas](https://open.spotify.com/track/2eNOhkws1JQe3ihihnZUP0) | [Omar Koonze](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [Paracaidas](https://open.spotify.com/album/4S7eZjHadhLkjm5Rg34CeZ) | 3:39 |
 | 17 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 |
-| 18 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 |
+| 18 | [Puñales](https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Puñales](https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A) | 3:17 |
 | 19 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 |
 | 20 | [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 |
 | 21 | [Fantasma](https://open.spotify.com/track/7BW5CXmE4DF91TmMbK4LXg) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Fantasma](https://open.spotify.com/album/11ppugYYbGGEJfnEQWgCfd) | 3:03 |
-| 22 | [Puñales](https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Puñales](https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A) | 3:17 |
+| 22 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 |
 | 23 | [No te lloro más](https://open.spotify.com/track/5GueXL3NIds0FZgGIv6L6c) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 2:56 |
 | 24 | [Marpesia](https://open.spotify.com/track/5M4MFwCKS2UFQICLrsxXki) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Marpesia](https://open.spotify.com/album/3auDoC18VaVtqTii6YHcN1) | 2:54 |
 | 25 | [Niño de 10](https://open.spotify.com/track/4i8R5jXt58zpwwCybJn6cD) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Niño de 10](https://open.spotify.com/album/1wyEXxYZx2B2a2IuVgLDce) | 2:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 59 | [Antes de Ti](https://open.spotify.com/track/6wTtoD7TPVQ7QvibaTGGTA) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Antes de Ti](https://open.spotify.com/album/5dXCHfpk5cstC7GIdQx0Gi) | 2:51 |
 | 60 | [idk](https://open.spotify.com/track/76jViTpFYIFfB7oWXKqHzn) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [idk](https://open.spotify.com/album/6P3vr5QdAVrG47NavaSTgM) | 4:40 |
 
-Snapshot ID: `MTY0ODYwMTkzNywwMDAwMDAwMDUxNmE1NjQ3NmI0OTFkMWQwZDQ4MjAzMjRiNGZmNTkz`
+Snapshot ID: `MTY0ODY4ODI4NiwwMDAwMDAwMDFlYjc5YTY1OTdkNjljZWE2MGZlN2NiZjc2NmI5ODcz`

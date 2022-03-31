@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,734 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,718 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 4 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
 | 5 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
 | 6 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
-| 7 | [Pale Blue Eyes](https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground](https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL) | 5:41 |
-| 8 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
-| 9 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
-| 10 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
-| 11 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
+| 7 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
+| 8 | [Pale Blue Eyes](https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground](https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL) | 5:41 |
+| 9 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
+| 10 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
+| 11 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
 | 12 | [The Upswing](https://open.spotify.com/track/6eCnpakN2g0R7CQttki1cg) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/4mgRBnUuUT2YjT8mqcxwcf) | 4:59 |
 | 13 | [Too Many Birds](https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 5:27 |
-| 14 | [I Think of You](https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/4Aa53iJ3EuGEkrna4nhAHn) | 3:25 |
+| 14 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
 | 15 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 |
-| 16 | [Wintersong](https://open.spotify.com/track/3o3xMz8HYKGsC9IOTVkJIo) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Break Mirrors](https://open.spotify.com/album/6Y0CRNcsCCyj2lNehrZp1v) | 4:16 |
-| 17 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
+| 16 | [I Think of You](https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/4Aa53iJ3EuGEkrna4nhAHn) | 3:25 |
+| 17 | [Wintersong](https://open.spotify.com/track/3o3xMz8HYKGsC9IOTVkJIo) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Break Mirrors](https://open.spotify.com/album/6Y0CRNcsCCyj2lNehrZp1v) | 4:16 |
 | 18 | [The Healing Day](https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People \[Spotify Exclusive\]](https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt) | 5:14 |
 | 19 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 20 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 60 | [Florida](https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss) | 4:25 |
 | 61 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
 | 62 | [Giant of Illinois](https://open.spotify.com/track/5PKq3gMexDhqvHb3LsJDpK) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Things Are Really Great Here, Sort Of...](https://open.spotify.com/album/1nXNVxTKqOzvy7zYAmddR0) | 3:31 |
-| 63 | [Blue Moon](https://open.spotify.com/track/3aL353hFdpA6eOcDUL5sOH) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Blue Moon](https://open.spotify.com/album/5TafbNrL62AecbmD4lC1zc) | 4:02 |
-| 64 | [Summer Song](https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw) | [The Year Of The Leopard](https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx) | 4:25 |
-| 65 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
+| 63 | [Summer Song](https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw) | [The Year Of The Leopard](https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx) | 4:25 |
+| 64 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
+| 65 | [Blue Moon](https://open.spotify.com/track/3aL353hFdpA6eOcDUL5sOH) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Blue Moon](https://open.spotify.com/album/5TafbNrL62AecbmD4lC1zc) | 4:02 |
 | 66 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 |
 | 67 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
 | 68 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 |
 | 69 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 70 | [Gospel](https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer \(Standard Version\)](https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX) | 4:29 |
 
-Snapshot ID: `MTY0ODYwMTgzMywwMDAwMDAwMGYxMzg1ODRiOTJjYTNjYjgyMDIzZDQ0ZjYzZDYxOTNh`
+Snapshot ID: `MTY0ODY4ODE4NSwwMDAwMDAwMDA3YTUzMWY4MTdkYzQ0YWY1ZDk1M2ZkMzBiNmRjNjJl`

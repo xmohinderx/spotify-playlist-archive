@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,349 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,356 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 46 | [Canción a dos tiples](https://open.spotify.com/track/6Rm8DWp4Ud46Km1Xoyr3Jk) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Eduardo López Banzo](https://open.spotify.com/artist/4uv1y9qfR8UoCt13RXuyX3) | [Barroco Español Vol\. 1](https://open.spotify.com/album/5Qv4Q3GI4lyX7LphaG0Lyy) | 2:53 |
 | 47 | [Recife dos Corais](https://open.spotify.com/track/2B7jBDBXH6mmjokE5gAXy3) | [Sergio Assad](https://open.spotify.com/artist/4swcKk3MACehmkZYDvPr5z), [Marc Regnier](https://open.spotify.com/artist/6Mhzt8Vf0WmimfSrZpqQZo), [Marco Sartor](https://open.spotify.com/artist/6A3FEDzYb2rJIX8LTTQ1vB) | [Tempo do Brasil](https://open.spotify.com/album/5IUMB530XZphKzaeAaxJY3) | 2:09 |
 | 48 | [Lienas: Codex del Convento del Carmen: Salve Regina, a 4](https://open.spotify.com/track/5SIJnspxiztsn23Crb1kqx) | [Juan de Lienas](https://open.spotify.com/artist/01bcKKbxVmqtgEu2bhMg9M), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF) | [Spain and the New World \- Renaissance music from Aragon and Mexico](https://open.spotify.com/album/3oqwVXqencj7tskMeuZkau) | 8:51 |
-| 49 | [Margaritena \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 13:28 |
-| 50 | [Piazzolla: Estaciónes porteñas: I\. Verano Porteño](https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC), [Héctor Console](https://open.spotify.com/artist/1WhJevvVMI2nQxyp2gYQTU) | [Piazzolla et al : Mi Buenos Aires querido](https://open.spotify.com/album/1O7WR5Ucg8yP3UnO9h4A3a) | 5:35 |
+| 49 | [Piazzolla: Estaciónes porteñas: I\. Verano Porteño](https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC), [Héctor Console](https://open.spotify.com/artist/1WhJevvVMI2nQxyp2gYQTU) | [Piazzolla et al : Mi Buenos Aires querido](https://open.spotify.com/album/1O7WR5Ucg8yP3UnO9h4A3a) | 5:35 |
+| 50 | [Symphonic Scherzo, Op\. 30, "El festin de los enanos"](https://open.spotify.com/track/00BNoSSYtv2huW6gtmFJL9) | [José Rolón](https://open.spotify.com/artist/6obRNlWBjJszUdoS7wm6nY), [Nuremberg Symphony Orchestra](https://open.spotify.com/artist/0PQnsTU4RL8NHZmtDJ6lFg), [Gregor Bühl](https://open.spotify.com/artist/51417FE0yJpn4FYJAKPY86) | [Mexican Piano Concertos](https://open.spotify.com/album/2C1vfrTVGOsS4eD4zAjE5q) | 7:57 |
 
-Snapshot ID: `MTY0ODYwMTk5NCwwMDAwMDAwMDc5NjI5YjM4ODc1ZDcxNjU3NDljZDdhOWUwM2E3ZGNl`
+Snapshot ID: `MTY0ODY4ODM0MCwwMDAwMDAwMGMyMjg4NjczY2ViM2E5MmE4ZmU4M2YzYTRlYzJiYzAw`

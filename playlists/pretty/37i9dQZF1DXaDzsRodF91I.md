@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,084 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,201 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 78 | [Adore You](https://open.spotify.com/track/2Adv5Gr8IawHBeeJ4hnFkh) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Adore You](https://open.spotify.com/album/7FmQ04SoB0cehnTsrN7AKh) | 3:29 |
 | 79 | [We Are 138](https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Through Being Ghoul](https://open.spotify.com/album/3Px8B6UkiHL0qpaorSn4EA) | 2:03 |
 | 80 | [I Knew You Were Trouble](https://open.spotify.com/track/0CsP3X8vw67bm2ieIc73a4) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/3qnbLOjSVqy38vQh1Pj28R) | 3:38 |
-| 81 | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/album/2EKyluXV8ICyAfNiSI0WSG) | 3:15 |
-| 82 | [Crawling](https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:32 |
-| 83 | [Heathens](https://open.spotify.com/track/2TuXTTcRnPAtI7FK6hNTOq) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 3:46 |
+| 81 | [Crawling](https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:32 |
+| 82 | [Heathens](https://open.spotify.com/track/2TuXTTcRnPAtI7FK6hNTOq) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 3:46 |
+| 83 | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/album/2EKyluXV8ICyAfNiSI0WSG) | 3:15 |
 | 84 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
 | 85 | [Let It Be](https://open.spotify.com/track/21u6zgstEm23O0P6NvVoIg) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:52 |
 | 86 | [Golden](https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Golden](https://open.spotify.com/album/6x10PN81FtVKbIXWm2ANUS) | 3:25 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 88 | [You're Dead / Vampire Ska](https://open.spotify.com/track/71ikNNbcGUjcid5nD5Q2rZ) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/5vlfE9S9ERjZPFObxmoWpJ) | 2:29 |
 | 89 | [Happier](https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY) | [Shorelines](https://open.spotify.com/artist/0dhKIZOcVIhpS5IcsUATkH) | [Happier](https://open.spotify.com/album/0pj8Mpwp0MdcMVhUjaYtMJ) | 3:33 |
 | 90 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
-| 91 | [Sometimes I Don't Mind](https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Sometimes I Don't Mind](https://open.spotify.com/album/2BI02YNYTHQci4mZgQdbtT) | 3:05 |
-| 92 | [Yummy](https://open.spotify.com/track/0s0wuCLUg2CQjnqGJ4Y2TX) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/0uSVvWsFvh8wFkC0kVyDdq) | 3:21 |
+| 91 | [Yummy](https://open.spotify.com/track/0s0wuCLUg2CQjnqGJ4Y2TX) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/0uSVvWsFvh8wFkC0kVyDdq) | 3:21 |
+| 92 | [Sometimes I Don't Mind](https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Sometimes I Don't Mind](https://open.spotify.com/album/2BI02YNYTHQci4mZgQdbtT) | 3:05 |
 | 93 | [Can’t Feel My Face](https://open.spotify.com/track/4dZEkHDfbTIOWaO5RP3F8e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 3:21 |
 | 94 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
 | 95 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Treat You Better](https://open.spotify.com/track/5Ve2oJUFYFpqkYiOB9LODB) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/48Dn2TSX2I9sav0syJgsEH) | 3:07 |
 | 100 | [Give Yourself A Try](https://open.spotify.com/track/1P6mrljaCLCUTwSTmyiCmx) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/3AHrrGDl9BTWbaJX69U2Ta) | 3:19 |
 
-Snapshot ID: `MTY0ODYwMTk3NywwMDAwMDAwMGNhZGJiNDdmZjhhYzI4ZjNmYjhlZDY5Njk3NzdlZjk3`
+Snapshot ID: `MTY0ODY4ODMyNCwwMDAwMDAwMDM4MWEzZmFiZTBiOTIwNDk4NWE3ZWU4MTVlZGVmZGY2`

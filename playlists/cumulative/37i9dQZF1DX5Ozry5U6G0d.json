@@ -870,6 +870,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Forget My Love",
+        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Don\u2019t Forget My Love",
+      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
+    },
+    {
+      "album": {
         "name": "Drugs & The Internet",
         "url": "https://open.spotify.com/album/2NqfZPv5XoqdIFjUDKeVKK"
       },
@@ -1043,7 +1065,7 @@
       ],
       "date_added": "2019-09-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/6IE47jpPeatF2Iay7GZtEc"

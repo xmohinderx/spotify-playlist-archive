@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,847 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,994 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 16 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 |
 | 17 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 |
 | 18 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
-| 19 | [Sick of Spiraling](https://open.spotify.com/track/7yyaroygMtptC0P8MLAb2Q) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0JGCh2hiXbz5bbyGhVPx4B) | 4:27 |
-| 20 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 |
-| 21 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
-| 22 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
+| 19 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 |
+| 20 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
+| 21 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
+| 22 | [Sick of Spiraling](https://open.spotify.com/track/7yyaroygMtptC0P8MLAb2Q) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0JGCh2hiXbz5bbyGhVPx4B) | 4:27 |
 | 23 | [Truth Nugget](https://open.spotify.com/track/14V1rI9IuTnYNwMz7VJxOD) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 4:41 |
 | 24 | [damn](https://open.spotify.com/track/7b65panSasCPOujs0KQ9bQ) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [damn](https://open.spotify.com/album/11TthQBZYjLQWEO544pC3y) | 4:21 |
 | 25 | [As Much As I Can](https://open.spotify.com/track/1q6ZIGa9Vg6OV24mazdJ18) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [As Much as I Can](https://open.spotify.com/album/2YV7i7xj1SglQXBuJfeYVJ) | 3:28 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 49 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 50 | [Jump Rope Gazers](https://open.spotify.com/track/2w2WcIt1pfpoDcFLf46lHN) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA) | 5:12 |
 | 51 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
-| 52 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 |
-| 53 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 |
+| 52 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 |
+| 53 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 |
 | 54 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 |
 | 55 | [Shark Smile \- Edit](https://open.spotify.com/track/4rCrSoFxqRFmnHQyFGlkbA) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Shark Smile \(Edit\)](https://open.spotify.com/album/4euM9oiB6RT6lHFOA47ZCA) | 3:14 |
 | 56 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [Questions](https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Questions](https://open.spotify.com/album/4FPVIk2FIX8MfCBZQrfqDi) | 2:53 |
 | 100 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 |
 
-Snapshot ID: `MTY0ODYwMTcyMywwMDAwMDAwMGUwNjE0NWUzYzU2MzMwMmVlNzNkYWFlNmE0MDgzZGNh`
+Snapshot ID: `MTY0ODY4ODA3OCwwMDAwMDAwMDIzM2RmZDQwZmEyZGVkYTJkNDE1YjhiMjczNzBjYWIx`

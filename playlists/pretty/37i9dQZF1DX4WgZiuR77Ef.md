@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,933 likes - 124 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,021 likes - 124 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wicked Karma](https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Terin Ector](https://open.spotify.com/artist/13TSdt0dyhAaIY285GtaSD) | [Wicked Karma](https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX) | 3:53 |
+| 1 | [Wicked Karma](https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Wicked Karma](https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX) | 3:53 |
 | 2 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 |
 | 3 | [Come Back Down](https://open.spotify.com/track/5TiLs9x1VjxxE3rwP3HdL2) | [Talia Keys](https://open.spotify.com/artist/4iHUosZ808WyllYm9bMaqX) | [Come Back Down](https://open.spotify.com/album/3okZtkZ8GIXDc1AfrTnjRY) | 4:12 |
 | 4 | [Got to Get Me a Job](https://open.spotify.com/track/5UYk7jxOtM326xeLj4EQ3Y) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Got to Get Me a Job](https://open.spotify.com/album/2OkojON734ucUnTW8k8Lpv) | 2:50 |

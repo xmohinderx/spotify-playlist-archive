@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,616 likes - 130 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,666 likes - 130 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 26 | [As For Me & My House \- Live](https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [As For Me & My House \(Live\)](https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ) | 5:21 |
 | 27 | [No One Ever Cared for Me Like Jesus](https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:53 |
 | 28 | [There’s Nothing That Our God Can’t Do \- Radio Version](https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [There’s Nothing That Our God Can’t Do \(Radio Version\)](https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt) | 4:13 |
-| 29 | [The God Who Fights for Me](https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights for Me](https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y) | 3:45 |
+| 29 | [Adoration](https://open.spotify.com/track/6gQfufUDm9HDQhxhofqO8Z) | [Life Center Worship](https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr) | [Adoration](https://open.spotify.com/album/1sFP4DJCtsBmBriNTkhwFw) | 5:32 |
 | 30 | [I Belong \- Live](https://open.spotify.com/track/27fs8NYZ76CkPeQWNhBjyn) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [I Belong \(Live\)](https://open.spotify.com/album/0CUUIt88L7BwtMkRG5EDNV) | 7:13 |
-| 31 | [Adoration](https://open.spotify.com/track/6gQfufUDm9HDQhxhofqO8Z) | [Life Center Worship](https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr) | [Adoration](https://open.spotify.com/album/1sFP4DJCtsBmBriNTkhwFw) | 5:32 |
+| 31 | [The God Who Fights for Me](https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights for Me](https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y) | 3:45 |
 | 32 | [Landslide \- Radio Version](https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Landslide](https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B) | 5:41 |
 | 33 | [This Is Our Story](https://open.spotify.com/track/0BPve03Ln80rCunPjTukrZ) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/0llPda4VyHbzZDX0yoCspf) | 5:41 |
 | 34 | [Promises](https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Vol\. 3 Part 1](https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n) | 10:46 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 38 | [We Praise You \- Studio Version](https://open.spotify.com/track/0lDktJqWHM5ecoJgYPRNwd) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Praise You \(Studio Version\)](https://open.spotify.com/album/5ZpfqJMGrfPKZOhoI8AruW) | 3:40 |
 | 39 | [I Speak Jesus](https://open.spotify.com/track/4CR34P33feukzoErl3KXCK) | [Here Be Lions](https://open.spotify.com/artist/4DKidGMzaf7OVw7FKxihqc), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [I Speak Jesus](https://open.spotify.com/album/42533BnNm29YUkyVzcJ9Dg) | 5:19 |
 | 40 | [Holy \(Song Of The Ages\) \- Live](https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Holy \(Song Of The Ages\) \[Live\]](https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB) | 6:21 |
-| 41 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
-| 42 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
+| 41 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 |
+| 42 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
 | 43 | [Real Thing](https://open.spotify.com/track/5tnc2byIAzr9JwoOiIQWo0) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Real Thing](https://open.spotify.com/album/584F5hDrbibgUwJeu29aAk) | 5:08 |
 | 44 | [Through Every Season](https://open.spotify.com/track/3zuYsncHhi4YFxE88yeeDe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Through Every Season](https://open.spotify.com/album/4yOnEBUS4TAPmbSdT3c7ZZ) | 6:06 |
 | 45 | [Goodness Of God](https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon) | [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Goodness of God \- EP](https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n) | 4:18 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 |
 | 130 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
 
-Snapshot ID: `MTY0ODYwMTkwMCwwMDAwMDAwMDE5ZDRmNjZhMGVjNmY4YmY2Yjk0MWQ4OWNkMGQ5NWFi`
+Snapshot ID: `MTY0ODY4ODI0OCwwMDAwMDAwMDQ5YTQ2MGM2ZDA4ZTAxNmRkYzZiOTM4NTE4MWUyNDQ1`

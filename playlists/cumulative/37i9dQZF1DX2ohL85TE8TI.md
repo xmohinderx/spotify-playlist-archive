@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
-> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Twenty\-Five Twenty\-One\(스물 다섯, 스물 하나\)\)
+> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Business Proposal \(사내 맞선\)\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/track/10L1cmcA9Pp3Katey4tA8w) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/album/7fWejPKDbEOkagtYUhvKuZ) | 3:20 | 2021-12-24 |  |
 | [Every moment with you \(Your playlist X Ha Hyunsang\)](https://open.spotify.com/track/0WYxYMT9G6N4YoyTbl9PJm) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Every moment with you \(Your playlist X Ha Hyunsang\)](https://open.spotify.com/album/1uQdd5zSXrty8HsNyxN8Yw) | 4:14 | 2021-12-19 | 2022-03-23 |
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2021-12-19 | 2022-03-04 |
-| [Fall in love](https://open.spotify.com/track/5h6c3ArwadWdEny5yXUPOt) | [Jihan](https://open.spotify.com/artist/7vyCVc2t8NogUrf2a9fLBH), [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Fall in love \(A Business Proposal OST Part.6\)](https://open.spotify.com/album/3JYP9Vln3dCV2vIXcVWKzy) | 3:19 | 2022-03-24 |  |
+| [Fall in love](https://open.spotify.com/track/5h6c3ArwadWdEny5yXUPOt) | [Jihan](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Fall in love \(A Business Proposal OST Part.6\)](https://open.spotify.com/album/3JYP9Vln3dCV2vIXcVWKzy) | 3:19 | 2022-03-24 |  |
 | [Farewell Stopped Time](https://open.spotify.com/track/5tXaqGxunxzRAMSiDF0JJY) | [Yoon Yeo Kyu](https://open.spotify.com/artist/2OV19DWpMxsMV5N2mDWo9p) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0mRY8SeFynVVa2oMV3J5eW) | 4:16 | 2022-02-21 |  |
 | [Finale](https://open.spotify.com/track/0oslYYo3t1iwbnoTJy1mja) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:07 | 2021-12-19 | 2022-03-25 |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-03-03 |  |

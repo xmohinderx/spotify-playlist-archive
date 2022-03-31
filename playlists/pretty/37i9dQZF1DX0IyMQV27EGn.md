@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,624 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,681 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 49 | [Let Me Love You Like A Woman](https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Let Me Love You Like A Woman](https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u) | 3:20 |
 | 50 | [Hands On You](https://open.spotify.com/track/4PVHRRVWJqmEViwuPPWnKq) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Hands On You](https://open.spotify.com/album/3nek6vJwO2ebNHEl74pRnc) | 3:52 |
 | 51 | [Nobody](https://open.spotify.com/track/5PPo3jzi0f3kFrboVgPZJU) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Nobody](https://open.spotify.com/album/5V6hoaFti4gY7EZfb2UBU2) | 4:53 |
-| 52 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 |
-| 53 | [Touched \(Live\)](https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N) | [Earl](https://open.spotify.com/artist/7pwoWOh2sbcmRFkk7QWQsS) | [Live at St\. Margarets Chapel \(Live\)](https://open.spotify.com/album/4iUKF6bSM4dAsGAfPHVQXm) | 3:02 |
+| 52 | [Touched \(Live\)](https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N) | [Earl](https://open.spotify.com/artist/7pwoWOh2sbcmRFkk7QWQsS) | [Live at St\. Margarets Chapel \(Live\)](https://open.spotify.com/album/4iUKF6bSM4dAsGAfPHVQXm) | 3:02 |
+| 53 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 |
 | 54 | [Listen Up](https://open.spotify.com/track/0g4v8zDxXSCwXZvae6dfQg) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Listen Up](https://open.spotify.com/album/1I1Ahe6u0yNUj0OCfgrsGr) | 3:10 |
 | 55 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
 | 56 | [Ghost](https://open.spotify.com/track/1G3hr6HlP3d13477lbWw9Q) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/4uXHoKzORbwkOfDmrM9HVQ) | 4:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
 | 70 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 
-Snapshot ID: `MTY0ODYwMTY2MSwwMDAwMDAwMDQ2NWYwNjUzMmEwN2Q1YjUxOTRiYTdkOGI2OGQzMmJh`
+Snapshot ID: `MTY0ODY4ODAxNSwwMDAwMDAwMGQxNTQxOGJiYjMzYTBhMWNkZjRkZTFlOGMzODliYTU2`

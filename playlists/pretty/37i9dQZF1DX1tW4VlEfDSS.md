@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,765 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,834 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [My House](https://open.spotify.com/track/31D11AnGmhV0QULE10dpG2) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/1nBFpZhVuUmlFGhrx6uNXp) | 2:55 |
 | 60 | [Primavera \- Anna Prior Remix](https://open.spotify.com/track/2TXEnQWG57LZ36ygqBigId) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY), [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Primavera \- Remix Drop I](https://open.spotify.com/album/01wBF4jDnSqAmngbj8Mt3D) | 5:52 |
 
-Snapshot ID: `MTY0ODYwMTcxMCwwMDAwMDAwMGY2YTM1YTBjOTA3YjQ3MmE0MDI1NGJjZGM4OGZhNWVj`
+Snapshot ID: `MTY0ODY4ODA2NCwwMDAwMDAwMGY2YTM1YTBjOTA3YjQ3MmE0MDI1NGJjZGM4OGZhNWVj`

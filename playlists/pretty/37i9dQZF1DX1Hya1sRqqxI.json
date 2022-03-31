@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 99248,
+  "num_followers": 99374,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTY5MSwwMDAwMDAwMDhhOGRmYjQ5MGJhZjM2YjhjMjZmYjgyYWFjZjU4MDNl",
+  "snapshot_id": "MTY0ODY4ODA0NSwwMDAwMDAwMDJmYTQ1YzJjYzY2MWRmMmU4ZjhiYzVkOTNlZjhlNjE4",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "The Best Years of Our Lives (Deluxe Version)",
         "url": "https://open.spotify.com/album/7GSkRCzsWwH8rJhzuswLgf"
       },
@@ -861,22 +877,6 @@
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Signed, Sealed And Delivered",
@@ -893,10 +893,26 @@
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
@@ -904,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+      "duration_ms": 193440,
+      "name": "Does Your Mother Know",
+      "url": "https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6yZv0Nl6BXABbXoPVpfF5y"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Completely Hooked",
         "url": "https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib"
       },
@@ -1019,22 +1051,6 @@
       "duration_ms": 314960,
       "name": "When You're In Love With A Beautiful Woman",
       "url": "https://open.spotify.com/track/4ULv5NMsxr6o7WLVk0fMSp"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Does Your Mother Know",
-      "url": "https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1131,22 +1147,6 @@
       "duration_ms": 187973,
       "name": "I Love The Nightlife (Disco 'Round) - Single Version",
       "url": "https://open.spotify.com/track/1CxvZPtIyPU9CdYMj7vhtI"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6yZv0Nl6BXABbXoPVpfF5y"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Ring Ring (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1pVtxVKXwhU2nsvrTI1WqT"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Ring Ring - English Version",
-      "url": "https://open.spotify.com/track/5fmvZgUFuUq1SnzT3S6y4o"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Ring Ring (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1pVtxVKXwhU2nsvrTI1WqT"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Ring Ring - English Version",
+      "url": "https://open.spotify.com/track/5fmvZgUFuUq1SnzT3S6y4o"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2113,6 +2113,22 @@
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Best Of",
@@ -2143,22 +2159,6 @@
       "duration_ms": 203866,
       "name": "Sing a Song",
       "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2021-09-08 13:31:49",

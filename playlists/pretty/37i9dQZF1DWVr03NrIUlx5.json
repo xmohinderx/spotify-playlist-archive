@@ -1,12 +1,12 @@
 {
   "description": "Big music hits in tiny 8-bit versions.",
-  "num_followers": 63297,
+  "num_followers": 63334,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTUyMSwwMDAwMDAwMDg3NGY4ZmJlYWY3OTY2N2NmYmMwYWRkNDMxODExOTAx",
+  "snapshot_id": "MTY0ODY4Nzg3NywwMDAwMDAwMGY3ZGU2ZmRlOTA0M2MzZTBiYzI5ZmU0ZDY5ODU0YjY3",
   "tracks": [
     {
       "added_at": "2020-06-11 00:15:59",
@@ -91,6 +91,38 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
+        "name": "The 8 Bit Mix Tape",
+        "url": "https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 196274,
+      "name": "Never Gonna Gonna Give You Up (8 Bit Version)",
+      "url": "https://open.spotify.com/track/634txvFC5XHmswsUPctRbg"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
+        "name": "8-Bit Versions of Linkin Park",
+        "url": "https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 162179,
+      "name": "One Step Closer",
+      "url": "https://open.spotify.com/track/5imPtbEYGMDQpccdgpmJYa"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
         "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
         "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
       },
@@ -135,38 +167,6 @@
       "duration_ms": 245769,
       "name": "Happy - 8-bit Hits Remix",
       "url": "https://open.spotify.com/track/7wNEgXptLSqsQFKr3gXoTF"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
-        "name": "8-Bit Versions of Linkin Park",
-        "url": "https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 162179,
-      "name": "One Step Closer",
-      "url": "https://open.spotify.com/track/5imPtbEYGMDQpccdgpmJYa"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
-        "name": "The 8 Bit Mix Tape",
-        "url": "https://open.spotify.com/album/6ocA2f6IzrcMSJuEX6q3Yd"
-      },
-      "artists": [
-        {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
-        }
-      ],
-      "duration_ms": 196274,
-      "name": "Never Gonna Gonna Give You Up (8 Bit Version)",
-      "url": "https://open.spotify.com/track/634txvFC5XHmswsUPctRbg"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "Fancy - 8-bit Hits Remix",
-        "url": "https://open.spotify.com/album/59E3cxFMQVe1uBom6Tktea"
+        "name": "8-Bit Versions of Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3qSsdgZP7HrTFCkYnVVHW1"
       },
       "artists": [
         {
-          "name": "8-bit Hits",
-          "url": "https://open.spotify.com/artist/2CigG9aMOe14zD9mDZrFi7"
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 196749,
-      "name": "Fancy - 8-bit Hits Remix",
-      "url": "https://open.spotify.com/track/0jjwssXi9TJKtAwj18FI76"
+      "duration_ms": 216923,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yN2uHl8g22EYck9LFAAcL"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -283,34 +283,18 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "8-Bit Versions of Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3qSsdgZP7HrTFCkYnVVHW1"
+        "name": "Fancy - 8-bit Hits Remix",
+        "url": "https://open.spotify.com/album/59E3cxFMQVe1uBom6Tktea"
       },
       "artists": [
         {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+          "name": "8-bit Hits",
+          "url": "https://open.spotify.com/artist/2CigG9aMOe14zD9mDZrFi7"
         }
       ],
-      "duration_ms": 216923,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yN2uHl8g22EYck9LFAAcL"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
-        "name": "By Request, Vol. 33",
-        "url": "https://open.spotify.com/album/5P3HMmXgR4idPa2cqL5siH"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
-        }
-      ],
-      "duration_ms": 254193,
-      "name": "Narcos (8-Bit Migos Emulation)",
-      "url": "https://open.spotify.com/track/5t1PEMl9RuVhXClCj8fHDj"
+      "duration_ms": 196749,
+      "name": "Fancy - 8-bit Hits Remix",
+      "url": "https://open.spotify.com/track/0jjwssXi9TJKtAwj18FI76"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -331,18 +315,18 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "8-Bit 80's",
-        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+        "name": "By Request, Vol. 33",
+        "url": "https://open.spotify.com/album/5P3HMmXgR4idPa2cqL5siH"
       },
       "artists": [
         {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/6ziRoyNzAEnEuJrFM9oPFS"
+      "duration_ms": 254193,
+      "name": "Narcos (8-Bit Migos Emulation)",
+      "url": "https://open.spotify.com/track/5t1PEMl9RuVhXClCj8fHDj"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -363,6 +347,22 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
+        "name": "8-Bit 80's",
+        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/6ziRoyNzAEnEuJrFM9oPFS"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
         "name": "8-Bit Versions of Iron Maiden",
         "url": "https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 214736,
       "name": "The Number of the Beast",
       "url": "https://open.spotify.com/track/3G3QnHwq6j2OzIoqxHhK1H"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
-        "name": "7 Rings (8-Bit Version)",
-        "url": "https://open.spotify.com/album/4YhTjy4o5rOTczZixykftv"
-      },
-      "artists": [
-        {
-          "name": "8-bit Flip",
-          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "7 Rings - 8-Bit Version",
-      "url": "https://open.spotify.com/track/4uPLyaHq5ZnLuEVGZcfNKv"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -427,6 +411,22 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
+        "name": "7 Rings (8-Bit Version)",
+        "url": "https://open.spotify.com/album/4YhTjy4o5rOTczZixykftv"
+      },
+      "artists": [
+        {
+          "name": "8-bit Flip",
+          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "7 Rings - 8-Bit Version",
+      "url": "https://open.spotify.com/track/4uPLyaHq5ZnLuEVGZcfNKv"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
         "name": "Let the Chips Fall",
         "url": "https://open.spotify.com/album/3HLbF9cstc1CktwEjzb6at"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
         "name": "Killin' the Game",
         "url": "https://open.spotify.com/album/39j8OiT31YTk8epqyi1xSd"
       },
@@ -487,22 +471,6 @@
       "duration_ms": 208840,
       "name": "Dance Monkey (8 Bit Version)",
       "url": "https://open.spotify.com/track/28V8JJ3CcpjAsyFjETYlUt"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
-        "name": "Thank U, Next (8-Bit Version)",
-        "url": "https://open.spotify.com/album/4OPWsysLLgM9PzNbimNiCG"
-      },
-      "artists": [
-        {
-          "name": "8-bit Flip",
-          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
-        }
-      ],
-      "duration_ms": 215367,
-      "name": "Thank U, Next - 8-Bit Version",
-      "url": "https://open.spotify.com/track/5A51RgrWzK4nehDGEirRgt"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -523,6 +491,22 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
         "name": "8-bit Hits of 2016, Vol. 3",
         "url": "https://open.spotify.com/album/0C7kaNSXIpXCX3SsIBvth9"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "8 Bit Jawns",
-        "url": "https://open.spotify.com/album/2xIqDFz4M21hhDRlTqAef0"
+        "name": "Thank U, Next (8-Bit Version)",
+        "url": "https://open.spotify.com/album/4OPWsysLLgM9PzNbimNiCG"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+          "name": "8-bit Flip",
+          "url": "https://open.spotify.com/artist/31BceWFvPscpDOmFhIPQ2P"
         }
       ],
-      "duration_ms": 225534,
-      "name": "Sandstorm (8 Bit Version)",
-      "url": "https://open.spotify.com/track/77PhhruRvyonqhzwKEYHU8"
+      "duration_ms": 215367,
+      "name": "Thank U, Next - 8-Bit Version",
+      "url": "https://open.spotify.com/track/5A51RgrWzK4nehDGEirRgt"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -571,18 +555,18 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "8-Bit 80's",
-        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+        "name": "8 Bit Jawns",
+        "url": "https://open.spotify.com/album/2xIqDFz4M21hhDRlTqAef0"
       },
       "artists": [
         {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 187360,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/0INBzaze90NC0s1dT2qgTr"
+      "duration_ms": 225534,
+      "name": "Sandstorm (8 Bit Version)",
+      "url": "https://open.spotify.com/track/77PhhruRvyonqhzwKEYHU8"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -599,6 +583,22 @@
       "duration_ms": 241947,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
+        "name": "8-Bit 80's",
+        "url": "https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 187360,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0INBzaze90NC0s1dT2qgTr"
     },
     {
       "added_at": "2020-06-11 00:15:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1ewOFj9jFZNLyl9TmUMz3z"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
         "name": "8 Bit Universe, Vol. 34",
         "url": "https://open.spotify.com/album/2T4vr90C09bH8UZLak7aXj"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1ewOFj9jFZNLyl9TmUMz3z"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
         "name": "8-Bit Versions of Guns N' Roses",
         "url": "https://open.spotify.com/album/58PG2MINfE9JQmgj02xPM3"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2020-06-11 00:15:59",
       "album": {
-        "name": "8-Bit Tribute to Pop Hits, Vol. 1 - Single",
-        "url": "https://open.spotify.com/album/35721ViIGQMJmoq2V35R60"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/4l1XFalWzzlPb4yEJ2m7JJ"
-    },
-    {
-      "added_at": "2020-06-11 00:15:59",
-      "album": {
         "name": "8-Bit Versions of System of a Down",
         "url": "https://open.spotify.com/album/4wAdvMGPoGQ3OzFNzNtMAO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215520,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/34lXY4JJ0uX8H3n3o7CwWA"
+    },
+    {
+      "added_at": "2020-06-11 00:15:59",
+      "album": {
+        "name": "8-Bit Tribute to Pop Hits, Vol. 1 - Single",
+        "url": "https://open.spotify.com/album/35721ViIGQMJmoq2V35R60"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/4l1XFalWzzlPb4yEJ2m7JJ"
     },
     {
       "added_at": "2020-06-11 00:15:59",

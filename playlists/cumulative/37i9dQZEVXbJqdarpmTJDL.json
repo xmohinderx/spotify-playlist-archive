@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 171789,
       "name": "Corleone Benz",
       "url": "https://open.spotify.com/track/1x0sxannIDssVyRh3gAVCs"
@@ -5005,7 +5005,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-31",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -10770,6 +10770,24 @@
     },
     {
       "album": {
+        "name": "Staxti",
+        "url": "https://open.spotify.com/album/61zuHp0O4Yg56XHAzNwp7s"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195843,
+      "name": "Staxti",
+      "url": "https://open.spotify.com/track/4JjDL9sz3rSXw21M6jxpKc"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -11451,6 +11469,24 @@
       "duration_ms": 183952,
       "name": "Ti Perimeneis",
       "url": "https://open.spotify.com/track/5myAiflrkMcI9XyCRHANHE"
+    },
+    {
+      "album": {
+        "name": "Ti Zitas",
+        "url": "https://open.spotify.com/album/1DuLi4qFncYBLF6vbc9ecX"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188348,
+      "name": "Ti Zitas",
+      "url": "https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE"
     },
     {
       "album": {

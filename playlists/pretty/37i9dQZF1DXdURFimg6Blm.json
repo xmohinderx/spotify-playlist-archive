@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 377153,
+  "num_followers": 377226,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMjA3MywwMDAwMDAwMDFlMWU3MmI4MDNiZDc5MjU2ZWFjYTc5MDA0YzVhNDMy",
+  "snapshot_id": "MTY0ODY4ODQxNSwwMDAwMDAwMDBhY2YyNGI2NjhjOGQ1MDZhOTM3MzFmNTlmMGQzODQ1",
   "tracks": [
     {
       "added_at": "2022-03-18 17:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2022-03-18 17:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2022-03-18 17:00:00",
+      "album": {
         "name": "Runaway (with Sigala and JP Cooper)",
         "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
       },
@@ -355,26 +375,6 @@
     {
       "added_at": "2022-03-18 17:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2022-03-18 17:00:00",
-      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2022-03-18 17:00:00",
-      "album": {
-        "name": "Somebody To Use",
-        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 154031,
-      "name": "Somebody To Use",
-      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
     },
     {
       "added_at": "2022-03-18 17:00:00",
@@ -471,6 +455,42 @@
     {
       "added_at": "2022-03-18 17:00:00",
       "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 154031,
+      "name": "Somebody To Use",
+      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "added_at": "2022-03-18 17:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2022-03-18 17:00:00",
+      "album": {
         "name": "Can't Come To The Phone",
         "url": "https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
-    },
-    {
-      "added_at": "2022-03-18 17:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2022-03-18 17:00:00",
@@ -1763,30 +1763,6 @@
     {
       "added_at": "2022-03-18 17:00:00",
       "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
-    },
-    {
-      "added_at": "2022-03-18 17:00:00",
-      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i"
       },
@@ -1839,6 +1815,30 @@
       "duration_ms": 173858,
       "name": "Over You (feat. Lovespeake)",
       "url": "https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE"
+    },
+    {
+      "added_at": "2022-03-18 17:00:00",
+      "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
     },
     {
       "added_at": "2022-03-18 17:00:00",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2022-03-18 17:00:00",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1wMbquo7FsD0fg42XhiOZV"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q2cqCySPgK595wNyN0XEr"
+    },
+    {
+      "added_at": "2022-03-18 17:00:00",
+      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -2715,22 +2731,6 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2022-03-18 17:00:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/1wMbquo7FsD0fg42XhiOZV"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5q2cqCySPgK595wNyN0XEr"
     },
     {
       "added_at": "2022-03-18 17:00:00",

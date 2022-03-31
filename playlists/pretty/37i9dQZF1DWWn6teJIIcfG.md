@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,875 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,120 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto](https://open.spotify.com/track/2K01jEOja47eLwJsh1j3ZK) | [Franz Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [The Scottish Baroque Ensemble](https://open.spotify.com/artist/3SoX23B99MUwEpfYNdLlav), [Leonard Friedman](https://open.spotify.com/artist/5Ev9SoBzNe0BV3R9qgaeoH) | [The Scottish Baroque Ensemble in Concert](https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE) | 1:29 |
 | 60 | [Le Carnaval des Animaux, R.125: 4\. Tortues](https://open.spotify.com/track/5OzKjqcRA9Liij96vHgIyS) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Pascal Rogé](https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs), [Cristina Ortiz](https://open.spotify.com/artist/36BgOKslOMQpqjTGn9wSuY), [London Sinfonietta](https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA), [Charles Dutoit](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) | [Saint\-Saëns: Le Carnaval des Animaux; Phaéton; Danse Macabre etc.](https://open.spotify.com/album/1xYJsTFiSS7DdxSwCM83za) | 2:16 |
 
-Snapshot ID: `MTY0ODYwMTU1MywwMDAwMDAwMDEwMTljNmY4MjQ4M2Y0YWI0NTA5NzI4YTRkNGU1MWMy`
+Snapshot ID: `MTY0ODY4NzkwOSwwMDAwMDAwMDEwMTljNmY4MjQ4M2Y0YWI0NTA5NzI4YTRkNGU1MWMy`

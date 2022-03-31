@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,649 likes - 91 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,684 likes - 91 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 33 | [I Cross the River](https://open.spotify.com/track/1NFbaPu6Ri8mqSeKfiWSs5) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [I Cross the River](https://open.spotify.com/album/0lGggteFImYRkOr9VQG8JT) | 3:32 |
 | 34 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 |
 | 35 | [A Rising Wind \(Instrumental\)](https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Ayres \(Instrumental Version\)](https://open.spotify.com/album/65XygvtsffoLGK7w9PtUQK) | 4:49 |
-| 36 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 |
-| 37 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
-| 38 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 |
+| 36 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
+| 37 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 |
+| 38 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 |
 | 39 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 |
 | 40 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 |
 | 41 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 |
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 75 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 |
 | 76 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 |
 | 77 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 |
-| 78 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 |
-| 79 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
+| 78 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
+| 79 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 |
 | 80 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 |
 | 81 | [Comfort Zone](https://open.spotify.com/track/6UrBPZ1zQTheV7sn9PuZif) | [General Fuzz](https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r) | [Soulful Filling](https://open.spotify.com/album/6NPMX9kAPtqG09mZKQDwU8) | 6:02 |
-| 82 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 |
-| 83 | [It's Called, 'Daisy'](https://open.spotify.com/track/0LXs0oOINrcboPzcn63zIB) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator](https://open.spotify.com/album/5IDR0xoCJuVydMlc1TQEjF) | 1:52 |
+| 82 | [It's Called, 'Daisy'](https://open.spotify.com/track/0LXs0oOINrcboPzcn63zIB) | [Her Name Is Calla](https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy) | [Navigator](https://open.spotify.com/album/5IDR0xoCJuVydMlc1TQEjF) | 1:52 |
+| 83 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 |
 | 84 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
 | 85 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 |
 | 86 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 90 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 |
 | 91 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 |
 
-Snapshot ID: `MTY0ODYwMTc5MSwwMDAwMDAwMDIyOWEzMThmMGM1OGU3MTdhYWJlNTRhMmIzNjkxMTk2`
+Snapshot ID: `MTY0ODY4ODE0MywwMDAwMDAwMDUxZGNlMTFmZDUyNGU0NTI2ZjA5NDU3YzEzOGUzZjc4`

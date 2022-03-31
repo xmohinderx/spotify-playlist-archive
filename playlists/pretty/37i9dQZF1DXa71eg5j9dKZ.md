@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,123 likes - 101 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,224 likes - 101 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

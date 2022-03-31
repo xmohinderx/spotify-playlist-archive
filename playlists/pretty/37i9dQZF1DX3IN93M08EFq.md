@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,814 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,820 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 22 | [Too Bored to Die](https://open.spotify.com/track/5FFeUgNmokNLv9MBkQuF62) | [Bad Cash Quartet](https://open.spotify.com/artist/4C6ou9gRAa06qpt5wOOBfB) | [Outcast](https://open.spotify.com/album/3fLoZosVoHEsZrHyESEAv5) | 3:32 |
 | 23 | [Geraldine](https://open.spotify.com/track/75UqWU4Y0YdCB9MrnKZZnC) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/2MLOTcKvTfrJHhEeRb164i) | 3:45 |
 | 24 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
-| 25 | [Upp på sociala, ner på systemet](https://open.spotify.com/track/6Dg9SZupe5axBKl0FQRgq7) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/7M2s4qU2vsaKETuXyYpT9u) | 3:00 |
-| 26 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
+| 25 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
+| 26 | [Upp på sociala, ner på systemet](https://open.spotify.com/track/6Dg9SZupe5axBKl0FQRgq7) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/7M2s4qU2vsaKETuXyYpT9u) | 3:00 |
 | 27 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 |
 | 28 | [Terribly Dark](https://open.spotify.com/track/5CUWXQ0aRksf6zqpgy7TrV) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [To The Soul](https://open.spotify.com/album/5EMIxmFzKQckoxb3t7zYGH) | 4:27 |
 | 29 | [Tonight I Have To Leave It](https://open.spotify.com/track/4OLlcgkQR9V9Eqk8sUEjtY) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Our Ill Wills](https://open.spotify.com/album/6XkaYefTFwNKCgeAK48l0f) | 3:33 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 31 | [It Pays To Belong](https://open.spotify.com/track/6EFMkLWSnU9x59szIWQdeq) | [The Embassy](https://open.spotify.com/artist/2oyNl6Ds6rY648mcUFhVgT) | [Tacking](https://open.spotify.com/album/1bLkGtCJICnpHuFbhUnoA2) | 3:54 |
 | 32 | [Det snurrar i min skalle](https://open.spotify.com/track/3b7fBk9K03QWUg6F3w1G12) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Det snurrar i min skalle](https://open.spotify.com/album/32ibUTOKkJKjojt6x3cuQr) | 4:14 |
 | 33 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
-| 34 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
-| 35 | [Dancing On My Own](https://open.spotify.com/track/4g6AXLnnxNDp1D7VWRZXRs) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5) | 4:48 |
+| 34 | [Dancing On My Own](https://open.spotify.com/track/4g6AXLnnxNDp1D7VWRZXRs) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5) | 4:48 |
+| 35 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
 | 36 | [Tralala lilla molntuss, kom hit ska du få en puss](https://open.spotify.com/track/1Y5hLt3uWM1jZWE4Rzm90E) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Jag rear ut min själ](https://open.spotify.com/album/4TSjDtkoIAzsVxMowLW85w) | 3:27 |
 | 37 | [They're Bulding Walls Around Us](https://open.spotify.com/track/1x4grz0E1xPaABuYttYnwY) | [Moneybrother](https://open.spotify.com/artist/6O6kWwVAL4xK4G8SBcsNJR) | [To Die Alone](https://open.spotify.com/album/1OmgmU8vv0oTxwBRdGzKIi) | 3:09 |
 | 38 | [Mon Amour \(Alternative Single Mix\)](https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa) | [The Plan](https://open.spotify.com/artist/1xp8n7sGGGHKO6pwxH8RCI) | [The Plan](https://open.spotify.com/album/4KlUqRzW0bNtNlMSgja6Ve) | 3:00 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
 | 45 | [High Drama](https://open.spotify.com/track/1p8FGKTfZMp2aiOBci2JRq) | [Laakso](https://open.spotify.com/artist/4chKPJr2tkdsT0ghHNSUi7) | [My Gods](https://open.spotify.com/album/6gDeHvqMae3KmWyst7LKeF) | 3:11 |
 
-Snapshot ID: `MTY0ODYwMTc1NywwMDAwMDAwMGYzNGQ3MDkyN2FiNTliODA5YWFhNWVmZjRhNzA5YmI0`
+Snapshot ID: `MTY0ODY4ODExMSwwMDAwMDAwMGFhNGFjZjBmNTE2YTc5MGQzYzkwNGM3MmVlNTViNDE2`

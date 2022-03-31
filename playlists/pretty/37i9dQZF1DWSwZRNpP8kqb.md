@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra\. Foto: Flor Paz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,681 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,686 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 42 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 | 43 | [Tres Cerritos](https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy) | [Sara Mamani](https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3) | [Trazos](https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF) | 4:16 |
 | 44 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
-| 45 | [Dos Orillas](https://open.spotify.com/track/3Y6KGtonkRMyUFUMnsOJEs) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Dos Orillas](https://open.spotify.com/album/0sZ3ncuCq1cPki4PutsLAd) | 3:21 |
-| 46 | [Tristeza Litoraleña](https://open.spotify.com/track/43dkp25S0X7YECB74V6LX7) | [María Cuevas](https://open.spotify.com/artist/5s1trlApuOH8ugiUCxWPXX) | [Aguas Nuevas](https://open.spotify.com/album/5ijvaVKCO6Fq6AVkKm65JU) | 3:18 |
+| 45 | [Tristeza Litoraleña](https://open.spotify.com/track/43dkp25S0X7YECB74V6LX7) | [María Cuevas](https://open.spotify.com/artist/5s1trlApuOH8ugiUCxWPXX) | [Aguas Nuevas](https://open.spotify.com/album/5ijvaVKCO6Fq6AVkKm65JU) | 3:18 |
+| 46 | [Dos Orillas](https://open.spotify.com/track/3Y6KGtonkRMyUFUMnsOJEs) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Dos Orillas](https://open.spotify.com/album/0sZ3ncuCq1cPki4PutsLAd) | 3:21 |
 | 47 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 |
 | 48 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
 | 49 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [Pecnectao](https://open.spotify.com/track/6u81JlGPvFBHm3TBClBXps) | [Paula Neder](https://open.spotify.com/artist/2MPDqzRlmcCjqAKMPbU1pb), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [illa](https://open.spotify.com/album/4cfbzZI3A18wvDsQGbKFJR) | 3:27 |
 | 75 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 |
 
-Snapshot ID: `MTY0ODYwMTQzMiwwMDAwMDAwMGE4ZWQ4MGFmNzM0MjA4ZTcwOGM5OTljNTE1M2JlMjkw`
+Snapshot ID: `MTY0ODY4Nzc4OCwwMDAwMDAwMDNiMjU2NGIxMmI2ZDQyZGRjMmUwYjdlYTEzMmU3MmFj`

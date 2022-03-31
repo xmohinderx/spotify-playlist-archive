@@ -1444,6 +1444,28 @@
     },
     {
       "album": {
+        "name": "up at night (feat. justin bieber)",
+        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "up at night (feat. justin bieber)",
+      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
+    },
+    {
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },

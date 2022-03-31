@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 133 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 133 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 17 | [In My Arms](https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:30 |
 | 18 | [These Four Walls](https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:28 |
 | 19 | [If Ya Gettin' Down](https://open.spotify.com/track/6UespeVK9gGMnEyeMktQhU) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:00 |
-| 20 | [Try Hard](https://open.spotify.com/track/6Zh0i2K4q8uubCRvc6lL3s) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/5hVsQ9MdhzoPAxDB8ohTCr) | 3:41 |
-| 21 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
-| 22 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 |
+| 20 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 |
+| 21 | [Try Hard](https://open.spotify.com/track/6Zh0i2K4q8uubCRvc6lL3s) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/5hVsQ9MdhzoPAxDB8ohTCr) | 3:41 |
+| 22 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
 | 23 | [What Took You So Long?](https://open.spotify.com/track/6WJtzSaXumGZ7pIa0z7QIP) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 4:01 |
 | 24 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
 | 25 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 98 | [BPM](https://open.spotify.com/track/3sHPa949wvS2SOVibGndoy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 4:05 |
 | 99 | [Side by Side](https://open.spotify.com/track/44dEFYNfgcTVpc5llmTRav) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:16 |
 | 100 | [Something In The Air](https://open.spotify.com/track/7ayhNtdSjboMp6Dq8vQDL6) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:10 |
-| 101 | [No Big Deal](https://open.spotify.com/track/4vMNMYn2Bz0nqtZxccAORL) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:34 |
-| 102 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
-| 103 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 101 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 102 | [No Big Deal](https://open.spotify.com/track/4vMNMYn2Bz0nqtZxccAORL) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:34 |
+| 103 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
 | 104 | [Sunshine](https://open.spotify.com/track/6yc2egGtCGITiF8eqUessP) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
 | 105 | [Letting Go](https://open.spotify.com/track/62rU5FYM0oerIldOcWE4LG) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Stay The Same](https://open.spotify.com/album/66iXMmVbYEEErG3r4Q2spH) | 4:32 |
 | 106 | [From Now On](https://open.spotify.com/track/7K7GpxGtqKYvywwDirV1iq) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 3:40 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 132 | [If You're Not the One](https://open.spotify.com/track/6Pe6hM9vri1ulCLGfp21xI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/67DkViPYaVxMaisDuLFbyz) | 3:40 |
 | 133 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
 
-Snapshot ID: `Mjc0NzY2NTAsMDAwMDAwMDBmZTNmMjFjOTI0OGUxYmEzMTFhYzM5NzQzYzVjYjI1Nw==`
+Snapshot ID: `Mjc0NzgwOTEsMDAwMDAwMDBjMTIzZjVmNGUwZDNiZWY0ZjZkMWI4ZGM4ZDQzMTc1Nw==`

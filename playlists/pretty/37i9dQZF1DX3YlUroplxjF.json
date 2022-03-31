@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 268953,
+  "num_followers": 269020,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTc2NywwMDAwMDAwMGVhMDE4OTRlMmY1NGI5NDI5ZjRiMzQ1M2U1MzZjZWY2",
+  "snapshot_id": "MTY0ODY4ODEyMCwwMDAwMDAwMGRmN2ZhNTFjMDBmMjA0MTNhYzM4MzkzNzdjZDI4ZTdi",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Instability",
+        "url": "https://open.spotify.com/album/1xvi6oJAxIOg9iaWpnABsg"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 230178,
+      "name": "Instability",
+      "url": "https://open.spotify.com/track/5yRNjZZQvpzQhtexicaZjb"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Reverberating Silence",
         "url": "https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 213144,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Instability",
-        "url": "https://open.spotify.com/album/1xvi6oJAxIOg9iaWpnABsg"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 230178,
-      "name": "Instability",
-      "url": "https://open.spotify.com/track/5yRNjZZQvpzQhtexicaZjb"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Primrose Path",
+        "url": "https://open.spotify.com/album/6HpwFzL9Ogqu9MEgtEZpry"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/7fVjzWzmE7236Fq7wdmKja"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "The Longest Lonesome",
         "url": "https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4"
       },
@@ -691,38 +707,6 @@
       "duration_ms": 201375,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/0491Np0stXpsreInxyT2W8"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Primrose Path",
-        "url": "https://open.spotify.com/album/6HpwFzL9Ogqu9MEgtEZpry"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/7fVjzWzmE7236Fq7wdmKja"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Bronze Serpent",
         "url": "https://open.spotify.com/album/1bkbsHnyrm087rC3ZBHBoC"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "No One's Listening",
-      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Primrose",
         "url": "https://open.spotify.com/album/61fPvSSGO8nnI6tvYTiCnh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 264457,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/4YOmGns9ojNuDVV4RfrY3c"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "No One's Listening",
+      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Ratking",
-        "url": "https://open.spotify.com/album/0VTW6TdKknAXKnph2WjSIR"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Ratking",
-      "url": "https://open.spotify.com/track/2fmcr45jShfpzCJXA3U9x6"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Erase Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05RlXB34BEN64HFnYJWXgX"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 254029,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2nZhWuVO1TtzFmZ6995y0V"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Ratking",
+        "url": "https://open.spotify.com/album/0VTW6TdKknAXKnph2WjSIR"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Ratking",
+      "url": "https://open.spotify.com/track/2fmcr45jShfpzCJXA3U9x6"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/3OIgrIav93q8e6bsSR8NJm"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "I Can Play the Outlaw",
         "url": "https://open.spotify.com/album/51L11m13dJ1V3YnDxixM0u"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 335000,
       "name": "Younger",
       "url": "https://open.spotify.com/track/6NR49l8DcbO30ag0YY9Hk0"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/3OIgrIav93q8e6bsSR8NJm"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/3fFI5D9ExkYFhBEGkLFz0A"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Now and Forever Ft. Trevor Wentworth",
         "url": "https://open.spotify.com/album/4vr9ap1i58PA40b3XOmwkZ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 216411,
       "name": "Antisocialist",
       "url": "https://open.spotify.com/track/2HzoSBdq66iBoJXnnh1Tsq"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/3fFI5D9ExkYFhBEGkLFz0A"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Stars Before The Sun",
+        "url": "https://open.spotify.com/album/2tLcU78vHNEPPuSaiPuWZI"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/4d7dyljzjkPs3tT0xK1KF7"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Crooked Smile",
         "url": "https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Stars Before The Sun",
-        "url": "https://open.spotify.com/album/2tLcU78vHNEPPuSaiPuWZI"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/4d7dyljzjkPs3tT0xK1KF7"
     },
     {
       "added_at": "2022-03-11 00:00:00",

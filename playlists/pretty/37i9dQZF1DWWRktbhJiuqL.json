@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
-  "num_followers": 1463871,
+  "num_followers": 1464093,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwMTU0NCwwMDAwMDAwMGVlMTU3ZDAyNzRmOGU2MDUyNTdkNmYzMTA3YmIwYjA3",
+  "snapshot_id": "MTY0ODY4Nzg5OSwwMDAwMDAwMDJiNWE4NzI3YzMzYzllYWFiYmUxN2JmNDIyYmQxYTRi",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "1984",
         "url": "https://open.spotify.com/album/6x2n6wj3WvkRi8J8gxEcF0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 264333,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/75wP08AtMfGfjk0nPdvVw3"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274133,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Guitar Heaven: The Greatest Guitar Classics Of All Time",
         "url": "https://open.spotify.com/album/2mvUHntZi5syPgO8rrlSdL"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Stay Hungry [Deluxe 25th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/2BNYEcFVte2IUpzuPOTnoS"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "I Wanna Rock (Remastered Album Version)",
+      "url": "https://open.spotify.com/track/7zLC4HAY11GvvKsZHNrkAp"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Stay Hungry [Deluxe 25th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/2BNYEcFVte2IUpzuPOTnoS"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 183373,
-      "name": "I Wanna Rock (Remastered Album Version)",
-      "url": "https://open.spotify.com/track/7zLC4HAY11GvvKsZHNrkAp"
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/4DWzGxXc3shAzDGy2UIaL5"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Get Your Wings",
         "url": "https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 233160,
       "name": "Same Old Song and Dance",
       "url": "https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Down On The Upside",
         "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/4DWzGxXc3shAzDGy2UIaL5"
     },
     {
       "added_at": "2022-03-11 05:00:00",

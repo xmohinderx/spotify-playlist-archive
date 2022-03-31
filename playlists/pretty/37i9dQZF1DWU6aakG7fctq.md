@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Doris Anahí
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,073 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,116 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 15 | [Paranoia Pop](https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv) | 3:52 |
 | 16 | [Porque Existo](https://open.spotify.com/track/2IYYuGhsKNBFiC0cYF01LA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Ciudad De Las Flores](https://open.spotify.com/artist/7qyr14BpISb5V35P2vlsVv) | [Lo Sagrado](https://open.spotify.com/album/2Jp7ChFRLqCuXNx4wT1OnV) | 2:50 |
 | 17 | [Diferente](https://open.spotify.com/track/1vK7Gxe6CjN9Tai74qeoIF) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 2:22 |
-| 18 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
-| 19 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
+| 18 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
+| 19 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 20 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 21 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 |
 | 22 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 30 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
 | 31 | [Obra de Arte](https://open.spotify.com/track/35Bd5CL2ZxmseJleM0mpiu) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5QxvKLDBwSqfaAIazJszfC) | 2:50 |
 | 32 | [LA MOLINA](https://open.spotify.com/track/5KUoS5Kqhnvk39feoFxD3v) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/6DNKhWVJlyGtBMBLLUvs6r) | 2:43 |
-| 33 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
-| 34 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 |
+| 33 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 |
+| 34 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
 | 35 | [Suerte](https://open.spotify.com/track/4oBFRsX8QASmBHVrxYS5OU) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Suerte](https://open.spotify.com/album/22qRsNNXZ7jR79iAefDGcy) | 2:46 |
 | 36 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 |
 | 37 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 52 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM) | 4:09 |
 | 53 | [Paradise](https://open.spotify.com/track/6csiIHo2pYktlmyXZgKJns) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Paradise](https://open.spotify.com/album/2zaWUjh9T05lm2r3gKOqsk) | 3:43 |
 | 54 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 |
-| 55 | [Common Places, Common Faces](https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:51 |
-| 56 | [Polyhymnia](https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Polyhymnia](https://open.spotify.com/album/2ZAaJFzi1XDfESGeFsNvsq) | 3:03 |
-| 57 | [Para Nada](https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla) | [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Para Nada](https://open.spotify.com/album/46qWTQj6l7vkquJKCWS5uS) | 2:26 |
-| 58 | [Moment of Joy](https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:37 |
+| 55 | [Moment of Joy](https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:37 |
+| 56 | [Common Places, Common Faces](https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:51 |
+| 57 | [Polyhymnia](https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Polyhymnia](https://open.spotify.com/album/2ZAaJFzi1XDfESGeFsNvsq) | 3:03 |
+| 58 | [Para Nada](https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla) | [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [Para Nada](https://open.spotify.com/album/46qWTQj6l7vkquJKCWS5uS) | 2:26 |
 | 59 | [Break My Own Rules](https://open.spotify.com/track/1kPAvCpVeVnDqcauWic5oU) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/2iEbsaWRJnVP68iF3ao9RX) | 4:02 |
 | 60 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 61 | [Míranos](https://open.spotify.com/track/2iNDBB85GuREL7p4m1pArU) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Míranos](https://open.spotify.com/album/4jDruC1JOBkdtHarW7fkar) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 |
 | 70 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 
-Snapshot ID: `MTY0ODYwMTQ3MCwwMDAwMDAwMGZhNmIxMGQyMGNhYmQ5Nzg1MmMyMDM3NDA5NTE0YjRl`
+Snapshot ID: `MTY0ODY4NzgyNiwwMDAwMDAwMDJlMzVlMTdmNzk4ZWQyMmFmODg2MjMyMWFmM2Y3ZDRh`
