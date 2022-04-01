@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,238 likes - 250 songs - 20 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,348 likes - 250 songs - 20 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [On the Fly](https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [On the Fly](https://open.spotify.com/album/1YLHsSg3sGQP98rTWIqnT7) | 3:18 |
 | 250 | [Devil Worm](https://open.spotify.com/track/0ZUm2JdVbac1oPGkeAPiVA) | [Ola Kvernberg](https://open.spotify.com/artist/6OaEACxpxzP2sDxX2nTUYJ) | [Devil Worm](https://open.spotify.com/album/3DNqPG427Ud5KwVqmAeW3Q) | 14:10 |
 
-Snapshot ID: `MTY0ODY4NzgwNSwwMDAwMDAwMDEzN2YyZDcyYmVjNTVlODhkY2RmYzZiOWU2MjA3OTFk`
+Snapshot ID: `MTY0ODc3NDY0MCwwMDAwMDAwMDEzN2YyZDcyYmVjNTVlODhkY2RmYzZiOWU2MjA3OTFk`

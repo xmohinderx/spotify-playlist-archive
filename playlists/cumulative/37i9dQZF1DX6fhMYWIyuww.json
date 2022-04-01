@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 196986,
       "name": "Baby I Need Your Lovin'",
       "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 254457,
       "name": "Boys of Autumn",
       "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 220786,
       "name": "Don't Turn Me Away",
       "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 207933,
       "name": "Fins",
       "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 216906,
       "name": "Flowing Rivers",
       "url": "https://open.spotify.com/track/2S3sEFjnj7yGCGOqYjRT6C"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 185533,
       "name": "Honey Don't Leave L.A.",
       "url": "https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA"
@@ -527,6 +527,24 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/6qSJ3fzXH9d3AWfuhbNcf6"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "I'm a Camera",
+      "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
     },
     {
       "album": {
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Dr. Heckle & Mr. Jive",
+        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "Love Is the Answer",
+      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: England Dan & John Ford Coley",
         "url": "https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5"
       },
@@ -667,7 +703,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 281293,
       "name": "Love Is the Answer - Single Version",
       "url": "https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 177933,
       "name": "Me and You and a Dog Named Boo",
       "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
@@ -905,7 +941,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
@@ -1121,7 +1157,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 262733,
       "name": "Somebody's Baby",
       "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 199960,
       "name": "Summer, Highland Falls",
       "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 220853,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ"
@@ -1265,7 +1301,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 347333,
       "name": "The Nightfly",
       "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC"
@@ -1283,7 +1319,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 261200,
       "name": "The Sailor's Song",
       "url": "https://open.spotify.com/track/0N4DPoheO9PBfubvvsckvt"
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 211386,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
@@ -1528,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "Future Street",
+        "url": "https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha"
+      },
+      "artists": [
+        {
+          "name": "Pages",
+          "url": "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "Who's Right, Who's Wrong",
+      "url": "https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l"
+    },
+    {
+      "album": {
         "name": "Year of the Cat",
         "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
       },
@@ -1575,7 +1629,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"

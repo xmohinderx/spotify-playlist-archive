@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: CKay",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Aya Nakamura x Damso",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 207426,
       "name": "Ch\u00e9rie coco (feat. Niska)",
       "url": "https://open.spotify.com/track/4l45NQulgRQRd3g1iFHH5F"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 153720,
       "name": "Fleurs",
       "url": "https://open.spotify.com/track/5MfG4KmZ0Uj4HmjIMNIUTL"
@@ -1548,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Oulala",
+        "url": "https://open.spotify.com/album/30lZsvVyvyWe7FLiFVHEck"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162957,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/1XB2BENsrx2SI9cwMBbDqE"
+    },
+    {
+      "album": {
         "name": "Ozumba Mbadiwe (Remix)",
         "url": "https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF"
       },
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
@@ -1951,10 +1969,32 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 190791,
       "name": "Sungba",
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
+    },
+    {
+      "album": {
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
       "album": {
@@ -2108,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "Tombolo",
+        "url": "https://open.spotify.com/album/4TfQAOD8xdVD7PDPv6UWVt"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Tombolo",
+      "url": "https://open.spotify.com/track/4Fo2WmGzP6g4yYpxO0Bzke"
+    },
+    {
+      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -2167,6 +2225,40 @@
       "duration_ms": 174545,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "album": {
+        "name": "Va bene (feat. Jul & Naza)",
+        "url": "https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k"
+      },
+      "artists": [
+        {
+          "name": "4.4.2",
+          "url": "https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Va bene (feat. Jul & Naza)",
+      "url": "https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3"
     },
     {
       "album": {

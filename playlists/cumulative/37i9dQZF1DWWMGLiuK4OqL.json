@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 186160,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/4yZYolqyUgoGxSCoKZuYjN"
@@ -1138,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
+      },
+      "artists": [
+        {
+          "name": "Changes",
+          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
+        },
+        {
+          "name": "Elin Bemark",
+          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272784,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 239493,
       "name": "Empty Hearts",
       "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
@@ -1497,7 +1519,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
@@ -1881,6 +1903,28 @@
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
+    },
+    {
+      "album": {
+        "name": "It Had To Be You",
+        "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        },
+        {
+          "name": "Colm \u00d3 Riain",
+          "url": "https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158875,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
     },
     {
       "album": {
@@ -3847,6 +3891,40 @@
       "duration_ms": 228133,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe"
+    },
+    {
+      "album": {
+        "name": "Cantare Pieranunzi",
+        "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ranalli",
+          "url": "https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK"
+        },
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "GIACOMO SERINO",
+          "url": "https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3"
+        },
+        {
+          "name": "Cesare Mangiocavallo",
+          "url": "https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b"
+        },
+        {
+          "name": "Giuseppe Romagnoli",
+          "url": "https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251109,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
     },
     {
       "album": {

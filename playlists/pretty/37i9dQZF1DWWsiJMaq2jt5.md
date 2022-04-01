@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Natalia Przybysz
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,802 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,809 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 48 | [Równocześnie](https://open.spotify.com/track/74kVjYYLQrN4hlpKsTiSil) | [Siostry Melosik](https://open.spotify.com/artist/5nMkX6N8SAVvWsPk4AICFH) | [Równocześnie](https://open.spotify.com/album/2PKTQvxvzkHvmSfv6fUcaC) | 3:36 |
 | 49 | [Blue](https://open.spotify.com/track/1RswWwkliOC1mhY6oOMys9) | [Agnieszka Hajduk\-Wiese](https://open.spotify.com/artist/7g7nufHvsNpDFcU3qC3DUI) | [Blue](https://open.spotify.com/album/1RIJDuaQVO8utq1SH9Zyhj) | 2:15 |
 | 50 | [Kocham Cię Kochanie Moje](https://open.spotify.com/track/0tXEfowSqoR52jjmf5g8xa) | [Magda Steczkowska](https://open.spotify.com/artist/1V9DoElDtVIFt3CYyzUwGo) | [Nie Tylko o Miłości](https://open.spotify.com/album/18T7PVcswBBOdCtrWPm0wX) | 4:36 |
-| 51 | [Nie zwalniaj \(randka\) \- Studyjna](https://open.spotify.com/track/5QMu6fxA2ldphxnkNVugc4) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Justyna Kuśmierczyk](https://open.spotify.com/artist/7nEP1XNNGdnC7oo5y8pTTU) | [Nie zwalniaj \(randka\)](https://open.spotify.com/album/0qqArn1TPnhhQqPUVUCGkD) | 3:09 |
+| 51 | [Nie zwalniaj \(randka\)](https://open.spotify.com/track/5QMu6fxA2ldphxnkNVugc4) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Justyna Kuśmierczyk](https://open.spotify.com/artist/7nEP1XNNGdnC7oo5y8pTTU) | [Nie zwalniaj \(randka\)](https://open.spotify.com/album/0qqArn1TPnhhQqPUVUCGkD) | 3:09 |
 | 52 | [Nie Lubię Zmyślać](https://open.spotify.com/track/5N3UG7eyNWYUqCcPNWkfXh) | [Juli Chan](https://open.spotify.com/artist/6jIH7ytOavKICdIcTdVHYa) | [Nie Lubię Zmyślać](https://open.spotify.com/album/2cJm8K6BWEmwzUbWaE535P) | 2:43 |
 | 53 | [Spokój](https://open.spotify.com/track/7tcPYtAWvdDwFBqYrqe6fx) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Spokój](https://open.spotify.com/album/3BfcdvOJXBW3dXADxTfJB5) | 3:40 |
 | 54 | [Oczarowanie](https://open.spotify.com/track/6tr8migtnoUibyAHs6r0tY) | [Olga Bończyk](https://open.spotify.com/artist/5WS3maUUPaPuXJlu467MFO) | [Oczarowanie](https://open.spotify.com/album/42dsxqnw2OEJwRnz3jKaw9) | 3:33 |

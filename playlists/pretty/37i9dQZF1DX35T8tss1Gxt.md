@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Jor'Dan Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,321 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,371 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Rejoice](https://open.spotify.com/track/7FwjUHTuAFPSZCKcAiify8) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Rebekah Young](https://open.spotify.com/artist/2aQ4P1aMRdmmvpVutYPZTu) | [Rejoice](https://open.spotify.com/album/7GHrX5eKy33USZZUplAw91) | 2:56 |
 | 100 | [WAITING](https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [WAITING](https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w) | 2:57 |
 
-Snapshot ID: `MTY0ODY4ODEwMywwMDAwMDAwMGU1MjAxYjFmNWNjMDk2MDAxMzVjYmZmNTYyOTYxYzQ2`
+Snapshot ID: `MTY0ODc3NDk0NiwwMDAwMDAwMGU1MjAxYjFmNWNjMDk2MDAxMzVjYmZmNTYyOTYxYzQ2`

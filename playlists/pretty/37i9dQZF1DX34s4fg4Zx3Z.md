@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Kis; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,983 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,990 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Dance](https://open.spotify.com/track/3xoPEpMfchc40DId2UfeN6) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB), [T\. TOM](https://open.spotify.com/artist/7t4YL06ICHHf7JNUKP4gIn) | [Last Dance](https://open.spotify.com/album/4Sax9Ndnjq8g7FCBw2jkEA) | 2:36 |
-| 2 | [Awful Day](https://open.spotify.com/track/0ibbMM3GdmtESZfGv8vsEV) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Awful Day](https://open.spotify.com/album/7mQQvvwhHQ8SLQVCRKXgTw) | 4:12 |
-| 3 | [fresh in alone](https://open.spotify.com/track/6Mu1HVbH8ezT9A5fMDKOZK) | [Dflow](https://open.spotify.com/artist/6trt1gsugOnfFkjv4zS0J2), [WezDee](https://open.spotify.com/artist/3rACi0LhNV7p05n4JrOhNL) | [fresh in alone](https://open.spotify.com/album/2cg21ZZB9B73u6z7SJa69u) | 2:32 |
-| 4 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [Kis](https://open.spotify.com/artist/1oo6xk0t7VOSZ7PJUW1rBj) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 |
-| 5 | [Hãy Giữ Cho Em](https://open.spotify.com/track/5IHrb6qgKucVHPTNUlHKWh) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Hãy Giữ Cho Em](https://open.spotify.com/album/20gBtB0yD3C26XhjA0agc6) | 4:24 |
+| 1 | [Awful Day](https://open.spotify.com/track/0ibbMM3GdmtESZfGv8vsEV) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Awful Day](https://open.spotify.com/album/7mQQvvwhHQ8SLQVCRKXgTw) | 4:12 |
+| 2 | [fresh in alone](https://open.spotify.com/track/6Mu1HVbH8ezT9A5fMDKOZK) | [Dflow](https://open.spotify.com/artist/6trt1gsugOnfFkjv4zS0J2), [WezDee](https://open.spotify.com/artist/3rACi0LhNV7p05n4JrOhNL) | [fresh in alone](https://open.spotify.com/album/2cg21ZZB9B73u6z7SJa69u) | 2:32 |
+| 3 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [Kis](https://open.spotify.com/artist/1oo6xk0t7VOSZ7PJUW1rBj) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 |
+| 4 | [Hãy Giữ Cho Em](https://open.spotify.com/track/5IHrb6qgKucVHPTNUlHKWh) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Hãy Giữ Cho Em](https://open.spotify.com/album/20gBtB0yD3C26XhjA0agc6) | 4:24 |
+| 5 | [Last Dance](https://open.spotify.com/track/3xoPEpMfchc40DId2UfeN6) | [Zang](https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB), [T\. TOM](https://open.spotify.com/artist/7t4YL06ICHHf7JNUKP4gIn) | [Last Dance](https://open.spotify.com/album/4Sax9Ndnjq8g7FCBw2jkEA) | 2:36 |
 | 6 | [Em Muốn](https://open.spotify.com/track/6679kGAhJ83sFhJArAj9Na) | [chillingo](https://open.spotify.com/artist/23ZFLCv47cdgbFptnYUb0J), [Gavin G](https://open.spotify.com/artist/34DOSaoM6W94zcR27G7YNe), [GoAllDay](https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg) | [Em Muốn](https://open.spotify.com/album/46kEShcbu4qgfYoZ01pvCa) | 2:52 |
 | 7 | [đây là một chiếc buồn...](https://open.spotify.com/track/7GrWiWAx0Wklaixmcic8ln) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [đây là một chiếc buồn...](https://open.spotify.com/album/2YJc2JSAfLgkyjzRsRZrJX) | 3:13 |
 | 8 | [Redamancy \(feat\. Cristian & Bennn\)](https://open.spotify.com/track/1JWjj7TLsA347M9tAA5UuJ) | [Trammeo](https://open.spotify.com/artist/56kl4GFYZtFR4HxPUkXTlV), [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS), [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Redamancy \(feat\. Cristian & Bennn\)](https://open.spotify.com/album/2anRDolKDPHjlTuAVNPkPf) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |
 | 100 | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/track/1KtjlfQVRvkkFYnIaYVi1A) | [TVN Remix](https://open.spotify.com/artist/4BRcB0q6ADNr6V9MYDAY0j) | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/album/2c6ipImxvhL43d13Awlq5U) | 3:13 |
 
-Snapshot ID: `MTY0ODYzMzk5MiwwMDAwMDJjMDAwMDAwMTdmZGEzZTU0Y2UwMDAwMDE3ZmI2MDNmNjdi`
+Snapshot ID: `MTY0ODY5MDMwNSwwMDAwMDJjMTAwMDAwMTdmZGQ5OTk5YjEwMDAwMDE3ZmI2MDNmNjdi`

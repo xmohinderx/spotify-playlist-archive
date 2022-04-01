@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,313 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,627 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 99 | [Qué Buena Peda](https://open.spotify.com/track/1mw25steaTbmnytILDIgav) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Qué Buena Peda](https://open.spotify.com/album/56sWPV5Ec6oTXTtjqiegcq) | 2:48 |
 | 100 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 
-Snapshot ID: `MTY0ODY4ODMyNiwwMDAwMDAwMGEyZDA2ZWFlOGMyNDg4ODFiZWIxMGU4Y2JiNzgyZGFl`
+Snapshot ID: `MTY0ODc3NTE3NywwMDAwMDAwMGEyZDA2ZWFlOGMyNDg4ODFiZWIxMGU4Y2JiNzgyZGFl`

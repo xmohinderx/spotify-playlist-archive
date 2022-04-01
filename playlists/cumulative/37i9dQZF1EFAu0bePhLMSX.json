@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/5el5Z33aPRUEHifWHne9GF"
+    },
+    {
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
       },

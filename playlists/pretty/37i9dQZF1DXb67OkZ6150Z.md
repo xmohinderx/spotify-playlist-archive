@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,444 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,487 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [How Deep Is Your Love](https://open.spotify.com/track/7LIiRxu4Lx4qDgiWbErsF4) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [How Deep Is Your Love](https://open.spotify.com/album/0m8Mgalkad51aPxX2B9Jlo) | 2:05 |
 | 75 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 |
 
-Snapshot ID: `MTY0ODY4ODM1MCwwMDAwMDAwMDkzZWZmZDU1NmIxNjgyNzFhZWRiYzFhZGJkYzAyY2Jh`
+Snapshot ID: `MTY0ODc3NTIwMSwwMDAwMDAwMDkzZWZmZDU1NmIxNjgyNzFhZWRiYzFhZGJkYzAyY2Jh`

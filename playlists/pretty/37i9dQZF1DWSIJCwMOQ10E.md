@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,278 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,283 likes - 96 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

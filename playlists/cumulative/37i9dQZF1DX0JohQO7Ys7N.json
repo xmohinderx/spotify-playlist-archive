@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=aBvt2JiqQzOP95Xq75t6VQ\"> Wendy Kay </a>",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=XE_bO90lSZ2tHlmvUTnTLA\"> Maya Amolo </a>",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -117,6 +117,24 @@
       "duration_ms": 215831,
       "name": "Built for You",
       "url": "https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237391,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
     },
     {
       "album": {
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 234000,
       "name": "Imia Mor",
       "url": "https://open.spotify.com/track/4kjfnAGaYvr2afZxGB2yyE"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 225882,
       "name": "Ndi Waku",
       "url": "https://open.spotify.com/track/0yahZenDbEbbMksbDwdrJt"
@@ -1001,6 +1019,24 @@
       "duration_ms": 232173,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "album": {
+        "name": "sorry it didn't work out",
+        "url": "https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "sorry it didn't work out",
+      "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > all eyes are on you as you walk into the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,505 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 11 | [6.6 Gigue](https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Reinoud Ford](https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO), [Tim Lowe](https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB), [Ben Chappell](https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F), [Katherine Jenkinson](https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6) | [Bach: The Cello Suites \- Recomposed by Peter Gregson](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ) | 2:48 |
 | 12 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 |
 | 13 | [drivers license \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [drivers license \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF) | 4:02 |
-| 14 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomas Peire\-Serrate](https://open.spotify.com/artist/46xdbwAVhQMAkPf18qcxlc) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
+| 14 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 15 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 |
 | 16 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
 | 17 | [A Hidden Life](https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:50 |

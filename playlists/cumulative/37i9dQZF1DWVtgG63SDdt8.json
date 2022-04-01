@@ -3684,6 +3684,24 @@
     },
     {
       "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/3SGzOQoNKiOFIhuQ1MivTu"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329335,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/2YKi3Cz6se7bzvNd9WU5S6"
+    },
+    {
+      "album": {
         "name": "Never seen",
         "url": "https://open.spotify.com/album/1if3goOY5r5GI6qSRoi8ic"
       },

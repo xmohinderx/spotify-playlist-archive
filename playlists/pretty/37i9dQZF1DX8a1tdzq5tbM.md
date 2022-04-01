@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,490 likes - 120 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,918 likes - 120 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Forever Today](https://open.spotify.com/track/2QGEeY7qFUPMapnkRg4ssa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 11:59 |
 | 120 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
 
-Snapshot ID: `MTY0ODY4ODI3NCwwMDAwMDAwMGNmMGY0ZjE2NmU5MTAyMWFjNGZlYzZhYmQ2MDk2YTkx`
+Snapshot ID: `MTY0ODc3NTEyMywwMDAwMDAwMGNmMGY0ZjE2NmU5MTAyMWFjNGZlYzZhYmQ2MDk2YTkx`

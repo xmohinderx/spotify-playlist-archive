@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,855 likes - 61 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,811 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 60 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 61 | [Kick It \(feat\. Jace\)](https://open.spotify.com/track/6wNTA8EAPfrZ4CdS0rKjL9) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Jace](https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE) | [Kick It \(feat\. Jace\)](https://open.spotify.com/album/4DvaQbzeckQZoDoyISnSlP) | 2:39 |
 
-Snapshot ID: `MTY0Nzk1OTY4NywwMDAwMDA1ZjAwMDAwMTdmYjIwZDNmZjUwMDAwMDE3Yjg4MGY3MmI3`
+Snapshot ID: `MTY0ODc1OTQxOCwwMDAwMDA2NDAwMDAwMTdmZTFiODJkYjAwMDAwMDE3Yjg4MGY3MmI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Soul & classic rock for the blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,659 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,680 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,251 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,519 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 74 | [Coloring](https://open.spotify.com/track/2FFYeeIB7Vxj5qL8xr7Kd6) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Coloring](https://open.spotify.com/album/0hy2FQyGcmZ9dUMWQZg3gi) | 3:39 |
 | 75 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 |
 
-Snapshot ID: `MTY0ODY4ODEwNiwwMDAwMDAwMGI0NDdkNThkYzVlOTM0ZWJjMzdjNDA4ZTZjNzJjNzM1`
+Snapshot ID: `MTY0ODc3NDk0OSwwMDAwMDAwMGI0NDdkNThkYzVlOTM0ZWJjMzdjNDA4ZTZjNzJjNzM1`

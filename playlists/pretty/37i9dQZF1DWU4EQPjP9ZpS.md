@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > Ride the vaporwave and lose your soul in the <br/>  a e s t h e t i c .
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,365 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,682 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Ebisu Nights](https://open.spotify.com/track/0pHxOZom1dRjDp9M3ujDC6) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Roses](https://open.spotify.com/album/0Ciyeva8r9oEx7Djq3kx73) | 3:12 |
 | 100 | [The Good Times of 1998](https://open.spotify.com/track/0srIHPpBTDG3vcdc0Wdt7q) | [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [S c r e e n s a v e r](https://open.spotify.com/album/5Y2pNAmc2kfOkaafHVrDYI) | 2:30 |
 
-Snapshot ID: `MTY0ODY4NzgyNSwwMDAwMDAwMDE2YjIyMzMzNmI4NTQ3YmMwNmIwN2ZlZjQyMzdmNjA3`
+Snapshot ID: `MTY0ODc3NDY2MCwwMDAwMDAwMDE2YjIyMzMzNmI4NTQ3YmMwNmIwN2ZlZjQyMzdmNjA3`

@@ -4406,6 +4406,24 @@
     },
     {
       "album": {
+        "name": "No Ouvidinho",
+        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "No Ouvidinho",
+      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
+    },
+    {
+      "album": {
         "name": "Nota de Rep\u00fadio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
       },
@@ -4581,7 +4599,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 169586,
       "name": "N\u00e3o Sei o Que L\u00e1",
       "url": "https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY"
@@ -5899,10 +5917,40 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
+    },
+    {
+      "album": {
+        "name": "sentaDONA (Remix) s2",
+        "url": "https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125245,
+      "name": "sentaDONA (Remix) s2",
+      "url": "https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR"
     },
     {
       "album": {

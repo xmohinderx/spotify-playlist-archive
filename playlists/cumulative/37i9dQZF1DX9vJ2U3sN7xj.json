@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Party Mode: ON!\nCover: Goyo",
+  "description": "Party Mode: ON!\nCover: Daddy Yankee",
   "name": "Fiesta",
   "published_playlist_ids": [
     "4BeKLwGBQeQiMkVsNWLStS"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Favorito",
       "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
@@ -2157,7 +2157,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
@@ -2183,7 +2183,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -2813,7 +2813,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 151026,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 251807,
       "name": "Philliecito",
       "url": "https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5"
@@ -3031,7 +3031,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
@@ -3229,7 +3229,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -3341,6 +3341,24 @@
       "duration_ms": 150720,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
     },
     {
       "album": {
@@ -3543,7 +3561,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
@@ -3793,7 +3811,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
@@ -3815,7 +3833,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
@@ -4029,6 +4047,28 @@
       "duration_ms": 173627,
       "name": "X",
       "url": "https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "album": {

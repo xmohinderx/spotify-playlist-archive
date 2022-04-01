@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Max Richter
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,863 likes - 88 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,998 likes - 88 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 4 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
 | 5 | [The Rite of Spring, K015 \(Revised 1947\), Part 1: Adoration of the Earth\. Introduction](https://open.spotify.com/track/5E3LbW6G6mWQFPPIokMwC1) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Stravinsky Ballets](https://open.spotify.com/album/1kojG90LaD1b3mnbziR37S) | 3:24 |
 | 6 | [Satie: 6 Gnossiennes: No\. 1, Lent](https://open.spotify.com/track/3nRI0y8qHCaS8Vn8wshbKG) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Evening Piano \- Satie: Gnossienne No\. 1](https://open.spotify.com/album/6Chpy30qHn9fkEMrJZpeoX) | 3:16 |
-| 7 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomas Peire\-Serrate](https://open.spotify.com/artist/46xdbwAVhQMAkPf18qcxlc) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
+| 7 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 8 | [Vocalise](https://open.spotify.com/track/4AlPCdvUfsfEWJcunqVux3) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Niu Niu](https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi) | [Vocalise](https://open.spotify.com/album/33rrSJmzYX12y4M11IvOhT) | 3:48 |
 | 9 | [Symphony No\. 5 in E\-Flat Major, Op\. 82: II\. Andante mosso, quasi allegretto](https://open.spotify.com/track/6i68fgprWXJFpsM0yv5Q49) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Oslo Philharmonic Orchestra](https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Sibelius](https://open.spotify.com/album/7uGbWBY2KSfC4t5Ek6yfXP) | 9:42 |
 | 10 | [Nocturne 18](https://open.spotify.com/track/6iSiwNybcTlErbGCWfrvjL) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Nocturne 18](https://open.spotify.com/album/5qTey8V6qTK7DplSK9LtTX) | 4:05 |

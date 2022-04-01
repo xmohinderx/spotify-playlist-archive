@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,812 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,957 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

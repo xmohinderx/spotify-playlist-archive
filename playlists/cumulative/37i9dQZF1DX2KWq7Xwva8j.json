@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Walls",
+  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Cano",
   "name": "Radar Espa\u00f1a",
   "published_playlist_ids": [
     "0uaQZzCtnp7y3M4o0OYD28"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 182857,
       "name": "Bali",
       "url": "https://open.spotify.com/track/5AhfgQqtXnSQhtYAQ9SLDl"
@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp"
+    },
+    {
+      "album": {
         "name": "Ciencia Ficci\u00f3n",
         "url": "https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 196199,
       "name": "Ciencia Ficci\u00f3n",
       "url": "https://open.spotify.com/track/3In29m8LwiMqdbjtOcsmt8"
@@ -424,6 +442,28 @@
     },
     {
       "album": {
+        "name": "Dunas",
+        "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108250,
+      "name": "Dunas",
+      "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
+    },
+    {
+      "album": {
         "name": "En Dos",
         "url": "https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2"
       },
@@ -595,6 +635,32 @@
       "duration_ms": 148363,
       "name": "Hurac\u00e1n 2.0",
       "url": "https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5"
+    },
+    {
+      "album": {
+        "name": "Lombard\u00eda 22",
+        "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179984,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
     },
     {
       "album": {
@@ -910,6 +976,24 @@
     },
     {
       "album": {
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+      },
+      "artists": [
+        {
+          "name": "Mafalda",
+          "url": "https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "album": {
         "name": "me pide arder",
         "url": "https://open.spotify.com/album/59hmNLcpIFBXEq9fArKAJW"
       },
@@ -925,6 +1009,24 @@
       "duration_ms": 202000,
       "name": "me pide arder",
       "url": "https://open.spotify.com/track/5fC0z5cbGnSy1YYOvrwX4q"
+    },
+    {
+      "album": {
+        "name": "Mi Manera de Vivir",
+        "url": "https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134954,
+      "name": "Mi Manera de Vivir",
+      "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
     },
     {
       "album": {
@@ -993,7 +1095,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 122402,
       "name": "Nana",
       "url": "https://open.spotify.com/track/7JxuBqdhe3YgPb0tD7YriS"
@@ -1040,6 +1142,28 @@
     },
     {
       "album": {
+        "name": "No Llores (feat. Alice Wonder)",
+        "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218119,
+      "name": "No Llores (feat. Alice Wonder)",
+      "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
+    },
+    {
+      "album": {
         "name": "Noche polar",
         "url": "https://open.spotify.com/album/2AYtEgiEF4ZUyFlqDZfkoL"
       },
@@ -1051,10 +1175,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 198013,
       "name": "Noche polar",
       "url": "https://open.spotify.com/track/4cXeNKP5jqKXuVyhdDAN6n"
+    },
+    {
+      "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
     },
     {
       "album": {
@@ -1091,7 +1233,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 158621,
       "name": "Olv\u00eddate",
       "url": "https://open.spotify.com/track/60Xq104dahklh2LSciVGEs"
@@ -1206,6 +1348,28 @@
     },
     {
       "album": {
+        "name": "Por Encima Del Dinero",
+        "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Por Encima Del Dinero",
+      "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
+    },
+    {
+      "album": {
         "name": "preso",
         "url": "https://open.spotify.com/album/1SOgm84pUSGHrHHA6yWVcP"
       },
@@ -1297,7 +1461,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 200347,
       "name": "Salao",
       "url": "https://open.spotify.com/track/5wuBfsWYTT6N8r4hZxahzk"
@@ -1370,6 +1534,32 @@
     },
     {
       "album": {
+        "name": "Si Quieren Frontear",
+        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200337,
+      "name": "Si Quieren Frontear",
+      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+    },
+    {
+      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
       },
@@ -1381,7 +1571,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 167044,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
@@ -1471,7 +1661,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 180133,
       "name": "Starsky & Hutch",
       "url": "https://open.spotify.com/track/531HWzHDU2HRRmYuS0Mnvw"
@@ -1493,7 +1683,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 158083,
       "name": "Tan vac\u00edo (feat. Hens)",
       "url": "https://open.spotify.com/track/7l61FJ2XoYVzJ7ybmwJ0fg"
@@ -1641,10 +1831,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 196000,
       "name": "Universitaria",
       "url": "https://open.spotify.com/track/13goZ7smSa0LkMnNaxKiVF"
+    },
+    {
+      "album": {
+        "name": "a partes",
+        "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
+      },
+      "artists": [
+        {
+          "name": "Miren",
+          "url": "https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100744,
+      "name": "uno x ciento",
+      "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
     },
     {
       "album": {

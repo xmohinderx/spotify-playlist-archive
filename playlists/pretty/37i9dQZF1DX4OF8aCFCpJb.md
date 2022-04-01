@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,235 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,250 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Saker som jag sett](https://open.spotify.com/track/5ZTJj1tjcmpm2tyvQtxC3J) | [Ken Ring](https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX), [Rawa](https://open.spotify.com/artist/2lrlMfvXH9633xjkkR2DhK), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Saker som jag sett](https://open.spotify.com/album/6xTvZgEj6jSQiJsaHeJS6r) | 3:21 |
 | 50 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 
-Snapshot ID: `MTY0ODY4ODEzOSwwMDAwMDAwMDM5NjU0YjdjZjRkNzM1MWI3NTY3YjI2ODgzZDhkZGJi`
+Snapshot ID: `MTY0ODc3NDk4MywwMDAwMDAwMDM5NjU0YjdjZjRkNzM1MWI3NTY3YjI2ODgzZDhkZGJi`

@@ -2,14 +2,14 @@
 
 ### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
-> The best French indie tracks right now\. Cover: Ehla
+> The best French indie tracks right now\. Cover: Izïa
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 |  |
 | [Arrivera](https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Arrivera](https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku) | 3:03 | 2022-01-20 | 2022-01-28 |
 | [Avec toi](https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Avec toi](https://open.spotify.com/album/3prGiOjw38nyiOKV12uO4N) | 3:43 | 2021-12-16 | 2022-01-28 |
-| [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 |  |
+| [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 | 2022-04-01 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 |  |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [By the Beach](https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [By the Beach](https://open.spotify.com/album/7DchkXMv3PHncobatgHBzX) | 2:43 | 2021-12-16 | 2022-01-28 |
@@ -80,6 +80,7 @@
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Shining Light](https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr) | 3:37 | 2021-12-16 |  |
+| [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-03-31 |  |
 | [Space Trip](https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt) | [Abel Chéret](https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL) | [Space Trip](https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU) | 3:36 | 2021-12-16 |  |
 | [Sun](https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Sun](https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr) | 3:16 | 2022-02-17 |  |
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |

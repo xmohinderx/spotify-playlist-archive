@@ -1,12 +1,12 @@
 {
   "description": "Your go to Christian playlist for every day listening . ",
-  "num_followers": 12788,
+  "num_followers": 12791,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzA5Nyw4NTkxOTBhODMzZDEwMmM3MGMwN2MyMTFmYWE2NzFhODczNTM1MWRl",
+  "snapshot_id": "MzA5OCwyYmJiZTc5MjIwNTJkNmI0YmRiMDFmNGI4Njg1MjE1ZjU2ZTFmNDdl",
   "tracks": [
     {
       "added_at": "2022-03-30 15:22:13",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-02-17 19:22:29",
       "album": {
+        "name": "Let The Light In",
+        "url": "https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL"
+      },
+      "artists": [
+        {
+          "name": "Joshua Micah",
+          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
+        },
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Let The Light In",
+      "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
+    },
+    {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
         "name": "Sunday Sermons",
         "url": "https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 283964,
       "name": "Honey In The Rock - Live",
       "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
-    },
-    {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
-        "name": "Let The Light In",
-        "url": "https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL"
-      },
-      "artists": [
-        {
-          "name": "Joshua Micah",
-          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
-        },
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Let The Light In",
-      "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
     },
     {
       "added_at": "2022-02-17 19:22:29",

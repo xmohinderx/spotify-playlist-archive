@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,307 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,543 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
 | 100 | [Keep 'Em on They Toes](https://open.spotify.com/track/3Fi4FVtrEUzivnQdogAskP) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/3xwGU8mft75hEEOKYOMfAM) | 2:43 |
 
-Snapshot ID: `MTY0ODY4Nzc5NSwwMDAwMDAwMDhkYWJlN2NiOTA1NjdkZGEzMzkyOTI1NWI5M2ZhNTJh`
+Snapshot ID: `MTY0ODc3NDYyOSwwMDAwMDAwMDhkYWJlN2NiOTA1NjdkZGEzMzkyOTI1NWI5M2ZhNTJh`

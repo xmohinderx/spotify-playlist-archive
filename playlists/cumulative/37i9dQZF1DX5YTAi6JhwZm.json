@@ -998,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/12OrCaKyaaigMeFxCsHqxV"
+    },
+    {
+      "album": {
         "name": "Libra",
         "url": "https://open.spotify.com/album/3VgtU5g2pFEDNEaRbdYQrB"
       },

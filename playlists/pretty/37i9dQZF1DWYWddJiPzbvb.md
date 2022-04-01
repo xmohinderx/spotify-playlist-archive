@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 
 > Chilled songs that you are familiar with \- no surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,749 likes - 200 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,471 likes - 200 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 | 199 | [Faded](https://open.spotify.com/track/1brwdYwjltrJo7WHpIvbYt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Faded](https://open.spotify.com/album/4pvMZr2Kfe1typbTqMHa8z) | 3:32 |
 | 200 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/09ts3GnICqYEU5PkQCpJK3) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/album/7Hau1KXnaqrXt4JMx6DS4Y) | 4:38 |
 
-Snapshot ID: `MTY0ODY4Nzk2MywwMDAwMDAwMDViNzNmOTMxZmRlOWE4YTBmZDIyMjZkZWJjZGMwM2Y5`
+Snapshot ID: `MTY0ODc3NDc5NywwMDAwMDAwMDViNzNmOTMxZmRlOWE4YTBmZDIyMjZkZWJjZGMwM2Y5`

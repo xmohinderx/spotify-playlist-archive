@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > In loving memory of Meat Loaf, king of rock power ballads\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,018 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,209 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 100 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
 
-Snapshot ID: `MTY0ODY4ODI1NywwMDAwMDAwMGJhZmFjZjc4ZDU0NjUxZThiNDIxYmNlNjJlZmZjMjkx`
+Snapshot ID: `MTY0ODc3NTEwNCwwMDAwMDAwMGJhZmFjZjc4ZDU0NjUxZThiNDIxYmNlNjJlZmZjMjkx`

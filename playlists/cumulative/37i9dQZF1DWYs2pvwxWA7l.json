@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 137368,
       "name": "Aibu",
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 219813,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 159272,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/7cwCQuoy7273J4XUr05OCR"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 120000,
       "name": "Celowi",
       "url": "https://open.spotify.com/track/1hgH1t6ReIrorRFrD7eJ8P"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 188823,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Commander",
       "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129544,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
+    },
+    {
+      "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 179240,
       "name": "D O D O",
       "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 157648,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 151764,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 172427,
       "name": "I Deny",
       "url": "https://open.spotify.com/track/5LzZyYLDCTcGKtoKpcKoXk"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "IDG",
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 167499,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
@@ -1358,6 +1376,28 @@
     },
     {
       "album": {
+        "name": "Love is Not Enough",
+        "url": "https://open.spotify.com/album/3LDOSp8pfaY6IdKBVJKEs5"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "Next To You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/2Yf6VGTvUNVKQcECiBwzrC"
+    },
+    {
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -1387,7 +1427,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
@@ -1525,7 +1565,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 212636,
       "name": "Ozumba Mbadiwe",
       "url": "https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W"
@@ -1573,7 +1613,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
@@ -1661,7 +1701,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 223030,
       "name": "PRESS",
       "url": "https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm"
@@ -1723,7 +1763,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -1803,7 +1843,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "SABABISHA",
       "url": "https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ"
@@ -1923,7 +1963,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
@@ -2093,7 +2133,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 273600,
       "name": "Summer YoMuthi",
       "url": "https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp"
@@ -2187,10 +2227,32 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 205191,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/539PRaW5N5GFhv7YnFAMHl"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179411,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL"
     },
     {
       "album": {

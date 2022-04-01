@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,228 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,502 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Children of the Grave](https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2009 Remastered Version\)](https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5) | 5:14 |
 | 75 | [The Man](https://open.spotify.com/track/2hpNPPYMIJ732VtiNrcivx) | [Small Town Titans](https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on) | [The Man](https://open.spotify.com/album/5mXXrL1rozwbCX8WGlbXip) | 4:00 |
 
-Snapshot ID: `MTY0ODY4ODQwOCwwMDAwMDAwMDgzOGFhMGQzYTk4ZThkZjY5ODFmZjM3YTZhNGZiZWMz`
+Snapshot ID: `MTY0ODc3NTI1OSwwMDAwMDAwMDgzOGFhMGQzYTk4ZThkZjY5ODFmZjM3YTZhNGZiZWMz`

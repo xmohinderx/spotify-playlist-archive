@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,873 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,943 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Upper Room \- Studio](https://open.spotify.com/track/4J5pMx9fqgykqpOaLrweoO) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Awake](https://open.spotify.com/album/3n4DOUwVf6CSlW8zbjPGdW) | 4:00 |
 | 100 | [You and You Alone](https://open.spotify.com/track/3tLcZK0pGyOEKMsDBV8wgb) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Cody Lee](https://open.spotify.com/artist/3NS111TVIvnIdDFbzoa94b) | [You and You Alone](https://open.spotify.com/album/6075aT6dLdld7uG2ia8xGx) | 9:59 |
 
-Snapshot ID: `MTY0ODY4ODE5MywwMDAwMDAwMDdmNjI4NGU0NDlkOGI5YjEyMmIzMzdiODEyMWMxYmJm`
+Snapshot ID: `MTY0ODc3NTAzNywwMDAwMDAwMDdmNjI4NGU0NDlkOGI5YjEyMmIzMzdiODEyMWMxYmJm`

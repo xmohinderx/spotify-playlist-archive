@@ -21540,6 +21540,24 @@
     },
     {
       "album": {
+        "name": "ROSE STREET",
+        "url": "https://open.spotify.com/album/7CndERmuISXqBYNk7poimm"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153687,
+      "name": "ROSE STREET",
+      "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },

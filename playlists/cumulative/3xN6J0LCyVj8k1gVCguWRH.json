@@ -23690,6 +23690,24 @@
     },
     {
       "album": {
+        "name": "wanna do",
+        "url": "https://open.spotify.com/album/6nNUzznrlzPLnxovlqbCLJ"
+      },
+      "artists": [
+        {
+          "name": "Zimri",
+          "url": "https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "wanna do",
+      "url": "https://open.spotify.com/track/4Nxtdw9HdK5lRbTVnqMg3c"
+    },
+    {
+      "album": {
         "name": "Wanna See You",
         "url": "https://open.spotify.com/album/1F4lamEKvDWe198drDhgaw"
       },

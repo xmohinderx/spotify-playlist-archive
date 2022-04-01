@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064 likes - 106 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 106 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,10 +109,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 99 | [Sentimental](https://open.spotify.com/track/0kcXLQMWQoEP15U58AM0O5) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Sentimental](https://open.spotify.com/album/3sBSLkTmKNxwCmSnycKqKE) | 3:50 |
 | 100 | [Headlights](https://open.spotify.com/track/03RiXjAkoaqNHi5Vknk9aE) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Bangers & Ballads](https://open.spotify.com/album/6CjL7n64C2bnhjPIN9fvgw) | 3:27 |
 | 101 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
-| 102 | [別廢話](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 |
-| 103 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
+| 102 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
+| 103 | [別廢話](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 |
 | 104 | [In Case I Fall Asleep](https://open.spotify.com/track/3NXhat0yvFpxhXabF38i8o) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:23 |
 | 105 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 106 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc0NzgwOTAsMDAwMDAwMDBhNzZlZTRkMTI4N2Y5ZmZkM2NjZDIyNjEwYzU0ZTc0YQ==`
+Snapshot ID: `Mjc0Nzk1MzAsMDAwMDAwMDBlZTMzYTcyY2UyMTE4YWQ3ZTYyMTRkNjU3MWNhOWNkNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,516 likes - 60 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,777 likes - 60 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Niv](https://open.spotify.com/track/1DZ5alireHmDdsOYnwgrlG) | [Geju](https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e) | [Niv \(Remixes\)](https://open.spotify.com/album/13bjyZWKWbYKFz00AYQZno) | 6:48 |
 | 60 | [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 |
 
-Snapshot ID: `MTY0ODY4ODA5NSwwMDAwMDAwMDFmM2Q0NDM4ODNiNjI3NjM4YTE4ZTAxZjFlZWJkY2M2`
+Snapshot ID: `MTY0ODc3NDkzOCwwMDAwMDAwMDFmM2Q0NDM4ODNiNjI3NjM4YTE4ZTAxZjFlZWJkY2M2`

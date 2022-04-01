@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: brb. (Singapore)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: CHANKA (Hong Kong)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "final_sketch_001.mp3",
+        "url": "https://open.spotify.com/album/171MAtr60Xtt68ye9LyzAD"
+      },
+      "artists": [
+        {
+          "name": "daynim",
+          "url": "https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/1f15d63XOFV97kLcPJsW5P"
+    },
+    {
+      "album": {
         "name": "Behind Your Dream",
         "url": "https://open.spotify.com/album/0WMN5tB3fb7c5BcXvdNOTz"
       },
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 222857,
       "name": "BOYFRIEND - Chinese ver.",
       "url": "https://open.spotify.com/track/2e5wdfOVbFMtMiFg7n2mkQ"
@@ -334,6 +352,24 @@
     },
     {
       "album": {
+        "name": "CHERRY SHINE",
+        "url": "https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8"
+      },
+      "artists": [
+        {
+          "name": "HOA",
+          "url": "https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "CHERRY SHINE",
+      "url": "https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb"
       },
@@ -345,7 +381,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 158408,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB"
@@ -600,6 +636,28 @@
     },
     {
       "album": {
+        "name": "How",
+        "url": "https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4"
+      },
+      "artists": [
+        {
+          "name": "Wooly and the Uke",
+          "url": "https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158096,
+      "name": "How",
+      "url": "https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi"
+    },
+    {
+      "album": {
         "name": "Hum Kahan",
         "url": "https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV"
       },
@@ -636,6 +694,24 @@
     },
     {
       "album": {
+        "name": "I Wrote Because",
+        "url": "https://open.spotify.com/album/5e7NuCqHCuhOUJkB8PBGR4"
+      },
+      "artists": [
+        {
+          "name": "safiradinda",
+          "url": "https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190904,
+      "name": "I Wrote Because",
+      "url": "https://open.spotify.com/track/6eepK5FHCdhg8IamM3Ly2q"
+    },
+    {
+      "album": {
         "name": "Je Suis La Pomme Rouge",
         "url": "https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv"
       },
@@ -651,6 +727,24 @@
       "duration_ms": 270265,
       "name": "Je Suis La Pomme Rouge",
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
+    },
+    {
+      "album": {
+        "name": "Just A Word",
+        "url": "https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Just A Word",
+      "url": "https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u"
     },
     {
       "album": {
@@ -723,7 +817,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 160551,
       "name": "Lose Face",
       "url": "https://open.spotify.com/track/6mcgOEAqofUSR52I6dgeVs"
@@ -741,7 +835,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
@@ -795,7 +889,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 202000,
       "name": "Making Me Sick!",
       "url": "https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE"
@@ -813,7 +907,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 297217,
       "name": "Misteri",
       "url": "https://open.spotify.com/track/4PClCnwEKx130WNvnciXIp"
@@ -835,6 +929,46 @@
       "duration_ms": 210947,
       "name": "Moon Rabbit",
       "url": "https://open.spotify.com/track/07qfTt65zfK4rQ7WHeiEOm"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        },
+        {
+          "name": "YooJeong",
+          "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "Moonlight (Feat. YooJeong)",
+      "url": "https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6"
+    },
+    {
+      "album": {
+        "name": "M\u1ea5y Khi",
+        "url": "https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "M\u1ea5y Khi",
+      "url": "https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB"
     },
     {
       "album": {
@@ -867,7 +1001,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 189983,
       "name": "NIA",
       "url": "https://open.spotify.com/track/20JUEfUxSqB7GIhfF1Qo5P"
@@ -939,7 +1073,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 211666,
       "name": "Please Baby Please",
       "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
@@ -975,7 +1109,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 228292,
       "name": "Priority",
       "url": "https://open.spotify.com/track/3ZeP3M0tOnI0Xp9mXh0kIm"
@@ -1054,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9"
+      },
+      "artists": [
+        {
+          "name": "Folk9",
+          "url": "https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185074,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/3VB0h9yR5BCy6kpPynwj0Z"
       },
@@ -1109,6 +1261,24 @@
       "duration_ms": 243034,
       "name": "summer",
       "url": "https://open.spotify.com/track/1xgKzczUEtsrLPjGYVUo9B"
+    },
+    {
+      "album": {
+        "name": "In a relationship with_",
+        "url": "https://open.spotify.com/album/2hlwXuR4KCfiqyDzpesX7x"
+      },
+      "artists": [
+        {
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158687,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/0HporKYsqmHmFsnGfeX2JU"
     },
     {
       "album": {
@@ -1229,7 +1399,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 204521,
       "name": "Weigh me down",
       "url": "https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv"
@@ -1259,6 +1429,46 @@
       "duration_ms": 200439,
       "name": "Weli Ho",
       "url": "https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL"
+    },
+    {
+      "album": {
+        "name": "WHO A U ?",
+        "url": "https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD"
+      },
+      "artists": [
+        {
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+        },
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "WHO A U ?",
+      "url": "https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf"
+    },
+    {
+      "album": {
+        "name": "Making Me Sick!",
+        "url": "https://open.spotify.com/album/63pRwAidDd1EtsJimLsWlz"
+      },
+      "artists": [
+        {
+          "name": "SAMMii",
+          "url": "https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Why Say Why",
+      "url": "https://open.spotify.com/track/7rVCdOGWg1tEZylPxAUEXN"
     },
     {
       "album": {
@@ -1363,7 +1573,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 294826,
       "name": "\u62c9\u9eb5\u516c\u5b50 Ramen Boy",
       "url": "https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av"
@@ -1399,7 +1609,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 215181,
       "name": "\u9999\u6e2f\u5730pt.2",
       "url": "https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx"

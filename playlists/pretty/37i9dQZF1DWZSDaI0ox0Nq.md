@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,558 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,563 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Cafetín de Buenos Aires](https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Interpreta a Discépolo](https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF) | 3:30 |
 | 55 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 
-Snapshot ID: `MTY0ODY4Nzk4NCwwMDAwMDAwMGJlNmViNzBjMTI0NzMzYzFmYTljMWJmYmE5YTVlZGQ0`
+Snapshot ID: `MTY0ODc3NDgyNSwwMDAwMDAwMGJlNmViNzBjMTI0NzMzYzFmYTljMWJmYmE5YTVlZGQ0`

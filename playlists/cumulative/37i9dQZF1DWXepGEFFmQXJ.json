@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kaylee Bell",
+  "description": "The cream of today's Country crop. Cover: Keith Urban",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
@@ -99,6 +99,24 @@
       "duration_ms": 214668,
       "name": "Admire",
       "url": "https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg"
+    },
+    {
+      "album": {
+        "name": "After the Breakdown",
+        "url": "https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey"
+      },
+      "artists": [
+        {
+          "name": "McAlister Kemp",
+          "url": "https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204090,
+      "name": "After the Breakdown",
+      "url": "https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna"
     },
     {
       "album": {
@@ -171,7 +189,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 186373,
       "name": "At the End of a Bar",
       "url": "https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9"
@@ -309,7 +327,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 169019,
       "name": "Between You & Me (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 167480,
       "name": "Buy Dirt",
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
@@ -407,7 +425,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 186106,
       "name": "Cold As You",
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
@@ -425,7 +443,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 202613,
       "name": "Country Outta My Girl",
       "url": "https://open.spotify.com/track/12JnMGEzuhRdyBZ84UAi07"
@@ -447,6 +465,24 @@
       "duration_ms": 193511,
       "name": "Darts in the Dark",
       "url": "https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7"
+    },
+    {
+      "album": {
+        "name": "Dirt Road Down",
+        "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "Dirt Road Down",
+      "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
     },
     {
       "album": {
@@ -479,10 +515,32 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 168239,
       "name": "Drink Along Song",
       "url": "https://open.spotify.com/track/0EKtrPckzmWUQgVQpLd61k"
+    },
+    {
+      "album": {
+        "name": "Drink Along Song",
+        "url": "https://open.spotify.com/album/3dYhC4VoJB2ytJxZfcuilM"
+      },
+      "artists": [
+        {
+          "name": "Gord Bamford",
+          "url": "https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176433,
+      "name": "Drink Along Song",
+      "url": "https://open.spotify.com/track/2BBbFB5XlySql9TliA0bsV"
     },
     {
       "album": {
@@ -537,6 +595,24 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
+    },
+    {
+      "album": {
+        "name": "Fill It Up",
+        "url": "https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC"
+      },
+      "artists": [
+        {
+          "name": "Amber Lawrence",
+          "url": "https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175487,
+      "name": "Fill It Up",
+      "url": "https://open.spotify.com/track/6DeeYasethff4ETRNaHaZh"
     },
     {
       "album": {
@@ -599,7 +675,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
@@ -653,7 +729,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 199346,
       "name": "Get It Girl",
       "url": "https://open.spotify.com/track/4mmq0ddxmYMaclRzat1syG"
@@ -873,7 +949,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 175280,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
@@ -949,7 +1025,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk"
@@ -1036,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "KEITH (Pop Remix)",
+        "url": "https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172711,
+      "name": "KEITH - Pop Remix",
+      "url": "https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN"
+    },
+    {
+      "album": {
         "name": "Remember Her Name",
         "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
       },
@@ -1072,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv"
+      },
+      "artists": [
+        {
+          "name": "HUTCH",
+          "url": "https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206704,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE"
       },
@@ -1087,6 +1199,24 @@
       "duration_ms": 170720,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/7zHOg6Bu16YZvvRXnlKgWP"
+    },
+    {
+      "album": {
+        "name": "Light Up The Airwaves",
+        "url": "https://open.spotify.com/album/280h5hRIc1lkmsTaA95GNt"
+      },
+      "artists": [
+        {
+          "name": "Bo'Ness",
+          "url": "https://open.spotify.com/artist/1eIMWikZJoA0pyyW0fGIf1"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Light Up The Airwaves",
+      "url": "https://open.spotify.com/track/4bc1WxxRih1DhmTOXp1jIh"
     },
     {
       "album": {
@@ -1109,6 +1239,24 @@
       "duration_ms": 185888,
       "name": "Living Free",
       "url": "https://open.spotify.com/track/0oMa11SpEDdjmYvEkOg4Pa"
+    },
+    {
+      "album": {
+        "name": "Love Doesn't Work Like That",
+        "url": "https://open.spotify.com/album/4oris4TGRNqeGMxmYekJP8"
+      },
+      "artists": [
+        {
+          "name": "Bryce Sainty",
+          "url": "https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Love Doesn't Work Like That",
+      "url": "https://open.spotify.com/track/4NnLqBtEQdruA7MV0GMxS6"
     },
     {
       "album": {
@@ -1170,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "album": {
         "name": "Nobody's More Country",
         "url": "https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5"
       },
@@ -1181,7 +1347,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 172894,
       "name": "Nobody's More Country",
       "url": "https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4"
@@ -1199,7 +1365,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 174146,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg"
@@ -1217,7 +1383,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 213718,
       "name": "One Mississippi",
       "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
@@ -1343,7 +1509,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 167690,
       "name": "Run Out Of Road",
       "url": "https://open.spotify.com/track/6Qdy3AHJZbgY9dv4soh1yO"
@@ -1419,7 +1585,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 216764,
       "name": "Slow Down Summer",
       "url": "https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU"
@@ -1473,7 +1639,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 188928,
       "name": "Something I'll Never Get Back",
       "url": "https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p"
@@ -1538,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Stereotype",
+      "url": "https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5"
+    },
+    {
+      "album": {
         "name": "Still The One",
         "url": "https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw"
       },
@@ -1589,6 +1773,24 @@
       "duration_ms": 203201,
       "name": "The Next Big Thing",
       "url": "https://open.spotify.com/track/1wx9E45yeb7aCoU8TfCm62"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2goSTc1QM9a6imb2tUnzBC"
+      },
+      "artists": [
+        {
+          "name": "Courtney Keil",
+          "url": "https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206188,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A"
     },
     {
       "album": {
@@ -1647,10 +1849,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+    },
+    {
+      "album": {
+        "name": "Trouble With A Heartbreak",
+        "url": "https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Trouble With A Heartbreak",
+      "url": "https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq"
     },
     {
       "album": {
@@ -1708,6 +1928,28 @@
     },
     {
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "album": {
         "name": "Whiskey Me Away",
         "url": "https://open.spotify.com/album/1lOiIiSj6MYinTYSMg0yOb"
       },
@@ -1719,7 +1961,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 194426,
       "name": "Whiskey Me Away",
       "url": "https://open.spotify.com/track/0wF5NIMrLi7ZzsFiDNVqIB"
@@ -1741,6 +1983,24 @@
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "album": {
+        "name": "Wild As Her",
+        "url": "https://open.spotify.com/album/1NnTbVXoZVccmFpDrsyqPA"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Wild As Her",
+      "url": "https://open.spotify.com/track/1z6tm5brz2j2CFmD8EZzLm"
     },
     {
       "album": {

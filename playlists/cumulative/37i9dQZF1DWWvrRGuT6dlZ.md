@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
-> Unearthing your new favourite artists\. Cover: YANA\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: TIMUR\. Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Flames](https://open.spotify.com/track/7fjOByNcJuFByP7iC6uQud) | [Son Of Age](https://open.spotify.com/artist/3xcCu89VCCYd1sBbsnOdiq) | [Flames](https://open.spotify.com/album/4NGZalJqkWWYkqj3T2BNFL) | 4:29 | 2022-01-13 | 2022-03-25 |
 | [foggy](https://open.spotify.com/track/0fD1hT7b6jEL4JIfnPiH0t) | [Killmeslow](https://open.spotify.com/artist/0leX5B96n67GDEQDfR2boJ) | [foggy](https://open.spotify.com/album/4CL3HnG7pIxQQXcHOoAtpZ) | 2:17 | 2022-01-27 |  |
 | [Foolish](https://open.spotify.com/track/2Y1IPslkY8JhBSeG4oaCAL) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [Foolish](https://open.spotify.com/album/3FNZhcVEFGguaDDUZHpCcO) | 2:18 | 2021-12-01 | 2022-01-14 |
+| [Games](https://open.spotify.com/track/0Q4lTgeEJcE5Pe9S17PrIN) | [Prhymekid](https://open.spotify.com/artist/2W8y3wmOhJmsJWG1Ylosiu), [Chinoyouknow](https://open.spotify.com/artist/78nLZfsl7wX3Fuy4HyKwnQ) | [Games](https://open.spotify.com/album/4X1sSm0CC4Khi8WwO6OTky) | 2:35 | 2022-03-31 |  |
 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 | 2022-01-20 |  |
 | [Glitter and Gold](https://open.spotify.com/track/4Zu7NqrE9qhgg48j6pikVL) | [Amrita Soon](https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz) | [Glitter and Gold](https://open.spotify.com/album/7zBoL9ctHMRbjLdYG2czol) | 3:29 | 2022-01-13 |  |
 | [Good Vibes](https://open.spotify.com/track/2vM8mWh9tEnTG8RTMD0t24) | [Yul Elias](https://open.spotify.com/artist/79EQjEKZfDJYUM4Kj6yWxZ), [Yazsar](https://open.spotify.com/artist/2PsTwWdDdNZHpbZYj2Czrm) | [Good Vibes](https://open.spotify.com/album/3Lv5bpblF3ep6rdEYKvUgG) | 4:04 | 2022-01-13 |  |
@@ -88,6 +89,7 @@
 | [if you'd have me](https://open.spotify.com/track/0YRm5Kbyhg0u9O38pBhC8X) | [whirring](https://open.spotify.com/artist/6tVhJDK05xM7fBVa6Jx2cU) | [if you'd have me](https://open.spotify.com/album/6AVG11CgJQl58BK2Kug9BC) | 2:55 | 2021-12-01 | 2022-01-14 |
 | [ily](https://open.spotify.com/track/3O2KSaYVs7Dh7i5LxWqumA) | [Isabelle Wong](https://open.spotify.com/artist/61cPV1F8G8kVDCFpk9bURe) | [ily](https://open.spotify.com/album/1zPHjigvi5vLHptht1yQPp) | 3:04 | 2022-01-13 |  |
 | [IN MY HEAD](https://open.spotify.com/track/2Wi2iXfN2rHW24P5kBQTvg) | [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [IN MY HEAD](https://open.spotify.com/album/3YeavO2N80hcKmgpAUB6N0) | 2:09 | 2022-01-13 | 2022-03-11 |
+| [JADED](https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn) | [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [JADED](https://open.spotify.com/album/5mH7POlWSAS7WYlk7kK39E) | 3:10 | 2022-03-31 |  |
 | [Jimmy](https://open.spotify.com/track/38LfSTpQclJHThCMzhznGh) | [Carpet Golf](https://open.spotify.com/artist/2XPiyPlUq8WPaIvlM6tLXD) | [Not As Good A Fisherman As Brock Lensar Is A Man](https://open.spotify.com/album/5EttFBjS9zQ3fPQJ6ZUT5f) | 1:15 | 2022-01-13 | 2022-03-25 |
 | [Judah Love](https://open.spotify.com/track/4Sr1GPn3rAFhrcd9XzkSo2) | [Amos Judah](https://open.spotify.com/artist/7zBe6dQQIDeRBHoxiDbKkf) | [Up To No Good](https://open.spotify.com/album/5dZWgLcCIfzrORX6IPOiiV) | 3:00 | 2022-01-13 | 2022-03-25 |
 | [Just Another Minute](https://open.spotify.com/track/6AEmZBWGYlI6nsuWB5qViN) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Just Another Minute](https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI) | 4:00 | 2022-01-13 |  |
@@ -121,8 +123,10 @@
 | [Nice Guy](https://open.spotify.com/track/4mqfulQde45NLDlT06XDbu) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [Nice Guy](https://open.spotify.com/album/5wFgGKoAS8BrCMjEmaNzgy) | 2:53 | 2021-12-01 | 2022-01-14 |
 | [Night Skies](https://open.spotify.com/track/3FLzaNA0bJd3DeuWUxkSBx) | [SWIT](https://open.spotify.com/artist/6jXLHnwTIZ42hffoRuELR1), [Fil El](https://open.spotify.com/artist/7Js1LB4tguiRHf8NketrK3) | [Night Skies](https://open.spotify.com/album/7Gp1FsShKxC3NUEWttyhva) | 3:43 | 2022-01-13 |  |
 | [no bad vibes](https://open.spotify.com/track/5UGItqf6dcDAsNaoaTuRwY) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [no bad vibes](https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn) | 2:34 | 2022-02-10 |  |
+| [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 | 2022-03-31 |  |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 |  |
 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 | 2021-12-01 | 2022-01-14 |
+| [OK](https://open.spotify.com/track/6tIZqygSTNRyGn9WSIQxrl) | [Adrian Danial](https://open.spotify.com/artist/494R2afpLGofkQy8OVXleD) | [OK](https://open.spotify.com/album/0VZTi0KgY9x0o145joTKd0) | 2:26 | 2022-03-31 |  |
 | [One Can Only Hope](https://open.spotify.com/track/7xBzM5EVcCBeCaw7olmJkY) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [One Can Only Hope](https://open.spotify.com/album/3i5d4G9Helc5kg2ApeINGd) | 3:31 | 2022-02-24 |  |
 | [Only Lover](https://open.spotify.com/track/12hueiL6lpOWp1HlnZ8tGO) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Only Lover](https://open.spotify.com/album/74t2G0n8dX98XzCY3TuFvc) | 2:58 | 2022-01-27 |  |
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 |  |
@@ -133,6 +137,7 @@
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 |  |
 | [Ride with Me](https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb) | [Maqyl](https://open.spotify.com/artist/1TsQNoSAfBuzmgHN0475Sw), [Kalyan Rath](https://open.spotify.com/artist/1bdzqJILHZDRI49lqMS5mc) | [Ride with Me](https://open.spotify.com/album/05s3PEx8pGlodj3gvSgm2y) | 2:58 | 2022-01-13 |  |
+| [Run Again \(Acoustic\)](https://open.spotify.com/track/0r7x4FURS4dwkPZah6Nosf) | [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Run Again \(Acoustic\)](https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9) | 3:08 | 2022-03-31 |  |
 | [Runaway](https://open.spotify.com/track/7u9v35EFgZJgzgFlUm6MoY) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [The Distance Between Us](https://open.spotify.com/album/4XlMcnW7hte39E8gvuU3m9) | 4:18 | 2022-01-13 |  |
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [Runway](https://open.spotify.com/track/4hAs3NCpwL8Lhr4GcL9kkV) | [Cadence](https://open.spotify.com/artist/0MtXc3VR14iObCndBTBHTr) | [Runway](https://open.spotify.com/album/3mrOvZdzJgCflKQdJDBxPs) | 3:32 | 2022-01-13 |  |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
 
-> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Kai Landre, Artwork: Thami Nabil
+> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: 72\-HOUR POST FIGHT Artwork: Thami Nabil
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Lovebirds](https://open.spotify.com/track/2WVjXjxrioX1g4wcDYB7qs) | [Megatrend](https://open.spotify.com/artist/6VEvDAPDy41xWnNQmWzNiA) | [Oberursel Bahnhof](https://open.spotify.com/album/3HWa74j6RNzvJHtA4xl8Ff) | 4:56 | 2021-07-09 | 2021-09-05 |
 | [Lulala](https://open.spotify.com/track/66MFk8bSS0sphKrUHTfaqV) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Lulala](https://open.spotify.com/album/6c8wEQjrciMpfViwTubnwF) | 2:26 | 2021-09-16 | 2021-12-02 |
 | [M185\-2SYS1M](https://open.spotify.com/track/4QEF9akZQoJmsmYk69QUT3) | [MPU101](https://open.spotify.com/artist/2P7CNpfHB0cOsqu0Gwl8he) | [Mpu101](https://open.spotify.com/album/4jBuDEeDfgZjsT5veRoV42) | 8:07 | 2021-08-26 | 2021-12-01 |
+| [MADE OF CLAY](https://open.spotify.com/track/7FEd0fYhvhMsBgxFmz0SlU) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0) | [MADE OF CLAY](https://open.spotify.com/album/2MDOJO9U0igiRAr11hirtH) | 3:01 | 2022-03-31 |  |
 | [Magnetic Ghosts](https://open.spotify.com/track/2ojJsoPrYKwLsZEPjxOk8E) | [Mars89](https://open.spotify.com/artist/5RtVtFkrk7Teybt7WGZDGK) | [New Dawn](https://open.spotify.com/album/0kqdpr9PmvVLEdGuv0gQql) | 4:11 | 2021-04-04 | 2021-04-05 |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-08-05 | 2022-01-27 |
 | [Mai](https://open.spotify.com/track/6wxwfMJVSFAIJxyubkTrEV) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [The Tao](https://open.spotify.com/album/5O4JA3CwoauTbH8PWoneRV) | 4:43 | 2021-01-21 | 2022-01-20 |
@@ -444,7 +445,7 @@
 | [Moss II](https://open.spotify.com/track/7mYRf9giLNW3IcocHXZ1yJ) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Sound Wonders: A Series of Epics](https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5) | 5:01 | 2021-10-21 | 2021-12-02 |
 | [Mountain](https://open.spotify.com/track/3nhUE1881otbCf1YGxIUIm) | [Taiyo](https://open.spotify.com/artist/1bO5z9wFYiIDe2zXmrmk5C) | [Mountain](https://open.spotify.com/album/2dkDKXBAk4xFBgbEQtKU0m) | 5:22 | 2021-05-20 | 2021-07-28 |
 | [Mourning Shadows We Perish](https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 5:44 | 2022-01-12 | 2022-03-22 |
-| [Mouse \- Leafcutter John Remix](https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse), [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Mouse \(Leafcutter John Remix\)](https://open.spotify.com/album/0WGWv8wCfHMW02CB4Vfi1x) | 4:53 | 2022-01-26 |  |
+| [Mouse \- Leafcutter John Remix](https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse), [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Mouse \(Leafcutter John Remix\)](https://open.spotify.com/album/0WGWv8wCfHMW02CB4Vfi1x) | 4:53 | 2022-01-26 | 2022-04-01 |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-09-16 | 2021-12-02 |
 | [Mudblood](https://open.spotify.com/track/2wqF5seUP5zZm5BV2NKono) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Mudblood EP](https://open.spotify.com/album/2DNYjE4c3VSrIBqbCDUJAd) | 3:12 | 2021-09-30 | 2021-12-02 |
 | [Mummon Tarina](https://open.spotify.com/track/4j8jtEHJq3A92q8TpwYXcF) | [Auvinen](https://open.spotify.com/artist/4MiDOWLTXzjLVpuWMG2sBz) | [Akkosaari](https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz) | 3:05 | 2021-01-21 | 2022-03-10 |

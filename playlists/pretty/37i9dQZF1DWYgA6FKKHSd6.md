@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,513 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,530 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Straight to the Point](https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Straight to the Point](https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511) | 4:02 |
 | 100 | [Warm \- Album Mix](https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3) | [Brad Rambur](https://open.spotify.com/artist/5qc0Q7HXExyq5FHLe3Hbo7) | [Can't Put It Down](https://open.spotify.com/album/4SPSHIRgAoDxwWAr0K03Ln) | 4:35 |
 
-Snapshot ID: `MTY0ODY4Nzk2NiwwMDAwMDAwMDhjYzM5Y2VmNTI5ZTE0MWIxNjk0YmVmNDM0MDYwNmQ1`
+Snapshot ID: `MTY0ODc3NDgwMiwwMDAwMDAwMDhjYzM5Y2VmNTI5ZTE0MWIxNjk0YmVmNDM0MDYwNmQ1`

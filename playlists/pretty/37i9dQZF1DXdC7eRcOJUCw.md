@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. En portada: Guadalupe Pineda
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,227 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,265 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/2lTBORKda4JQ6QoiIgSqWw) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Canta A Jose Alfredo Jimenez Vol\. 2](https://open.spotify.com/album/67KtaN3OEZxnsGb6F1MvTB) | 2:41 |
 | 100 | [Yo](https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Lo Mejor De Jose Alfredo Jimenez](https://open.spotify.com/album/42myQnU4LSeQeTPKTrfYyi) | 3:33 |
 
-Snapshot ID: `MTY0ODY4ODQwNSwwMDAwMDAwMGZlZTMxNjA5MmY2YTJhZTNlNDdjZGI2N2U5MzNkNTFm`
+Snapshot ID: `MTY0ODc3NTI1NiwwMDAwMDAwMGZlZTMxNjA5MmY2YTJhZTNlNDdjZGI2N2U5MzNkNTFm`

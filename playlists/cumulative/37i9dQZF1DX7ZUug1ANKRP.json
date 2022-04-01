@@ -1280,6 +1280,28 @@
     },
     {
       "album": {
+        "name": "Move Your Body (Extended Mix)",
+        "url": "https://open.spotify.com/album/3sBhqTQUVLgkNeBIZcLUST"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/5uSHDVIZf0ejiFzroIheiu"
+    },
+    {
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Lana Lubany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,489 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,552 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

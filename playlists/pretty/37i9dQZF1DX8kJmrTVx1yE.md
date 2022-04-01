@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 
 > Dale play, y que los temazos no paren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,574 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,652 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 79 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 80 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 |
 
-Snapshot ID: `MTY0ODY4ODI4MCwwMDAwMDAwMDJjNTFjN2JiNjM5ZjYyZmRjNmFiMjEyODVkZmY1NjZm`
+Snapshot ID: `MTY0ODc3NTEyOCwwMDAwMDAwMDJjNTFjN2JiNjM5ZjYyZmRjNmFiMjEyODVkZmY1NjZm`

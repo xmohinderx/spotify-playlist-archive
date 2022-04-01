@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlWx1itq9S5.md) - [plain]
 
 > Las canciones de pop latino más escuchadas del año.<br/>Foto: Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,359 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,498 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

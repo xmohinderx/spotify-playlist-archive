@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > driving home 2 u ❤️❤️❤️ Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,522 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,955 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

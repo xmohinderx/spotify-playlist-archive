@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,882 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,982 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [É Isso](https://open.spotify.com/track/5SoApwCCVUmXqSKlsylVWf) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [É Isso](https://open.spotify.com/album/5nMDU3PrPy1LZQxkoPd3eS) | 3:04 |
 | 60 | [Cypher Hit: Choppa](https://open.spotify.com/track/0eUQ2xIffDrENzfoSgwz4o) | [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [OJhon](https://open.spotify.com/artist/4T5u1rPrwsk57uHGjticWq), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA), [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN) | [Cypher Hit: Choppa](https://open.spotify.com/album/0r2pa4oth6pO9kmlsWvrQJ) | 5:34 |
 
-Snapshot ID: `MTY0ODY4ODM2NCwwMDAwMDAwMDQwNjVkOGQwODExZDlhODAxY2Y5OTVlZDA5MTAzYTBi`
+Snapshot ID: `MTY0ODc3NTIxNSwwMDAwMDAwMDQwNjVkOGQwODExZDlhODAxY2Y5OTVlZDA5MTAzYTBi`

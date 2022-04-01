@@ -2,7 +2,7 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
-> Discover your new favourite artists\. Cover: Obongjayar
+> Discover your new favourite artists\. Cover: flowerovlove
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [What I'd Do For You](https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:01 | 2022-02-18 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2022-02-18 |  |
 | [Wicked & Wild](https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Wicked & Wild](https://open.spotify.com/album/3SZloThQF14yc3MzUEouP6) | 2:06 | 2022-02-18 |  |
+| [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 |  |
 | [Worth It](https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Worth It](https://open.spotify.com/album/1i1VUVcZdZBU8U87QMOCii) | 3:14 | 2022-02-18 |  |
 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 | 2022-02-18 |  |
 | [You Stayed / To Live](https://open.spotify.com/track/4qrpX30k1mtHBHdTrMySod) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [For Those I Love](https://open.spotify.com/album/3gpVbxElqwLZfc1ZWfiN27) | 5:27 | 2022-02-18 |  |

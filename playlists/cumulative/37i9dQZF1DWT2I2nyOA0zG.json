@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 230400,
       "name": "Amanda Pressure",
       "url": "https://open.spotify.com/track/0YEbAeUwfjVnJ7XHB32eEg"
@@ -630,6 +630,36 @@
     },
     {
       "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/3hBry3ZRsfpL3v8eQ7KYPx"
+      },
+      "artists": [
+        {
+          "name": "Jus",
+          "url": "https://open.spotify.com/artist/2WKwwGJ7L0RN5xNV3ljhkq"
+        },
+        {
+          "name": "Jabali Afrika",
+          "url": "https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC"
+        },
+        {
+          "name": "Samaki Mkuu",
+          "url": "https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou"
+        },
+        {
+          "name": "Steve Gatitu",
+          "url": "https://open.spotify.com/artist/7phrFWqQM63ViskGKrBuJY"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "Good Friends",
+      "url": "https://open.spotify.com/track/2VWHk5P5qr9Yk9u81FzgRY"
+    },
+    {
+      "album": {
         "name": "Anchor Baby",
         "url": "https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1"
       },
@@ -689,7 +719,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 246923,
       "name": "Hold On To The Faith",
       "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
@@ -1819,6 +1849,28 @@
       "duration_ms": 164837,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/539PRaW5N5GFhv7YnFAMHl"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179411,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL"
     },
     {
       "album": {

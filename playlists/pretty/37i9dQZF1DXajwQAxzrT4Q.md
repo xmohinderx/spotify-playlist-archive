@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,490 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,521 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 99 | [deep insides](https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj) | [Inexhaustible](https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2) | 3:36 |
 | 100 | [Like This \- Original Mix](https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:56 |
 
-Snapshot ID: `MTY0ODY4ODM0MCwwMDAwMDAwMDcwNzYyYWNkY2JjMTA4NWU0MzMxNTFhZjM0MGFjOWI2`
+Snapshot ID: `MTY0ODc3NTE5MSwwMDAwMDAwMDcwNzYyYWNkY2JjMTA4NWU0MzMxNTFhZjM0MGFjOWI2`

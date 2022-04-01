@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,715 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,902 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 99 | [A 120](https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [A 120](https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx) | 3:53 |
 | 100 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 |
 
-Snapshot ID: `MTY0ODY4ODE0OCwwMDAwMDAwMDZmY2Y1M2NmMjg3NjJiMGIxYmNjYTQxYTc2MTViN2Rm`
+Snapshot ID: `MTY0ODc3NDk5MywwMDAwMDAwMDZmY2Y1M2NmMjg3NjJiMGIxYmNjYTQxYTc2MTViN2Rm`

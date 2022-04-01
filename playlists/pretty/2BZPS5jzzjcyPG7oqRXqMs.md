@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening .
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,788 likes - 97 songs - 5 hr 53 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,791 likes - 97 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 3 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 |
 | 4 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 |
 | 5 | [Note To Self](https://open.spotify.com/track/03jxYc3qHguRZ6FEwWJ7Oq) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Note To Self](https://open.spotify.com/album/0a1mn8XN8wdYDRqMpJ13Jh) | 3:06 |
-| 6 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
-| 7 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
-| 8 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 |
+| 6 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 |
+| 7 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
+| 8 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
 | 9 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 |
 | 10 | [Chosen](https://open.spotify.com/track/143qitJ7Iy92Vzu4XZvr5P) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Chosen](https://open.spotify.com/album/0HAZOFZUpAk0JSeqsPjgUl) | 3:05 |
 | 11 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 96 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
 | 97 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 |
 
-Snapshot ID: `MzA5Nyw4NTkxOTBhODMzZDEwMmM3MGMwN2MyMTFmYWE2NzFhODczNTM1MWRl`
+Snapshot ID: `MzA5OCwyYmJiZTc5MjIwNTJkNmI0YmRiMDFmNGI4Njg1MjE1ZjU2ZTFmNDdl`

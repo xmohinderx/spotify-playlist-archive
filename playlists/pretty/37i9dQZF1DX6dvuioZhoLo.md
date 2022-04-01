@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,077 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,216 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Jackson](https://open.spotify.com/track/7GhTnpAKMLPNCeiY7ylEw3) | [Annalisa Tornfelt](https://open.spotify.com/artist/4Eo2U9v17haXp8fW3g47Za) | [Search Zero](https://open.spotify.com/album/7tnfdJ91P5koAd3B3veyDU) | 3:17 |
 | 100 | [Better to My Baby](https://open.spotify.com/track/5s18OgMbxObkcqjLYKmA9z) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Better to My Baby](https://open.spotify.com/album/62VwM9Z6qTwE1kkoGm2Z53) | 3:11 |
 
-Snapshot ID: `MTY0ODY4ODIxNywwMDAwMDAwMGI4OTEzYzQxYjdkMmZjMmEwNjgyYWM1OGY1MDIxN2U3`
+Snapshot ID: `MTY0ODc3NTA2MywwMDAwMDAwMGI4OTEzYzQxYjdkMmZjMmEwNjgyYWM1OGY1MDIxN2U3`

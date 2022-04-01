@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,477 likes - 634 songs - 1 day 18 hr 38 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,477 likes - 635 songs - 1 day 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -642,5 +642,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 632 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
 | 633 | [In The Fade](https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6) | 3:50 |
 | 634 | [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 |
+| 635 | [No Small Thing](https://open.spotify.com/track/7vuyjyv0cKggQm0Jj8GrOG) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:42 |
 
-Snapshot ID: `MTY1NSwwM2FmMDIwZjZmZTFkNTllMDg0ZTA0ZDE2MWM4N2U0OGM1ZjdkM2Vh`
+Snapshot ID: `MTY1NiwzMDFlNGE4ODY0NDA2YzY2NzdmZmZmOWJmMWEwYjU2ZDYyYjRiNzUz`

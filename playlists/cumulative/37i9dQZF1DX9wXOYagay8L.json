@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=xRpH-6BAToStZqmVm7uIXg\">Hunter Rose</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=pjjP_NOrQVis9quc4gWHHQ\">Makhadzi</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 321488,
       "name": "Imbokodo",
       "url": "https://open.spotify.com/track/3tNLaDHmT2yRnPLaA0i5Ge"
@@ -1266,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "Pain Ya Jealous",
+        "url": "https://open.spotify.com/album/5KCz5c0mIDM7tg8hjS2Rwn"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239124,
+      "name": "Ndi Nne",
+      "url": "https://open.spotify.com/track/70HFJtyRLVnuA6wqSSuTd8"
+    },
+    {
+      "album": {
         "name": "Ndibambe",
         "url": "https://open.spotify.com/album/1hC0xu6kT3DlM9q1g6o29I"
       },
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 215493,
       "name": "Noma Kunzima",
       "url": "https://open.spotify.com/track/0gqVtnBPl9VS0RCX5gHKBn"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 221367,
       "name": "SAFE SPACE",
       "url": "https://open.spotify.com/track/0SEvZ169RsCvISXPUdcVdt"
@@ -1870,6 +1888,28 @@
     },
     {
       "album": {
+        "name": "Siyabonga",
+        "url": "https://open.spotify.com/album/2xLQUUCPol2u9LF9GgHpvt"
+      },
+      "artists": [
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267592,
+      "name": "Siyabonga",
+      "url": "https://open.spotify.com/track/1NPiwBYGyCvuR2Msq4xJAR"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/1jm8BNnsdpEjCKRmgS7gZh"
       },
@@ -1915,6 +1955,24 @@
       "duration_ms": 254768,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2TBYp17F3QE4NfkpdY3X1T"
+    },
+    {
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173463,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb"
     },
     {
       "album": {
@@ -2237,7 +2295,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 230000,
       "name": "Where's Your Key",
       "url": "https://open.spotify.com/track/4VQ9rwBCGRjR7OEl0XuPKn"

@@ -336,6 +336,28 @@
     },
     {
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
+      },
+      "artists": [
+        {
+          "name": "Changes",
+          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
+        },
+        {
+          "name": "Elin Bemark",
+          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272784,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "album": {
         "name": "E.S.T. Symphony",
         "url": "https://open.spotify.com/album/3R3reMGgYF90CMbEc6Donr"
       },
@@ -1513,6 +1535,24 @@
       "duration_ms": 313280,
       "name": "Terminal One",
       "url": "https://open.spotify.com/track/0J07hCahSWlZpmp1xbsCMU"
+    },
+    {
+      "album": {
+        "name": "The Jingle",
+        "url": "https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "The Jingle",
+      "url": "https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv"
     },
     {
       "album": {

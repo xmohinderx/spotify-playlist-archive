@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,012 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,151 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Manteca](https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Trumpet Evolution](https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A) | 3:22 |
 | 100 | [Aggua](https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Yesun](https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ) | 2:46 |
 
-Snapshot ID: `MTY0ODY4ODIwMCwwMDAwMDAwMDU3NzU2NmMwZTZjMzdmZTExMmZjZjIxNjVlMDBkNDU2`
+Snapshot ID: `MTY0ODc3NTA0NCwwMDAwMDAwMDU3NzU2NmMwZTZjMzdmZTExMmZjZjIxNjVlMDBkNDU2`

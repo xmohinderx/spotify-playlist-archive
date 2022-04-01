@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,222 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,220 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 79 | [Seven Nation Army](https://open.spotify.com/track/1jNOi6m3Hn8nLEeHCp5Msr) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4teFaDSeFHYXZjZJaZGrAO) | 3:51 |
 | 80 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 
-Snapshot ID: `MTY0ODY4ODA5NSwwMDAwMDAwMDZmM2QxNzI2ZDlkZTYzODllYTNhZjc4YjBiMGVkODJj`
+Snapshot ID: `MTY0ODc3NDkzOCwwMDAwMDAwMDZmM2QxNzI2ZDlkZTYzODllYTNhZjc4YjBiMGVkODJj`

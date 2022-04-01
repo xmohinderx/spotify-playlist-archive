@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,115 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,208 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Coupe](https://open.spotify.com/track/6SOiglkSPpcLvk68nY8yil) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Keep da K / Coupe](https://open.spotify.com/album/4FS5ptxfqf4wuDcKkXrhmR) | 2:07 |
 | 100 | [HEATING ROCKS](https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 |
 
-Snapshot ID: `MTY0ODY4Nzg2OSwwMDAwMDAwMDhmZDIwZTg1ZTIyYjNkZGY1ZjIwZjYxNDEwYmE5YWQ5`
+Snapshot ID: `MTY0ODc3NDcwNCwwMDAwMDAwMDhmZDIwZTg1ZTIyYjNkZGY1ZjIwZjYxNDEwYmE5YWQ5`

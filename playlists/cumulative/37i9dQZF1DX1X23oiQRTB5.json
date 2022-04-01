@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "1PLIK\u00c9140 au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 282475,
       "name": "L'odeur de l'essence",
       "url": "https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT"
@@ -858,6 +858,28 @@
     },
     {
       "album": {
+        "name": "On se reverra plus (feat. Gazo)",
+        "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "On se reverra plus (feat. Gazo)",
+      "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
+    },
+    {
+      "album": {
         "name": "ARR\u00caTEZ-LE !",
         "url": "https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ"
       },
@@ -964,6 +986,28 @@
     },
     {
       "album": {
+        "name": "L\u2019Amour",
+        "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198396,
+      "name": "RENCONTRE",
+      "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
+    },
+    {
+      "album": {
         "name": "SVR",
         "url": "https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy"
       },
@@ -979,7 +1023,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 163986,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w"

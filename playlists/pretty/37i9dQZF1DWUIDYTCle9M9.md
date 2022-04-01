@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,717 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,902 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 |
 | 60 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 
-Snapshot ID: `MTY0ODY4NzgzMiwwMDAwMDAwMDJmODRiZDZlODgyOWIzMjhiNTMxODExN2JlZGVkNzk2`
+Snapshot ID: `MTY0ODc3NDY2NywwMDAwMDAwMDJmODRiZDZlODgyOWIzMjhiNTMxODExN2JlZGVkNzk2`

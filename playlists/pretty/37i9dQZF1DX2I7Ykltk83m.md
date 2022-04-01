@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,994 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,151 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [Questions](https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Questions](https://open.spotify.com/album/4FPVIk2FIX8MfCBZQrfqDi) | 2:53 |
 | 100 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 |
 
-Snapshot ID: `MTY0ODY4ODA3OCwwMDAwMDAwMDIzM2RmZDQwZmEyZGVkYTJkNDE1YjhiMjczNzBjYWIx`
+Snapshot ID: `MTY0ODc3NDkyMSwwMDAwMDAwMDIzM2RmZDQwZmEyZGVkYTJkNDE1YjhiMjczNzBjYWIx`

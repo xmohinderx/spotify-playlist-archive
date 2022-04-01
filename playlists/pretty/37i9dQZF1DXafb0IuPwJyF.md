@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,577 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,935 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 22 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 23 | [ランブル](https://open.spotify.com/track/5aZKkyPqkIzOeimcrlhPvg) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Get Set](https://open.spotify.com/album/2J8Wz3Krda4vLYRzrFlFOb) | 4:02 |
 | 24 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
-| 25 | [暴徒](https://open.spotify.com/track/178b6lGvEzd3RcHRvUQfl0) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:45 |
+| 25 | [アヴァン](https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:24 |
 | 26 | [Superpower](https://open.spotify.com/track/5lw4VMEvXNCpHNSRpxmkTC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Superpower](https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp) | 3:22 |
 | 27 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 |
 | 28 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 |
 | 50 | [Meidaimae](https://open.spotify.com/track/231UG79D3cxclM5WAkLWrO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Meidaimae](https://open.spotify.com/album/1aPnyYlDvtm7Xb83s6hdQ8) | 4:23 |
 
-Snapshot ID: `MTY0ODQyMDg0MCwwMDAwMDMwNzAwMDAwMTdmY2Q4OWU0MzkwMDAwMDE3ZmM5ODNiZDQ0`
+Snapshot ID: `MTY0ODc2OTAxNywwMDAwMDMwODAwMDAwMTdmZTI0YWE3NWQwMDAwMDE3ZmM5ODNiZDQ0`

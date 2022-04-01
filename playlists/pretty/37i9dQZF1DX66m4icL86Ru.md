@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Babe Tate
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,585 likes - 81 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,406 likes - 81 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
+| 1 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 |
 | 2 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 |
 | 3 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 4 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 80 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 81 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 |
 
-Snapshot ID: `MTY0ODMzNjk3OSwwMDAwMDBjMTAwMDAwMTdmYzg4YTQ3MmMwMDAwMDE3ZmJkYmVmZWYy`
+Snapshot ID: `MTY0ODcxNTgxMCwwMDAwMDBjMjAwMDAwMTdmZGYxZWM1ZDMwMDAwMDE3ZmJkYmVmZWYy`

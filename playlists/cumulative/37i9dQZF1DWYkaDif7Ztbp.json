@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=v814uCbPQMS7I25p4aMPnw\" > Rema </a>",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=NWGv4ytoQ6OiRhZU8zjcpQ\" > Joeboy </a>",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+    },
+    {
+      "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
@@ -479,7 +497,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
@@ -501,6 +519,24 @@
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
+      "album": {
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129544,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
     },
     {
       "album": {
@@ -719,7 +755,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 195440,
       "name": "Fils de joie",
       "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
@@ -785,6 +821,24 @@
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+    },
+    {
+      "album": {
+        "name": "Sakidila",
+        "url": "https://open.spotify.com/album/7AztWWBX82cp2yrqajfddM"
+      },
+      "artists": [
+        {
+          "name": "Pongo",
+          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Hey Linda",
+      "url": "https://open.spotify.com/track/5qhvuxqKZvU3C5kNA4K9U5"
     },
     {
       "album": {
@@ -1113,7 +1167,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
@@ -1325,7 +1379,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/1u0gZYeHRGAknZZTjmZ6uK"
@@ -1483,7 +1537,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
@@ -1859,6 +1913,24 @@
       "duration_ms": 276009,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/1JatNOHjkqO8omLaTCNTSU"
+    },
+    {
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "album": {

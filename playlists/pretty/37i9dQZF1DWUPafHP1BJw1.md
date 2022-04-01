@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,163 likes - 110 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,840 likes - 110 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 7 | [We Found Love](https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [In2ition](https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D) | 3:32 |
 | 8 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
 | 9 | [Halo](https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Halo](https://open.spotify.com/album/5AjALe4ac200zNXQolG3uk) | 4:24 |
-| 10 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomas Peire\-Serrate](https://open.spotify.com/artist/46xdbwAVhQMAkPf18qcxlc) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
+| 10 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 11 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 |
 | 12 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 |
 | 13 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 |

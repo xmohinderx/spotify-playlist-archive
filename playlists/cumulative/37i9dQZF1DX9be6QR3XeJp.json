@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Obongjayar",
+  "description": "Discover your new favourite artists. Cover: flowerovlove",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1829,6 +1829,24 @@
       "duration_ms": 126030,
       "name": "Wicked & Wild",
       "url": "https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt"
+    },
+    {
+      "album": {
+        "name": "Will We Ever Get This Right",
+        "url": "https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161157,
+      "name": "Will We Ever Get This Right",
+      "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
     },
     {
       "album": {

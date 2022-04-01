@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favorite punks\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,618 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Making Christmas](https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:26 |
 | 75 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
 
-Snapshot ID: `MTY0ODY4ODExNCwwMDAwMDAwMGE3YzNiZmZkZmIxOTVhZTMxOWUwYjczMjRjNWU3ZjQ0`
+Snapshot ID: `MTY0ODc3NDk1NywwMDAwMDAwMGE3YzNiZmZkZmIxOTVhZTMxOWUwYjczMjRjNWU3ZjQ0`

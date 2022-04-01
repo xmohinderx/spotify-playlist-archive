@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=aBvt2JiqQzOP95Xq75t6VQ"> Wendy Kay </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=XE\_bO90lSZ2tHlmvUTnTLA"> Maya Amolo </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 |  |
 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 | 2021-12-28 |  |
 | [Built for You](https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Built for You](https://open.spotify.com/album/3RV5Ev9KtvyEzkhzJb3OIT) | 3:35 | 2021-12-28 |  |
+| [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-03-31 |  |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 |  |
 | [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 |  |
@@ -27,7 +28,7 @@
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 |  |
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 |  |
 | [Ignited](https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Rafiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r) | 5:45 | 2021-12-28 |  |
-| [Imia Mor](https://open.spotify.com/track/4kjfnAGaYvr2afZxGB2yyE) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:54 | 2021-12-28 |  |
+| [Imia Mor](https://open.spotify.com/track/4kjfnAGaYvr2afZxGB2yyE) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:54 | 2021-12-28 | 2022-04-01 |
 | [Infatuated](https://open.spotify.com/track/6gYNntWr2EDsgTxzl9p6cE) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Jungle Trap](https://open.spotify.com/album/6rdSXm21K45CLRkxFdLQZu) | 3:35 | 2021-12-28 | 2022-02-25 |
 | [Insecure](https://open.spotify.com/track/6dDDPV8S5meV46SamOnDNl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:10 | 2021-12-28 |  |
 | [Isabella](https://open.spotify.com/track/6eHfU5ED5uKQEc7EPd0nDY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 3:32 | 2021-12-28 |  |
@@ -45,7 +46,7 @@
 | [My Love Belongs to You](https://open.spotify.com/track/32znzBnjFs06EEgMzyUINd) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Super Ego](https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6) | 3:33 | 2021-12-28 |  |
 | [Naito](https://open.spotify.com/track/4JPzKp3IgIlaVEMSbGc73o) | [Pascal Tokodi](https://open.spotify.com/artist/7FSouRkvmGBxGx66a6Z4x3) | [Naito](https://open.spotify.com/album/4tjEfXK9eENmcOkZkLLFKT) | 2:53 | 2021-12-28 | 2022-03-25 |
 | [Nakupenda Bado](https://open.spotify.com/track/3T2HZ4MqS2AVxtuCTXJZ3B) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Hayawi Hayawi](https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK) | 3:25 | 2021-12-28 |  |
-| [Ndi Waku](https://open.spotify.com/track/0yahZenDbEbbMksbDwdrJt) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:45 | 2021-12-28 |  |
+| [Ndi Waku](https://open.spotify.com/track/0yahZenDbEbbMksbDwdrJt) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:45 | 2021-12-28 | 2022-04-01 |
 | [Nguga Ii](https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP) | [Valerie Kimani](https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW) | [Baisikeli](https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1) | 4:24 | 2021-12-28 |  |
 | [Nice Car](https://open.spotify.com/track/1m7tvMnLjtzNiFxj5QKBTP) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Shift Happens](https://open.spotify.com/album/1kxF3nkx9EbPqT3p5g6dCC) | 3:48 | 2021-12-28 |  |
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 |  |
@@ -58,6 +59,7 @@
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 |  |
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 |  |
 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 | 2022-02-17 |  |
+| [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 |  |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 |  |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 |  |

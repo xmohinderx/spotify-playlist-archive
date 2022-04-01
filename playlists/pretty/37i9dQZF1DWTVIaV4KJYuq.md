@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,879 likes - 110 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,997 likes - 110 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
 | 110 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
 
-Snapshot ID: `MTY0ODY4NzgxMCwwMDAwMDAwMDY0ZTExMmU0YzQwMTI2OGQ2YzFjNGI2ZTdhZDgyZmE0`
+Snapshot ID: `MTY0ODc3NDY0NSwwMDAwMDAwMDY0ZTExMmU0YzQwMTI2OGQ2YzFjNGI2ZTdhZDgyZmE0`

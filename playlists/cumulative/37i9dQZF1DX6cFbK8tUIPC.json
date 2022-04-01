@@ -1382,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Sick Of Me",
+        "url": "https://open.spotify.com/album/2DVG2hyVj97PEQptig9cdw"
+      },
+      "artists": [
+        {
+          "name": "Etaoin",
+          "url": "https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Sick Of Me",
+      "url": "https://open.spotify.com/track/7uWG4RpAaELo8RjeKWSX95"
+    },
+    {
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },

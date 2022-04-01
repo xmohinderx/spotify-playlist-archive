@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "A Temporary High",
       "url": "https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 276173,
       "name": "Helena Beat",
       "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 222453,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 187253,
       "name": "Junk Of The Heart (Happy)",
       "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
@@ -1057,6 +1057,24 @@
       "duration_ms": 223186,
       "name": "Kangaroo Court",
       "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
+    },
+    {
+      "album": {
+        "name": "Kelowna",
+        "url": "https://open.spotify.com/album/0NMwOGpgvV8c4C2z68jFZQ"
+      },
+      "artists": [
+        {
+          "name": "Go Hawaii",
+          "url": "https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197963,
+      "name": "Kelowna",
+      "url": "https://open.spotify.com/track/0xWuiWTWTJP70RRkJnRVt4"
     },
     {
       "album": {
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 250453,
       "name": "Temple",
       "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"

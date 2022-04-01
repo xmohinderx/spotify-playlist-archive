@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Ehla",
+  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 143853,
       "name": "bedroom walls",
       "url": "https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8"
@@ -1385,6 +1385,24 @@
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB"
+    },
+    {
+      "album": {
+        "name": "Ultra Dramatic Kid",
+        "url": "https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD"
+      },
+      "artists": [
+        {
+          "name": "Muddy Monk",
+          "url": "https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Soldat Boy",
+      "url": "https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX"
     },
     {
       "album": {

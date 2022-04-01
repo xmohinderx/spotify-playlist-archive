@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,489 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,532 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 79 | [These Words](https://open.spotify.com/track/6QLU1GKy2Zh2mOh2uoJ0TV) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 3:36 |
 | 80 | [Human](https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d) | 4:05 |
 
-Snapshot ID: `MTY0ODY4ODI3OSwwMDAwMDAwMDg1NGFhNjYzMWNiM2MyMzNhZDJkZmRjNDkyYmM2OGZh`
+Snapshot ID: `MTY0ODc3NTEyNywwMDAwMDAwMDg1NGFhNjYzMWNiM2MyMzNhZDJkZmRjNDkyYmM2OGZh`

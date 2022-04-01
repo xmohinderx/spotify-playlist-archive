@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,066 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,090 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 49 | [Tapping ASMR aerosol](https://open.spotify.com/track/0ybRKHesiU6m6Ut5cBowrC) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Tapping ASMR](https://open.spotify.com/album/6NFYxi0HDPL3PmdkZ5cEFm) | 2:24 |
 | 50 | [Jean Scratching ASMR, Pt\. 3](https://open.spotify.com/track/40OkFvmCdly8gjuWdUMesv) | [Lisa ASMR](https://open.spotify.com/artist/1wCkck4gRunTrFmKZURDmZ) | [Jean Scratching ASMR](https://open.spotify.com/album/4hRlY2pHkkYgRb5FHCkz0u) | 5:36 |
 
-Snapshot ID: `MTY0ODY4NzgyOCwwMDAwMDAwMDYzMzQwMGQ2ZDA3NjhkMzZmMzFjNDgzNjJhOGU0ZWNl`
+Snapshot ID: `MTY0ODc3NDY2MywwMDAwMDAwMDYzMzQwMGQ2ZDA3NjhkMzZmMzFjNDgzNjJhOGU0ZWNl`

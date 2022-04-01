@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Hey, this is <a href="https://www.instagram.com/steveaoki/">Steve Aoki</a> and these are some of my favorite tracks to play while gaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,215 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,271 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 49 | [Warriors](https://open.spotify.com/track/1lgN0A2Vki2FTON5PYq42m) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:50 |
 | 50 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 |
 
-Snapshot ID: `MTY0NTE2MDUyMCwwMDAwMDAxOTAwMDAwMTdmMGIzNTU5YWIwMDAwMDE3ZjAzODdhOGEw`
+Snapshot ID: `MTY0ODc1ODg0NywwMDAwMDAxYzAwMDAwMTdmZTFhZjc5MzEwMDAwMDE3ZjAzODdhOGEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,511 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,643 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 49 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/4fDMVI79jXH7S26uawPeXL) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 3:49 |
 | 50 | [De Janeiro a Janeiro](https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua](https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm) | 3:10 |
 
-Snapshot ID: `MTY0ODY4ODM3MywwMDAwMDAwMDliZWEyYWVkYjQ4Njk5YjJhM2EwMTc0YTgxYWI0ODVh`
+Snapshot ID: `MTY0ODc3NTIyNCwwMDAwMDAwMDliZWEyYWVkYjQ4Njk5YjJhM2EwMTc0YTgxYWI0ODVh`

@@ -1,31 +1,31 @@
 {
-  "description": "The best French indie tracks right now. Cover: Ehla",
-  "num_followers": 293300,
+  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
+  "num_followers": 293472,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE2MjgwMCwwMDAwMDFmYTAwMDAwMTdmYmUyODgyNDgwMDAwMDE3ZmFkN2QxNWI3",
+  "snapshot_id": "MTY0ODc2NDAwMCwwMDAwMDFmYjAwMDAwMTdmZTFmZTE3YWEwMDAwMDE3ZmQxM2U4OTZk",
   "tracks": [
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Pas d'ici",
-        "url": "https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU"
+        "name": "Mon c\u0153ur",
+        "url": "https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf"
       },
       "artists": [
         {
-          "name": "Ehla",
-          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
         }
       ],
-      "duration_ms": 217077,
-      "name": "Pas d'ici",
-      "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
+      "duration_ms": 198921,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Pas d'ici",
+        "url": "https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU"
+      },
+      "artists": [
+        {
+          "name": "Ehla",
+          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Pas d'ici",
+      "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "La flemme",
         "url": "https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Tomber sur toi",
-        "url": "https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Tomber sur toi",
-      "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
@@ -93,39 +93,23 @@
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Mon c\u0153ur",
-        "url": "https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf"
+        "name": "Tomber sur toi",
+        "url": "https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv"
       },
       "artists": [
         {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
         }
       ],
-      "duration_ms": 198921,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL"
+      "duration_ms": 254973,
+      "name": "Tomber sur toi",
+      "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "M\u00e9dicament",
-        "url": "https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j"
-      },
-      "artists": [
-        {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
-        }
-      ],
-      "duration_ms": 202985,
-      "name": "M\u00e9dicament",
-      "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Mauvaises habitudes",
         "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "M\u00e9dicament",
+        "url": "https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "duration_ms": 202985,
+      "name": "M\u00e9dicament",
+      "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Dr\u00f4le d'id\u00e9e",
         "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "La vie de tous les jours",
-        "url": "https://open.spotify.com/album/6rvl6pe5E3uCMZPzLKQJO8"
-      },
-      "artists": [
-        {
-          "name": "Jacques",
-          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "La vie de tous les jours",
-      "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Allo r\u00e9seau (Edit)",
         "url": "https://open.spotify.com/album/5QwhFSw4107w2onum379QT"
@@ -189,7 +173,39 @@
       "url": "https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "La vie de tous les jours",
+        "url": "https://open.spotify.com/album/6rvl6pe5E3uCMZPzLKQJO8"
+      },
+      "artists": [
+        {
+          "name": "Jacques",
+          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "La vie de tous les jours",
+      "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Sign In - EP",
+        "url": "https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "duration_ms": 214494,
+      "name": "En Douce",
+      "url": "https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Say Yes, Say No",
         "url": "https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr"
@@ -205,55 +221,39 @@
       "url": "https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Toi & moi (Edit)",
-        "url": "https://open.spotify.com/album/3brOAQNbUUmMryZeP8nLvK"
+        "name": ":):",
+        "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
       },
       "artists": [
         {
-          "name": "Cabale",
-          "url": "https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit"
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
         }
       ],
-      "duration_ms": 186460,
-      "name": "Toi & moi - Edit",
-      "url": "https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn"
+      "duration_ms": 170600,
+      "name": "JVP",
+      "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr"
+        "name": "Ultra Dramatic Kid",
+        "url": "https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD"
       },
       "artists": [
         {
-          "name": "Canine",
-          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+          "name": "Muddy Monk",
+          "url": "https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib"
         }
       ],
-      "duration_ms": 196216,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc"
+      "duration_ms": 215986,
+      "name": "Soldat Boy",
+      "url": "https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Masque d'or",
-        "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
-      },
-      "artists": [
-        {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Ma plus belle aventure",
         "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
@@ -269,7 +269,119 @@
       "url": "https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/51xm7ThW7RFWFequh489x2"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Toi & moi (Edit)",
+        "url": "https://open.spotify.com/album/3brOAQNbUUmMryZeP8nLvK"
+      },
+      "artists": [
+        {
+          "name": "Cabale",
+          "url": "https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit"
+        }
+      ],
+      "duration_ms": 186460,
+      "name": "Toi & moi - Edit",
+      "url": "https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Disco Dream",
+        "url": "https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi"
+      },
+      "artists": [
+        {
+          "name": "Toukan Touk\u00e4n",
+          "url": "https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Disco Dream",
+      "url": "https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Un coup de g\u00e9nie",
+        "url": "https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "duration_ms": 192979,
+      "name": "Un coup de g\u00e9nie",
+      "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Masque d'or",
+        "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "le moment pr\u00e9sent",
+        "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lodie Lauret",
+          "url": "https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "le moment pr\u00e9sent",
+      "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "La Cigarette",
         "url": "https://open.spotify.com/album/0ARlPPW0bGaasKWzcZC9Px"
@@ -293,123 +405,7 @@
       "url": "https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Sign In - EP",
-        "url": "https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG"
-      },
-      "artists": [
-        {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
-        }
-      ],
-      "duration_ms": 214494,
-      "name": "En Douce",
-      "url": "https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC"
-      },
-      "artists": [
-        {
-          "name": "Owlle",
-          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/51xm7ThW7RFWFequh489x2"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY"
-      },
-      "artists": [
-        {
-          "name": "Kids Return",
-          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Un coup de g\u00e9nie",
-        "url": "https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte"
-      },
-      "artists": [
-        {
-          "name": "Dani Terreur",
-          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
-        }
-      ],
-      "duration_ms": 192979,
-      "name": "Un coup de g\u00e9nie",
-      "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "CAMISOLE",
-        "url": "https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP"
-      },
-      "artists": [
-        {
-          "name": "BARON.E",
-          "url": "https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "CAMISOLE",
-      "url": "https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Le coeur en panne",
-        "url": "https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2"
-      },
-      "artists": [
-        {
-          "name": "Toboggan",
-          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Le coeur en panne",
-      "url": "https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Distant Calls",
-        "url": "https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN"
-      },
-      "artists": [
-        {
-          "name": "Ed Mount",
-          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
-        },
-        {
-          "name": "Flore Benguigui",
-          "url": "https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw"
-        }
-      ],
-      "duration_ms": 164823,
-      "name": "Distant Calls",
-      "url": "https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "La vie",
         "url": "https://open.spotify.com/album/5Yzl89RbU3zOUbiZW64mxp"
@@ -425,7 +421,7 @@
       "url": "https://open.spotify.com/track/7Gwg7eWok40tJuNfQEioFm"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Comment tu vas finir",
         "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
@@ -441,219 +437,7 @@
       "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "L'Extase",
-        "url": "https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy"
-      },
-      "artists": [
-        {
-          "name": "Pirogue",
-          "url": "https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L"
-        }
-      ],
-      "duration_ms": 261359,
-      "name": "L'Extase",
-      "url": "https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "La Lumi\u00e8re",
-        "url": "https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC"
-      },
-      "artists": [
-        {
-          "name": "Aprile",
-          "url": "https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P"
-        },
-        {
-          "name": "Ehla",
-          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "La Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Pesanteur",
-        "url": "https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ"
-      },
-      "artists": [
-        {
-          "name": "Poppy Fus\u00e9e",
-          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
-        }
-      ],
-      "duration_ms": 156740,
-      "name": "Pesanteur",
-      "url": "https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "D\u00e9fense",
-        "url": "https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq"
-      },
-      "artists": [
-        {
-          "name": "Oete",
-          "url": "https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "D\u00e9fense",
-      "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Petit Poucet",
-        "url": "https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap"
-      },
-      "artists": [
-        {
-          "name": "Saint Michel",
-          "url": "https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Petit Poucet",
-      "url": "https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "le moment pr\u00e9sent",
-        "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lodie Lauret",
-          "url": "https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "le moment pr\u00e9sent",
-      "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Space Trip",
-        "url": "https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU"
-      },
-      "artists": [
-        {
-          "name": "Abel Ch\u00e9ret",
-          "url": "https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Space Trip",
-      "url": "https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Disco Dream",
-        "url": "https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi"
-      },
-      "artists": [
-        {
-          "name": "Toukan Touk\u00e4n",
-          "url": "https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Disco Dream",
-      "url": "https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Flashdance",
-        "url": "https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg"
-      },
-      "artists": [
-        {
-          "name": "Antonin Appaix",
-          "url": "https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Flashdance",
-      "url": "https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Bloqu\u00e9",
-        "url": "https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9t\u00e9o Mirage",
-          "url": "https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Bloqu\u00e9",
-      "url": "https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Premier Incendie (Edit)",
-        "url": "https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv"
-      },
-      "artists": [
-        {
-          "name": "MAGENTA",
-          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Premier Incendie - Edit",
-      "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Nostalgique",
-        "url": "https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3"
-      },
-      "artists": [
-        {
-          "name": "Petit Nuage",
-          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
-        }
-      ],
-      "duration_ms": 166567,
-      "name": "Nostalgique",
-      "url": "https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Mama Forgot Her Name Was Miracle",
-        "url": "https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H"
-      },
-      "artists": [
-        {
-          "name": "Melissa Laveaux",
-          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
-        }
-      ],
-      "duration_ms": 227773,
-      "name": "La Baleine",
-      "url": "https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
@@ -673,55 +457,39 @@
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": ":):",
-        "url": "https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m"
+        "name": "Pesanteur",
+        "url": "https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ"
       },
       "artists": [
         {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
         }
       ],
-      "duration_ms": 170600,
-      "name": "JVP",
-      "url": "https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T"
+      "duration_ms": 156740,
+      "name": "Pesanteur",
+      "url": "https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E"
+        "name": "L'Extase",
+        "url": "https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy"
       },
       "artists": [
         {
-          "name": "Tample",
-          "url": "https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ"
+          "name": "Pirogue",
+          "url": "https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Last September",
-      "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
+      "duration_ms": 261359,
+      "name": "L'Extase",
+      "url": "https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "Bye-Bye Baby",
-        "url": "https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD"
-      },
-      "artists": [
-        {
-          "name": "PHILEMONE",
-          "url": "https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4"
-        }
-      ],
-      "duration_ms": 177138,
-      "name": "Bye-Bye Baby",
-      "url": "https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt"
-    },
-    {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Sonic Poems",
         "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
@@ -741,71 +509,223 @@
       "url": "https://open.spotify.com/track/7wKs9pd54ChcpRCn0ZvMZy"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Looking Backward",
-        "url": "https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx"
+        "name": "Le coeur en panne",
+        "url": "https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Toboggan",
+          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
         }
       ],
-      "duration_ms": 201720,
-      "name": "Looking Backward",
-      "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+      "duration_ms": 204328,
+      "name": "Le coeur en panne",
+      "url": "https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Postcards & Letters",
-        "url": "https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv"
+        "name": "Distant Calls",
+        "url": "https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN"
       },
       "artists": [
         {
-          "name": "Superjava",
-          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "Flore Benguigui",
+          "url": "https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw"
         }
       ],
-      "duration_ms": 243409,
-      "name": "Postcards & Letters",
-      "url": "https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR"
+      "duration_ms": 164823,
+      "name": "Distant Calls",
+      "url": "https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/701cjd2rHs91n8kog79dzm"
+        "name": "Flashdance",
+        "url": "https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg"
       },
       "artists": [
         {
-          "name": "My Dear",
-          "url": "https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB"
+          "name": "Antonin Appaix",
+          "url": "https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj"
         }
       ],
-      "duration_ms": 180126,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT"
+      "duration_ms": 186893,
+      "name": "Flashdance",
+      "url": "https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "Dictators",
-        "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E"
       },
       "artists": [
         {
-          "name": "Edg\u00e4r",
-          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+          "name": "Tample",
+          "url": "https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Dictators",
-      "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
+      "duration_ms": 190866,
+      "name": "Last September",
+      "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Space Trip",
+        "url": "https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU"
+      },
+      "artists": [
+        {
+          "name": "Abel Ch\u00e9ret",
+          "url": "https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Space Trip",
+      "url": "https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Bye-Bye Baby",
+        "url": "https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD"
+      },
+      "artists": [
+        {
+          "name": "PHILEMONE",
+          "url": "https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4"
+        }
+      ],
+      "duration_ms": 177138,
+      "name": "Bye-Bye Baby",
+      "url": "https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "D\u00e9fense",
+        "url": "https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq"
+      },
+      "artists": [
+        {
+          "name": "Oete",
+          "url": "https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "D\u00e9fense",
+      "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "CAMISOLE",
+        "url": "https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP"
+      },
+      "artists": [
+        {
+          "name": "BARON.E",
+          "url": "https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "CAMISOLE",
+      "url": "https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Nostalgique",
+        "url": "https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3"
+      },
+      "artists": [
+        {
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
+        }
+      ],
+      "duration_ms": 166567,
+      "name": "Nostalgique",
+      "url": "https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Premier Incendie (Edit)",
+        "url": "https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Premier Incendie - Edit",
+      "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC"
+      },
+      "artists": [
+        {
+          "name": "Aprile",
+          "url": "https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P"
+        },
+        {
+          "name": "Ehla",
+          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "La Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Petit Poucet",
+        "url": "https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap"
+      },
+      "artists": [
+        {
+          "name": "Saint Michel",
+          "url": "https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Petit Poucet",
+      "url": "https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Bloqu\u00e9",
+        "url": "https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9t\u00e9o Mirage",
+          "url": "https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc"
+        }
+      ],
+      "duration_ms": 191499,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
       "album": {
         "name": "Breakup Songs (Extended)",
         "url": "https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ"
@@ -821,20 +741,100 @@
       "url": "https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-03-31 22:00:00",
       "album": {
-        "name": "bedroom walls",
-        "url": "https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U"
+        "name": "Dictators",
+        "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
       },
       "artists": [
         {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
         }
       ],
-      "duration_ms": 143853,
-      "name": "bedroom walls",
-      "url": "https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8"
+      "duration_ms": 198040,
+      "name": "Dictators",
+      "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Looking Backward",
+        "url": "https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Looking Backward",
+      "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Postcards & Letters",
+        "url": "https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv"
+      },
+      "artists": [
+        {
+          "name": "Superjava",
+          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
+        }
+      ],
+      "duration_ms": 243409,
+      "name": "Postcards & Letters",
+      "url": "https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/701cjd2rHs91n8kog79dzm"
+      },
+      "artists": [
+        {
+          "name": "My Dear",
+          "url": "https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB"
+        }
+      ],
+      "duration_ms": 180126,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT"
+    },
+    {
+      "added_at": "2022-03-31 22:00:00",
+      "album": {
+        "name": "Mama Forgot Her Name Was Miracle",
+        "url": "https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H"
+      },
+      "artists": [
+        {
+          "name": "Melissa Laveaux",
+          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
+        }
+      ],
+      "duration_ms": 227773,
+      "name": "La Baleine",
+      "url": "https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp"
     }
   ],
   "unique_name": "Made in France",

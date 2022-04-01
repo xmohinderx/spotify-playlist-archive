@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Kai Landre, Artwork: Thami Nabil",
+  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: 72-HOUR POST FIGHT Artwork: Thami Nabil",
   "name": "Fresh Finds Experimental",
   "published_playlist_ids": [
     "7vHfjk9LwMkQlbKUYS7lDl"
@@ -7382,6 +7382,24 @@
     },
     {
       "album": {
+        "name": "MADE OF CLAY",
+        "url": "https://open.spotify.com/album/2MDOJO9U0igiRAr11hirtH"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "MADE OF CLAY",
+      "url": "https://open.spotify.com/track/7FEd0fYhvhMsBgxFmz0SlU"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/0kqdpr9PmvVLEdGuv0gQql"
       },
@@ -8375,7 +8393,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 293193,
       "name": "Mouse - Leafcutter John Remix",
       "url": "https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU"

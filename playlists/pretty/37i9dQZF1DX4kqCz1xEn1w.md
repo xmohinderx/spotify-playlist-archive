@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,323 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,518 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 79 | [Isaiah 53:1\-6 \(Profession\)](https://open.spotify.com/track/1oOcb0Dzkr3MMmXqBhNFOh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 2:00 |
 | 80 | [Jesus Only You](https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Jesus Only You](https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy) | 4:43 |
 
-Snapshot ID: `MTY0ODY4ODE1NCwwMDAwMDAwMDEzZGY1MDhmYzc5YzQzZWUzNTNiZGU3ODIzMDcyNmY2`
+Snapshot ID: `MTY0ODc3NDk5OCwwMDAwMDAwMDEzZGY1MDhmYzc5YzQzZWUzNTNiZGU3ODIzMDcyNmY2`

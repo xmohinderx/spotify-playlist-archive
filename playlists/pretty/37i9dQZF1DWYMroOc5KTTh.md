@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,921 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,183 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Bubbles \(feat\. Martin Rott\)](https://open.spotify.com/track/5W4vK6pgU2JTzbsI6mRV44) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Martin Rott](https://open.spotify.com/artist/2qhPgYIoY3Shygka4euB1J) | [Bubbles \(feat\. Martin Rott\)](https://open.spotify.com/album/1R3s7li4wzaPizas2FpSra) | 3:38 |
 | 50 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 |
 
-Snapshot ID: `MTY0ODY4Nzk1NywwMDAwMDAwMDc0NzE4MWZiYTE1ZmZmMjYyMTVlZTc4MDRkNGJmOGIy`
+Snapshot ID: `MTY0ODc3NDc5MiwwMDAwMDAwMDc0NzE4MWZiYTE1ZmZmMjYyMTVlZTc4MDRkNGJmOGIy`

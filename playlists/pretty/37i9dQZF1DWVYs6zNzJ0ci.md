@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,220 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,327 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 |
 | 100 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
 
-Snapshot ID: `MTY0ODY4Nzg2NiwwMDAwMDAwMDk1MmRmNWNlNjg1NzI2Mjc5NGQ2OGVjY2E4NDUxMzcz`
+Snapshot ID: `MTY0ODc3NDcwMCwwMDAwMDAwMDk1MmRmNWNlNjg1NzI2Mjc5NGQ2OGVjY2E4NDUxMzcz`

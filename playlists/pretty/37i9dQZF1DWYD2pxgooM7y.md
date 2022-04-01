@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,503 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,509 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [Future Ghost \(feat\. Violette Wautier\)](https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Future Ghost \(feat\. Violette Wautier\)](https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH) | 2:56 |
 | 60 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
 
-Snapshot ID: `MTY0ODY4Nzk1NCwwMDAwMDAwMDhmZjJhMGI0MzFiOWYxNjY5MjJiMzY5MWY4YzEyYTgx`
+Snapshot ID: `MTY0ODc3NDc4OSwwMDAwMDAwMDhmZjJhMGI0MzFiOWYxNjY5MjJiMzY5MWY4YzEyYTgx`

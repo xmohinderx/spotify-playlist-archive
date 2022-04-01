@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Every song with over 1 billion streams on Spotify. Cover: Bruno Mars",
+  "description": "Every song with over 1 billion streams on Spotify. Cover: Ten time billionaire - Ed Sheeran!",
   "name": "BILLIONS CLUB",
   "published_playlist_ids": [
     "0C0sQRzxdwWHDf74RbiLwr"
@@ -287,6 +287,24 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "album": {

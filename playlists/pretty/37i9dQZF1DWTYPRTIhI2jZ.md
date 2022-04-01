@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,911 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,955 likes - 49 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

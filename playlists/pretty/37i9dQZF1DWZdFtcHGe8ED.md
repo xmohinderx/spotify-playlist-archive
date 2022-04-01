@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,750 likes - 120 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,808 likes - 120 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
 | 120 | [False Prophet](https://open.spotify.com/track/3Ych9a6MRd6LNs1uHyoyoU) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:54 |
 
-Snapshot ID: `MTY0ODY4Nzk5MCwwMDAwMDAwMDRjNTQwNTlkNmJjYTdkMzFhOWY4MzBhYzViNmQyMWJi`
+Snapshot ID: `MTY0ODc3NDgzMSwwMDAwMDAwMDRjNTQwNTlkNmJjYTdkMzFhOWY4MzBhYzViNmQyMWJi`

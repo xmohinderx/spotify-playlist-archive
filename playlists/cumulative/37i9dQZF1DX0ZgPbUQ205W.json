@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 278680,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
@@ -1092,6 +1092,28 @@
     },
     {
       "album": {
+        "name": "motives",
+        "url": "https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW"
+      },
+      "artists": [
+        {
+          "name": "praam",
+          "url": "https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP"
+        },
+        {
+          "name": "Eric Vloeimans",
+          "url": "https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "motives",
+      "url": "https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W"
+    },
+    {
+      "album": {
         "name": "\u00c1n tillits",
         "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
@@ -1842,6 +1864,24 @@
     },
     {
       "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "The Endless Grace",
+      "url": "https://open.spotify.com/track/5ORB0k2kxwmVoe585bOnVY"
+    },
+    {
+      "album": {
         "name": "The Frame",
         "url": "https://open.spotify.com/album/6fWlxYzFHJOuWlHF7waW9U"
       },
@@ -2177,7 +2217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 340906,
       "name": "Wait Till You See Her",
       "url": "https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF"

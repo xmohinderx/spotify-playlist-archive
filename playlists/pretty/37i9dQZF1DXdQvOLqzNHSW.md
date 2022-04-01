@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,482 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,492 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 74 | [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 |
 | 75 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 |
 
-Snapshot ID: `MTY0ODY4ODQxMywwMDAwMDAwMGU0MDNjM2YzYjc1NDIwNzNiMGI1ODIyNDQ3MTdkMDE0`
+Snapshot ID: `MTY0ODc3NTI2NywwMDAwMDAwMGU0MDNjM2YzYjc1NDIwNzNiMGI1ODIyNDQ3MTdkMDE0`

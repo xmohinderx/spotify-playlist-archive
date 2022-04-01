@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 234000,
       "name": "Booty",
       "url": "https://open.spotify.com/track/65UIlTRzrG5i3RgzA0ZowY"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 233592,
       "name": "Chamama na Chababa",
       "url": "https://open.spotify.com/track/55GLpuHw0JxdHJMXcHTjgH"
@@ -1116,6 +1116,32 @@
     },
     {
       "album": {
+        "name": "Kichwa Mbaya",
+        "url": "https://open.spotify.com/album/1Kv8fIpt2TjmXGshsbljT6"
+      },
+      "artists": [
+        {
+          "name": "Spice Entertainment",
+          "url": "https://open.spotify.com/artist/7eNGiqYytcIcklJCUt5AaS"
+        },
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Odi Wa Murang'a",
+          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220728,
+      "name": "Kichwa Mbaya",
+      "url": "https://open.spotify.com/track/3Y5PWzTgcRSXZvSalMnjyK"
+    },
+    {
+      "album": {
         "name": "Kichwa Tu",
         "url": "https://open.spotify.com/album/1rPCZOiQhea0Stg1h0MClO"
       },
@@ -1397,7 +1423,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 259200,
       "name": "Lazima Ibambe",
       "url": "https://open.spotify.com/track/3bvNYB78FUEGb90a36gPM6"
@@ -2318,6 +2344,32 @@
     },
     {
       "album": {
+        "name": "Sam C",
+        "url": "https://open.spotify.com/album/5DwRtZXNI08ZpfiBntPJDB"
+      },
+      "artists": [
+        {
+          "name": "Bobo Nyosto",
+          "url": "https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc"
+        },
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253805,
+      "name": "Sam C",
+      "url": "https://open.spotify.com/track/4G25B9mTnR1d8iModqREIs"
+    },
+    {
+      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -2901,6 +2953,28 @@
       "duration_ms": 176842,
       "name": "Tupewe Pombe",
       "url": "https://open.spotify.com/track/7JpBD6OU5gJklnGdGgNIY3"
+    },
+    {
+      "album": {
+        "name": "Twak Makende",
+        "url": "https://open.spotify.com/album/4eCoG9iGJDKLTFsYIMnHxO"
+      },
+      "artists": [
+        {
+          "name": "Gabiro Mtu Necessary",
+          "url": "https://open.spotify.com/artist/4kiTJr5wVxVmwFZwpAKYjx"
+        },
+        {
+          "name": "OnlyOneDelo",
+          "url": "https://open.spotify.com/artist/3LYeloSKoUiWFWoeYweFrx"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "Twak Makende",
+      "url": "https://open.spotify.com/track/6uN91iAMK7IeIBiptaTcpX"
     },
     {
       "album": {

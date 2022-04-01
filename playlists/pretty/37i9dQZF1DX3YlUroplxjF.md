@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,020 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,105 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 |
 | 100 | [Alone In A Room](https://open.spotify.com/track/0hAIs32U2SmJcXymlcyF8h) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 4:05 |
 
-Snapshot ID: `MTY0ODY4ODEyMCwwMDAwMDAwMGRmN2ZhNTFjMDBmMjA0MTNhYzM4MzkzNzdjZDI4ZTdi`
+Snapshot ID: `MTY0ODc3NDk2MywwMDAwMDAwMGRmN2ZhNTFjMDBmMjA0MTNhYzM4MzkzNzdjZDI4ZTdi`

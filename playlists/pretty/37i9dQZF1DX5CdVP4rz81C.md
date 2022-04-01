@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,233 likes - 97 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,762 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Uffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,314 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,395 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Bump \- Switch Remix](https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi) | [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Bump](https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec) | 7:27 |
 | 75 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 
-Snapshot ID: `MTY0ODY4Nzc4OSwwMDAwMDAwMDMxMTFlZmU2MDYyNTNmZTZlZDMxNDg5YWY3NGMyYzAw`
+Snapshot ID: `MTY0ODc3NDYyMiwwMDAwMDAwMDMxMTFlZmU2MDYyNTNmZTZlZDMxNDg5YWY3NGMyYzAw`

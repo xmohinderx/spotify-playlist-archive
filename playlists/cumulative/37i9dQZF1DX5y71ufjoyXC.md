@@ -2,7 +2,7 @@
 
 ### [Viral Latino](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
 
-> The Latin viral tracks you'll wanna listen to\. Cover: Danny Ocean
+> The Latin viral tracks you'll wanna listen to\. Cover: FMK, Tiago PZK, Mau y Ricky
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

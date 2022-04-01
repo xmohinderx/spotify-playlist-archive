@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,127 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,132 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 |
 | 80 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 
-Snapshot ID: `MTY0ODY4ODQwOSwwMDAwMDAwMGNjZDk5NTlmOTdmMDhhYzljMTVmNjE3MmE5MGVmN2Qw`
+Snapshot ID: `MTY0ODc3NTI2MCwwMDAwMDAwMGNjZDk5NTlmOTdmMDhhYzljMTVmNjE3MmE5MGVmN2Qw`

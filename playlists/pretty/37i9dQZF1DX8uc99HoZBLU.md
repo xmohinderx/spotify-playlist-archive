@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,204 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,439 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 |
 | 75 | [Departure](https://open.spotify.com/track/1Po0dg35r4Jjd0EJ3sFuzE) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Departure](https://open.spotify.com/album/2hG5ch1xgD7H28qpLPI00D) | 4:38 |
 
-Snapshot ID: `MTY0ODY4ODI4NCwwMDAwMDAwMGY2ZmJiMDRkOGUxZjk1YTcwYjY0YzEwOGFlZGU3M2Uz`
+Snapshot ID: `MTY0ODc3NTEzMiwwMDAwMDAwMGY2ZmJiMDRkOGUxZjk1YTcwYjY0YzEwOGFlZGU3M2Uz`

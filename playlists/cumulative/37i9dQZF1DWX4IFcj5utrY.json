@@ -388,6 +388,28 @@
     },
     {
       "album": {
+        "name": "All In You",
+        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Kemy Chienda",
+          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512182,
+      "name": "All In You",
+      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
+    },
+    {
+      "album": {
         "name": "All of This Remixes, Vol. 2",
         "url": "https://open.spotify.com/album/4kMV75bbEkiTRDne9xbqa8"
       },
@@ -855,6 +877,24 @@
       "duration_ms": 399305,
       "name": "Black Orchid",
       "url": "https://open.spotify.com/track/1oj1JbhuEz5TDPWq8PZHwi"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/2D9PeOZlJdQzsHj8mBDCmf"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418294,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/55ly3wrbbXAkcESyAQvU0k"
     },
     {
       "album": {
@@ -1373,6 +1413,24 @@
       "duration_ms": 245853,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/7gZjrSQQoog5BGBz5VaKxU"
+    },
+    {
+      "album": {
+        "name": "Diana EP",
+        "url": "https://open.spotify.com/album/2Rfoeu1Jmc5bKOPEDSx0f8"
+      },
+      "artists": [
+        {
+          "name": "Andrew Benson",
+          "url": "https://open.spotify.com/artist/1fT2Jb00KHxPRJQiXK4Z05"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/3sHdLLZBw0g53pUTVF6UOD"
     },
     {
       "album": {
@@ -2124,6 +2182,32 @@
     },
     {
       "album": {
+        "name": "I Got What You Need",
+        "url": "https://open.spotify.com/album/0yM7qJvEEFiQLvvwjSGsgn"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/4p39dCqbYKs08dyYzARSIv"
+        },
+        {
+          "name": "Robert James Quinn",
+          "url": "https://open.spotify.com/artist/7iWXSHEZ5uycEl7uyDpWEJ"
+        },
+        {
+          "name": "OTS",
+          "url": "https://open.spotify.com/artist/4yPyDBy8hOOWKjOS3CYOaw"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "I Got What You Need",
+      "url": "https://open.spotify.com/track/2FQMAFFoynYKyh6N2eSDf8"
+    },
+    {
+      "album": {
         "name": "I realy loved you",
         "url": "https://open.spotify.com/album/5GrvQpWQtHenxerenONY1O"
       },
@@ -2279,6 +2363,32 @@
       "duration_ms": 361000,
       "name": "Imbizo - Da Capo's Touch",
       "url": "https://open.spotify.com/track/2sJUzx4utOjz2tPFtZ18yt"
+    },
+    {
+      "album": {
+        "name": "Imbongi (feat. Lizwi)",
+        "url": "https://open.spotify.com/album/1BZe7BNEo6WhTPMHrqXOng"
+      },
+      "artists": [
+        {
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+        },
+        {
+          "name": "Mr. Silk",
+          "url": "https://open.spotify.com/artist/0GyXGNOrDuxYQgwTOYyaO7"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246228,
+      "name": "Imbongi (feat. Lizwi)",
+      "url": "https://open.spotify.com/track/3m7RFi0UbKLzQFUR9R6G70"
     },
     {
       "album": {
@@ -2763,7 +2873,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 367328,
       "name": "Kore - Main HT",
       "url": "https://open.spotify.com/track/5HJzGP0mO4gBENsUlYGc5q"
@@ -3184,6 +3294,24 @@
     },
     {
       "album": {
+        "name": "Man & The Town",
+        "url": "https://open.spotify.com/album/6BIAmgfFjQZ1XxsUYkHr1X"
+      },
+      "artists": [
+        {
+          "name": "Sam Mkhize",
+          "url": "https://open.spotify.com/artist/3WPfOxU57W05N5Vt6JPBvm"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305322,
+      "name": "Man & The Town",
+      "url": "https://open.spotify.com/track/1RLMea9y0UUdl0IFEy8U7z"
+    },
+    {
+      "album": {
         "name": "Marrabenta (P\u00e9s Pretos) [Kid Fonque Remix]",
         "url": "https://open.spotify.com/album/4wS6LyZ1szHKvc8ta40ZWE"
       },
@@ -3401,6 +3529,28 @@
       "duration_ms": 248000,
       "name": "Misava",
       "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
+    },
+    {
+      "album": {
+        "name": "Missing Love",
+        "url": "https://open.spotify.com/album/2FGYEtSmFgRx9zsVxTA21Q"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Bobby Saint",
+          "url": "https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Missing Love - Afro Soul",
+      "url": "https://open.spotify.com/track/0QC5rHEVlSwljHrgLazZZS"
     },
     {
       "album": {
@@ -4473,7 +4623,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 450491,
       "name": "Similani - Kreative Nativez Remix",
       "url": "https://open.spotify.com/track/2L5VO6RygYk1TGaTyQPwYf"
@@ -4845,7 +4995,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 442831,
       "name": "Thongo Lam - Original Mix",
       "url": "https://open.spotify.com/track/3iDX3Zmdp595I0RsFeIada"
@@ -4937,6 +5087,28 @@
       "duration_ms": 435652,
       "name": "Tshinela - Fka Mash Re-Glitch",
       "url": "https://open.spotify.com/track/0GHuC1j5UuT3iJbSjgpU9p"
+    },
+    {
+      "album": {
+        "name": "Tsuka Tsuka",
+        "url": "https://open.spotify.com/album/3ENaRHT1b2yNjvCLtRBiXS"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        },
+        {
+          "name": "Unit EM",
+          "url": "https://open.spotify.com/artist/2q5CyUPskcVaYP0KDKZDPy"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419683,
+      "name": "Tsuka Tsuka",
+      "url": "https://open.spotify.com/track/0EqxRG8q5KNZpY0PtKxw6j"
     },
     {
       "album": {
@@ -5175,7 +5347,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 271826,
       "name": "Viper - Card On Spokes Remix",
       "url": "https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO"
@@ -5273,6 +5445,28 @@
       "duration_ms": 240114,
       "name": "Weekend Special (with Brenda Fassie) - Shimza Remix Edit",
       "url": "https://open.spotify.com/track/1MkPykZ3pYXdjaz5PwjAQE"
+    },
+    {
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/5PH3Ws4RqDTvn3DpVudjCN"
+      },
+      "artists": [
+        {
+          "name": "Lady X",
+          "url": "https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum"
+        },
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308571,
+      "name": "Wela",
+      "url": "https://open.spotify.com/track/29ptLNTipEICSl5SETgySw"
     },
     {
       "album": {

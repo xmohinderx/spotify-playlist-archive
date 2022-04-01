@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Ghost on top of the biggest Metal playlist!",
+  "description": "Lamb of God and Dave Mustaine on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -113,6 +113,24 @@
       "duration_ms": 207573,
       "name": "Break The Silence",
       "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
+    },
+    {
+      "album": {
+        "name": "Immutable",
+        "url": "https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335146,
+      "name": "Broken Cog",
+      "url": "https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn"
     },
     {
       "album": {
@@ -844,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "Hunting Season",
+      "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC"
       },
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 180674,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
@@ -1151,7 +1187,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 229007,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
@@ -1332,6 +1368,28 @@
     },
     {
       "album": {
+        "name": "Only Human (feat. AJ Channer)",
+        "url": "https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "AJ Channer",
+          "url": "https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182963,
+      "name": "Only Human (feat. AJ Channer)",
+      "url": "https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU"
+    },
+    {
+      "album": {
         "name": "Orphan",
         "url": "https://open.spotify.com/album/1PVryA7iRIu5MlIinvQv5G"
       },
@@ -1361,7 +1419,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 202862,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
@@ -1379,7 +1437,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
@@ -1599,6 +1657,24 @@
       "duration_ms": 377695,
       "name": "Sickle and Peace",
       "url": "https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH"
+    },
+    {
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
     },
     {
       "album": {
@@ -1865,10 +1941,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 251000,
       "name": "The Unkillable Soldier",
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "album": {
+        "name": "TURN IT UP LIKE (Stand In The Fire)",
+        "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269314,
+      "name": "TURN IT UP LIKE (Stand In The Fire)",
+      "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
     },
     {
       "album": {
@@ -1977,7 +2071,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 228130,
       "name": "Views From Halfway Down",
       "url": "https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd"
@@ -1999,6 +2093,32 @@
       "duration_ms": 189054,
       "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
       "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
+    },
+    {
+      "album": {
+        "name": "Wake Up Dead (feat. Dave Mustaine)",
+        "url": "https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "name": "Dave Mustaine",
+          "url": "https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Wake Up Dead (feat. Dave Mustaine)",
+      "url": "https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc"
     },
     {
       "album": {

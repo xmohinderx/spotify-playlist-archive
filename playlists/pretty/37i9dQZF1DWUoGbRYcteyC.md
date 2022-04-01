@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,547 likes - 130 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,689 likes - 130 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Nada Es Como Tú \- Acústico](https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Apague la Luz y Escuche](https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN) | 3:30 |
 | 130 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/57x2wvpsHJK0tXLfDJovwc) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/2A4r4bYdXEot2tSi647rAJ) | 3:05 |
 
-Snapshot ID: `MTY0ODY4Nzg0NSwwMDAwMDAwMDkyMWM3OWUyZTM4OThiOWM0OWEyNTJhYjk4MDQ4Njcw`
+Snapshot ID: `MTY0ODc3NDY4MCwwMDAwMDAwMDkyMWM3OWUyZTM4OThiOWM0OWEyNTJhYjk4MDQ4Njcw`

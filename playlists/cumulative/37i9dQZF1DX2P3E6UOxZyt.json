@@ -180,6 +180,24 @@
     },
     {
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/0BMKIpy6FCzDqFTwQldV5z"
+      },
+      "artists": [
+        {
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166163,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/64ZhoHFCA4xEdhuaqdwlGF"
+    },
+    {
+      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 166008,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2NeOlhNFjlGymQiv7BmXoa"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 166500,
       "name": "\u507d\u88dd",
       "url": "https://open.spotify.com/track/4ys0CGJFqvaTONcGaOUST3"
@@ -1061,6 +1079,24 @@
       "duration_ms": 208833,
       "name": "\u524d\u9762\u8f6c\u4e2a\u5f2f",
       "url": "https://open.spotify.com/track/1R5L6GWG5ir4UoiP7sosEp"
+    },
+    {
+      "album": {
+        "name": "\u5361\u4f4f\u4e86",
+        "url": "https://open.spotify.com/album/1rsu3gm5X00NlUqaEBbZP7"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179147,
+      "name": "\u5361\u4f4f\u4e86",
+      "url": "https://open.spotify.com/track/0QlFpakc8R9rWbVpJD8rj4"
     },
     {
       "album": {
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-01",
       "duration_ms": 273000,
       "name": "\u591a\u4e45\u624d\u61c2\u59b3\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4"
@@ -1631,6 +1667,24 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "album": {
+        "name": "\u6230",
+        "url": "https://open.spotify.com/album/2pwg7cIxiYOc2M5lBoCEAq"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u970f",
+          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "\u6230",
+      "url": "https://open.spotify.com/track/0rV6J7qM31GxU9p4Mf7gBd"
     },
     {
       "album": {

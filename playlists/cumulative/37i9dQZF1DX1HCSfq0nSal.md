@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/0eEaxEcjouD8bXoqNOVuIi)
 
-> Si está pegao, está aquí\. Feat\. Alejo, Feid, ROBI
+> Si está pegao, está aquí\. Feat\. Quevedo, Duki, De La Ghetto
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-03 | 2022-02-19 |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2022-01-07 | 2022-02-23 |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-10 |  |
+| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-03-31 |  |
 | [Si Tu Kiere](https://open.spotify.com/track/2pjoPgjETrC1LQm64aVTGp) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4) | [Si Tu Kiere](https://open.spotify.com/album/45h2s1SjuZjuQSzgJ8SzJ3) | 3:00 | 2022-01-17 |  |
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-02-10 | 2022-03-04 |
 | [Su Payita \(Gramos\)](https://open.spotify.com/track/2WPFpC4oQxjBpSgsCoQrCf) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Su Payita \(Gramos\)](https://open.spotify.com/album/2kCottSg9MVr1WU5284qM4) | 2:20 | 2022-01-07 | 2022-01-17 |

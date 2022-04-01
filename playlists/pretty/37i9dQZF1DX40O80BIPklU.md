@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Residente
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,427 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,660 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 |
-| 2 | [23 FEB MADRID FREESTYLE](https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:30 |
-| 3 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 |
-| 4 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
-| 5 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 |
-| 6 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Solo por Vos](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 |
-| 7 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 |
-| 8 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 |
-| 9 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 |
-| 10 | [Dios y La Muerte](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dios y La Muerte](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 |
+| 2 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 |
+| 3 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
+| 4 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 |
+| 5 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Solo por Vos](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 |
+| 6 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 |
+| 7 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 |
+| 8 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 |
+| 9 | [Dios y La Muerte](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dios y La Muerte](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 |
+| 10 | [23 FEB MADRID FREESTYLE](https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:30 |
 | 11 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 |
 | 12 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 |
 | 13 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 59 | [Bitman Shiet](https://open.spotify.com/track/3A1rpugzLtrJ93vpXRyy7Y) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Bitman Shiet](https://open.spotify.com/album/3qP2HaThCH1EhcTZaab9eE) | 3:17 |
 | 60 | [Apago Mi Cel](https://open.spotify.com/track/2rjcAqBiRWot2JCYidIt34) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Apago Mi Cel](https://open.spotify.com/album/1LOmkgHni3CauF0hPAdCsI) | 3:37 |
 
-Snapshot ID: `MTY0ODE4ODAwMCwwMDAwMDE2NjAwMDAwMTdmYmZhOTA3ODEwMDAwMDE3ZmJkZjcwZDYy`
+Snapshot ID: `MTY0ODY5NDQyNiwwMDAwMDE2NzAwMDAwMTdmZGRkODc5ZmYwMDAwMDE3ZmJkZjcwZDYy`

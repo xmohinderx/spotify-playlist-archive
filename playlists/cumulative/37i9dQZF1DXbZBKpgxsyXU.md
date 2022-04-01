@@ -49,5 +49,6 @@
 | [Wherever I Go](https://open.spotify.com/track/0KdwmtG44yIDpyie4b0jCn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wherever I Go](https://open.spotify.com/album/5Chom5Q2CLEqUjdSdroG0K) | 2:50 | 2021-11-12 |  |
 | [Wild Life](https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wild Life](https://open.spotify.com/album/4a1yq8xj6XlZvbCiBvYGsa) | 4:27 | 2021-11-12 |  |
 | [Won't Stop](https://open.spotify.com/track/5ZEY2HUEstaLlhxGoWmzCE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2021-11-12 |  |
+| [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-03-31 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

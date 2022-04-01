@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,421 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,609 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Se Nota En Tus Ojos](https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:16 |
 | 75 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/3AO3bjGFZgqYtlc98APeRA) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/album/1EzAzEdjCQKGKqjpSPfZkk) | 5:08 |
 
-Snapshot ID: `MTY0ODY4Nzk2NCwwMDAwMDAwMDYwMzdkODI0ZGVmMzEzNWE1OTEyZWNkZWUxYTljYmE0`
+Snapshot ID: `MTY0ODc3NDc5OSwwMDAwMDAwMDYwMzdkODI0ZGVmMzEzNWE1OTEyZWNkZWUxYTljYmE0`
