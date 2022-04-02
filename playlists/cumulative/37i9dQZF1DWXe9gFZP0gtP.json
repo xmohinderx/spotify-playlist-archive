@@ -2514,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "Mild",
+        "url": "https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS"
+      },
+      "artists": [
+        {
+          "name": "Brief Moments",
+          "url": "https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "Mild",
+      "url": "https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr"
+    },
+    {
+      "album": {
         "name": "Song for Gabriel",
         "url": "https://open.spotify.com/album/7CUNSCyEihuSYjAwRyoLYr"
       },
@@ -2889,6 +2907,24 @@
       "duration_ms": 133646,
       "name": "Onyx",
       "url": "https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH"
+    },
+    {
+      "album": {
+        "name": "Open Heart",
+        "url": "https://open.spotify.com/album/5CgkPzpExkZMVYR6mpaE2S"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Open Heart",
+      "url": "https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr"
     },
     {
       "album": {

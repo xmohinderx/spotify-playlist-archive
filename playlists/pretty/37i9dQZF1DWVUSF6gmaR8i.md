@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,167 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,201 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [Criminal](https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL) | 5:41 |
 | 40 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 
-Snapshot ID: `MTY0ODc3NDY5OCwwMDAwMDAwMDJkOWQ1NTA5OWQzOGQ2YjdiM2NmZDUxOTQxMDI3YjFm`
+Snapshot ID: `MTY0ODg2MDU2MSwwMDAwMDAwMDJkOWQ1NTA5OWQzOGQ2YjdiM2NmZDUxOTQxMDI3YjFm`

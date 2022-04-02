@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,569 likes - 23 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,619 likes - 23 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 22 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
 | 23 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 
-Snapshot ID: `MTY0ODc3NTI0NCwwMDAwMDAwMGMxNGUxMDc2MmY1ZDU4NGZhMjQ3ZDFjZGIzNDc1N2Uz`
+Snapshot ID: `MTY0ODg2MTEwMSwwMDAwMDAwMGMxNGUxMDc2MmY1ZDU4NGZhMjQ3ZDFjZGIzNDc1N2Uz`

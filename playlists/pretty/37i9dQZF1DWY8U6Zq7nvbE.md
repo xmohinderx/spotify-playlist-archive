@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,542 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,555 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Girl I Wish I Didn't Know \(Acoustic\)](https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Girl I Wish I Didn't Know \(Acoustic\)](https://open.spotify.com/album/6zZMRz63RPLtyB0GnqDNXO) | 4:02 |
 | 100 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 |
 
-Snapshot ID: `MTY0ODc3NDc4NiwwMDAwMDAwMGVhMTFmMzcyNDE2YWZiYjQ2YWMwZDc3ZmUxYzViZDM1`
+Snapshot ID: `MTY0ODg2MDY1MSwwMDAwMDAwMGVhMTFmMzcyNDE2YWZiYjQ2YWMwZDc3ZmUxYzViZDM1`

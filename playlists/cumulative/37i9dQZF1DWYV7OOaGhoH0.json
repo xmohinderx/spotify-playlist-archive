@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving roots & folk scene. Cover: Shakey Graves\n",
+  "description": "Explore the ever-evolving roots & folk scene. Cover: The Dead Tongues\n",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t Killed Me Yet",
+        "url": "https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Ain\u2019t Killed Me Yet",
+      "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
+    },
+    {
+      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
@@ -117,6 +135,24 @@
       "duration_ms": 177720,
       "name": "All Is Well (feat. Joy Williams)",
       "url": "https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66"
+    },
+    {
+      "album": {
+        "name": "All The Good Times",
+        "url": "https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE"
     },
     {
       "album": {
@@ -272,6 +308,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199608,
+      "name": "Ballad of an Unknown",
+      "url": "https://open.spotify.com/track/6rBkSRxinFvMtOYYbKegma"
+    },
+    {
+      "album": {
         "name": "Bedrock",
         "url": "https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf"
       },
@@ -362,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242990,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
+    },
+    {
+      "album": {
         "name": "Blind Missiles",
         "url": "https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR"
       },
@@ -409,7 +481,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
@@ -550,6 +622,24 @@
     },
     {
       "album": {
+        "name": "cigarette holes",
+        "url": "https://open.spotify.com/album/1nuf7xVIP1J9rpeGje6zLD"
+      },
+      "artists": [
+        {
+          "name": "Peter Raffoul",
+          "url": "https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146573,
+      "name": "cigarette holes",
+      "url": "https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH"
+    },
+    {
+      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -655,7 +745,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190252,
       "name": "Don't Fade",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
@@ -797,10 +887,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 302578,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5f0YEgUKxFekMSXXxQkKAH"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302578,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6sA8vdkzv693nFHrfR7DZk"
     },
     {
       "album": {
@@ -927,7 +1035,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 178168,
       "name": "Everybody (feat. Jenny Lewis)",
       "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
@@ -1007,6 +1115,28 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
+    },
+    {
+      "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275054,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
     },
     {
       "album": {
@@ -1583,7 +1713,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
@@ -1793,7 +1923,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/2EO0D7WCnC38HzKncS4nAv"
@@ -2292,6 +2422,28 @@
     },
     {
       "album": {
+        "name": "The Fray Variations",
+        "url": "https://open.spotify.com/album/17MqCbBh9adgEqokheN61E"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244253,
+      "name": "Star-Crossed Lovers (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/2N2BxKKvBgGzA8llazrNIj"
+    },
+    {
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -2321,7 +2473,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 240413,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
@@ -2429,7 +2581,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH"
@@ -2758,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "album": {
         "name": "Make Peace with That",
         "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
@@ -2983,7 +3153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 496786,
       "name": "We Shall Live Again",
       "url": "https://open.spotify.com/track/76h5RdiFNMzOnzlO2Munaz"
@@ -3131,6 +3301,24 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+    },
+    {
+      "album": {
+        "name": "would you call me up?",
+        "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251504,
+      "name": "would you call me up?",
+      "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
     },
     {
       "album": {

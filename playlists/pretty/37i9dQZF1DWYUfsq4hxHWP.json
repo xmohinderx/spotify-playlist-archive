@@ -1,28 +1,44 @@
 {
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Halle Kearns, Artwork: Fan\u00e9lie Muselier",
-  "num_followers": 45351,
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Dylan Marlowe, Artwork: Fan\u00e9lie Muselier",
+  "num_followers": 45408,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYxMjgwMCwwMDAwMDE5ZTAwMDAwMTdmZDhmYWY2OTIwMDAwMDE3ZjNkOWY3OGUw",
+  "snapshot_id": "MTY0ODc4NTY2MCwwMDAwMDE5ZjAwMDAwMTdmZTM0ODk4ZWYwMDAwMDE3ZmRkYjU3MTcx",
   "tracks": [
     {
       "added_at": "2022-03-30 04:00:00",
       "album": {
-        "name": "Are You Okay?",
-        "url": "https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW"
+        "name": "When I Look Back",
+        "url": "https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B"
       },
       "artists": [
         {
-          "name": "Halle Kearns",
-          "url": "https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 192733,
-      "name": "Are You Okay?",
-      "url": "https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew"
+      "duration_ms": 179251,
+      "name": "When I Look Back",
+      "url": "https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw"
+    },
+    {
+      "added_at": "2022-03-30 04:00:00",
+      "album": {
+        "name": "40 East",
+        "url": "https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M"
     },
     {
       "added_at": "2022-03-30 04:00:00",
@@ -59,18 +75,18 @@
     {
       "added_at": "2022-03-30 04:00:00",
       "album": {
-        "name": "40 East",
-        "url": "https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5"
+        "name": "Dying on the Vine",
+        "url": "https://open.spotify.com/album/5A6jn0V1b7BZyTcGqFDeJA"
       },
       "artists": [
         {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+          "name": "Harper Grae",
+          "url": "https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr"
         }
       ],
-      "duration_ms": 177711,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M"
+      "duration_ms": 188297,
+      "name": "Dying on the Vine",
+      "url": "https://open.spotify.com/track/7yVqUu5pPFcrGTOmw33DqN"
     },
     {
       "added_at": "2022-03-30 04:00:00",
@@ -91,6 +107,22 @@
     {
       "added_at": "2022-03-30 04:00:00",
       "album": {
+        "name": "Someone, Sometimes",
+        "url": "https://open.spotify.com/album/43hDv51Vzn3e7N4WL5Ovii"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Bridges",
+          "url": "https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg"
+        }
+      ],
+      "duration_ms": 214844,
+      "name": "Someone, Sometimes",
+      "url": "https://open.spotify.com/track/2ePk0KR2JA7bmZAJEvI8ZP"
+    },
+    {
+      "added_at": "2022-03-30 04:00:00",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs"
       },
@@ -107,22 +139,6 @@
     {
       "added_at": "2022-03-30 04:00:00",
       "album": {
-        "name": "Dying on the Vine",
-        "url": "https://open.spotify.com/album/5A6jn0V1b7BZyTcGqFDeJA"
-      },
-      "artists": [
-        {
-          "name": "Harper Grae",
-          "url": "https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr"
-        }
-      ],
-      "duration_ms": 188297,
-      "name": "Dying on the Vine",
-      "url": "https://open.spotify.com/track/7yVqUu5pPFcrGTOmw33DqN"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
         "name": "Let's Do Us",
         "url": "https://open.spotify.com/album/2t2CKNY29vlO5B3btHkUCN"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 177374,
       "name": "Let's Do Us",
       "url": "https://open.spotify.com/track/2sMU3B4mf8txZI7D8ZszvZ"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "Someone, Sometimes",
-        "url": "https://open.spotify.com/album/43hDv51Vzn3e7N4WL5Ovii"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Bridges",
-          "url": "https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg"
-        }
-      ],
-      "duration_ms": 214844,
-      "name": "Someone, Sometimes",
-      "url": "https://open.spotify.com/track/2ePk0KR2JA7bmZAJEvI8ZP"
     },
     {
       "added_at": "2022-03-30 04:00:00",
@@ -1055,22 +1055,6 @@
       "duration_ms": 221144,
       "name": "Missin' Mississippi",
       "url": "https://open.spotify.com/track/0q0k2XXYBODoz6uaZFcdce"
-    },
-    {
-      "added_at": "2022-03-30 04:00:00",
-      "album": {
-        "name": "When I Look Back",
-        "url": "https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 179251,
-      "name": "When I Look Back",
-      "url": "https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw"
     },
     {
       "added_at": "2022-03-30 04:00:00",

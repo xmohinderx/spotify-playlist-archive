@@ -7446,6 +7446,24 @@
     },
     {
       "album": {
+        "name": "Paralian",
+        "url": "https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rian Christophe",
+          "url": "https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Paralian",
+      "url": "https://open.spotify.com/track/2tEsGZfscyYYnHF7exJFIA"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM"
       },

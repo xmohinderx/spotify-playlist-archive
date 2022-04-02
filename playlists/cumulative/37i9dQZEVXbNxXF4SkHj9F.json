@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 200746,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/0tIkUSA5njpsBaTAx3z25z"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE"
@@ -3561,7 +3561,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 192506,
       "name": "Fire Alarm",
       "url": "https://open.spotify.com/track/4HhjBzw5QUpkPzswMsIWZR"
@@ -8601,7 +8601,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 214066,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0eACCV3ys1LIIxMit2wLWn"
@@ -9043,7 +9043,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180600,
       "name": "Saturday Drip",
       "url": "https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB"
@@ -10978,6 +10978,28 @@
     },
     {
       "album": {
+        "name": "up at night (feat. justin bieber)",
+        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "up at night (feat. justin bieber)",
+      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },
@@ -11077,7 +11099,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
@@ -12041,7 +12063,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 284720,
       "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
       "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"

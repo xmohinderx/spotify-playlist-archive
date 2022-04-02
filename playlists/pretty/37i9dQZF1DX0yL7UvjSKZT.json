@@ -1,12 +1,12 @@
 {
   "description": "Fresh takes on that high lonesome sound. Cover: <a href=\"spotify:artist:4LX0KCPnH7gvxEbVXqXmAE\">Molly Tuttle</a>",
-  "num_followers": 234030,
+  "num_followers": 234072,
   "original_name": "Indie Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4Mjc4MCwwMDAwMDAzYzAwMDAwMTdmYmY1OTYwYWMwMDAwMDE2ZDE1MjM1Zjkw",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAzZDAwMDAwMTdmZTM0N2FlYTkwMDAwMDE2ZDE1MjM1Zjkw",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -59,6 +59,22 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Narrow Line",
+      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -229,20 +245,24 @@
       "url": "https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr"
     },
     {
-      "added_at": "2021-10-01 04:01:00",
+      "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "When You're Ready",
-        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
       "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
         {
           "name": "Molly Tuttle",
           "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 169776,
-      "name": "The High Road",
-      "url": "https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU"
+      "duration_ms": 196677,
+      "name": "Castilleja",
+      "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -439,6 +459,22 @@
       "duration_ms": 181666,
       "name": "Just Pick One",
       "url": "https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -861,6 +897,22 @@
       "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Tucson",
+        "url": "https://open.spotify.com/album/48s7GtXLDRdarhXNmvzhT8"
+      },
+      "artists": [
+        {
+          "name": "St. Beaufort",
+          "url": "https://open.spotify.com/artist/0xzQcilTb96Drs3GMMKwVU"
+        }
+      ],
+      "duration_ms": 209750,
+      "name": "Tucson",
+      "url": "https://open.spotify.com/track/2p9za39w0aVoLWGfVr7enK"
+    },
+    {
       "added_at": "2021-10-01 04:01:00",
       "album": {
         "name": "Leave Some Things Behind",
@@ -1023,6 +1075,22 @@
       "duration_ms": 245839,
       "name": "Everything Changed",
       "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Until Im Grey",
+        "url": "https://open.spotify.com/album/7DQZcGwFxkS1WmKI0H1NgW"
+      },
+      "artists": [
+        {
+          "name": "Brett Gordon Lloyd",
+          "url": "https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK"
+        }
+      ],
+      "duration_ms": 272439,
+      "name": "Until Im Grey",
+      "url": "https://open.spotify.com/track/3IdtVVOVZZMuVeDuMmfdxn"
     },
     {
       "added_at": "2022-02-04 05:38:00",

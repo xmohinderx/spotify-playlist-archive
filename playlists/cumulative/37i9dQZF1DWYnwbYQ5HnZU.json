@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify Fan Favorites from the last few years.  Artist: Maren Morris",
+  "description": "Spotify Fan Favorites from the last few years.  Artist: Jimmie Allen",
   "name": "Country Gold",
   "published_playlist_ids": [
     "3vjMXQTn6bhqRtB1DcgbIL"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8"
+    },
     {
       "album": {
         "name": "Dark Horse",
@@ -646,6 +664,28 @@
     },
     {
       "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+    },
+    {
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -809,6 +849,24 @@
       "duration_ms": 205120,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/1R9FxlRkvKtt36dtTHs93X"
+    },
+    {
+      "album": {
+        "name": "Heart's In Your Head",
+        "url": "https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf"
+      },
+      "artists": [
+        {
+          "name": "Renee Blair",
+          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187381,
+      "name": "Heart's In Your Head",
+      "url": "https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn"
     },
     {
       "album": {
@@ -1080,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216518,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh"
+    },
+    {
+      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
@@ -1149,7 +1225,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 199382,
       "name": "Knockin' Boots",
       "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
@@ -1457,7 +1533,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201693,
       "name": "Over All Over Again",
       "url": "https://open.spotify.com/track/6eK53DELUKMF7Dkao6n2Av"
@@ -1626,6 +1702,28 @@
     },
     {
       "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "album": {
         "name": "Love, Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
       },
@@ -1695,7 +1793,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211426,
       "name": "Take Back Home Girl (Feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/2gVBXeTjwL0ZEh9gjsQjk0"
@@ -2135,7 +2233,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/3yFsyy1hw7v31NBrRJX2QM"

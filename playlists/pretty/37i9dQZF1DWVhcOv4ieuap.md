@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,752 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,762 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 49 | [Souvenir](https://open.spotify.com/track/5RwBhRPueJFomy6peYaAHL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Souvenir](https://open.spotify.com/album/3qk6XnH3GzEBoPEWUtsvJz) | 3:14 |
 | 50 | [Hasta el Sol de Hoy](https://open.spotify.com/track/5v29GgnKgTZqBhuilMyqog) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:01 |
 
-Snapshot ID: `MTY0ODc3NDcwNSwwMDAwMDAwMDJiZDNmNGRjN2JmOWU2YThkZjgxYWYyYjc5ZGQ3NGFm`
+Snapshot ID: `MTY0ODg2MDU2OCwwMDAwMDAwMDJiZDNmNGRjN2JmOWU2YThkZjgxYWYyYjc5ZGQ3NGFm`

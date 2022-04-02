@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 60322,
+  "num_followers": 60353,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDA0NzAwMDAwMTdmYmYzYzE0ZTYwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDA0ODAwMDAwMTdmZTM0OTgzMzEwMDAwMDE2ZDE1MTg0ZTc2",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "DRIFT ALONG SMALL WORLD",
+        "url": "https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 162593,
+      "name": "DRIFT ALONG SMALL WORLD",
+      "url": "https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA"
+    },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {

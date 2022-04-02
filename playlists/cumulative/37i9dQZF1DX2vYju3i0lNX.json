@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Akaishi",
+        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Akaishi",
+      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
+    },
+    {
+      "album": {
         "name": "Born in July",
         "url": "https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt"
       },
@@ -1898,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "My Prayer",
+        "url": "https://open.spotify.com/album/6YBq5EF3aq9VILtfLpr6bI"
+      },
+      "artists": [
+        {
+          "name": "Chris Memento",
+          "url": "https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239513,
+      "name": "Oh, You Crazy Moon",
+      "url": "https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl"
+    },
+    {
+      "album": {
         "name": "Omv\u00e4g",
         "url": "https://open.spotify.com/album/0CAWcpiAZQyHUwHVVHx62D"
       },
@@ -1952,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223010,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc"
+    },
+    {
+      "album": {
         "name": "Our Best Year Yet",
         "url": "https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL"
       },
@@ -1967,6 +2021,24 @@
       "duration_ms": 278716,
       "name": "Our Best Year Yet",
       "url": "https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa"
+    },
+    {
+      "album": {
+        "name": "Love is not so easily shed",
+        "url": "https://open.spotify.com/album/2kpK0IAXQzd7nRGtJBa8yo"
+      },
+      "artists": [
+        {
+          "name": "Milo Oliver Band",
+          "url": "https://open.spotify.com/artist/1utH7b11duWqqaVmgGFW9H"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192009,
+      "name": "Out of a misty dream",
+      "url": "https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1"
     },
     {
       "album": {
@@ -2622,6 +2694,24 @@
     },
     {
       "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237679,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4"
+    },
+    {
+      "album": {
         "name": "Theme for Ruth",
         "url": "https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC"
       },
@@ -2969,7 +3059,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 227428,
       "name": "You Gets You",
       "url": "https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb"

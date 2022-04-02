@@ -1,28 +1,44 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Chandler Leighton",
-  "num_followers": 263512,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Olivia O'Brien",
+  "num_followers": 263943,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODUxMDkwMywwMDAwMDA3ZjAwMDAwMTdmZDJlODI1YjcwMDAwMDE3ZjlhODkwYzVh",
+  "snapshot_id": "MTY0ODc4NTY2MCwwMDAwMDA4MDAwMDAwMTdmZTM0ODk5MTAwMDAwMDE3ZmMxZTY1MDEy",
   "tracks": [
     {
-      "added_at": "2022-03-18 04:01:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "When You Say My Name",
-        "url": "https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5"
+        "name": "Bitches These Days",
+        "url": "https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo"
       },
       "artists": [
         {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 148275,
-      "name": "When You Say My Name",
-      "url": "https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG"
+      "duration_ms": 143428,
+      "name": "Bitches These Days",
+      "url": "https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "how does your girlfriend feel about it",
+        "url": "https://open.spotify.com/album/5z3YYg8ZszvGO836MiYu1o"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lilac",
+          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
+        }
+      ],
+      "duration_ms": 153569,
+      "name": "how does your girlfriend feel about it",
+      "url": "https://open.spotify.com/track/6Z1nBzbcsdCvoLF2G3Cl35"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M"
     },
     {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "When You Say My Name",
+        "url": "https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 148275,
+      "name": "When You Say My Name",
+      "url": "https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "ALL ABOUT ME",
+        "url": "https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "ALL ABOUT ME",
+      "url": "https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "dying on the inside",
@@ -57,20 +105,20 @@
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO"
+        "name": "cinderella's dead",
+        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
       "artists": [
         {
-          "name": "Good Boy Daisy",
-          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 150657,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq"
+      "duration_ms": 120666,
+      "name": "cinderella's dead",
+      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -89,20 +137,20 @@
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
-      "added_at": "2022-03-28 23:41:43",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
         }
       ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+      "duration_ms": 150657,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -119,22 +167,6 @@
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -251,6 +283,38 @@
       "duration_ms": 185806,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "PEP",
+        "url": "https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Okay Okay",
+      "url": "https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -379,42 +443,6 @@
       "duration_ms": 199038,
       "name": "Thing of Beauty",
       "url": "https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power",
-        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Easier than Lying",
-      "url": "https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Josh Dun",
-          "url": "https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "In My Head (ft. Josh Dun)",
-      "url": "https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -715,26 +743,6 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "debbie downer",
-        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        },
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 159617,
-      "name": "debbie downer",
-      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1061,22 +1069,6 @@
       "url": "https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "what it means to be a girl / this is how i learn to say no",
-        "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "what it means to be a girl",
-      "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "god sent me as karma",
@@ -1123,22 +1115,6 @@
       "duration_ms": 181893,
       "name": "Hush",
       "url": "https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ"
-    },
-    {
-      "added_at": "2022-01-14 17:52:12",
-      "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44"
-      },
-      "artists": [
-        {
-          "name": "Rachel Lorin",
-          "url": "https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4"
     },
     {
       "added_at": "2021-09-10 04:00:00",

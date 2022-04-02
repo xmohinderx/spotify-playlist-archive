@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: UMI",
+  "description": "The newest, freshest R&B tunes.  Cover: Kehlani",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 184081,
       "name": "2 seater (feat. Smino)",
       "url": "https://open.spotify.com/track/31utIsi83TdTRNLxvDHZTU"
@@ -45,6 +45,24 @@
       "duration_ms": 158066,
       "name": "25/8",
       "url": "https://open.spotify.com/track/7rWMxeDdadl299Jb7VrX5k"
+    },
+    {
+      "album": {
+        "name": "2MANYTHINGS",
+        "url": "https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg"
+      },
+      "artists": [
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "2MANYTHINGS",
+      "url": "https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg"
     },
     {
       "album": {
@@ -186,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Before I Let Her Go",
+        "url": "https://open.spotify.com/album/2WkkSctajm6zU1Op4KuFCY"
+      },
+      "artists": [
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149122,
+      "name": "Before I Let Her Go",
+      "url": "https://open.spotify.com/track/3XwEDN3xAQdrk7zMSMtSVD"
+    },
+    {
+      "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
       },
@@ -281,7 +317,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 193960,
       "name": "Brag (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW"
@@ -641,7 +677,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 207293,
       "name": "Don't make me beg (With Lil Baby)",
       "url": "https://open.spotify.com/track/7fxhpMjlbdWXSdunAEwl23"
@@ -703,6 +739,50 @@
       "duration_ms": 247468,
       "name": "EEK",
       "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+    },
+    {
+      "album": {
+        "name": "Ego (Extended Mix)",
+        "url": "https://open.spotify.com/album/456U2WVAieUGqyrptZM4Yf"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "vbrtns",
+          "url": "https://open.spotify.com/artist/6i0T2zzBRe2OXtPLR8BOvb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393846,
+      "name": "Ego - Extended Mix",
+      "url": "https://open.spotify.com/track/5GhhWK3Ge4JBCJa7S4NTyV"
+    },
+    {
+      "album": {
+        "name": "Facade",
+        "url": "https://open.spotify.com/album/24glYkTmbrIvDdv97U6YFE"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119124,
+      "name": "Facade",
+      "url": "https://open.spotify.com/track/2fGiuK2cJ2efll99JN0mu5"
     },
     {
       "album": {
@@ -850,6 +930,28 @@
     },
     {
       "album": {
+        "name": "Forbidden Fruit",
+        "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
+    },
+    {
+      "album": {
         "name": "Frank For You",
         "url": "https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW"
       },
@@ -861,7 +963,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 249751,
       "name": "Frank For You",
       "url": "https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv"
@@ -992,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/0BrNjftV3o3YmLSTirPJnz"
+      },
+      "artists": [
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "GOLDEN",
+      "url": "https://open.spotify.com/track/189aZynRlL0tMI7pNwAmx5"
+    },
+    {
+      "album": {
         "name": "Superghetto",
         "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
       },
@@ -1117,7 +1241,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
@@ -1153,7 +1277,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 176325,
       "name": "I Can See The Future",
       "url": "https://open.spotify.com/track/0nmQwklag0P4BtyesFqstc"
@@ -1410,6 +1534,28 @@
     },
     {
       "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "album": {
         "name": "Late Nights With Jeremih",
         "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
       },
@@ -1498,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209136,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
+    },
+    {
+      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
       },
@@ -1545,7 +1709,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 198920,
       "name": "little story",
       "url": "https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex"
@@ -1571,6 +1735,28 @@
       "duration_ms": 154800,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
     },
     {
       "album": {
@@ -1807,7 +1993,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 199960,
       "name": "My Peace (feat. Mr. Talkbox)",
       "url": "https://open.spotify.com/track/4pYD9GWj75w065wGuRgiMK"
@@ -2939,10 +3125,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 220151,
       "name": "Try Peace...",
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
+    },
+    {
+      "album": {
+        "name": "up at night (feat. justin bieber)",
+        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "up at night (feat. justin bieber)",
+      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
       "album": {
@@ -2983,6 +3191,24 @@
       "duration_ms": 170263,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu"
+    },
+    {
+      "album": {
+        "name": "WE (Warm Embrace)",
+        "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234966,
+      "name": "WE (Warm Embrace)",
+      "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
     },
     {
       "album": {

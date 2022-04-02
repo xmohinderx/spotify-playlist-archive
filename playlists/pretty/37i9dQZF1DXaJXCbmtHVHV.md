@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> The top country hits of the week across America! Cover: Cole Swindell and Lainey Wilson
+> The top country hits of the week across America! Cover: HARDY, Dierks Bentley and BRELAND
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,437 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,557 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 49 | [Out in the Middle](https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 2:46 |
 | 50 | [Holy Water](https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Higher Education](https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL) | 3:29 |
 
-Snapshot ID: `MTY0ODQ4MzMyNywwMDAwMDBhZDAwMDAwMTdmZDE0MzVlOWUwMDAwMDE3ZjNkNzRkM2Q4`
+Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDBhZTAwMDAwMTdmZTM0OTgzMWEwMDAwMDE3ZmQyM2EzN2Fl`

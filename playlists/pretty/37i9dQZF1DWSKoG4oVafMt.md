@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,616 likes - 140 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,651 likes - 140 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 13 | [Mehnge Mamle](https://open.spotify.com/track/7khbEiCW3oEB7o6iy0EzTW) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Mehnge Mamle](https://open.spotify.com/album/4x4wA9h11FiGy1QRgN2Jvz) | 2:07 |
 | 14 | [Love War](https://open.spotify.com/track/2D6mhQD1MUVf7vDQGySwtg) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:54 |
 | 15 | [RUMORS](https://open.spotify.com/track/5FQABGC0nhpiabjwT8PAH4) | [VICKY KALER](https://open.spotify.com/artist/3K3WQXD8V4Y5M4at9hpnpE) | [RUMORS](https://open.spotify.com/album/4Wz2nPKvABjl3i0oDu8Azz) | 3:39 |
-| 16 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/1hCJCn80zsITppqP8guqWp) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 |
+| 16 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/1hCJCn80zsITppqP8guqWp), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 |
 | 17 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 |
 | 18 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 | 19 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 |

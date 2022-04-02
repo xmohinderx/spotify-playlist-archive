@@ -1114,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "On A Clear Day",
+        "url": "https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "On A Clear Day",
+      "url": "https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7"
+    },
+    {
+      "album": {
         "name": "Darn That Dream",
         "url": "https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP"
       },
@@ -1687,6 +1705,24 @@
       "duration_ms": 179745,
       "name": "Time Remembered",
       "url": "https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT"
+    },
+    {
+      "album": {
+        "name": "What Are You Doing For The Rest Of Your Life",
+        "url": "https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Black",
+          "url": "https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362538,
+      "name": "What Are You Doing For The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb"
     },
     {
       "album": {

@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
+    },
+    {
+      "album": {
         "name": "Polite",
         "url": "https://open.spotify.com/album/0WgipZtpMYTd3nTZ8iG8HR"
       },
@@ -895,6 +913,24 @@
       "duration_ms": 184915,
       "name": "Dreams - Bleu Clair Remix",
       "url": "https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp"
+    },
+    {
+      "album": {
+        "name": "Droves",
+        "url": "https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj"
+      },
+      "artists": [
+        {
+          "name": "On Planets",
+          "url": "https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230734,
+      "name": "Droves",
+      "url": "https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW"
     },
     {
       "album": {
@@ -3003,6 +3039,28 @@
       "duration_ms": 193216,
       "name": "tellmewhatuwant",
       "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
+    },
+    {
+      "album": {
+        "name": "The Drunk Song",
+        "url": "https://open.spotify.com/album/5N1I5GterExcrrM0sesPsR"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        },
+        {
+          "name": "Lain",
+          "url": "https://open.spotify.com/artist/2V7qTNoIHlrmDGhjI005us"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "The Drunk Song",
+      "url": "https://open.spotify.com/track/3eq75k7Y2KnA1VmDXO5fDx"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
       "url": "https://open.spotify.com/track/7fSGbZLhWlAiCC3HDPAULu"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/6SFStUDQZNaGPKWOx9ZiJB"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 194896,
       "name": "2U (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 260667,
       "name": "A Casa \u00e9 Sua",
       "url": "https://open.spotify.com/track/0wfcNeRfE0Z7bTlTYmVKQC"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 228875,
       "name": "A Cor \u00c9 Rosa",
       "url": "https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197333,
       "name": "Amor de Verdade",
       "url": "https://open.spotify.com/track/76KDy62J99FKu6ZsxMJy3j"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/4eizL2CPEy9lFUZw7HBKrk"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 236001,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218854,
       "name": "Catching Feelings (feat. Six60)",
       "url": "https://open.spotify.com/track/02VHspkXhhH1QCInRWWIfr"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 177406,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/0xpDj4FiSoIVsNR9uJHHuF"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/0QWsssAqEAyOVEHG6Lx4EJ"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Queen Forever",
+        "url": "https://open.spotify.com/album/3zSA87rmoHtugmRiuQnfoy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163108,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/2zCs0vLKiRO0ctaAji81g5"
+    },
+    {
+      "album": {
         "name": "Da Ya Think I'm Sexy?",
         "url": "https://open.spotify.com/album/5R9aNxFDDbjiLOi56sLpYa"
       },
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232253,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/7CneiDesUKFJO3Ix01dnfr"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 155052,
       "name": "Deve ser horr\u00edvel dormir sem mim",
       "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 266906,
       "name": "Diamonds On The Inside",
       "url": "https://open.spotify.com/track/3SGhZ9mc7dbxrPMJEKlOlV"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 257645,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 365466,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 250986,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 226857,
       "name": "Doubt (Summer Edit)",
       "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 253250,
       "name": "Every Breath You Take - Remastered 2003",
       "url": "https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 149727,
       "name": "Gelo",
       "url": "https://open.spotify.com/track/0J6cINt02c8UQqDG7vLShY"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 316333,
       "name": "Get Up (I Feel Like Being A) Sex Machine - Pt. 1 & 2",
       "url": "https://open.spotify.com/track/79ZVCdPe6jqL2UvfUHyHRA"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180625,
       "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
       "url": "https://open.spotify.com/track/3RHhNmN9eFeutAzyJ6SqnY"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183481,
       "name": "Give 'n' Take",
       "url": "https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197573,
       "name": "God is a woman",
       "url": "https://open.spotify.com/track/7gkWXbAxIYuvtOpcN3p9GJ"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg"
@@ -1614,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "The Way You Move / Hey Ya!",
+        "url": "https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy"
+    },
+    {
+      "album": {
         "name": "Hey, Ma",
         "url": "https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL"
       },
@@ -1625,7 +1661,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
@@ -1705,7 +1741,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 205747,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL"
@@ -1763,7 +1799,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
@@ -1785,7 +1821,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197938,
       "name": "I Wanna Know (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
@@ -1839,7 +1875,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -1857,7 +1893,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
@@ -1879,7 +1915,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 175813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 205187,
       "name": "Indecente",
       "url": "https://open.spotify.com/track/5FOCkGt7bp22nBVfQ4WSIT"
@@ -1995,7 +2031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180000,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/5HEi7CIoiEx87jCBsKeRBV"
@@ -2013,7 +2049,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/1zOaxkbS1kAY1gIi0g8sOm"
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 226206,
       "name": "Let Me Be The One",
       "url": "https://open.spotify.com/track/3ExgP2Oq27CoiZYWklkBpy"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 457133,
       "name": "Let's Dance - 1999 Remaster",
       "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 145161,
       "name": "Leve - Manimal Remix",
       "url": "https://open.spotify.com/track/0YK71rSArDeNp5HcllHnDg"
@@ -2223,7 +2259,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 241546,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 175601,
       "name": "Loose Ideas",
       "url": "https://open.spotify.com/track/5GDSoHGCCqsXMoBcTGTqpu"
@@ -2279,7 +2315,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
@@ -2337,7 +2373,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 141508,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 150026,
       "name": "menina solta",
       "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 165176,
       "name": "Meu talism\u00e3",
       "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 206360,
       "name": "moneydontfixlonely",
       "url": "https://open.spotify.com/track/35osKSAsV8WsOb80tb3Eex"
@@ -2539,7 +2575,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 191199,
       "name": "No Matter (Basic Tape vs. Frances)",
       "url": "https://open.spotify.com/track/7mkm8ry8rZEzJ9C5wQZZrY"
@@ -2627,7 +2663,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 205946,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9"
@@ -2645,7 +2681,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 198053,
       "name": "No vaya a ser",
       "url": "https://open.spotify.com/track/2yajAy8Va9VTk3yhF9B3ET"
@@ -2717,7 +2753,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 224333,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/57uVLvxN3mK6k5oVLIngBq"
@@ -2735,7 +2771,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209000,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 174001,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
@@ -2841,7 +2877,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 141799,
       "name": "Out of Words",
       "url": "https://open.spotify.com/track/1ftjKpH66EE8VFkr7HLB9B"
@@ -2973,7 +3009,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 202474,
       "name": "Por Voc\u00ea - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
@@ -3017,7 +3053,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 202287,
       "name": "Pupila",
       "url": "https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk"
@@ -3035,7 +3071,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 181844,
       "name": "Push My Luck",
       "url": "https://open.spotify.com/track/2a3dopgTF1q4rMVDJ1rwBU"
@@ -3172,6 +3208,28 @@
     },
     {
       "album": {
+        "name": "Remind Me to Forget",
+        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217286,
+      "name": "Remind Me to Forget",
+      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
+    },
+    {
+      "album": {
         "name": "Respect (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/3B73SxANAKIz24HHUbCFMk"
       },
@@ -3187,7 +3245,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 157106,
       "name": "Respect (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/6pANgXP3h8LSEbYyWi7W7T"
@@ -3205,7 +3263,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
@@ -3245,7 +3303,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3yvZ1VUso9Xi7EvIyLaj4o"
@@ -3303,7 +3361,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
@@ -3321,7 +3379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 125097,
       "name": "se essa vida fosse um filme",
       "url": "https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0"
@@ -3343,7 +3401,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190363,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
@@ -3401,7 +3459,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5WfhXulggG0c6WoVeMPA8N"
@@ -3477,7 +3535,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/3sw1PM6wj5aUq3kDrHJsk8"
@@ -3513,7 +3571,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
@@ -3531,7 +3589,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183720,
       "name": "Sitting, Waiting, Wishing",
       "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
@@ -3549,7 +3607,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 174080,
       "name": "So Much More Than This",
       "url": "https://open.spotify.com/track/6l3iEDNEyAm9AM5MSjvLkm"
@@ -3603,7 +3661,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 277030,
       "name": "SPIRIT - From Disney's \"The Lion King\"",
       "url": "https://open.spotify.com/track/1tC5WMSlsGDFfqnrquB1ty"
@@ -3665,7 +3723,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/5knrAEjUMh6T2kDCN7YD2b"
@@ -3687,7 +3745,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -3713,7 +3771,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183934,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
@@ -3731,7 +3789,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 244826,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
@@ -3757,7 +3815,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - Remastered",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
@@ -3779,7 +3837,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209659,
       "name": "Take Her Place (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/3AzvNvE3xpgelqmE5MRnbI"
@@ -3885,7 +3943,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
@@ -3907,7 +3965,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 234706,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/2xGjteMU3E1tkEPVFBO08U"
@@ -3925,7 +3983,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213741,
       "name": "Tonificando",
       "url": "https://open.spotify.com/track/7KHr668dDXDGzWOY7vzROW"
@@ -3943,7 +4001,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 247058,
       "name": "Toosie Slide",
       "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
@@ -3965,7 +4023,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
@@ -3983,7 +4041,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered",
       "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
@@ -4001,7 +4059,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Two High",
       "url": "https://open.spotify.com/track/3sJHkcxojoJD2Ytbo1yLLF"
@@ -4023,7 +4081,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
@@ -4085,7 +4143,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 278297,
       "name": "Viver (Participa\u00e7\u00e3o especial de Lula Queiroga)",
       "url": "https://open.spotify.com/track/4ROlUJ7OwNCF9lXflywOeC"
@@ -4164,6 +4222,24 @@
     },
     {
       "album": {
+        "name": "We Can Do Better",
+        "url": "https://open.spotify.com/album/1aTY4GUFd6anFZtFCLMda9"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179895,
+      "name": "We Can Do Better",
+      "url": "https://open.spotify.com/track/1hLjLWrzO18acdCFcccFWk"
+    },
+    {
+      "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
@@ -4175,7 +4251,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 278813,
       "name": "Western Stars",
       "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
@@ -4295,7 +4371,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 198163,
       "name": "Yo Te Vine A Amar",
       "url": "https://open.spotify.com/track/5EARH4DZODYVMlkLJWO9Ss"
@@ -4331,7 +4407,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 189226,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/34wBynTTCXRdDSZ43eyGXi"
@@ -4367,7 +4443,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
@@ -4385,7 +4461,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
@@ -4403,7 +4479,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180757,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
@@ -4443,7 +4519,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Yung Luv",
       "url": "https://open.spotify.com/track/4Xx4oojaE3MlJKpgtilgp1"
@@ -4465,7 +4541,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 173720,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/1zsG4eaZmkA1dvjDDsAGLK"

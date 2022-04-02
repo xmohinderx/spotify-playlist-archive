@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Tyler Shaw",
+        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
+    },
+    {
+      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },

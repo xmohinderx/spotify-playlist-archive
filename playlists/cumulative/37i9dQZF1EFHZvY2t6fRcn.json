@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Sofia Carson",
+        "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159339,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/4HhYCUVN6YEXY9Wi7VRwut"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo"
       },

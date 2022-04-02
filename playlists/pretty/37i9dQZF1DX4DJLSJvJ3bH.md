@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,253 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,241 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Blue Christmas](https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Jazz Christmas](https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc) | 3:50 |
 | 70 | [Ring The Bells](https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Christmas With Etta Jones](https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI) | 3:55 |
 
-Snapshot ID: `MTY0ODc3NDk3OSwwMDAwMDAwMGQ1MTkwN2Y2MzkyZThhMDJkYzE5NmRkN2MzMDY1ODUx`
+Snapshot ID: `MTY0ODg2MDg0MCwwMDAwMDAwMGQ1MTkwN2Y2MzkyZThhMDJkYzE5NmRkN2MzMDY1ODUx`

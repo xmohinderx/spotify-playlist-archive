@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!!  <br/>Cover: Eric Church
+> Country Music that ROCKS!!  <br/>Cover: Jackson Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,938 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,196 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
+| 1 | [Don’t Come Lookin’](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 2 | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/5rPnLz5tuUOuWfh69TOwNP) | 3:06 |
 | 3 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
 | 4 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 |
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 19 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/5u1gJ956WPF41Xqhf72d22) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It \- EP](https://open.spotify.com/album/6CiDKNAEO6KGYkgKnGZCGO) | 4:17 |
 | 20 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
 | 21 | [Fuss & Fight](https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 4:00 |
-| 22 | [Don’t Come Lookin’](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
-| 23 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 |
-| 24 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
-| 25 | [Burned Out](https://open.spotify.com/track/76i6pbHbUXVngXGmqmaAeO) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Burned Out](https://open.spotify.com/album/29fXlrBSPq0n5QSfONE0wX) | 2:58 |
-| 26 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 |
-| 27 | [Sundress](https://open.spotify.com/track/2rrxStmULcrV7tx1TLFCx0) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 3:30 |
-| 28 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
-| 29 | [Skeletons](https://open.spotify.com/track/2hJI1lFKKWAsy6UAPSQyVU) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/39DlwBJdvZ1f3j0kNHKRtR) | 3:39 |
-| 30 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 |
+| 22 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 |
+| 23 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
+| 24 | [Burned Out](https://open.spotify.com/track/76i6pbHbUXVngXGmqmaAeO) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q) | [Burned Out](https://open.spotify.com/album/29fXlrBSPq0n5QSfONE0wX) | 2:58 |
+| 25 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 |
+| 26 | [Sundress](https://open.spotify.com/track/2rrxStmULcrV7tx1TLFCx0) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 3:30 |
+| 27 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
+| 28 | [Skeletons](https://open.spotify.com/track/2hJI1lFKKWAsy6UAPSQyVU) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/39DlwBJdvZ1f3j0kNHKRtR) | 3:39 |
+| 29 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 |
+| 30 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 31 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 32 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 |
 | 33 | [Burning Down](https://open.spotify.com/track/515UGTaaZQyCgthVxhWTbU) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Morning](https://open.spotify.com/album/2crKE8V3gDJVhribqhsPh9) | 3:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 124 | [Tumbling Down](https://open.spotify.com/track/2xSyFh6jZSMxzK0yoQGglx) | [Nashvillains](https://open.spotify.com/artist/72zURLJbsKSs1i89kP8ZaL) | [Tumbling Down](https://open.spotify.com/album/3V0czn2onTZVwPrQtdCDfe) | 3:43 |
 | 125 | [Hard Time with the Truth](https://open.spotify.com/track/62lfEuwS7x5fKj4pCclalb) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Hard Time with the Truth](https://open.spotify.com/album/3PSQUAViskGwVgimVEBnvD) | 4:11 |
 
-Snapshot ID: `MTY0ODE4MDg2MCwwMDAwMDBhZTAwMDAwMTdmYmYzYzE0YzgwMDAwMDE3ZjNkNGMzMGFh`
+Snapshot ID: `MTY0ODc4NTYwMCwwMDAwMDBhZjAwMDAwMTdmZTM0N2FlYzkwMDAwMDE3ZmRkZmU4ODZl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying. \nCover: Brent Cobb",
+  "description": "The country way of testifying. Cover: Reba McEntire",
   "name": "Country by the Grace of God",
   "published_playlist_ids": [
     "6cE3SvtvS08f7zxJyG9uyM"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204400,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs"
@@ -575,6 +575,24 @@
       "duration_ms": 221280,
       "name": "God Must Really Love Me",
       "url": "https://open.spotify.com/track/391V2jmxaLRwm5rqC2WJyR"
+    },
+    {
+      "album": {
+        "name": "God Thing",
+        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "God Thing",
+      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
     },
     {
       "album": {

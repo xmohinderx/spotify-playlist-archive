@@ -450,6 +450,32 @@
     },
     {
       "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "album": {
         "name": "Vig\u00e9simo N\u00edvel",
         "url": "https://open.spotify.com/album/2O1p59ZbY2YuoVPnyeNezL"
       },
@@ -724,6 +750,32 @@
     },
     {
       "album": {
+        "name": "Hakaishins Drill Verse",
+        "url": "https://open.spotify.com/album/4gCcdc6CMT61BStRxBpVlW"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Yung Buda",
+          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201604,
+      "name": "Hakaishins Drill Verse",
+      "url": "https://open.spotify.com/track/4dXkQxuNXuSyHEh8ah6GRt"
+    },
+    {
+      "album": {
         "name": "Hip Hop Rare",
         "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
       },
@@ -815,7 +867,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 165000,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/2W14oObz3DUsBYH20Fz9lm"
@@ -1377,7 +1429,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 124000,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7wtPXyuaLkcYJDGYy9MrME"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241120,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/4AWZVz9cuAS1ZsJUB5cq8S"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201973,
       "name": "Before I Knew It",
       "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 151930,
       "name": "Broke Again",
       "url": "https://open.spotify.com/track/0Mb0wOCpbmHOZbxyD0Eomu"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206689,
       "name": "Country In The Girl",
       "url": "https://open.spotify.com/track/0qxFuP4qRzvXAlRdlAdd1c"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 202786,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 254640,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 202346,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 152640,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
@@ -1046,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Kings and Queens of the Modern Day Honky Tonk",
+        "url": "https://open.spotify.com/album/4EfE4YL8KA0pxQZ3Qd1xtr"
+      },
+      "artists": [
+        {
+          "name": "Justin Adams",
+          "url": "https://open.spotify.com/artist/2u3XRCxHLda0KhnBplrGc0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185049,
+      "name": "Kings and Queens of the Modern Day Honky Tonk",
+      "url": "https://open.spotify.com/track/6ljSShN6zlEVlXAQMm17k2"
+    },
+    {
+      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 228733,
       "name": "Livin' On Love",
       "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 144186,
       "name": "Louisiana Saturday Night",
       "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 191200,
       "name": "One More Last Chance",
       "url": "https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 261826,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 244266,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Queen Of My Double Wide Trailer",
       "url": "https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206320,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 181973,
       "name": "Watermelon Crawl",
       "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"

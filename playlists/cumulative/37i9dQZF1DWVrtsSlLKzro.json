@@ -986,6 +986,28 @@
     },
     {
       "album": {
+        "name": "Empty Promise",
+        "url": "https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231578,
+      "name": "Empty Promise",
+      "url": "https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn"
+    },
+    {
+      "album": {
         "name": "Equal in the Darkness",
         "url": "https://open.spotify.com/album/1eVHCjvrzVFc8TJuZLn4RJ"
       },
@@ -1519,20 +1541,16 @@
       },
       "artists": [
         {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
           "name": "Fairlane",
           "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
           "name": "Jonathan Mendelsohn",
           "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        },
-        {
-          "name": "Paris Blohm",
-          "url": "https://open.spotify.com/artist/5lXf3xjcLx6BmYMY6TvczJ"
-        },
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         }
       ],
       "date_added": "2021-12-03",

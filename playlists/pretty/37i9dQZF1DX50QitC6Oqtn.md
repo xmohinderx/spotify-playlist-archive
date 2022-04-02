@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,455,583 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,456,062 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [You Say](https://open.spotify.com/track/72b0ANL1ZiV71OiZRs0Lny) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [You Say](https://open.spotify.com/album/7FwfJlq8fHPLqPH01FS6Lw) | 4:34 |
 | 100 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 |
 
-Snapshot ID: `MTY0ODc3NTAwNywwMDAwMDAwMDRhNGY4YWJiOWQ3ODgwNjc4Yzc3YTc0NTA4MDVhNzNk`
+Snapshot ID: `MTY0ODg2MDg2NywwMDAwMDAwMDRhNGY4YWJiOWQ3ODgwNjc4Yzc3YTc0NTA4MDVhNzNk`

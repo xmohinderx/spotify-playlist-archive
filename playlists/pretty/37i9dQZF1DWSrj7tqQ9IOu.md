@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,472 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,645 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 |
 | 50 | [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 |
 
-Snapshot ID: `MTY0ODc2NDAwMCwwMDAwMDFmYjAwMDAwMTdmZTFmZTE3YWEwMDAwMDE3ZmQxM2U4OTZk`
+Snapshot ID: `MTY0ODgwODgxOSwwMDAwMDFmYzAwMDAwMTdmZTRhOWY5YWIwMDAwMDE3ZmU0YTlkMjFi`

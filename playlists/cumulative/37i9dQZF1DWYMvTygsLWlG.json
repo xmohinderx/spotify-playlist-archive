@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 207440,
       "name": "(I Can't Help) Falling In Love With You",
       "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 221373,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7oHymG8r14Iv9zn5hFTNax"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/3CCCpjbs3uW018OkSguRFk"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 260004,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 251346,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/16fzReMJmcLlBccnZCTZNS"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 291400,
       "name": "Greatest Love of All",
       "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241506,
       "name": "Have I Told You Lately - 2008 Remaster",
       "url": "https://open.spotify.com/track/3S0pLtHQWFYCmNE9byQcWS"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 266973,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
@@ -1514,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
       },
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 248266,
       "name": "Hungry Eyes",
       "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 257959,
       "name": "I Can Love You Like That",
       "url": "https://open.spotify.com/track/4OnZR9U5JRFGF1Yza9j579"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 263933,
       "name": "I'll Be Loving You (Forever)",
       "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211960,
       "name": "I'll Never Love This Way Again",
       "url": "https://open.spotify.com/track/6knDV0tW6YIRG6XeIN3Xus"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 215906,
       "name": "If Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/7kyGvcO92A4qsfTib9soLV"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 205239,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4SeXXgTWlYeGbaa5CkenMp"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 221049,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/13IDNoCfqSo5ixi2WO2oOk"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231133,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MhK1gPrgtgRedEjSUz18I"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 250266,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/6iEDVsbUBGckKhuSBD3Eqf"
@@ -2557,10 +2575,28 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
+    },
+    {
+      "album": {
+        "name": "Tyler Shaw",
+        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
     },
     {
       "album": {
@@ -2575,7 +2611,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT"
@@ -2593,7 +2629,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 316440,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2rnvHrNnkWMcAkl4S1WlRg"
@@ -2611,7 +2647,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/4twhYPDyCP6ICeW3TtQVxP"
@@ -2665,7 +2701,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 233373,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5HmpVCza89KJc9cJA1T4sV"
@@ -2701,7 +2737,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
@@ -2719,7 +2755,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 171066,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/06PFbXPaMe1Jvh0OhfJZZP"
@@ -2755,7 +2791,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv"
@@ -2795,7 +2831,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
@@ -2975,7 +3011,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 192075,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/2uEJanMvnA1dXgX1ASnPQm"
@@ -3047,7 +3083,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -3069,7 +3105,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
@@ -3285,7 +3321,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
@@ -3321,7 +3357,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/5PKWUDfQFtc5qqo8cs1gQp"
@@ -3465,7 +3501,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
@@ -3487,7 +3523,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
@@ -3577,7 +3613,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
@@ -3613,7 +3649,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 273600,
       "name": "The Actor",
       "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
@@ -3631,7 +3667,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 256487,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/5tHbBxWjTxaQpL5SrT17Tz"
@@ -3703,7 +3739,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/4x3SQvTgvqSTU3nOL1urZh"
@@ -3721,7 +3757,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 215026,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/5iUzEn2QzBW0KEWNQO1KQC"
@@ -3739,7 +3775,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 201200,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0shGCs5AkhwJIgUb0SSz2B"
@@ -3941,7 +3977,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu"
@@ -4089,7 +4125,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 202000,
       "name": "What A Difference A Day Makes",
       "url": "https://open.spotify.com/track/5vfhrRAnmyJps6mborpakx"
@@ -4161,7 +4197,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
@@ -4251,7 +4287,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 286880,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/390AWnOn2rfe9FzQjYmxIH"
@@ -4287,7 +4323,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 295520,
       "name": "With Or Without You - Remastered",
       "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
@@ -4323,7 +4359,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231840,
       "name": "Woman in Love",
       "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
@@ -4395,7 +4431,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 252653,
       "name": "You & I (Nobody in the World)",
       "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"

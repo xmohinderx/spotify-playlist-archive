@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25 Foto: Maluma",
+  "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25 Foto: Lucas Pretti",
   "name": "Calorcito",
   "published_playlist_ids": [
     "0hWEX2Wmud5ZvfLlh8QTkr"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 149677,
       "name": "BUQUEZIN",
       "url": "https://open.spotify.com/track/5P2HCxfiEObQI9SyUWcPD1"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
@@ -903,6 +903,32 @@
       "duration_ms": 193006,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1TgS3E8FgysxKmntSNvGPy"
+    },
+    {
+      "album": {
+        "name": "Gostosa",
+        "url": "https://open.spotify.com/album/6SAUAGqXHUupJnUWZ0lUye"
+      },
+      "artists": [
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        },
+        {
+          "name": "3 TENORES",
+          "url": "https://open.spotify.com/artist/1JXdPhTg5MFPGQmgobTKUS"
+        },
+        {
+          "name": "Aroxa",
+          "url": "https://open.spotify.com/artist/3naE4Ajwsda9UkboyMC1Gb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218405,
+      "name": "Gostosa",
+      "url": "https://open.spotify.com/track/76VjdYvT71fK7O9j0kLoe0"
     },
     {
       "album": {
@@ -1576,6 +1602,28 @@
     },
     {
       "album": {
+        "name": "Onde Anda",
+        "url": "https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "Onde Anda",
+      "url": "https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK"
+    },
+    {
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1981,7 +2029,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"
@@ -2111,6 +2159,24 @@
       "duration_ms": 211436,
       "name": "Te Olvido",
       "url": "https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX"
+    },
+    {
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/3JqYyLydwNbHG4014uqd45"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132286,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1UrIIf3M5R2pOwkvh1F8NX"
     },
     {
       "album": {

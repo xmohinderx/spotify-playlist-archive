@@ -1836,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237078,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as"
+    },
+    {
+      "album": {
         "name": "Dancing With The Devil\u2026The Art of Starting Over (Expanded Edition)",
         "url": "https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE"
       },

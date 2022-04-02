@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 289680,
       "name": "(I've Had) The Time of My Life",
       "url": "https://open.spotify.com/track/5UqqOfFa9DYXALpCCF8VwB"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211253,
       "name": "A Night to Remember - Single Version",
       "url": "https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 382973,
       "name": "All Night Long (All Night)",
       "url": "https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 234906,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 181186,
       "name": "Axel F - From \"Beverly Hills Cop\"",
       "url": "https://open.spotify.com/track/2MXo0rStHudN4KrgJqz6bC"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245466,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5BG2gxrtwu1OSgXIhm5XEk"
@@ -420,6 +420,24 @@
     },
     {
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
+    },
+    {
+      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 249840,
       "name": "Dressed For Success",
       "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 279133,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/3szW87j0gVLQmpulz4P8Rf"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 256666,
       "name": "Feels Like I'm in Love",
       "url": "https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 319733,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3l0La6OOdycSjsDQ1uVJUb"
@@ -629,10 +647,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 237506,
       "name": "Freeze-Frame",
       "url": "https://open.spotify.com/track/6QqK6a1CmV4L504uMQaGDH"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Kool & The Gang (Reissue)",
+        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
     },
     {
       "album": {
@@ -741,7 +777,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 254240,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
@@ -777,7 +813,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 244773,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
@@ -795,7 +831,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
@@ -831,7 +867,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 247093,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/4V9BTST4BSkvOL4xIQNHuS"
@@ -885,7 +921,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245773,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4cUSgvW6wlxqzzxE3P4voV"
@@ -903,7 +939,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218066,
       "name": "Hot In The City - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/0MHTpNtTcrdseMWAhh7Sdp"
@@ -943,7 +979,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204440,
       "name": "I Should Be So Lucky",
       "url": "https://open.spotify.com/track/1MK5FOmm5ppLIS2Ga3jHlT"
@@ -1037,7 +1073,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Invisible Touch - Remastered 2007",
       "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 267226,
       "name": "Jump (For My Love)",
       "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 242253,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/49Z1CxsGFXeGSYAQpfk0Uv"
@@ -1325,7 +1361,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 262440,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
       "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
@@ -1343,7 +1379,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Live Is Life",
       "url": "https://open.spotify.com/track/6HtmSWRyxQKY4EgXPZMYfm"
@@ -1379,7 +1415,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 274066,
       "name": "Loco in Acapulco",
       "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
@@ -1397,7 +1433,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
@@ -1433,7 +1469,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 242000,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/1NUDglpwwjYElxi6siVRka"
@@ -1451,7 +1487,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "Making Your Mind Up",
       "url": "https://open.spotify.com/track/5SXH73DSNyEC7hCovUbV0q"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 246840,
       "name": "Money For Nothing - Edit",
       "url": "https://open.spotify.com/track/6YImepEnMjqiTNbGj9JNCN"
@@ -1541,7 +1577,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 253413,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw"
@@ -1703,7 +1739,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Respectable",
       "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
@@ -1725,7 +1761,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 236440,
       "name": "Rhythm Is Gonna Get You",
       "url": "https://open.spotify.com/track/69U1Mlh2xMxx3SGOL1mSXQ"
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 320733,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR"
@@ -1863,7 +1899,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 213066,
       "name": "Start Me Up - 2009 Re-Mastered Digital Version",
       "url": "https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8"
@@ -1917,10 +1953,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Sweet Little Mystery",
       "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
+    },
+    {
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Take My Heart (You Can Have It If You Want It)",
+      "url": "https://open.spotify.com/track/7jHOi7ls5RjJaOtmMSxY8w"
     },
     {
       "album": {
@@ -1960,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -1971,10 +2043,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
+    },
+    {
+      "album": {
+        "name": "Tell It to My Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Tell It to My Heart",
+      "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
     },
     {
       "album": {
@@ -1989,7 +2079,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -2007,7 +2097,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 253592,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
@@ -2043,7 +2133,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 192666,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
@@ -2061,7 +2151,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 193920,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
@@ -2079,7 +2169,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
@@ -2097,7 +2187,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "The Motown Song (with The Temptations) - 2008 Remaster",
       "url": "https://open.spotify.com/track/2GZ0dVvRcmtojWuPgBfKIl"
@@ -2187,7 +2277,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 233893,
       "name": "The Tide Is High - Edit",
       "url": "https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9"
@@ -2223,7 +2313,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 251866,
       "name": "Tonight I'm Yours (Don't Hurt Me)",
       "url": "https://open.spotify.com/track/5sgVguJJlA7thC8ybAFOo5"
@@ -2259,7 +2349,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204386,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
@@ -2295,7 +2385,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 244826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
@@ -2320,6 +2410,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits Collection (Collector Edition)",
+        "url": "https://open.spotify.com/album/5HY7d62IQ9p4snnM1d8qLM"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/2jAocF8z8pMh7Bt1Qibl1j"
+    },
+    {
+      "album": {
         "name": "Reel Life (Expanded Edition)",
         "url": "https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp"
       },
@@ -2331,7 +2439,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 270720,
       "name": "Waiting for a Star to Fall",
       "url": "https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC"
@@ -2349,7 +2457,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
@@ -2385,7 +2493,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
@@ -2403,7 +2511,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
@@ -2421,7 +2529,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
@@ -2439,7 +2547,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 293240,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
@@ -2457,7 +2565,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 244533,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
@@ -2475,10 +2583,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 233666,
       "name": "Whenever You Need Somebody",
       "url": "https://open.spotify.com/track/6aiKIFjPwa3UvDCD5ecoJj"
+    },
+    {
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "album": {
@@ -2511,7 +2637,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 273773,
       "name": "You Came",
       "url": "https://open.spotify.com/track/4EA4ybyDidKtkER5IhasZe"
@@ -2547,7 +2673,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
@@ -2601,7 +2727,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 172666,
       "name": "You Drive Me Crazy - (Single Version) [Remastered]",
       "url": "https://open.spotify.com/track/24e9ehPkZ6FtkMOdgxSGPQ"
@@ -2644,6 +2770,24 @@
     },
     {
       "album": {
+        "name": "Youthquake",
+        "url": "https://open.spotify.com/album/6d5tBL8NLw1Jdhr8D2w3PF"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/7uHO4AmKtyGa5v5fsElGoC"
+    },
+    {
+      "album": {
         "name": "The First & Second Album (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD"
       },
@@ -2673,7 +2817,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Young at Heart",
       "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"
@@ -2691,7 +2835,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Young Guns (Go for It!)",
       "url": "https://open.spotify.com/track/3PS1Q0c2VNKQMIiUusjlFf"

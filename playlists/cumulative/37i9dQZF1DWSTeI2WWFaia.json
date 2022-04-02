@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Pusha T",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Coast Contra",
   "name": "Spilled Ink",
   "published_playlist_ids": [
     "263ylGzX2g8MfE4QemXHet"
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187416,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
+    },
+    {
+      "album": {
         "name": "WHO MADE THE SUNSHINE",
         "url": "https://open.spotify.com/album/6NrUdvJpIEyaBg5zZSOoV4"
       },
@@ -137,7 +155,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 246117,
       "name": "98 Sabres (feat. Armani Caesar, Conway The Machine & Benny The Butcher)",
       "url": "https://open.spotify.com/track/2WHDnlggrjMCYA8GxwjUaA"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 190975,
       "name": "ARRIVAL",
       "url": "https://open.spotify.com/track/68wsw83peLu4AigGvNptKD"
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 157493,
       "name": "Attention Span",
       "url": "https://open.spotify.com/track/4E7RVxfUznLcNl6ozaCC4w"
@@ -317,7 +335,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "Been To War (feat. Swizz Beatz, DMX & French Montana)",
       "url": "https://open.spotify.com/track/3Eeekirm1H9JfvnAMvajph"
@@ -497,7 +515,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 241005,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
@@ -688,6 +706,24 @@
     },
     {
       "album": {
+        "name": "HOMME",
+        "url": "https://open.spotify.com/album/3hZ2Me5PAzjdSRbUf4nXod"
+      },
+      "artists": [
+        {
+          "name": "Kipp Stone",
+          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/4GPEMIgxW5mW9EKn2RKS3L"
+    },
+    {
+      "album": {
         "name": "Casamigos Freestyle",
         "url": "https://open.spotify.com/album/255y0FUpZ5VgDRDrSh7FiT"
       },
@@ -707,7 +743,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 169946,
       "name": "Casamigos Freestyle",
       "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
@@ -773,7 +809,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204248,
       "name": "Chaining Day",
       "url": "https://open.spotify.com/track/3DQORrfGUHMsNWY4qDpALB"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -839,6 +875,24 @@
       "duration_ms": 240000,
       "name": "Coastin'",
       "url": "https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa"
+    },
+    {
+      "album": {
+        "name": "Dollar Menu 2",
+        "url": "https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79098,
+      "name": "Continental Breakfast",
+      "url": "https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU"
     },
     {
       "album": {
@@ -889,10 +943,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 227063,
       "name": "Dangerookipawaa Freestyle",
       "url": "https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0"
+    },
+    {
+      "album": {
+        "name": "Black Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/0WkqYoTVOLg2ady3z0vusJ"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150975,
+      "name": "Deebo",
+      "url": "https://open.spotify.com/track/0oVkNzVdwPeaGytgc55v4o"
     },
     {
       "album": {
@@ -987,10 +1063,36 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 194157,
       "name": "Disobey",
       "url": "https://open.spotify.com/track/6mGNPrysaTQSGTkDym5d9v"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/4iYtBrRRFjNvxxKcqYOuMy"
+      },
+      "artists": [
+        {
+          "name": "Gavlyn",
+          "url": "https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI"
+        },
+        {
+          "name": "Lean Low",
+          "url": "https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz"
+        },
+        {
+          "name": "DJ Dubplates",
+          "url": "https://open.spotify.com/artist/3GLBKGIKOSjV9awed75pHA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/3MAyUdrMUpwChbjUHd2UE0"
     },
     {
       "album": {
@@ -1009,7 +1111,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -1089,7 +1191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 196052,
       "name": "Eggs",
       "url": "https://open.spotify.com/track/7b1S5gTtqudbiXfKLuAbEp"
@@ -1111,7 +1213,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 219800,
       "name": "Ego Check",
       "url": "https://open.spotify.com/track/14y5Ue6VsYiJS4vhNJ2bKu"
@@ -1129,7 +1231,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 172919,
       "name": "Emo Stick",
       "url": "https://open.spotify.com/track/1skLCDR1M1zPulz3lgiZJt"
@@ -1258,6 +1360,28 @@
     },
     {
       "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131909,
+      "name": "Freedom of Speech (with J. Cole)",
+      "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "album": {
         "name": "Fat Niggas Need Love Too",
         "url": "https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D"
       },
@@ -1353,7 +1477,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 203837,
       "name": "Glowing Mics - Founders RMX",
       "url": "https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB"
@@ -1375,7 +1499,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
@@ -1393,7 +1517,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1529,7 +1653,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 192000,
       "name": "HEAD SHOTS",
       "url": "https://open.spotify.com/track/1EFKZQ8T6EipEf1DxeZwl7"
@@ -1569,7 +1693,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 141547,
       "name": "Hear Me Clearly (with Nigo)",
       "url": "https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS"
@@ -1709,7 +1833,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180680,
       "name": "How You Live It (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
@@ -1749,10 +1873,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 255693,
       "name": "I Love You, I Hate You",
       "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Ice Cream (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
     },
     {
       "album": {
@@ -1931,7 +2077,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
@@ -1997,7 +2143,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 183608,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/1yz2ll2Xi1ycXhkwxtsdQ3"
@@ -2063,7 +2209,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "King's Blvd 2",
       "url": "https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7"
@@ -2230,6 +2376,28 @@
     },
     {
       "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "Like Wine (with Lute)",
+      "url": "https://open.spotify.com/track/2hflEM2ceD3eYZvxglqo5S"
+    },
+    {
+      "album": {
         "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2HXNzxTADIP8471UeJXDWw"
       },
@@ -2303,7 +2471,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 251935,
       "name": "Meant To Put A Hook",
       "url": "https://open.spotify.com/track/1rQiJnPlBpQX7KpZY3AgDL"
@@ -2474,6 +2642,24 @@
     },
     {
       "album": {
+        "name": "Quick Escape",
+        "url": "https://open.spotify.com/album/2adxeISk06Yqt7RmLgKBVt"
+      },
+      "artists": [
+        {
+          "name": "Dibia$E",
+          "url": "https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200315,
+      "name": "Movin Blocks",
+      "url": "https://open.spotify.com/track/5NDrJK7uEOB2bML5q7d40x"
+    },
+    {
+      "album": {
         "name": "Mr. Miyagi",
         "url": "https://open.spotify.com/album/6rErVqrK0NASHQsrQXgz0t"
       },
@@ -2613,7 +2799,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 182336,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U"
@@ -2697,7 +2883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 152000,
       "name": "Off Tha Strength",
       "url": "https://open.spotify.com/track/3ATweXqVnpCWvAAUP2nCXs"
@@ -2719,7 +2905,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 198998,
       "name": "One Way Flight (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
@@ -2745,7 +2931,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183826,
       "name": "ooh la la (feat. Greg Nice & DJ Premier)",
       "url": "https://open.spotify.com/track/4duqfee47U0bYpEGkIBp47"
@@ -2767,7 +2953,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 302493,
       "name": "Oprah",
       "url": "https://open.spotify.com/track/3IHwH8tPmchRYNCOMYvPOl"
@@ -2807,7 +2993,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -2825,7 +3011,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
@@ -3163,7 +3349,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190921,
       "name": "Same Game Parlay",
       "url": "https://open.spotify.com/track/1vbUf11M5Ydd6mqN8AIEoA"
@@ -3215,7 +3401,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
@@ -3241,7 +3427,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 187238,
       "name": "Scottie Pippens (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/19O7OqzwiT0U5DKec68WJR"
@@ -3277,7 +3463,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 199803,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
@@ -3379,7 +3565,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 170353,
       "name": "Slip",
       "url": "https://open.spotify.com/track/6TH7vmxNibiSynNVMZU5bW"
@@ -3439,7 +3625,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 195629,
       "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
       "url": "https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz"
@@ -3534,6 +3720,36 @@
     },
     {
       "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        },
+        {
+          "name": "Omen",
+          "url": "https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270044,
+      "name": "Starting 5 (with Lute, Cozz & Omen)",
+      "url": "https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj"
+    },
+    {
+      "album": {
         "name": "Streams of Thought, Vol. 3: Cane & Able",
         "url": "https://open.spotify.com/album/2LEEg9PQsJqQuhBU0poSrd"
       },
@@ -3567,7 +3783,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -3607,7 +3823,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 264413,
       "name": "Stockholm Syndrome (feat. KXNG Crooked)",
       "url": "https://open.spotify.com/track/2jeUX4OsipQqpeiBCWSnGR"
@@ -3625,7 +3841,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180672,
       "name": "Stolen Greatness",
       "url": "https://open.spotify.com/track/5NI8sIgUyEj0tDXoghqVja"
@@ -3809,7 +4025,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -3831,7 +4047,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -3875,7 +4091,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211773,
       "name": "The Dakota",
       "url": "https://open.spotify.com/track/6KeSzWJ7a6fotPJgAmi3jd"
@@ -3967,7 +4183,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 125680,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5LyK4EaVofQjOvJ4OGhdfv"
@@ -3993,7 +4209,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 137688,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/6zBiYnh5AmAWtkO709qTZb"
@@ -4011,7 +4227,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 194358,
       "name": "The Parables",
       "url": "https://open.spotify.com/track/0uinQuLSYDMua89kLVVnjv"
@@ -4051,7 +4267,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
@@ -4087,7 +4303,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -4113,7 +4329,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 155454,
       "name": "Three Cuts (feat. Maino)",
       "url": "https://open.spotify.com/track/35qdXRGCZj9isoXmae1gUy"
@@ -4171,7 +4387,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
@@ -4255,7 +4471,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 113120,
       "name": "True Indeed",
       "url": "https://open.spotify.com/track/60VgKrIVA9iyq27h7PQw8H"
@@ -4473,7 +4689,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 220029,
       "name": "Welcome To America (feat. C.S. Armstrong & Angela Hunte)",
       "url": "https://open.spotify.com/track/26tITm62Ipdj2cUVksBKJA"
@@ -4495,7 +4711,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 323303,
       "name": "Who Wants What",
       "url": "https://open.spotify.com/track/2z3woIGj8hClFZVq0Hvcwr"
@@ -4535,7 +4751,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 170133,
       "name": "Worst Comes To Worst",
       "url": "https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049"
@@ -4575,7 +4791,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

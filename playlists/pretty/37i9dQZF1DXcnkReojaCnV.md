@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,817 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,897 likes - 49 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 25 | [Get Down](https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:27 |
 | 26 | [Known Unknowns](https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:48 |
 | 27 | [Ancestors](https://open.spotify.com/track/2ILNpVJ177m2QOGZUaUxHb) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Ancestors](https://open.spotify.com/album/3aWCveWoOV0ELaCK5SKrEr) | 4:30 |
-| 28 | [Almost There](https://open.spotify.com/track/5buyXk8EKX2uhz0Hzh5Tsc) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Almost There](https://open.spotify.com/album/2RwKGdB1skxMPSrgQGnjWX) | 2:47 |
+| 28 | [Almost There](https://open.spotify.com/track/5buyXk8EKX2uhz0Hzh5Tsc) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Almost There](https://open.spotify.com/album/2RwKGdB1skxMPSrgQGnjWX) | 2:47 |
 | 29 | [Talkin' 'Bout A Train, Pt\. 1 \(feat\. Billy Branch\)](https://open.spotify.com/track/6GwO465BBQuziWbL0t4D0u) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 4:08 |
 | 30 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 |
 | 31 | [Everyday](https://open.spotify.com/track/4t7qwCzvPrwdqTjRVVsu5N) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Shine a Light on Me Brother](https://open.spotify.com/album/6SmC4gYKqblwijbM7Y5Lzl) | 4:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 48 | [Generation Calling](https://open.spotify.com/track/2OIQxtcOQODZMzfWKCuhmY) | [Bluhauz](https://open.spotify.com/artist/3qoRE55TbnjvrjEzZd8sEL) | [Bluhauz](https://open.spotify.com/album/4cV8uUMMlKNxZA7ZNY1ONt) | 4:16 |
 | 49 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 |
 
-Snapshot ID: `MTY0ODc3NTI0OCwwMDAwMDAwMDIwN2ViZDM0MzcyMTAyNjg0NDE5OTg5ZWIzNDUwYjM0`
+Snapshot ID: `MTY0ODg2MTEwNiwwMDAwMDAwMDIwN2ViZDM0MzcyMTAyNjg0NDE5OTg5ZWIzNDUwYjM0`

@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Tom Douglas
+> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Caitlyn Smith
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Don't Blink](https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Don't Blink](https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh) | 3:28 | 2022-01-01 |  |
 | [Down The Road](https://open.spotify.com/track/5V1wJIVsCLJYT0wkaXurgM) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Knots](https://open.spotify.com/album/2BCRw5IQh8rW13HQblB4ib) | 2:40 | 2022-01-01 |  |
 | [Downtown \(feat\. Natalie Hemby\)](https://open.spotify.com/track/6l6fsYZc1NHmp9p6tT2E3I) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:40 | 2022-01-01 |  |
+| [Dreamin's Free](https://open.spotify.com/track/6sg8Y3ZwBdVWF03V7jzHgS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Dreamin's Free](https://open.spotify.com/album/2FjepQmwZU2S6NWykgszPD) | 3:38 | 2022-04-01 |  |
 | [Drinkin Problem](https://open.spotify.com/track/2wwGUeBTAwy9IEy3MIvSoS) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:41 | 2022-01-01 |  |
 | [Drowns the Whiskey](https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:22 | 2022-01-01 |  |
 | [Either](https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:00 | 2022-01-01 |  |
@@ -151,7 +152,7 @@
 | [That's Why I Don't Drink Anymore](https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:00 | 2022-01-01 |  |
 | [The Better Part of Living](https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:37 | 2022-01-01 |  |
 | [The Cowboy In Me](https://open.spotify.com/track/3cciDMejW1xa9uCe4EFJTZ) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 3:56 | 2022-01-01 |  |
-| [The Dream](https://open.spotify.com/track/13Afx0TSu0tO8xJEiZUjCK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 4:29 | 2022-01-01 |  |
+| [The Dream](https://open.spotify.com/track/13Afx0TSu0tO8xJEiZUjCK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 4:29 | 2022-01-01 | 2022-04-02 |
 | [The Driver](https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [The Driver](https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P) | 4:34 | 2022-02-28 |  |
 | [The First Time](https://open.spotify.com/track/1WAsZTfZMtOyhtDoCtw7Tq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:53 | 2022-01-01 |  |
 | [The Fool](https://open.spotify.com/track/67fSXnfdUJZuKmvgFnictD) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 3:52 | 2022-01-01 |  |

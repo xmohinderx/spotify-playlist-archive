@@ -2722,6 +2722,24 @@
     },
     {
       "album": {
+        "name": "Looking High",
+        "url": "https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261370,
+      "name": "Looking High",
+      "url": "https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6"
+    },
+    {
+      "album": {
         "name": "Looking Tragic / Begging For Trouble",
         "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
       },
@@ -4507,6 +4525,24 @@
       "duration_ms": 373898,
       "name": "The Writing On The Wall",
       "url": "https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q"
+    },
+    {
+      "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236216,
+      "name": "These Are the Ways",
+      "url": "https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ"
     },
     {
       "album": {

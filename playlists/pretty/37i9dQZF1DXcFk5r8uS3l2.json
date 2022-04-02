@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 406082,
+  "num_followers": 406151,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODUwMDY0MywwMDAwMDAzOTAwMDAwMTdmZDI0Yjk2MTAwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDAzYTAwMDAwMTdmZTM0OTgzMzEwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/35a3US8iAh300740OipUz0"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 293800,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE"
+    },
     {
       "added_at": "2022-03-28 20:50:43",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 242990,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "First McDonell's on the Moon",
+        "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
+      },
+      "artists": [
+        {
+          "name": "Jake La Botz",
+          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "First McDonell's on the Moon",
+      "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
     },
     {
       "added_at": "2022-03-18 05:00:00",

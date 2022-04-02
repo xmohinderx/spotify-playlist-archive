@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=tg3otdV9QlyCbP9\-Gpxb1w">Kid Fonque</a> and <a href="https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am?si=tAv9OjnPQYKeOMgQ\_96noA">Miči</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,422 likes - 80 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,444 likes - 80 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

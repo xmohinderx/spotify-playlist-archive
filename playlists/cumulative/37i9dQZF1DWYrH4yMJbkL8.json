@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Kyle McKearney",
+  "description": "A free space for Indigenous creators in Canada. Currently curated by Jason Benoit",
   "name": "Indigenous",
   "published_playlist_ids": [
     "3SSsubeAfIHbsO9Jxcto5j"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Lot About A Little",
+        "url": "https://open.spotify.com/album/3vki6Q7nFB6jldMTdGi5zg"
+      },
+      "artists": [
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        },
+        {
+          "name": "JDZL",
+          "url": "https://open.spotify.com/artist/6fb7ZYidj3Ps1dEdN9g1YG"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233076,
+      "name": "A Lot About A Little",
+      "url": "https://open.spotify.com/track/2ZzSjyVPiCk7II9D37qnuW"
+    },
     {
       "album": {
         "name": "For the Light",
@@ -19,7 +41,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 228560,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3nJJPUgVPvyuhjT6z2jUAZ"
@@ -37,7 +59,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 221696,
       "name": "Ancestor",
       "url": "https://open.spotify.com/track/2f5CrLj19TVmORQCd8iicx"
@@ -55,7 +77,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 243841,
       "name": "Annie",
       "url": "https://open.spotify.com/track/7wj4nbCcjgxg7AqZZq9hwu"
@@ -73,7 +95,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 221392,
       "name": "Child Of The Government",
       "url": "https://open.spotify.com/track/64CgHKu5BPzju2hO2ECiZL"
@@ -91,7 +113,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 172135,
       "name": "Dancing with Sue",
       "url": "https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw"
@@ -109,10 +131,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185307,
       "name": "Dancing with the Wind",
       "url": "https://open.spotify.com/track/2EOUQ6w9kTeIUREFR4MklM"
+    },
+    {
+      "album": {
+        "name": "Devil in a Bottle",
+        "url": "https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc"
+      },
+      "artists": [
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227334,
+      "name": "Devil in a Bottle",
+      "url": "https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY"
     },
     {
       "album": {
@@ -134,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Storms & Prayers",
+        "url": "https://open.spotify.com/album/15VnjksOnWjQ2jOI8fBu67"
+      },
+      "artists": [
+        {
+          "name": "Silver Wolf Band",
+          "url": "https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242016,
+      "name": "Estuary",
+      "url": "https://open.spotify.com/track/0mZSiluhn7DHxP1FijMUyQ"
+    },
+    {
+      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3WFHi1VhhypAPxlPoNurin"
       },
@@ -145,7 +203,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204764,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/4BQAqvQxyR5Pzw0U8IALRp"
@@ -163,10 +221,68 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 217050,
       "name": "Flight",
       "url": "https://open.spotify.com/track/7LsskZ9PCBpHinfufQmxUZ"
+    },
+    {
+      "album": {
+        "name": "Whenever I Sing",
+        "url": "https://open.spotify.com/album/5D1kMQxoUAYECHhQgQXTd5"
+      },
+      "artists": [
+        {
+          "name": "Lorna Lovell",
+          "url": "https://open.spotify.com/artist/7GOBaO9wC9pbn1uq3JKxLv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180323,
+      "name": "Fly in My Whiskey",
+      "url": "https://open.spotify.com/track/6hupIsruxJbRJWHQ7NbY26"
+    },
+    {
+      "album": {
+        "name": "Righteous Empowered Daughter",
+        "url": "https://open.spotify.com/album/5a3MMPUeIzfRJSI4vTa5px"
+      },
+      "artists": [
+        {
+          "name": "JB the First Lady",
+          "url": "https://open.spotify.com/artist/52iYAFIyDuVyz9JGoeBOzf"
+        },
+        {
+          "name": "Dioganhdih",
+          "url": "https://open.spotify.com/artist/6TP953nKCm9up5b1L44Cyf"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153707,
+      "name": "Front Lines",
+      "url": "https://open.spotify.com/track/3O0E9xto0BczECN85ha6AB"
+    },
+    {
+      "album": {
+        "name": "Gone Long Gone",
+        "url": "https://open.spotify.com/album/3FWY5HnGBULy1gX7VWQikM"
+      },
+      "artists": [
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Gone Long Gone",
+      "url": "https://open.spotify.com/track/4GUajvtgltALao5ZxiX6fL"
     },
     {
       "album": {
@@ -181,10 +297,46 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 207240,
       "name": "High That I'm Riding",
       "url": "https://open.spotify.com/track/5p7dU3mxI2JGny4aa5rMcx"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/3xHVMfJDW526MFVGWayJlz"
+      },
+      "artists": [
+        {
+          "name": "Twin Flames",
+          "url": "https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271006,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/0DWT4gkxb4aJZ9ikOGevxg"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Martin",
+          "url": "https://open.spotify.com/artist/19USU50LosOeX1eEJrcyC5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "I Got My Music",
+      "url": "https://open.spotify.com/track/0lkwSNhkQAOZo3uTFuxPJW"
     },
     {
       "album": {
@@ -199,7 +351,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 212647,
       "name": "If It Makes You Feel Better",
       "url": "https://open.spotify.com/track/5lIgDjGxuSVrNh7RmpAwKo"
@@ -217,10 +369,82 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245029,
       "name": "If the Sun Burns Out",
       "url": "https://open.spotify.com/track/3x599tHSl0Oq9VHFXoa5wz"
+    },
+    {
+      "album": {
+        "name": "Wa-Chic-Ka-Nocka",
+        "url": "https://open.spotify.com/album/0AUzYEioXx2yoYpNy6iymj"
+      },
+      "artists": [
+        {
+          "name": "The Chieftones",
+          "url": "https://open.spotify.com/artist/4GJgL0UJeen6mSkKIvxQzg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Indian Moon",
+      "url": "https://open.spotify.com/track/3D70CWH5aMeIsfIazEif46"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Leland Bell",
+          "url": "https://open.spotify.com/artist/3BSX3zjlF5Ac0meaUO5Fvo"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Messenger",
+      "url": "https://open.spotify.com/track/6JOYyS95P8oVdN1ggQ9VRY"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Meaningless",
+        "url": "https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW"
+      },
+      "artists": [
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "My Poor Mama",
+      "url": "https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2"
+    },
+    {
+      "album": {
+        "name": "Wolastoqiyik Lintuwakonawa",
+        "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129873,
+      "name": "Nipuwoltin",
+      "url": "https://open.spotify.com/track/6A4Gcb1sc1r2FTgnOljhUF"
     },
     {
       "album": {
@@ -235,7 +459,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 205983,
       "name": "Nothing Is Meaningless",
       "url": "https://open.spotify.com/track/3FKtv1Gu9UEM48u6MtbFZM"
@@ -260,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Landry",
+          "url": "https://open.spotify.com/artist/5JcrDVlDFIcpmPsEkfeJba"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/7nIamiKMwjk1l7TI0Dknrz"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0rGSN3nxc4AEbpuk6is2HU"
       },
@@ -271,7 +513,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 182733,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2BmNV0lBwhUaehpe1TyPQc"
@@ -289,10 +531,64 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 198093,
       "name": "Politician Man",
       "url": "https://open.spotify.com/track/7E7bFt81uo6ds3BvMtsZ6p"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/753DV9snkzm0Qb08WJYJpT"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sutherland",
+          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199596,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/1rClDAbfD9Cfiz1AkWwnNn"
+    },
+    {
+      "album": {
+        "name": "Context: Fearless Pt. I (Live Expanded)",
+        "url": "https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231179,
+      "name": "Right Way Back",
+      "url": "https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Gordon Dick",
+          "url": "https://open.spotify.com/artist/5TgnDLzzryrV5D3xiXgEFH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "Siwash Rock",
+      "url": "https://open.spotify.com/track/52ifCChX6KmZi6AvtjKK19"
     },
     {
       "album": {
@@ -307,10 +603,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 202040,
       "name": "Song To A Seagull",
       "url": "https://open.spotify.com/track/1YMS1LthmLzPHi0TwWGDLw"
+    },
+    {
+      "album": {
+        "name": "Medicine Songs",
+        "url": "https://open.spotify.com/album/5MtNWw5VzcKCnwjP0QeipE"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185687,
+      "name": "Starwalker",
+      "url": "https://open.spotify.com/track/2wd7cm8Xb2ll1uTQfTs6cU"
     },
     {
       "album": {
@@ -325,10 +639,46 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 147226,
       "name": "Sweet Avalon",
       "url": "https://open.spotify.com/track/2TiV9Z0RZccdhM2OrBTjgQ"
+    },
+    {
+      "album": {
+        "name": "Sweet Summer Rain",
+        "url": "https://open.spotify.com/album/11xUscBZsjBMFmqHHvxrFb"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316120,
+      "name": "Sweet Summer Rain",
+      "url": "https://open.spotify.com/track/0exvlmgsMnI4MZZ0yI4fBH"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/4PTQWYSq2Qu61CJr1LAUF2"
+      },
+      "artists": [
+        {
+          "name": "The Jerry Cans",
+          "url": "https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "Swell (My Brother)",
+      "url": "https://open.spotify.com/track/4Dht9fJEqWb4FTKcGxt8me"
     },
     {
       "album": {
@@ -343,7 +693,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 217986,
       "name": "That's All I'll Ever Become",
       "url": "https://open.spotify.com/track/0bFgyBZ2P5EzbAbVd0UquH"
@@ -361,7 +711,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 182133,
       "name": "The Circle Game",
       "url": "https://open.spotify.com/track/4iTSDr8jIXEfJcyl9qymmC"
@@ -379,10 +729,46 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213891,
       "name": "The Devil Is a Blue-Eyed Man",
       "url": "https://open.spotify.com/track/6HM2TMrmjddBj85UQIEh8t"
+    },
+    {
+      "album": {
+        "name": "Qama'si",
+        "url": "https://open.spotify.com/album/79P3tJ2AyGqDQCnyIXyT7s"
+      },
+      "artists": [
+        {
+          "name": "Eastern Owl",
+          "url": "https://open.spotify.com/artist/2wBTyXK47606CGh9Z4CAWK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233559,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/5bD15PuYRfznglHHcxDJk3"
+    },
+    {
+      "album": {
+        "name": "It Gives Us Life: Powwow",
+        "url": "https://open.spotify.com/album/76iIF6hsQzgXDv1F3UqphZ"
+      },
+      "artists": [
+        {
+          "name": "Eastern Eagle",
+          "url": "https://open.spotify.com/artist/2OU3WYEu1l3s9T5llBmC22"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393330,
+      "name": "The Mi'kmaq Honour Song",
+      "url": "https://open.spotify.com/track/29fyAPnj38vR2BPwTdj2zg"
     },
     {
       "album": {
@@ -397,7 +783,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 239693,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/11AyynOmB7yiXr84DzEsxj"
@@ -415,7 +801,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 342552,
       "name": "The Witching Hour (Electric Witch)",
       "url": "https://open.spotify.com/track/7K9isvfuLxPwZTg8aDDCe3"
@@ -433,7 +819,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183493,
       "name": "These Hands",
       "url": "https://open.spotify.com/track/0Er5XcY7648ME9yYzZHV8L"
@@ -451,7 +837,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 191946,
       "name": "Tough or Die",
       "url": "https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN"

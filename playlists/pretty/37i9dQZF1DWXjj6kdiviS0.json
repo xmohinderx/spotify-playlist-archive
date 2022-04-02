@@ -1,12 +1,12 @@
 {
   "description": "Classics from the Baroque era. ",
-  "num_followers": 241127,
+  "num_followers": 241183,
   "original_name": "Baroque Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0MjQwMCwwMDAwMDAyZjAwMDAwMTdlOWVkNzBhODkwMDAwMDE3YTE0ZmMyOTZj",
+  "snapshot_id": "MTY0ODc5OTI4NCwwMDAwMDAzMDAwMDAwMTdmZTQxODdkMTUwMDAwMDE3YTE0ZmMyOTZj",
   "tracks": [
     {
       "added_at": "2022-01-28 04:00:00",
@@ -163,30 +163,6 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Mozart: Eine Kleine Nachtmusik etc.",
-        "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
-      },
-      "artists": [
-        {
-          "name": "Luigi Boccherini",
-          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Boccherini: String Quintet in E Major, Op. 13 No. 6, G. 282: III. Minuetto - Trio",
-      "url": "https://open.spotify.com/track/6e85fziCk6MwZUxWyG6Ijm"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
         "name": "Eleven String Baroque",
         "url": "https://open.spotify.com/album/5PLhV92TFsYvktcyaSVOlj"
       },
@@ -339,58 +315,6 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Notte Veneziana",
-        "url": "https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO"
-      },
-      "artists": [
-        {
-          "name": "Tomaso Albinoni",
-          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
-        },
-        {
-          "name": "Remo Giazotto",
-          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
-        },
-        {
-          "name": "Stefan Klieme",
-          "url": "https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        },
-        {
-          "name": "L'Arte del mondo",
-          "url": "https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY"
-        }
-      ],
-      "duration_ms": 300213,
-      "name": "Adagio in G Minor (Arr. for Harp and Orchestra)",
-      "url": "https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
-        "name": "Bach: The Well-Tempered Consort \u2013 I",
-        "url": "https://open.spotify.com/album/3TVnSNWJyJAqCwDYwrcw9V"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Phantasm",
-          "url": "https://open.spotify.com/artist/11Bs9ajBLOhJZvoEgcreha"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
-      "url": "https://open.spotify.com/track/7IA9tR3VtbnxQTuymADA8h"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
         "name": "The Heart of the Cello",
         "url": "https://open.spotify.com/album/67OxzjLmatJxu3duDm6WxC"
       },
@@ -443,26 +367,6 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "The Trio Sonata in 17th-Century Italy",
-        "url": "https://open.spotify.com/album/4K2MH4I7cUjyQju7jGtUc8"
-      },
-      "artists": [
-        {
-          "name": "Francesco Cavalli",
-          "url": "https://open.spotify.com/artist/4O3ye8h9arB5PvQiOxM38p"
-        },
-        {
-          "name": "London Baroque",
-          "url": "https://open.spotify.com/artist/7ncWTUsnXmNzgX5AYjmile"
-        }
-      ],
-      "duration_ms": 331054,
-      "name": "Musiche sacre concernenti messa, e salmi concertati con istromenti, imni, antifone et sonate: Canzon a 3",
-      "url": "https://open.spotify.com/track/7t7EWUauVFKkZYQT8QopK2"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
         "name": "Simply Baroque - Expanded Edition",
         "url": "https://open.spotify.com/album/7cVIup75QXUN2uSAh2t4b9"
       },
@@ -511,6 +415,30 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik etc.",
+        "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
+      },
+      "artists": [
+        {
+          "name": "Luigi Boccherini",
+          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Boccherini: String Quintet in E Major, Op. 13 No. 6, G. 282: III. Minuetto - Trio",
+      "url": "https://open.spotify.com/track/6e85fziCk6MwZUxWyG6Ijm"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
         "name": "Quantz: Flute Concertos",
         "url": "https://open.spotify.com/album/0o6MeZ4XBXHaTqwgXTtGL3"
       },
@@ -535,30 +463,6 @@
       "duration_ms": 349613,
       "name": "Flute Concerto in D Minor, QV 5:81: II. Arioso",
       "url": "https://open.spotify.com/track/0JWcB3Vvz1XWqM1BIky8zn"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
-        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
-        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Nicola Benedetti",
-          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
-        },
-        {
-          "name": "Benedetti Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
-      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -687,6 +591,38 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
+        "name": "Notte Veneziana",
+        "url": "https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO"
+      },
+      "artists": [
+        {
+          "name": "Tomaso Albinoni",
+          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
+        },
+        {
+          "name": "Remo Giazotto",
+          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
+        },
+        {
+          "name": "Stefan Klieme",
+          "url": "https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        },
+        {
+          "name": "L'Arte del mondo",
+          "url": "https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "Adagio in G Minor (Arr. for Harp and Orchestra)",
+      "url": "https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
         "name": "Fran\u00e7ois Couperin: Pi\u00e8ces de violes 1728",
         "url": "https://open.spotify.com/album/6ZOLFFLtDLD2wCGOxGVuDm"
       },
@@ -711,22 +647,46 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0"
+        "name": "The Trio Sonata in 17th-Century Italy",
+        "url": "https://open.spotify.com/album/4K2MH4I7cUjyQju7jGtUc8"
       },
       "artists": [
         {
-          "name": "Marin Marais",
-          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+          "name": "Francesco Cavalli",
+          "url": "https://open.spotify.com/artist/4O3ye8h9arB5PvQiOxM38p"
         },
         {
-          "name": "Philippe Pierlot",
-          "url": "https://open.spotify.com/artist/02U08GYoxomDe3lyEmMvNp"
+          "name": "London Baroque",
+          "url": "https://open.spotify.com/artist/7ncWTUsnXmNzgX5AYjmile"
         }
       ],
-      "duration_ms": 368929,
-      "name": "Pi\u00e8ces de viole, Livre 2 - Suite No. 3 in D Major: No. 63. Les Voix Humaines (Lentement)",
-      "url": "https://open.spotify.com/track/1b7Gui95FOHRRza7gh8KDf"
+      "duration_ms": 331054,
+      "name": "Musiche sacre concernenti messa, e salmi concertati con istromenti, imni, antifone et sonate: Canzon a 3",
+      "url": "https://open.spotify.com/track/7t7EWUauVFKkZYQT8QopK2"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
+        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Benedetti Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -751,6 +711,26 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
+        "name": "Bach: The Well-Tempered Consort \u2013 I",
+        "url": "https://open.spotify.com/album/3TVnSNWJyJAqCwDYwrcw9V"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Phantasm",
+          "url": "https://open.spotify.com/artist/11Bs9ajBLOhJZvoEgcreha"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
+      "url": "https://open.spotify.com/track/7IA9tR3VtbnxQTuymADA8h"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
         "name": "The Trio Sonata in 18th-Century Germany",
         "url": "https://open.spotify.com/album/47PlVohR4uavZoER2ti8OD"
       },
@@ -767,30 +747,6 @@
       "duration_ms": 195680,
       "name": "Trio Sonata No. 4 in C Major: I. Adagio",
       "url": "https://open.spotify.com/track/1HPcyCEdd3b1inMCmqMgut"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
-        "name": "All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...",
-        "url": "https://open.spotify.com/album/4bt4Ytdca9kcGGysElYIba"
-      },
-      "artists": [
-        {
-          "name": "Christina Pluhar",
-          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
-        },
-        {
-          "name": "Maurizio Cazzati",
-          "url": "https://open.spotify.com/artist/0RmIi9D8DWjiyivNnp0IPW"
-        },
-        {
-          "name": "L'Arpeggiata",
-          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Ciaccona (I)",
-      "url": "https://open.spotify.com/track/3QJrYXsAWshnTzzHzapRCz"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -907,30 +863,22 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9"
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
         },
         {
-          "name": "HAUSER",
-          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Philippe Pierlot",
+          "url": "https://open.spotify.com/artist/02U08GYoxomDe3lyEmMvNp"
         }
       ],
-      "duration_ms": 289640,
-      "name": "Air on a G String",
-      "url": "https://open.spotify.com/track/0mD1a7haZKdX9I0oPywrMb"
+      "duration_ms": 368929,
+      "name": "Pi\u00e8ces de viole, Livre 2 - Suite No. 3 in D Major: No. 63. Les Voix Humaines (Lentement)",
+      "url": "https://open.spotify.com/track/1b7Gui95FOHRRza7gh8KDf"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -959,26 +907,26 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Marais: Pieces de Viole",
-        "url": "https://open.spotify.com/album/0xTKwdmMk6FxXmdOMQQ8q6"
+        "name": "Handel: Greatest Hits",
+        "url": "https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO"
       },
       "artists": [
         {
-          "name": "Marin Marais",
-          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Mieneke van der Velden",
-          "url": "https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp"
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
         },
         {
-          "name": "Glen Wilson",
-          "url": "https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs"
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
         }
       ],
-      "duration_ms": 147560,
-      "name": "Suite in G major: Pr\u00e9lude - lentement",
-      "url": "https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM"
+      "duration_ms": 350493,
+      "name": "Largo from Xerxes",
+      "url": "https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -1007,26 +955,78 @@
     {
       "added_at": "2022-01-28 04:00:00",
       "album": {
-        "name": "Handel: Greatest Hits",
-        "url": "https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO"
+        "name": "All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...",
+        "url": "https://open.spotify.com/album/4bt4Ytdca9kcGGysElYIba"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Christina Pluhar",
+          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
         },
         {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+          "name": "Maurizio Cazzati",
+          "url": "https://open.spotify.com/artist/0RmIi9D8DWjiyivNnp0IPW"
         },
         {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+          "name": "L'Arpeggiata",
+          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
         }
       ],
-      "duration_ms": 350493,
-      "name": "Largo from Xerxes",
-      "url": "https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR"
+      "duration_ms": 232626,
+      "name": "Ciaccona (I)",
+      "url": "https://open.spotify.com/track/3QJrYXsAWshnTzzHzapRCz"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
+        "name": "Marais: Pieces de Viole",
+        "url": "https://open.spotify.com/album/0xTKwdmMk6FxXmdOMQQ8q6"
+      },
+      "artists": [
+        {
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+        },
+        {
+          "name": "Mieneke van der Velden",
+          "url": "https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp"
+        },
+        {
+          "name": "Glen Wilson",
+          "url": "https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs"
+        }
+      ],
+      "duration_ms": 147560,
+      "name": "Suite in G major: Pr\u00e9lude - lentement",
+      "url": "https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM"
+    },
+    {
+      "added_at": "2022-01-28 04:00:00",
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 289640,
+      "name": "Air on a G String",
+      "url": "https://open.spotify.com/track/0mD1a7haZKdX9I0oPywrMb"
     }
   ],
   "unique_name": "Baroque Classics",

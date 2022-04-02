@@ -79,7 +79,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 876013,
       "name": "A Chantar",
       "url": "https://open.spotify.com/track/53IDumFHPm0UcQbT1uSc0B"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 560306,
       "name": "A chantar m'er",
       "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 291493,
       "name": "A Knight's Hawk",
       "url": "https://open.spotify.com/track/446dXplcK51CB7NjjFQWrb"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183813,
       "name": "Angnel son biancho",
       "url": "https://open.spotify.com/track/0KrzTJwsbO8maFxZNmbO6e"
@@ -1856,6 +1856,32 @@
     },
     {
       "album": {
+        "name": "The Landscape of the Polyphonists",
+        "url": "https://open.spotify.com/album/7wEiKsiDVgMcFioPLkp4Ks"
+      },
+      "artists": [
+        {
+          "name": "Antoine Busnois",
+          "url": "https://open.spotify.com/artist/1bAvQk2VaIRTiRhw22y2tX"
+        },
+        {
+          "name": "Huelgas Ensemble",
+          "url": "https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM"
+        },
+        {
+          "name": "Paul Van Nevel",
+          "url": "https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308586,
+      "name": "Bel Acueil, rondeau \u00e0 1, 2 & 3",
+      "url": "https://open.spotify.com/track/1Lcmx25cZD7hXomhSqvDAt"
+    },
+    {
+      "album": {
         "name": "Danze Strumentali Medievali Italiane, Vol. 1",
         "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
       },
@@ -2167,7 +2193,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 319533,
       "name": "Borlet: Tr\u00e9s doulz amis / Ma dame / Cent mille fois",
       "url": "https://open.spotify.com/track/6iM2rNvrl3yvHB2xb4SxFQ"
@@ -2219,7 +2245,7 @@
       ],
       "date_added": "2020-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 218040,
       "name": "C'est la Fins - La Quinte Estampie Real (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/24RvrHjk1L659W83q9HAXK"
@@ -4549,7 +4575,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 617466,
       "name": "De tous bien plein",
       "url": "https://open.spotify.com/track/7vcxjNhIQOXN88fDKMWJ8L"
@@ -6369,7 +6395,7 @@
       ],
       "date_added": "2019-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 302240,
       "name": "Humils, forfaitz, repres e penedens",
       "url": "https://open.spotify.com/track/54XMTwdnuQsEQEyGxw12MG"
@@ -7837,7 +7863,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229560,
       "name": "La tierche estampie real (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/2d1NNXnnRGdIhmrTgUCLJ3"
@@ -10889,7 +10915,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/6o6g5gccAlcKLkurf54d7P"
@@ -11913,7 +11939,7 @@
       ],
       "date_added": "2020-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 257899,
       "name": "Quando la stella",
       "url": "https://open.spotify.com/track/46ut5xENuPSPnIAkzNTX7k"
@@ -12463,7 +12489,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 208506,
       "name": "Rose Of All Roses",
       "url": "https://open.spotify.com/track/7289RJOEEm27R6KkyQc7vP"
@@ -13545,7 +13571,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 256000,
       "name": "The 7th cansi: No.m say d'amor",
       "url": "https://open.spotify.com/track/1KC1utFEUrr2sbbCfnynCw"
@@ -13571,7 +13597,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180826,
       "name": "The Play of Daniel - A Medieval Drama: The Play of Daniel - A Medieval Drama: Prelude - Astra Tenenti",
       "url": "https://open.spotify.com/track/1EJfRzI0vgYD8zZuXHbUN4"

@@ -41,10 +41,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 277560,
       "name": "1, 2, 3, 4 - Van She Tech Remix",
       "url": "https://open.spotify.com/track/1ayYh2uWlH6NM0NzLFDKtE"
+    },
+    {
+      "album": {
+        "name": "A Bit Patchy (Remixes)",
+        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "A Bit Patchy",
+      "url": "https://open.spotify.com/track/1wPKUjLrsxEjFvXIo0npn9"
     },
     {
       "album": {
@@ -85,10 +103,32 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 320666,
       "name": "Are You The One? - Simian Mobile Disco Remix",
       "url": "https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z"
+    },
+    {
+      "album": {
+        "name": "Baby I'm Yours",
+        "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        },
+        {
+          "name": "Irfane",
+          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215786,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
     },
     {
       "album": {
@@ -213,7 +253,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 177573,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
@@ -243,7 +283,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 339440,
       "name": "Bossy (feat. Too $hort) - Alan Braxe & Fred Falke Remix",
       "url": "https://open.spotify.com/track/7MjjohMIb2FmRE0PX4QPvi"
@@ -331,7 +371,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 447000,
       "name": "Bump - Switch Remix",
       "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
@@ -371,7 +411,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 262240,
       "name": "Cocotte",
       "url": "https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP"
@@ -411,7 +451,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/4xymOOdANFwko4RpeR961e"
@@ -429,7 +469,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 293630,
       "name": "Cross The Dancefloor",
       "url": "https://open.spotify.com/track/4DFUcp1ZBdw4Tkgu6dCyea"
@@ -476,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Disco Shoes",
+        "url": "https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT"
+      },
+      "artists": [
+        {
+          "name": "Acid Jacks",
+          "url": "https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341530,
+      "name": "Disco Shoes - Electrixx Mix",
+      "url": "https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf"
       },
@@ -487,7 +545,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 257613,
       "name": "Discotirso",
       "url": "https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B"
@@ -527,7 +585,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 295306,
       "name": "Do I Look Like a Slut - Original Mix",
       "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
@@ -545,7 +603,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "Drop Down",
       "url": "https://open.spotify.com/track/6PsPqzP898zrkIWTDnaOEw"
@@ -585,7 +643,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 450546,
       "name": "Drunk Girls - Holy Ghost! Remix",
       "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
@@ -607,7 +665,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 312386,
       "name": "Dudun-Dun - MSTRKRFT Remix",
       "url": "https://open.spotify.com/track/722dkNkvj99Pm9f3ch4IJQ"
@@ -629,7 +687,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 327386,
       "name": "Electric Feel - Justice Remix",
       "url": "https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN"
@@ -665,10 +723,28 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 316973,
       "name": "Flat Beat - Radio Edit",
       "url": "https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc"
+    },
+    {
+      "album": {
+        "name": "Indie_structable",
+        "url": "https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg"
+      },
+      "artists": [
+        {
+          "name": "Walter Meego",
+          "url": "https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260166,
+      "name": "Forever (Van She Tech Remix)",
+      "url": "https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3"
     },
     {
       "album": {
@@ -683,7 +759,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218493,
       "name": "Gay Dentists",
       "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
@@ -701,7 +777,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 234959,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2W29TNaSCiolWbPfQNgNOW"
@@ -745,10 +821,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 323226,
       "name": "Gravity's Rainbow - Van She Remix",
       "url": "https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC"
+    },
+    {
+      "album": {
+        "name": "Happiness Remixes - EP",
+        "url": "https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl"
+      },
+      "artists": [
+        {
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218025,
+      "name": "Happiness - The Magician Remix",
+      "url": "https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi"
     },
     {
       "album": {
@@ -803,10 +897,32 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 339213,
       "name": "Hearts On Fire - Calvin Harris Remix",
       "url": "https://open.spotify.com/track/126g9kWgVmGdfSyYD1Dmlk"
+    },
+    {
+      "album": {
+        "name": "Beats'n'cubes, Vol. 1",
+        "url": "https://open.spotify.com/album/05jpllVu9pVopiDEsR1rq5"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Djedjotronic",
+          "url": "https://open.spotify.com/artist/5c8Rd2gCeW7KAdTnwWIZKL"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298411,
+      "name": "Hope - Djedjotronic Remix",
+      "url": "https://open.spotify.com/track/0IDHcmG6NpXPdT7XVgDd0j"
     },
     {
       "album": {
@@ -839,7 +955,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
@@ -868,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Fix Your Accent",
+        "url": "https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0"
+      },
+      "artists": [
+        {
+          "name": "Fake Blood",
+          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335800,
+      "name": "I Think I Like It",
+      "url": "https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ"
+    },
+    {
+      "album": {
         "name": "Monsters & Silly Songs",
         "url": "https://open.spotify.com/album/6QLaykeMUYtrpaZ77wywor"
       },
@@ -879,7 +1013,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 235626,
       "name": "I Wish You Were Gone",
       "url": "https://open.spotify.com/track/3RyDFS2tLuXS9S8tV3ddib"
@@ -937,7 +1071,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 261920,
       "name": "Je veux te voir",
       "url": "https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc"
@@ -959,10 +1093,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 250163,
       "name": "Kilometer (A-Trak Remix)",
       "url": "https://open.spotify.com/track/46pQz9p5adUEFH4GhH4JsF"
+    },
+    {
+      "album": {
+        "name": "Knobbers EP",
+        "url": "https://open.spotify.com/album/6EWNPR0D1aTkNdw5o86QWU"
+      },
+      "artists": [
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307040,
+      "name": "Knobbers",
+      "url": "https://open.spotify.com/track/0JEQRhFh3VzBdFAYcua4yk"
     },
     {
       "album": {
@@ -1039,7 +1191,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211183,
       "name": "Let's Make Love and Listen to Death From Above",
       "url": "https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n"
@@ -1123,7 +1275,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Love Sweet Sound",
       "url": "https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7"
@@ -1141,7 +1293,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "Lucky Boy - Outlines Remix",
       "url": "https://open.spotify.com/track/7mtGla88gfdWGg76cxR9UA"
@@ -1177,7 +1329,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 195960,
       "name": "Meddle",
       "url": "https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX"
@@ -1195,7 +1347,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 263800,
       "name": "Minuit Jacuzzi - Data Remix",
       "url": "https://open.spotify.com/track/5gxOZTRvxuGkBABWVVpp50"
@@ -1253,7 +1405,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 273758,
       "name": "Mr Overtime - Oliver Remix",
       "url": "https://open.spotify.com/track/19ATUXl74zSVALEEAJoX65"
@@ -1311,7 +1463,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 225400,
       "name": "Night by Night",
       "url": "https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ"
@@ -1333,7 +1485,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219813,
       "name": "Nightcall - Breakbot Remix",
       "url": "https://open.spotify.com/track/199fvGLqoH23blptlIIz86"
@@ -1351,7 +1503,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 247826,
       "name": "Nights Off",
       "url": "https://open.spotify.com/track/3UubSlnwOhvZQq4lyCzTJG"
@@ -1395,7 +1547,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 473333,
       "name": "Out the Door (Superdiscount Remix)",
       "url": "https://open.spotify.com/track/3eKip6RDQ6yeHeKH8Fg2aa"
@@ -1449,7 +1601,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 171120,
       "name": "Positif",
       "url": "https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv"
@@ -1467,7 +1619,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 212653,
       "name": "Rainbow Man",
       "url": "https://open.spotify.com/track/2uiYlTkNE4dkdG7KWLEfRN"
@@ -1521,7 +1673,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
@@ -1539,7 +1691,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 185013,
       "name": "Roman",
       "url": "https://open.spotify.com/track/1yb35WfP1wdOnSfSGDxWUY"
@@ -1557,10 +1709,28 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 195146,
       "name": "Romantic Rights",
       "url": "https://open.spotify.com/track/0H1sKKRwENqAPNq2a0sZFO"
+    },
+    {
+      "album": {
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
     },
     {
       "album": {
@@ -1575,7 +1745,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Shut Up and Let Me Go",
       "url": "https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi"
@@ -1611,7 +1781,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 379226,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20"
@@ -1629,7 +1799,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 298346,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu"
@@ -1647,7 +1817,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 390013,
       "name": "Someone Great",
       "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
@@ -1691,6 +1861,28 @@
       "duration_ms": 386149,
       "name": "Stuck On Repeat - Fake Blood Mix",
       "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
+    },
+    {
+      "album": {
+        "name": "Superman EP",
+        "url": "https://open.spotify.com/album/1h1fu1p8xHwT8aacReegPi"
+      },
+      "artists": [
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311453,
+      "name": "Superman - Lorenz Rhode Remix",
+      "url": "https://open.spotify.com/track/4Dxnw7V3QB9hNUeUizkNYN"
     },
     {
       "album": {
@@ -1745,7 +1937,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 298080,
       "name": "Testarossa (SebastiAn Remix)",
       "url": "https://open.spotify.com/track/6FgkNP0uxc0pf1hIFvELhX"
@@ -1763,7 +1955,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 176240,
       "name": "The Geeks Were Right",
       "url": "https://open.spotify.com/track/5JhhCWiQdHz253wOdEwaBF"
@@ -1803,7 +1995,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 199880,
       "name": "The Treatment - Metronomy Remix",
       "url": "https://open.spotify.com/track/7HU6TZHspkNoImd3mGUKj0"
@@ -1821,7 +2013,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 210495,
       "name": "Time To Realize",
       "url": "https://open.spotify.com/track/4hgophvln1hQjOoxRSjLC4"
@@ -1839,7 +2031,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 306801,
       "name": "To Protect and Entertain - Crookers Remix",
       "url": "https://open.spotify.com/track/1eZcBOtoagCvcysubxaB0v"
@@ -1900,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Pilous",
+          "url": "https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Wake Up - Original",
+      "url": "https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k"
+    },
+    {
+      "album": {
         "name": "Ross Ross Ross",
         "url": "https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv"
       },
@@ -1911,7 +2121,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 299946,
       "name": "Walkman",
       "url": "https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv"
@@ -1977,7 +2187,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 522718,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1Gc1jlpUAG98SYmec611A2"
@@ -2013,7 +2223,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 344491,
       "name": "We Are The People - Shazam Remix",
       "url": "https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx"
@@ -2053,7 +2263,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 300386,
       "name": "White Knight Two",
       "url": "https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ"
@@ -2071,7 +2281,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 237739,
       "name": "You",
       "url": "https://open.spotify.com/track/37uDQ9iultffN3VQV8nU5j"
@@ -2089,7 +2299,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 378750,
       "name": "You're My Heart (CCENTURIESS Remix)",
       "url": "https://open.spotify.com/track/31TzWmUMxeT6dgL2XTnVCv"

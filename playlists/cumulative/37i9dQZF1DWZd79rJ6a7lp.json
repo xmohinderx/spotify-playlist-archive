@@ -1888,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Clear Blue",
+        "url": "https://open.spotify.com/album/570gd1Pe8AyrSI6KCayw4p"
+      },
+      "artists": [
+        {
+          "name": "Ceylan Aydem Project",
+          "url": "https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Clear Blue",
+      "url": "https://open.spotify.com/track/4UEs7H32py3zfPCor8nbZZ"
+    },
+    {
+      "album": {
         "name": "The Minimalist",
         "url": "https://open.spotify.com/album/2XtO4MwzBtukUmgMEWZ33M"
       },
@@ -5817,6 +5835,24 @@
       "duration_ms": 149426,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1CnxuoUdFLe5owHXJjJVQw"
+    },
+    {
+      "album": {
+        "name": "Maglovito",
+        "url": "https://open.spotify.com/album/54yMSCpwaBUBIwXoUuIsVd"
+      },
+      "artists": [
+        {
+          "name": "Nadia Bulic",
+          "url": "https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "Maglovito",
+      "url": "https://open.spotify.com/track/6FGF4Cx7hxKHwSCojfGSAT"
     },
     {
       "album": {

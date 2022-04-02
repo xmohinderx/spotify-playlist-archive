@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb"
+      },
+      "artists": [
+        {
+          "name": "Josh Mosier",
+          "url": "https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM"
+    },
+    {
+      "album": {
         "name": "Be The Love You Want",
         "url": "https://open.spotify.com/album/3XDIgxvmrVhFItGN3gkVdH"
       },

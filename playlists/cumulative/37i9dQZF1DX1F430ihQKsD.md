@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
-> La crème de la crème of Montréal's music scene\. Photo: Sophia Bel
+> La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-03-25 |  |
 | [HERA](https://open.spotify.com/track/71u8qE2VjE98HJwuXmIVYs) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [HERA \(feat\. Evelyne Brochu\)](https://open.spotify.com/album/1c9gQnARueqvPuouIwcELm) | 3:11 | 2022-03-25 |  |
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 |  |
-| [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 |  |
+| [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-25 |  |
 | [I'M NOT CRAZY](https://open.spotify.com/track/6BED5a6RzUKIhLpFtD7421) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [I'M NOT CRAZY](https://open.spotify.com/album/66Yjy6EWGZrpOLk1NWkUSF) | 3:35 | 2022-03-25 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 |  |
@@ -68,7 +68,7 @@
 | [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-03-25 |  |
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-03-25 |  |
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2022-03-25 |  |
-| [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 |  |
+| [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 | 2022-04-02 |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 |  |
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-03-25 |  |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-03-25 |  |
@@ -92,6 +92,7 @@
 | [Prends ça doux](https://open.spotify.com/track/6MAyFXAiCZPmEMrW90M5CS) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl) | [Prends ça doux](https://open.spotify.com/album/6Hl0yM1LMl41PsS9hL7gfc) | 3:27 | 2022-03-25 |  |
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 |  |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-03-25 |  |
+| [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 |  |
 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 | 2022-03-25 |  |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 |  |
 | [Sirens feat\. KALLITECHNIS](https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:51 | 2022-03-25 |  |
@@ -102,6 +103,7 @@
 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 |  |
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 |  |
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-25 |  |
+| [Vie de rêve](https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie de rêve](https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC) | 2:40 | 2022-04-01 |  |
 | [Ville américaine](https://open.spotify.com/track/0YVMPldYkDHfpT4oZdr9kT) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Ville américaine](https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5) | 3:11 | 2022-03-25 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 |  |
 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 | 2022-03-25 |  |

@@ -1,13 +1,49 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 53112,
+  "num_followers": 53163,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc3NDcxMCwwMDAwMDAwMDQwYjY5ZTJjZjNmM2QzNTU1MzE0OTJmYjRjMGRkMTQx",
+  "snapshot_id": "MTY0ODg2MDU3MywwMDAwMDAwMDRkYWVhNDU2NmJlMWE3MzU2NmE3YzEzNDQxMjdmZWVh",
   "tracks": [
+    {
+      "added_at": "2022-04-01 02:23:40",
+      "album": {
+        "name": "Maligayang Pagkunwari",
+        "url": "https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Maligayang Pagkunwari",
+      "url": "https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte"
+    },
+    {
+      "added_at": "2022-04-01 02:23:40",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1"
+    },
     {
       "added_at": "2022-03-24 16:41:10",
       "album": {
@@ -116,7 +152,7 @@
           "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
         }
       ],
-      "duration_ms": 215811,
+      "duration_ms": 214750,
       "name": "KAYA",
       "url": "https://open.spotify.com/track/4ggRHB5BGvMZxrguwEetCG"
     },

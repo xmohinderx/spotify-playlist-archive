@@ -3914,6 +3914,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u60f3\u807d\u898b\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D"
+      },
+      "artists": [
+        {
+          "name": "Princess Ai",
+          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287305,
+      "name": "\u4e0d\u60f3\u807d\u898b\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR"
+    },
+    {
+      "album": {
         "name": "[ \u4eba\u751f\u5c31\u662f\u7528\u4f86XX\u7684 ] 2021 \u7dda\u4e0a\u751f\u65e5\u8db4 (Live Session)",
         "url": "https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df"
       },
@@ -6197,7 +6215,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 270399,
       "name": "\u812b\u80ce\u63db\u9aa8",
       "url": "https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk"

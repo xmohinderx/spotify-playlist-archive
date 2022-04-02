@@ -1,13 +1,37 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 9295,
+  "num_followers": 9327,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwNzAwMDAwMTdmNzc1YWU1YjkwMDAwMDE3ZDliNGUzOTA0",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDAwODAwMDAwMTdmZTM0OTgzNDUwMDAwMDE3ZDliNGUzOTA0",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Lemon Squeezy / Afrique",
+        "url": "https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "Taura Lamb",
+          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
+        }
+      ],
+      "duration_ms": 212762,
+      "name": "Lemon Squeezy",
+      "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
     {
       "added_at": "2021-09-08 16:21:45",
       "album": {

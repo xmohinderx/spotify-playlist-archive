@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,102 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,110 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Yes I Know](https://open.spotify.com/track/5HGdUDNax7PRir0ctxsY3q) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Yes I Know](https://open.spotify.com/album/3oM0byn09fUkSQDO0MdYLo) | 3:42 |
 | 65 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 |
 
-Snapshot ID: `MTY0ODc3NTI1NiwwMDAwMDAwMGY3MjE5ZmExNDg1M2YyNzFjYzliODdmYTRmNjg2MDYz`
+Snapshot ID: `MTY0ODg2MTExNCwwMDAwMDAwMGY3MjE5ZmExNDg1M2YyNzFjYzliODdmYTRmNjg2MDYz`

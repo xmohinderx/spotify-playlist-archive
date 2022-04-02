@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: BALLY BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,720 likes - 84 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,732 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 13 | [RUNNIN](https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy) | [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [RUNNIN](https://open.spotify.com/album/244s3bNXlkDgFigRPeoX0m) | 2:53 |
 | 14 | [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 |
 | 15 | [Hard Labour](https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/5dQ48B7z887gEkgcz3Euvf) | 3:53 |
-| 16 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 |
+| 16 | [Bosque](https://open.spotify.com/track/4Wnnw2K8sZHxSn6aHDtZIZ) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Redback](https://open.spotify.com/artist/0cm54lBGuzyjIjJyGiTqY4), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [Vita](https://open.spotify.com/artist/6HU2GQvkNR6S9hQZkKVbVH) | [Bosque](https://open.spotify.com/album/0DbMMgvaRCVfvdOkoXzhDE) | 3:16 |
 | 17 | [Loaded](https://open.spotify.com/track/4Xq1H5RM0bfc1tHzDYg0id) | [NapoleonSix1](https://open.spotify.com/artist/49uCD6oKrq3ssXcWy3TmyW) | [Loaded](https://open.spotify.com/album/5UIqxtPxicsYxtGBmIkRXU) | 2:30 |
 | 18 | [MAKE IT DIP](https://open.spotify.com/track/0gtlSZCY8G6HJNqTRiVnDT) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [MAKE IT DIP](https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg) | 2:30 |
 | 19 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 |

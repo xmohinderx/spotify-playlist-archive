@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
-> Global crossovers by/with Arab artists\. Cover: Lana Lubany.
+> Global crossovers by/with Arab artists\. Cover: Faouzia.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Rendez\-Vous x Majnoun](https://open.spotify.com/track/6eOhXkbRGm2TzxK5CLwc3L) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw), [I.Y](https://open.spotify.com/artist/6ZA0S3R04Zur6LBPYWfwUZ) | [Rendez\-Vous x Majnoun](https://open.spotify.com/album/0qAAE5IPZ2SPdnhX3wrTg2) | 4:16 | 2021-12-16 |  |
 | [Rien](https://open.spotify.com/track/4KP2aiFQnMQLpY80rveHki) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien](https://open.spotify.com/album/52Yfa90MAL7z1dG979wDx9) | 3:07 | 2021-12-16 |  |
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-12-16 | 2021-12-31 |
+| [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 |  |
 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 |  |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 |  |
 | [Shattered](https://open.spotify.com/track/4bpryNIqnYK1yhr7D2PRM5) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [2wice Shye](https://open.spotify.com/artist/4aTT2lVgwspZZn7JqDv5YR) | [Shattered](https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B) | 3:39 | 2021-12-16 |  |

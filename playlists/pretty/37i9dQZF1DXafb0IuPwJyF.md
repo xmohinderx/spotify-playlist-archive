@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,935 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,296 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
-| 2 | [ばかまじめ](https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ばかまじめ](https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM) | 2:52 |
-| 3 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 |
-| 4 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 |
-| 5 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 |
+| 1 | [ばかまじめ](https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ばかまじめ](https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM) | 2:52 |
+| 2 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 |
+| 3 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 |
+| 4 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 |
+| 5 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 |
 | 6 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 |
 | 7 | [Bye\-Good\-Bye](https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Bye\-Good\-Bye](https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq) | 3:01 |
-| 8 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 |
-| 9 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
-| 10 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 |
+| 8 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 |
+| 9 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 |
+| 10 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
 | 11 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 |
 | 12 | [アイライキュー](https://open.spotify.com/track/7I8kMUSveBJ6WUbc4TcptQ) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:12 |
 | 13 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 22 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 23 | [ランブル](https://open.spotify.com/track/5aZKkyPqkIzOeimcrlhPvg) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Get Set](https://open.spotify.com/album/2J8Wz3Krda4vLYRzrFlFOb) | 4:02 |
 | 24 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
-| 25 | [アヴァン](https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:24 |
+| 25 | [暴徒](https://open.spotify.com/track/178b6lGvEzd3RcHRvUQfl0) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:45 |
 | 26 | [Superpower](https://open.spotify.com/track/5lw4VMEvXNCpHNSRpxmkTC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Superpower](https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp) | 3:22 |
 | 27 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 |
 | 28 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 |
 | 50 | [Meidaimae](https://open.spotify.com/track/231UG79D3cxclM5WAkLWrO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Meidaimae](https://open.spotify.com/album/1aPnyYlDvtm7Xb83s6hdQ8) | 4:23 |
 
-Snapshot ID: `MTY0ODc2OTAxNywwMDAwMDMwODAwMDAwMTdmZTI0YWE3NWQwMDAwMDE3ZmM5ODNiZDQ0`
+Snapshot ID: `MTY0ODc3OTUzOCwwMDAwMDMwOTAwMDAwMTdmZTJlYjMxOTkwMDAwMDE3ZmM5ODNiZDQ0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes.\nCover: Dolly Parton",
+  "description": "The latest music from our Country Heroes. Cover: Willie Nelson",
   "name": "New Traditions Country Heroes",
   "published_playlist_ids": [
     "5GBlntmj7cxNabVRK2ZjTV"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 88001,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1"
@@ -2023,6 +2023,24 @@
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
+    },
+    {
+      "album": {
+        "name": "Tower Of Song",
+        "url": "https://open.spotify.com/album/6BupEbALr7Uh9BnqXmkGms"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/7vC8tIEacbNfLYrxUsB6Vb"
     },
     {
       "album": {

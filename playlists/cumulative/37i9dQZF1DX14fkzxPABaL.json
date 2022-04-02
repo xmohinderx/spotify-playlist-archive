@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Luis Fonsi.",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Enrique Iglesias.",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 170106,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 254927,
       "name": "Coraz\u00f3n descalzo",
       "url": "https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9"
@@ -455,6 +455,28 @@
       "duration_ms": 181978,
       "name": "Coraz\u00f3n Sin Vida",
       "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
+    },
+    {
+      "album": {
+        "name": "Cuanto antes (feat. Lali)",
+        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226844,
+      "name": "Cuanto antes (feat. Lali)",
+      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "album": {
@@ -487,7 +509,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 187115,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/1QOMoYQmiPJsxNemXcblen"
@@ -642,6 +664,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda Que Me Quieras",
+        "url": "https://open.spotify.com/album/1QycfiMI1YAEorcLQImADn"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251359,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc"
+    },
+    {
+      "album": {
         "name": "El Flechazo y la Secuela",
         "url": "https://open.spotify.com/album/1T0hdMNJH2dp0pB6fvUok8"
       },
@@ -693,7 +733,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 203946,
       "name": "En Coma",
       "url": "https://open.spotify.com/track/7hPB9qxK37bIzhltHlD5gv"
@@ -719,6 +759,24 @@
       "duration_ms": 197107,
       "name": "Entre las Nubes",
       "url": "https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz"
+    },
+    {
+      "album": {
+        "name": "Espacio en Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Espacio en Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
     },
     {
       "album": {
@@ -905,7 +963,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 184189,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s"
@@ -1355,7 +1413,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211935,
       "name": "No Hay M\u00e1s Que Hablar",
       "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
@@ -1409,7 +1467,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 167040,
       "name": "Nuestra Balada",
       "url": "https://open.spotify.com/track/31T16Ycgad8QEKjo1hl356"
@@ -1599,7 +1657,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 258733,
       "name": "Primera Carta",
       "url": "https://open.spotify.com/track/3VdyHA9vN9CiL9OPizGd0H"
@@ -1686,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+    },
+    {
+      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -1737,7 +1813,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 221139,
       "name": "Si hubieras querido",
       "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
@@ -1825,7 +1901,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 181316,
       "name": "Simplemente Pasan",
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
@@ -1861,7 +1937,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
@@ -2118,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/7xuDqWQI5vAlFPd2DDXpBb"
       },
@@ -2219,7 +2313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 187026,
       "name": "\u00bfPara Qu\u00e9 Quieres Volver?",
       "url": "https://open.spotify.com/track/0DRB4J5qRJ4gNbJAuIEZwZ"

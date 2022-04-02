@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,524 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,512 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 99 | [I Don't Care](https://open.spotify.com/track/0Nu64rJw60LPf816F9k5VN) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [I Don't Care](https://open.spotify.com/album/6ybXkwBsMbISk71bJxAbKW) | 4:00 |
 | 100 | [Shine](https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:15 |
 
-Snapshot ID: `MTY0ODc3NDg5MCwwMDAwMDAwMDUyMzVkNDdmMzIwNGZlNTc3MjNiNjU5NjliMDlhYmIw`
+Snapshot ID: `MTY0ODg2MDc1MCwwMDAwMDAwMDUyMzVkNDdmMzIwNGZlNTc3MjNiNjU5NjliMDlhYmIw`

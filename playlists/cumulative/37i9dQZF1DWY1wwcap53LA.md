@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
-> Country music making waves\. Cover: Sacha
+> Country music making waves\. Cover: Rodell Duff
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 | 2022-03-11 |  |
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2021-12-03 |  |
 | [Best Revenge](https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Best Revenge](https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV) | 3:18 | 2022-03-18 |  |
+| [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-03 |  |
 | [Broken Umbrella](https://open.spotify.com/track/1xRguz8lsbOY33273bAheF) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/7iCUNsYl3SXnIWNB1eO9nd) | 2:43 | 2021-12-03 |  |
 | [Cabin Fever](https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA) | [Aaron Vance](https://open.spotify.com/artist/2BdvOgZdYNtGAzVEfg5jci) | [Cabin Fever](https://open.spotify.com/album/28TxK5Wufy1F037e5TENu1) | 2:53 | 2021-12-03 |  |
@@ -31,6 +32,7 @@
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2021-12-03 |  |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-03 |  |
 | [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-03 |  |
+| [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-01 |  |
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2021-12-03 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2021-12-03 |  |
@@ -63,6 +65,7 @@
 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 | 2021-12-03 |  |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-12-03 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-03 |  |
+| [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 |  |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 |  |
 | [Well Enough Alone](https://open.spotify.com/track/4JTj5ojPkqqpPJhtU2Nw7E) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [The Back Porch Sessions](https://open.spotify.com/album/6DIHouNFkzvVbGVSm0DbCd) | 3:04 | 2021-12-03 |  |
 | [What The Truck](https://open.spotify.com/track/4HCJcKwRmhDIROAtNMj6K1) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [What The Truck](https://open.spotify.com/album/3OKlwjvdtVkQDfnYZ65FK0) | 2:24 | 2021-12-03 |  |

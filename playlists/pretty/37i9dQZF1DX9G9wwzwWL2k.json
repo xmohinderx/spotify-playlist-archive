@@ -1,12 +1,12 @@
 {
   "description": "Lend a little drama to the occasion with this collection of truly epic classical music.",
-  "num_followers": 495937,
+  "num_followers": 496122,
   "original_name": "Epic Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NzgyNCwwMDAwMDAzNTAwMDAwMTdlZjg5MWZmZjEwMDAwMDE3ZWY4OTFiY2Fk",
+  "snapshot_id": "MTY0ODc5OTQ2NiwwMDAwMDAzNjAwMDAwMTdmZTQxYjQ1NDIwMDAwMDE3ZWY4OTFiY2Fk",
   "tracks": [
     {
       "added_at": "2022-02-14 14:10:24",
@@ -135,30 +135,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Beethoven: Symphonies Nos.5 & 7",
-        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "Verdi Requiem",
         "url": "https://open.spotify.com/album/7CQrqiAhWcFfu9abqPHQgQ"
       },
@@ -223,26 +199,46 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Bleeding Chunks of Wagner",
-        "url": "https://open.spotify.com/album/6TUiuucpGRoiMrMTkgDJfg"
+        "name": "Beethoven: Symphonies Nos.5 & 7",
+        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
       },
       "artists": [
         {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         },
         {
-          "name": "Uwe Mund",
-          "url": "https://open.spotify.com/artist/2V2ZxZB2Vy0JDoHcyNWQC8"
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
         }
       ],
-      "duration_ms": 329000,
-      "name": "Die Walkure, Act III: Ride of the Valkyries",
-      "url": "https://open.spotify.com/track/4Qt8ZMOkXzQ5dvvVrd3si5"
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Karl Jenkins: Quirk, Sarikiz & Over the Stone",
+        "url": "https://open.spotify.com/album/6WggQRWkbz8LU1HFzddVjA"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Jenkins: Palladio, for Strings (Excerpt, Allegretto)",
+      "url": "https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -271,22 +267,26 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Karl Jenkins: Quirk, Sarikiz & Over the Stone",
-        "url": "https://open.spotify.com/album/6WggQRWkbz8LU1HFzddVjA"
+        "name": "Bleeding Chunks of Wagner",
+        "url": "https://open.spotify.com/album/6TUiuucpGRoiMrMTkgDJfg"
       },
       "artists": [
         {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Uwe Mund",
+          "url": "https://open.spotify.com/artist/2V2ZxZB2Vy0JDoHcyNWQC8"
         }
       ],
-      "duration_ms": 226880,
-      "name": "Jenkins: Palladio, for Strings (Excerpt, Allegretto)",
-      "url": "https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p"
+      "duration_ms": 329000,
+      "name": "Die Walkure, Act III: Ride of the Valkyries",
+      "url": "https://open.spotify.com/track/4Qt8ZMOkXzQ5dvvVrd3si5"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -319,26 +319,26 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Stravinsky: The Rite of Spring, Petrushka, The Firebird & Apollo",
-        "url": "https://open.spotify.com/album/0MTptjwxYYW4VqQ0VwicEz"
+        "name": "Gershwin: Rhapsody in Blue & An American in Paris",
+        "url": "https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK"
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
         },
         {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
         }
       ],
-      "duration_ms": 312733,
-      "name": "Stravinsky: The Rite of Spring, Pt. 2 \"The Sacrifice\": Sacrificial Dance",
-      "url": "https://open.spotify.com/track/4PpsrUyLf1pG5hjsx3cHzZ"
+      "duration_ms": 987266,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/7oB0QBEnGRIJjvlDc8YnM6"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -419,30 +419,6 @@
       "duration_ms": 524360,
       "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
       "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue & An American in Paris",
-        "url": "https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        },
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        }
-      ],
-      "duration_ms": 987266,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/7oB0QBEnGRIJjvlDc8YnM6"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -535,30 +511,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "De Falla: The Three-Cornered Hat & Nights in the Gardens of Spain",
-        "url": "https://open.spotify.com/album/5JQqFfwyn8K2jQEmpi0gk2"
-      },
-      "artists": [
-        {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
-        },
-        {
-          "name": "Carlos Miguel Prieto",
-          "url": "https://open.spotify.com/artist/2CB2wXFPjoehJON13esAaV"
-        },
-        {
-          "name": "The Orchestra of the Americas",
-          "url": "https://open.spotify.com/artist/3zY9NGMaiANmLyaC1GmOuc"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "El sombrero de tres picos, Pt. 1: III. Danza de la molinera",
-      "url": "https://open.spotify.com/track/5lXVUcoaKzOMzmNo11jcSe"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "Bruckner: Symphony No. 8 in C Minor, Wab 108 / Feldman: Coptic Light",
         "url": "https://open.spotify.com/album/3RPsL12mdSXu7peeyvNLMT"
       },
@@ -583,6 +535,30 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
+        "name": "De Falla: The Three-Cornered Hat & Nights in the Gardens of Spain",
+        "url": "https://open.spotify.com/album/5JQqFfwyn8K2jQEmpi0gk2"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Carlos Miguel Prieto",
+          "url": "https://open.spotify.com/artist/2CB2wXFPjoehJON13esAaV"
+        },
+        {
+          "name": "The Orchestra of the Americas",
+          "url": "https://open.spotify.com/artist/3zY9NGMaiANmLyaC1GmOuc"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "El sombrero de tres picos, Pt. 1: III. Danza de la molinera",
+      "url": "https://open.spotify.com/track/5lXVUcoaKzOMzmNo11jcSe"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU"
       },
@@ -603,30 +579,6 @@
       "duration_ms": 639746,
       "name": "Sorcerer's Apprentice",
       "url": "https://open.spotify.com/track/3kwDgSavfVKpt6cUlfthxm"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Butterworth: The Banks of Green Willow; A Shropshire Lad/ /McGunn: The Land of the Mountain and the Flood/Coleridge-Taylor: Symphonic Variations on an African Air &c.",
-        "url": "https://open.spotify.com/album/7KqSUieP9JzzqfeT6Oke7N"
-      },
-      "artists": [
-        {
-          "name": "Samuel Coleridge-Taylor",
-          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
-        },
-        {
-          "name": "Grant Llewellyn",
-          "url": "https://open.spotify.com/artist/7a7pu0PwNkHjzUUoBadif0"
-        }
-      ],
-      "duration_ms": 1215573,
-      "name": "Symphonic Variations on an African Air, Op. 63",
-      "url": "https://open.spotify.com/track/5xjh7foPsLNJClLE6c8B98"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -715,6 +667,30 @@
       "duration_ms": 1271946,
       "name": "Symphony No. 2 in C Minor, \"Resurrection\": I. Allegro maestoso",
       "url": "https://open.spotify.com/track/2TQdH3wUzuX5vOg8JdmQKi"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Butterworth: The Banks of Green Willow; A Shropshire Lad/ /McGunn: The Land of the Mountain and the Flood/Coleridge-Taylor: Symphonic Variations on an African Air &c.",
+        "url": "https://open.spotify.com/album/7KqSUieP9JzzqfeT6Oke7N"
+      },
+      "artists": [
+        {
+          "name": "Samuel Coleridge-Taylor",
+          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Grant Llewellyn",
+          "url": "https://open.spotify.com/artist/7a7pu0PwNkHjzUUoBadif0"
+        }
+      ],
+      "duration_ms": 1215573,
+      "name": "Symphonic Variations on an African Air, Op. 63",
+      "url": "https://open.spotify.com/track/5xjh7foPsLNJClLE6c8B98"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -1111,30 +1087,6 @@
       "duration_ms": 320242,
       "name": "Symphony No. 4 in A Major, Op. 90 \"Italian\": Symphony No. 4 in A Major, Op. 90 \"Italian\": IV. Presto and Finale. Saltarello",
       "url": "https://open.spotify.com/track/75stAKvskB3uVgJiz2ymcH"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Music From Great Shakespearean Films",
-        "url": "https://open.spotify.com/album/2SSKZgFVPCKch0afCkTQrU"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "\"Hamlet\" - music from the film: The Arrival And Scene Of The Players",
-      "url": "https://open.spotify.com/track/1yzaALXMkSMCLLU7aUaMvo"
     },
     {
       "added_at": "2022-02-14 14:10:24",

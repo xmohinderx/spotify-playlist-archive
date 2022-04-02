@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3euWDri6mEN8UBh1hJmI6J"
+      },
+      "artists": [
+        {
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/728JngBHRkfNMMwvAbOxLo"
+    },
+    {
+      "album": {
         "name": "Lupi",
         "url": "https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68"
       },
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206250,
       "name": "Farley",
       "url": "https://open.spotify.com/track/0Ct6WKA4XqXRFdFn2BFkxD"
@@ -1178,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Piacenza",
+          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254528,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom"
       },
@@ -1189,10 +1225,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 178500,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t"
+    },
+    {
+      "album": {
+        "name": "Forget To Remember",
+        "url": "https://open.spotify.com/album/52ZvMtN75FSakuTF1LCl6O"
+      },
+      "artists": [
+        {
+          "name": "Tindra Rosenlind",
+          "url": "https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142405,
+      "name": "Forget To Remember",
+      "url": "https://open.spotify.com/track/28RcoqDaHTaUWqRPDdO5Mg"
     },
     {
       "album": {
@@ -1459,7 +1513,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 195648,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR"
@@ -1621,7 +1675,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 170124,
       "name": "Isle of Arran",
       "url": "https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh"
@@ -1747,7 +1801,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 148500,
       "name": "Ko\u0142ysanka",
       "url": "https://open.spotify.com/track/5SgyX0YU9qfwWyaHKtYU5T"
@@ -1999,7 +2053,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 155021,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n"
@@ -2327,6 +2381,24 @@
       "duration_ms": 174000,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA"
+    },
+    {
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R"
     },
     {
       "album": {
@@ -2687,7 +2759,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 261874,
       "name": "Quiet Conversation",
       "url": "https://open.spotify.com/track/1Oh2lgjyAt26WZ7SeyJLzY"
@@ -2903,7 +2975,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 133158,
       "name": "Scared To Lose Someone",
       "url": "https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL"
@@ -3195,7 +3267,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 192904,
       "name": "Softest Touch",
       "url": "https://open.spotify.com/track/1503ZyojOUoKbVYKtepu8J"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "All by Myself",
       "url": "https://open.spotify.com/track/5P2bdFon08MYGVWkfCZKyJ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/3Fv6JcNgvTOipsgbb0dFbb"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 202396,
       "name": "Buddies",
       "url": "https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 304875,
       "name": "Country Songs",
       "url": "https://open.spotify.com/track/7ptUsILjsH0184yYu0U7mn"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211720,
       "name": "Desperate and Depressed",
       "url": "https://open.spotify.com/track/0YEuPkavI1feOw9KaN0GP6"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/5a2WV9vQTSOlbCTap3jFjj"
@@ -365,10 +365,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+      "url": "https://open.spotify.com/track/7h4q1lMv48EKmE8uc5do4H"
     },
     {
       "album": {
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201000,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 224132,
       "name": "Finger on the Button",
       "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
@@ -531,6 +549,24 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "album": {
+        "name": "The One In The Sun",
+        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
+      },
+      "artists": [
+        {
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208297,
+      "name": "For Saviours",
+      "url": "https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo"
     },
     {
       "album": {
@@ -617,7 +653,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 193306,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7"
@@ -653,7 +689,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185216,
       "name": "Goodbye San Antonio, Hello Amsterdam",
       "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
@@ -671,7 +707,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4GC0CClxZnOWYkhv16JWH0"
@@ -725,10 +761,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 179763,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183199,
+      "name": "Hard Wired",
+      "url": "https://open.spotify.com/track/6it5DNQUN4xnAJT100k9nD"
     },
     {
       "album": {
@@ -743,7 +797,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 212053,
       "name": "Heart of Somebody",
       "url": "https://open.spotify.com/track/1qSllfUSfvfH0oDHQqROoK"
@@ -761,10 +815,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 247760,
       "name": "Heartbreak Blues",
       "url": "https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd"
+    },
+    {
+      "album": {
+        "name": "Gold and Rust",
+        "url": "https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T"
+      },
+      "artists": [
+        {
+          "name": "Lauren Shera",
+          "url": "https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287613,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3"
     },
     {
       "album": {
@@ -779,10 +851,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
+    },
+    {
+      "album": {
+        "name": "Hey Little Girl",
+        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
+      },
+      "artists": [
+        {
+          "name": "Carli Brill",
+          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193998,
+      "name": "Hey Little Girl",
+      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
     },
     {
       "album": {
@@ -797,7 +887,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 289978,
       "name": "High Rise",
       "url": "https://open.spotify.com/track/26r7ckzM27o17eV3soHYWN"
@@ -853,7 +943,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 239803,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
@@ -871,7 +961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 139733,
       "name": "Honky Tonks and Taverns",
       "url": "https://open.spotify.com/track/7A57mX7GPbD0uycT0gl1W2"
@@ -911,7 +1001,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
@@ -947,7 +1037,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
@@ -965,7 +1055,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 180674,
       "name": "I Left My One Spot (Back at the 5 Spot)",
       "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
@@ -1001,7 +1091,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 196339,
       "name": "I Thought You Were Somebody Else",
       "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
@@ -1055,7 +1145,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206729,
       "name": "Ice Cream and Liquor",
       "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
@@ -1131,7 +1221,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 150933,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/6uMB2D7bytHE904AGNekNB"
@@ -1149,7 +1239,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197280,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/7GhTnpAKMLPNCeiY7ylEw3"
@@ -1203,7 +1293,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/3OAUAHfztSJbk23Bi3lbF0"
@@ -1261,7 +1351,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206835,
       "name": "Light as a Fire",
       "url": "https://open.spotify.com/track/2bzhRzz08dcRH7rV1oMd78"
@@ -1305,7 +1395,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
@@ -1323,7 +1413,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "Long Haul",
       "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
@@ -1359,7 +1449,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "Looking for Trouble",
       "url": "https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0"
@@ -1431,7 +1521,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 235677,
       "name": "Make Way for Love",
       "url": "https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1"
@@ -1467,7 +1557,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213866,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/1G7COoZddkxeS4J9wp3aWM"
@@ -1485,7 +1575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 220866,
       "name": "Margo",
       "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
@@ -1503,7 +1593,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
@@ -1575,10 +1665,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241646,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
+    },
+    {
+      "album": {
+        "name": "Joni was right",
+        "url": "https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197192,
+      "name": "Morgan, I might",
+      "url": "https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN"
     },
     {
       "album": {
@@ -1593,7 +1701,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 137703,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/7gxDLGeMXbgdXDso2dqIFQ"
@@ -1611,7 +1719,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186626,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV"
@@ -1629,7 +1737,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 287244,
       "name": "My Boots",
       "url": "https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9"
@@ -1665,7 +1773,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186866,
       "name": "No Name",
       "url": "https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R"
@@ -1719,10 +1827,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 144640,
       "name": "Off My Back",
       "url": "https://open.spotify.com/track/5c1Mw3e1zEcaYV1SP5jeot"
+    },
+    {
+      "album": {
+        "name": "The Stand-In",
+        "url": "https://open.spotify.com/album/6XfhvlfOhCTpDHjNefr1pm"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Only A Clown",
+      "url": "https://open.spotify.com/track/443WZASeFIs9JNLT3GOReS"
     },
     {
       "album": {
@@ -1737,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 351920,
       "name": "Out To Sea",
       "url": "https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20"
@@ -1773,7 +1899,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
@@ -1791,10 +1917,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245773,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/6lwEELTpswg1EDdOPKY94Y"
+    },
+    {
+      "album": {
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae and the Meanwhiles",
+          "url": "https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "album": {
@@ -1881,7 +2029,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 223091,
       "name": "Road to Heaven",
       "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
@@ -1899,7 +2047,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa"
@@ -1917,7 +2065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 237786,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
@@ -1993,7 +2141,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
@@ -2029,7 +2177,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
@@ -2155,7 +2303,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 257373,
       "name": "The Story",
       "url": "https://open.spotify.com/track/1XYD3qY6OrSvTcsAas6vWT"
@@ -2177,6 +2325,46 @@
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+    },
+    {
+      "album": {
+        "name": "Today I Started Loving You Again",
+        "url": "https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156021,
+      "name": "Today I Started Loving You Again",
+      "url": "https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs"
     },
     {
       "album": {
@@ -2213,7 +2401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 227135,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl"
@@ -2231,7 +2419,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 223713,
       "name": "Trouble Me Anytime",
       "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
@@ -2321,7 +2509,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 199923,
       "name": "Weed Instead of Roses",
       "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
@@ -2375,7 +2563,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 233706,
       "name": "What's She Crying For",
       "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
@@ -2429,10 +2617,46 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
     },
     {
       "album": {
@@ -2451,6 +2675,24 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "album": {
+        "name": "Luxury Liner (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "You Never Can Tell (C'est la Vie) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV"
     },
     {
       "album": {

@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 175020,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/2ssMpyB6X2tkKXefA1eEGY"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 109106,
       "name": "African Rotation (feat. DJ Flex)",
       "url": "https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 99369,
       "name": "ALL ON ME",
       "url": "https://open.spotify.com/track/6O3ULRONtP6xLmhtOKnMCl"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 208487,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/3WTU9tmtTPw7cEChV9e9n5"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 155110,
       "name": "Banji",
       "url": "https://open.spotify.com/track/6tS9z4PYZpOFaHFs6Nuoz0"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 72045,
       "name": "Beat A Bitch Up Challenge",
       "url": "https://open.spotify.com/track/3YokUz1GMTM4hDVSwL9dHn"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 168191,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3QSQCwfiYdb3aiEwpNqP9O"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 142858,
       "name": "Da Fuq",
       "url": "https://open.spotify.com/track/0z5gsQSyA40rhq0EcoH35X"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 99910,
       "name": "Dancin' On My Own",
       "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216113,
       "name": "deep insides",
       "url": "https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 144003,
       "name": "Ella Quiere Pichi - Remix",
       "url": "https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9"
@@ -951,10 +951,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 121364,
       "name": "For You - DJ Taj Jersey Mix",
       "url": "https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp"
+    },
+    {
+      "album": {
+        "name": "Jersey Vs The World",
+        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+      },
+      "artists": [
+        {
+          "name": "YK ACE",
+          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170015,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
     },
     {
       "album": {
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 135758,
       "name": "Got Back?",
       "url": "https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4yKQddXwEu8feEhYtV3mVP"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 130612,
       "name": "Honesty - (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/3J0vtBWWTwKUzwgvQrR4yM"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 226225,
       "name": "Hula Hoop",
       "url": "https://open.spotify.com/track/6GvqVPaFlnIR1FMaBJrKk9"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 111857,
       "name": "I Need You, Pt. 2",
       "url": "https://open.spotify.com/track/2TII48JCtfW8JNfsVMP0yJ"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 179964,
       "name": "I Want You - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/34i6YUs9Lh4pgj8IeMgcyI"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 163604,
       "name": "Imma Bounce It",
       "url": "https://open.spotify.com/track/2cKjkMNv4VRvL6kC77OTP7"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
@@ -1481,10 +1499,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 142528,
       "name": "Love Song - TrillzAL Jersey Edit",
       "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"
+    },
+    {
+      "album": {
+        "name": "Low Budget Bass Trash (W.A.S.H. Remix)",
+        "url": "https://open.spotify.com/album/5vygzgKP1YZtBWdQpgzfGk"
+      },
+      "artists": [
+        {
+          "name": "Not Your Shadow",
+          "url": "https://open.spotify.com/artist/1cOezzAcftrq3gR6ABPJ9C"
+        },
+        {
+          "name": "W.A.S.H.",
+          "url": "https://open.spotify.com/artist/0v8Wb0xRJcWNUjDc5sL9Og"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Low Budget Bass Trash - W.A.S.H. Remix",
+      "url": "https://open.spotify.com/track/30v9quHl4dLXfpv2Q8ERqO"
     },
     {
       "album": {
@@ -1539,7 +1579,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 192876,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/0IDuxGsdO9aKPzmLbrFO4J"
@@ -1583,7 +1623,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 129348,
       "name": "Money Mouth",
       "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
@@ -1649,7 +1689,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 158896,
       "name": "My Back 2020",
       "url": "https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru"
@@ -1693,7 +1733,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 101851,
       "name": "MY Shit GET Back",
       "url": "https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa"
@@ -1733,7 +1773,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
@@ -1755,7 +1795,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 264094,
       "name": "Nxwxrk - Dj Sliink Remix",
       "url": "https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ"
@@ -1795,7 +1835,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 89652,
       "name": "Pew Pew Pew",
       "url": "https://open.spotify.com/track/6iQrwRQYIUrA7gqXtOrRve"
@@ -1867,7 +1907,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 124444,
       "name": "Press Play (Gamer Girl)",
       "url": "https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o"
@@ -1965,7 +2005,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 142978,
       "name": "RAVE IN MY ROOM",
       "url": "https://open.spotify.com/track/5ki811IbmzpR9Q2r79LUdW"
@@ -2023,7 +2063,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 91324,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
@@ -2041,7 +2081,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 121369,
       "name": "Rock N Roll",
       "url": "https://open.spotify.com/track/6p3eGwdNH7Psr1mBoHaZVE"
@@ -2063,7 +2103,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 144000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0at8XjfeGHOWe3DzcOkz8N"
@@ -2110,6 +2150,28 @@
     },
     {
       "album": {
+        "name": "Running Man Challenge (My Boo)",
+        "url": "https://open.spotify.com/album/0hENRboSeMbq3feQzjSMBA"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117055,
+      "name": "Running Man Challenge (My Boo)",
+      "url": "https://open.spotify.com/track/60JiEa7IaQguLaV3Vc6GUc"
+    },
+    {
+      "album": {
         "name": "Ryde Dat",
         "url": "https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV"
       },
@@ -2151,7 +2213,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 152727,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
@@ -2341,7 +2403,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 123533,
       "name": "SuperBad - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1uRswTqUtGeuAZHEe4jG0p"
@@ -2367,7 +2429,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 113228,
       "name": "Swamp Life Anthem - DJ Jayhood Jersey Club Remix",
       "url": "https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj"
@@ -2450,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/63vwkqUuzrUyLjd4WaTuOA"
+      },
+      "artists": [
+        {
+          "name": "NTF 3",
+          "url": "https://open.spotify.com/artist/6E3xL8MOqdAAZlzX0KLyMK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75952,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3CfLQ2wMW8V31m4SpISHHs"
+    },
+    {
+      "album": {
         "name": "Walkdown",
         "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
       },
@@ -2465,7 +2545,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 105900,
       "name": "Walkdown",
       "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
@@ -2531,7 +2611,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 85786,
       "name": "Weak (Bend Over)",
       "url": "https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2"
@@ -2593,7 +2673,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"

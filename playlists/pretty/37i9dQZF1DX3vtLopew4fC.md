@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,706 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 |
 | 2 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
-| 3 | [Good Life \(2022\)](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life \(2022\)](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 |
+| 3 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 |
 | 4 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 |
 | 5 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 |
 | 6 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 |

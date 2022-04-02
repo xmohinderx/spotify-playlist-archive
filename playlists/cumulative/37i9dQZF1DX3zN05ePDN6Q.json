@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional e muito boom bap na \u00e1rea. Foto: Zudizilla",
+  "description": "Tem rap nacional e muito boom bap na \u00e1rea. Foto: Murica",
   "name": "Boom Rap",
   "published_playlist_ids": [
     "6ZXp32ynoQutshWQJNTjS2"
@@ -27,6 +27,24 @@
       "duration_ms": 213443,
       "name": "#VoltaC4bal",
       "url": "https://open.spotify.com/track/2UiNtvsvUpJo1W3dXbxWfY"
+    },
+    {
+      "album": {
+        "name": "3 no Ventilador",
+        "url": "https://open.spotify.com/album/1OuzFRyQvWc9Y3mQMVmLst"
+      },
+      "artists": [
+        {
+          "name": "MC Super Shock",
+          "url": "https://open.spotify.com/artist/5WcjBtBcgcCAgjG3cvsMzO"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "3 no Ventilador",
+      "url": "https://open.spotify.com/track/4irWgCKWJfHrpumdtXZLXQ"
     },
     {
       "album": {
@@ -223,7 +241,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 221772,
       "name": "Balaclava",
       "url": "https://open.spotify.com/track/4kvBJZlAjw7IZ8vraVKwjK"
@@ -480,6 +498,28 @@
     },
     {
       "album": {
+        "name": "Daria um Livro",
+        "url": "https://open.spotify.com/album/2bjGcjJylyRHqEDAO5Hy10"
+      },
+      "artists": [
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159914,
+      "name": "Daria um Livro",
+      "url": "https://open.spotify.com/track/5dv5azooBPx0KFKDirir6e"
+    },
+    {
+      "album": {
         "name": "Diamantes S\u00e3o Lapidados na Minha \u00c1rea",
         "url": "https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg"
       },
@@ -517,7 +557,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 155835,
       "name": "Dono do Lugar",
       "url": "https://open.spotify.com/track/2KKdaKLGxj24vEYnaQudPD"
@@ -557,7 +597,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 307722,
       "name": "Entre o \u00d3dio o Amor Poka Alegria e Muita Dor",
       "url": "https://open.spotify.com/track/28z88soaC2ZaaWEyMFEBgQ"
@@ -684,6 +724,28 @@
     },
     {
       "album": {
+        "name": "F\u00e9 Absoluta",
+        "url": "https://open.spotify.com/album/5SEBrbtCm3469FdScP7g2O"
+      },
+      "artists": [
+        {
+          "name": "SXN!",
+          "url": "https://open.spotify.com/artist/1iezxPg7OHTfSrQFhqm09M"
+        },
+        {
+          "name": "Dlucca",
+          "url": "https://open.spotify.com/artist/6bJji9rCX7JLhomeGUCYDP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "F\u00e9 Absoluta",
+      "url": "https://open.spotify.com/track/4jGhKkUCIdaFol6T1lNyKQ"
+    },
+    {
+      "album": {
         "name": "Duelo de MCs Nacional 2020",
         "url": "https://open.spotify.com/album/1gaBUYR3dUlbIfVLREJR2W"
       },
@@ -781,7 +843,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 166779,
       "name": "Holofote",
       "url": "https://open.spotify.com/track/3Vrn3OT0GL7Kw649SIoQr5"
@@ -1081,8 +1143,8 @@
           "url": "https://open.spotify.com/artist/73dYJ9igJgdsx2SHxc09RX"
         },
         {
-          "name": "Caio Sande",
-          "url": "https://open.spotify.com/artist/2kc6LHYVzrQERqSJNhy3kk"
+          "name": "Cali $",
+          "url": "https://open.spotify.com/artist/2dvEiG68IHo3HpbTDYNWJb"
         }
       ],
       "date_added": "2022-03-25",
@@ -1109,7 +1171,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 154360,
       "name": "N\u00e1usea",
       "url": "https://open.spotify.com/track/7GnyXcxl3I6MyCBrFyMoP6"
@@ -1165,7 +1227,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189473,
       "name": "N\u00f4made V",
       "url": "https://open.spotify.com/track/2deUAR1J7ifbkUQtc46Vx1"
@@ -1471,10 +1533,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 235798,
       "name": "Rapcrime",
       "url": "https://open.spotify.com/track/0uIbnQCdZtN3EKqwwwD5GV"
+    },
+    {
+      "album": {
+        "name": "Rea\u00e7\u00e3o em Cadeia",
+        "url": "https://open.spotify.com/album/49N0BK3ytpFvP3d8F7GWkh"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131761,
+      "name": "Rea\u00e7\u00e3o em Cadeia",
+      "url": "https://open.spotify.com/track/3RqlBubbOUhZ5RD8MfjlX6"
     },
     {
       "album": {
@@ -1597,6 +1681,24 @@
       "duration_ms": 184981,
       "name": "Santa Rosa Breaks",
       "url": "https://open.spotify.com/track/3EvLC0Cmjwma642eeGwQX0"
+    },
+    {
+      "album": {
+        "name": "Sem Tira\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0LeMC3tMPHEyxxFL8uYmri"
+      },
+      "artists": [
+        {
+          "name": "Fun\u00e7\u00e3o RHK",
+          "url": "https://open.spotify.com/artist/5SwUeb4XF46E6uqRIRFPs4"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166992,
+      "name": "Sem Tira\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/602UYFn1ywzFWc2PSQBdCh"
     },
     {
       "album": {
@@ -1803,10 +1905,40 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 191259,
       "name": "S\u00f3 Basta um Rap",
       "url": "https://open.spotify.com/track/3znM1RIAk1llju2JWBgCfl"
+    },
+    {
+      "album": {
+        "name": "Tecnologia",
+        "url": "https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Simples",
+          "url": "https://open.spotify.com/artist/4onypgNFPIHhPqEO7BYYIE"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Malokero An\u00f4nimo",
+          "url": "https://open.spotify.com/artist/61h45TTf8pScBErVEDm3mz"
+        },
+        {
+          "name": "DJ B8",
+          "url": "https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Tecnologia",
+      "url": "https://open.spotify.com/track/4EopE6f7MU601tBbDccmcq"
     },
     {
       "album": {
@@ -1902,6 +2034,96 @@
     },
     {
       "album": {
+        "name": "Umapadeloko",
+        "url": "https://open.spotify.com/album/58MsDTR5WGqIKYUWKno03w"
+      },
+      "artists": [
+        {
+          "name": "Ton NV",
+          "url": "https://open.spotify.com/artist/1tYimuAsK1o1xHDXemZbWp"
+        },
+        {
+          "name": "Xapz, The Child",
+          "url": "https://open.spotify.com/artist/1Iq8bUA9tgE4sfkwR28KLX"
+        },
+        {
+          "name": "Skill tw",
+          "url": "https://open.spotify.com/artist/4Uv6HRWhpZmmJFqncSGbWf"
+        },
+        {
+          "name": "Meyn4",
+          "url": "https://open.spotify.com/artist/4nTOkm60bxUyD9y9wYGsUb"
+        },
+        {
+          "name": "Maikon",
+          "url": "https://open.spotify.com/artist/6ORaGqrapGPmVGFdEqRNBJ"
+        },
+        {
+          "name": "djminister",
+          "url": "https://open.spotify.com/artist/6J1B4GB6oPzp7lGtyT5rGh"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445693,
+      "name": "Umapadeloko",
+      "url": "https://open.spotify.com/track/2XlfVgtm1urfaOtBVzN8kL"
+    },
+    {
+      "album": {
+        "name": "Vai Brilhar",
+        "url": "https://open.spotify.com/album/4uZcd9YM1VUgVOMu9H2ywf"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Vai Brilhar",
+      "url": "https://open.spotify.com/track/5AzHlCZ4OLlx1eWutKjh7Z"
+    },
+    {
+      "album": {
+        "name": "Vaidade ao extremo",
+        "url": "https://open.spotify.com/album/3kUsOVhdtZWFeAYMKxvCqM"
+      },
+      "artists": [
+        {
+          "name": "Muzikamente",
+          "url": "https://open.spotify.com/artist/6yexRi54W7IPO0BJKYjgNX"
+        },
+        {
+          "name": "Cacau Siqueira",
+          "url": "https://open.spotify.com/artist/1TLpjtRdHKta87KyLdqSws"
+        },
+        {
+          "name": "Rog\u00e9rio Sarralheiro",
+          "url": "https://open.spotify.com/artist/18czzCvGzBiHlGcOdwGhUG"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263235,
+      "name": "Vaidade ao extremo",
+      "url": "https://open.spotify.com/track/2tYhODA6sIR4CAFrayWHIa"
+    },
+    {
+      "album": {
         "name": "Vida De Cinema",
         "url": "https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul"
       },
@@ -1961,7 +2183,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 203372,
       "name": "Vinho das Almas",
       "url": "https://open.spotify.com/track/5O2mnJo3RfnLjFVOkNyKux"

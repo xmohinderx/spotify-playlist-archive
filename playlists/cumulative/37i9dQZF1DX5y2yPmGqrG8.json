@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 491371,
       "name": "1/2 SCULPTURE",
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 599000,
       "name": "A Forest",
       "url": "https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw"
+    },
+    {
+      "album": {
+        "name": "Mark Hollis",
+        "url": "https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA"
+      },
+      "artists": [
+        {
+          "name": "Mark Hollis",
+          "url": "https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490133,
+      "name": "A Life (1895 - 1915)",
+      "url": "https://open.spotify.com/track/7dXjq4Wp7eEPsGVsOhRQDQ"
     },
     {
       "album": {
@@ -229,7 +247,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 288068,
       "name": "AM Prosperita\u0308t",
       "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238352,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/56UAbykT9QMR1RllgK3QOe"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 415266,
       "name": "Armonie Della Mente",
       "url": "https://open.spotify.com/track/2KeaoZokOnnGstN8MP7YPC"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 250958,
       "name": "Cairn I.",
       "url": "https://open.spotify.com/track/4aPfG7xvNIwfcJCTvV2q5Q"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 381125,
       "name": "capitOl pt. 2",
       "url": "https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 232867,
       "name": "Closed - Yosemite Version",
       "url": "https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 295853,
       "name": "Dalston Junction Feb. 1970",
       "url": "https://open.spotify.com/track/3PAubbsJ8CQoIqXlVgPRZu"
@@ -1281,6 +1299,24 @@
       "duration_ms": 401997,
       "name": "Dark blue",
       "url": "https://open.spotify.com/track/4Pb4Z8GOxeUCBBvjOoaRkD"
+    },
+    {
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334493,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4v93IUVgbQhYSuk75aJhey"
     },
     {
       "album": {
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 258560,
       "name": "Dobutsu Puzzle",
       "url": "https://open.spotify.com/track/6QYvvzhrD6TLntRamF5O0X"
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 420900,
       "name": "Drifting Circles",
       "url": "https://open.spotify.com/track/6povMadfhllQTRhD4LPkAj"
@@ -1465,7 +1501,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 204845,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU"
@@ -1556,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98"
+      },
+      "artists": [
+        {
+          "name": "nthng",
+          "url": "https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223999,
+      "name": "Ending Theme",
+      "url": "https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg"
+    },
+    {
+      "album": {
         "name": "RIPTIDE",
         "url": "https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P"
       },
@@ -1589,7 +1643,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 284500,
       "name": "Eternal Loop",
       "url": "https://open.spotify.com/track/0dHnH4HDjXI1Z8hXMxLzpB"
@@ -1719,7 +1773,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 263937,
       "name": "figure profane",
       "url": "https://open.spotify.com/track/5eibZ6ynR9JNS40QmSstwc"
@@ -1777,7 +1831,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
@@ -1813,7 +1867,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 844942,
       "name": "For Marmish Part II",
       "url": "https://open.spotify.com/track/321dQHZJkZh7zQnzdjOawA"
@@ -1849,7 +1903,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 291493,
       "name": "G303",
       "url": "https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw"
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf"
@@ -1972,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207381,
+      "name": "Hemlock at Night (Raag Durga)",
+      "url": "https://open.spotify.com/track/7mkQrkA93F5VL8IITpLY7p"
+    },
+    {
+      "album": {
         "name": "Nervous Energy \u4e00\u89e6\u5373\u53d1",
         "url": "https://open.spotify.com/album/6mWU0Zd0TbHJiuCMvkpnX9"
       },
@@ -1987,7 +2059,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 197645,
       "name": "Hidden Qi \u9690.\u6c14",
       "url": "https://open.spotify.com/track/7trNi5IxjzvaWces2oI4T7"
@@ -2041,7 +2113,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 340378,
       "name": "How Do You Live",
       "url": "https://open.spotify.com/track/4pdUobdlYJ2bsb00TFkTYl"
@@ -2077,7 +2149,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190135,
       "name": "Hypermetropia, pt. 1",
       "url": "https://open.spotify.com/track/15xmSzL7MKI9o6dBFx8FCM"
@@ -2113,7 +2185,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 267695,
       "name": "I Am Stardust",
       "url": "https://open.spotify.com/track/6L28SE4CgOR0dxStnT1Xc9"
@@ -2251,7 +2323,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK"
@@ -2419,7 +2491,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 155411,
       "name": "Introspection (Edit)",
       "url": "https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm"
@@ -2507,7 +2579,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 221360,
       "name": "Kaini Industries [Original by Boards of Canada]",
       "url": "https://open.spotify.com/track/1fkNcW0RQFgWRjbIVeG8lv"
@@ -2543,7 +2615,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 492800,
       "name": "Kura Kura",
       "url": "https://open.spotify.com/track/4VA1bDVM2IVHEHm6kiTnUb"
@@ -2667,7 +2739,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 314068,
       "name": "Maps (prod. by Andi Toma)",
       "url": "https://open.spotify.com/track/079I2kcfyJveScdkNlohSW"
@@ -2783,7 +2855,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 440213,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/5ARGa1YCWbgNobFCM2F6JB"
@@ -2917,7 +2989,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 216899,
       "name": "Mouthfeel 2",
       "url": "https://open.spotify.com/track/42dJxpG0YNmPDs1G6TlNNh"
@@ -3128,6 +3200,24 @@
     },
     {
       "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM"
+    },
+    {
+      "album": {
         "name": "Opto Files",
         "url": "https://open.spotify.com/album/5XRjps58rLCNTGovm1dqJt"
       },
@@ -3147,7 +3237,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 308560,
       "name": "Opto File 1",
       "url": "https://open.spotify.com/track/3yaMB8ZCRhTpqW5qfOHgns"
@@ -3165,7 +3255,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -3697,7 +3787,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 239808,
       "name": "S",
       "url": "https://open.spotify.com/track/336eHf6SexQkX3MZDykFC7"
@@ -3715,7 +3805,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 299648,
       "name": "Safe",
       "url": "https://open.spotify.com/track/6JM5pGkZn1GQQlG0KuuwbF"
@@ -3841,7 +3931,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 167613,
       "name": "Silver Water Ripples",
       "url": "https://open.spotify.com/track/35iIWkIlG61CVmLsI7JgrY"
@@ -3965,7 +4055,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"
@@ -4223,7 +4313,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 471093,
       "name": "The Colours Of Chlo\u00eb",
       "url": "https://open.spotify.com/track/41IIGbcmsYDgZYsgyyKg6Z"
@@ -4241,7 +4331,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 350044,
       "name": "The Crown Territory",
       "url": "https://open.spotify.com/track/4Y5fnKAj3trEyQHw9psXEe"
@@ -4317,7 +4407,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 625989,
       "name": "The Pressure of this Water",
       "url": "https://open.spotify.com/track/2vU8Q0aWDE5jImv5FY7ooF"
@@ -4365,7 +4455,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 292539,
       "name": "The Rhythm Of A Dividing Pair",
       "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
@@ -4391,6 +4481,24 @@
       "duration_ms": 215415,
       "name": "The Runaround",
       "url": "https://open.spotify.com/track/5V8gpahjzu262Jokr8nl1x"
+    },
+    {
+      "album": {
+        "name": "I Was Crossing A Bridge",
+        "url": "https://open.spotify.com/album/04FmOuqSk3CFP2xOvO8heJ"
+      },
+      "artists": [
+        {
+          "name": "Vito Ricci",
+          "url": "https://open.spotify.com/artist/4aa8e2k6EG6znuh0Iew4IN"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343666,
+      "name": "The Ship Was Sailing - Original Mix",
+      "url": "https://open.spotify.com/track/7gKifliqpVLKwfwMwonMoO"
     },
     {
       "album": {
@@ -4431,7 +4539,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 574733,
       "name": "The Spiral Arm",
       "url": "https://open.spotify.com/track/4JelNUX3kAxeekniPVGCsd"
@@ -4489,7 +4597,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 303800,
       "name": "Those Behind Us That We Follow",
       "url": "https://open.spotify.com/track/3NCHH5iOCVoHwJ5JuMEmjb"
@@ -4507,7 +4615,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 278693,
       "name": "TOBIUME",
       "url": "https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q"
@@ -4551,7 +4659,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 780000,
       "name": "Tori wa hoshigata no niwa ni oriru (A Flock Descends into the Pentagonal Garden): A Flock Descends into the Pentagonal Garden",
       "url": "https://open.spotify.com/track/5aFOXFyHWZErs57aRR2o6T"
@@ -4609,7 +4717,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Instrumental Remix",
       "url": "https://open.spotify.com/track/1XJemofxe6Off1jGE2Wwp1"
@@ -4772,6 +4880,24 @@
     },
     {
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/5wLxAmBaLwyiUeGVPOFLeB"
+      },
+      "artists": [
+        {
+          "name": "NYX",
+          "url": "https://open.spotify.com/artist/4vghvskxE7yNmrXWimHrmo"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373640,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/3LqmhN26CGJwMn7uroPGxZ"
+    },
+    {
+      "album": {
         "name": "Waende",
         "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
       },
@@ -4819,7 +4945,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 434565,
       "name": "What's A Girl To Do",
       "url": "https://open.spotify.com/track/4U5e1DoKCDNvAlx0WnUv9h"
@@ -5003,7 +5129,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Sael.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,205 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,202 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 39 | [Pa Brillar](https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI) | [APHELIA](https://open.spotify.com/artist/0wi4BjYbEeecnYvhQtvwi3), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Pa Brillar](https://open.spotify.com/album/2YevHM1xhh11dwoZqiQ6kQ) | 3:02 |
 | 40 | [No Me Conocen](https://open.spotify.com/track/2wiAf96qTYdqPpXouFLWFs) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [No Me Conocen](https://open.spotify.com/album/74hjTdZ6VJuKBGKcSQbinu) | 2:24 |
 
-Snapshot ID: `MTY0ODc3NTA2NSwwMDAwMDAwMGZiMTBmM2JjYTNmODY0NGU0ZDM1Y2YyY2EwYmI0ZmE5`
+Snapshot ID: `MTY0ODg2MDkyNiwwMDAwMDAwMGZiMTBmM2JjYTNmODY0NGU0ZDM1Y2YyY2EwYmI0ZmE5`

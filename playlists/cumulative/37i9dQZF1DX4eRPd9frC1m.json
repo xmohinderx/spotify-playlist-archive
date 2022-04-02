@@ -842,6 +842,28 @@
     },
     {
       "album": {
+        "name": "Dawn Of The Dead",
+        "url": "https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV"
+      },
+      "artists": [
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Dawn Of The Dead",
+      "url": "https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy"
+    },
+    {
+      "album": {
         "name": "DDOKBOKKI",
         "url": "https://open.spotify.com/album/2T48nb1L3se9K1QZIPJNWq"
       },
@@ -1553,7 +1575,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218536,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/74BPvRdlhKw09YhJtfAEUb"
@@ -3676,6 +3698,28 @@
     },
     {
       "album": {
+        "name": "Planet Doom",
+        "url": "https://open.spotify.com/album/6wtibkqrl452P4guyD2Hlm"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tyrannosaurus",
+          "url": "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        {
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212941,
+      "name": "The Cheeki Breeki Song",
+      "url": "https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r"
+    },
+    {
+      "album": {
         "name": "The Core",
         "url": "https://open.spotify.com/album/0MSXGJnWOd84qxTn7889yI"
       },
@@ -4185,6 +4229,28 @@
       "duration_ms": 197498,
       "name": "VSOP",
       "url": "https://open.spotify.com/track/6ghSZLNbLKVwmSgD9b9y1Y"
+    },
+    {
+      "album": {
+        "name": "Wall Of Death",
+        "url": "https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Wall Of Death",
+      "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
     },
     {
       "album": {

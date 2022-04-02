@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Happy and swinging jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,173 likes - 109 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,214 likes - 109 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

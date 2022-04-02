@@ -1544,6 +1544,32 @@
     },
     {
       "album": {
+        "name": "\u611b Don't Lie (feat. KIRE)",
+        "url": "https://open.spotify.com/album/7kLlhCfGCLUG20qiWBI0zq"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u7cb9\u65b9",
+          "url": "https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+          "name": "\u9ec3\u51a0\u502b",
+          "url": "https://open.spotify.com/artist/2BeQtXegM2ns0dT9oQHzcr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209387,
+      "name": "\u611b Don't Lie (feat. KIRE)",
+      "url": "https://open.spotify.com/track/2uQBmTqgkt7HGexSXEDEuM"
+    },
+    {
+      "album": {
         "name": "\u611b\u7684\u8fea\u601d\u53ef",
         "url": "https://open.spotify.com/album/6Z7JGLe70CFnXlIUwCkCue"
       },
@@ -2097,7 +2123,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"

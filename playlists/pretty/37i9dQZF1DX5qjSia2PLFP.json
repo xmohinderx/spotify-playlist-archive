@@ -1,13 +1,101 @@
 {
-  "description": "Emerging music breaking waves.  Cover: Fana Hues",
-  "num_followers": 12066,
+  "description": "Emerging music breaking waves.  Cover: A$AP ANT",
+  "num_followers": 12112,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDAzMzAwMDAwMTdmYmYzYzE0ZDUwMDAwMDE3ZmJjYmUyZjY1",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAzNDAwMDAwMTdmZTM0N2FlY2UwMDAwMDE3ZmUzMWE2ZTVl",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "The God Hour",
+        "url": "https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "The God Hour",
+      "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "FOREVER FIGUEROA 2",
+        "url": "https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 117504,
+      "name": "BUDDAH ARMS",
+      "url": "https://open.spotify.com/track/7AuogiLJdOZop0gEhqD1gT"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "AINT NOBODY COOL",
+        "url": "https://open.spotify.com/album/0Vr0ETwAJxwGSstVwOhQo0"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        },
+        {
+          "name": "RXK Nephew",
+          "url": "https://open.spotify.com/artist/2TsbsGsq2Jkj2qeNCITEBq"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Price So High",
+      "url": "https://open.spotify.com/track/1YHC1Gk86WpGJ1CjbxUYLY"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "bloom!",
+        "url": "https://open.spotify.com/album/3PFYIt7KLgjS34js0Wsz8i"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 87576,
+      "name": "bloom!",
+      "url": "https://open.spotify.com/track/67hbTDETlOrG5rGjhvnXux"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "CAN'T EEM U TELL WHY",
+        "url": "https://open.spotify.com/album/3OFACZUGe31bHXqdHDMUVM"
+      },
+      "artists": [
+        {
+          "name": "YTK",
+          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
+        }
+      ],
+      "duration_ms": 94285,
+      "name": "CAN'T EEM U TELL WHY",
+      "url": "https://open.spotify.com/track/5htM1C5NozSJLuNWil7MYi"
+    },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
@@ -23,6 +111,22 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -77,22 +181,6 @@
       "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Call 2 The Diaspora",
-        "url": "https://open.spotify.com/album/5lU5yTkm8LBPh6on2BOyhb"
-      },
-      "artists": [
-        {
-          "name": "Mwanje",
-          "url": "https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Call 2 The Diaspora",
-      "url": "https://open.spotify.com/track/3iqfgfU9k5AtkRSdsIthoi"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "SCARLET",
@@ -107,6 +195,22 @@
       "duration_ms": 169498,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Call 2 The Diaspora",
+        "url": "https://open.spotify.com/album/5lU5yTkm8LBPh6on2BOyhb"
+      },
+      "artists": [
+        {
+          "name": "Mwanje",
+          "url": "https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Call 2 The Diaspora",
+      "url": "https://open.spotify.com/track/3iqfgfU9k5AtkRSdsIthoi"
     },
     {
       "added_at": "2022-03-25 04:01:00",

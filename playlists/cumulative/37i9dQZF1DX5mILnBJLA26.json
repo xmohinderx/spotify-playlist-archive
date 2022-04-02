@@ -3225,8 +3225,12 @@
           "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
         },
         {
-          "name": "Dinki Kunene",
-          "url": "https://open.spotify.com/artist/0xxKVITJv5fw4SR3gJ1xoH"
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Dinky Kunene",
+          "url": "https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI"
         },
         {
           "name": "BoiBizza",
@@ -3237,8 +3241,8 @@
           "url": "https://open.spotify.com/artist/25aDR52bxLpVXy47Jdlbb8"
         },
         {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+          "name": "Nvcho",
+          "url": "https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC"
         }
       ],
       "date_added": "2022-03-31",
@@ -3317,6 +3321,24 @@
       "duration_ms": 394383,
       "name": "Malunde",
       "url": "https://open.spotify.com/track/6oBzjUAFMcU448RzHciM43"
+    },
+    {
+      "album": {
+        "name": "Pain Ya Jealous",
+        "url": "https://open.spotify.com/album/5KCz5c0mIDM7tg8hjS2Rwn"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327157,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4kTZVSJH2qTuUXyZPfklJ3"
     },
     {
       "album": {
@@ -3641,6 +3663,40 @@
       "duration_ms": 330206,
       "name": "Mundaza",
       "url": "https://open.spotify.com/track/5xyED4v6pYcRaXfRRZYdrh"
+    },
+    {
+      "album": {
+        "name": "012 Nkwari",
+        "url": "https://open.spotify.com/album/3CeD72m3DeFTQLoeUONOlO"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Fteearse",
+          "url": "https://open.spotify.com/artist/6AnzcCQZFR4PSBWaRSwNby"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312857,
+      "name": "Myztro wadi IceTropez (feat. Daliwonga, Djy Biza, Shaunmusiq & Fteearse)",
+      "url": "https://open.spotify.com/track/3uhDSuyhm7XKQ8aHa0LCiQ"
     },
     {
       "album": {
@@ -4005,7 +4061,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 350066,
       "name": "Nqonqonqo (feat. Sindy, Bizza & Masheleni)",
       "url": "https://open.spotify.com/track/2u3xOZ0qiSSdsMNi5GpnSy"
@@ -4685,7 +4741,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 341808,
       "name": "Sosha (feat. Sino Msolo & Toss)",
       "url": "https://open.spotify.com/track/78dt37wJX46hqidHCpMnND"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 30 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,789 likes - 30 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 |
 | 30 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
 
-Snapshot ID: `MTY0ODc3NTE5MywwMDAwMDAwMDg4ODRlYjM0ZmNlNDk0MjI1MjVhNzdkYjE1ZjY3MTM2`
+Snapshot ID: `MTY0ODg2MTA1MiwwMDAwMDAwMDg4ODRlYjM0ZmNlNDk0MjI1MjVhNzdkYjE1ZjY3MTM2`

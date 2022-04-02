@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Coco Jones",
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Savannah Re'",
   "name": "The Newness",
   "published_playlist_ids": [
     "4ueLTB3jzF1gxFZXFoisSk"
@@ -95,6 +95,28 @@
       "duration_ms": 166153,
       "name": "Angel",
       "url": "https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7"
+    },
+    {
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
+      },
+      "artists": [
+        {
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110640,
+      "name": "Arz Interlude",
+      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
     },
     {
       "album": {
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 166635,
       "name": "Draft 7 \"fruitless love\"",
       "url": "https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN"
@@ -818,6 +840,42 @@
     },
     {
       "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
+    },
+    {
+      "album": {
+        "name": "BETTER TIMES (REDUX VERSION)",
+        "url": "https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174987,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/03reiJNuSFum7GhLNmtjZr"
+    },
+    {
+      "album": {
         "name": "Hourglass (with Baby Tate)",
         "url": "https://open.spotify.com/album/3NEUcyZnBlfzt2kS4ib7wO"
       },
@@ -837,6 +895,24 @@
       "duration_ms": 174092,
       "name": "Hourglass (with Baby Tate)",
       "url": "https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn"
+    },
+    {
+      "album": {
+        "name": "Interlude I: Hours",
+        "url": "https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg"
+      },
+      "artists": [
+        {
+          "name": "Zavier O'Keith",
+          "url": "https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234538,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/09aLAidfem9LE2TczinPy8"
     },
     {
       "album": {
@@ -989,7 +1065,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197647,
       "name": "Introvert Hotline",
       "url": "https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU"
@@ -1087,6 +1163,28 @@
       "duration_ms": 164000,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/5GxeSssLNXPoD4uJYxHQBL"
+    },
+    {
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "album": {
@@ -1189,6 +1287,28 @@
       "duration_ms": 227756,
       "name": "Louie Bag (feat. Smino)",
       "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
     },
     {
       "album": {
@@ -1341,6 +1461,24 @@
       "duration_ms": 214263,
       "name": "No R&B",
       "url": "https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj"
+    },
+    {
+      "album": {
+        "name": "nothing",
+        "url": "https://open.spotify.com/album/567NzsU7dB8ichKPOoasIj"
+      },
+      "artists": [
+        {
+          "name": "Nick Acevedo",
+          "url": "https://open.spotify.com/artist/5WKiirAZgjX0NyIzKuoX7J"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/6GTPMiHSRqMTLbTzSAEGBO"
     },
     {
       "album": {
@@ -1699,7 +1837,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185142,
       "name": "SAD TONIGHT",
       "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
@@ -1753,7 +1891,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238788,
       "name": "Shoestring",
       "url": "https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk"
@@ -1989,6 +2127,32 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "album": {
+        "name": "Thinkin' Bout You",
+        "url": "https://open.spotify.com/album/0mgyacC2aoBaFxSEVc48s8"
+      },
+      "artists": [
+        {
+          "name": "Sukaina Yasin",
+          "url": "https://open.spotify.com/artist/3WPX7IWIMAG4SCEfEPEB2w"
+        },
+        {
+          "name": "Lan'do",
+          "url": "https://open.spotify.com/artist/2CydGGDCQTBvHCjr3WEY7C"
+        },
+        {
+          "name": "Kieron Boothe",
+          "url": "https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Thinkin' Bout You",
+      "url": "https://open.spotify.com/track/5ZQ8Pkf6CI0hHNVJYmKB3A"
     },
     {
       "album": {

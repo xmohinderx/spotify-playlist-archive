@@ -6206,6 +6206,24 @@
     },
     {
       "album": {
+        "name": "Herz Vor Verstand",
+        "url": "https://open.spotify.com/album/2Ph1xE2LJFYsCEOt8Ue0Pz"
+      },
+      "artists": [
+        {
+          "name": "Port Polar",
+          "url": "https://open.spotify.com/artist/4b41AQY0Be5MHvhf4g9opI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158384,
+      "name": "Herz Vor Verstand",
+      "url": "https://open.spotify.com/track/2uODTMXAEWkSldJVRK39J0"
+    },
+    {
+      "album": {
         "name": "Herzlichen Gl\u00fcckwunsch (feat. Max Raabe)",
         "url": "https://open.spotify.com/album/57SM9u0AksFB9rn2nrMJUe"
       },
@@ -11042,6 +11060,28 @@
     },
     {
       "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/1W06ElmmLtIuontPTRxw7v"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158268,
+      "name": "Playa (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
+    },
+    {
+      "album": {
         "name": "PLAYGOD",
         "url": "https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao"
       },
@@ -12893,7 +12933,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 172898,
       "name": "Solo Para M\u00ed",
       "url": "https://open.spotify.com/track/0WluXpyGKqZV6OJmwmXq9c"
@@ -13209,6 +13249,32 @@
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "album": {
+        "name": "Confetti Nights",
+        "url": "https://open.spotify.com/album/0NCVVd6iThKUh2GF74UTdl"
+      },
+      "artists": [
+        {
+          "name": "T-Shyne",
+          "url": "https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Still Ain\u2019t Finished (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3ZbKfSRjXe6HVm8ktwfN2X"
     },
     {
       "album": {

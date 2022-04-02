@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 129590,
       "name": "1942",
       "url": "https://open.spotify.com/track/57M7zz6261e3C16CE7urOv"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 153230,
       "name": "Bad AF (feat. Erica Banks)",
       "url": "https://open.spotify.com/track/5Qs6NNAiu9LoboczOgLIfO"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 174145,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/7DDBXN6McFPfR1LF1UqbDp"
@@ -219,6 +219,36 @@
       "duration_ms": 151959,
       "name": "Casa Blanco",
       "url": "https://open.spotify.com/track/61jnfYKrKYV3jPOIcfH82F"
+    },
+    {
+      "album": {
+        "name": "Be Someone: HoUSton Population",
+        "url": "https://open.spotify.com/album/6xBlqJAEs6ph9jVxKHPHee"
+      },
+      "artists": [
+        {
+          "name": "LarayDaSavage",
+          "url": "https://open.spotify.com/artist/5ETCcIX6LK9MD43N0uYyKR"
+        },
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "D Flowers",
+          "url": "https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF"
+        },
+        {
+          "name": "Yb Puerto Rico",
+          "url": "https://open.spotify.com/artist/35magIA6t9JpNwT0sPEBgM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198730,
+      "name": "Check On Me",
+      "url": "https://open.spotify.com/track/1PeEEdga1K0p7WyPlc6asG"
     },
     {
       "album": {
@@ -276,6 +306,28 @@
     },
     {
       "album": {
+        "name": "Desmond's Song (feat. Tobe Nwigwe)",
+        "url": "https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258717,
+      "name": "Desmond's Song (feat. Tobe Nwigwe)",
+      "url": "https://open.spotify.com/track/6N5bNooor0y0z1V5Rce5d0"
+    },
+    {
+      "album": {
         "name": "Diddy",
         "url": "https://open.spotify.com/album/0bIS7hjNcOHMnA5ueQoKj5"
       },
@@ -309,7 +361,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 190056,
       "name": "Do I Ever (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
@@ -327,7 +379,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186462,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW"
@@ -352,6 +404,28 @@
     },
     {
       "album": {
+        "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -363,10 +437,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
+    },
+    {
+      "album": {
+        "name": "Fixture 001",
+        "url": "https://open.spotify.com/album/1lJMLJN86TrKnl9AQGDFNw"
+      },
+      "artists": [
+        {
+          "name": "Tobacco Ryan",
+          "url": "https://open.spotify.com/artist/5quuJTU1v0t8ObC0qwwHx0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130664,
+      "name": "Fixture 001",
+      "url": "https://open.spotify.com/track/539mpTGzLkMXyAOFCjp054"
     },
     {
       "album": {
@@ -425,10 +517,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 166400,
       "name": "From Tha Back",
       "url": "https://open.spotify.com/track/6yPXp9wf5SVk98bhJdOZkM"
+    },
+    {
+      "album": {
+        "name": "Planet Eaarl",
+        "url": "https://open.spotify.com/album/1x1mgKUBxY2MNlZ8AoHyph"
+      },
+      "artists": [
+        {
+          "name": "lil.eaarl",
+          "url": "https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES"
+        },
+        {
+          "name": "HunchoDaRockstar",
+          "url": "https://open.spotify.com/artist/2G10LkgVnV7y2eDw5yM1Rs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "From Tha Back",
+      "url": "https://open.spotify.com/track/2mAu9r6c8RxB0dZg70C8f2"
     },
     {
       "album": {
@@ -451,6 +565,28 @@
       "duration_ms": 159133,
       "name": "Fully",
       "url": "https://open.spotify.com/track/3pFpmPbKmlZkn2bx3BjZeZ"
+    },
+    {
+      "album": {
+        "name": "Go Get It (Remix)",
+        "url": "https://open.spotify.com/album/08c0wfxIxNTQnOcjKXiqKv"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290064,
+      "name": "Go Get It - Remix",
+      "url": "https://open.spotify.com/track/4Q1Fgnq4W4ER8CUe3fgqWd"
     },
     {
       "album": {
@@ -513,6 +649,24 @@
       "duration_ms": 186400,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
+    },
+    {
+      "album": {
+        "name": "Desmond's Song (feat. Tobe Nwigwe)",
+        "url": "https://open.spotify.com/album/1RQ3maCeZZ2a4bUXrcX4ct"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234890,
+      "name": "Heaven Is Everywhere",
+      "url": "https://open.spotify.com/track/0TtBZXGYlOmyTXVEXewJ9j"
     },
     {
       "album": {
@@ -614,6 +768,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Not Kidding",
+        "url": "https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV"
+      },
+      "artists": [
+        {
+          "name": "Fade 'Em All",
+          "url": "https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232110,
+      "name": "I\u2019m Not Kidding",
+      "url": "https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -679,7 +851,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/1oiETTWL2BIoXyqT8ZkhOK"
@@ -705,6 +877,28 @@
       "duration_ms": 166875,
       "name": "Lick (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0Ky1dUtWUl9WvaAuXrqWU1"
+    },
+    {
+      "album": {
+        "name": "LOOPS",
+        "url": "https://open.spotify.com/album/1dfjacIDUbdMb2eFCv2clm"
+      },
+      "artists": [
+        {
+          "name": "LTR",
+          "url": "https://open.spotify.com/artist/56rSgcGV0PamwI8ULtrt2I"
+        },
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192199,
+      "name": "LOOPS",
+      "url": "https://open.spotify.com/track/5qTstbQt9WbHy3er8VlnZm"
     },
     {
       "album": {
@@ -1058,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Privacy",
+        "url": "https://open.spotify.com/album/2fWry7wXzPZPT5migBCuZm"
+      },
+      "artists": [
+        {
+          "name": "Aysia",
+          "url": "https://open.spotify.com/artist/1247gcAcePhK5lzWy0N52T"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219742,
+      "name": "Privacy",
+      "url": "https://open.spotify.com/track/6R6MlExLNXivmyjIMEyUk7"
+    },
+    {
+      "album": {
         "name": "The End.",
         "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
@@ -1255,7 +1467,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 200385,
       "name": "Superstar Dreams",
       "url": "https://open.spotify.com/track/5eJJA9aEhMqIOrxEQx4KHf"
@@ -1317,6 +1529,24 @@
       "duration_ms": 149903,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
+    },
+    {
+      "album": {
+        "name": "Judge Me / Talk To Me Nice",
+        "url": "https://open.spotify.com/album/7ggmY5o4LAhfMqAtGIQkRT"
+      },
+      "artists": [
+        {
+          "name": "Startheonly1ne",
+          "url": "https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/6BODyzOL9iNS4FJ7vRoR9t"
     },
     {
       "album": {
@@ -1392,6 +1622,28 @@
     },
     {
       "album": {
+        "name": "Toot It Up (with Flo Milli)",
+        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Toot It Up (with Flo Milli)",
+      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
+    },
+    {
+      "album": {
         "name": "Gas God",
         "url": "https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj"
       },
@@ -1447,6 +1699,24 @@
       "duration_ms": 176526,
       "name": "WALK",
       "url": "https://open.spotify.com/track/7MiNSmlB2O2NrllWXltofY"
+    },
+    {
+      "album": {
+        "name": "Walk The Line",
+        "url": "https://open.spotify.com/album/238hxIpTZmLmDhG0Msp1CN"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202448,
+      "name": "Walk The Line",
+      "url": "https://open.spotify.com/track/2s8Od2lfFMtwMoGKJIYDE9"
     },
     {
       "album": {

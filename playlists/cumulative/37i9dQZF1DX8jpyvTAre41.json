@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Machine Gun Kelly",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Red Hot Chili Peppers",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
+    },
+    {
+      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -337,7 +355,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 182243,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 313373,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218403,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG"
@@ -1198,6 +1216,28 @@
     },
     {
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
+    },
+    {
+      "album": {
         "name": "This Is How The World Ends",
         "url": "https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9"
       },
@@ -1310,6 +1350,24 @@
     },
     {
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/6gKpoRKgrLIb1hjSXwuEZn"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194767,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1TB6VEurAmNzFmgKCml86F"
+    },
+    {
+      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -1339,7 +1397,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 195653,
       "name": "FLM",
       "url": "https://open.spotify.com/track/5JgZtVW4bvBuBGsldmjrEW"
@@ -1815,7 +1873,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 286950,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM"
@@ -2224,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "Like A Drug",
+        "url": "https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212621,
+      "name": "Like A Drug",
+      "url": "https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8"
+    },
+    {
+      "album": {
         "name": "Listen to the Beat",
         "url": "https://open.spotify.com/album/3Ai5MWXDhzmTdTxxWTMlol"
       },
@@ -2439,10 +2515,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231600,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/08eLqv5sm19e85WMxbAyHR"
+    },
+    {
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6eDEnqWLLUKDGp5tjjzJ0J"
     },
     {
       "album": {
@@ -2545,6 +2639,24 @@
       "duration_ms": 240014,
       "name": "Middle of Nowhere (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
+    },
+    {
+      "album": {
+        "name": "Misery's on Its Way",
+        "url": "https://open.spotify.com/album/1CjeHoV7k3OwkyisouqYij"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Misery's on Its Way",
+      "url": "https://open.spotify.com/track/0JCCTeptZAnygNBNSWnNiy"
     },
     {
       "album": {
@@ -2969,7 +3081,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 318421,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
@@ -3012,6 +3124,28 @@
     },
     {
       "album": {
+        "name": "PURGE ft. Siiickbrain",
+        "url": "https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "PURGE ft. Siiickbrain",
+      "url": "https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44"
+    },
+    {
+      "album": {
         "name": "Push and Shove",
         "url": "https://open.spotify.com/album/3FijYSpdP7dLFv4JzFbyrr"
       },
@@ -3023,7 +3157,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 151881,
       "name": "Push and Shove",
       "url": "https://open.spotify.com/track/2YK8RnQAEHgpgNk8yXi1VC"
@@ -3067,6 +3201,24 @@
       "duration_ms": 186579,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/36siCgyeAHB2Gr9lgEMYqF"
+    },
+    {
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274386,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/0DSGx4kH1WwwtLMVzsiQMS"
     },
     {
       "album": {
@@ -3875,6 +4027,24 @@
       "duration_ms": 227659,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2LT7SqhTeMEczWPBABrR3r"
+    },
+    {
+      "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236216,
+      "name": "These Are the Ways",
+      "url": "https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ"
     },
     {
       "album": {

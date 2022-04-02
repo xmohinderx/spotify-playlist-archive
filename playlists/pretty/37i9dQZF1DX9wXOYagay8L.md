@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=pjjP\_NOrQVis9quc4gWHHQ">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,350 likes - 69 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,407 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 66 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 |
 | 67 | [Holding On](https://open.spotify.com/track/2RjU4DPIgrXZWc97pGsMuO) | [Romo](https://open.spotify.com/artist/1gBaZj95aDyGNuHFj20qU0), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe), [Mkoma Saan](https://open.spotify.com/artist/6YXIqgdPcfeDcxxY1WxNdM) | [Start Over](https://open.spotify.com/album/74iDavaRV7ZBYxOurJGGhw) | 4:50 |
 | 68 | [Questions](https://open.spotify.com/track/1chHNQEWE0OH7XMZJgwt8M) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Trouble In Paradise](https://open.spotify.com/album/1ltjerRedPrqqpM0Nb1MXl) | 2:24 |
-| 69 | [KOKHALABANTU](https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M) | [LEE](https://open.spotify.com/artist/561wUDCkODWNZ7aw0EIZPY), [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KOKHALABANTU](https://open.spotify.com/album/0BkIyVu8iKLAJM8qplc0Cn) | 4:29 |
+| 69 | [iMali](https://open.spotify.com/track/2l9I09sKsMmOFqufJJZooe) | [Zamoh Cofi](https://open.spotify.com/artist/31BGgielHC0uRLARr7eymC), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [iMali](https://open.spotify.com/album/6Yxx6c9bvMzuBMV1ZUTs5C) | 4:48 |
+| 70 | [KOKHALABANTU](https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M) | [LEE](https://open.spotify.com/artist/561wUDCkODWNZ7aw0EIZPY), [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KOKHALABANTU](https://open.spotify.com/album/0BkIyVu8iKLAJM8qplc0Cn) | 4:29 |
 
 Snapshot ID: `MTY0ODc2Mzk0MCwwMDAwMDI5NjAwMDAwMTdmZTFmZDJkMWIwMDAwMDE3ZmQ3YzBlMmIy`

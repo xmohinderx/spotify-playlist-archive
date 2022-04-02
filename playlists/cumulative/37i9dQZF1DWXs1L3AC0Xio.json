@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 168482,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 256276,
       "name": "For You",
       "url": "https://open.spotify.com/track/053IpBG54eZGst2seKHB6g"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 226146,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt"
@@ -1861,6 +1861,24 @@
       "duration_ms": 212186,
       "name": "You",
       "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
+    },
+    {
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "You - Live",
+      "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
     },
     {
       "album": {

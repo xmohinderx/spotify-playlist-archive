@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 254518,
+  "num_followers": 254558,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4NDQwMCwwMDAwMDAzMDAwMDAwMTdmYmY3MjE4ZTYwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDAzMTAwMDAwMTdmZTM0OTgzMmUwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -75,6 +75,26 @@
       "duration_ms": 203826,
       "name": "Noto Swing",
       "url": "https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Love Me Tender (Live)",
+        "url": "https://open.spotify.com/album/2dWnnnESq6l0egIfNe3J7x"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "duration_ms": 386653,
+      "name": "Love Me Tender - Live",
+      "url": "https://open.spotify.com/track/5cQSyGA79OctwjxXycj2Bu"
     },
     {
       "added_at": "2022-02-25 05:02:00",

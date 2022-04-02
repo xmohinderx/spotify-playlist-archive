@@ -164,6 +164,24 @@
     },
     {
       "album": {
+        "name": "31 Etasje",
+        "url": "https://open.spotify.com/album/4rLCQSbO9N5KjsLpH3dzQy"
+      },
+      "artists": [
+        {
+          "name": "Capow x 2G",
+          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157765,
+      "name": "31 Etasje",
+      "url": "https://open.spotify.com/track/1g6pAG1re0AKUO26JJpZJ8"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 155955,
       "name": "du kommer til \u00e5 hate meg",
       "url": "https://open.spotify.com/track/1xzgTojg2THAIvZf8xMSal"

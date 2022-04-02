@@ -136,6 +136,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3ONdVw5rchTT3gLfJUYSdy"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Madeleine Daye",
+          "url": "https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3mt7fgvyK0ND6mI02bgb0c"
+    },
+    {
+      "album": {
         "name": "Back Tomorrow",
         "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
       },
@@ -537,7 +559,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 132682,
       "name": "Embers",
       "url": "https://open.spotify.com/track/40pPsAXyIJofY21GNe7r1Y"
@@ -1111,6 +1133,28 @@
       "duration_ms": 186000,
       "name": "feeling",
       "url": "https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
       "album": {
@@ -1475,7 +1519,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 223728,
       "name": "Heaven on Loan",
       "url": "https://open.spotify.com/track/4v7OqAfEwN53v6gAlDvBLg"
@@ -1927,7 +1971,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 302827,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/4WqEBIMJMmGRiEwSyRzeEQ"
@@ -1953,6 +1997,24 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
+    },
+    {
+      "album": {
+        "name": "INTO THE UNKNOWN",
+        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "INTO THE UNKNOWN",
+      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
     },
     {
       "album": {
@@ -2260,6 +2322,28 @@
     },
     {
       "album": {
+        "name": "Lose My Mind (feat. Taylor Moody)",
+        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Taylor Moody",
+          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "Lose My Mind (feat. Taylor Moody)",
+      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -2289,7 +2373,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 167387,
       "name": "Love Turns Lonely",
       "url": "https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2"
@@ -2337,6 +2421,28 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+    },
+    {
+      "album": {
+        "name": "Loveless (with Teddy Swims)",
+        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Loveless (with Teddy Swims)",
+      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
     },
     {
       "album": {
@@ -3002,6 +3108,32 @@
     },
     {
       "album": {
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252058,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
+    },
+    {
+      "album": {
         "name": "Immunity EP",
         "url": "https://open.spotify.com/album/1XrBkrwPVsP8DmPfEtyjt3"
       },
@@ -3343,7 +3475,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
@@ -3589,6 +3721,28 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Caroline Polachek)",
+        "url": "https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238019,
+      "name": "Sirens (feat. Caroline Polachek)",
+      "url": "https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4"
     },
     {
       "album": {

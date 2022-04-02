@@ -1,13 +1,29 @@
 {
-  "description": "Chillout hip-hop vibes. Cover: Cordae",
-  "num_followers": 1046519,
+  "description": "Chillout hip-hop vibes. Cover: Chance The Rapper",
+  "num_followers": 1047180,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4Mzk1NiwwMDAwMDE5YjAwMDAwMTdmYmY2YjUzMzEwMDAwMDE3ZjQ2ZWViOTM3",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDE5YzAwMDAwMTdmZTM0N2FlYzgwMDAwMDE3ZmRjNjUyZTFi",
   "tracks": [
+    {
+      "added_at": "2022-03-25 04:52:36",
+      "album": {
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+    },
     {
       "added_at": "2022-03-04 05:00:00",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
     },
     {
-      "added_at": "2022-03-25 04:52:36",
+      "added_at": "2022-01-28 20:30:35",
       "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+        "name": "Richer Than I Ever Been (Deluxe)",
+        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+      "duration_ms": 236799,
+      "name": "Not For Nothing (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
     },
     {
       "added_at": "2022-03-25 04:52:36",
@@ -113,24 +133,24 @@
       "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
     },
     {
-      "added_at": "2022-01-28 20:30:35",
+      "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Richer Than I Ever Been (Deluxe)",
-        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Omen",
+          "url": "https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc"
         }
       ],
-      "duration_ms": 236799,
-      "name": "Not For Nothing (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+      "duration_ms": 212800,
+      "name": "Ballin in Newport (with Omen)",
+      "url": "https://open.spotify.com/track/1KsHmftDAysEtLpDK1o6Y9"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -171,6 +191,26 @@
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "better",
+        "url": "https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "better",
+      "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
     },
     {
       "added_at": "2022-01-28 20:27:54",
@@ -247,6 +287,22 @@
       "duration_ms": 165187,
       "name": "diving board",
       "url": "https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Dollar Menu 2",
+        "url": "https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 79098,
+      "name": "Continental Breakfast",
+      "url": "https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1229,30 +1285,6 @@
       "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
     },
     {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Minus The Bullshit Life's Great",
-        "url": "https://open.spotify.com/album/4oP4LxB36ixn9QydAT4Q45"
-      },
-      "artists": [
-        {
-          "name": "Nascent",
-          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 226865,
-      "name": "Lock It Up",
-      "url": "https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3"
-    },
-    {
       "added_at": "2021-06-25 04:00:00",
       "album": {
         "name": "Truffles",
@@ -1283,30 +1315,6 @@
       "duration_ms": 205210,
       "name": "I'll Always Be Around",
       "url": "https://open.spotify.com/track/7bDOvN5MkCiyGttswXAIuz"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 266291,
-      "name": "l e t . g o . m y . h a n d (with Bas & 6LACK)",
-      "url": "https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB"
     },
     {
       "added_at": "2021-09-17 04:01:00",
@@ -1471,22 +1479,6 @@
       "duration_ms": 203961,
       "name": "I Know It's Real",
       "url": "https://open.spotify.com/track/3tmYBronaRDfvvCxv2Ipef"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1Ytdg9YEQTlRlgO2Ni25Rz"
-      },
-      "artists": [
-        {
-          "name": "Tru",
-          "url": "https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q"
-        }
-      ],
-      "duration_ms": 174482,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/3X1ItZhwFtmzGMBgw1HJfa"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -1891,30 +1883,6 @@
       "duration_ms": 131818,
       "name": "Cut",
       "url": "https://open.spotify.com/track/4VlO4Z7oZIjQRIPWOj4Qc0"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Big Steppa",
-        "url": "https://open.spotify.com/album/35ZiUwGPSNxSSMVbt8WSgr"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 241005,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
     }
   ],
   "unique_name": "Mellow Bars",

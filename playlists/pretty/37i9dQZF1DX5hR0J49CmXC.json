@@ -1,13 +1,169 @@
 {
-  "description": "The Real hip-hop. Cover: Benny The Butcher",
-  "num_followers": 1068975,
+  "description": "The Real hip-hop. Cover: Pusha T",
+  "num_followers": 1069137,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDE5YTAwMDAwMTdmYmYzYjJhYzUwMDAwMDE3ZjQ3MjZlNDU1",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDE5YjAwMDAwMTdmZTM0N2FlYWYwMDAwMDE3ZmUxMWI3NDVl",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 178291,
+      "name": "Heaven\u2019s EP (with J. Cole)",
+      "url": "https://open.spotify.com/track/19h1LNf7idduUW3jBeswB8"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Dollar Menu 2",
+        "url": "https://open.spotify.com/album/1aJVIX0L3bfgUatWdSnPzh"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 79098,
+      "name": "Continental Breakfast",
+      "url": "https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU"
+    },
+    {
+      "added_at": "2022-03-11 05:42:06",
+      "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 131909,
+      "name": "Freedom of Speech (with J. Cole)",
+      "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 187416,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
+    },
+    {
+      "added_at": "2022-03-11 05:42:06",
+      "album": {
+        "name": "Johnny P's Caddy",
+        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        },
+        {
+          "name": "Omen",
+          "url": "https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc"
+        }
+      ],
+      "duration_ms": 270044,
+      "name": "Starting 5 (with Lute, Cozz & Omen)",
+      "url": "https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Melt Session #1 [Feat. Robert Glasper]",
+      "url": "https://open.spotify.com/track/1GmIFHYT3N2V3G0MoYhEil"
+    },
     {
       "added_at": "2022-03-25 04:00:00",
       "album": {
@@ -63,78 +219,6 @@
       "duration_ms": 181970,
       "name": "Punch Bowl (with Clipse & Nigo)",
       "url": "https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 187416,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Johnny P's Caddy",
-        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Melt Session #1 [Feat. Robert Glasper]",
-      "url": "https://open.spotify.com/track/1GmIFHYT3N2V3G0MoYhEil"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
     },
     {
       "added_at": "2022-03-11 05:42:06",
@@ -859,110 +943,6 @@
       "duration_ms": 199339,
       "name": "Dear Fear",
       "url": "https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Mr. Pyrex Man",
-        "url": "https://open.spotify.com/album/2aCzTCXssq4CuB8c4rPDy1"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "Mr. Pyrex Man",
-      "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190261,
-      "name": "Wave Gods",
-      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 171077,
-      "name": "SEPARATION OF THE SHEEP AND THE GOATS",
-      "url": "https://open.spotify.com/track/3v4it08xXsQU6pVuyjGx1G"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "CHOMP 2",
-        "url": "https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 323758,
-      "name": "Note To Self (Feat. Big Sean, Wale, Joey Bada$$ & Hitboy)",
-      "url": "https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "2 Weeks Notice",
-        "url": "https://open.spotify.com/album/1J0yL2u4rzWMcLcNMqgyYY"
-      },
-      "artists": [
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
-        }
-      ],
-      "duration_ms": 237900,
-      "name": "2 Weeks Notice",
-      "url": "https://open.spotify.com/track/45fNl83UyWzP5iuZpGeDQ7"
     }
   ],
   "unique_name": "Mind Right",

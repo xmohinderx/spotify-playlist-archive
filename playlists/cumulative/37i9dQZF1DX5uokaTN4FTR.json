@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Disclosure & RAYE",
+  "description": "The UK's biggest dance playlist! Cover: Jess Bays & Poppy Baskomb",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -173,6 +173,40 @@
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
+    },
+    {
+      "album": {
+        "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
+        "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Devilman",
+          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
+        },
+        {
+          "name": "OneDa",
+          "url": "https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266206,
+      "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
+      "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
     },
     {
       "album": {
@@ -812,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Forget My Love",
         "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
       },
@@ -1099,7 +1155,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 222520,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0FqcLYLjgbb2VUPClORTPr"
@@ -2041,7 +2097,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238095,
       "name": "Mad At Me (with TeeDee)",
       "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
@@ -2121,6 +2177,28 @@
       "duration_ms": 269986,
       "name": "Messages",
       "url": "https://open.spotify.com/track/5la9oIkNWEk3IEYHAd3cdw"
+    },
+    {
+      "album": {
+        "name": "Monday Kind of Tuesday",
+        "url": "https://open.spotify.com/album/3UH4jh4TcxS2Iyk1EAHVgj"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Monday Kind of Tuesday",
+      "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
     },
     {
       "album": {
@@ -3391,7 +3469,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -3479,7 +3557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218015,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"

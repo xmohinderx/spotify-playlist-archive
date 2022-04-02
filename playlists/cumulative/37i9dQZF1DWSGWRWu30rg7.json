@@ -2588,6 +2588,24 @@
     },
     {
       "album": {
+        "name": "GLOW UP",
+        "url": "https://open.spotify.com/album/0GdlhuqgrsvnmYpL4czOaX"
+      },
+      "artists": [
+        {
+          "name": "Kekeyi",
+          "url": "https://open.spotify.com/artist/4TH9PPmgNcFZPeBlzyCrcx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250436,
+      "name": "GLOW UP",
+      "url": "https://open.spotify.com/track/1fp0V5zFchxNfrrXfDUQzZ"
+    },
+    {
+      "album": {
         "name": "Going No Further",
         "url": "https://open.spotify.com/album/2wKkyePByb67khxTCxc1Ag"
       },
@@ -6625,7 +6643,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 194638,
       "name": "Sampai Saat Ini",
       "url": "https://open.spotify.com/track/0JAHxpzqexYkSP6MIXmiRF"

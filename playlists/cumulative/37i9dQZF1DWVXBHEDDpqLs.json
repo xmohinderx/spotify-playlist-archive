@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0bDvU6KgZNEI4BpajPzfgS"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160783,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ"
+    },
+    {
+      "album": {
         "name": "Que Tu Quiere",
         "url": "https://open.spotify.com/album/6WG0ITJtGEcnyqRMW2XQgb"
       },
@@ -1901,6 +1919,24 @@
       "duration_ms": 291750,
       "name": "Sankofa",
       "url": "https://open.spotify.com/track/3nLwHzldNExFUQZAbsvo1W"
+    },
+    {
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "album": {
@@ -2203,6 +2239,28 @@
       "duration_ms": 191150,
       "name": "U Nasty",
       "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
+    },
+    {
+      "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+      },
+      "artists": [
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
     },
     {
       "album": {

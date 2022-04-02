@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Dorothy",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Motionless In White",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8"
+    },
+    {
+      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/2lhbyagwH1TXiCgzl9JXKs"
       },
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186828,
       "name": "BITE MY FACE (FEAT. COREY TAYLOR)",
       "url": "https://open.spotify.com/track/5edonX335e9w96au4UTRn5"
@@ -367,6 +385,24 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
+    },
+    {
+      "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
     },
     {
       "album": {
@@ -1476,6 +1512,28 @@
     },
     {
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
+    },
+    {
+      "album": {
         "name": "This Is How The World Ends",
         "url": "https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9"
       },
@@ -1960,6 +2018,32 @@
     },
     {
       "album": {
+        "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
+        "url": "https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
+        },
+        {
+          "name": "Luna Shadows",
+          "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
+      "url": "https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0"
+    },
+    {
+      "album": {
         "name": "Hunter's Moon",
         "url": "https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1"
       },
@@ -1975,6 +2059,24 @@
       "duration_ms": 196128,
       "name": "Hunter\u2019s Moon",
       "url": "https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v"
+    },
+    {
+      "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "Hunting Season",
+      "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
     },
     {
       "album": {
@@ -3220,6 +3322,24 @@
     },
     {
       "album": {
+        "name": "Revelation Man",
+        "url": "https://open.spotify.com/album/5Tv6HmlDN9bMDKOM1UG8PK"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191972,
+      "name": "Revelation Man",
+      "url": "https://open.spotify.com/track/6k3qU84lNZwaxD5XshnT6b"
+    },
+    {
+      "album": {
         "name": "Rise, Naianasha (Cut The Cord)",
         "url": "https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p"
       },
@@ -3433,7 +3553,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
@@ -3459,6 +3579,24 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
+    },
+    {
+      "album": {
+        "name": "Shipwreck",
+        "url": "https://open.spotify.com/album/1kVSrNEw1CDaXEFo8oRcm0"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230698,
+      "name": "Shipwreck",
+      "url": "https://open.spotify.com/track/12uswvXC1QR3WiKJXbXxrI"
     },
     {
       "album": {
@@ -3563,7 +3701,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 281742,
       "name": "Slither",
       "url": "https://open.spotify.com/track/1q52pqEIfXPlPRdZCn8WoO"
@@ -3621,6 +3759,24 @@
       "duration_ms": 216840,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1iDXOj6hRBQs2hDrHHMvpn"
+    },
+    {
+      "album": {
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "album": {
@@ -3733,7 +3889,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 198375,
       "name": "such.a.shame",
       "url": "https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R"
@@ -4309,7 +4465,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 223131,
       "name": "Victory (Feat. Matt B. of From Ashes To New)",
       "url": "https://open.spotify.com/track/7BF2ldGXrlGf9hRQWPeSc6"
@@ -4389,6 +4545,32 @@
       "duration_ms": 189054,
       "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
       "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
+    },
+    {
+      "album": {
+        "name": "Wake Up Dead (feat. Dave Mustaine)",
+        "url": "https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "name": "Dave Mustaine",
+          "url": "https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Wake Up Dead (feat. Dave Mustaine)",
+      "url": "https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc"
     },
     {
       "album": {

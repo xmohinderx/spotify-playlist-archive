@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
-> O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
+> O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Gusttavo Lima
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

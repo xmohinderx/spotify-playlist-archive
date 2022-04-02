@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6?si=a77b9c7271da472a">SUNMI</a>, <a href="https://soundbetter.com/profiles/36535\-lyre">LYRE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,953 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,972 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Baby, I'm Hollywood!](https://open.spotify.com/track/37Rszesj8IDBkYCCsRJEB6) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:33 |
 | 40 | [hating myself in the summer](https://open.spotify.com/track/0W94oSiDJwCViDJ7cg8pRH) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [hating myself in the summer](https://open.spotify.com/album/3qMSTBdlyljwqzzTiP5xV0) | 2:42 |
 
-Snapshot ID: `MTY0ODc3NTA4NCwwMDAwMDAwMDlkZDZjODNiODA5MzAwMTU5NjQ1MzMzMTg2ZjMyNzFj`
+Snapshot ID: `MTY0ODg2MDk0NCwwMDAwMDAwMDlkZDZjODNiODA5MzAwMTU5NjQ1MzMzMTg2ZjMyNzFj`

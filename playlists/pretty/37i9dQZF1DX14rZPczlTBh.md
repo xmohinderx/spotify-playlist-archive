@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for the function.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 66 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,948 likes - 66 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 65 | [Family Party](https://open.spotify.com/track/1rUIMfgl59e6euk7wAL4oC) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 4:00 |
 | 66 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 |
 
-Snapshot ID: `MTY0ODc3NDg4MiwwMDAwMDAwMDcyYzQzZDU3MzY4ZTliYzE5NmJlMWVkNzNkZjQyNGU1`
+Snapshot ID: `MTY0ODg2MDc0MywwMDAwMDAwMDcyYzQzZDU3MzY4ZTliYzE5NmJlMWVkNzNkZjQyNGU1`

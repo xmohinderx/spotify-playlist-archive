@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 
 > Current country music and artists making noise on Spotify\. Featuring: Restless Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,693 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,697 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 | 49 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 |
 | 50 | [Cigarettes'll Kill Ya](https://open.spotify.com/track/32Ymq9mLErNoIDU4KYplVA) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Cigarettes'll Kill Ya](https://open.spotify.com/album/5PkYFkW1T1vNiXPIfa9fvD) | 3:48 |
 
-Snapshot ID: `MTY0NjExMDgwMCwwMDAwMDNhMzAwMDAwMTdmNDNkOTc5MTAwMDAwMDE3ZjNkYWQzYWYx`
+Snapshot ID: `MTY0ODgyNTg4MCwwMDAwMDNhNDAwMDAwMTdmZTVhZTUwYjUwMDAwMDE3ZjNkYWQzYWYx`

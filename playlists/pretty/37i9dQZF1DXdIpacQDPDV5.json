@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: Martin Garrix & Zedd",
-  "num_followers": 299122,
+  "num_followers": 299151,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4ODUwNiwwMDAwMDMzNDAwMDAwMTdmYmZiMGMxMjcwMDAwMDE3ZmJmYjA4NWQ3",
+  "snapshot_id": "MTY0ODgyNzU1MywwMDAwMDMzNTAwMDAwMTdmZTVjN2Q3OTkwMDAwMDE3ZmJmYjA4NWQ3",
   "tracks": [
     {
       "added_at": "2022-03-25 06:08:26",
@@ -57,6 +57,50 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "duration_ms": 252058,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
+    },
+    {
+      "added_at": "2022-03-18 05:31:22",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
       "added_at": "2022-03-18 05:31:22",
       "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
@@ -91,26 +135,6 @@
       "duration_ms": 171598,
       "name": "Original Sin",
       "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
-        "name": "Don't Forget My Love",
-        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "added_at": "2022-03-25 06:08:26",
@@ -153,6 +177,26 @@
       "url": "https://open.spotify.com/track/2kpOZP2szJea4TExBH2DJu"
     },
     {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Loveless (with Teddy Swims)",
+        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Loveless (with Teddy Swims)",
+      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
+    },
+    {
       "added_at": "2022-03-18 05:31:22",
       "album": {
         "name": "Move Your Body",
@@ -193,6 +237,22 @@
       "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
     },
     {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "INTO THE UNKNOWN",
+        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "INTO THE UNKNOWN",
+      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
       "added_at": "2022-03-18 05:31:22",
       "album": {
         "name": "Show Me A Sign",
@@ -227,6 +287,26 @@
       "duration_ms": 215640,
       "name": "Spit",
       "url": "https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3"
+    },
+    {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Lose My Mind (feat. Taylor Moody)",
+        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Taylor Moody",
+          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Lose My Mind (feat. Taylor Moody)",
+      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
     },
     {
       "added_at": "2022-03-25 06:08:26",
@@ -271,6 +351,26 @@
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
       "added_at": "2022-03-18 05:31:22",
@@ -363,6 +463,26 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Sirens (feat. Caroline Polachek)",
+        "url": "https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 238019,
+      "name": "Sirens (feat. Caroline Polachek)",
+      "url": "https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4"
     },
     {
       "added_at": "2022-03-18 05:31:22",
@@ -537,6 +657,26 @@
       "url": "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
     },
     {
+      "added_at": "2022-04-01 15:39:13",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3ONdVw5rchTT3gLfJUYSdy"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Madeleine Daye",
+          "url": "https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3mt7fgvyK0ND6mI02bgb0c"
+    },
+    {
       "added_at": "2022-03-18 05:31:22",
       "album": {
         "name": "Dancing Feet (feat. DNCE)",
@@ -575,26 +715,6 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/1FMoyW1Ntjaoq3tko5kuuk"
-      },
-      "artists": [
-        {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
-        },
-        {
-          "name": "Madeleine Daye",
-          "url": "https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/40pPsAXyIJofY21GNe7r1Y"
     },
     {
       "added_at": "2022-03-25 06:08:26",
@@ -853,26 +973,6 @@
       "url": "https://open.spotify.com/track/2nsuUT8ey4AhPkkyM74shh"
     },
     {
-      "added_at": "2022-03-21 16:35:12",
-      "album": {
-        "name": "Heaven on Loan",
-        "url": "https://open.spotify.com/album/0nLY19y9S32PPJF6oZbH0w"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Heaven on Loan",
-      "url": "https://open.spotify.com/track/4v7OqAfEwN53v6gAlDvBLg"
-    },
-    {
       "added_at": "2022-03-18 05:31:22",
       "album": {
         "name": "Melody",
@@ -1095,26 +1195,6 @@
     {
       "added_at": "2022-03-18 05:31:22",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
       },
@@ -1167,22 +1247,6 @@
       "duration_ms": 168585,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3mMWre0KnZ4aPuhZF62KmV"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
-        "name": "Indigo EP",
-        "url": "https://open.spotify.com/album/1Q9c6iGrzaPX9IFn57UbYD"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 302827,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/4WqEBIMJMmGRiEwSyRzeEQ"
     },
     {
       "added_at": "2022-03-18 05:31:22",
@@ -1463,22 +1527,6 @@
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
-        "name": "Love Turns Lonely",
-        "url": "https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e"
-      },
-      "artists": [
-        {
-          "name": "Sophie Simmons",
-          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
-        }
-      ],
-      "duration_ms": 167387,
-      "name": "Love Turns Lonely",
-      "url": "https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2"
     },
     {
       "added_at": "2022-03-18 05:31:22",
@@ -1815,22 +1863,6 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
-    },
-    {
-      "added_at": "2022-03-18 05:31:22",
-      "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 189370,
-      "name": "Cleo - Edit",
-      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
     },
     {
       "added_at": "2022-03-18 05:31:22",

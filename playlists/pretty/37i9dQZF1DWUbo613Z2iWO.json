@@ -1,13 +1,53 @@
 {
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Coco Jones",
-  "num_followers": 18297,
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Savannah Re'",
+  "num_followers": 18359,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDg2MCwwMDAwMDAyNjAwMDAwMTdmYmYzYzE0ZGYwMDAwMDE3ZmJjYThiZmEy",
+  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAyNzAwMDAwMTdmZTM0N2FlYTUwMDAwMDE3ZmUzMGM5YmUz",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
+    },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
@@ -55,6 +95,82 @@
       "duration_ms": 145352,
       "name": "Fiji",
       "url": "https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Thinkin' Bout You",
+        "url": "https://open.spotify.com/album/0mgyacC2aoBaFxSEVc48s8"
+      },
+      "artists": [
+        {
+          "name": "Sukaina Yasin",
+          "url": "https://open.spotify.com/artist/3WPX7IWIMAG4SCEfEPEB2w"
+        },
+        {
+          "name": "Lan'do",
+          "url": "https://open.spotify.com/artist/2CydGGDCQTBvHCjr3WEY7C"
+        },
+        {
+          "name": "Kieron Boothe",
+          "url": "https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thinkin' Bout You",
+      "url": "https://open.spotify.com/track/5ZQ8Pkf6CI0hHNVJYmKB3A"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "nothing",
+        "url": "https://open.spotify.com/album/567NzsU7dB8ichKPOoasIj"
+      },
+      "artists": [
+        {
+          "name": "Nick Acevedo",
+          "url": "https://open.spotify.com/artist/5WKiirAZgjX0NyIzKuoX7J"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "nothing",
+      "url": "https://open.spotify.com/track/6GTPMiHSRqMTLbTzSAEGBO"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "BETTER TIMES (REDUX VERSION)",
+        "url": "https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        }
+      ],
+      "duration_ms": 174987,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/03reiJNuSFum7GhLNmtjZr"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
+      },
+      "artists": [
+        {
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 110640,
+      "name": "Arz Interlude",
+      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
     },
     {
       "added_at": "2022-03-18 04:26:29",
@@ -141,6 +257,22 @@
       "url": "https://open.spotify.com/track/3lQeU943lFCg95XDi8De7Y"
     },
     {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Interlude I: Hours",
+        "url": "https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg"
+      },
+      "artists": [
+        {
+          "name": "Zavier O'Keith",
+          "url": "https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR"
+        }
+      ],
+      "duration_ms": 234538,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/09aLAidfem9LE2TczinPy8"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "i need you more (feat. Suyo)",
@@ -191,6 +323,22 @@
       "duration_ms": 132540,
       "name": "Spring Cleaning",
       "url": "https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -795,70 +943,6 @@
       "duration_ms": 215040,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Draft 7 \"fruitless love\"",
-        "url": "https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI"
-      },
-      "artists": [
-        {
-          "name": "Hailes",
-          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Draft 7 \"fruitless love\"",
-      "url": "https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Shoestring",
-        "url": "https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 238788,
-      "name": "Shoestring",
-      "url": "https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "SAD TONIGHT",
-        "url": "https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "SAD TONIGHT",
-      "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Introvert Hotline",
-        "url": "https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Introvert Hotline",
-      "url": "https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU"
     }
   ],
   "unique_name": "The Newness",

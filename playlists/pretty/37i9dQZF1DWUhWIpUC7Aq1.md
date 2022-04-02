@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > who's that girl...\. it's you with your large white collar, sparrow print booties, and dare we say \~curtain bangs\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,228 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,545 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
 | 100 | [A Teenager in Love](https://open.spotify.com/track/0eFvq5en7MGkbzS1I6vUAG) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure At Heart](https://open.spotify.com/album/4QqUhGQe1QevExvfANIZ2X) | 3:19 |
 
-Snapshot ID: `MTY0ODc3NDY3NiwwMDAwMDAwMGZjOWJmNjIwMDhlNzIzYjk0OWNiZWRjNzc5N2Q2M2Zh`
+Snapshot ID: `MTY0ODg2MDUzOSwwMDAwMDAwMGZjOWJmNjIwMDhlNzIzYjk0OWNiZWRjNzc5N2Q2M2Zh`

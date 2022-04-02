@@ -622,6 +622,28 @@
     },
     {
       "album": {
+        "name": "iMali",
+        "url": "https://open.spotify.com/album/6Yxx6c9bvMzuBMV1ZUTs5C"
+      },
+      "artists": [
+        {
+          "name": "Zamoh Cofi",
+          "url": "https://open.spotify.com/artist/31BGgielHC0uRLARr7eymC"
+        },
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288052,
+      "name": "iMali",
+      "url": "https://open.spotify.com/track/2l9I09sKsMmOFqufJJZooe"
+    },
+    {
+      "album": {
         "name": "Imbokodo",
         "url": "https://open.spotify.com/album/3oiZf1koktAcsGHgXxTof4"
       },

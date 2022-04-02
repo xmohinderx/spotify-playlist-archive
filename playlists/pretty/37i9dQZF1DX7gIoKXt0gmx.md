@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336,975 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,337,489 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Provider](https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Provider](https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9) | 4:03 |
 | 100 | [Sober](https://open.spotify.com/track/6olUplztLFFfU7fMYmFXOP) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/5GBcqixIFDPEom7AUNbFiM) | 4:12 |
 
-Snapshot ID: `MTY0ODc3NTA5NiwwMDAwMDAwMDJhMTE3Zjg0NDkzMDNjMWZmNzBkOGFkYmQ4M2QzYmI3`
+Snapshot ID: `MTY0ODg2MDk1NiwwMDAwMDAwMDJhMTE3Zjg0NDkzMDNjMWZmNzBkOGFkYmQ4M2QzYmI3`

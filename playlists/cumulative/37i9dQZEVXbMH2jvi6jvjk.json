@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -3871,7 +3871,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
@@ -13038,6 +13038,32 @@
     },
     {
       "album": {
+        "name": "Thatheka",
+        "url": "https://open.spotify.com/album/2y2MeAwM5RbgYVIAL1eZum"
+      },
+      "artists": [
+        {
+          "name": "Drizzy Sam Rsa",
+          "url": "https://open.spotify.com/artist/400dgBHAKK7icw1lrKLvBg"
+        },
+        {
+          "name": "Kaymor",
+          "url": "https://open.spotify.com/artist/5KyPBcBZNfEHczC9dTkMhw"
+        },
+        {
+          "name": "Ohp Sage",
+          "url": "https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312798,
+      "name": "Thatheka",
+      "url": "https://open.spotify.com/track/0ESNI1FGdYuxqMEOg6jtjI"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -13089,7 +13115,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"

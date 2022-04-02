@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,645 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,053 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [The Impression That I Get](https://open.spotify.com/track/2F5r18ZlLUBqnt0jjhhETm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/2ZQT4irYHOexoqjzIZXipB) | 3:14 |
 | 100 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 |
 
-Snapshot ID: `MTY0ODc3NDk1NywwMDAwMDAwMDIxYWMzYTFjOTYxNzA0YWUwNmQ0ZTkyN2FkYjc1MzI2`
+Snapshot ID: `MTY0ODg2MDgxNywwMDAwMDAwMDIxYWMzYTFjOTYxNzA0YWUwNmQ0ZTkyN2FkYjc1MzI2`

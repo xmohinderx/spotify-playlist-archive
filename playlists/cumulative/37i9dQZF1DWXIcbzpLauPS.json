@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: Motionless In White",
+  "description": "This is the new core at its finest. Cover: Ice Nine Kills",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Stranger I Remain",
+        "url": "https://open.spotify.com/album/3apA50v3LWM6VILq8yl1Zj"
+      },
+      "artists": [
+        {
+          "name": "GO!! Light Up!",
+          "url": "https://open.spotify.com/artist/1hIAVfmKI8rbfgdO1EQG1c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "A Stranger I Remain",
+      "url": "https://open.spotify.com/track/0YOGApjOdX5BrFKxmccUyT"
+    },
     {
       "album": {
         "name": "A Vigil for the Living",
@@ -358,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1"
+      },
+      "artists": [
+        {
+          "name": "World Without",
+          "url": "https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173601,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN"
+    },
+    {
+      "album": {
         "name": "Krewe D'Amour, Vol. 2",
         "url": "https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx"
       },
@@ -441,7 +477,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 196363,
       "name": "Broken Homes",
       "url": "https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ"
@@ -546,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/3TuUuY9cn4K5iDxmiQWIN1"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222924,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/27kgTzYezbn9xxL5VIpqg0"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
       },
@@ -575,7 +629,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218769,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp"
@@ -629,7 +683,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218624,
       "name": "Composure",
       "url": "https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM"
@@ -847,7 +901,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 269398,
       "name": "Death Is All Around",
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 214736,
       "name": "Demonz in Paris",
       "url": "https://open.spotify.com/track/0XkW9sBjJumOFXMHqbYuih"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 180500,
       "name": "DESTINY",
       "url": "https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU"
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 266175,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR"
@@ -1071,7 +1125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 191460,
       "name": "Erase My Mind",
       "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
@@ -1213,7 +1267,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 207000,
       "name": "Fixated",
       "url": "https://open.spotify.com/track/6dDHGI6P576FaxA3K2PCIE"
@@ -1390,6 +1444,24 @@
     },
     {
       "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "Hunting Season",
+      "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
+    },
+    {
+      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu"
       },
@@ -1423,6 +1495,24 @@
       "duration_ms": 201565,
       "name": "I Run With Wolves",
       "url": "https://open.spotify.com/track/7oNOP1xca406nustARPRru"
+    },
+    {
+      "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/316D2TsNJ1fE9GbxoC6pBw"
+      },
+      "artists": [
+        {
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199845,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/0oMghvmlhxnb6U7jTCVmF6"
     },
     {
       "album": {
@@ -1549,7 +1639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185772,
       "name": "Left For Dead",
       "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
@@ -1661,7 +1751,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
@@ -1776,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/1ohjKFnDzXTdow3BX4JAIp"
+      },
+      "artists": [
+        {
+          "name": "Our Sorrows",
+          "url": "https://open.spotify.com/artist/3WPkmecpxS1kHEWSiHgex2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236888,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/05pFSOQXBF9xEydmyBRU2R"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3"
       },
@@ -1831,6 +1939,24 @@
       "duration_ms": 204765,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
+    },
+    {
+      "album": {
+        "name": "My Demon",
+        "url": "https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH"
+      },
+      "artists": [
+        {
+          "name": "Points of Conception",
+          "url": "https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F"
     },
     {
       "album": {
@@ -1982,6 +2108,50 @@
     },
     {
       "album": {
+        "name": "Only Human (feat. AJ Channer)",
+        "url": "https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "AJ Channer",
+          "url": "https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182963,
+      "name": "Only Human (feat. AJ Channer)",
+      "url": "https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU"
+    },
+    {
+      "album": {
+        "name": "Rumination",
+        "url": "https://open.spotify.com/album/60HZVkVipEXJKr3Nbk2MSi"
+      },
+      "artists": [
+        {
+          "name": "The Dead Rabbitts",
+          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
+        },
+        {
+          "name": "Chloe Ozwell",
+          "url": "https://open.spotify.com/artist/07gFHRrAEMmxG528gTVvFO"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3gLRXqPiOus7T8eD3t9iDH"
+    },
+    {
+      "album": {
         "name": "Outrun",
         "url": "https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4"
       },
@@ -2083,7 +2253,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 172758,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
@@ -2325,7 +2495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 159000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk"
@@ -2386,6 +2556,36 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not Easy Being Human",
+        "url": "https://open.spotify.com/album/1PQNS7uitlx8MAfVmHImtz"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Zao",
+          "url": "https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s"
+        },
+        {
+          "name": "Living Sacrifice",
+          "url": "https://open.spotify.com/artist/0nxo4nAEYNbNpA8wwNvqXY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250676,
+      "name": "Skin Crawl (feat. Brian \u201cHead\u201d Welch of Korn, Dan Weyandt of Zao, Bruce Fitzhugh of Living Sacrifice)",
+      "url": "https://open.spotify.com/track/05ExgiMCSDdT15nwhMf8ow"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/5KV8G5odPoSh6lflXZTFoO"
       },
@@ -2401,6 +2601,24 @@
       "duration_ms": 222120,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70"
+    },
+    {
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
     },
     {
       "album": {
@@ -2599,7 +2817,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219375,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/7ynwEn9WVqGHDXYrlQ5Hft"
@@ -2621,6 +2839,28 @@
       "duration_ms": 243821,
       "name": "Susi",
       "url": "https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs"
+    },
+    {
+      "album": {
+        "name": "Swan Song (feat. Scott Vogel)",
+        "url": "https://open.spotify.com/album/1N8yKGGlqqnduljKTE3JEY"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        },
+        {
+          "name": "Scott Vogel",
+          "url": "https://open.spotify.com/artist/29hXSjO5wlSWX5Kwrtms9s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Swan Song (feat. Scott Vogel)",
+      "url": "https://open.spotify.com/track/0KYUDcYOgenD49LRX9zM4F"
     },
     {
       "album": {
@@ -2671,10 +2911,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 215152,
       "name": "Take Your Love and Leave",
       "url": "https://open.spotify.com/track/6S0KonuMvq99QR0Rh03pz4"
+    },
+    {
+      "album": {
+        "name": "Tea Leaves",
+        "url": "https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Tea Leaves",
+      "url": "https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c"
     },
     {
       "album": {
@@ -2819,7 +3077,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219867,
       "name": "The Negative",
       "url": "https://open.spotify.com/track/6dOoxvIbgQq8WhQ2gjndpq"
@@ -3137,7 +3395,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 173000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu"
@@ -3353,7 +3611,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 166153,
       "name": "Your Fire",
       "url": "https://open.spotify.com/track/1REmU4T9sKpB0czaqRuz5W"

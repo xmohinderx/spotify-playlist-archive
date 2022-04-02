@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Clear Blue",
+        "url": "https://open.spotify.com/album/570gd1Pe8AyrSI6KCayw4p"
+      },
+      "artists": [
+        {
+          "name": "Ceylan Aydem Project",
+          "url": "https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Clear Blue",
+      "url": "https://open.spotify.com/track/4UEs7H32py3zfPCor8nbZZ"
+    },
+    {
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn"
       },

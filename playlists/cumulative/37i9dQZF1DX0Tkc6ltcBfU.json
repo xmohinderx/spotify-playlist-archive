@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Kodak Black",
+  "description": "The hottest out the south. Cover: Mike Dimes",
   "name": "No Cap",
   "published_playlist_ids": [
     "2CHiCkE2iALYQLydnfqfDa"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 114193,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K"
@@ -840,6 +840,28 @@
     },
     {
       "album": {
+        "name": "Everybody Shooters Too",
+        "url": "https://open.spotify.com/album/2G69YevAOGrTOPK024DJi1"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112560,
+      "name": "Everybody Shooters Too",
+      "url": "https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC"
+    },
+    {
+      "album": {
         "name": "CHOMP 2",
         "url": "https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK"
       },
@@ -928,6 +950,32 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6swRWFCjGxpLBvdD5t25JV"
+      },
+      "artists": [
+        {
+          "name": "DaBoyDame",
+          "url": "https://open.spotify.com/artist/53EmQSV3tRYsAlmM6kElwL"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165870,
+      "name": "Feelings (feat. EST Gee & Rick Ross)",
+      "url": "https://open.spotify.com/track/5sLibBUm0ES1LOuy5fEbHj"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -939,7 +987,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
@@ -1048,6 +1096,28 @@
     },
     {
       "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131909,
+      "name": "Freedom of Speech (with J. Cole)",
+      "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "album": {
         "name": "Get Back",
         "url": "https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa"
       },
@@ -1063,6 +1133,32 @@
       "duration_ms": 109852,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7hN02og1TARl5EER4wURPb"
+    },
+    {
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173589,
+      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "album": {
@@ -1805,7 +1901,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 104115,
       "name": "Neighbors Know My Name",
       "url": "https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt"
@@ -1831,6 +1927,28 @@
       "duration_ms": 200800,
       "name": "Never Fail (with Benny The Butcher)",
       "url": "https://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/16BbKsl9JDW5bFIxJ6DTKg"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "No Love (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
     },
     {
       "album": {
@@ -2266,6 +2384,32 @@
     },
     {
       "album": {
+        "name": "Pull Up Actin (Never Broke Again featuring YoungBoy Never Broke Again and P Yungin)",
+        "url": "https://open.spotify.com/album/6S52VWtEqjpEO51CVPcESo"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "P Yungin",
+          "url": "https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144046,
+      "name": "Pull Up Actin (Never Broke Again featuring YoungBoy Never Broke Again and P Yungin)",
+      "url": "https://open.spotify.com/track/6xj9wxBuEmuCffZCD5sJsJ"
+    },
+    {
+      "album": {
         "name": "Me vs. Me",
         "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
       },
@@ -2561,7 +2705,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 122276,
       "name": "She Luv Me",
       "url": "https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr"
@@ -2841,7 +2985,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
@@ -2885,10 +3029,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
+    },
+    {
+      "album": {
+        "name": "Take Care (feat. Toosii & Millie Go Lightly)",
+        "url": "https://open.spotify.com/album/56P5pwahGAQrkSBxIiCw11"
+      },
+      "artists": [
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Millie Go Lightly",
+          "url": "https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Take Care (feat. Toosii & Millie Go Lightly)",
+      "url": "https://open.spotify.com/track/5s8PjlqUnh2JwF6fkMJK3L"
     },
     {
       "album": {
@@ -3065,6 +3235,28 @@
       "duration_ms": 216357,
       "name": "Too Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
+    },
+    {
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
     },
     {
       "album": {

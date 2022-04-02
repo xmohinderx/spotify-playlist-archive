@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,298 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,363 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 46 | [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 |
 | 47 | [El Desdichado](https://open.spotify.com/track/2ouXAE3QSBfJCE5Zv7UnYH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 3:50 |
 | 48 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
-| 49 | [Cobarde Cobarde](https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:13 |
+| 49 | [Cobarde Cobarde](https://open.spotify.com/track/0ySSrrPzYPfsbfbyYIUySD) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:13 |
 | 50 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
 | 51 | [A Tatito Henriquez](https://open.spotify.com/track/3o79tbQLWOE2p89DzKtIfn) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Anos Dorados](https://open.spotify.com/album/0LzmbFGadC4SqSEYXoMDr7) | 4:03 |
 | 52 | [Si Algún Día la Ves](https://open.spotify.com/track/6BjTfMFU1X39YbkyAjwiuB) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:45 |
-| 53 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
+| 53 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
 | 54 | [Ya Viene el Lunes](https://open.spotify.com/track/0SMlnXtmwr3Ry8JBZPdWbr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Exitos](https://open.spotify.com/album/6f0Zc6OuOjU3kq3bj4pBBw) | 4:50 |
 | 55 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 56 | [Feliz Cumbé](https://open.spotify.com/track/6Znkj4JOj6nQYM7A0iXKoO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 3:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [No Hay Nadie Mas](https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:39 |
 | 150 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 |
 
-Snapshot ID: `MTY0ODc3NDYwOSwwMDAwMDAwMDBkZDU0N2ZmZmFhZTc0MWI4NjA0ZWVjNTdiZmYwNmQw`
+Snapshot ID: `MTY0ODg2MDQ3MiwwMDAwMDAwMDBkZDU0N2ZmZmFhZTc0MWI4NjA0ZWVjNTdiZmYwNmQw`

@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 224842,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219750,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216263,
       "name": "Conv\u00e9ncete",
       "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
@@ -1884,6 +1884,44 @@
     },
     {
       "album": {
+        "name": "Klonk (Remix)",
+        "url": "https://open.spotify.com/album/1ZjdhHTgtEQawzQgCYxlRT"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Galindo Again",
+          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Felo Blonck",
+          "url": "https://open.spotify.com/artist/7kJEoJXXCcAcziKADYgS0c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305823,
+      "name": "Klonk - Remix",
+      "url": "https://open.spotify.com/track/4RG1T9AqbSmOBQlUpbY50s"
+    },
+    {
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
       },
@@ -2461,7 +2499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/0Z46SPLJZUC2aKDAggsMvr"
@@ -2775,7 +2813,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
@@ -2849,6 +2887,24 @@
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
+    },
+    {
+      "album": {
+        "name": "O Grave Bater",
+        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181903,
+      "name": "O Grave Bater",
+      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
     },
     {
       "album": {
@@ -2937,6 +2993,24 @@
       "duration_ms": 168661,
       "name": "Pa Que Guaye",
       "url": "https://open.spotify.com/track/3eS9dAZWceGcFJutyCfuwm"
+    },
+    {
+      "album": {
+        "name": "Pantano",
+        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
     },
     {
       "album": {
@@ -3269,6 +3343,32 @@
       "duration_ms": 186096,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/4XGIgwrl39ycvPyRqmZGJQ"
+      },
+      "artists": [
+        {
+          "name": "Urba y Rome",
+          "url": "https://open.spotify.com/artist/73Lhk4XucX7BDRL82Zngs5"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "P\u00fablico",
+      "url": "https://open.spotify.com/track/1PzvsHLUbLRsXuKTDvgJPW"
     },
     {
       "album": {
@@ -3633,7 +3733,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"

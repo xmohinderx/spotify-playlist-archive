@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Restu. Artwork: Isu Kim.",
-  "num_followers": 58151,
+  "num_followers": 58161,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc0NjAwMCwwMDAwMDBlNTAwMDAwMTdmZTBlYjZmMTQwMDAwMDE3ZmJhYmFkYTcz",
+  "snapshot_id": "MTY0ODc5MzE0NCwwMDAwMDBlNjAwMDAwMTdmZTNiYWNkYTUwMDAwMDE3ZmJhYmFkYTcz",
   "tracks": [
     {
       "added_at": "2022-03-31 17:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-03-31 17:00:00",
       "album": {
-        "name": "Sampai Saat Ini",
-        "url": "https://open.spotify.com/album/26e6JlNNwtIAqNOG46uOwe"
-      },
-      "artists": [
-        {
-          "name": "Arlan",
-          "url": "https://open.spotify.com/artist/2tvP7btiq3mdOtjc5nTlIX"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Sampai Saat Ini",
-      "url": "https://open.spotify.com/track/0JAHxpzqexYkSP6MIXmiRF"
-    },
-    {
-      "added_at": "2022-03-31 17:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/46kVNey0daeMtoRacq76oR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216245,
       "name": "Forgotten Home",
       "url": "https://open.spotify.com/track/73uz5Ydl6UYWbpdQP73TkZ"
+    },
+    {
+      "added_at": "2022-04-01 06:05:44",
+      "album": {
+        "name": "GLOW UP",
+        "url": "https://open.spotify.com/album/0GdlhuqgrsvnmYpL4czOaX"
+      },
+      "artists": [
+        {
+          "name": "Kekeyi",
+          "url": "https://open.spotify.com/artist/4TH9PPmgNcFZPeBlzyCrcx"
+        }
+      ],
+      "duration_ms": 250436,
+      "name": "GLOW UP",
+      "url": "https://open.spotify.com/track/1fp0V5zFchxNfrrXfDUQzZ"
     },
     {
       "added_at": "2022-03-31 17:00:00",

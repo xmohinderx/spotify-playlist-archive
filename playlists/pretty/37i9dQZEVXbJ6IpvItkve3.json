@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "num_followers": 43791,
+  "num_followers": 43807,
   "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAyMDM2NTc5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAyMTI2NzE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
         "url": "https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 139875,
-      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
-        "url": "https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 155219,
-      "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
-      "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d3\u05d5\u05d1\u05e9\u05e0\u05d9\u05d9\u05d4",
         "url": "https://open.spotify.com/album/55CGlMoTowH0a5vPjlS17I"
@@ -97,7 +49,39 @@
       "url": "https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
+        "url": "https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 155219,
+      "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
+      "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 139875,
+      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05e4\u05e2\u05de\u05d5\u05df",
         "url": "https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH"
@@ -117,7 +101,23 @@
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 175296,
-      "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
         "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
@@ -177,23 +161,23 @@
       "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 175296,
+      "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
         "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
@@ -209,79 +193,23 @@
       "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq"
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
       "artists": [
         {
-          "name": "\u05d1\u05e0\u05d0\u05dc \u05d1\u05df \u05e6\u05d9\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/6bnIwLx07NhKscf9kwuxg1"
-        },
-        {
-          "name": "\u05e9\u05d9\u05e8\u05d6 \u05d0\u05d1\u05e8\u05d4\u05dd",
-          "url": "https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 212896,
-      "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
-        "url": "https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP"
-      },
-      "artists": [
-        {
-          "name": "Maya Dadon",
-          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
-      "url": "https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05dc\u05db\u05d0\u05d5\u05e8\u05d4",
         "url": "https://open.spotify.com/album/4nBBtn70xb1a8aED9BAPIf"
@@ -301,7 +229,59 @@
       "url": "https://open.spotify.com/track/4aqlgwaZNzb94QuHP6y58X"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
+        "url": "https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP"
+      },
+      "artists": [
+        {
+          "name": "Maya Dadon",
+          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+        }
+      ],
+      "duration_ms": 191078,
+      "name": "\u05d7\u05d5\u05e5 \u05de\u05de\u05da",
+      "url": "https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq"
+      },
+      "artists": [
+        {
+          "name": "\u05d1\u05e0\u05d0\u05dc \u05d1\u05df \u05e6\u05d9\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/6bnIwLx07NhKscf9kwuxg1"
+        },
+        {
+          "name": "\u05e9\u05d9\u05e8\u05d6 \u05d0\u05d1\u05e8\u05d4\u05dd",
+          "url": "https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr"
+        }
+      ],
+      "duration_ms": 212896,
+      "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05dc\u05d9\u05d1\u05d9\u05e0\u05d2 \u05d3\u05d4 \u05d3\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/7gGR6IBvZYsqqSs3D1Eo6K"
@@ -317,43 +297,27 @@
       "url": "https://open.spotify.com/track/6so2IwKQyYFkNv1G0FrZ95"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -373,27 +337,23 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
-        "url": "https://open.spotify.com/album/3lw6fJkAZ7btTA2W8e9MMt"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Elai Botner",
-          "url": "https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0"
-        },
-        {
-          "name": "Avraham Aviv Alush",
-          "url": "https://open.spotify.com/artist/5hoXNR3dL6TafUYqk8b1m2"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 231242,
-      "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
-      "url": "https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05e9\u05d1\u05e2\u05d4 \u05d9\u05e8\u05d7\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
@@ -413,7 +373,47 @@
       "url": "https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3lw6fJkAZ7btTA2W8e9MMt"
+      },
+      "artists": [
+        {
+          "name": "Elai Botner",
+          "url": "https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0"
+        },
+        {
+          "name": "Avraham Aviv Alush",
+          "url": "https://open.spotify.com/artist/5hoXNR3dL6TafUYqk8b1m2"
+        }
+      ],
+      "duration_ms": 231242,
+      "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
+      "url": "https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d7\u05e6\u05d9 \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3"
@@ -433,59 +433,7 @@
       "url": "https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uqfFF7ulAju4K9JKP3rnW"
@@ -505,23 +453,7 @@
       "url": "https://open.spotify.com/track/4F5i9rkN4DBMysvhzzEHoh"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
         "url": "https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8"
@@ -541,7 +473,123 @@
       "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d1\u05d9\u05d7\u05d3",
         "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
@@ -561,55 +609,7 @@
       "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
-      },
-      "artists": [
-        {
-          "name": "Avraham Tal",
-          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
@@ -625,23 +625,7 @@
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
         "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
@@ -657,7 +641,7 @@
       "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
         "url": "https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR"
@@ -673,7 +657,59 @@
       "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -697,43 +733,7 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
         "url": "https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3"
@@ -749,71 +749,7 @@
       "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "\u05d7\u05e6\u05d9 \u05d3\u05e4\u05d5\u05e7",
-      "url": "https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u"
-    },
-    {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05de\u05e7\u05d1\u05dc \u05e2\u05dc \u05e2\u05e6\u05de\u05d9",
         "url": "https://open.spotify.com/album/4AKslKwM3Ch0f0SMeQhm7c"
@@ -829,23 +765,71 @@
       "url": "https://open.spotify.com/track/0taqIIB89cQQoiA8ZDukWf"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "3",
+        "url": "https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 177874,
+      "name": "\u05d7\u05e6\u05d9 \u05d3\u05e4\u05d5\u05e7",
+      "url": "https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d0\u05d5\u05d8\u05d5",
+        "url": "https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 251931,
+      "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d0\u05d5\u05d8\u05d5",
+      "url": "https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
         "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
@@ -856,12 +840,12 @@
           "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 169846,
-      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
+      "duration_ms": 212963,
+      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -877,20 +861,36 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-03-31 10:09:39",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
-        "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d0\u05d5\u05d8\u05d5",
-        "url": "https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6"
+        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
         }
       ],
-      "duration_ms": 251931,
-      "name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d0\u05d5\u05d8\u05d5",
-      "url": "https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr"
+      "duration_ms": 161485,
+      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     }
   ],
   "unique_name": "Top 50 - Israel",

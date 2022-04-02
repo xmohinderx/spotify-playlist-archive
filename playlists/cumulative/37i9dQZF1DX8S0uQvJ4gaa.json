@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: ERNEST",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Zach Bryan",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 214040,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
@@ -2693,7 +2693,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201256,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
@@ -3133,7 +3133,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183087,
       "name": "Can't Have Mine (Find You A Girl)",
       "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
@@ -5447,7 +5447,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 210000,
       "name": "Drinking to the Broken Hearts",
       "url": "https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK"
@@ -8152,6 +8152,28 @@
     },
     {
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "album": {
         "name": "half of my hometown",
         "url": "https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN"
       },
@@ -8319,6 +8341,24 @@
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
+    },
+    {
+      "album": {
+        "name": "Happyland Trailer Park",
+        "url": "https://open.spotify.com/album/7opABhEEJyltwIrsDjWG0G"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243404,
+      "name": "Happyland Trailer Park",
+      "url": "https://open.spotify.com/track/51UQtCSam9lYt9OLqZV1qz"
     },
     {
       "album": {
@@ -10661,7 +10701,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 176666,
       "name": "I'm Gonna Let Her",
       "url": "https://open.spotify.com/track/0ypM45MRlc73Uttz1ddn9o"
@@ -14430,6 +14470,28 @@
     },
     {
       "album": {
+        "name": "Never Til Now",
+        "url": "https://open.spotify.com/album/1R63WizerBkcwtE351ynBq"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now",
+      "url": "https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe"
+    },
+    {
+      "album": {
         "name": "Never Wanted To Be That Girl",
         "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
       },
@@ -14618,6 +14680,24 @@
     },
     {
       "album": {
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/0K9jNTlUhNZqI8Z03hMoQT"
       },
@@ -14755,7 +14835,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 228115,
       "name": "No, Pedal Steel",
       "url": "https://open.spotify.com/track/0ijVRmoMHk1uNhM6YHvdhe"
@@ -16327,6 +16407,24 @@
       "duration_ms": 201279,
       "name": "Raised Up",
       "url": "https://open.spotify.com/track/18A9aKlYPnjZFvGxjtIhAc"
+    },
+    {
+      "album": {
+        "name": "Raised Up Right",
+        "url": "https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178820,
+      "name": "Raised Up Right",
+      "url": "https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB"
     },
     {
       "album": {
@@ -19035,6 +19133,24 @@
       "duration_ms": 162120,
       "name": "Steal My Love",
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Stereotype",
+      "url": "https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5"
     },
     {
       "album": {
@@ -21923,6 +22039,24 @@
       "duration_ms": 188823,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189049,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"
     },
     {
       "album": {

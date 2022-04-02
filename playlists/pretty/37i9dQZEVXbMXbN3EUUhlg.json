@@ -1,24 +1,20 @@
 {
   "description": "Your daily update of the most played tracks right now - Brazil.",
-  "num_followers": 3024606,
+  "num_followers": 3026035,
   "original_name": "Top 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAyMDM2NTc0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAyMTI2NzE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "sentaDONA (Remix) s2",
-        "url": "https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me"
+        "url": "https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0"
       },
       "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
         {
           "name": "Davi Kneip",
           "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
@@ -30,14 +26,18 @@
         {
           "name": "Dj Gabriel do Borel",
           "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
-      "url": "https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR"
+      "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Mal Feito (Ao Vivo)",
         "url": "https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
         "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
@@ -149,7 +133,39 @@
       "url": "https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
@@ -169,55 +185,7 @@
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 152690,
-      "name": "VERMELHO",
-      "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168689,
-      "name": "Bloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Molhando o Volante",
         "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
@@ -233,7 +201,55 @@
       "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 152690,
+      "name": "VERMELHO",
+      "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168689,
+      "name": "Bloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Vai L\u00e1 Em Casa Hoje",
         "url": "https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
@@ -349,23 +365,7 @@
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "A Maior Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Tarja Preta, Ep. 1",
         "url": "https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
@@ -392,12 +392,12 @@
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 153409,
-      "name": "Arranh\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx"
+      "duration_ms": 190161,
+      "name": "A Maior Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "WS On Board (Ao Vivo)",
         "url": "https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z"
@@ -413,7 +413,23 @@
       "url": "https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
         "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
@@ -465,7 +481,39 @@
       "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 169771,
+      "name": "Acordo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "No Ouvidinho",
+        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "No Ouvidinho",
+      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
@@ -489,23 +537,7 @@
       "url": "https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 169771,
-      "name": "Acordo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Parada Louca",
         "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
@@ -545,23 +577,7 @@
       "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 135046,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Toma Toma Vapo Vapo",
         "url": "https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen"
@@ -581,23 +597,7 @@
       "url": "https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
@@ -613,7 +613,39 @@
       "url": "https://open.spotify.com/track/3xt7v3bMNnQ8ie8RjhmkX2"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "PIRATA",
+        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 135046,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/3gK5ckT0cq3t5enyqzzRgV"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
@@ -657,7 +689,23 @@
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Se Melhorar Estraga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 155284,
+      "name": "Gatilho - Ao Vivo",
+      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Black Lan\u00e7a (Catucando Gostosinho)",
         "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
@@ -677,23 +725,7 @@
       "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Se Melhorar Estraga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 155284,
-      "name": "Gatilho - Ao Vivo",
-      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Vontade De Morder",
         "url": "https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1"
@@ -713,7 +745,31 @@
       "url": "https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Amea\u00e7a",
+        "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
+      },
+      "artists": [
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 188096,
+      "name": "Amea\u00e7a",
+      "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -733,7 +789,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Socadona (feat. Mr. Vegas)",
         "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
@@ -761,7 +817,47 @@
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "Na Dose Certa (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4h33IeU4aavKhgDxe0w2Pt"
+      },
+      "artists": [
+        {
+          "name": "Tayrone",
+          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 213006,
+      "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4dwBkgq4a4gEissxTY0YDT"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
@@ -817,7 +913,7 @@
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "NO CH\u00c3O NOVINHA",
         "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
@@ -837,51 +933,7 @@
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Na Dose Certa (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/4h33IeU4aavKhgDxe0w2Pt"
-      },
-      "artists": [
-        {
-          "name": "Tayrone",
-          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 213006,
-      "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4dwBkgq4a4gEissxTY0YDT"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Amea\u00e7a",
-        "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
-      },
-      "artists": [
-        {
-          "name": "Paulo Pires",
-          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 188096,
-      "name": "Amea\u00e7a",
-      "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Sem D\u00f3",
         "url": "https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E"
@@ -901,7 +953,7 @@
       "url": "https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -929,59 +981,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "No Ouvidinho",
-        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "No Ouvidinho",
-      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Summer (EP 1) [Ao vivo]",
         "url": "https://open.spotify.com/album/1ZQq76qlDn4sTfz8dZvxUs"
@@ -1005,27 +1005,7 @@
       "url": "https://open.spotify.com/track/5yRgMxdDhdYlbUQNCOlW3o"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
@@ -1045,7 +1025,7 @@
       "url": "https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP"
     },
     {
-      "added_at": "2022-03-31 10:09:34",
+      "added_at": "2022-04-01 11:11:58",
       "album": {
         "name": "Buteco in Boston (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
@@ -1059,6 +1039,26 @@
       "duration_ms": 159750,
       "name": "N\u00e3o Me Arranha - Ao Vivo",
       "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
+    },
+    {
+      "added_at": "2022-04-01 11:11:58",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     }
   ],
   "unique_name": "Top 50 - Brazil",

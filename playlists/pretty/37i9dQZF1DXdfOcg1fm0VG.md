@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,556 likes - 93 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,636 likes - 93 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 92 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 |
 | 93 | [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 |
 
-Snapshot ID: `MTY0NzI2Mzc0OCwwMDAwMDA0ODAwMDAwMTdmODg5MjExZTYwMDAwMDE3MWM5YzhhNzAy`
+Snapshot ID: `MTY0ODgyMTc1NSwwMDAwMDA0OTAwMDAwMTdmZTU2ZjVlZmQwMDAwMDE3MWM5YzhhNzAy`

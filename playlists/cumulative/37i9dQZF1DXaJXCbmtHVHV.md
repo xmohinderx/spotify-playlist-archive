@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
-> The top country hits of the week across America! Cover: Cole Swindell and Lainey Wilson
+> The top country hits of the week across America! Cover: HARDY, Dierks Bentley and BRELAND
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

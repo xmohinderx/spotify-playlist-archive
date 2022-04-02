@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 2022 RADAR 新勢力
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,564 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,591 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 23 | [給妳的歌 \- 戲劇<網紅的瘋狂世界>插曲](https://open.spotify.com/track/4JDeSXA5DS365GDu3peN3K) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 3:58 |
 | 24 | [錯過](https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [錯過](https://open.spotify.com/album/1sg7gVYA2JDl0aCJiWFuuC) | 4:09 |
 | 25 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
-| 26 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 |
+| 26 | [愛 Don't Lie \(feat\. KIRE\)](https://open.spotify.com/track/2uQBmTqgkt7HGexSXEDEuM) | [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [黃冠倫](https://open.spotify.com/artist/2BeQtXegM2ns0dT9oQHzcr) | [愛 Don't Lie \(feat\. KIRE\)](https://open.spotify.com/album/7kLlhCfGCLUG20qiWBI0zq) | 3:29 |
 | 27 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 |
 | 28 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 |
 | 29 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/22AmTAbvl3IjUodDT3JInW) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [你為了我撐把傘](https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [你為了我撐把傘](https://open.spotify.com/album/1QArFdN4JJzfqEAlxovWGg) | 4:13 |
 | 60 | [在打在](https://open.spotify.com/track/3Kl6J9XdFk0nWnHIaevtjw) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:20 |
 
-Snapshot ID: `MTY0ODc3NDkyNCwwMDAwMDAwMDkzNzRlZWYwZjM2N2JkNzcxOTQyMzY5MDE2OTRkYTlk`
+Snapshot ID: `MTY0ODg2MDc4MywwMDAwMDAwMGUwZWRhMDg5ZGU4MWUwY2NlMTBhMWUxNWJjN2VmYmZm`

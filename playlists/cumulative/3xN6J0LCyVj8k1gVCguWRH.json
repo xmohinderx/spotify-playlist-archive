@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Love With Passion",
+        "url": "https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu"
+      },
+      "artists": [
+        {
+          "name": "Lankford",
+          "url": "https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "27 Thousand Days",
+      "url": "https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B"
+    },
+    {
+      "album": {
         "name": "2my Depression",
         "url": "https://open.spotify.com/album/1cmqWcTgNn9bAOVQ4bmdQP"
       },
@@ -3648,6 +3666,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/0bMvPtrMwuTEKM2Z0HwULt"
+      },
+      "artists": [
+        {
+          "name": "Destani Wolf",
+          "url": "https://open.spotify.com/artist/0SiK5iC7tDZCq3HIH4EEBl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197353,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1aU8D93OIB8rUK26AOogid"
+    },
+    {
+      "album": {
         "name": "Debut Album",
         "url": "https://open.spotify.com/album/3TaTnYogaygo5TuHgfvQEh"
       },
@@ -3721,6 +3757,28 @@
       "duration_ms": 466461,
       "name": "Calling Me Back - Coeus Remix",
       "url": "https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1"
+    },
+    {
+      "album": {
+        "name": "Can I Call",
+        "url": "https://open.spotify.com/album/2647W0tRgbbR7oaUhN67bY"
+      },
+      "artists": [
+        {
+          "name": "Alannah McCready",
+          "url": "https://open.spotify.com/artist/19fZ2lVAwrWHiELAsDJPWH"
+        },
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Can I Call",
+      "url": "https://open.spotify.com/track/7KEoaGK0LbmooqotHalGI9"
     },
     {
       "album": {
@@ -3847,6 +3905,24 @@
       "duration_ms": 201001,
       "name": "Canon",
       "url": "https://open.spotify.com/track/2zKMTe1Euchu0TBTZlGPwd"
+    },
+    {
+      "album": {
+        "name": "Cant Help It",
+        "url": "https://open.spotify.com/album/2A5yEKu4yHliBWXgzxubZH"
+      },
+      "artists": [
+        {
+          "name": "Donnie Montreal",
+          "url": "https://open.spotify.com/artist/5cBpmnOiFP9Gz1jn0fNzhX"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "Cant Help It",
+      "url": "https://open.spotify.com/track/2SZQnV5pZcOFflhVa5N9J2"
     },
     {
       "album": {
@@ -4541,6 +4617,24 @@
       "duration_ms": 231272,
       "name": "Come with Me",
       "url": "https://open.spotify.com/track/3elIOLQxtrvJKPVWQ7mA44"
+    },
+    {
+      "album": {
+        "name": "Coming Back to You",
+        "url": "https://open.spotify.com/album/2X7ZvaQQmYHi0iVbTyJe4Y"
+      },
+      "artists": [
+        {
+          "name": "SPENCE",
+          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Coming Back to You",
+      "url": "https://open.spotify.com/track/6ObSyR7Xe7j97QfY9dHIHm"
     },
     {
       "album": {
@@ -6256,6 +6350,24 @@
     },
     {
       "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/5RgDv2g3bCMYw7ygM3Jk8Q"
+      },
+      "artists": [
+        {
+          "name": "Robousto",
+          "url": "https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201521,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/4Q4Sn1FQdnKgfbvvm8FvOJ"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0YnR8And3GQKesjdB3v7J6"
       },
@@ -7049,7 +7161,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-05",
+      "date_removed": null,
       "duration_ms": 199519,
       "name": "Feel Like Home",
       "url": "https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq"
@@ -20974,6 +21086,28 @@
     },
     {
       "album": {
+        "name": "Sweetest Taboo",
+        "url": "https://open.spotify.com/album/5KGUFtg9LJexgnT1TheKol"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        },
+        {
+          "name": "Stylolive",
+          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238421,
+      "name": "Sweetest Taboo",
+      "url": "https://open.spotify.com/track/7wYm8nD7krfA60MnaHYoYZ"
+    },
+    {
+      "album": {
         "name": "Sweetheart (Dance Yourself Clean Remix)",
         "url": "https://open.spotify.com/album/2AdIETyuXwL829dAapFjIe"
       },
@@ -23726,6 +23860,24 @@
     },
     {
       "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb"
+      },
+      "artists": [
+        {
+          "name": "Shaina",
+          "url": "https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210954,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -24219,6 +24371,24 @@
       "duration_ms": 195000,
       "name": "When It Comes To You",
       "url": "https://open.spotify.com/track/6TUbMH4LDpkNQ7nNTcFXPr"
+    },
+    {
+      "album": {
+        "name": "When the Time Comes/Blue",
+        "url": "https://open.spotify.com/album/0RdLDp7mj0cRvMTXcBQglc"
+      },
+      "artists": [
+        {
+          "name": "Jayloid",
+          "url": "https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "When the Time Comes",
+      "url": "https://open.spotify.com/track/1DEqOOgLUCUTKF99w5YvEG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,329 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,395 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [A Dog Named Fletcher](https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy) | [Atlantic Wasteland](https://open.spotify.com/artist/4qypZ10TKGdQI9LMO3Wot7) | [You'll Never See the Bigger Picture If You're Standing That Close](https://open.spotify.com/album/1CYuzHI69dDkpLr2qA9b0H) | 4:54 |
 | 75 | [Criminal \- Acoustic](https://open.spotify.com/track/2QDapBQWEJ0JTuZmnRUzsC) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [10 AM](https://open.spotify.com/album/52f8mvtKVdTjtsYNIciWbX) | 3:40 |
 
-Snapshot ID: `MTY0ODc3NTIzMSwwMDAwMDAwMDUwNzY0ZjYwZTgyMTU2Yjk5NDYxODFjY2IzNzE3ZWEy`
+Snapshot ID: `MTY0ODg2MTA4OSwwMDAwMDAwMDUwNzY0ZjYwZTgyMTU2Yjk5NDYxODFjY2IzNzE3ZWEy`

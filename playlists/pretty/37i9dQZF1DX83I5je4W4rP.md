@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,608 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,747 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Wash Away](https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Wash Away](https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr) | 3:31 |
 | 100 | [Stayed](https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr) | [Welcome to Florida](https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d) | 2:50 |
 
-Snapshot ID: `MTY0ODc3NTEwNSwwMDAwMDAwMGQ1ZjExNmZlOGQyMGZlZTg5NmZlMGJhZjEzMzkyYWFk`
+Snapshot ID: `MTY0ODg2MDk2NSwwMDAwMDAwMGQ1ZjExNmZlOGQyMGZlZTg5NmZlMGJhZjEzMzkyYWFk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Featuring music from Martin Garrix & Zedd, Honeyluv, Disclosure & RAYE and more!",
+  "description": "The world's biggest dance hits. Featuring music from Joel Corry, Bryson Tiller & David Guetta, Hardwell, J. Worra & Taylor Moody, Totally Enormous Extinct Dinosaurs and more!",
   "name": "mint",
   "published_playlist_ids": [
     "2lDweGgvQhwyQi5R55ct4Y"
@@ -294,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Blood In The Snow",
+        "url": "https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286133,
+      "name": "Blood In The Snow",
+      "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
+    },
+    {
+      "album": {
         "name": "Burning (feat. Camden Cox)",
         "url": "https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV"
       },
@@ -423,7 +441,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
@@ -532,6 +550,24 @@
     },
     {
       "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148297,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo"
       },
@@ -613,6 +649,24 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "album": {
+        "name": "DC Rot",
+        "url": "https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "DC Rot",
+      "url": "https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp"
     },
     {
       "album": {
@@ -958,6 +1012,28 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
@@ -1013,7 +1089,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 169672,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
@@ -1589,7 +1665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 158546,
       "name": "I Wonder (feat. Shai)",
       "url": "https://open.spotify.com/track/1aRdoiTy948hSqKI4bEyvJ"
@@ -1615,7 +1691,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 199000,
       "name": "I'm Into It",
       "url": "https://open.spotify.com/track/4b3edA8m5ww2BUB5ahdX3q"
@@ -1696,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "INTO THE UNKNOWN",
+        "url": "https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "INTO THE UNKNOWN",
+      "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
+      "album": {
         "name": "It Ain't Right",
         "url": "https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31"
       },
@@ -1707,7 +1801,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 208083,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL"
@@ -1957,10 +2051,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 170325,
       "name": "Lonely (feat. Sananda Maitreya)",
       "url": "https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind (feat. Taylor Moody)",
+        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Taylor Moody",
+          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "Lose My Mind (feat. Taylor Moody)",
+      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
     },
     {
       "album": {
@@ -2067,6 +2183,28 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+    },
+    {
+      "album": {
+        "name": "Loveless (with Teddy Swims)",
+        "url": "https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Loveless (with Teddy Swims)",
+      "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
     },
     {
       "album": {
@@ -2601,7 +2739,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 174677,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
@@ -2641,7 +2779,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245542,
       "name": "Player Of Games",
       "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
@@ -2831,7 +2969,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
@@ -2967,6 +3105,28 @@
       "duration_ms": 238357,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Caroline Polachek)",
+        "url": "https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238019,
+      "name": "Sirens (feat. Caroline Polachek)",
+      "url": "https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4"
     },
     {
       "album": {
@@ -3522,6 +3682,28 @@
     },
     {
       "album": {
+        "name": "Tripasia",
+        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176791,
+      "name": "Tripasia",
+      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "album": {
         "name": "Annual 2021",
         "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
       },
@@ -3985,7 +4167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"

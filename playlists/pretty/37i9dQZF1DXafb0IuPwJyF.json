@@ -1,29 +1,13 @@
 {
   "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Creepy Nuts",
-  "num_followers": 582935,
+  "num_followers": 583296,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc2OTAxNywwMDAwMDMwODAwMDAwMTdmZTI0YWE3NWQwMDAwMDE3ZmM5ODNiZDQ0",
+  "snapshot_id": "MTY0ODc3OTUzOCwwMDAwMDMwOTAwMDAwMTdmZTJlYjMxOTkwMDAwMDE3ZmM5ODNiZDQ0",
   "tracks": [
-    {
-      "added_at": "2022-03-31 23:23:37",
-      "album": {
-        "name": "\u6c38\u9060",
-        "url": "https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 372309,
-      "name": "\u6c38\u9060",
-      "url": "https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU"
-    },
     {
       "added_at": "2022-03-31 23:23:37",
       "album": {
@@ -47,22 +31,6 @@
       "duration_ms": 172366,
       "name": "\u3070\u304b\u307e\u3058\u3081",
       "url": "https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I"
-    },
-    {
-      "added_at": "2022-03-31 23:23:37",
-      "album": {
-        "name": "\u53cc\u8449",
-        "url": "https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 277223,
-      "name": "\u53cc\u8449",
-      "url": "https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7"
     },
     {
       "added_at": "2022-03-31 23:23:37",
@@ -99,6 +67,38 @@
     {
       "added_at": "2022-03-31 23:23:37",
       "album": {
+        "name": "\u6c38\u9060",
+        "url": "https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 372309,
+      "name": "\u6c38\u9060",
+      "url": "https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU"
+    },
+    {
+      "added_at": "2022-03-31 23:23:37",
+      "album": {
+        "name": "\u53cc\u8449",
+        "url": "https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 277223,
+      "name": "\u53cc\u8449",
+      "url": "https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7"
+    },
+    {
+      "added_at": "2022-03-31 23:23:37",
+      "album": {
         "name": "\u307e\u3064\u308a",
         "url": "https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5"
       },
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-03-31 23:23:37",
       "album": {
+        "name": "\u30b7\u30e7\u30c3\u30af!",
+        "url": "https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2"
+      },
+      "artists": [
+        {
+          "name": "Sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 305649,
+      "name": "\u30b7\u30e7\u30c3\u30af!",
+      "url": "https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV"
+    },
+    {
+      "added_at": "2022-03-31 23:23:37",
+      "album": {
         "name": "\u4f59\u547d10\u5e74 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 193990,
       "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
       "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
-    },
-    {
-      "added_at": "2022-03-31 23:23:37",
-      "album": {
-        "name": "\u30b7\u30e7\u30c3\u30af!",
-        "url": "https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2"
-      },
-      "artists": [
-        {
-          "name": "Sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 305649,
-      "name": "\u30b7\u30e7\u30c3\u30af!",
-      "url": "https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV"
     },
     {
       "added_at": "2022-03-31 23:23:37",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
-      "added_at": "2022-03-31 23:23:37",
+      "added_at": "2022-04-01 02:18:58",
       "album": {
         "name": "\u5efb\u4eba",
         "url": "https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr"
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 204086,
-      "name": "\u30a2\u30f4\u30a1\u30f3",
-      "url": "https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC"
+      "duration_ms": 225178,
+      "name": "\u66b4\u5f92",
+      "url": "https://open.spotify.com/track/178b6lGvEzd3RcHRvUQfl0"
     },
     {
       "added_at": "2022-03-31 23:23:37",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Levi",
+  "description": "tranquilo e calmo, no flow. Foto: Thiago Kelbert",
   "name": "tamo flex",
   "published_playlist_ids": [
     "6q6haEaTDDjjQ2HQhKMkJt"
@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197298,
       "name": "Algum lugar",
       "url": "https://open.spotify.com/track/4xM7qePaTKLyWI3kyHrJVc"
@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Bae",
+        "url": "https://open.spotify.com/album/1fN5iovat2xwMY9rckm0ai"
+      },
+      "artists": [
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/54rY6D7VjLPPMTZqCeVkVa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Bae",
+      "url": "https://open.spotify.com/track/40ynxBmBrvv7fUnLNqMUyS"
+    },
+    {
+      "album": {
         "name": "Balmain",
         "url": "https://open.spotify.com/album/3ohFW1BDTfHtpWnSgSvgWL"
       },
@@ -239,6 +257,32 @@
       "duration_ms": 203294,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY"
+    },
+    {
+      "album": {
+        "name": "Cabe\u00e7a Vazia",
+        "url": "https://open.spotify.com/album/6Z7bWx7g1WbY5ohoE7XvQ2"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "S\u00d3 AS BRABA Records",
+          "url": "https://open.spotify.com/artist/1vzqipvBH39GBswAMRgRgM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Cabe\u00e7a Vazia",
+      "url": "https://open.spotify.com/track/1KHllb7gWMErdYqt5ISFuw"
     },
     {
       "album": {
@@ -593,7 +637,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 132654,
       "name": "DONO DE FARM\u00c1CIA",
       "url": "https://open.spotify.com/track/2r3NkBc03Ucm4gVJytRvJW"
@@ -836,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
+    },
+    {
+      "album": {
         "name": "Marte",
         "url": "https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ"
       },
@@ -955,7 +1017,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 134171,
       "name": "Menina Praiana",
       "url": "https://open.spotify.com/track/3oHDlHHJlF2O9LquyxqKP3"

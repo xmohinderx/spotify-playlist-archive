@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aaer4Jzfgm.md) - [plain]
 
 > Take it easy with these laid\-back classical tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,590 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,660 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

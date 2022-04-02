@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: Tank and The Bangas",
-  "num_followers": 243632,
+  "description": "The best of today's funk. Cover: Cory Henry",
+  "num_followers": 243825,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3OTA5OSwwMDAwMDA3ODAwMDAwMTdmZDEwMmRiZTYwMDAwMDE3ZTlkZjNlYjYw",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDA3OTAwMDAwMTdmZTM0OTgzMWIwMDAwMDE3ZmUwMmUzMzIz",
   "tracks": [
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 252725,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
+    },
     {
       "added_at": "2022-03-25 05:00:00",
       "album": {
@@ -27,6 +43,26 @@
       "duration_ms": 196360,
       "name": "Aqua Girl - Jules Grant Remix",
       "url": "https://open.spotify.com/track/2ZDaTRSKYqzl561mnMF4k5"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 226584,
+      "name": "What It Takes (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -71,6 +107,46 @@
       "duration_ms": 217625,
       "name": "Stolen Fruit",
       "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "God Made Me Funky",
+        "url": "https://open.spotify.com/album/3Jo1vXDO4TFhKVsGDdfZnQ"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Headnodic",
+          "url": "https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3"
+        },
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        },
+        {
+          "name": "Crystal Monee Hall",
+          "url": "https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY"
+        },
+        {
+          "name": "Wil Blades",
+          "url": "https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Colin Hogan",
+          "url": "https://open.spotify.com/artist/427GXhbmgjZ3W23hCzZMuB"
+        }
+      ],
+      "duration_ms": 195925,
+      "name": "God Made Me Funky",
+      "url": "https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN"
     },
     {
       "added_at": "2022-03-25 05:00:00",
@@ -139,22 +215,6 @@
       "duration_ms": 174893,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
-      },
-      "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 179882,
-      "name": "Come Back - Radio Edit",
-      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
     },
     {
       "added_at": "2022-03-04 05:01:00",

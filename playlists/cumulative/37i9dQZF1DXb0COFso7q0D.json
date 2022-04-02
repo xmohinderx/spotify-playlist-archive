@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: Gerardo Ortiz",
+  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: Los Gemelos De Sinaloa",
   "name": "Los Que Mandan",
   "published_playlist_ids": [
     "0V871kSfrlE3mK4NJAUl7m"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 244642,
       "name": "Ahi\u0301 Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 195453,
       "name": "Cerrando Ciclos",
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218918,
       "name": "Hay Que Brindar (En Vivo)",
       "url": "https://open.spotify.com/track/1taKZ8KtQxp55AJWR6ziBP"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 151000,
       "name": "La Cabrona",
       "url": "https://open.spotify.com/track/5yNk9vdrUkNzUuAsElwd2k"
@@ -1256,6 +1256,28 @@
     },
     {
       "album": {
+        "name": "La Muerte Me Llama (Con Banda)",
+        "url": "https://open.spotify.com/album/4J1SAbJ0mMt5oRigTZFIcd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        },
+        {
+          "name": "Banda La Peligrosa",
+          "url": "https://open.spotify.com/artist/0sz3Q1xMAXkRqeqf7kDrVV"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182944,
+      "name": "La Muerte Me Llama - Con Banda",
+      "url": "https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j"
+    },
+    {
+      "album": {
         "name": "Una Empresa",
         "url": "https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD"
       },
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 206510,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s"
@@ -1964,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "Si Respetan, Respeto",
+        "url": "https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216509,
+      "name": "Si Respetan, Respeto",
+      "url": "https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn"
+    },
+    {
+      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -2225,7 +2269,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 246131,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"

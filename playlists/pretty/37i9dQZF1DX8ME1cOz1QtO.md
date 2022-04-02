@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,771 likes - 100 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,859 likes - 100 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
 | 100 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
 
-Snapshot ID: `MTY0ODc3NTExMywwMDAwMDAwMDZhNmMyODQ1YzE4Yzg4MjRiODEyYjFjZDcyZTk2Njdk`
+Snapshot ID: `MTY0ODg2MDk3MiwwMDAwMDAwMDZhNmMyODQ1YzE4Yzg4MjRiODEyYjFjZDcyZTk2Njdk`

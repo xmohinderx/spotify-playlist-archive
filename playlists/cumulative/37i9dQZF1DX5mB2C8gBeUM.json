@@ -1,11 +1,37 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get.  Artist: BRELAND",
+  "description": "Country gone wild! You never know what you're gonna get.  Artist: Rvshvd",
   "name": "Wild Country",
   "published_playlist_ids": [
     "2NFX3fEEavFql8EoHSR8S8"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
+      },
+      "artists": [
+        {
+          "name": "Avila Brothers",
+          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167919,
+      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
+    },
     {
       "album": {
         "name": "AA",
@@ -1796,6 +1822,28 @@
     },
     {
       "album": {
+        "name": "I Love My Homies",
+        "url": "https://open.spotify.com/album/61jOjOHe0hjphb3K1KuQXi"
+      },
+      "artists": [
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167940,
+      "name": "I Love My Homies",
+      "url": "https://open.spotify.com/track/7tBwo8HOnM68mTeWNAHs6X"
+    },
+    {
+      "album": {
         "name": "I Wanna Remember (feat. Carrie Underwood)",
         "url": "https://open.spotify.com/album/0i9uYmJwovycbfOBYUCwXK"
       },
@@ -2441,6 +2489,24 @@
       "duration_ms": 238133,
       "name": "Night Like This",
       "url": "https://open.spotify.com/track/1Gge0cWZacGVTKaLu2EGOr"
+    },
+    {
+      "album": {
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
     },
     {
       "album": {
@@ -3515,6 +3581,28 @@
       "duration_ms": 217647,
       "name": "When's It Gonna Happen",
       "url": "https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5"
+    },
+    {
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "album": {

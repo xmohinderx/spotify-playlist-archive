@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
-> Country Music that ROCKS!!  <br/>Cover: Eric Church
+> Country Music that ROCKS!!  <br/>Cover: Jackson Dean
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

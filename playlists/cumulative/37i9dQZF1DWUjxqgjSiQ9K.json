@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 277994,
       "name": "Am\u00e9n (with Kirk Franklin)",
       "url": "https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 243088,
       "name": "Aunque Lejos Estes",
       "url": "https://open.spotify.com/track/1xsA8GYQQR1ApFK4enl6sU"
@@ -403,6 +403,64 @@
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
+    },
+    {
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/2HJDfS7JE1jHLJzG8vJSwg"
+      },
+      "artists": [
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188823,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/0QZMybAEsDqyLWlzCmjjIR"
+    },
+    {
+      "album": {
+        "name": "Cansado Del Camino",
+        "url": "https://open.spotify.com/album/4pbtaPiMrPw5ZRbcIzWSMf"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229850,
+      "name": "Cansado Del Camino",
+      "url": "https://open.spotify.com/track/4QIFeNCttETviYMfYwN5pK"
+    },
+    {
+      "album": {
+        "name": "Mi Mundo",
+        "url": "https://open.spotify.com/album/1vHnWYTsrwRH1rljc1LuXi"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159531,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/05Nv9lIMEtxcKuFoIC3C23"
     },
     {
       "album": {
@@ -585,7 +643,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 254618,
       "name": "Digno Eres T\u00fa",
       "url": "https://open.spotify.com/track/4yrvUASXBcLBIE3kzppiTr"
@@ -687,7 +745,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245973,
       "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/1fw5FweXpCvzNwCGPk953Q"
@@ -823,7 +881,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 341217,
       "name": "Es por Fe",
       "url": "https://open.spotify.com/track/6YZ29Q9qjCyWAB7YhOUp3X"
@@ -932,6 +990,28 @@
     },
     {
       "album": {
+        "name": "Getseman\u00ed",
+        "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248845,
+      "name": "Getseman\u00ed",
+      "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/4xA38T5bF6k96B83zKX7AW"
       },
@@ -991,7 +1071,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 183645,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/7i8ZNfQoW8NdbGflJ3Sx2w"
@@ -1017,7 +1097,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201339,
       "name": "Grito",
       "url": "https://open.spotify.com/track/43PTYDkwcxl4pbvnIoTrnY"
@@ -1079,7 +1159,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 201625,
       "name": "Hogar",
       "url": "https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk"
@@ -1101,7 +1181,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 193427,
       "name": "Il\u00f3gico",
       "url": "https://open.spotify.com/track/7i59PhSOCjNYM4HpKJGXYn"
@@ -1189,7 +1269,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 151336,
       "name": "La Carrera",
       "url": "https://open.spotify.com/track/76YNdppLgCPYW4maFMj2vS"
@@ -1211,7 +1291,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197500,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
@@ -1299,7 +1379,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
@@ -1561,7 +1641,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 187862,
       "name": "No Dejaste de Amarme",
       "url": "https://open.spotify.com/track/3qXFDf03pHzRhbDtCOUcyt"
@@ -1645,7 +1725,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213030,
       "name": "No Temas",
       "url": "https://open.spotify.com/track/0iUe1L30Oszin5lQsqGc8J"
@@ -1685,7 +1765,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
@@ -1725,7 +1805,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 197121,
       "name": "Pentagrama",
       "url": "https://open.spotify.com/track/6z7vkgyKp7YJLHOLmwsdJ3"
@@ -1769,6 +1849,28 @@
       "duration_ms": 170786,
       "name": "Por Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/3VAKxSrwXA3qpEIIlZc8WT"
+    },
+    {
+      "album": {
+        "name": "Probar y Verte / Deseo Eterno",
+        "url": "https://open.spotify.com/album/5bkmI3E54lt7HBJf6yO1Ku"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363477,
+      "name": "Probar y Verte / Deseo Eterno",
+      "url": "https://open.spotify.com/track/67zFfsHaLFK68YDdEpi7TE"
     },
     {
       "album": {
@@ -1841,7 +1943,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 248042,
       "name": "Quien Nos da la Luz del Sol",
       "url": "https://open.spotify.com/track/3s4HWqzLA8zMv41gN41i7s"
@@ -2041,10 +2143,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 225400,
       "name": "Si T\u00fa No Estas",
       "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "GabrielRodriguezEMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "album": {
@@ -2093,7 +2217,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 136500,
       "name": "Sin Metales",
       "url": "https://open.spotify.com/track/1l1ozrLODpJvx2mcoNpGHU"
@@ -2141,6 +2265,24 @@
       "duration_ms": 135850,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
+    },
+    {
+      "album": {
+        "name": "Soy Deudor",
+        "url": "https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3"
+      },
+      "artists": [
+        {
+          "name": "Jaime Murrell",
+          "url": "https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335488,
+      "name": "Soy Deudor",
+      "url": "https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR"
     },
     {
       "album": {
@@ -2257,7 +2399,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 245998,
       "name": "Tiempo de la Cruz",
       "url": "https://open.spotify.com/track/2Iv7OJEEfkgOIvp7mwL0HE"
@@ -2311,7 +2453,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 305562,
       "name": "Transparente",
       "url": "https://open.spotify.com/track/0pdluD623PvM2v4P7vzROw"
@@ -2389,7 +2531,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 353507,
       "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
@@ -2425,7 +2567,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216129,
       "name": "T\u00fa Lo Har\u00e1s",
       "url": "https://open.spotify.com/track/1oINgWWXQfjPfLaUJexmPd"
@@ -2465,7 +2607,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 227908,
       "name": "vale na",
       "url": "https://open.spotify.com/track/7gh11NpuOwvASxThHQhxCk"
@@ -2563,7 +2705,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 229360,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/4jInZ1LhYtn4uAxtJ8ksY5"

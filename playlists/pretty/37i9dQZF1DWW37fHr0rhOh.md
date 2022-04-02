@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,380 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,397 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 19 | [You Can Find What I Found](https://open.spotify.com/track/6RjPfdvN9rkSyQGpH6KGBL) | [The Blackwood Brothers Quartet](https://open.spotify.com/artist/2v4MKSLzjnfGStyx4Csi1Y) | [Forever: 80th Anniversary Recording](https://open.spotify.com/album/5KgVsadQm4ksLuNSitVcTl) | 2:12 |
 | 20 | [Faith Keeps Walking](https://open.spotify.com/track/4c2t7HyA1GzUl8UWxIjBX1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Still](https://open.spotify.com/album/3yYBYAheSocJTyNpAxo1tZ) | 3:29 |
 | 21 | [Child Of The King](https://open.spotify.com/track/4pyQY3O1OyxlEJoAftiILY) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Good Things Take Time](https://open.spotify.com/album/0NXhTioNpTw5CymYgfA3CH) | 4:00 |
-| 22 | [Mercy Walked In \- Live](https://open.spotify.com/track/5i2Cyf2lINQqz1i2IwTaT6) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5), [Charlotte Ritchie](https://open.spotify.com/artist/7yK16X5NeP0zuX9qXgcD12) | [Country Bluegrass Homecoming Vol\. 2](https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp) | 3:32 |
+| 22 | [Mercy Walked In \- Live](https://open.spotify.com/track/5i2Cyf2lINQqz1i2IwTaT6) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5), [Charlotte Ritchie](https://open.spotify.com/artist/7yK16X5NeP0zuX9qXgcD12) | [Country Bluegrass Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp) | 3:32 |
 | 23 | [Everything In Between](https://open.spotify.com/track/7aqTVUWZ9eqtEB4lIfXNtn) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Everything in Between](https://open.spotify.com/album/4TucSll3D3U5NGGc6b8jGf) | 2:57 |
 | 24 | [God's Been Good](https://open.spotify.com/track/7aF49Ss3DPphTPOyvp0aBH) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/2IRW8HzLMhOfmsgfsD8NsR) | 4:19 |
 | 25 | [Put out the Fire](https://open.spotify.com/track/7FihPbwTgrD7YQ01OHWt1k) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [As We Speak](https://open.spotify.com/album/3epI88aX3Q3K82shhF6dH4) | 3:39 |

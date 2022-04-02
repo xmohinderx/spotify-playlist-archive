@@ -23,6 +23,7 @@
 | [Dawn](https://open.spotify.com/track/6EYv1dAeBn93vg8djCiSrN) | [Joe Basilio](https://open.spotify.com/artist/7cgk7HhXl6qYMnVBCLqagN) | [Excelsis](https://open.spotify.com/album/1GGypapOEB2efPiNWKncKs) | 4:26 | 2021-05-04 |  |
 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 | 2021-05-04 |  |
 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 | 2021-05-04 |  |
+| [Erzuín](https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [¿Dónde está el Jazz?](https://open.spotify.com/album/4Ekvaovlvw6lzwsStKibfr) | 6:46 | 2022-04-01 |  |
 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 | 2021-05-04 |  |
 | [Every Piece Matters](https://open.spotify.com/track/25RDHbzKzGSUefENv5uz9M) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/36vGWMFViWBpBB4npwmusv) | 3:40 | 2021-05-04 |  |
 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 | 2021-05-04 |  |
@@ -69,6 +70,7 @@
 | [Up \- Radio Edit](https://open.spotify.com/track/6TEtobdqqkehkhoNEGhimR) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Charlton Singleton](https://open.spotify.com/artist/7cBiq0AlHgBwnSLlkDoh3E) | [Up \(Radio Edit\)](https://open.spotify.com/album/56qJA6rZbqRzqY2D9VSjA5) | 3:56 | 2021-10-29 | 2022-01-05 |
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |
 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 | 2021-06-11 |  |
+| [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

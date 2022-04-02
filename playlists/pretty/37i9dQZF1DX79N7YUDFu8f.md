@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,286 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,292 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 2 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 |
 | 3 | [Just Come Home](https://open.spotify.com/track/1k35C50wOx6bpMMFfQFv9O) | [The Starlings](https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8) | [Just Come Home](https://open.spotify.com/album/26hzd1T6i4e6zvxaTyy9yp) | 3:23 |
 | 4 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 |
-| 5 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Tomas Ferdinand](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |
+| 5 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |
 | 6 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 |
 | 7 | [Just Tell Him It's Over \- Acoustic](https://open.spotify.com/track/1WV6hBQhyC6PAE7ey7YjXc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Brooklyn Sessions](https://open.spotify.com/album/1GNZp65P7xWcRfzRfbP1Mj) | 3:01 |
 | 8 | [Anny](https://open.spotify.com/track/0F7QiOGkU5JeHe6hNC0s4Z) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Anny](https://open.spotify.com/album/3N7s6qaUZINJn1QEcfJHe9) | 4:03 |

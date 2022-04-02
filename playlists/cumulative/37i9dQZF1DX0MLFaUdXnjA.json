@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keep it low-key with all of today's chill pop. Cover: Maude Latour",
+  "description": "Keep it low-key with all of today's chill pop. Cover: Surfaces",
   "name": "Chill Pop",
   "published_playlist_ids": [
     "6isU2kXFblpGeacMELfavp"
@@ -2396,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5CAap51Zd2skYAIFOHONQE"
+      },
+      "artists": [
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197223,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2yXwvNI3VlYExzekd1t75S"
+    },
+    {
+      "album": {
         "name": "change ur mind",
         "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
       },
@@ -4130,6 +4148,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
+    },
+    {
+      "album": {
         "name": "After The Landslide",
         "url": "https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D"
       },
@@ -4977,6 +5013,24 @@
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly"
+    },
+    {
+      "album": {
+        "name": "Feels Like Magic (Late Night Version)",
+        "url": "https://open.spotify.com/album/0FT1fI9RQpqtFxNxqMtNAm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Proctor",
+          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182958,
+      "name": "Feels Like Magic - Late Night Version",
+      "url": "https://open.spotify.com/track/1DrKaJahHICgZFPxwFxR2N"
     },
     {
       "album": {
@@ -6287,7 +6341,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 160000,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9"
@@ -6798,6 +6852,24 @@
     },
     {
       "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "album": {
         "name": "I Can't Wait to Be British",
         "url": "https://open.spotify.com/album/6QlIINO4XfjelShb0urw5g"
       },
@@ -7033,7 +7105,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185806,
       "name": "I Hate The Beatles",
       "url": "https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ"
@@ -11283,7 +11355,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 186818,
       "name": "Pantone 17 13 30",
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
@@ -12471,7 +12543,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185213,
       "name": "Scorpio Season",
       "url": "https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7"

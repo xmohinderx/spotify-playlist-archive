@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 191666,
       "name": "Anakin (The FifthGuys Remix)",
       "url": "https://open.spotify.com/track/18hMRf8caw3jFMWLBh4f9X"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 174400,
       "name": "ASTER",
       "url": "https://open.spotify.com/track/3b9TV8MrPLgtZo8VxHy7c7"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231433,
       "name": "Brave",
       "url": "https://open.spotify.com/track/6esCMrKNSHr4xcufdBNQsl"
@@ -2048,6 +2048,42 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/20U0SiZh9ofVxSOlvPVLBV"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a"
+    },
+    {
+      "album": {
+        "name": "i wanna say",
+        "url": "https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "i wanna say",
+      "url": "https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id"
+    },
+    {
+      "album": {
         "name": "I'm Dreaming",
         "url": "https://open.spotify.com/album/5OrbMYF9w0mxSi5mwtLoYR"
       },
@@ -2077,7 +2113,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 173430,
       "name": "ID-1999",
       "url": "https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt"
@@ -2317,7 +2353,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 142958,
       "name": "La Roja",
       "url": "https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6"
@@ -2585,7 +2621,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 217714,
       "name": "Losing My Mind - DVRKCLOUD Remix",
       "url": "https://open.spotify.com/track/6jiZm78Rk6jF2oxkj9yYGh"
@@ -2603,7 +2639,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 195200,
       "name": "Lost In My Mind",
       "url": "https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1"
@@ -2893,7 +2929,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 171003,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/3OCP6NDxlpQhFfcKOeZl7r"
@@ -2985,6 +3021,24 @@
       "duration_ms": 225705,
       "name": "Night Falls",
       "url": "https://open.spotify.com/track/3ZNhFhshMLjGQraO4pvpDR"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK"
+      },
+      "artists": [
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
     },
     {
       "album": {
@@ -3411,7 +3465,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189600,
       "name": "Plus 1 (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj"
@@ -3455,7 +3509,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216500,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6vE6GD6TFiVxvYMf8gnsVO"
@@ -3951,7 +4005,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204321,
       "name": "So Fucked Up",
       "url": "https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss"
@@ -4131,6 +4185,32 @@
       "duration_ms": 253894,
       "name": "Stranger Inside Me",
       "url": "https://open.spotify.com/track/4NyZeyQTf9lzybdYrw8AnK"
+    },
+    {
+      "album": {
+        "name": "Sweet Child O' Mine",
+        "url": "https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163204,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm"
     },
     {
       "album": {
@@ -4469,7 +4549,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 214698,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/64SRXE4aBC9Rrxa8OcoLey"
@@ -4699,6 +4779,28 @@
       "duration_ms": 184586,
       "name": "War (Juche Remix)",
       "url": "https://open.spotify.com/track/49PORQleZkPwh2x1YnUqbq"
+    },
+    {
+      "album": {
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/0YgMyFZwXn61MoCADLULbm"
+      },
+      "artists": [
+        {
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+        },
+        {
+          "name": "Melissa Lamm",
+          "url": "https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205049,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/0zfIq0JObVjH33aSAHVpaq"
     },
     {
       "album": {

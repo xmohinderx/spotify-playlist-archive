@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 158640,
       "name": "\"HANDSFREE\"",
       "url": "https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6"
@@ -2865,6 +2865,24 @@
       "duration_ms": 181279,
       "name": "Hills",
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
+    },
+    {
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
     },
     {
       "album": {

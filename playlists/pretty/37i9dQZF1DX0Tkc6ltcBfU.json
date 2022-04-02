@@ -1,28 +1,52 @@
 {
-  "description": "The hottest out the south. Cover: Kodak Black",
-  "num_followers": 1035734,
+  "description": "The hottest out the south. Cover: Mike Dimes",
+  "num_followers": 1036031,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MDgwMCwwMDAwMDIwZDAwMDAwMTdmYmYzYjJhZDIwMDAwMDE3ZjQ0MjM1ZDZi",
+  "snapshot_id": "MTY0ODc4NTY2MCwwMDAwMDIwZTAwMDAwMTdmZTM0ODk4ZDEwMDAwMDE3ZmRjMzRlYmE1",
   "tracks": [
     {
-      "added_at": "2022-03-25 04:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "Yellow Tape 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 193480,
-      "name": "I Be",
-      "url": "https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB"
+      "duration_ms": 131909,
+      "name": "Freedom of Speech (with J. Cole)",
+      "url": "https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Crypto (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
+      },
+      "artists": [
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 160948,
+      "name": "Crypto (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -61,6 +85,102 @@
       "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Everybody Shooters Too",
+        "url": "https://open.spotify.com/album/2G69YevAOGrTOPK024DJi1"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 112560,
+      "name": "Everybody Shooters Too",
+      "url": "https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Let's Get It (Remix) [feat. 21 Savage]",
+        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Let's Get It (Remix) [feat. 21 Savage]",
+      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/16BbKsl9JDW5bFIxJ6DTKg"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "No Love (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Vulture Island V2 (with Lil Baby)",
+        "url": "https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 209541,
+      "name": "Vulture Island V2 (with Lil Baby)",
+      "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
+    },
+    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Free The Shiners",
@@ -79,6 +199,38 @@
       "duration_ms": 124800,
       "name": "Free The Shiners",
       "url": "https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Yellow Tape 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "I Be",
+      "url": "https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "556 (Green Tip)",
+        "url": "https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "556 (Green Tip)",
+      "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -101,60 +253,52 @@
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "Crypto (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
+        "name": "Pull Up Actin (Never Broke Again featuring YoungBoy Never Broke Again and P Yungin)",
+        "url": "https://open.spotify.com/album/6S52VWtEqjpEO51CVPcESo"
       },
       "artists": [
         {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
         },
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 160948,
-      "name": "Crypto (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         },
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+          "name": "P Yungin",
+          "url": "https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN"
         }
       ],
-      "duration_ms": 147878,
-      "name": "Stepper (feat. Nardo Wick)",
-      "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
+      "duration_ms": 144046,
+      "name": "Pull Up Actin (Never Broke Again featuring YoungBoy Never Broke Again and P Yungin)",
+      "url": "https://open.spotify.com/track/6xj9wxBuEmuCffZCD5sJsJ"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 148000,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
+      "duration_ms": 173589,
+      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -183,46 +327,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Let's Get It (Remix) [feat. 21 Savage]",
-        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 156995,
-      "name": "Let's Get It (Remix) [feat. 21 Savage]",
-      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Vulture Island V2 (with Lil Baby)",
-        "url": "https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 209541,
-      "name": "Vulture Island V2 (with Lil Baby)",
-      "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Pain Killers",
         "url": "https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH"
       },
@@ -235,22 +339,6 @@
       "duration_ms": 158000,
       "name": "Pain Killers",
       "url": "https://open.spotify.com/track/1JixF2WqbP3LyiroGiRyog"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "556 (Green Tip)",
-        "url": "https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "556 (Green Tip)",
-      "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -275,26 +363,6 @@
       "duration_ms": 211569,
       "name": "Cold Gangsta",
       "url": "https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -333,6 +401,26 @@
       "url": "https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka"
     },
     {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+    },
+    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "Campaign",
@@ -347,6 +435,50 @@
       "duration_ms": 179571,
       "name": "Campaign",
       "url": "https://open.spotify.com/track/4wCX0hAaXG3TlqB5iVR4wB"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6swRWFCjGxpLBvdD5t25JV"
+      },
+      "artists": [
+        {
+          "name": "DaBoyDame",
+          "url": "https://open.spotify.com/artist/53EmQSV3tRYsAlmM6kElwL"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 165870,
+      "name": "Feelings (feat. EST Gee & Rick Ross)",
+      "url": "https://open.spotify.com/track/5sLibBUm0ES1LOuy5fEbHj"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -379,6 +511,26 @@
       "duration_ms": 165760,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 147878,
+      "name": "Stepper (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -447,26 +599,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Still Here (feat. Cordae)",
-        "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Still Here (feat. Cordae)",
-      "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "Neighborhood Superstar",
         "url": "https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP"
       },
@@ -503,6 +635,30 @@
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Take Care (feat. Toosii & Millie Go Lightly)",
+        "url": "https://open.spotify.com/album/56P5pwahGAQrkSBxIiCw11"
+      },
+      "artists": [
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Millie Go Lightly",
+          "url": "https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Take Care (feat. Toosii & Millie Go Lightly)",
+      "url": "https://open.spotify.com/track/5s8PjlqUnh2JwF6fkMJK3L"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -595,22 +751,6 @@
     {
       "added_at": "2022-03-18 04:00:00",
       "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/1LWJQPMpfbboj2nBf033Lg"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 114193,
-      "name": "Busy Body",
-      "url": "https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
         "name": "BETTER THAN YOU",
         "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
@@ -627,22 +767,6 @@
       "duration_ms": 179586,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Hard On A 304",
-        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 121269,
-      "name": "Feelin\u2019 Sexy",
-      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -695,46 +819,6 @@
       "duration_ms": 217411,
       "name": "Realer and Realer (feat. Jackboy)",
       "url": "https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-        "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 229938,
-      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-      "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Dope Don't Sell Itself",
-        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 104115,
-      "name": "Neighbors Know My Name",
-      "url": "https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -915,26 +999,6 @@
       "duration_ms": 160836,
       "name": "RBS (Rich Bish Shit)",
       "url": "https://open.spotify.com/track/6hRY7o0sJeAHmlbgrWVl8J"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "She Luv Me",
-        "url": "https://open.spotify.com/album/3WtDxiYCu5F2fLaSinmpgF"
-      },
-      "artists": [
-        {
-          "name": "DJ Chose",
-          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
-        },
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        }
-      ],
-      "duration_ms": 122276,
-      "name": "She Luv Me",
-      "url": "https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr"
     }
   ],
   "unique_name": "No Cap",

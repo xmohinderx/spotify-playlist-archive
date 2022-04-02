@@ -428,6 +428,32 @@
     },
     {
       "album": {
+        "name": "Lemon Squeezy / Afrique",
+        "url": "https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "Taura Lamb",
+          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212762,
+      "name": "Lemon Squeezy",
+      "url": "https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV"
+    },
+    {
+      "album": {
         "name": "Lost in Paris",
         "url": "https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC"
       },

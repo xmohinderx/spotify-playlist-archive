@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Sophia Bel",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Marilyne L\u00e9onard",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 171277,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 177861,
       "name": "Lumie\u0300re noire",
       "url": "https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI"
@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "Un homme et son piano",
+        "url": "https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl"
+      },
+      "artists": [
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255395,
+      "name": "RRSP/Grosse pi\u00e8ce",
+      "url": "https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO"
+    },
+    {
+      "album": {
         "name": "S'il n'est pas \u00e0 mes c\u00f4t\u00e9s ce matin, j'irai au champ quand m\u00eame",
         "url": "https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym"
       },
@@ -1869,6 +1887,24 @@
       "duration_ms": 206114,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6"
+    },
+    {
+      "album": {
+        "name": "Vie de r\u00eave",
+        "url": "https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160332,
+      "name": "Vie de r\u00eave",
+      "url": "https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk"
     },
     {
       "album": {

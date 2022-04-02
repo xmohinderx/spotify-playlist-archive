@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,893 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 | 21 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 22 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
 | 23 | [Don't Look Any Further \- Single Version](https://open.spotify.com/track/2XZRe31lC2YDj9xhPSSIly) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:04 |
-| 24 | [I Call Your Name \- 12" Version](https://open.spotify.com/track/1DEI0amdbd2i5hTs3fXtfs) | [Switch](https://open.spotify.com/artist/7a3nTkyvlgCpai9CUCftbZ) | [20th Century Masters: The Millennium Collection: Best of Switch](https://open.spotify.com/album/1p9kiUEliFgWtQwgBz2eQc) | 7:35 |
+| 24 | [I Call Your Name \- 12" Version](https://open.spotify.com/track/1DEI0amdbd2i5hTs3fXtfs) | [Switch](https://open.spotify.com/artist/273A7R9wiZyELSDRw8HvIj) | [20th Century Masters: The Millennium Collection: Best of Switch](https://open.spotify.com/album/1p9kiUEliFgWtQwgBz2eQc) | 7:35 |
 | 25 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
 | 26 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 |
 | 27 | [Dial My Heart](https://open.spotify.com/track/3qWBa4EpvVlnCvbNUYR4RP) | [The Boys](https://open.spotify.com/artist/4skTgMZnk2EvSwYMo9Eu73) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 |

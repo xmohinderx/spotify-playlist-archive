@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians. Cover: Chris Lake",
+  "description": "Tech house technicians. Cover: CID",
   "name": "Operator",
   "published_playlist_ids": [
     "78BxbIkAGKnzKUXystZiu3"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223735,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY"
+    },
+    {
+      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
@@ -475,7 +493,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
@@ -926,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Carnaval de Paris",
+        "url": "https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195118,
+      "name": "Carnaval de Paris",
+      "url": "https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n"
+    },
+    {
+      "album": {
         "name": "Chase The Ace EP",
         "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
       },
@@ -1273,7 +1309,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 238053,
       "name": "Do That",
       "url": "https://open.spotify.com/track/6WtOFIQFTFxTByujXuoctI"
@@ -1379,6 +1415,32 @@
       "duration_ms": 208569,
       "name": "Don't Wanna Lie",
       "url": "https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Forget My Love (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Don\u2019t Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
     },
     {
       "album": {
@@ -1576,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "El Bombo",
+        "url": "https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240570,
+      "name": "El Bombo",
+      "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "album": {
         "name": "El Cuervo",
         "url": "https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi"
       },
@@ -1591,6 +1671,28 @@
       "duration_ms": 188967,
       "name": "El Cuervo",
       "url": "https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/4Y64zpllDSyHtP6zHv38vC"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        },
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196550,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5eMeAtZfTgo3iuGx8WRwzq"
     },
     {
       "album": {
@@ -1985,7 +2087,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 200000,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG"
@@ -4033,7 +4135,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
@@ -4147,6 +4249,24 @@
       "duration_ms": 233836,
       "name": "Palm Beach Banga",
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
+    },
+    {
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/0ATOzDtTifokxsXQTT81yN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139067,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/18u9d0vfvjmDt70wLQueJB"
     },
     {
       "album": {
@@ -4437,7 +4557,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 210960,
       "name": "Rain",
       "url": "https://open.spotify.com/track/06GaggIrBExxcmkZoRVxdU"
@@ -4956,6 +5076,36 @@
     },
     {
       "album": {
+        "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        },
+        {
+          "name": "Martha Wash",
+          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/37fpjqTSqYLV6ybowtvGCI"
       },
@@ -5189,7 +5339,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 232232,
       "name": "Take My Hand - Torren Foot Club Mix",
       "url": "https://open.spotify.com/track/0A1XjIshFtH22M9Pk0gAs8"
@@ -5819,7 +5969,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 159360,
       "name": "Wanna Love",
       "url": "https://open.spotify.com/track/6tOfHz0qCh7WNoTqCtcFQk"

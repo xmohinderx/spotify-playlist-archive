@@ -1,12 +1,12 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Kennedy Rd., Artwork: Crystal Zapata",
-  "num_followers": 145871,
+  "num_followers": 145966,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYyNjg5MSwwMDAwMDBjNjAwMDAwMTdmZDlkMWY5ZDkwMDAwMDE3ZjA1MDQ3MTU5",
+  "snapshot_id": "MTY0ODc4MDUyMCwwMDAwMDBjNzAwMDAwMTdmZTJmYTJkOTQwMDAwMDE3ZjA1MDQ3MTU5",
   "tracks": [
     {
       "added_at": "2022-03-30 07:00:00",
@@ -275,6 +275,22 @@
       "duration_ms": 225708,
       "name": "More!",
       "url": "https://open.spotify.com/track/2HUFYGgONkghxRMcZx82ut"
+    },
+    {
+      "added_at": "2022-04-01 02:35:20",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
     },
     {
       "added_at": "2022-03-30 07:00:00",
@@ -1627,26 +1643,6 @@
       "duration_ms": 188821,
       "name": "Up & Away",
       "url": "https://open.spotify.com/track/0AXzk4o5bRYMtp8rT9m9Jy"
-    },
-    {
-      "added_at": "2022-02-09 17:00:00",
-      "album": {
-        "name": "\"HANDSFREE\"",
-        "url": "https://open.spotify.com/album/5OZQ5crAoqtHeaRJGVB7hN"
-      },
-      "artists": [
-        {
-          "name": "Ace Henderson",
-          "url": "https://open.spotify.com/artist/4wXbbemzTSC3iA8L4ezOnl"
-        },
-        {
-          "name": "FRGN-SPCMN",
-          "url": "https://open.spotify.com/artist/1jl8cU5j8AVxplJbnTsChL"
-        }
-      ],
-      "duration_ms": 158640,
-      "name": "\"HANDSFREE\"",
-      "url": "https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6"
     },
     {
       "added_at": "2022-02-02 17:00:00",

@@ -1270,6 +1270,28 @@
     },
     {
       "album": {
+        "name": "Never Til Now",
+        "url": "https://open.spotify.com/album/1R63WizerBkcwtE351ynBq"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now",
+      "url": "https://open.spotify.com/track/1Qkrd9bYIgyTbZrYgDWiBe"
+    },
+    {
+      "album": {
         "name": "Prayed For You (Wedding Version)",
         "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
       },

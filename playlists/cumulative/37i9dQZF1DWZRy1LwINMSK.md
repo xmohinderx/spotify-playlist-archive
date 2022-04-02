@@ -2,7 +2,7 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
-> La casa del Trap chileno\. Foto: Foreign & Polimá Westcoast.
+> La casa del Trap chileno\. Foto: AKRIILA.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 |  |
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 |  |
 | [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 |  |
+| [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 | 2022-04-01 |  |
 | [Break](https://open.spotify.com/track/5w2vDEM6rRpIyOOYFuyNnm) | [Foreign](https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Break](https://open.spotify.com/album/2q5ojFbm8BdMTQicV0VsQw) | 3:36 | 2022-03-18 |  |
 | [Brokeboi](https://open.spotify.com/track/6go2VEJUSmwls8c3a8aggf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Las Crónicas De Ngangu](https://open.spotify.com/album/7Lj5OzGoQBzSb4PeghYlLp) | 3:43 | 2022-01-20 |  |
 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 | 2022-01-20 |  |
@@ -100,7 +101,7 @@
 | [Tu No Saben](https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:41 | 2022-01-20 |  |
 | [Un año](https://open.spotify.com/track/5Wk52YA7dc5OGDT6K4Y8S0) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF) | [Un año](https://open.spotify.com/album/7AUlt5zkmfnsgHD2iTkZ32) | 2:29 | 2022-01-20 |  |
 | [Un Par](https://open.spotify.com/track/1P6XcdMFWrFkjyr9DmCerA) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Un Par](https://open.spotify.com/album/4YevGLk5uzxNsy9y5QqIDV) | 3:03 | 2022-01-20 |  |
-| [Ups](https://open.spotify.com/track/1iA8v9AAhALHYp2rXR1Du2) | [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Dinero Al Bolsillo](https://open.spotify.com/album/1AiGOiYFmhcA3okiR58Cxb) | 2:41 | 2022-01-20 |  |
+| [Ups](https://open.spotify.com/track/1iA8v9AAhALHYp2rXR1Du2) | [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Dinero Al Bolsillo](https://open.spotify.com/album/1AiGOiYFmhcA3okiR58Cxb) | 2:41 | 2022-01-20 | 2022-04-02 |
 | [Vacaciones](https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR) | [Felipe Dayz](https://open.spotify.com/artist/3oVTZU4pon08EiGlzHYgL7), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Vacaciones](https://open.spotify.com/album/0U5MwvBCZyOlg5C4YhmiCm) | 3:01 | 2022-01-20 | 2022-03-18 |
 | [Vibras](https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:34 | 2022-01-20 |  |
 | [Vio](https://open.spotify.com/track/2NLmRhd8PyUozDQRSnQ8RD) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Vio](https://open.spotify.com/album/6WC4uEu0ZKRQbbT86dLKW1) | 2:12 | 2022-01-20 |  |

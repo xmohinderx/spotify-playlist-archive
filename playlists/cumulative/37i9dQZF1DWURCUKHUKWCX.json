@@ -1836,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250647,
+      "name": "Stella de Oro",
+      "url": "https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4"
       },

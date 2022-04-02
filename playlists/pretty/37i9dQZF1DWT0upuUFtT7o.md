@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Luke Royalty Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,802 likes - 140 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,902 likes - 140 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 61 | [Soft Rock, Baby](https://open.spotify.com/track/6TfgwFh0bbHo2qHKPKxwR3) | [Sparklet](https://open.spotify.com/artist/001CpRGllB1jqUcc87uskk) | [Soft Rock, Baby](https://open.spotify.com/album/4PXSnXU4AzDUraoXDOHwuN) | 3:46 |
 | 62 | [Game Over](https://open.spotify.com/track/1dZW33lY36vkumMm5F5RrD) | [Synae](https://open.spotify.com/artist/3Q2nENhSwAYt3rP6LZUoIq) | [Game Over](https://open.spotify.com/album/40xnM71tlIZ299GruGToGD) | 2:20 |
 | 63 | [Good News](https://open.spotify.com/track/3Hnz8WVVLPTrWYDAGx1Z7b) | [Donnie](https://open.spotify.com/artist/7p5vwStNJm81m1pevrwhh5) | [Good News](https://open.spotify.com/album/3HclLlv2L4sxJIPOyR5S7v) | 3:47 |
-| 64 | [Stay](https://open.spotify.com/track/6DAAty8YhmGwjbuKKtyQVD) | [daphnie](https://open.spotify.com/artist/3jcJNIWXWGF68CeXff8MQe) | [Stay](https://open.spotify.com/album/2pSOD33Atm2XYhcZcnT8Pi) | 3:30 |
+| 64 | [Stay](https://open.spotify.com/track/6DAAty8YhmGwjbuKKtyQVD) | [Daphnie](https://open.spotify.com/artist/3jcJNIWXWGF68CeXff8MQe) | [Stay](https://open.spotify.com/album/2pSOD33Atm2XYhcZcnT8Pi) | 3:30 |
 | 65 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 |
 | 66 | [Age Carry](https://open.spotify.com/track/4NvtXz0bIWCMP33FOP0sCW) | [Jane Lai](https://open.spotify.com/artist/6UdWXal82m8FV736R59CsV) | [Age Carry](https://open.spotify.com/album/1QgRX3fuZiewPQ5TyTT2Z9) | 2:22 |
 | 67 | [Math](https://open.spotify.com/track/1ZED5L2kjayE36upbv9Pr5) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Math](https://open.spotify.com/album/3iIyxOhvK54iy48NiPi5t7) | 2:40 |

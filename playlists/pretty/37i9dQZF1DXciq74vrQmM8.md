@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. zheani
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,767 likes - 54 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,980 likes - 54 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

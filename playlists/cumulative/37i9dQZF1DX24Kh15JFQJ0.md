@@ -2,7 +2,7 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
-> The latest music from our Country Heroes.<br/>Cover: Dolly Parton
+> The latest music from our Country Heroes\. Cover: Willie Nelson
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [I Saw The Light](https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Saw The Light](https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I) | 1:52 | 2021-11-12 |  |
 | [I Tell It Like It Used to Be](https://open.spotify.com/track/5bIaDkp8NlTyYDuzROomMv) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Bare Bones](https://open.spotify.com/album/0T2AE8uzds9x1msXA6Y6UE) | 3:14 | 2021-10-15 |  |
 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 | 2021-10-15 |  |
-| [I'll Be Seeing You](https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Be Seeing You](https://open.spotify.com/album/3aqzMqGKMIAMeDdugAwFal) | 1:28 | 2021-10-15 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Be Seeing You](https://open.spotify.com/album/3aqzMqGKMIAMeDdugAwFal) | 1:28 | 2021-10-15 | 2022-04-02 |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 | 2022-02-11 |  |
 | [If the World Had a Front Porch](https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Good Ole Days](https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh) | 3:01 | 2021-10-15 |  |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-10-15 |  |
@@ -107,6 +107,7 @@
 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 | 2021-10-15 |  |
 | [Til the End of Time](https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Lisa Hartman Black](https://open.spotify.com/artist/6vSo8MOzgy8fBHPyFuq0Iv) | [Til the End of Time](https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf) | 4:58 | 2021-10-15 |  |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-11-12 |  |
+| [Tower Of Song](https://open.spotify.com/track/7vC8tIEacbNfLYrxUsB6Vb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tower Of Song](https://open.spotify.com/album/6BupEbALr7Uh9BnqXmkGms) | 4:59 | 2022-04-01 |  |
 | [Trying to Find Atlantis 2.0](https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Sometimes](https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD) | 3:13 | 2021-10-15 |  |
 | [Two Shots](https://open.spotify.com/track/54u03V1mRUjgDrHDrJT0TB) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Two Shots](https://open.spotify.com/album/1fcV5pD38KzLRi29xo5k8X) | 2:50 | 2021-10-15 |  |
 | [Waste Of A Whiskey Drink](https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Waste Of A Whiskey Drink](https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu) | 3:25 | 2021-10-15 |  |

@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/32c0L5aOhKRswoVsOhvqwu"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze"
+    },
+    {
+      "album": {
         "name": "G-Stream",
         "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
       },
@@ -597,6 +615,28 @@
       "duration_ms": 216129,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274096,
+      "name": "Busta Move",
+      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
       "album": {
@@ -787,6 +827,36 @@
       "duration_ms": 255852,
       "name": "Club Life - Smooth Radio Version",
       "url": "https://open.spotify.com/track/4GcgYcg5SRb6LJhZshsjqB"
+    },
+    {
+      "album": {
+        "name": "Coastline Drive",
+        "url": "https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9"
+      },
+      "artists": [
+        {
+          "name": "Joe Plass",
+          "url": "https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ"
+        },
+        {
+          "name": "Andy Warr",
+          "url": "https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7"
+        },
+        {
+          "name": "Barry Aiken",
+          "url": "https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321750,
+      "name": "Coastline Drive",
+      "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
     },
     {
       "album": {
@@ -1875,7 +1945,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 247500,
       "name": "Islands In The Sea",
       "url": "https://open.spotify.com/track/7s5bLr1Wi5URSor1lkxyAN"
@@ -2829,7 +2899,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 251621,
       "name": "Planet Smooth",
       "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
@@ -3671,7 +3741,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2"

@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
-> Today's top country hits of the week, worldwide! Cover: Maren Morris
+> Today's top country hits of the week, worldwide! Cover: Thomas Rhett
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Doing Life With Me](https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Doing Life With Me](https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0) | 3:15 | 2020-12-12 | 2021-02-27 |
 | [Don't Need No Reason](https://open.spotify.com/track/1ATvZTCBsBo7tL6YwHUc1m) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:12 | 2020-11-20 | 2020-12-06 |
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-06-29 | 2020-08-30 |
+| [Down Home](https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Down Home](https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf) | 3:21 | 2022-04-01 |  |
 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 | 2020-08-07 | 2021-04-17 |
 | [Drink About Me](https://open.spotify.com/track/1kC07qGOyx8w7ON5k8xHOp) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Now or Never](https://open.spotify.com/album/175wot2CVm3ZAt5REOm7da) | 3:11 | 2020-01-18 | 2020-05-09 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1UYfAU2bwgjaM5rIIPQleC) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz) | 2:40 | 2020-12-03 | 2021-08-14 |
@@ -439,7 +440,7 @@
 | [These Days](https://open.spotify.com/track/6U4S5Fcy4sNgYnKPh6LLdh) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [These Days](https://open.spotify.com/album/7kFlWmnxc7zivuaziAC0og) | 2:52 | 2019-10-26 | 2020-03-14 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 | 2020-08-30 | 2021-08-28 |
 | [Things I Can't Say \(feat\. Julia Cole\)](https://open.spotify.com/track/3kdQfsfmWiLbPFrcdvhSYg) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [East](https://open.spotify.com/album/2s6rMhFCohQJV0nvLoRQqJ) | 2:44 | 2020-09-26 | 2020-11-22 |
-| [Think About That](https://open.spotify.com/track/0ZKJTquGSbkNpgTlQBWXAD) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [Think About That](https://open.spotify.com/album/61rLv4iz256rZ5ZliRWsDz) | 3:51 | 2022-01-07 |  |
+| [Think About That](https://open.spotify.com/track/0ZKJTquGSbkNpgTlQBWXAD) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [Think About That](https://open.spotify.com/album/61rLv4iz256rZ5ZliRWsDz) | 3:51 | 2022-01-07 | 2022-04-02 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-05-15 | 2022-01-01 |
 | [This Bar](https://open.spotify.com/track/7oSq5fbsFkTS9zeJQwMihf) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [This Bar](https://open.spotify.com/album/7ECYCGhOOD7VZHjxP2Lzck) | 3:05 | 2020-01-18 | 2020-05-09 |
 | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF) | 3:14 | 2020-08-01 | 2020-08-22 |

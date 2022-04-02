@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,403 likes - 168 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,507 likes - 168 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 167 | [Perdoname](https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Perdoname](https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M) | 2:24 |
 | 168 | [Inolvidable](https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/4QDmGzIIdGibZKrxbUfeDm) | 3:13 |
 
-Snapshot ID: `MTY0ODc3NTA5MSwwMDAwMDAwMDJjMzk0MDNkNWVkM2U4OWRiYjczYmFmMWY3MDNmNzkw`
+Snapshot ID: `MTY0ODg2MDk1MiwwMDAwMDAwMDJjMzk0MDNkNWVkM2U4OWRiYjczYmFmMWY3MDNmNzkw`

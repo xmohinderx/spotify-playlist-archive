@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Reba McEntire",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  ELEVATION RHYTHM",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247294,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO"
+    },
+    {
+      "album": {
         "name": "My Chains Are Gone",
         "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/09VSG1KLDlanpc5o0TNRJE"
@@ -566,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7iiN8DciKOI7Cz7l62H0uY"
+    },
+    {
+      "album": {
         "name": "Even At My Worst",
         "url": "https://open.spotify.com/album/6qgaJkPeR3fpQHEbQmq60y"
       },
@@ -635,7 +671,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211719,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
@@ -870,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Glory I Couldn't See (Radio Version)",
+        "url": "https://open.spotify.com/album/62xhvQKQ0EGAKgswlJPHL1"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Glory I Couldn't See - Radio Version",
+      "url": "https://open.spotify.com/track/0v95ozLbUJraCb21fP1xqk"
+    },
+    {
+      "album": {
         "name": "God So Loved (Live)",
         "url": "https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz"
       },
@@ -1063,7 +1117,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 218347,
       "name": "Halos",
       "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
@@ -1497,10 +1551,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 211931,
       "name": "I'm Not Lucky, I'm Blessed",
       "url": "https://open.spotify.com/track/5HUzjTO7O5tQJSYkgxQjgn"
+    },
+    {
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "album": {
@@ -1734,6 +1806,28 @@
     },
     {
       "album": {
+        "name": "Leaning",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219213,
+      "name": "Leaning",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+    },
+    {
+      "album": {
         "name": "Leaning (Live)",
         "url": "https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ"
       },
@@ -1749,7 +1843,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 476599,
       "name": "Leaning - Live",
       "url": "https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH"
@@ -1869,6 +1963,24 @@
       "duration_ms": 224960,
       "name": "lost \u2018cause",
       "url": "https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "album": {
@@ -2163,6 +2275,24 @@
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
+    },
+    {
+      "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
     },
     {
       "album": {
@@ -2683,7 +2813,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
@@ -3001,7 +3131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"

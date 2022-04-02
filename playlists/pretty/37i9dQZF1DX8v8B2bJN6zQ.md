@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,333 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,382 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 5 | [So Cool](https://open.spotify.com/track/2ORHJvrvkdEWqLpbTdYJEI) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [So Cool](https://open.spotify.com/album/2Oonubif3OmZ3nyvIxo3UR) | 2:24 |
 | 6 | [Move](https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Move](https://open.spotify.com/album/701NIOuSdFkNVkYDESPEWa) | 2:56 |
 | 7 | [West II](https://open.spotify.com/track/5BEQ4qfouCdsNRgIA0byJR) | [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0), [Sleep Down](https://open.spotify.com/artist/4WPd7xkPJiNiYPYhN2wlcO) | [West II](https://open.spotify.com/album/5yWHvuk4vUjNV1iu4ZonU1) | 3:54 |
-| 8 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 |
-| 9 | [Stank](https://open.spotify.com/track/3AkxpOhduYiqdkJChSFN5b) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Stank](https://open.spotify.com/album/5HazQn6Yvc7cim3hitOOQ1) | 2:37 |
+| 8 | [Stank](https://open.spotify.com/track/3AkxpOhduYiqdkJChSFN5b) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Stank](https://open.spotify.com/album/5HazQn6Yvc7cim3hitOOQ1) | 2:37 |
+| 9 | [Hurricane](https://open.spotify.com/track/0UsHoWFDb9jC8Yle4IWQtc) | [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Kim Lima](https://open.spotify.com/artist/3dDCkiPicg1X7L2epUqjEb) | [Hurricane](https://open.spotify.com/album/2U74VfkQCQ7tybQ0aNSOQ5) | 4:24 |
 | 10 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
 | 11 | [Soda Pop](https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [Soda Pop](https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG) | 2:44 |
 | 12 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MTY0ODE3NzI2MCwwMDAwMDAyMDAwMDAwMTdmYmYwNTI2M2QwMDAwMDE3OTM3OWE1ODk4`
+Snapshot ID: `MTY0ODc4MjA2MCwwMDAwMDAyMTAwMDAwMTdmZTMxMWFhNDQwMDAwMDE3OTM3OWE1ODk4`

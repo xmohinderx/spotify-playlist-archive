@@ -2,7 +2,7 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Foto: Anuel AA
+> El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki, De La Ghetto, Quevedo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Sauce Boy Freestyle III](https://open.spotify.com/track/4Fdots9nLaSYVe9nZ9QNnJ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle III](https://open.spotify.com/album/0Muum5bu2hmAIb6yBXQkAU) | 2:45 | 2021-12-01 |  |
 | [Scarface](https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Scarface](https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn) | 3:45 | 2021-12-01 |  |
 | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Seven Kayne: Bzrp Music Sessions, Vol\. 33](https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27) | 2:22 | 2021-12-01 | 2022-02-02 |
+| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-04-01 |  |
 | [Subimos de Rango](https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Subimos de Rango](https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626) | 4:26 | 2021-12-01 |  |
 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 | 2021-12-01 |  |
 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 | 2021-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,433 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,847 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Dance In Room Song](https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Dance In Room Song](https://open.spotify.com/album/3FkUMOuiprjmmlnY1DmV1u) | 2:51 |
 | 120 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 |
 
-Snapshot ID: `MTY0ODc3NDkzOSwwMDAwMDAwMDhkMzUxMGI4Yjk3MjhmNTY3NTA0ZGZmZTljNTMxOWJm`
+Snapshot ID: `MTY0ODg2MDc5OSwwMDAwMDAwMDhkMzUxMGI4Yjk3MjhmNTY3NTA0ZGZmZTljNTMxOWJm`

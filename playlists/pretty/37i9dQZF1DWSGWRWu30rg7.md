@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Restu\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,151 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,161 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 10 | [Cyberspace](https://open.spotify.com/track/0IF1F556CNS9kf5Uj7zdH8) | [Hyns](https://open.spotify.com/artist/5WxdQNzHXkTYKy4nm2RmM8) | [Cyberspace](https://open.spotify.com/album/2oha5V5RshAqzYnBmMN7P0) | 5:17 |
 | 11 | [internet boy](https://open.spotify.com/track/3O9SPGCwvdHBYPaiqiDssz) | [Lourentia Kinkin](https://open.spotify.com/artist/3cKTANcYvaG4D1BIp4OMlR) | [internet boy](https://open.spotify.com/album/6ZOk7AOJKyfsOlvDy5ZATb) | 3:17 |
 | 12 | [Kuat Mental](https://open.spotify.com/track/5oLJuEZMekMdCzjlyYOlts) | [Dodhoo](https://open.spotify.com/artist/32JAObMHGrrG9U3PXoVjl4) | [Kuat Mental](https://open.spotify.com/album/1oasHnQSyKLv2IK1rdDAvr) | 3:40 |
-| 13 | [Sampai Saat Ini](https://open.spotify.com/track/0JAHxpzqexYkSP6MIXmiRF) | [Arlan](https://open.spotify.com/artist/2tvP7btiq3mdOtjc5nTlIX) | [Sampai Saat Ini](https://open.spotify.com/album/26e6JlNNwtIAqNOG46uOwe) | 3:14 |
-| 14 | [You](https://open.spotify.com/track/6QlQNUHxOgu7AIng42xRBu) | [Dovi Martindas](https://open.spotify.com/artist/19C6rqTccRwaFCK62Cf3ze) | [You](https://open.spotify.com/album/46kVNey0daeMtoRacq76oR) | 4:08 |
-| 15 | [Let Me Go](https://open.spotify.com/track/1tPmVnqiAuz1pYRrXJZnEo) | [Haqy setiaputra](https://open.spotify.com/artist/4ily8U0y1iVyOWMU8pfYyk) | [Let Me Go](https://open.spotify.com/album/3Qrdfk68Vuh8Npf7AITTPM) | 2:37 |
-| 16 | [Vanilla](https://open.spotify.com/track/4Ncvcd2FNjjtimO0QIniaK) | [Sacred Space](https://open.spotify.com/artist/2ei9shwKD16R2eybFePMek) | [Vanilla](https://open.spotify.com/album/6Acd7yKJEHwDX6ooL05JyV) | 3:57 |
-| 17 | [Addicted](https://open.spotify.com/track/1vTar4PWbBoxzfKyPPxSIz) | [ASORA](https://open.spotify.com/artist/5uXVvj3yTTYXmPqPdHQbmk) | [Signora, the Neverland got Addicted to My Song](https://open.spotify.com/album/5TXyKBAZS3UcnDAaHnx9Uw) | 2:54 |
-| 18 | [Baby Don't You Go](https://open.spotify.com/track/2oJoH2VBD8WAlYUAkfDvQV) | [Fazri](https://open.spotify.com/artist/0lezBpnudIKCjycrh8oLeW) | [Baby Don't You Go/If I'm Gone](https://open.spotify.com/album/0O9kpR8gMVMfaNj11q4Lpy) | 2:26 |
-| 19 | [She So Bad \(Dedicated For You\) \(Slowed + Reverb\) \- 2022 Remastered Version](https://open.spotify.com/track/2Lexzays0WTQYEyU3TazqF) | [Sanjaka Rangga](https://open.spotify.com/artist/3NAbEXAQbdCGstkBMf3fPT) | [She So Bad \(Dedicated For You\) \(Slowed + Reverb\) \[2022 Remastered Version\]](https://open.spotify.com/album/61Bz6exOjuHK5B4a8dIQww) | 2:21 |
-| 20 | [Toxic Love](https://open.spotify.com/track/4kraaJHPuS2JHBDgBuBfwn) | [Akleis](https://open.spotify.com/artist/664jaex51iJSnxKfCl9xfk) | [Toxic Love](https://open.spotify.com/album/2kybKj0n9TbeTYxsfKApsm) | 2:53 |
-| 21 | [Pergi dan Tak Kembali \- Form "And The Journey Begins"](https://open.spotify.com/track/09OLrUvNJPtLjUtHx72zdu) | [Symatereo](https://open.spotify.com/artist/7q15enLUSbFXCARfeUBI7u) | [Pergi dan Tak Kembali \(Form "And The Journey Begins"\)](https://open.spotify.com/album/1CE4vasELReCj1rx68y0z0) | 4:28 |
-| 22 | [Forgotten Home](https://open.spotify.com/track/73uz5Ydl6UYWbpdQP73TkZ) | [Old Polaroid](https://open.spotify.com/artist/3qwiP6NgwG5DFU071XHqGT) | [Forgotten Home](https://open.spotify.com/album/6QApw7e4bXvobnTySe9hB5) | 3:36 |
+| 13 | [You](https://open.spotify.com/track/6QlQNUHxOgu7AIng42xRBu) | [Dovi Martindas](https://open.spotify.com/artist/19C6rqTccRwaFCK62Cf3ze) | [You](https://open.spotify.com/album/46kVNey0daeMtoRacq76oR) | 4:08 |
+| 14 | [Let Me Go](https://open.spotify.com/track/1tPmVnqiAuz1pYRrXJZnEo) | [Haqy setiaputra](https://open.spotify.com/artist/4ily8U0y1iVyOWMU8pfYyk) | [Let Me Go](https://open.spotify.com/album/3Qrdfk68Vuh8Npf7AITTPM) | 2:37 |
+| 15 | [Vanilla](https://open.spotify.com/track/4Ncvcd2FNjjtimO0QIniaK) | [Sacred Space](https://open.spotify.com/artist/2ei9shwKD16R2eybFePMek) | [Vanilla](https://open.spotify.com/album/6Acd7yKJEHwDX6ooL05JyV) | 3:57 |
+| 16 | [Addicted](https://open.spotify.com/track/1vTar4PWbBoxzfKyPPxSIz) | [ASORA](https://open.spotify.com/artist/5uXVvj3yTTYXmPqPdHQbmk) | [Signora, the Neverland got Addicted to My Song](https://open.spotify.com/album/5TXyKBAZS3UcnDAaHnx9Uw) | 2:54 |
+| 17 | [Baby Don't You Go](https://open.spotify.com/track/2oJoH2VBD8WAlYUAkfDvQV) | [Fazri](https://open.spotify.com/artist/0lezBpnudIKCjycrh8oLeW) | [Baby Don't You Go/If I'm Gone](https://open.spotify.com/album/0O9kpR8gMVMfaNj11q4Lpy) | 2:26 |
+| 18 | [She So Bad \(Dedicated For You\) \(Slowed + Reverb\) \- 2022 Remastered Version](https://open.spotify.com/track/2Lexzays0WTQYEyU3TazqF) | [Sanjaka Rangga](https://open.spotify.com/artist/3NAbEXAQbdCGstkBMf3fPT) | [She So Bad \(Dedicated For You\) \(Slowed + Reverb\) \[2022 Remastered Version\]](https://open.spotify.com/album/61Bz6exOjuHK5B4a8dIQww) | 2:21 |
+| 19 | [Toxic Love](https://open.spotify.com/track/4kraaJHPuS2JHBDgBuBfwn) | [Akleis](https://open.spotify.com/artist/664jaex51iJSnxKfCl9xfk) | [Toxic Love](https://open.spotify.com/album/2kybKj0n9TbeTYxsfKApsm) | 2:53 |
+| 20 | [Pergi dan Tak Kembali \- Form "And The Journey Begins"](https://open.spotify.com/track/09OLrUvNJPtLjUtHx72zdu) | [Symatereo](https://open.spotify.com/artist/7q15enLUSbFXCARfeUBI7u) | [Pergi dan Tak Kembali \(Form "And The Journey Begins"\)](https://open.spotify.com/album/1CE4vasELReCj1rx68y0z0) | 4:28 |
+| 21 | [Forgotten Home](https://open.spotify.com/track/73uz5Ydl6UYWbpdQP73TkZ) | [Old Polaroid](https://open.spotify.com/artist/3qwiP6NgwG5DFU071XHqGT) | [Forgotten Home](https://open.spotify.com/album/6QApw7e4bXvobnTySe9hB5) | 3:36 |
+| 22 | [GLOW UP](https://open.spotify.com/track/1fp0V5zFchxNfrrXfDUQzZ) | [Kekeyi](https://open.spotify.com/artist/4TH9PPmgNcFZPeBlzyCrcx) | [GLOW UP](https://open.spotify.com/album/0GdlhuqgrsvnmYpL4czOaX) | 4:10 |
 | 23 | [Merpati Yang Pergi](https://open.spotify.com/track/2FYtQRhDKez5PASEOWumwd) | [Divand](https://open.spotify.com/artist/7rqk23WYSv8uUdjoRAE6fF) | [Merpati Yang Pergi](https://open.spotify.com/album/24r9cbddp9QDNpMwwQVGV9) | 5:06 |
 | 24 | [Who cares](https://open.spotify.com/track/2SWXM56xVt1001yf7e7OBo) | [Symptom](https://open.spotify.com/artist/2D5Y7wbixsOczerpFlNv1h) | [What Does Having Dignity Mean](https://open.spotify.com/album/3Wg3Qe2skBpZtsrPJx4yw6) | 2:44 |
 | 25 | [Love the Way](https://open.spotify.com/track/4bq3ooGjcAgnboU7Oy4feZ) | [Tayler Prouse](https://open.spotify.com/artist/2431J90rYOaBuqdDmDPrRj) | [Love the Way](https://open.spotify.com/album/0oCiIwZXBHe94DsDWRq3uz) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 59 | [Rest](https://open.spotify.com/track/5hrJq2H6V2L7PuXd1uuU31) | [Fresh Apricot Company](https://open.spotify.com/artist/0bRRqtCawvwa70t7lAtDnS) | [Rest](https://open.spotify.com/album/55P84smQgGk3p7AU5cJW6a) | 4:08 |
 | 60 | [Rumah](https://open.spotify.com/track/1hlsekfujU3z2Zj4SxEyIO) | [Januar Prabowo](https://open.spotify.com/artist/3AG9oqd5nvJXh692HBDCgU) | [Rumah](https://open.spotify.com/album/2WbbMkbLCAiJwgWRaXNkGq) | 2:50 |
 
-Snapshot ID: `MTY0ODc0NjAwMCwwMDAwMDBlNTAwMDAwMTdmZTBlYjZmMTQwMDAwMDE3ZmJhYmFkYTcz`
+Snapshot ID: `MTY0ODc5MzE0NCwwMDAwMDBlNjAwMDAwMTdmZTNiYWNkYTUwMDAwMDE3ZmJhYmFkYTcz`

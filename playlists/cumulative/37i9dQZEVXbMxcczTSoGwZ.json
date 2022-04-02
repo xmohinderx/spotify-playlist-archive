@@ -5918,6 +5918,24 @@
     },
     {
       "album": {
+        "name": "kaukana kotoa",
+        "url": "https://open.spotify.com/album/2rNvFjHAgzSfGOuM0pMo8J"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184357,
+      "name": "kev\u00e4t 22",
+      "url": "https://open.spotify.com/track/0DEokAmDwO8LxRSXjHees7"
+    },
+    {
+      "album": {
         "name": "Kev\u00e4\u00e4t",
         "url": "https://open.spotify.com/album/4OUR1Ns0MEZLl8i2KANyyS"
       },
@@ -11571,7 +11589,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 230266,
       "name": "Syksyn vihreill\u00e4",
       "url": "https://open.spotify.com/track/4Vy0PYm9LzKlyQk40vT1u6"

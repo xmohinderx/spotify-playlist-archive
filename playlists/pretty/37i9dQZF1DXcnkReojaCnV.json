@@ -1,12 +1,12 @@
 {
   "description": "Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.",
-  "num_followers": 453817,
+  "num_followers": 453897,
   "original_name": "In the Name of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc3NTI0OCwwMDAwMDAwMDIwN2ViZDM0MzcyMTAyNjg0NDE5OTg5ZWIzNDUwYjM0",
+  "snapshot_id": "MTY0ODg2MTEwNiwwMDAwMDAwMDIwN2ViZDM0MzcyMTAyNjg0NDE5OTg5ZWIzNDUwYjM0",
   "tracks": [
     {
       "added_at": "2022-01-18 19:56:05",
@@ -466,6 +466,10 @@
         {
           "name": "AJ Fullerton",
           "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
       "duration_ms": 167256,

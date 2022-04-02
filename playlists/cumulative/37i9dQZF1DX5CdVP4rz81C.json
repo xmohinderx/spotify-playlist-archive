@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: David Kushner",
+  "description": "Discover your favorite new chill pop songs. Cover: Anson Seabra ",
   "name": "Fresh & Chill",
   "published_playlist_ids": [
     "0bYTEzgb7cQ54Fa4kGbaPS"
@@ -243,6 +243,24 @@
       "duration_ms": 225680,
       "name": "A Little Bit Yours",
       "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
+    },
+    {
+      "album": {
+        "name": "A Little Time",
+        "url": "https://open.spotify.com/album/6hPgKyXNnnQfexevGDORvP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170939,
+      "name": "A Little Time",
+      "url": "https://open.spotify.com/track/43ttdkD3EDi7xBMCPimvZq"
     },
     {
       "album": {
@@ -969,6 +987,24 @@
       "duration_ms": 263280,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
       "album": {
@@ -2549,7 +2585,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 179796,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh"
@@ -2607,7 +2643,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
@@ -2727,6 +2763,24 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+    },
+    {
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194814,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp"
     },
     {
       "album": {
@@ -5309,7 +5363,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 194540,
       "name": "Hate Me If It Helps",
       "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
@@ -5746,6 +5800,24 @@
     },
     {
       "album": {
+        "name": "Holding My Breath",
+        "url": "https://open.spotify.com/album/5VCrmIyHL1xO8e1liFXZFq"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150443,
+      "name": "Holding My Breath",
+      "url": "https://open.spotify.com/track/0XycLVdrmcN0gaGMGTrY8j"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
       },
@@ -6010,6 +6082,24 @@
     },
     {
       "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "album": {
         "name": "i can't sleep",
         "url": "https://open.spotify.com/album/1hqF9QEWGcPsmvuX5u99xm"
       },
@@ -6075,7 +6165,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
@@ -6417,7 +6507,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
@@ -6439,7 +6529,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 236081,
       "name": "ilym (feat. ROSIE)",
       "url": "https://open.spotify.com/track/6iT0ZdQcHwzQDNcAC2oDKX"
@@ -9229,7 +9319,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 216935,
       "name": "One More I Love You",
       "url": "https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B"
@@ -9305,7 +9395,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 199166,
       "name": "Only When I Look into Your Eyes",
       "url": "https://open.spotify.com/track/5MgXxIwMUkJQlv5WYxlUNS"
@@ -12127,7 +12217,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -12443,6 +12533,28 @@
       "duration_ms": 199559,
       "name": "Things",
       "url": "https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT"
+    },
+    {
+      "album": {
+        "name": "Things That Don\u2019t Exist (feat. Zachary Knowles)",
+        "url": "https://open.spotify.com/album/0Z5SZepPMUB2OlzrvTDepR"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168309,
+      "name": "Things That Don\u2019t Exist (feat. Zachary Knowles)",
+      "url": "https://open.spotify.com/track/69qQyuhXYMJLOZPVOAEFaT"
     },
     {
       "album": {
@@ -13381,7 +13493,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 150013,
       "name": "What Everybody Wants",
       "url": "https://open.spotify.com/track/6xkghIDZwnZtTfpjEqccrr"
@@ -13849,7 +13961,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 176853,
       "name": "wish i loved you in the 90s",
       "url": "https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ"

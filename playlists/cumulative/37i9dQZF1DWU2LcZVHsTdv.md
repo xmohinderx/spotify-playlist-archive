@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
-> The country way of testifying\. <br/>Cover: Brent Cobb
+> The country way of testifying\. Cover: Reba McEntire
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 | 2021-12-10 |  |
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
-| [Devil](https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:24 | 2021-12-10 |  |
+| [Devil](https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:24 | 2021-12-10 | 2022-04-02 |
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |
 | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg) | 3:11 | 2021-12-10 |  |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
@@ -35,6 +35,7 @@
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
 | [God Moves The Pen](https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [God Moves The Pen](https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo) | 3:41 | 2021-12-10 |  |
 | [God Must Really Love Me](https://open.spotify.com/track/391V2jmxaLRwm5rqC2WJyR) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [That's Why](https://open.spotify.com/album/2yaPAemFbhH61a8w5VOWAt) | 3:41 | 2021-12-10 |  |
+| [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-04-01 |  |
 | [God's Been Good To Me](https://open.spotify.com/track/6Ieljz21ViDbNsGkI91lKT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:38 | 2021-12-10 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-12-10 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-10 |  |

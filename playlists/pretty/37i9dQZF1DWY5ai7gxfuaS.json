@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Mimi Barks",
-  "num_followers": 152190,
+  "num_followers": 152443,
   "original_name": "The oTHERS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk0NTA0NCwwMDAwMDFhZTAwMDAwMTdmNzU5MzA3ZjYwMDAwMDE3ZjUwOWMyMWU0",
+  "snapshot_id": "MTY0ODgyOTY3MywwMDAwMDFhZjAwMDAwMTdmZTVlODJmZTYwMDAwMDE3ZjUwOWMyMWU0",
   "tracks": [
     {
       "added_at": "2022-03-10 20:44:04",
@@ -79,6 +79,22 @@
       "duration_ms": 158850,
       "name": "RAD",
       "url": "https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY"
+    },
+    {
+      "added_at": "2022-04-01 16:14:33",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Manic",
+      "url": "https://open.spotify.com/track/5d0CEohvmvqcizfc0cXn1t"
     },
     {
       "added_at": "2022-03-10 20:44:04",

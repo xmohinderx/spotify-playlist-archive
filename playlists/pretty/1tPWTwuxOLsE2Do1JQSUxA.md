@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain](/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA)
 
-### [2010s Hits](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
+### [2010s Hits 🔥 ](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 465,071 likes - 97 songs - 6 hr 4 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 465,020 likes - 97 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 96 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 97 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 |
 
-Snapshot ID: `MjI2OCxjYWFkOTg0ZDNlNmIyNDUzOWQ2YzNmMGFmYjhkZGI1MjZiZGI1NGNj`
+Snapshot ID: `MjI2OSwzMzcxZjY4OGI3YTE0NzM1NDAwMDliOTlmMDU3NTU5ZGE0ZWVmNjVj`

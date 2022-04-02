@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Gala Nell, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,044 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,141 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 78 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 79 | [Wax Wings](https://open.spotify.com/track/3JhUL35Tjy6gHLevmzoTxM) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [Wax Wings](https://open.spotify.com/album/4K3SbD1ETQz7LneRcccvzK) | 3:54 |
 
-Snapshot ID: `MTY0ODc3NDc0MSwwMDAwMDAwMDlhYjZjODQyNDM3MTRjNWVjNDA1OGE5ZjRmMmE2ODU3`
+Snapshot ID: `MTY0ODg2MDYwNSwwMDAwMDAwMDlhYjZjODQyNDM3MTRjNWVjNDA1OGE5ZjRmMmE2ODU3`

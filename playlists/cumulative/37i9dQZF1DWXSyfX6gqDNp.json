@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Alone at Night",
+        "url": "https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179767,
+      "name": "Alone at Night",
+      "url": "https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf"
+    },
+    {
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -1431,6 +1449,24 @@
       "duration_ms": 248127,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/6idTshNWsrWkNUrJYgzs3v"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT"
+      },
+      "artists": [
+        {
+          "name": "Maurice Font",
+          "url": "https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0"
     },
     {
       "album": {

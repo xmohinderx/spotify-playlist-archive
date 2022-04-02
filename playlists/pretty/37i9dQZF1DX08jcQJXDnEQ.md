@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s\. Cover : Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,140 likes - 145 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,565 likes - 145 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 144 | [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 |
 | 145 | [Brothers Of Metal \(Part 1\)](https://open.spotify.com/track/3tuCmmn6JmRXPln2Zt7KyI) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Louder Than Hell](https://open.spotify.com/album/4IoELctFmN7HWHSnb1hgFQ) | 3:54 |
 
-Snapshot ID: `MTY0ODc3NDg0OCwwMDAwMDAwMDIyOWQwYzhlMmVkY2VhY2NlNzdlMzY2ZGM4MzQ1MmNj`
+Snapshot ID: `MTY0ODg2MDcwOCwwMDAwMDAwMDIyOWQwYzhlMmVkY2VhY2NlNzdlMzY2ZGM4MzQ1MmNj`

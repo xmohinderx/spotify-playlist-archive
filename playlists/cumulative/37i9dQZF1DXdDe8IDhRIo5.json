@@ -664,6 +664,28 @@
     },
     {
       "album": {
+        "name": "Love Me Tender (Live)",
+        "url": "https://open.spotify.com/album/2dWnnnESq6l0egIfNe3J7x"
+      },
+      "artists": [
+        {
+          "name": "Joscho Stephan",
+          "url": "https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG"
+        },
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386653,
+      "name": "Love Me Tender - Live",
+      "url": "https://open.spotify.com/track/5cQSyGA79OctwjxXycj2Bu"
+    },
+    {
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd"
       },

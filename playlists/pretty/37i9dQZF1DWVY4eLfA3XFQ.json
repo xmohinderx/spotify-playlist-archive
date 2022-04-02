@@ -1,13 +1,81 @@
 {
-  "description": "Tech house technicians. Cover: Chris Lake",
-  "num_followers": 543930,
+  "description": "Tech house technicians. Cover: CID",
+  "num_followers": 544049,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODUwMjYyOSwwMDAwMDExMTAwMDAwMTdmZDI2OWUzMzgwMDAwMDE3ZmMxZjBjMGFl",
+  "snapshot_id": "MTY0ODgzMjUxMiwwMDAwMDExNzAwMDAwMTdmZTYxMzgyZTMwMDAwMDE3ZmUwZjQ4OTcx",
   "tracks": [
+    {
+      "added_at": "2022-04-01 17:01:52",
+      "album": {
+        "name": "Carnaval de Paris",
+        "url": "https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Carnaval de Paris",
+      "url": "https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "El Bombo",
+        "url": "https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 240570,
+      "name": "El Bombo",
+      "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Tripasia",
+        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "duration_ms": 176791,
+      "name": "Tripasia",
+      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "400",
+        "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "400",
+      "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
+    },
     {
       "added_at": "2022-03-25 17:23:15",
       "album": {
@@ -33,128 +101,28 @@
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
     },
     {
-      "added_at": "2022-03-11 18:48:28",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "It's A Killa",
-        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
+        "name": "Don\u2019t Forget My Love (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "It's A Killa",
-      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        }
-      ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
-    },
-    {
-      "added_at": "2022-03-11 18:48:28",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
         {
           "name": "John Summit",
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "400",
-        "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "400",
-      "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
-    },
-    {
-      "added_at": "2022-03-21 19:05:58",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 185661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
-    },
-    {
-      "added_at": "2022-03-25 18:09:12",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/2NehevZaBmXT9108S5mMyM"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5hM4F7T6hEJUHdoVgukAiq"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "Lose My Mind (feat. Taylor Moody)",
-        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Taylor Moody",
-          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "Lose My Mind (feat. Taylor Moody)",
-      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+      "duration_ms": 210000,
+      "name": "Don\u2019t Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -229,6 +197,142 @@
       "url": "https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc"
     },
     {
+      "added_at": "2022-03-11 18:48:28",
+      "album": {
+        "name": "It's A Killa",
+        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "It's A Killa",
+      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "added_at": "2022-03-21 19:05:58",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        },
+        {
+          "name": "Martha Wash",
+          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Lose My Mind (feat. Taylor Moody)",
+        "url": "https://open.spotify.com/album/1HUEA3Mdj0BqPrQZ49zOTm"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Taylor Moody",
+          "url": "https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Lose My Mind (feat. Taylor Moody)",
+      "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+    },
+    {
+      "added_at": "2022-03-11 18:48:28",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2022-03-25 18:09:12",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2NehevZaBmXT9108S5mMyM"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5hM4F7T6hEJUHdoVgukAiq"
+    },
+    {
       "added_at": "2022-02-18 17:51:41",
       "album": {
         "name": "Sublime",
@@ -243,6 +347,22 @@
       "duration_ms": 188220,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/0ATOzDtTifokxsXQTT81yN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        }
+      ],
+      "duration_ms": 139067,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/18u9d0vfvjmDt70wLQueJB"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -297,24 +417,20 @@
       "url": "https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs"
     },
     {
-      "added_at": "2022-03-25 17:23:15",
+      "added_at": "2022-03-11 18:48:28",
       "album": {
-        "name": "Tripasia",
-        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+        "name": "Chase The Ace EP",
+        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Brisotti",
-          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+          "name": "AZETE",
+          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
         }
       ],
-      "duration_ms": 176791,
-      "name": "Tripasia",
-      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+      "duration_ms": 179815,
+      "name": "Chase The Ace",
+      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -333,20 +449,20 @@
       "url": "https://open.spotify.com/track/2rdMlVRtuImJXZhUHQjjj9"
     },
     {
-      "added_at": "2022-03-11 18:48:28",
+      "added_at": "2022-04-01 15:56:43",
       "album": {
-        "name": "Chase The Ace EP",
-        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/5XHqjPYI5mRWF6EDNF4FiT"
       },
       "artists": [
         {
-          "name": "AZETE",
-          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
         }
       ],
-      "duration_ms": 179815,
-      "name": "Chase The Ace",
-      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
+      "duration_ms": 223735,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/2j1XskkDOBp6QXZEQTj8cY"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -547,6 +663,26 @@
       "duration_ms": 189523,
       "name": "The Beat Goes",
       "url": "https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/4Y64zpllDSyHtP6zHv38vC"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        },
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 196550,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5eMeAtZfTgo3iuGx8WRwzq"
     },
     {
       "added_at": "2022-03-11 18:48:28",
@@ -1585,26 +1721,6 @@
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
-    },
-    {
       "added_at": "2022-01-14 11:21:00",
       "album": {
         "name": "Leave Your Mind Behind",
@@ -1815,26 +1931,6 @@
       "duration_ms": 146113,
       "name": "The Whys",
       "url": "https://open.spotify.com/track/0KcNoFGsrOGH9Y0z6kZwnX"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Take My Hand (Torren Foot Club Mix)",
-        "url": "https://open.spotify.com/album/6WiWo0paKtRz7w4rZIJPZP"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        },
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "Take My Hand - Torren Foot Club Mix",
-      "url": "https://open.spotify.com/track/0A1XjIshFtH22M9Pk0gAs8"
     },
     {
       "added_at": "2021-11-26 14:57:55",
@@ -2051,22 +2147,6 @@
     {
       "added_at": "2021-11-26 14:57:55",
       "album": {
-        "name": "Do That",
-        "url": "https://open.spotify.com/album/1HH8gBVRL8WjSiSEt9yg71"
-      },
-      "artists": [
-        {
-          "name": "SUMR CAMP",
-          "url": "https://open.spotify.com/artist/5t8tQRTRMQFxAPCiYMR694"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Do That",
-      "url": "https://open.spotify.com/track/6WtOFIQFTFxTByujXuoctI"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
         "name": "Party's Jumpin",
         "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
       },
@@ -2179,46 +2259,6 @@
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Wanna Love",
-        "url": "https://open.spotify.com/album/74vB8lBpNR6qfuOREt3odM"
-      },
-      "artists": [
-        {
-          "name": "SUBB",
-          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
-        },
-        {
-          "name": "Vizzyz",
-          "url": "https://open.spotify.com/artist/7EkfZ1ZoFllrSVCS6lCpAm"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Wanna Love",
-      "url": "https://open.spotify.com/track/6tOfHz0qCh7WNoTqCtcFQk"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG"
     },
     {
       "added_at": "2021-11-26 14:57:55",
@@ -2371,42 +2411,6 @@
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Back Tomorrow",
-        "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 118871,
-      "name": "Back Tomorrow",
-      "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/1ie5YmzOVtbgIklhtmRyjE"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/06GaggIrBExxcmkZoRVxdU"
     }
   ],
   "unique_name": "Operator",

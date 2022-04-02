@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "The ever-evolving sound of Alt! Cover: ELEVATION RHYTHM",
+  "description": "The ever-evolving sound of Alt! Cover: King Kaliedoscope",
   "name": "Ultimate Christian Alternative",
   "published_playlist_ids": [
     "1NSGD7171i0HygYQPY0WUi"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 231293,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/0QOgq2OwMdxEP2p5EGfqR1"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-02",
       "duration_ms": 189660,
       "name": "Carry Me Along",
       "url": "https://open.spotify.com/track/60uQuO3GwP64Mbbr2krcVc"
@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -1489,6 +1507,28 @@
       "duration_ms": 240967,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5"
+    },
+    {
+      "album": {
+        "name": "Sweet Silence",
+        "url": "https://open.spotify.com/album/0JrjPGRHKnlw7jC8fl37Ne"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263685,
+      "name": "Sweet Silence",
+      "url": "https://open.spotify.com/track/1lQFAZIEeEilqE1KjZvNYh"
     },
     {
       "album": {

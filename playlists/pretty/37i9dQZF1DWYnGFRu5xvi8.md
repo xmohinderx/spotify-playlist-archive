@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,470 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,545 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Lightning Returns](https://open.spotify.com/track/6xgGtXnTN72c998uktI27L) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:39 |
 | 100 | [Crimson Sunset](https://open.spotify.com/track/66jNGukNnniTIDcr7QxClC) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:09 |
 
-Snapshot ID: `MTY0ODc3NDgwOCwwMDAwMDAwMGE2NTRhOTIzYzUzMWZlMzg3OGM2ZjY1M2M1ZDY2NmUw`
+Snapshot ID: `MTY0ODg2MDY2OCwwMDAwMDAwMGE2NTRhOTIzYzUzMWZlMzg3OGM2ZjY1M2M1ZDY2NmUw`

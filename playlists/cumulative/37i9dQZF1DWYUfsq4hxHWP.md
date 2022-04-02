@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Halle Kearns, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Dylan Marlowe, Artwork: Fanélie Muselier
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angels In A Bar](https://open.spotify.com/track/2pme5tC5L56rYMNCMEIQuB) | [Nick Haynes](https://open.spotify.com/artist/4ptyV8u5XDaOlX0lifT7cr) | [Angels In A Bar](https://open.spotify.com/album/4LeJlpyLxJPCGfX1ovF2mf) | 3:36 | 2022-02-23 |  |
 | [Another Man's Treasure](https://open.spotify.com/track/2YDq00OI1WubK6HWWlURnk) | [Josh Bricker](https://open.spotify.com/artist/1P4Sq4Ga7dr8CKoydgVpHP) | [Another Man's Treasure](https://open.spotify.com/album/53P5lnqKrA9aZyELFHvRKr) | 3:17 | 2022-02-02 | 2022-03-17 |
 | [Another Whiskey](https://open.spotify.com/track/24DOHRr8IX1npa2cRxMZ1l) | [Junez](https://open.spotify.com/artist/3jdd1dE8PUWOXfGvh7tIRT) | [Another Whiskey](https://open.spotify.com/album/2uRrE8Nkm3xhua8m0c5RUk) | 4:02 | 2022-02-09 | 2022-03-24 |
-| [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-16 |  |
+| [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-16 | 2022-04-02 |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-01-26 | 2022-03-10 |
 | [Ashes](https://open.spotify.com/track/26xr7bf7T1iOAreNKug5KV) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Ashes](https://open.spotify.com/album/21iUMG3unJz9w7HzUkopYL) | 3:36 | 2022-01-19 | 2022-03-03 |
 | [Astronaut](https://open.spotify.com/track/1xMTryybLDviCRWPUy9zw6) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Astronaut](https://open.spotify.com/album/07redYeQNsVylDt4OGRG3Q) | 3:45 | 2022-02-09 | 2022-03-24 |

@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Peytan Porter
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Alana Springsteen
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Before It All Went Wrong](https://open.spotify.com/track/3eFxtqJE1WtOlVuzhePhlT) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Before It All Went Wrong](https://open.spotify.com/album/6VGYYksct2PODFyd7z1qvo) | 3:04 | 2021-12-31 | 2022-02-12 |
 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 | 2022-03-11 |  |
 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 | 2021-12-31 |  |
+| [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2022-04-01 |  |
 | [Break Itself](https://open.spotify.com/track/5OClt9eDq31Rtgo9vjjOyJ) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Break Itself](https://open.spotify.com/album/2ihBIQ0Ut209dFVpccNtpD) | 3:39 | 2021-12-31 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-31 |  |
 | [Broke It Down \- Remastered](https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down \(Remastered\)](https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3) | 3:21 | 2021-12-31 |  |
@@ -28,6 +29,7 @@
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-21 |  |
 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 | 2021-12-31 |  |
 | [Champagne Problem](https://open.spotify.com/track/7JIzEv4l1UVnEZ6owvjnWf) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Champagne Problem](https://open.spotify.com/album/7h6UDZVbl2zzhcANEe7zB7) | 2:50 | 2021-12-31 |  |
+| [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-31 |  |
 | [Cowboy](https://open.spotify.com/track/76dft06UMtOBvXRcnQp5AP) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Cowboy](https://open.spotify.com/album/43nbnIDcdVU0ky255QCq9K) | 3:08 | 2022-01-28 |  |
 | [Damn Boy](https://open.spotify.com/track/5Rc9i0vrgXPtVfGcDMShH4) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Damn Boy](https://open.spotify.com/album/0laEF40rInjHjkXmMdugTA) | 3:13 | 2021-12-31 | 2022-01-08 |
@@ -63,7 +65,9 @@
 | [I Got You](https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [40 East](https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5) | 2:57 | 2022-03-25 |  |
 | [I Hate You, I Miss You](https://open.spotify.com/track/5poM4F7HghGQYZaL9Y7DuS) | [Kelci Ashton](https://open.spotify.com/artist/1LoPrAqvgkgd0zJgCKll6h) | [I Hate You, I Miss You](https://open.spotify.com/album/7p6DF9uWZyN3OkyXin3fi7) | 3:22 | 2022-01-07 |  |
 | [I Still Do](https://open.spotify.com/track/3F9EapDhISD4RPbJRNCcnd) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [I Still Do](https://open.spotify.com/album/7hbSZShyCn9RikSyFfSb5R) | 3:02 | 2021-12-31 | 2022-01-08 |
+| [I Still Think About You](https://open.spotify.com/track/3DeGzDk6bWzl4OH0LSbZrr) | [Rackley](https://open.spotify.com/artist/0GufVCqBIQMgGorRAeIMda) | [I Still Think About You](https://open.spotify.com/album/4dyAHZVVrCTN8CW2wXzZFq) | 3:38 | 2022-04-01 |  |
 | [I Think About You](https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [I Think About You](https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr) | 3:31 | 2021-12-31 |  |
+| [I'm Not There Yet](https://open.spotify.com/track/2kPNQECMXwnYZdpkp77YWf) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [I'm Not There Yet](https://open.spotify.com/album/4tQgfgItam1kvIwRNuJm3s) | 3:24 | 2022-04-01 |  |
 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 | 2021-12-31 | 2022-02-12 |
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
 | [In Denial](https://open.spotify.com/track/0VbjCDupilMeIaOS7u11bT) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [In Denial](https://open.spotify.com/album/3faTxfyUZdmYeQJwv4Sbvj) | 3:37 | 2021-12-31 | 2022-01-08 |
@@ -91,6 +95,7 @@
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-14 |  |
 | [Miss California](https://open.spotify.com/track/3PzFElSoQkDDbeloGfg7Nm) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 3:01 | 2021-12-31 |  |
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2021-12-31 |  |
+| [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 | 2022-04-01 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 |  |
 | [My Turn](https://open.spotify.com/track/4fREYVupHFsPepnZeZrKI5) | [Alyssa Trahan](https://open.spotify.com/artist/0aMw8k8BbQf9sEeVokLzSo) | [Baby Blues & Stilettos](https://open.spotify.com/album/7xhGmTGboj8tUh1XfeW0k6) | 2:53 | 2021-12-31 | 2022-01-08 |
 | [My Way \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/42OXgCBByC4p3tm0w4MXIT) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [My Way](https://open.spotify.com/album/3nF1XbXuOHfFUxAPN6p3VM) | 2:22 | 2021-12-31 | 2022-01-08 |
@@ -139,6 +144,7 @@
 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 | 2021-12-31 |  |
 | [Thank You Card](https://open.spotify.com/track/363sJuHog5UqucY0D15ggq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card](https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36) | 3:10 | 2022-02-25 |  |
 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 | 2021-12-31 |  |
+| [THE DRILL](https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [THE DRILL](https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg) | 3:31 | 2022-04-01 |  |
 | [The Hell of Growing Up](https://open.spotify.com/track/35rwwX2KWvKIryS3enGiVH) | [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS), [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [The Hell of Growing Up](https://open.spotify.com/album/03xew9gcAHb4cHjeRpps6v) | 3:41 | 2021-12-31 |  |
 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 | 2021-12-31 |  |
 | [The Road](https://open.spotify.com/track/4FZI7N03gZMZY59QEqnC7I) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [The Road](https://open.spotify.com/album/072rBBXzlxzLJDqy80hP6q) | 3:07 | 2021-12-31 | 2022-02-12 |
@@ -162,6 +168,7 @@
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-31 |  |
 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 | 2021-12-31 | 2022-01-08 |
 | [Wounded](https://open.spotify.com/track/5vkHln7TXHYhFNeiUXjSPb) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [Wounded](https://open.spotify.com/album/1fXxJ7qUgm0aJCap9qCq8d) | 3:48 | 2021-12-31 |  |
+| [You Just Get Older](https://open.spotify.com/track/00ffQISSDvdkURhzk5K45B) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [You Just Get Older](https://open.spotify.com/album/4DKjuDuJCTmoi7e62n5UnF) | 3:32 | 2022-04-01 |  |
 | [Young](https://open.spotify.com/track/4xzyFu4b6Q1xNOfoJkQrOV) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Young](https://open.spotify.com/album/0hXdIfoRDUhc2GAqBOQ4nA) | 3:07 | 2021-12-31 | 2022-02-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.
