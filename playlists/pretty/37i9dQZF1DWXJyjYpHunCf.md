@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,033 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,137 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 100 | [In This Life](https://open.spotify.com/track/7oOHmn71o7XjdeHJkfGNj2) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/2Q06IiBSrCsS11HhYME17x) | 2:43 |
 
-Snapshot ID: `MTY0ODg2MDYyNSwwMDAwMDAwMDMzYzllZmNjZWIxOWZlZDIxZjY1NTBlN2Y2NWQ4Y2Jk`
+Snapshot ID: `MTY0ODk0NzM0MSwwMDAwMDAwMDMzYzllZmNjZWIxOWZlZDIxZjY1NTBlN2Y2NWQ4Y2Jk`

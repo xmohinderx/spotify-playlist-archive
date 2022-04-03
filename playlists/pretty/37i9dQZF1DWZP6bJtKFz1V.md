@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Blu DeTiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,527 likes - 129 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,627 likes - 129 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

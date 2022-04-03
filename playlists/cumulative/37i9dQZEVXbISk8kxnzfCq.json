@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171690,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH"
+    },
+    {
+      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -544,6 +562,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -577,6 +613,24 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "badtrip :(",
+      "url": "https://open.spotify.com/track/3t2ANh6j5JnTCDkVRBsukB"
     },
     {
       "album": {
@@ -2163,7 +2217,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
@@ -2731,7 +2785,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
@@ -3325,6 +3379,28 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "MEMORIAS",
+      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
     },
     {
       "album": {
@@ -4529,7 +4605,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
@@ -4913,7 +4989,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 189333,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"

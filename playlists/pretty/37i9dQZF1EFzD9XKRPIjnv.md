@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084 likes - 106 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092 likes - 106 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 34 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
 | 35 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
 | 36 | [Alone](https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:36 |
-| 37 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
-| 38 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
+| 37 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
+| 38 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
 | 39 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 |
 | 40 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
 | 41 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 101 | [Headlights](https://open.spotify.com/track/03RiXjAkoaqNHi5Vknk9aE) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Bangers & Ballads](https://open.spotify.com/album/6CjL7n64C2bnhjPIN9fvgw) | 3:27 |
 | 102 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
 | 103 | [別廢話](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 |
-| 104 | [In Case I Fall Asleep \(feat\. GRACEY\)](https://open.spotify.com/track/1MIYJAgj86K1cjlcrfvBcH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:23 |
+| 104 | [In Case I Fall Asleep](https://open.spotify.com/track/3NXhat0yvFpxhXabF38i8o) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:23 |
 | 105 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 106 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc0ODA5NzAsMDAwMDAwMDBjN2Y0ZGZkN2NlOTlkY2NkOGZjMzM0MTkxMGVkNjRmZg==`
+Snapshot ID: `Mjc0ODI0MTEsMDAwMDAwMDA3ZDc4MjRlMzg3ZDFhMmNlZmI4NmYxZjk1NWFhNTlkMA==`

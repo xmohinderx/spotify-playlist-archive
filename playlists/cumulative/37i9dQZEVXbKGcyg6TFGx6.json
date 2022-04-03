@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 110222,
       "name": "DAN\u00c7ARINA",
       "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -4143,6 +4161,24 @@
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "album": {
@@ -5393,7 +5429,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 189720,
       "name": "L\u2019enfer",
       "url": "https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV"
@@ -6109,7 +6145,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -6779,7 +6815,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
@@ -7103,6 +7139,48 @@
       "duration_ms": 184212,
       "name": "Realit\u00e4t",
       "url": "https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e"
+    },
+    {
+      "album": {
+        "name": "One Of A Kind Music Presents: Reggae & Calypso (Remix)",
+        "url": "https://open.spotify.com/album/6aDC4yKehLucDd52xhLdPw"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "YV",
+          "url": "https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk"
+        },
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        },
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        },
+        {
+          "name": "CH (GMD)",
+          "url": "https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "RoseReal",
+          "url": "https://open.spotify.com/artist/5E3fSZkMvWLvANJtyFoNRH"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192340,
+      "name": "Reggae & Calypso (Russ Millions x Buni x YV x CH (GMD) x SwitchOTR x Gazo x RoseReal) - Remix",
+      "url": "https://open.spotify.com/track/2cQyipGn0DEXYLgoeIwRFe"
     },
     {
       "album": {
@@ -7719,6 +7797,28 @@
       "duration_ms": 153565,
       "name": "Shonen",
       "url": "https://open.spotify.com/track/3Z8gDycWX48tv06vVRMQtg"
+    },
+    {
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "album": {
@@ -9079,6 +9179,24 @@
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "album": {

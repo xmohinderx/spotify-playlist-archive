@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,306 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,333 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 5 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 | 6 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 |
 | 7 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 |
-| 8 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 8 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 9 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
 | 10 | [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 |
 | 11 | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/track/7s5STnbx8NWbggIJDw1o9i) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/album/2IE8aTFgwS8s172Pi5x2zn) | 2:47 |

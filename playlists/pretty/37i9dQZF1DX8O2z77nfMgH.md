@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Duki, De La Ghetto, Quevedo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,420 likes - 54 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,482 likes - 54 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 6 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 |
 | 7 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 |
 | 8 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
-| 9 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Microdosis](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
+| 9 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
 | 10 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 |
-| 11 | [Chacha Me \- Inglés](https://open.spotify.com/track/0ElFKsuoSEVuRv9hdzpH1M) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Chacha Me](https://open.spotify.com/album/1Ts5BDhFPlSth1TgB37iC0) | 3:20 |
+| 11 | [Chacha Me \- English](https://open.spotify.com/track/0ElFKsuoSEVuRv9hdzpH1M) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Chacha Me](https://open.spotify.com/album/1Ts5BDhFPlSth1TgB37iC0) | 3:20 |
 | 12 | [SEXTIME](https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SEXTIME](https://open.spotify.com/album/1fZB1jZPTn90TzYDZv42kI) | 3:17 |
 | 13 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 |
 | 14 | [El Congreso](https://open.spotify.com/track/1ds3UoIlolByK0rNyNbmvP) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [El Congreso](https://open.spotify.com/album/1WShl2Ns50BWfZuyqsKDXP) | 3:20 |

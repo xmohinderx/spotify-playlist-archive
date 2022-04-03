@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Maher Zain with his favourite tracks this Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,781 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,157 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

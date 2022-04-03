@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Dj Neptizzle & DJ FiiFii takeover Detty December with an Afro Paradise special, rounding up the biggest tracks from Africa's party season
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,481 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 23 | [Ungangi Bambi \(feat\. Khanyisa\)](https://open.spotify.com/track/4WFtz7J6aNHwRJVctT1gcs) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc) | [Ungangi Bambi \(feat\. Khanyisa\)](https://open.spotify.com/album/4AIsIagofbLSJARnf44cWb) | 6:48 |
 | 24 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S) | 3:36 |
 | 25 | [Come My Way](https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Come My Way](https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV) | 3:28 |
-| 26 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
+| 26 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
 | 27 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
-| 28 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
+| 28 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 29 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 |
 | 30 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
 | 31 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 |

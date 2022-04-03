@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 23 | [Heaven's Field](https://open.spotify.com/track/3dx3CAH10yaG2dmXxxQYpZ) | [Ethan Nathaniel](https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv) | [Heaven's Field](https://open.spotify.com/album/4A8kS4fAcHhzxQD3fy9CI2) | 3:51 |
 | 24 | [Somewhere Else](https://open.spotify.com/track/3rOh6BGl63T4djdpeGzMAZ) | [Yueku](https://open.spotify.com/artist/2aIlWzhu6bf22kYohuabVj) | [Somewhere Else](https://open.spotify.com/album/0CqjMHCpfOhI14c8J298Ez) | 3:01 |
 | 25 | [Enough to Know You](https://open.spotify.com/track/4jFP1o8ceblBeeYY9E1cFr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Enough to Know You](https://open.spotify.com/album/1qq20zCV0Pwtl8YZLCq5wN) | 3:25 |
-| 26 | [Light On](https://open.spotify.com/track/6GBFX3Yg9sAJsVks6ch8ty) | [Glassell](https://open.spotify.com/artist/3yPrpAhv7wKJGofXZ1ey4T), [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Light On](https://open.spotify.com/album/3A4ev02buDPBsNdUKr9uqa) | 3:29 |
+| 26 | [Light On](https://open.spotify.com/track/6GBFX3Yg9sAJsVks6ch8ty) | [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Light On](https://open.spotify.com/album/3A4ev02buDPBsNdUKr9uqa) | 3:29 |
 | 27 | [Pareidolia](https://open.spotify.com/track/4t76Yv8SCEkiYqUCV1cmsH) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Pareidolia](https://open.spotify.com/album/1qVgxdlT41LxL8Fwa2ykKB) | 3:48 |
 | 28 | [New York Minute](https://open.spotify.com/track/4ZxfbHZufqs1EZhMVBvqIl) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 4:25 |
 | 29 | [Send Somebody](https://open.spotify.com/track/6vGWD9Jg8mNVfSWwrmDqGE) | [Ian Randall Thornton](https://open.spotify.com/artist/0Av9bZj4ce67WwBGCuKkPF) | [Wide Open](https://open.spotify.com/album/4Jf2BP2EJDLDEbhvOz1gHd) | 3:55 |
 | 30 | [Making Money](https://open.spotify.com/track/09m74FLKrSQwlSAN0wMpo7) | [John Canada](https://open.spotify.com/artist/4BFwCPazCgskaVOV5mfb8s) | [Making Money](https://open.spotify.com/album/1E4Sd5mln21B14YO9LbXCd) | 3:15 |
 
-Snapshot ID: `MCwwMDAwMDAwMDQ1YTU0MTFiMmM4NGI5OWVhN2Q0NjYyMmVmODU5OGQ0`
+Snapshot ID: `MCwwMDAwMDAwMDJkNjZjOTQ0MjkwNmEwOWJkZjZiN2E0ZWVhYzE1ZTQx`

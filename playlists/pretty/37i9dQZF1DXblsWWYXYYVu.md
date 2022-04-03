@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,353 likes - 115 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,514 likes - 115 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg) | 2:42 |
 | 2 | [Far Side of the World](https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3) | 2:56 |
-| 3 | [Passengers \- Acoustic Version](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 |
+| 3 | [Passengers \- Acoustic](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 |
 | 4 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 |
 | 5 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 |
 | 6 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 |

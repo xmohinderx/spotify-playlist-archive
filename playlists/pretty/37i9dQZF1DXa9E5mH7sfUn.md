@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 
 > Amigo, ven te invito una copa...
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,671 likes - 65 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,794 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

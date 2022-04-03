@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Alishia Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,260 likes - 97 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,355 likes - 97 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 12 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
 | 13 | [Leaning](https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning](https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi) | 3:39 |
 | 14 | [Easy](https://open.spotify.com/track/7iiN8DciKOI7Cz7l62H0uY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 3:17 |
-| 15 | [There Is Freedom \- Studio Version](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom \(Studio Version\)](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
+| 15 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
 | 16 | [Trinity Song \- Live](https://open.spotify.com/track/7EZTwfaE0nahlAQfNqjxhO) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Dinah Wright](https://open.spotify.com/artist/3DoebjvyyBsKQbEEehyz4S) | [Trinity Song \(Live\)](https://open.spotify.com/album/6nxEYzAHijfM6W8i645aBw) | 5:29 |
 | 17 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/1ftdZF48D8Ig3zAtQUMYi7) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Christ And Christ Crucified \(Live\)](https://open.spotify.com/album/4r1B2UdNtZaIRtT3R6zziN) | 6:34 |
 | 18 | [Foundations \- Live](https://open.spotify.com/track/5RDBhum0AV1aRZGnhK1NMZ) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Foundations \(Live\)](https://open.spotify.com/album/4YY6RtFnfBmRTVTXo5Nn9i) | 5:48 |

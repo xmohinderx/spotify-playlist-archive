@@ -738,6 +738,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -839,7 +857,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -4256,6 +4274,32 @@
     },
     {
       "album": {
+        "name": "Hypoteettinen koira",
+        "url": "https://open.spotify.com/album/4w8QSH4sAjVeWDxHPaMGfw"
+      },
+      "artists": [
+        {
+          "name": "Ida Paul & Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        },
+        {
+          "name": "Kalle Lindroth",
+          "url": "https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177647,
+      "name": "Hypoteettinen koira",
+      "url": "https://open.spotify.com/track/2IS6Y1ESgW80pBJ2cWfvKc"
+    },
+    {
+      "album": {
         "name": "Hyv\u00e4 me",
         "url": "https://open.spotify.com/album/6UOMsISiZkQgYvhN4zRnIG"
       },
@@ -4755,6 +4799,24 @@
       "duration_ms": 183413,
       "name": "Ilves - Vain el\u00e4m\u00e4\u00e4 kausi 12",
       "url": "https://open.spotify.com/track/7adJTN4x7fVzC0Rcg80AWU"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "album": {
@@ -5537,7 +5599,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 168000,
       "name": "KAIKEST PAHAST PARANNUIT",
       "url": "https://open.spotify.com/track/2RlOo2fu1v9k4YRXBjalHX"
@@ -5679,7 +5741,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 227787,
       "name": "Kaksi syd\u00e4nt\u00e4",
       "url": "https://open.spotify.com/track/3hVJ6qN5umuczX3RtbYmtn"
@@ -5965,10 +6027,28 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 146705,
       "name": "Kiltti tytt\u00f6",
       "url": "https://open.spotify.com/track/0NxlB4CXkfiGBiaqUMKaFw"
+    },
+    {
+      "album": {
+        "name": "Kiltti tytt\u00f6",
+        "url": "https://open.spotify.com/album/3qSL7YCnMIRV3jWqWxnir7"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147958,
+      "name": "Kiltti tytt\u00f6",
+      "url": "https://open.spotify.com/track/7oMMyjZTrGC6MwFwnv6mWv"
     },
     {
       "album": {
@@ -6203,7 +6283,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 160318,
       "name": "Koita Kasvaa Aikuiseks",
       "url": "https://open.spotify.com/track/36FVWyc2nS2j2IZ7uBSEUr"
@@ -7857,7 +7937,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 182385,
       "name": "Mik\u00e4-Mik\u00e4-Maa (feat. EME)",
       "url": "https://open.spotify.com/track/63hKnwYYmoR9CxKzdthRHG"
@@ -8231,7 +8311,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -8696,6 +8776,28 @@
     },
     {
       "album": {
+        "name": "Niin Siin Vaan K\u00e4vi",
+        "url": "https://open.spotify.com/album/4ynfM4RYJfMMOzGFxL9skL"
+      },
+      "artists": [
+        {
+          "name": "SMC L\u00e4hi\u00f6rotat",
+          "url": "https://open.spotify.com/artist/2Aqq0gyr7lRZ8vmPlW4MhB"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313103,
+      "name": "Niin Siin Vaan K\u00e4vi",
+      "url": "https://open.spotify.com/track/7I61JoM3TyzP8kWpeKK94A"
+    },
+    {
+      "album": {
         "name": "Niinku koko ajan",
         "url": "https://open.spotify.com/album/6U7IKDdsi7ToOYPPFxmz7X"
       },
@@ -8852,6 +8954,24 @@
     },
     {
       "album": {
+        "name": "Soulavaris",
+        "url": "https://open.spotify.com/album/3OKKH8sylzytU8d9Yunxbk"
+      },
+      "artists": [
+        {
+          "name": "J. Karjalainen",
+          "url": "https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240635,
+      "name": "Nuku hyvin, Angelique",
+      "url": "https://open.spotify.com/track/60V7U4XEUM6irFQrBC0nu5"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -8885,6 +9005,32 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "album": {
+        "name": "Kiltti tytt\u00f6",
+        "url": "https://open.spotify.com/album/3qSL7YCnMIRV3jWqWxnir7"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "Pyhimys",
+          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+        },
+        {
+          "name": "Club For Five",
+          "url": "https://open.spotify.com/artist/1gu9pTR4fuo9fSvMNWpHzW"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203494,
+      "name": "Ojaan",
+      "url": "https://open.spotify.com/track/2PpvDWbpPbVyk3cZIdrGlU"
     },
     {
       "album": {
@@ -9383,7 +9529,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -10395,6 +10541,28 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "album": {
+        "name": "Salattu suru",
+        "url": "https://open.spotify.com/album/0RNCRi0O58keO3bvGaPfei"
+      },
+      "artists": [
+        {
+          "name": "Maustetyt\u00f6t",
+          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
+        },
+        {
+          "name": "Agents",
+          "url": "https://open.spotify.com/artist/4plbeQ7a5US1Vq8OG5YDcN"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Salattu suru",
+      "url": "https://open.spotify.com/track/2DMiIxgZGx5QLgXC5x6Qv8"
     },
     {
       "album": {
@@ -11679,7 +11847,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 191617,
       "name": "S\u00e4",
       "url": "https://open.spotify.com/track/1Er0WMLrT8aMgAZVgXnT6Z"
@@ -12093,7 +12261,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -12950,6 +13118,36 @@
     },
     {
       "album": {
+        "name": "Uptown Baby (feat. Ares, Averagekidluke, Xavier Weeks)",
+        "url": "https://open.spotify.com/album/0UKnkDYgNxCTUiPAik4ZI2"
+      },
+      "artists": [
+        {
+          "name": "LEWIZKI",
+          "url": "https://open.spotify.com/artist/4tjhuszE3yXNuiqxrdXwJ1"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Xavier Weeks",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Uptown Baby (feat. Ares, Averagekidluke, Xavier Weeks)",
+      "url": "https://open.spotify.com/track/2sUktgwwpgivOkmOideaWt"
+    },
+    {
+      "album": {
         "name": "USA",
         "url": "https://open.spotify.com/album/2c3XjvMb9hHt7SVYciBCV6"
       },
@@ -13725,6 +13923,24 @@
       "duration_ms": 170333,
       "name": "When You Danced With Me",
       "url": "https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "album": {

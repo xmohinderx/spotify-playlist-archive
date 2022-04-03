@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the 2010s\. Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,949 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,129 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 49 | [You & I](https://open.spotify.com/track/01IyLgH29kt46qu8hdwf8G) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Face The Music](https://open.spotify.com/album/010cogYVCU9Fu3jrDAJ6WO) | 3:54 |
 | 50 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/7AZiZMup0bLK5f4A2jRMpP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 3:24 |
 
-Snapshot ID: `MTY0ODg2MDYzNCwwMDAwMDAwMDRiMTM3ZmE2OThiYWU2Mjg5ZDdlY2FlYWQxNzdkMjMy`
+Snapshot ID: `MTY0ODk0NzM1MiwwMDAwMDAwMDRiMTM3ZmE2OThiYWU2Mjg5ZDdlY2FlYWQxNzdkMjMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,326 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,347 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Vibras](https://open.spotify.com/track/7cwy2dah2hIrFVfvX3a7zO) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Vibras](https://open.spotify.com/album/3IlIw3Yojkm2tjTirsbILw) | 2:33 |
 | 100 | [Neon](https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs) | [Patterns](https://open.spotify.com/artist/3tJL2NbxEnJgYjo3LBdDQ9) | [Neon](https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4) | 4:09 |
 
-Snapshot ID: `MTY0ODg2MTAxMywwMDAwMDAwMDVjZGVkMTc4NWE1Nzk0MzZjNGIzMTk2ZDJkYTJjMTJh`
+Snapshot ID: `MTY0ODk0Nzc3NSwwMDAwMDAwMDVjZGVkMTc4NWE1Nzk0MzZjNGIzMTk2ZDJkYTJjMTJh`

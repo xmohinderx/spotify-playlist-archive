@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The freshest jams from this year’s BBMAs finalists and performers, airing May 23 on NBC! Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,664 likes - 94 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,660 likes - 94 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 93 | [China](https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 5:01 |
 | 94 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
 
-Snapshot ID: `MTY0ODg2MDU4OSwwMDAwMDAwMDJhZTQ5ODAyYTNlN2I4OGU3NzJiNDUyNThiNzgwZDk1`
+Snapshot ID: `MTY0ODk0NzMwMywwMDAwMDAwMDJhZTQ5ODAyYTNlN2I4OGU3NzJiNDUyNThiNzgwZDk1`

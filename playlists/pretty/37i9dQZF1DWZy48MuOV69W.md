@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,575 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,561 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Frosty The Snowman](https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 2:38 |
 | 55 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
 
-Snapshot ID: `MTY0ODg2MDcwMywwMDAwMDAwMDIyZGVhNDk3ZjZmZGY3ZDllMDFiNDU4ZjYwYTFjN2Vl`
+Snapshot ID: `MTY0ODk0NzQzMSwwMDAwMDAwMDIyZGVhNDk3ZjZmZGY3ZDllMDFiNDU4ZjYwYTFjN2Vl`

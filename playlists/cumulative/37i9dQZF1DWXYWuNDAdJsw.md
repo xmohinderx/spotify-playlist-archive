@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXYWuNDAdJsw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXYWuNDAdJsw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXYWuNDAdJsw)
 
-### Perrear y Llorar
+### [Perrear y Llorar](https://open.spotify.com/playlist/61DjCGIvgLvfIb5LlJiMje)
 
 > el nombre lo dice todo.
 

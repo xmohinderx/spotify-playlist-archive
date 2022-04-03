@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Bondade de Deus",
+        "url": "https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375653,
+      "name": "Bondade de Deus",
+      "url": "https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR"
+    },
+    {
+      "album": {
         "name": "Botadinha Saliente",
         "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 138069,
       "name": "Casa Revirada",
       "url": "https://open.spotify.com/track/2NOLeQumoVoQlMOKOgOxRY"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "Deus \u00c9 o Meu Guia",
       "url": "https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -4237,7 +4255,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
@@ -4494,6 +4512,36 @@
     },
     {
       "album": {
+        "name": "Vai Malvadin Me Chama de Amor",
+        "url": "https://open.spotify.com/album/4V7IxdrvuPGugp8ZQ36CMc"
+      },
+      "artists": [
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        },
+        {
+          "name": "Mc Izal",
+          "url": "https://open.spotify.com/artist/6F3azfM1wd8PU8aSxV5tyY"
+        },
+        {
+          "name": "Sony no Beat",
+          "url": "https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb"
+        },
+        {
+          "name": "Afonso na Voz",
+          "url": "https://open.spotify.com/artist/3nXLL3bkT9459UVX0d3tfW"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Vai Malvadin Me Chama de Amor",
+      "url": "https://open.spotify.com/track/4EBkoB8yeft3ZaH8DPeYeC"
+    },
+    {
+      "album": {
         "name": "Vai Polly",
         "url": "https://open.spotify.com/album/5zWaWRjYdIrqL9vydTQ30N"
       },
@@ -4605,6 +4653,24 @@
       "duration_ms": 141692,
       "name": "Videozin pra Tiktok",
       "url": "https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy"
+    },
+    {
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "album": {

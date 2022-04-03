@@ -6278,6 +6278,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -8033,7 +8051,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
@@ -8259,7 +8277,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
@@ -12440,6 +12458,40 @@
     },
     {
       "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309322,
+      "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+      "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -12895,7 +12947,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
@@ -14033,6 +14085,28 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
+    },
+    {
+      "album": {
+        "name": "up at night (feat. justin bieber)",
+        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "up at night (feat. justin bieber)",
+      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
       "album": {

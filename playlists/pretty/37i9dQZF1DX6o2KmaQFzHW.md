@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,227 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,296 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Duerme Negrito](https://open.spotify.com/track/3K2rDVQkxeWhOWWXipYgrR) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Duerme Negrito](https://open.spotify.com/album/5zI855uIx1Z0M9WIARqukR) | 4:27 |
 | 90 | [Recuerdos de Ypacaraí](https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp) | [Ramón Ayala El Mensú](https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB), [George Haslam](https://open.spotify.com/artist/4aNMEoyzSEXacKUlZedsZX), [Ruben Ferrero](https://open.spotify.com/artist/2QBN21Nc9xG27ZGDOjR5P6) | [Recuerdos de Ypacaraí](https://open.spotify.com/album/5ZvJ9WQFnxnwTli25l9Ohg) | 4:03 |
 
-Snapshot ID: `MTY0ODg2MDkyNiwwMDAwMDAwMGU3ZjVmYmNiMDhiYWRkMTRmMjlhYzAzYzE0MTNkNGJh`
+Snapshot ID: `MTY0ODk0NzY3OCwwMDAwMDAwMGU3ZjVmYmNiMDhiYWRkMTRmMjlhYzAzYzE0MTNkNGJh`

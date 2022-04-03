@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 
 > The best recent metal tracks\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,010 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,087 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 | 35 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 |
 | 36 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 |
 | 37 | [Hypnosis](https://open.spotify.com/track/5YjzcTCorDbr34bngfQIIy) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 5:35 |
-| 38 | [My Hands Are Empty](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [My Hands Are Empty](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 |
+| 38 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 |
 | 39 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 |
 | 40 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 |
 | 41 | [Under Your Tattoos](https://open.spotify.com/track/6koYE3878OQT34mPMuGZ4X) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 4:12 |

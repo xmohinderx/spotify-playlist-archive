@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYmDNATMglFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYmDNATMglFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYmDNATMglFU)
 
-### [The Locker](https://open.spotify.com/playlist/1cxlMpGMt6Ftx1RJPyoLZS)
+### [The Locker](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 > \\m/ ft\. YUNGBLUD
 

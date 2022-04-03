@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the songs you need rn Cover: Mad Tsai
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,793 likes - 104 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,339 likes - 104 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 12 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
 | 13 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 |
 | 14 | [Bubblegum Bitch](https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 2:34 |
-| 15 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 15 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 16 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 |
 | 17 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 |
 | 18 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 |

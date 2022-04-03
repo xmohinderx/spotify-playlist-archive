@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 
 > Songs for lovers like you've never heard before\.  Cover: Miguel, Taylor Swift and Japanese Breakfast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,043 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,062 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 | 124 | [Way Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2KsWIjEA3OntFTcnpKk6RG) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:41 |
 | 125 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 |
 
-Snapshot ID: `MTY0ODg2MDQ2MywwMDAwMDAwMDMwZWUzOTVlZDViNWUzNWZkMDMwZTgzOTUzNDk2MWI5`
+Snapshot ID: `MTY0ODk0NzE2NCwwMDAwMDAwMDMwZWUzOTVlZDViNWUzNWZkMDMwZTgzOTUzNDk2MWI5`

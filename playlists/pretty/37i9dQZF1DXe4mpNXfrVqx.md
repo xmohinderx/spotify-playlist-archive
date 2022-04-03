@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Nathy MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,366 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,370 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 30 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 |
 | 31 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 |
 | 32 | [VSFD](https://open.spotify.com/track/7z2JlXkcvVP7pOaRmvwn03) | [Kelly Diaz](https://open.spotify.com/artist/1zwlhUNQfqKmR97CzZHFFz) | [VSFD](https://open.spotify.com/album/2l4aLfhkBOi2qfRFxWK6kC) | 2:33 |
-| 33 | [Apocalipse](https://open.spotify.com/track/2SQSpgUipLIYLPTg3bpefW) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Milk Originals](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Apocalipse](https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ) | 2:39 |
+| 33 | [Apocalipse](https://open.spotify.com/track/2SQSpgUipLIYLPTg3bpefW) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Apocalipse](https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ) | 2:39 |
 | 34 | [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 |
 | 35 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 |
 | 36 | [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 |

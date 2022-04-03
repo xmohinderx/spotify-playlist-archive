@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,257 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,276 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 |
 | 100 | [Sammy Sosa](https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp) | 2:31 |
 
-Snapshot ID: `MTY0ODg2MDgyMywwMDAwMDAwMDBlOTQ1MTkwNzZkODQ1YWQ3ZDg0ZjAxZDI5MTU1MWI5`
+Snapshot ID: `MTY0ODk0NzU2MywwMDAwMDAwMDBlOTQ1MTkwNzZkODQ1YWQ3ZDg0ZjAxZDI5MTU1MWI5`

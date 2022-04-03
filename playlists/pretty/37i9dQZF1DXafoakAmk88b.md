@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,595 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 24 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
 | 25 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 |
 | 26 | [Still \(feat\. 6LACK and Smino\)](https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:45 |
-| 27 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
+| 27 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
 | 28 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 29 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 30 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,614 likes - 70 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,665 likes - 70 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 13 | [Um Bom Lugar](https://open.spotify.com/track/7sQPek0zBGZUTK4Eh2opvH) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:05 |
 | 14 | [Rap du Bom](https://open.spotify.com/track/3xl7brkgL1RDxU89kFv6Cf) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem](https://open.spotify.com/album/1e2nuElLGF6tpPCewKaAdL) | 5:51 |
 | 15 | [Brasília Periferia, Pt\. 2](https://open.spotify.com/track/6VO6LtVee73oVA0iIQnjt8) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 7:33 |
-| 16 | [Assim Que Se Fala](https://open.spotify.com/track/5zzFPS7ALuQg9X0FIZzGfr) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e), [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Todos São Manos](https://open.spotify.com/album/63Gr4jBolAXKU8DsZDgDVf) | 6:13 |
+| 16 | [Assim Que Se Fala](https://open.spotify.com/track/5zzFPS7ALuQg9X0FIZzGfr) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [GOG](https://open.spotify.com/artist/5htWBC2D9S0SZXTiKKdkGj), [Possemente Zulu](https://open.spotify.com/artist/4uNcO3pgF32wPx8UUFRr6L) | [Todos São Manos](https://open.spotify.com/album/63Gr4jBolAXKU8DsZDgDVf) | 6:13 |
 | 17 | [Quatro Manos](https://open.spotify.com/track/3LjEJTocxxuqqO5Q1pcykd) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:04 |
 | 18 | [Cada Um Por Si](https://open.spotify.com/track/52lGcvfarXD8DdN9qd0lk9) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Bem Vindos ao Inferno](https://open.spotify.com/album/6GvdfWASdnfPT60cj4u2Uq) | 4:44 |
 | 19 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 |

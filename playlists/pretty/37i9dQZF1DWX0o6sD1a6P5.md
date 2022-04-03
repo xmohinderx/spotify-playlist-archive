@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura x Damso
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,301 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,917 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 |
-| 2 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 2 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 3 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 |
 | 4 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 |
 | 5 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 27 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 |
 | 28 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 |
 | 29 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
-| 30 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 |
+| 30 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 |
 | 31 | [Bobby Shmurda](https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/474RT27VhUBkRpOEMCTCzr) | 2:56 |
 | 32 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
 | 33 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 47 | [Mère ya palais](https://open.spotify.com/track/5T4sgBJUzY0xTUR5SkLH4E) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01) | [Mère ya palais](https://open.spotify.com/album/61A9sDcEjJrKHQpE5ikHrr) | 2:50 |
 | 48 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
 | 49 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
-| 50 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
+| 50 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 
 Snapshot ID: `MTY0ODc2NDEyMCwwMDAwMDExYjAwMDAwMTdmZTFmZmVjMTQwMDAwMDE3ZmQxOTA1ZDVl`

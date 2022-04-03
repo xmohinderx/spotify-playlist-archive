@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX40AQSQVhD0g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX40AQSQVhD0g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX40AQSQVhD0g)
 
-### Cleaning Kit en Español
+### [Cleaning Kit en Español](https://open.spotify.com/playlist/0KuPiQD1QCKngSaltgSNqK)
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 

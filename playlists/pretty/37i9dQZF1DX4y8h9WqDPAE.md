@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,069 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,184 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 13 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 |
 | 14 | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/track/3pc2kn6ni9AsB7ZfoKUvHH) | [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/album/182Nr8zqQ7AwtSDt24lhAu) | 3:13 |
 | 15 | [Rent Free](https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rent Free / By Any Means](https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5) | 3:22 |
-| 16 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 16 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 17 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 18 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 |
 | 19 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |

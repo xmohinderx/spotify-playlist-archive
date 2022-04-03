@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Kevin Morby
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,863 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,949 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Favorite Part](https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [Favorite Part / Popularity](https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj) | 3:17 |
 | 150 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
 
-Snapshot ID: `MTY0ODg2MDgwMSwwMDAwMDAwMDYyN2EwZjhiZTg4MjExMmNlYjA1MjZjNDkxNjBmY2Rh`
+Snapshot ID: `MTY0ODk0NzUzOCwwMDAwMDAwMDYyN2EwZjhiZTg4MjExMmNlYjA1MjZjNDkxNjBmY2Rh`

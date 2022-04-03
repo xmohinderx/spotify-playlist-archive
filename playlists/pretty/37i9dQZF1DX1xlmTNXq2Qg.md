@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 
 > Time for dancing in the kitchen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,239 likes - 56 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,374 likes - 56 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,580 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,710 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [Arremángala Arrempújala](https://open.spotify.com/track/16RyGCJmiM2GPdTuikdEkM) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mis Favoritas](https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7) | 2:01 |
 | 90 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
 
-Snapshot ID: `MTY0ODg2MTA3NSwwMDAwMDAwMDE4MjFmZDRlYTk5NTY5MjU4MzU2NWE2YTBjM2I3NTQ4`
+Snapshot ID: `MTY0ODk0Nzg0NCwwMDAwMDAwMDE4MjFmZDRlYTk5NTY5MjU4MzU2NWE2YTBjM2I3NTQ4`

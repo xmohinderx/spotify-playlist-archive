@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,332 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,798 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 2 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
 | 3 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 |
 | 4 | [Pull Up Actin \(Never Broke Again featuring YoungBoy Never Broke Again and P Yungin\)](https://open.spotify.com/track/6xj9wxBuEmuCffZCD5sJsJ) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [P Yungin](https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN) | [Pull Up Actin \(Never Broke Again featuring YoungBoy Never Broke Again and P Yungin\)](https://open.spotify.com/album/6S52VWtEqjpEO51CVPcESo) | 2:24 |
-| 5 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
+| 5 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Reloaded\)](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
 | 6 | [Everybody Shooters Too](https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Everybody Shooters Too](https://open.spotify.com/album/2G69YevAOGrTOPK024DJi1) | 1:52 |
 | 7 | [Publicity Stunt](https://open.spotify.com/track/1SKkHYkGqhadpciJKXfRhU) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Publicity Stunt](https://open.spotify.com/album/12XcAM4LFALAk3I3h9M9of) | 3:16 |
 | 8 | [Beat The Streets](https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Beat The Streets](https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty) | 2:34 |

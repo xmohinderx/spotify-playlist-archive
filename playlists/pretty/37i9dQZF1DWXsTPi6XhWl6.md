@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Wake up with these indie classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,300 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,299 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [1904](https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There's No Leaving Now](https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF) | 3:59 |
 | 50 | [Somebody That I Used to Know](https://open.spotify.com/track/1cnvv6E1MiOtGs5R5i4FJn) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW), [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Somebody That I Used to Know](https://open.spotify.com/album/4oJkTaoIe7wG4cMOsOjzKd) | 2:23 |
 
-Snapshot ID: `MTY0ODg2MDY0MywwMDAwMDAwMDU4NDBiZjA3NDU1NDNjN2FmMjZiZDU2MjMzNDNhNjI4`
+Snapshot ID: `MTY0ODk0NzM2MiwwMDAwMDAwMDU4NDBiZjA3NDU1NDNjN2FmMjZiZDU2MjMzNDNhNjI4`

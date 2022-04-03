@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Kehlani & Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,166 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,257 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 18 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 19 | [Crash](https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Crash](https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ) | 3:14 |
 | 20 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
-| 21 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 21 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 22 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 |
 | 23 | [23](https://open.spotify.com/track/6Dmca0w2vystNfHuqZcyll) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [23](https://open.spotify.com/album/7LJ5DjQwC66HAVNDjuBxfH) | 3:34 |
 | 24 | [Wings Of Stone](https://open.spotify.com/track/1yZntW925nLegBydduhjWN) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Wings Of Stone](https://open.spotify.com/album/2hBfTjB77BQ4Fa7RN64MNT) | 3:46 |

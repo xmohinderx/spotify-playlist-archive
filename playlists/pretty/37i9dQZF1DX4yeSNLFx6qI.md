@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,786 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,978 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Lo Que Nunca Fui Con Nadie \(Acústico\)](https://open.spotify.com/track/4OTI9AoQmzl4RZAGPjjdXg) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Lo Que Nunca Fui Con Nadie \(Acústico\)](https://open.spotify.com/album/5UBEnbFeGsXqsFJHD8XSpy) | 3:33 |
 | 100 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 2:54 |
 
-Snapshot ID: `MTY0ODg2MDg2NiwwMDAwMDAwMDdlNjA0NjA3MmQ1OWNkNTA1MTUxMmNiNDgyOGIxOGY0`
+Snapshot ID: `MTY0ODk0NzYxMSwwMDAwMDAwMDdlNjA0NjA3MmQ1OWNkNTA1MTUxMmNiNDgyOGIxOGY0`

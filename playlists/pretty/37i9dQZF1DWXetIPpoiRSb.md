@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: NCT DREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,432 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,456 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 22 | [Seventeen](https://open.spotify.com/track/4KICIaVKZ4amLkDihU3u5Z) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Seventeen](https://open.spotify.com/album/7xMvD9hoKNPAaaaKu4vZfU) | 3:09 |
 | 23 | [Love on the Side](https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/2FiykGkODZ3zt7tDckKA8o) | 2:33 |
 | 24 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 |
-| 25 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 25 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 26 | [iPad](https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [iPad](https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp) | 3:22 |
 | 27 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 |
 | 28 | [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,266 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,539 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/3uz5tvXgo73lxn0mtYGP2h) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 4:47 |
 | 50 | [Good Form](https://open.spotify.com/track/5AHu27TVFUg0ANQUrFDMr0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen \(Deluxe\)](https://open.spotify.com/album/6zA5X3CQ5rgLKhTobyV5Id) | 3:19 |
 
-Snapshot ID: `MTY0ODg2MTAwNiwwMDAwMDAwMDk1ZmJkZmI2M2IwNDkzMjQxMmZiMTM2ZDAzMGZlMWYz`
+Snapshot ID: `MTY0ODk0Nzc2NywwMDAwMDAwMDk1ZmJkZmI2M2IwNDkzMjQxMmZiMTM2ZDAzMGZlMWYz`

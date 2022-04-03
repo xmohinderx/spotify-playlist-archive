@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,640 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,740 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

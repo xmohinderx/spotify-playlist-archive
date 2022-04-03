@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 781 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

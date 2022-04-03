@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: HAAi & Obi Franky
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,354 likes - 101 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,434 likes - 101 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

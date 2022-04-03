@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Lefty Frizzell, Hank Williams, Kitty Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,032 likes - 96 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,167 likes - 96 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 95 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 96 | [How's the World Treating You](https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:56 |
 
-Snapshot ID: `MTY0ODg2MDYwOCwwMDAwMDAwMGFjMmJjZTRlY2MyOTZlMGZjMTUzODFlZjgxMWFmMGYz`
+Snapshot ID: `MTY0ODk0NzMyMywwMDAwMDAwMGFjMmJjZTRlY2MyOTZlMGZjMTUzODFlZjgxMWFmMGYz`

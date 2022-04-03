@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,363 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,575 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

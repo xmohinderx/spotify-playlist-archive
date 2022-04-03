@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Keith Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,174 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,361 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Blame It On You](https://open.spotify.com/track/2CwG4BXIlGmmYLDmDvwMTH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [9](https://open.spotify.com/album/2f0DzdU6QbWtZqSlN7s1s5) | 3:35 |
 | 150 | [Get Along](https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:19 |
 
-Snapshot ID: `MTY0ODg2MTEzMywwMDAwMDAwMDZkM2NiNzM5Yzc4NjViYWEyYmQ0ODU1MTE3NjY2MGYz`
+Snapshot ID: `MTY0ODk0NzkxNSwwMDAwMDAwMDZkM2NiNzM5Yzc4NjViYWEyYmQ0ODU1MTE3NjY2MGYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Anthony Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,704 likes - 99 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,836 likes - 99 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Pitbull.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,661 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,215 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/0goj2jVaUvxQP2zsyt7Xol) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(Remixes\)](https://open.spotify.com/album/5CGGhWKMDZUIt1lnmFbozw) | 2:33 |
 | 150 | [Into You \- 3LAU Remix](https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Into You \(3LAU Remix\)](https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl) | 3:17 |
 
-Snapshot ID: `MTY0ODg2MDYxNiwwMDAwMDAwMGYwMjZhNmI1MjhlNWU5MTcxOTE3ODM5YmJmM2ZiNTFm`
+Snapshot ID: `MTY0ODk0NzMzMiwwMDAwMDAwMGYwMjZhNmI1MjhlNWU5MTcxOTE3ODM5YmJmM2ZiNTFm`

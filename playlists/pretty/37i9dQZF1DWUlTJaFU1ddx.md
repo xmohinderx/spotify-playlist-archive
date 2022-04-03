@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,081 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,094 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 50 | [Serti Halali](https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Serti Halali](https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A) | 3:57 |
 | 51 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 |
 
-Snapshot ID: `MTY0ODg2MDU0MiwwMDAwMDAwMGNiZTExZjBmYjRiZGE0NDI0YjIyMGZjMTIwMTc4M2Zk`
+Snapshot ID: `MTY0ODk0NzI1MSwwMDAwMDAwMGNiZTExZjBmYjRiZGE0NDI0YjIyMGZjMTIwMTc4M2Zk`

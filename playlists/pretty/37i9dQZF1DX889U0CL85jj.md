@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314,337 likes - 137 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,762 likes - 137 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

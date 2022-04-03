@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=pjjP\_NOrQVis9quc4gWHHQ">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,407 likes - 70 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,469 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ndi Nne](https://open.spotify.com/track/70HFJtyRLVnuA6wqSSuTd8) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Pain Ya Jealous](https://open.spotify.com/album/5KCz5c0mIDM7tg8hjS2Rwn) | 3:59 |
+| 1 | [Ndi Nne](https://open.spotify.com/track/70HFJtyRLVnuA6wqSSuTd8) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Rude Kid Venda](https://open.spotify.com/artist/0tqnHxgNtrG7dp1nRtmAgW) | [Pain Ya Jealous](https://open.spotify.com/album/5KCz5c0mIDM7tg8hjS2Rwn) | 3:59 |
 | 2 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 3 | [Qhawe lam](https://open.spotify.com/track/2moWw0WSvfyZ7bXe1JOtx6) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt), [Nwabisa\-G](https://open.spotify.com/artist/7Ltw3CLOXJkitHCYsg6WTE) | [No one is safe](https://open.spotify.com/album/0XSSaao0CoXo2oGxrauQgQ) | 4:24 |
 | 4 | [dream about you](https://open.spotify.com/track/4d1KlYbovwaUlpP5yjXvgL) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [dream about you](https://open.spotify.com/album/0Grz9An4utW2oAod9pYBvz) | 3:20 |

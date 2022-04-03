@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=NWGv4ytoQ6OiRhZU8zjcpQ" > Joeboy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,119 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,018 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 26 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 | 27 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
 | 28 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
-| 29 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 29 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 30 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 31 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 |
 | 32 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 46 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
 | 47 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 |
 | 48 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 |
-| 49 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 |
+| 49 | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Italy \(feat\. Blaq Diamond\)](https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp) | 3:08 |
 | 50 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 |
 
 Snapshot ID: `MTY0ODc2NzYwMCwwMDAwMDIzNjAwMDAwMTdmZTIzNTA2MzMwMDAwMDE3ZmUwMmYzODQy`

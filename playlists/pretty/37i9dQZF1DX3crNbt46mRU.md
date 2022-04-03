@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,888 likes - 108 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,893 likes - 108 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 49 | [Ready For Your Love](https://open.spotify.com/track/1bTklSZ4YHKCEnGKLVBquU) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ready For Your Love](https://open.spotify.com/album/4nA7YqNDSDrc3f1hJabrz6) | 2:40 |
 | 50 | [The Run\-Around](https://open.spotify.com/track/4uik46ehdPmH3TBeq9w7J2) | [Adrian Sieber](https://open.spotify.com/artist/7qD9Mt483yQTjvgE3y4dV1) | [The Run\-Around](https://open.spotify.com/album/6aHCbwzKJhEnuUFqOBz3UB) | 3:30 |
 | 51 | [Forever Gold](https://open.spotify.com/track/4gvkzozl1zBKCJl8hmzIr0) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Forever Gold](https://open.spotify.com/album/3yeimX9CJX1MSnW9LxggJ8) | 2:52 |
-| 52 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 52 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 53 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 |
 | 54 | [Radio](https://open.spotify.com/track/3gCszsVKVR1khXEZw2z6EB) | [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [thank you for leaving.](https://open.spotify.com/album/7ikUpvARrXzrCL9CvEdYtS) | 2:58 |
 | 55 | [Wolke 7](https://open.spotify.com/track/0dMKGsSdPXA17cUOfg7I8Y) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ) | [Wolke 7](https://open.spotify.com/album/2w0WAimH8rHOG8b7UNEM7t) | 2:03 |

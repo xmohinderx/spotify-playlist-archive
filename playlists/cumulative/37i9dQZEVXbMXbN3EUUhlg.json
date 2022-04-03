@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Assalto Perigoso",
         "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
       },
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -6092,6 +6110,24 @@
     },
     {
       "album": {
+        "name": "Simplesmente Ela",
+        "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "Simplesmente Ela",
+      "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
+    },
+    {
+      "album": {
         "name": "Passado & Presente",
         "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
       },
@@ -6199,7 +6235,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -6326,6 +6362,24 @@
     },
     {
       "album": {
+        "name": "Termina Comigo Antes",
+        "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197690,
+      "name": "Termina Comigo Antes",
+      "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -6399,7 +6453,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 206171,
       "name": "Todo Mundo Menos Voc\u00ea",
       "url": "https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP"

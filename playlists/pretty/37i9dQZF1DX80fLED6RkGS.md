@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=jPbvdDuzSBa7eplGIlGCGw">Breeder LW</a> and <a href="https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=5SpYoiuSRP2Oe9N\-QFBG8Q">Mejja</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,841 likes - 69 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,869 likes - 69 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

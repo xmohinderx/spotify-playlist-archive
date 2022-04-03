@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Alia Bhatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,143 likes - 56 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,485 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

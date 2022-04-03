@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Qo2zphj7u3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Qo2zphj7u3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Qo2zphj7u3)
 
-### Hits Románticos
+### [Hits Románticos](https://open.spotify.com/playlist/0jl0XlOQEsEONv8moCpOdv)
 
 > Éxitos románticos y eternos\. Foto: Alejandro Sanz
 

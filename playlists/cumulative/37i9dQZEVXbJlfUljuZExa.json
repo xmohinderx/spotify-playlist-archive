@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
@@ -3055,7 +3073,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 170813,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5"
@@ -5841,6 +5859,24 @@
       "duration_ms": 223093,
       "name": "Red (Taylor's Version)",
       "url": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6"
+    },
+    {
+      "album": {
+        "name": "RIP, Love",
+        "url": "https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173942,
+      "name": "RIP, Love",
+      "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Murica
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,039 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,056 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 26 | [Reação em Cadeia](https://open.spotify.com/track/3RqlBubbOUhZ5RD8MfjlX6) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Reação em Cadeia](https://open.spotify.com/album/49N0BK3ytpFvP3d8F7GWkh) | 2:11 |
 | 27 | [Pegando o Visual](https://open.spotify.com/track/1Cr1at4S53jcuD6NwEbtvc) | [Hiago Klauz](https://open.spotify.com/artist/5foAnk9CmU51aYkFSSxC0v), [Atmo5th](https://open.spotify.com/artist/7lP7yFKu7pNdQVeZ3yk6H8) | [Pegando o Visual](https://open.spotify.com/album/14DB9jnbK1r6C21fpWwNAk) | 3:20 |
 | 28 | [Guerra às Drogas](https://open.spotify.com/track/5wvqSBoa3ktRQEgMWyr1ow) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Guerra às Drogas](https://open.spotify.com/album/5C6rUc0a2yELXPKV0N7Eyo) | 4:50 |
-| 29 | [Suavy na Base](https://open.spotify.com/track/41pUfNomy3oLg4ParN5wbX) | [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Gimenez](https://open.spotify.com/artist/6VqrYrSmDn83upn4vO3TyJ), [LV](https://open.spotify.com/artist/2NDzKD2Tk03bxnJ3XozG1Q) | [Suavy na Base](https://open.spotify.com/album/3je7yvU258orJz1rimQzIP) | 3:00 |
+| 29 | [Suavy na Base](https://open.spotify.com/track/41pUfNomy3oLg4ParN5wbX) | [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Gimenez](https://open.spotify.com/artist/6VqrYrSmDn83upn4vO3TyJ), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Suavy na Base](https://open.spotify.com/album/3je7yvU258orJz1rimQzIP) | 3:00 |
 | 30 | [Foi Mal Aí](https://open.spotify.com/track/5OoHKyFa8khX9XCeI8aGkt) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Não Me Leve a Mal](https://open.spotify.com/album/2YUDMOSRfyydUqGykgTeF1) | 2:54 |
 | 31 | [SOLTO](https://open.spotify.com/track/0pmHuWQ6n8zYdAjcG85zKA) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/2y9NHQDJMsOMIVY5dECoWe) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/4mgTW0NU3fjNBxHdKOJoRr) | 3:39 |
 | 32 | [Nota de Escurecimento](https://open.spotify.com/track/0iKmIwWJptZgyC1RE0IzRe) | [SKiT](https://open.spotify.com/artist/3Z67tzDH3jktFcaTXhMl6E), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [DJ Kl Jay](https://open.spotify.com/artist/1KXC2cGZkH6XwlcfbkOlHY) | [Isso](https://open.spotify.com/album/2FJfwcoGdU2R3UN6d6npEP) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Joel Corry, Bryson Tiller & David Guetta, Hardwell, J\. Worra & Taylor Moody, Totally Enormous Extinct Dinosaurs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,902,628 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,902,835 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

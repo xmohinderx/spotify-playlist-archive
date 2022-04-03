@@ -1,12 +1,12 @@
 {
   "description": "All the Canadian artists you need to hear this month, handpicked by our curators. Cover: Nonso Amadi",
-  "num_followers": 19773,
+  "num_followers": 19779,
   "original_name": "RADAR Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODg2MDg4OCwwMDAwMDAwMDYzNmRhODlmYTdmYWM0ZTZkZGNkMjE0ZTJkNTBjMDRm",
+  "snapshot_id": "MTY0ODk0NzYzNiwwMDAwMDAwMDYzNmRhODlmYTdmYWM0ZTZkZGNkMjE0ZTJkNTBjMDRm",
   "tracks": [
     {
       "added_at": "2022-04-01 05:22:13",
@@ -190,6 +190,10 @@
         {
           "name": "Jahmal Padmore",
           "url": "https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD"
+        },
+        {
+          "name": "Young Clancy",
+          "url": "https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98"
         }
       ],
       "duration_ms": 207386,
@@ -780,7 +784,7 @@
           "url": "https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo"
         }
       ],
-      "duration_ms": 185579,
+      "duration_ms": 185576,
       "name": "User Friendly",
       "url": "https://open.spotify.com/track/32gWU0LAJPlyOS6WfezGIi"
     },

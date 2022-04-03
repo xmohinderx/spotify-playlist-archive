@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,604 likes - 71 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,608 likes - 71 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 19 | [Crash](https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Crash](https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ) | 3:14 |
 | 20 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
 | 21 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 |
-| 22 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 22 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 23 | [JADED](https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn) | [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [JADED](https://open.spotify.com/album/5mH7POlWSAS7WYlk7kK39E) | 3:10 |
 | 24 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 |
 | 25 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 54 | [Blink \(Feat\. Reddy\) \(Prod\. PATEKO\)](https://open.spotify.com/track/1OAClVF6RGn4WhLf1dPkBD) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:59 |
 | 55 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 |
 | 56 | [Unforgettable](https://open.spotify.com/track/44YVBW6cpHJ9gRD93FIk8R) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Unforgettable](https://open.spotify.com/album/7JNkxkkZ1TAYdtnVxNd0qM) | 3:11 |
-| 57 | [These Walls](https://open.spotify.com/track/2lb3E1YcnExmXYqwFOgcCt) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv), [JFK](https://open.spotify.com/artist/155bZdpGGIoeneTzImF9l8) | [Mind Of My Own](https://open.spotify.com/album/2v4gwys1kCzfqiB4xAFOdR) | 4:09 |
+| 57 | [These Walls](https://open.spotify.com/track/2lb3E1YcnExmXYqwFOgcCt) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv), [Jfk](https://open.spotify.com/artist/5HfOvWKnWXUZSF93fdVaaH) | [Mind Of My Own](https://open.spotify.com/album/2v4gwys1kCzfqiB4xAFOdR) | 4:09 |
 | 58 | [Step By Step](https://open.spotify.com/track/3AWyfblIa1nThi3DU58YrW) | [Braxe & Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Step by Step / Creative Source](https://open.spotify.com/album/77FKqvql03zGTztg9ikAXz) | 4:02 |
 | 59 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 |
 | 60 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 |

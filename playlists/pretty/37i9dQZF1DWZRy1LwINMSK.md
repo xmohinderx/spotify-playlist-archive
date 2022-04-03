@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del Trap chileno\. Foto: AKRIILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,781 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,822 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

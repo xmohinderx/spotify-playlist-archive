@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -4354,6 +4372,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -5001,7 +5037,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 188106,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -6147,7 +6183,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
@@ -6339,7 +6375,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -7165,7 +7201,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -7563,7 +7599,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
@@ -9705,7 +9741,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/2AD3faozZmU71dxlpPO4PJ"
@@ -10141,6 +10177,24 @@
       "duration_ms": 177777,
       "name": "What\u2019s Crackin (feat. Takeoff)",
       "url": "https://open.spotify.com/track/1jbXYNuBFgN0BiNRO2cGov"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "album": {
@@ -11374,6 +11428,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u044a\u0436\u0435 \u043c\u0438\u043b\u0438\u0430\u0440\u0434\u0438",
+        "url": "https://open.spotify.com/album/7y14Wo26iMgHQ8U3WOYzvG"
+      },
+      "artists": [
+        {
+          "name": "Desi Slava",
+          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217617,
+      "name": "\u041c\u044a\u0436\u0435 \u043c\u0438\u043b\u0438\u0430\u0440\u0434\u0438",
+      "url": "https://open.spotify.com/track/1ocox9xxBvjSXVjoBFaxYh"
+    },
+    {
+      "album": {
         "name": "CAESAR",
         "url": "https://open.spotify.com/album/21IaJR7LfaalDFwkGAvP8e"
       },
@@ -11925,7 +11997,7 @@
       ],
       "date_added": "2021-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 264902,
       "name": "\u0422\u0440\u044a\u043f\u043a\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/7jn2HBxZQS1BX4sxMlF3R9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Joss Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,729 likes - 105 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,848 likes - 105 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF"
       },
@@ -3381,7 +3399,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
@@ -5705,7 +5723,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 147720,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
@@ -6505,6 +6523,28 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "Le chemin des braves",
+        "url": "https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "Kongolais mauvais (feat. Ninho)",
+      "url": "https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs"
     },
     {
       "album": {
@@ -9834,6 +9874,28 @@
     },
     {
       "album": {
+        "name": "Le chemin des braves",
+        "url": "https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "On se reverra plus (feat. Gazo)",
+      "url": "https://open.spotify.com/track/0RlsG2tl1JE53HC2zbeGnU"
+    },
+    {
+      "album": {
         "name": "On se reverra plus (feat. Gazo)",
         "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
       },
@@ -10291,7 +10353,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"

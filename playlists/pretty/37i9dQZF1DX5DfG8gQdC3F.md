@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,657 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,830 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 38 | [4KT Baby](https://open.spotify.com/track/3zqDwVKG11BzavbIcnmplp) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto Sampler](https://open.spotify.com/album/3S8yHRsyel6ATHtZdwZyFq) | 2:17 |
 | 39 | [Setlist](https://open.spotify.com/track/4E500ArzZSmQdNdWGXXXTx) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Setlist](https://open.spotify.com/album/3qo3c4frcvgizpJqvNnCA6) | 2:31 |
 | 40 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
-| 41 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
+| 41 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
 | 42 | [Cabin Fever](https://open.spotify.com/track/47qUuorQq8bxuU2ndzvt0K) | [Ricardo Manuel](https://open.spotify.com/artist/2BijUEIPYEm32yiAidXMNx) | [A Lot On My Mind](https://open.spotify.com/album/7vh0aKRYJBJoDmQFVr2Mxx) | 3:21 |
 | 43 | [Buss It All Down](https://open.spotify.com/track/5YIMpr7jfTKCtLFbQG4d0g) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Buss It All Down](https://open.spotify.com/album/6EA6H72DCG2EZyk8LZ1CCQ) | 2:21 |
 | 44 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 |

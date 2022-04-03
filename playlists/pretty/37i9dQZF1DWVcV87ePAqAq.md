@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,208 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,227 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 53 | [Vegas](https://open.spotify.com/track/5kKCyBmkdOsq7sRWvSkCEc) | [Richie Krisak](https://open.spotify.com/artist/4GZyuNo5MIQ38IqfIMpIOQ), [Ivar Lisinski](https://open.spotify.com/artist/6oOlcyS4ENFeZq2CIlxIOU) | [Vegas](https://open.spotify.com/album/4gpz9SH73iCgtc1mm8j4NO) | 3:05 |
 | 54 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 55 | [SOS](https://open.spotify.com/track/6nDKrPlXdpomGBgAlO7UdP) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [SOS](https://open.spotify.com/album/7Jx7doYIXITyR2LQB0Hvbc) | 2:37 |
-| 56 | [Heaven Is a Place on Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 |
+| 56 | [Heaven Is a Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 |
 | 57 | [Jag trodde änglarna fanns](https://open.spotify.com/track/3qy7P1Vr6eGIwHP9DCUHwK) | [Kamferdrops](https://open.spotify.com/artist/3LzHaN3Y3gT35BudaFqVyy) | [Jag trodde änglarna fanns](https://open.spotify.com/album/5EUJmddQzrWArF7xJnI5vT) | 3:10 |
 | 58 | [Mister Cool](https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe) | [Snook](https://open.spotify.com/artist/79tTZzeIjEwOE6JMHG5eBS) | [Vi vet inte vart vi ska men vi ska komma dit](https://open.spotify.com/album/3lRmZBFANx5bmzUO3o5ThT) | 3:07 |
 | 59 | [Beautiful People \(feat\. Khalid\) \- Jack Wins Remix](https://open.spotify.com/track/7fvUMiyapMsRRxr07cU8Ef) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt) | [Beautiful People \(feat\. Khalid\) \[Jack Wins Remix\]](https://open.spotify.com/album/2yiy9cd2QktrNvWC2EUi0k) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 99 | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/track/1kAZhbcsXqfUjnVeqPywn2) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/album/6lBwAGqF8Mi7vvPb4pUj7q) | 3:22 |
 | 100 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 
-Snapshot ID: `MTY0ODg2MDU2NSwwMDAwMDAwMDE2N2EzMThhNmZmY2ExOGQxNWY1NTBiYjUyZTY3YTA1`
+Snapshot ID: `MTY0ODk0NzI3NiwwMDAwMDAwMDE2N2EzMThhNmZmY2ExOGQxNWY1NTBiYjUyZTY3YTA1`

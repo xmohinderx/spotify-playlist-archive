@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 
 > Sweet acoustic love songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,726 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,730 likes - 85 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

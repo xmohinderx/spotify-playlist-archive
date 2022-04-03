@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,907 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,067 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Te Amaré Toda la Vida](https://open.spotify.com/track/38Xl6yvYoEXl6cQB4LJkVK) | [Trio Fantasia](https://open.spotify.com/artist/2APenj3Xk0M7dVCtFZGm3X) | [Bolerísimo](https://open.spotify.com/album/5tTmmdEgSQC0fve2PJAu09) | 2:47 |
 | 100 | [Tú me acostumbraste](https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [100th Birthday Celebration](https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf) | 2:43 |
 
-Snapshot ID: `MTY0ODg2MDc4NSwwMDAwMDAwMDY2YmM0ZDE0ZjBlYTUwYzAxYTc3YWQwODhmODU4MGE4`
+Snapshot ID: `MTY0ODk0NzUyMSwwMDAwMDAwMDY2YmM0ZDE0ZjBlYTUwYzAxYTc3YWQwODhmODU4MGE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,439 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,572 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 34 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 |
 | 35 | [Heart So Big](https://open.spotify.com/track/6jOfKvLoIdKu7UARpK2sMw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Heart So Big](https://open.spotify.com/album/1bJIKiiVhod9BiTuQtGVYM) | 3:36 |
 | 36 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 |
-| 37 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 37 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 38 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
 | 39 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 |
 | 40 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 |

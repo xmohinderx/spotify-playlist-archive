@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [La Voix](https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo) | [La Voix du Nord](https://open.spotify.com/album/5aOtux3Yx9MZV7IBhSVV5B) | 2:57 |
 | 52 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 
-Snapshot ID: `MTY0ODg2MDY2NiwwMDAwMDAwMDQ5ZGY3ZGFmNDhhZTgyNzlhYmQzMGNlMTAzYzA5NWU2`
+Snapshot ID: `MTY0ODk0NzM4OSwwMDAwMDAwMDQ5ZGY3ZGFmNDhhZTgyNzlhYmQzMGNlMTAzYzA5NWU2`

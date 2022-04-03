@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,230 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,265 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [Familiar Song](https://open.spotify.com/track/3DnP2FfQRJ2LrHHhZwiBlf) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Familiar Song](https://open.spotify.com/album/3MKRWWBF1E0jLIWGhwRp5K) | 5:20 |
 | 21 | [Trinity Song \- Live](https://open.spotify.com/track/7EZTwfaE0nahlAQfNqjxhO) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Dinah Wright](https://open.spotify.com/artist/3DoebjvyyBsKQbEEehyz4S) | [Trinity Song \(Live\)](https://open.spotify.com/album/6nxEYzAHijfM6W8i645aBw) | 5:29 |
 | 22 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 |
-| 23 | [There Is Freedom \- Studio Version](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom \(Studio Version\)](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
+| 23 | [There Is Freedom](https://open.spotify.com/track/1p3ozrPkurjwHYmKBeftLs) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [There Is Freedom](https://open.spotify.com/album/3BtwEvDpbV59BWaApYfAjT) | 3:58 |
 | 24 | [Breathe \(feat\. Chandler Moore, Jonathan McReynolds, DOE & Mav City Gospel Choir\) \- Studio Version](https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 5:26 |
 | 25 | [The Detour \- Live](https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [The Detour \(Live\)](https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5) | 6:41 |
 | 26 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/2mqy9sPe3Qj1hPrnQdvimJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/album/3s52obJaSkltal3K0Noeza) | 8:01 |

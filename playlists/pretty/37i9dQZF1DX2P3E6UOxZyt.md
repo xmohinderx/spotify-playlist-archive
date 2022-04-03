@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 2022 RADAR 新勢力
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,591 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,609 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [你為了我撐把傘](https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [你為了我撐把傘](https://open.spotify.com/album/1QArFdN4JJzfqEAlxovWGg) | 4:13 |
 | 60 | [在打在](https://open.spotify.com/track/3Kl6J9XdFk0nWnHIaevtjw) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:20 |
 
-Snapshot ID: `MTY0ODg2MDc4MywwMDAwMDAwMGUwZWRhMDg5ZGU4MWUwY2NlMTBhMWUxNWJjN2VmYmZm`
+Snapshot ID: `MTY0ODk0NzUxOSwwMDAwMDAwMGUwZWRhMDg5ZGU4MWUwY2NlMTBhMWUxNWJjN2VmYmZm`

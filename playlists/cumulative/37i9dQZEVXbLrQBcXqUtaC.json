@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Ala Albal",
         "url": "https://open.spotify.com/album/4VsJStcFPyvJCji3oLTSnZ"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 242682,
       "name": "Ba'ad Gheyabo",
       "url": "https://open.spotify.com/track/5IrCAaccJtrbuPRnCYoWrQ"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 161763,
       "name": "Elghazala Ray2a (feat. Mohamed Osama)",
       "url": "https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu"
@@ -2070,6 +2088,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369626,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
+    },
+    {
+      "album": {
         "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -2343,7 +2387,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 207562,
       "name": "Habibi kedab",
       "url": "https://open.spotify.com/track/4qJoRxOciPO5Mz3n2IVX3S"
@@ -3103,7 +3147,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -3895,7 +3939,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
@@ -4265,7 +4309,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
@@ -4465,7 +4509,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -5503,7 +5547,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 191013,
       "name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
       "url": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
@@ -6177,7 +6221,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -6311,7 +6355,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -6823,7 +6867,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
@@ -7039,7 +7083,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT"
@@ -7057,7 +7101,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -7527,7 +7571,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 241799,
       "name": "\u0634\u064a\u0644\u0629 \u0637\u0631\u0628 \u062d\u0645\u0627\u0633\u064a\u0629",
       "url": "https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U"

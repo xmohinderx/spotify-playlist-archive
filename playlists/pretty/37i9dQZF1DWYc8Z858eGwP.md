@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=72b74BypQluwufnMm3M8Cw">Focalistic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,956 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,038 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:33 |
-| 2 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
-| 3 | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/track/7MQ2FWFVuim1L1O3wXjkdZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 3:50 |
+| 2 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
+| 3 | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/track/7MQ2FWFVuim1L1O3wXjkdZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 3:50 |
 | 4 | [Godly](https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 2:55 |
 | 5 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
 | 6 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |

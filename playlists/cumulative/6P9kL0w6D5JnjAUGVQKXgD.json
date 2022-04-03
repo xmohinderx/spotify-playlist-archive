@@ -7445,7 +7445,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 166451,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/7meYZpw3rMFAQdhu79yLFa"
@@ -9592,7 +9592,7 @@
         },
         {
           "name": "DANIEL",
-          "url": "https://open.spotify.com/artist/6qsiMQuyuKWVFezUtgLvG7"
+          "url": "https://open.spotify.com/artist/3vK6ebjqWolsmiQZpF9B8q"
         }
       ],
       "date_added": "2022-04-01",
@@ -21165,6 +21165,28 @@
       "duration_ms": 184715,
       "name": "The Feelings",
       "url": "https://open.spotify.com/track/4hGZ3RITe8oHRKeancaA1h"
+    },
+    {
+      "album": {
+        "name": "The G.O.A.T.",
+        "url": "https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201914,
+      "name": "The G.O.A.T.",
+      "url": "https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ"
     },
     {
       "album": {

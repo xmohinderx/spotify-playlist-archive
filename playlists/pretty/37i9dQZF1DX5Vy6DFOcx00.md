@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,677 likes - 137 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,437 likes - 137 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 58 | [I Bet U Won't](https://open.spotify.com/track/4jpU6zDVX7KS2w9A7t9vGZ) | [Mouse and Level](https://open.spotify.com/artist/3rXP9cC5RG73e6Z6oipYQ6) | [Get It While Its Hot](https://open.spotify.com/album/1xyK3dQaiA3pGoNnVyTCXQ) | 3:22 |
 | 59 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
 | 60 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 |
-| 61 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 61 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 62 | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS) | 2:23 |
 | 63 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 |
 | 64 | [No Maidens](https://open.spotify.com/track/6Nsd4mGJvY26lskUvZw8VK) | [Crispy Concords](https://open.spotify.com/artist/1h0e8ZIxm1ZgJC2BnUkW4G), [Soup](https://open.spotify.com/artist/3eZPsIuruBfwMDD4JhTqqE), [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [No Maidens](https://open.spotify.com/album/4a8gSqdojP8e0at1EtOZsp) | 1:50 |

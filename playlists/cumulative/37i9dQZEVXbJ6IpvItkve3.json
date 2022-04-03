@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -3730,6 +3748,24 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+        "url": "https://open.spotify.com/album/0g8BA4sp4H8RTgYepBt0uI"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199622,
+      "name": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+      "url": "https://open.spotify.com/track/5cENOu6Era495FYzmGsCsd"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d9\u05d7\u05d3",
         "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
       },
@@ -4031,7 +4067,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 161485,
       "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
       "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
@@ -5345,7 +5381,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 224062,
       "name": "\u05de\u05e7\u05d1\u05dc \u05e2\u05dc \u05e2\u05e6\u05de\u05d9",
       "url": "https://open.spotify.com/track/0taqIIB89cQQoiA8ZDukWf"
@@ -6165,7 +6201,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbUMEWUyV9JB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbUMEWUyV9JB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbUMEWUyV9JB)
 
-### Super Cumbias
+### [Super Cumbias](https://open.spotify.com/playlist/4hXhb06SfkzPU69NYrwfU0)
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Raymix
 

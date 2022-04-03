@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,675 likes - 97 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,683 likes - 97 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 24 | [Crash](https://open.spotify.com/track/7Er5mOX9HNLnRvnCdZ0IGp) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Crash](https://open.spotify.com/album/3wtNj85mEqOoBUjSKqO4CJ) | 3:14 |
 | 25 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
 | 26 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 |
-| 27 | [These Walls](https://open.spotify.com/track/2lb3E1YcnExmXYqwFOgcCt) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv), [JFK](https://open.spotify.com/artist/155bZdpGGIoeneTzImF9l8) | [Mind Of My Own](https://open.spotify.com/album/2v4gwys1kCzfqiB4xAFOdR) | 4:09 |
+| 27 | [These Walls](https://open.spotify.com/track/2lb3E1YcnExmXYqwFOgcCt) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv), [Jfk](https://open.spotify.com/artist/5HfOvWKnWXUZSF93fdVaaH) | [Mind Of My Own](https://open.spotify.com/album/2v4gwys1kCzfqiB4xAFOdR) | 4:09 |
 | 28 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
 | 29 | [Home Is Where You Are](https://open.spotify.com/track/0zZPHXUDKKSkqlw3Gras1S) | [Kevin Ruenda](https://open.spotify.com/artist/70tuEoTxKMakDVQ7m2ka0L) | [Home Is Where You Are](https://open.spotify.com/album/7hJRQLbvgPqHzN01NNiN5U) | 3:03 |
-| 30 | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like \(pretty little liar\)](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
+| 30 | [this is what heartbreak feels like](https://open.spotify.com/track/33aLws184a7SVqraKuDqI3) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what heartbreak feels like](https://open.spotify.com/album/1QkRzqv1FTMR9R0MIUsiNy) | 2:37 |
 | 31 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 |
 | 32 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 |
 | 33 | [High Scores](https://open.spotify.com/track/2in1e8uQgfGd7okCGjXxMx) | [Oz the Oddz](https://open.spotify.com/artist/6YeoGVnJh6nzJxeTaxEbqt), [Da Kriss](https://open.spotify.com/artist/5T36gsEr88LWYglfk5uAtq) | [High Scores](https://open.spotify.com/album/2t7PmRSppHFu1wO11K2KSR) | 2:30 |

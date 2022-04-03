@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,957,397 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957,846 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 59 | [Amnesia](https://open.spotify.com/track/7fcK4YURteFjgPMslwGDpY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [The Gringo Guide To Rock En Español](https://open.spotify.com/album/4nGZyu9iNUNBDqq92ZiyR9) | 4:01 |
 | 60 | [Aun](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 |
 
-Snapshot ID: `MTY0ODg2MDY1OCwwMDAwMDAwMGYxMjgxMDZhYjk5MDQ5ZjY2ZWFiODRjNDM1Njc3ZGRk`
+Snapshot ID: `MTY0ODk0NzM4MCwwMDAwMDAwMGYxMjgxMDZhYjk5MDQ5ZjY2ZWFiODRjNDM1Njc3ZGRk`

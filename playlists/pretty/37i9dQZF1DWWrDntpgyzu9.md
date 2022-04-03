@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,179 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,227 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 49 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
 | 50 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 
-Snapshot ID: `MTY0ODg2MDYxMCwwMDAwMDAwMGM4Y2QxODZkYWFhNjBlMjE1ZmUxMjU4NTZkYjM0M2E1`
+Snapshot ID: `MTY0ODk0NzMyNiwwMDAwMDAwMGM4Y2QxODZkYWFhNjBlMjE1ZmUxMjU4NTZkYjM0M2E1`

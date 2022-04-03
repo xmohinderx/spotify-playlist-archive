@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,452 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,625 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 67 | [Sonder](https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Poetry In Motion](https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY) | 3:09 |
 | 68 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 |
 | 69 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 |
-| 70 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/6l5RzWFu2h9nHQJDMqbXRj) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
+| 70 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Celia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
 | 71 | [YoYo](https://open.spotify.com/track/04fM1KOXn3p5hbPwNtDSaG) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES](https://open.spotify.com/album/0j55fKR1TUL5qGH5AeQxn8) | 3:05 |
 | 72 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 |
 | 73 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 |

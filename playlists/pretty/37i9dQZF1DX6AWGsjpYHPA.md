@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,563 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,768 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 39 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 40 | [Tjomme \- DJ Koze Remix](https://open.spotify.com/track/01EWHtr2PejHSQMwh3Z4G9) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Tjomme \(DJ Koze Remix\)](https://open.spotify.com/album/1iFqVaX3nil4bBBl7oxEVv) | 6:02 |
 | 41 | [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 |
-| 42 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/6l5RzWFu2h9nHQJDMqbXRj) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
+| 42 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Celia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
 | 43 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 44 | [Burning Plain](https://open.spotify.com/track/7xTuPspAQq5eYeqfFXFOZw) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [Burning Plain](https://open.spotify.com/album/6N0mndapBpl8Z2KH0xpXu4) | 4:53 |
 | 45 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 |
 | 75 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 |
 
-Snapshot ID: `MTY0ODg2MDkwNiwwMDAwMDAwMGU5YmQwODk0NjY4YzA5ZjJiYTcwNDQxNTc0Yzc1MjJi`
+Snapshot ID: `MTY0ODk0NzY1NywwMDAwMDAwMGU5YmQwODk0NjY4YzA5ZjJiYTcwNDQxNTc0Yzc1MjJi`

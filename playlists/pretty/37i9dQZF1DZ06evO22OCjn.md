@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,021 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,081 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 36 | [Donne\-moi l’accord](https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:06 |
 | 37 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 |
 | 38 | [Monsters You Made \(feat\. Chris Martin\)](https://open.spotify.com/track/2cerDm5EbuTNJ68EIMtrF2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:37 |
-| 39 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
+| 39 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
 | 40 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 |
 | 41 | [Sekkle Down \(feat\. J Hus\)](https://open.spotify.com/track/1ffHMFXSsQ2E9he6SL3uLT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:08 |
 | 42 | [Miss You Bad](https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:56 |

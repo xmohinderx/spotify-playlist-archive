@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Nonso Amadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,773 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,779 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 8 | [Picture](https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Picture](https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj) | 2:36 |
 | 9 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 |
 | 10 | [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 |
-| 11 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
+| 11 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 |
 | 12 | [Average](https://open.spotify.com/track/5oGv0ZLflQyVEWWnZZ8rxf) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Average](https://open.spotify.com/album/6W8ppczgwXKHeLuJK6xAvg) | 2:10 |
 | 13 | [Backseat](https://open.spotify.com/track/648gleJ2Sm8A8DX56kbr35) | [Mountain Head](https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O) | [Backseat](https://open.spotify.com/album/5oVwzNfFTpAx9pTrtzqTOr) | 3:27 |
 | 14 | [NASTY GIRL](https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 99 | [Crime of the Century](https://open.spotify.com/track/6VLrRwqYS9tHYRdWdBlMAL) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Crime of the Century](https://open.spotify.com/album/3KFAfbgxPVWzvvENkeFxOv) | 2:49 |
 | 100 | [Animals](https://open.spotify.com/track/71NICVYcw7O7dGTZCxTuPr) | [Dakota North](https://open.spotify.com/artist/3jSpqzexmaN7fAcJ0R7pNx) | [Animals](https://open.spotify.com/album/0P6sKlV8Vt9WmKYEheKfHt) | 2:46 |
 
-Snapshot ID: `MTY0ODg2MDg4OCwwMDAwMDAwMDYzNmRhODlmYTdmYWM0ZTZkZGNkMjE0ZTJkNTBjMDRm`
+Snapshot ID: `MTY0ODk0NzYzNiwwMDAwMDAwMDYzNmRhODlmYTdmYWM0ZTZkZGNkMjE0ZTJkNTBjMDRm`

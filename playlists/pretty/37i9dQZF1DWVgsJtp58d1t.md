@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,357 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,441 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 47 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 | 48 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 |
 | 49 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 |
-| 50 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
+| 50 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Reloaded\)](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
 | 51 | [ROSE STREET](https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ROSE STREET](https://open.spotify.com/album/7CndERmuISXqBYNk7poimm) | 2:33 |
 | 52 | [LOVE4FREE](https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:03 |
 | 53 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 |
 | 99 | [COMING](https://open.spotify.com/track/1oI95ixqkwg9wlFPGbkU8u) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [COMING](https://open.spotify.com/album/5s0VOTBnMRMVR3W4t68U47) | 2:53 |
 
-Snapshot ID: `MTY0ODg2MDU2NywwMDAwMDAwMDIzOTYyYThjOGQ1ZWE1MWM5ODY5MmNlOTJhMzAxMDkz`
+Snapshot ID: `MTY0ODk0NzI3OSwwMDAwMDAwMDIzOTYyYThjOGQ1ZWE1MWM5ODY5MmNlOTJhMzAxMDkz`

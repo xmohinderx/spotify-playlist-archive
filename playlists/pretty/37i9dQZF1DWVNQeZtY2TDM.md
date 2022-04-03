@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover:  Kumachan \(熊仔\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,973 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,998 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 6 | [21HOMEBOYZ](https://open.spotify.com/track/6W53OB0GfDaMhZgpgPCM0q) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [AW](https://open.spotify.com/artist/6BMS5grJY6gsXaPu1X4r5g), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [21HOMEBOYZ](https://open.spotify.com/album/6DVUGUDeDOHa52rToU9FG4) | 4:14 |
 | 7 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 |
 | 8 | [泪滴](https://open.spotify.com/track/7MUJed6wxjpvihLRdMknyv) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [xxxmiracle](https://open.spotify.com/artist/7xYZRDldU67u8GTyVYYLxQ) | [泪滴](https://open.spotify.com/album/3AIKtdToKusXLGGqoTQVjJ) | 3:24 |
-| 9 | [舊城](https://open.spotify.com/track/46XujnP1KxIDhAnPAvkqYL) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [蘭城話](https://open.spotify.com/album/7pNKhc081nerzXBBaAEIIt) | 2:41 |
+| 9 | [舊城](https://open.spotify.com/track/46XujnP1KxIDhAnPAvkqYL) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9), [OLDWAYS](https://open.spotify.com/artist/3iOZxDuBYzVxVBWmHOOwAI) | [蘭城話](https://open.spotify.com/album/7pNKhc081nerzXBBaAEIIt) | 2:41 |
 | 10 | [巷弄多情 \(Flossy\)](https://open.spotify.com/track/6OOvWj5yxBjIA8BLryy6Tq) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW), [Gil.G](https://open.spotify.com/artist/5djEKQT5LKhpOwtdB5Zcbq) | [巷弄多情 \(Flossy\)](https://open.spotify.com/album/7jGIO5vP9SBN1c2uSR6W8h) | 3:01 |
 | 11 | [Coming Baby](https://open.spotify.com/track/7Ha6Rb1fMFIjil93GFYxiN) | [律野](https://open.spotify.com/artist/3SzEb1o4vTFG4AU7lEkhSx), [evis wy](https://open.spotify.com/artist/6kyeNO9cloEMxQ1c7FVXC6) | [Coming Baby](https://open.spotify.com/album/2PBuxbh1tZHvq5RLPUzj9s) | 3:34 |
 | 12 | [Raingang \(feat\. Jessie.C & ZENBØ \)](https://open.spotify.com/track/07dCJAMCidbSuERYS4GDEo) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz), [Jessie.C](https://open.spotify.com/artist/3UGnBssh3rolZx5hyelLYY), [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [Raingang \(feat\. Jessie.C & ZENBØ \)](https://open.spotify.com/album/1paJ7vDYsblQ4Xvu1XOHIF) | 3:38 |

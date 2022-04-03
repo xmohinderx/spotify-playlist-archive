@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171690,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH"
+    },
+    {
+      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 108775,
       "name": "65 Millones - En Vivo",
       "url": "https://open.spotify.com/track/6EuUufFoPvlh4PQi687ryG"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 204520,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/4e4t1qNN47CzmCxFffzs4U"
@@ -834,6 +852,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/23G5DUbLk1DAKmnykuVvgm"
       },
@@ -875,6 +911,24 @@
       "duration_ms": 120766,
       "name": "Ba Ba Ba",
       "url": "https://open.spotify.com/track/1JKdn4C4ZIqSY3N1skU6dP"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "badtrip :(",
+      "url": "https://open.spotify.com/track/3t2ANh6j5JnTCDkVRBsukB"
     },
     {
       "album": {
@@ -2201,7 +2255,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -2661,6 +2715,24 @@
       "duration_ms": 164096,
       "name": "Esa Cruz",
       "url": "https://open.spotify.com/track/7dlFn4xJYAg8hdp9mdz9Zr"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138510,
+      "name": "ESCALOFR\u00cdOS",
+      "url": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7"
     },
     {
       "album": {
@@ -4014,6 +4086,28 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -4534,6 +4628,24 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144130,
+      "name": "LINDOR",
+      "url": "https://open.spotify.com/track/3mEoWn2r5tobVKgV0UP4Ck"
+    },
+    {
+      "album": {
         "name": "Llego El Real Remix",
         "url": "https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8"
       },
@@ -4803,7 +4915,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 157115,
       "name": "Los Illuminaty",
       "url": "https://open.spotify.com/track/4WOmUK3ngIuHqqdgka0DN2"
@@ -4949,7 +5061,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 163373,
       "name": "Mango Pi\u00f1a",
       "url": "https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a"
@@ -5055,6 +5167,28 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "MEMORIAS",
+      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
     },
     {
       "album": {
@@ -5353,7 +5487,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -5893,7 +6027,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 210333,
       "name": "PARA SIEMPRE",
       "url": "https://open.spotify.com/track/272vIYVYzfAgHUQRUYWmhP"
@@ -6043,6 +6177,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171976,
+      "name": "PECADO",
+      "url": "https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO"
     },
     {
       "album": {
@@ -6253,6 +6405,28 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "PLAYA PRIVADA",
+      "url": "https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L"
     },
     {
       "album": {
@@ -6475,7 +6649,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 192613,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
@@ -6734,6 +6908,24 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174916,
+      "name": "ROBERT DE NIRO",
+      "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
+    },
+    {
+      "album": {
         "name": "Rochy RD X Anuel AA (LOS ILLUMINATY) [Radio Edit]",
         "url": "https://open.spotify.com/album/3o0AXFonj6LxXS7Lk5dyao"
       },
@@ -6781,7 +6973,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
@@ -6953,7 +7145,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
@@ -7103,7 +7295,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
@@ -7143,7 +7335,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
@@ -7319,6 +7511,28 @@
       "duration_ms": 255606,
       "name": "Si Te Veo",
       "url": "https://open.spotify.com/track/661BAtQVPGlDZ097DzN1hJ"
+    },
+    {
+      "album": {
+        "name": "Si Tu Me Busca",
+        "url": "https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272053,
+      "name": "Si Tu Me Busca",
+      "url": "https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE"
     },
     {
       "album": {
@@ -8157,6 +8371,28 @@
       "duration_ms": 197763,
       "name": "Tukuntaso",
       "url": "https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "album": {

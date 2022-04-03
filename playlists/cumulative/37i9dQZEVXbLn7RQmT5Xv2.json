@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 229933,
       "name": "El Fatra Di",
       "url": "https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 189000,
       "name": "Feeha La Khfeeha",
       "url": "https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj"
@@ -3529,7 +3547,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 209490,
       "name": "Mamlaka",
       "url": "https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra"
@@ -4543,6 +4561,24 @@
       "duration_ms": 238720,
       "name": "RAKAM 1 DA MESH ENTA",
       "url": "https://open.spotify.com/track/79TzqzCK34xg5R3p1uTcAu"
+    },
+    {
+      "album": {
+        "name": "Ramadan Fi Masr Haja Taniah",
+        "url": "https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Ramadan Fi Masr Haja Taniah",
+      "url": "https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh"
     },
     {
       "album": {
@@ -5827,7 +5863,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-03",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT"
@@ -5845,7 +5881,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -6049,7 +6085,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 154106,
       "name": "\u0628\u0648\u063a\u0627\u062a\u064a",
       "url": "https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D"

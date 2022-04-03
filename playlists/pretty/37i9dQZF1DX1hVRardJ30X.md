@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Enrique Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,435 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,508 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 |
-| 2 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Microdosis](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
+| 2 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
 | 3 | [Si Tu Me Busca](https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Si Tu Me Busca](https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu) | 4:32 |
 | 4 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 |
 | 5 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 |

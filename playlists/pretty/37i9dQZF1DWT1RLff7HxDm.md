@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,623 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,704 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
 | 60 | [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 |
 
-Snapshot ID: `MTY0ODg2MDQ4NiwwMDAwMDAwMDhlNGYxNzM2YjEyMjk4YTg1MTMwYTMxNzYwZDVkMzg4`
+Snapshot ID: `MTY0ODk0NzE4OSwwMDAwMDAwMDhlNGYxNzM2YjEyMjk4YTg1MTMwYTMxNzYwZDVkMzg4`

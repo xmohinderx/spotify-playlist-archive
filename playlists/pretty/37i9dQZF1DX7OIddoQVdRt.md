@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,913 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,983 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 |
 | 40 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 
-Snapshot ID: `MTY0ODg2MDk0NywwMDAwMDAwMDNkM2FlMWY0YjUyZDM3ZTM3OWMwZDM4OThhMmRiYWE0`
+Snapshot ID: `MTY0ODk0NzcwMiwwMDAwMDAwMDNkM2FlMWY0YjUyZDM3ZTM3OWMwZDM4OThhMmRiYWE0`

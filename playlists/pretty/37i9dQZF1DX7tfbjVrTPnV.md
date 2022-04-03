@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,687 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,779 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [1970 \- 1987](https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj) | 3:56 |
 | 150 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
 
-Snapshot ID: `MTY0ODg2MDk2MSwwMDAwMDAwMDMyNGFhOTc0ODg4YjdjZWE5MjQ0NjI1ZTZmMTRhNWVj`
+Snapshot ID: `MTY0ODk0NzcxNywwMDAwMDAwMDMyNGFhOTc0ODg4YjdjZWE5MjQ0NjI1ZTZmMTRhNWVj`

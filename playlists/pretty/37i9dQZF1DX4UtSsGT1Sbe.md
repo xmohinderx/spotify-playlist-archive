@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,326,937 likes - 150 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,330,294 likes - 150 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 53 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
 | 54 | [St\. Elmos Fire \(Man in Motion\)](https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [St\. Elmo's Fire \- Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/70P9doc1EAqyb36gRmaPcU) | 4:11 |
 | 55 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:31 |
-| 56 | [Heaven Is a Place on Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 |
+| 56 | [Heaven Is a Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 |
 | 57 | [You're the Voice](https://open.spotify.com/track/5NwkWwfRJaT55hEPtCmJHx) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Collections](https://open.spotify.com/album/2kzUFnhuzdPxp33ncA1ovM) | 5:02 |
 | 58 | [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 |
 | 59 | [The Look](https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
 | 150 | [Sweet Little Mystery](https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 3:44 |
 
-Snapshot ID: `MTY0ODg2MDg0NywwMDAwMDAwMGYwYjEwMzAyNzEyNjc1NTQxM2JjNTE5NzcyZTVkMzYw`
+Snapshot ID: `MTY0ODk0NzU5MSwwMDAwMDAwMGYwYjEwMzAyNzEyNjc1NTQxM2JjNTE5NzcyZTVkMzYw`

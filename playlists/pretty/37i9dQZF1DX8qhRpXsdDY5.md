@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,133 likes - 98 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,123 likes - 98 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 97 | [Christmas Through Your Eyes](https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 5:00 |
 | 98 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3ckZlXpLQyUF0xYYl11MlL) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 4:00 |
 
-Snapshot ID: `MTY0ODg2MDk4OCwwMDAwMDAwMDUxZTc4NGY5ZWUzN2ZjMzA4MGM3ZTU2OWMyNzYxOWZh`
+Snapshot ID: `MTY0ODk0Nzc0OCwwMDAwMDAwMDUxZTc4NGY5ZWUzN2ZjMzA4MGM3ZTU2OWMyNzYxOWZh`
