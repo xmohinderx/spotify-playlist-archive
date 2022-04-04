@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Maybelle Carter, Gene Autry, Merle Travis
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,737 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,771 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Mine All Mine](https://open.spotify.com/track/37JYiW2iUfiL14xL75ZV5M) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Forever More](https://open.spotify.com/album/5TB5K6paT1ISEQUwkIV2rs) | 3:01 |
 | 70 | [Columbus Stockade Blues](https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Nobody's Darlin' but Mine](https://open.spotify.com/album/7B2laG1q8xu5H0V6whC3nb) | 2:45 |
 
-Snapshot ID: `MTY0ODk0NzQ2OCwwMDAwMDAwMGMwNWI2NzRmY2U5ZTkyOTlkYTViOWUzNjQ0NGJjOTUw`
+Snapshot ID: `MTY0OTAzMzcwOSwwMDAwMDAwMGMwNWI2NzRmY2U5ZTkyOTlkYTViOWUzNjQ0NGJjOTUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,941 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,037 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 49 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 50 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 |
 
-Snapshot ID: `MTY0ODk0NzgxOCwwMDAwMDAwMDY3MjY3OWI4ZjI1NzVmOWQ5NjcwZDJlZTg2Zjg5NjAz`
+Snapshot ID: `MTY0OTAzMzk5NiwwMDAwMDAwMDY3MjY3OWI4ZjI1NzVmOWQ5NjcwZDJlZTg2Zjg5NjAz`

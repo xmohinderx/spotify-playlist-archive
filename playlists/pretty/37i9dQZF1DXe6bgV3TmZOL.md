@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,183 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,665 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Wouldn't You Rather](https://open.spotify.com/track/6v3n1Ps1F3xnaiIgSdz98v) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Take The Crown](https://open.spotify.com/album/6DAFforPtoYDjndJxPaJUr) | 3:49 |
 | 120 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 |
 
-Snapshot ID: `MTY0ODk0NzkyNywwMDAwMDAwMDAzODc5NzZkZDgzYjgwMmNlMjA2MmQxYWZhZWFiNmRi`
+Snapshot ID: `MTY0OTAzNDA4MSwwMDAwMDAwMDAzODc5NzZkZDgzYjgwMmNlMjA2MmQxYWZhZWFiNmRi`

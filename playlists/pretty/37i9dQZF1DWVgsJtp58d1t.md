@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,441 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,490 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 |
 | 99 | [COMING](https://open.spotify.com/track/1oI95ixqkwg9wlFPGbkU8u) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [COMING](https://open.spotify.com/album/5s0VOTBnMRMVR3W4t68U47) | 2:53 |
 
-Snapshot ID: `MTY0ODk0NzI3OSwwMDAwMDAwMDIzOTYyYThjOGQ1ZWE1MWM5ODY5MmNlOTJhMzAxMDkz`
+Snapshot ID: `MTY0OTAzMzU1OCwwMDAwMDAwMDIzOTYyYThjOGQ1ZWE1MWM5ODY5MmNlOTJhMzAxMDkz`

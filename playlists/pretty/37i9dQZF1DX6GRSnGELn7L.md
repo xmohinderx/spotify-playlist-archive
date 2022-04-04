@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,701 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,786 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 99 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 |
 | 100 | [Paradox](https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr) | [Paradox](https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY) | 6:05 |
 
-Snapshot ID: `MTY0ODk0NzY2MSwwMDAwMDAwMDVlYTgxMjVjYmNiNDA2MzQ4Yzc0MmNmMzc0ZGY4ZWVj`
+Snapshot ID: `MTY0OTAzMzg2OCwwMDAwMDAwMDVlYTgxMjVjYmNiNDA2MzQ4Yzc0MmNmMzc0ZGY4ZWVj`

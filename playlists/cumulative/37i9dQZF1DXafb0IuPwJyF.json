@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Creepy Nuts",
+  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: \u85e4\u4e95 \u98a8",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -276,6 +276,28 @@
     },
     {
       "album": {
+        "name": "Because He's Kind",
+        "url": "https://open.spotify.com/album/2oFErcpXPJbcNc1wGLFxIr"
+      },
+      "artists": [
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225312,
+      "name": "Celebration feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3qr1ENpnnLvJcn3MmFwuXA"
+    },
+    {
+      "album": {
         "name": "Chopstick",
         "url": "https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S"
       },
@@ -421,7 +443,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 153602,
       "name": "Dreaming of you",
       "url": "https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF"
@@ -711,7 +733,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 209400,
       "name": "I CAN'T STOP ME - Japanese ver.",
       "url": "https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL"
@@ -841,7 +863,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 180992,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/0191FF9MiuL3tYETgZp3hq"
@@ -877,7 +899,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 263074,
       "name": "Meidaimae",
       "url": "https://open.spotify.com/track/231UG79D3cxclM5WAkLWrO"
@@ -1040,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "Penguin's Detour",
+        "url": "https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215842,
+      "name": "Penguin's Detour",
+      "url": "https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19"
+    },
+    {
+      "album": {
         "name": "POP SONG",
         "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
       },
@@ -1055,6 +1095,24 @@
       "duration_ms": 199186,
       "name": "POP SONG",
       "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264807,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN"
     },
     {
       "album": {
@@ -1193,6 +1251,24 @@
       "duration_ms": 282986,
       "name": "Small World",
       "url": "https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp"
+    },
+    {
+      "album": {
+        "name": "Talking Box (Dirty Pop Remix) / SPACESHIP",
+        "url": "https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242863,
+      "name": "SPACESHIP",
+      "url": "https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d"
     },
     {
       "album": {
@@ -1335,7 +1411,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 128978,
       "name": "Talking Box (Dirty Pop Remix)",
       "url": "https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2"
@@ -1617,7 +1693,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -2055,7 +2131,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 204086,
       "name": "\u30a2\u30f4\u30a1\u30f3",
       "url": "https://open.spotify.com/track/5E9Et7pF14k8XGTKwY99CC"
@@ -2265,7 +2341,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 213600,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
@@ -2834,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u306f\u5e7b",
+        "url": "https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS"
+      },
+      "artists": [
+        {
+          "name": "Koki Okamoto",
+          "url": "https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207195,
+      "name": "\u541b\u306f\u5e7b",
+      "url": "https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z"
+    },
+    {
+      "album": {
         "name": "\u544a\u767d",
         "url": "https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv"
       },
@@ -2853,6 +2947,24 @@
       "duration_ms": 240400,
       "name": "\u544a\u767d",
       "url": "https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA"
+    },
+    {
+      "album": {
+        "name": "\u5927\u4eba\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240031,
+      "name": "\u5927\u4eba\u306b\u306a\u3063\u3066",
+      "url": "https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl"
     },
     {
       "album": {
@@ -2903,7 +3015,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 171546,
       "name": "\u5e38\u7dd1",
       "url": "https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP"
@@ -3101,7 +3213,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 214441,
       "name": "\u6469\u5929\u697c",
       "url": "https://open.spotify.com/track/4xHKYFUmIRjpW98hbuvwWm"
@@ -3155,7 +3267,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 225178,
       "name": "\u66b4\u5f92",
       "url": "https://open.spotify.com/track/178b6lGvEzd3RcHRvUQfl0"
@@ -3177,6 +3289,24 @@
       "duration_ms": 221167,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30c0\u30d7\u30c8",
+        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+      },
+      "artists": [
+        {
+          "name": "Sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u6708\u306e\u6900",
+      "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
     },
     {
       "album": {
@@ -3231,6 +3361,24 @@
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
+    },
+    {
+      "album": {
+        "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
+        "url": "https://open.spotify.com/album/2rAIEvDcCLxjTG2tMqtuXl"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
+      "url": "https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm"
     },
     {
       "album": {
@@ -3389,7 +3537,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 255173,
       "name": "\u8896\u306e\u30ad\u30eb\u30c8",
       "url": "https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA"
@@ -3468,6 +3616,24 @@
     },
     {
       "album": {
+        "name": "TOUGH PLAY",
+        "url": "https://open.spotify.com/album/24nihP1XbYvWErFyDVdvIU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209270,
+      "name": "\u9031\u4f118\u65e5",
+      "url": "https://open.spotify.com/track/6BFDhlDTca7DBR4xu0N8Kc"
+    },
+    {
+      "album": {
         "name": "\u9032\u3081!\u305d\u3063\u3061\u3060!",
         "url": "https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG"
       },
@@ -3519,6 +3685,24 @@
       "duration_ms": 197449,
       "name": "\u90a6\u753b",
       "url": "https://open.spotify.com/track/4zfsk7inEPq0PawGyU6oHi"
+    },
+    {
+      "album": {
+        "name": "\u9154\u3072\u3082\u305b\u3059/\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222303,
+      "name": "\u9154\u3072\u3082\u305b\u3059",
+      "url": "https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,535 likes - 115 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,636 likes - 115 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 114 | [Temporal](https://open.spotify.com/track/4k40DjgzGdOCk4s6dleAF1) | [Dglo73](https://open.spotify.com/artist/5oN16nxjhWp5SNJoo5lraf) | [Magic](https://open.spotify.com/album/6KrFrHat4saT2DBNqtuPSo) | 2:57 |
 | 115 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
 
-Snapshot ID: `MTY0ODk0NzkxMiwwMDAwMDAwMGVhMDM5MGFhYzc3MmQ3ODc5NGM3NjE4NTA4Y2ViZDM3`
+Snapshot ID: `MTY0OTAzNDA2OCwwMDAwMDAwMGVhMDM5MGFhYzc3MmQ3ODc5NGM3NjE4NTA4Y2ViZDM3`

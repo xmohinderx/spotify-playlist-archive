@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 237459,
       "name": "100 MILLONES",
       "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157161,
+      "name": "12",
+      "url": "https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV"
       },
@@ -59,7 +81,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 199760,
       "name": "24/7",
       "url": "https://open.spotify.com/track/62Y7rHyh2Xl5j3976T4tMD"
@@ -77,7 +99,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 172229,
       "name": "737",
       "url": "https://open.spotify.com/track/6zT237u8Kb2VTtwBVTPpbe"
@@ -153,7 +175,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 253894,
       "name": "Babymama",
       "url": "https://open.spotify.com/track/77ashwth70ow3HR1IuVhiD"
@@ -231,7 +253,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 288282,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
@@ -349,7 +371,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 244029,
       "name": "DIVA - REMIX",
       "url": "https://open.spotify.com/track/5KVYfrtp5Zxns9XiqsjlRT"
@@ -371,7 +393,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 208896,
       "name": "Drug Dealer",
       "url": "https://open.spotify.com/track/0I3UatrHgOu864I8a9SL0b"
@@ -411,7 +433,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
@@ -499,7 +521,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 279471,
       "name": "FCK U X2",
       "url": "https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K"
@@ -517,7 +539,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 187331,
       "name": "FEEL ME??",
       "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
@@ -553,7 +575,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 154587,
       "name": "Hmm",
       "url": "https://open.spotify.com/track/7Gtx4i1zh875u3k5AmaPpS"
@@ -571,7 +593,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 162151,
       "name": "HOY COBR\u00c9",
       "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
@@ -657,7 +679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 353187,
       "name": "La Baby - Remix",
       "url": "https://open.spotify.com/track/0OTD397qbsyyKKPbord11z"
@@ -675,7 +697,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 157440,
       "name": "La Nueva Pandemia",
       "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
@@ -727,7 +749,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 249280,
       "name": "Las Leyendas Nunca Mueren (feat. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/5EQdno4273dP9myMTtEiDN"
@@ -745,7 +767,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 152888,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/3FLu4MpmiIPbRjmTUHT0z4"
@@ -789,7 +811,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 205733,
       "name": "Los De Siempre",
       "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 145403,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/7kMEULSicpabScwQenlnK7"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 218139,
       "name": "Milloneta",
       "url": "https://open.spotify.com/track/6U2fTWEr4MffXBDSMr2ML2"
@@ -895,6 +917,28 @@
       "duration_ms": 180821,
       "name": "Nikes, Diamantes y Skinnies",
       "url": "https://open.spotify.com/track/5uN1KfOgIAEKcUjANVlHvM"
+    },
+    {
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190206,
+      "name": "No Me Importa un Carajo",
+      "url": "https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR"
     },
     {
       "album": {
@@ -1069,7 +1113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 185880,
       "name": "SACA Y PON",
       "url": "https://open.spotify.com/track/6m9NdgXWS9EUQeDdenWViF"
@@ -1087,7 +1131,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 119880,
       "name": "Sauce Boy Freestyle 4",
       "url": "https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D"
@@ -1113,7 +1157,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 259310,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr"
@@ -1327,7 +1371,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 165482,
       "name": "Wassap",
       "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
@@ -1357,7 +1401,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 250352,
       "name": "Whattsup",
       "url": "https://open.spotify.com/track/3oubh64l6xElX8En3SomTM"
@@ -1383,7 +1427,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
@@ -1417,7 +1461,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 316074,
       "name": "Wow - Remix",
       "url": "https://open.spotify.com/track/23eecknvvR5iFTcuS9Dkfd"

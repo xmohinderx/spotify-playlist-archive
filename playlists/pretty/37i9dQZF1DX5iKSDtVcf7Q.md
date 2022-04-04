@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,398 likes - 104 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,394 likes - 104 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [Runnin' Outta Moonlight](https://open.spotify.com/track/7CL6oaDC9d0QXFMQRkNBmy) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/1Wcnyz2zYWLIPZ1K63RXdW) | 3:13 |
 | 104 | [It's About Time](https://open.spotify.com/track/4ZjW3IXjJA3ONmniNwccrf) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [It's About Time](https://open.spotify.com/album/3JiekXuBbmf1SBKtqvV5Dy) | 3:47 |
 
-Snapshot ID: `MTY0ODk0NzY0MywwMDAwMDAwMGI4OThjYjlhODg1MzVkODE1ZDAwNWUxZmQ0MGFlNDAz`
+Snapshot ID: `MTY0OTAzMzg1MywwMDAwMDAwMGI4OThjYjlhODg1MzVkODE1ZDAwNWUxZmQ0MGFlNDAz`

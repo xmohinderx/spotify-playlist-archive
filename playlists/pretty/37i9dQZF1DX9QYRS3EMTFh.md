@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,124 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,162 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Skin Fit](https://open.spotify.com/track/2atvj9otOqIen4CELIbaR0) | [Stiekz](https://open.spotify.com/artist/4rUyoXMYnuqiPeYhFSAjF2), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Ya Skin Fit](https://open.spotify.com/album/7as7BKLUNomHcfn8ig0yXs) | 2:21 |
 | 2 | [Mojo](https://open.spotify.com/track/6kPpbxAtg5QNDGkgvWR30I) | [Alicia Aylies](https://open.spotify.com/artist/5aqWI4xTCVhwGW1MmYEomT) | [Mojo](https://open.spotify.com/album/232Cj6dreD65MStuTs1yIN) | 3:07 |
 | 3 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 |
-| 4 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
+| 4 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 5 | [Super Bae](https://open.spotify.com/track/5uiSL5KX6qdvNnaDvpAKHq) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Super Bae](https://open.spotify.com/album/1Snpt0fbUYC6A0q7HTYqfr) | 3:04 |
 | 6 | [Manslaughter](https://open.spotify.com/track/76XPtMKet4TM5RE9bOejdF) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59) | [Manslaughter](https://open.spotify.com/album/0Pw1KzR7hPbh1pce9nTlIW) | 2:01 |
 | 7 | [Weekend](https://open.spotify.com/track/5WMGYicc8RIo80wdcbiLTx) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Weekend](https://open.spotify.com/album/3Z6ZcEMuSZcYSImbBwrOBD) | 3:10 |

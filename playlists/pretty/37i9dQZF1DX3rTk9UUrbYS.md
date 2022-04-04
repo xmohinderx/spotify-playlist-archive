@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,291 likes - 50 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,314 likes - 50 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Crescent](https://open.spotify.com/track/4zg0iYZ0PM6iYLUDbvr76B) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Anthology](https://open.spotify.com/album/0pTrvb720Q5pz4R4pnn9U5) | 6:22 |
 | 50 | [Bugatti \(étude\)](https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Bugatti \(étude\)](https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl) | 4:14 |
 
-Snapshot ID: `MTY0ODk0NzU3MiwwMDAwMDAwMDY0MWIzNWVkODdkY2JhMGE4Y2FlMmYwNzNjNDc4MmE5`
+Snapshot ID: `MTY0OTAzMzc5NywwMDAwMDAwMDY0MWIzNWVkODdkY2JhMGE4Y2FlMmYwNzNjNDc4MmE5`

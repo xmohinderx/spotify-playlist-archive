@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 100 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,850 likes - 100 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 99 | [L.D\. Blues](https://open.spotify.com/track/1ayeOKqBxxcIQIdbRnAbqB) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 5:19 |
 | 100 | [Second Balcony Jump \- Rudy Van Gelder Edition](https://open.spotify.com/track/2bkbV4FxwOAmgPTJHnCWgg) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:05 |
 
-Snapshot ID: `MTY0ODk0NzgyNCwwMDAwMDAwMGZmMDFjMjhlNTZjN2RkYjdmNTdhNTNmYzc3YzkyM2Ey`
+Snapshot ID: `MTY0OTAzNDAwMiwwMDAwMDAwMGZmMDFjMjhlNTZjN2RkYjdmNTdhNTNmYzc3YzkyM2Ey`

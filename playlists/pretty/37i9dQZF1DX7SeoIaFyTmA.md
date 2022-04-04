@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,413 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,922 likes - 90 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 89 | [Mi Gente](https://open.spotify.com/track/7dC0ojtXZWBD6vIOD42AYT) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante de los Cantantes](https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK) | 5:27 |
 | 90 | [El Flautista](https://open.spotify.com/track/5GGv0RlVG44W9iWpkSs1XR) | [Chino Pons](https://open.spotify.com/artist/4tKFI6lopXDLrKcJzHomIE), [Grupo Irek](https://open.spotify.com/artist/5TeDM7sx05NzLElTyjCbzY) | [Mueve Despacito](https://open.spotify.com/album/6zpQXsDcRxw4dGhDcb6S1N) | 4:55 |
 
-Snapshot ID: `MTY0ODk0NzcwNCwwMDAwMDAwMDE0YmNhMjVkYWQ5MmQ3MjMwODVmODI5MGM0ZTBlNGUy`
+Snapshot ID: `MTY0OTAzMzkwNCwwMDAwMDAwMDE0YmNhMjVkYWQ5MmQ3MjMwODVmODI5MGM0ZTBlNGUy`

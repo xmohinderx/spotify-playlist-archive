@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: IMELDA, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,758 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,847 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 57 | [$low Burn](https://open.spotify.com/track/32WSgYvov1hhAWb0tHOvSN) | [prettyboymusic](https://open.spotify.com/artist/20JBPDB7nAsicTpU1ArdC6) | [$low Burn](https://open.spotify.com/album/1DBbSjNUqeyPWcr1LeQq0I) | 2:15 |
 | 58 | [Luna](https://open.spotify.com/track/0RSVWDuassbABQo2qqqYiI) | [From The Sea](https://open.spotify.com/artist/2wWMwIE0QFcnj4JDwYo5A5), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ), [Dave Lamar](https://open.spotify.com/artist/1AH17j7Zox4KSR0FldL8M6) | [From The Sea](https://open.spotify.com/album/2SEG5KY1qzrRb89ODOSDmy) | 3:47 |
 | 59 | [bored.](https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl) | [Beatsilog](https://open.spotify.com/artist/6TZouLjmWgL00bVKZcxUM6) | [bored.](https://open.spotify.com/album/38DShZ2neHNkCopeUtr7a8) | 3:42 |
-| 60 | [I'm so in Love with You](https://open.spotify.com/track/4A6Wup6zfnxAQCKRpcL2nV) | [Lore](https://open.spotify.com/artist/60jmkHNDXxsRh4BbBBRydk) | [I'm so in Love with You](https://open.spotify.com/album/6TyuMqzvCLQQY0ZeI8gzCh) | 4:04 |
+| 60 | [I'm so in Love with You](https://open.spotify.com/track/4A6Wup6zfnxAQCKRpcL2nV) | [Lore](https://open.spotify.com/artist/1JimOf5CYakRKYYGA5MG5l) | [I'm so in Love with You](https://open.spotify.com/album/6TyuMqzvCLQQY0ZeI8gzCh) | 4:04 |
 | 61 | [Liquor Store](https://open.spotify.com/track/6cw1ll9vASe37FuM8ImX9D) | [Absynth](https://open.spotify.com/artist/5uwfzY8TY1sKqCFek1d0z7) | [Liquor Store](https://open.spotify.com/album/3P4JFXf0XkIlYlLT1T8Q7J) | 4:08 |
 | 62 | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/track/0tsa13Pm3HhXhiWgnspGVH) | [VENTT.](https://open.spotify.com/artist/3hj3jyvxEW3Xd8c3iTUNZP) | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/album/5w8Hj7xf4J3kdsIwuDbQLB) | 4:06 |
 | 63 | [Forget About You](https://open.spotify.com/track/0tlBOMHdKqqoCppc2bKRoY) | [Sunshine Laput](https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5) | [Forget About You](https://open.spotify.com/album/6qrTsFqPoioJaHWi3A9LPd) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,524 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,618 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [Mayor que yo](https://open.spotify.com/track/4n4CBlQVxxnU0MHGO5Mqv3) | [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Infinite summer](https://open.spotify.com/album/5jAs6j5Dbpqo1Zr7QcZAoP) | 4:09 |
 | 100 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 
-Snapshot ID: `MTY0ODk0NzU3NiwwMDAwMDAwMGFiYTYwYzRhYmVjNGI2YTc1YmUyNTA3MTEyY2Y4ZTlj`
+Snapshot ID: `MTY0OTAzMzgwMCwwMDAwMDAwMGFiYTYwYzRhYmVjNGI2YTc1YmUyNTA3MTEyY2Y4ZTlj`

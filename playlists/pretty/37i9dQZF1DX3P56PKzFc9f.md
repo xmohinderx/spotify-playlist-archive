@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 
 > Home is where the heart is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,968 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,004 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 | 74 | [Gone 2 Long](https://open.spotify.com/track/22EPQ6xpDvFxDVCoU10uJe) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases \- EP](https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z) | 3:15 |
 | 75 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 
-Snapshot ID: `MTY0ODk0NzU1OSwwMDAwMDAwMDNhZTg4OTQxMjM5MmE3OWExMGM0NGFmMDUxODlmMzAx`
+Snapshot ID: `MTY0OTAzMzc4NywwMDAwMDAwMDNhZTg4OTQxMjM5MmE3OWExMGM0NGFmMDUxODlmMzAx`

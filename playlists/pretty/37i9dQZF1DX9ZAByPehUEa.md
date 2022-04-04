@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,877 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,946 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 50 | [Sage comme une image \- Good as Gold](https://open.spotify.com/track/2sjd0qvJ5t49KHIYueVBdO) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Sage comme une image \(Good as Gold\)](https://open.spotify.com/album/01OGxc61qn6dxDbOVj3gmI) | 3:56 |
 
-Snapshot ID: `MTY0ODk0Nzc3MywwMDAwMDAwMDliMGQzZDY0Yjk2Zjc1MWUyNzcwNWI3MzhmNmZkOWNh`
+Snapshot ID: `MTY0OTAzMzk2MSwwMDAwMDAwMDliMGQzZDY0Yjk2Zjc1MWUyNzcwNWI3MzhmNmZkOWNh`

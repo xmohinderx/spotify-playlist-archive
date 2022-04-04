@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > daydreaming, u? cover: flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,483 likes - 154 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,474 likes - 154 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

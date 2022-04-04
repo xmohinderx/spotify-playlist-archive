@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Savannah Ré
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,067 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,150 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Gone](https://open.spotify.com/track/0epiqMIMIoRpgIEryIU63G) | [Training Season](https://open.spotify.com/artist/0nsTvhODP9ZYbxC0KePYSQ) | [Gone](https://open.spotify.com/album/16RO08TDCJFIoOTU3zIjdw) | 2:43 |
 | 100 | [Signs](https://open.spotify.com/track/3iccRZL7pfvsrTearGjkw1) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Signs](https://open.spotify.com/album/6kKa0FQVC8JhvM9q6B7FMP) | 2:43 |
 
-Snapshot ID: `MTY0ODc4NTY2MCwwMDAwMDI2ZDAwMDAwMTdmZTM0ODk4ZWMwMDAwMDE3ZmUwN2UwNDg2`
+Snapshot ID: `MTY0OTAxNjU2MCwwMDAwMDI2ZTAwMDAwMTdmZjEwYmRhNDMwMDAwMDE3ZmUwN2UwNDg2`

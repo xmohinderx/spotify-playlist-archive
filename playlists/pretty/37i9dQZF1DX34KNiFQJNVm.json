@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Israel & Rodolffo, Harry Styles, Karol Conk\u00e1 e mais!",
-  "num_followers": 1739238,
+  "num_followers": 1739719,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
         }
       ],
-      "duration_ms": 160370,
+      "duration_ms": 130000,
       "name": "Golpe da Malvadona",
       "url": "https://open.spotify.com/track/6GN79wZIpK0WDzy4receDW"
     },
@@ -183,6 +183,30 @@
       "duration_ms": 210782,
       "name": "Click Click",
       "url": "https://open.spotify.com/track/6alYP3Evm5VVWuvaEQFyln"
+    },
+    {
+      "added_at": "2022-04-01 22:18:55",
+      "album": {
+        "name": "Vampiro",
+        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
     },
     {
       "added_at": "2022-04-01 22:18:55",
@@ -1732,8 +1756,8 @@
           "url": "https://open.spotify.com/artist/3mRXxBNJb2YDNuSAGEl3Mw"
         },
         {
-          "name": "Ear Kid",
-          "url": "https://open.spotify.com/artist/27LEINgN8kACqS7qdHcDmm"
+          "name": "EarKid",
+          "url": "https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8"
         }
       ],
       "duration_ms": 150517,

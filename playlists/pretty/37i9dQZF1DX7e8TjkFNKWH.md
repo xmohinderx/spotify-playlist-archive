@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,816 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,069 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 | 149 | [Insomnia](https://open.spotify.com/track/6YUUQapDEqBF1yP3iHlsut) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rewind \- The Collection](https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B) | 3:27 |
 | 150 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
 
-Snapshot ID: `MTY0ODk0NzcxMCwwMDAwMDAwMDI3MjdiMTE1ZjY5YjNkYjVlMTI3OTJjYzQxOTUzMGEw`
+Snapshot ID: `MTY0OTAzMzkwOSwwMDAwMDAwMDI3MjdiMTE1ZjY5YjNkYjVlMTI3OTJjYzQxOTUzMGEw`

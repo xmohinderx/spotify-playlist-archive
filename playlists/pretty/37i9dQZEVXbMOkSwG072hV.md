@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,251 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,244 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Tuf Tuf Pof Pof](https://open.spotify.com/track/5IgFVuxghOxiIYRnjUsqi1) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1), [DJ Malicia](https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW), [Mc Babu](https://open.spotify.com/artist/7oeudIVqIvznvUPrvivH5W), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Taisinha](https://open.spotify.com/artist/5WVufVc0pvVNvzyDHoRWLe) | [Tuf Tuf Pof Pof](https://open.spotify.com/album/4h7QfGIwKtRwi3KZ27LVdj) | 2:42 |
 | 50 | [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 |
 
-Snapshot ID: `NzAyMjM0MzgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzAyMzEzNjMzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

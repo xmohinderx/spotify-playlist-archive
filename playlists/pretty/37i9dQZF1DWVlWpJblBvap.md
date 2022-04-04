@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,371 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,542 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 25 | [I Will Wait \- Live](https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait: Silence The Noise \(Live\)](https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd) | 4:56 |
 | 26 | [Future](https://open.spotify.com/track/1z01NnUSANXoI9xABwxn1k) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Altars](https://open.spotify.com/album/2GOJyVPMpNaOo4UbvgRoT3) | 3:46 |
 | 27 | [Promises](https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Vol\. 3 Part 1](https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n) | 10:46 |
-| 28 | [Goodness Of God](https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon) | [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Goodness of God \- EP](https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n) | 4:18 |
+| 28 | [Goodness of God](https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon) | [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Goodness of God \- EP](https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n) | 4:18 |
 | 29 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 30 | [How Great Is Your Love](https://open.spotify.com/track/3lqLz5HJ7JFMcOKMNIH3Uo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope \(The House Sessions\)](https://open.spotify.com/album/6ErkVAL9VJWPLFZa8AWNrQ) | 6:34 |
 | 31 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 |
 | 80 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 |
 
-Snapshot ID: `MTY0ODk0NzI4NCwwMDAwMDAwMGEzZTZiNGI0NTI4MDY1MWMzZTNjYjBiZmQzOTEyOTFi`
+Snapshot ID: `MTY0OTAzMzU2MiwwMDAwMDAwMGEzZTZiNGI0NTI4MDY1MWMzZTNjYjBiZmQzOTEyOTFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Harry Styles, Shawn Mendes, Kehlani & Justin Bieber, Lil Tjay, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,881,908 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,882,217 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

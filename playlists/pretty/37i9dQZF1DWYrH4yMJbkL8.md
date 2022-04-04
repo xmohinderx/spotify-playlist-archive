@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Jason Benoit
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,686 likes - 24 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,690 likes - 24 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 23 | [Indian Moon](https://open.spotify.com/track/3D70CWH5aMeIsfIazEif46) | [The Chieftones](https://open.spotify.com/artist/4GJgL0UJeen6mSkKIvxQzg) | [Wa\-Chic\-Ka\-Nocka](https://open.spotify.com/album/0AUzYEioXx2yoYpNy6iymj) | 2:55 |
 | 24 | [The Mi'kmaq Honour Song](https://open.spotify.com/track/29fyAPnj38vR2BPwTdj2zg) | [Eastern Eagle](https://open.spotify.com/artist/2OU3WYEu1l3s9T5llBmC22) | [It Gives Us Life: Powwow](https://open.spotify.com/album/76iIF6hsQzgXDv1F3UqphZ) | 6:33 |
 
-Snapshot ID: `MTY0ODk0NzM5NSwwMDAwMDAwMDhkMGI5NGM0MWVlODc3MGY0NjQ4ODY2ZGZmNjBkZjJh`
+Snapshot ID: `MTY0OTAzMzY1MiwwMDAwMDAwMDhkMGI5NGM0MWVlODc3MGY0NjQ4ODY2ZGZmNjBkZjJh`

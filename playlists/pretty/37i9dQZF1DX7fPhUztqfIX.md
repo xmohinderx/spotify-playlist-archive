@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,807 likes - 130 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,856 likes - 130 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 42 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
 | 43 | [Real Thing](https://open.spotify.com/track/5tnc2byIAzr9JwoOiIQWo0) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Real Thing](https://open.spotify.com/album/584F5hDrbibgUwJeu29aAk) | 5:08 |
 | 44 | [Through Every Season](https://open.spotify.com/track/3zuYsncHhi4YFxE88yeeDe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Through Every Season](https://open.spotify.com/album/4yOnEBUS4TAPmbSdT3c7ZZ) | 6:06 |
-| 45 | [Goodness Of God](https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon) | [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Goodness of God \- EP](https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n) | 4:18 |
+| 45 | [Goodness of God](https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon) | [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Goodness of God \- EP](https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n) | 4:18 |
 | 46 | [How Deep](https://open.spotify.com/track/3EIApilvbtOjjiOdMewQq8) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi), [Joseph Piergallini](https://open.spotify.com/artist/11kv86Gg64YdUWcH9WhI7u) | [How Deep](https://open.spotify.com/album/38N7WIHreJ8lhfVYKwx4FW) | 4:48 |
 | 47 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
 | 48 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 |
 | 130 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
 
-Snapshot ID: `MTY0ODk0NzcxMSwwMDAwMDAwMDQ5YTQ2MGM2ZDA4ZTAxNmRkYzZiOTM4NTE4MWUyNDQ1`
+Snapshot ID: `MTY0OTAzMzkxMCwwMDAwMDAwMDQ5YTQ2MGM2ZDA4ZTAxNmRkYzZiOTM4NTE4MWUyNDQ1`

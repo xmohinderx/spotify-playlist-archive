@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,057 likes - 115 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,179 likes - 115 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

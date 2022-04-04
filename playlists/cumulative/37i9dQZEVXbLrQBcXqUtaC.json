@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 259191,
       "name": "Al Sourah",
       "url": "https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 577280,
       "name": "Ashofak Kil Youm",
       "url": "https://open.spotify.com/track/3SPxrgsmCxj11dMzJw9TgF"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 144466,
       "name": "Bip Bip",
       "url": "https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 248413,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 395520,
       "name": "Ghazal Ma Yensady",
       "url": "https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 207562,
       "name": "Habibi kedab",
       "url": "https://open.spotify.com/track/4qJoRxOciPO5Mz3n2IVX3S"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-28",
+      "date_removed": null,
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
@@ -3085,7 +3085,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 239655,
       "name": "Kalby Jobarny - Live",
       "url": "https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8"
@@ -3129,6 +3129,24 @@
       "duration_ms": 177516,
       "name": "Kent Ahebik",
       "url": "https://open.spotify.com/track/7M4naaZsceXAjDUZ7XNZ8g"
+    },
+    {
+      "album": {
+        "name": "Khaliji Westcoast",
+        "url": "https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t"
+      },
+      "artists": [
+        {
+          "name": "BAWS",
+          "url": "https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154932,
+      "name": "Khaliji Westcoast",
+      "url": "https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ"
     },
     {
       "album": {
@@ -3563,7 +3581,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -4788,6 +4806,24 @@
     },
     {
       "album": {
+        "name": "OMMI",
+        "url": "https://open.spotify.com/album/08xW3v7YYGL2coOjCDTPER"
+      },
+      "artists": [
+        {
+          "name": "BAWS",
+          "url": "https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "OMMI",
+      "url": "https://open.spotify.com/track/6xFehAsaKJYClqja52y2h5"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -5697,7 +5733,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 424333,
       "name": "Shan El Zaman",
       "url": "https://open.spotify.com/track/749Pn4iL4Uo0pSJCV56CyD"
@@ -6957,7 +6993,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 214857,
       "name": "\u0623\u062f\u0639\u062c \u0639\u064a\u0648\u0646",
       "url": "https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4"

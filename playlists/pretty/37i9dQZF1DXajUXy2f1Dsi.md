@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,369 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,368 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 49 | [Piazzolla: Estaciónes porteñas: I\. Verano Porteño](https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC), [Héctor Console](https://open.spotify.com/artist/1WhJevvVMI2nQxyp2gYQTU) | [Piazzolla et al : Mi Buenos Aires querido](https://open.spotify.com/album/1O7WR5Ucg8yP3UnO9h4A3a) | 5:35 |
 | 50 | [Symphonic Scherzo, Op\. 30, "El festin de los enanos"](https://open.spotify.com/track/00BNoSSYtv2huW6gtmFJL9) | [José Rolón](https://open.spotify.com/artist/6obRNlWBjJszUdoS7wm6nY), [Nuremberg Symphony Orchestra](https://open.spotify.com/artist/0PQnsTU4RL8NHZmtDJ6lFg), [Gregor Bühl](https://open.spotify.com/artist/51417FE0yJpn4FYJAKPY86) | [Mexican Piano Concertos](https://open.spotify.com/album/2C1vfrTVGOsS4eD4zAjE5q) | 7:57 |
 
-Snapshot ID: `MTY0ODk0NzgxNSwwMDAwMDAwMGMyMjg4NjczY2ViM2E5MmE4ZmU4M2YzYTRlYzJiYzAw`
+Snapshot ID: `MTY0OTAzMzk5NCwwMDAwMDAwMGMyMjg4NjczY2ViM2E5MmE4ZmU4M2YzYTRlYzJiYzAw`

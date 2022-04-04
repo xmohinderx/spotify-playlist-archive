@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 
 > A swinging soundtrack for your drivetime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,854 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,925 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1kQRulpEn.md) - [plain]
 | 99 | [The Outlaw \- Remastered](https://open.spotify.com/track/0AVsLKbGvkZTN3728YE44l) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Further Explorations By The Horace Silver Quintet](https://open.spotify.com/album/0CwBhf4CsMHvZcBlQpqjwN) | 6:07 |
 | 100 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
 
-Snapshot ID: `MTY0ODk0Nzc3OSwwMDAwMDAwMDQzOWU3ZWRiODUxMDkzMmQ4MTBlYjg2YTQ3MDhhOGQx`
+Snapshot ID: `MTY0OTAzMzk2NiwwMDAwMDAwMDQzOWU3ZWRiODUxMDkzMmQ4MTBlYjg2YTQ3MDhhOGQx`

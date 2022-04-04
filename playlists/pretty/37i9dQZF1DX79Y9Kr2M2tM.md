@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,880 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,943 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 |
 | 100 | [One Summer](https://open.spotify.com/track/3kzBPAyFRlDwPCv3DThqEE) | [Corrina Repp](https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz) | [One Summer](https://open.spotify.com/album/7G4VkdbeDYofyeyzDdJ71P) | 4:38 |
 
-Snapshot ID: `MTY0ODk0NzY5MCwwMDAwMDAwMGQ4NDFiZTU4MGQ5M2RhOTFiMzgwOGE1OTc1M2YwYWUw`
+Snapshot ID: `MTY0OTAzMzg5MiwwMDAwMDAwMGQ4NDFiZTU4MGQ5M2RhOTFiMzgwOGE1OTc1M2YwYWUw`

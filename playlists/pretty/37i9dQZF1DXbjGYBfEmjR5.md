@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,351 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,575 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Colorful](https://open.spotify.com/track/53xrAv7XytICW94kWDjQoH) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Colorful](https://open.spotify.com/album/77B2ZiXhYYSqbSbt14h0Bb) | 2:35 |
 | 100 | [Journey](https://open.spotify.com/track/3zdzuZCTpZUzWXEggYzVJN) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Journey](https://open.spotify.com/album/4yCmeh4MPTugT67AgoxXph) | 4:20 |
 
-Snapshot ID: `MTY0ODk0Nzg0NSwwMDAwMDAwMDZiYWJiMzRjZGI3ZWRhNjA5N2NjYTJhOThmYTFlN2U5`
+Snapshot ID: `MTY0OTAzNDAyMSwwMDAwMDAwMDZiYWJiMzRjZGI3ZWRhNjA5N2NjYTJhOThmYTFlN2U5`

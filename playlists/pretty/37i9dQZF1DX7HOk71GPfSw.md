@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > UMRU\_snare\_bespoke.wav
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,621 likes - 123 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,912 likes - 123 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 |
 | 2 | [what's on your mind? \(feat\. funeral\)](https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [earcandy](https://open.spotify.com/album/4WHDYlEmaJFXGCEZOfgCeT) | 3:28 |
 | 3 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 |
-| 4 | [IN THE WALLS](https://open.spotify.com/track/2THOkbfhTdXNwAwwQbs1Dt) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [IN THE WALLS](https://open.spotify.com/album/0U3j66fWowOLjlMgu4fWvZ) | 1:51 |
-| 5 | [Nowhere](https://open.spotify.com/track/4LLzmSCHHtwYtqCCKfMUSO) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Nowhere](https://open.spotify.com/album/13kxeJXf5oidt7ofOm0R9D) | 2:08 |
-| 6 | [ache](https://open.spotify.com/track/2HkysUlkqHuFLpt71lECl4) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD) | [ache](https://open.spotify.com/album/00glpondCGUHWwNqCSoCqB) | 3:14 |
+| 4 | [Nowhere](https://open.spotify.com/track/4LLzmSCHHtwYtqCCKfMUSO) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Nowhere](https://open.spotify.com/album/13kxeJXf5oidt7ofOm0R9D) | 2:08 |
+| 5 | [ache](https://open.spotify.com/track/2HkysUlkqHuFLpt71lECl4) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD) | [ache](https://open.spotify.com/album/00glpondCGUHWwNqCSoCqB) | 3:14 |
+| 6 | [IN THE WALLS](https://open.spotify.com/track/2THOkbfhTdXNwAwwQbs1Dt) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [IN THE WALLS](https://open.spotify.com/album/0U3j66fWowOLjlMgu4fWvZ) | 1:51 |
 | 7 | [losin my mind](https://open.spotify.com/track/4I6p1e6U3tAPTDb7x12GYc) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [emotegi](https://open.spotify.com/artist/0EZi1A6N8QYNTuA3D9KwB5), [Aj simons](https://open.spotify.com/artist/2Hg3jEqEsp1jThhvybP0HX) | [comfort noise](https://open.spotify.com/album/0xdxVPOEDH8DUbpV0O6srR) | 2:34 |
 | 8 | [Bozo bozo bozo \- carolesdaughter Version](https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Bozo bozo bozo \(carolesdaughter Version\)](https://open.spotify.com/album/6SejkbqnyThvvqGpMa3C1R) | 2:38 |
 | 9 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 122 | [Party By Myself](https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Party By Myself](https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF) | 2:13 |
 | 123 | [Rose Coloured Ear Drums](https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BIG KILL FUTURE](https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45) | 2:58 |
 
-Snapshot ID: `MTY0ODgxOTM1NCwwMDAwMDE0ODAwMDAwMTdmZTU0YWJhMTkwMDAwMDE3ZmJlYjIwZjRm`
+Snapshot ID: `MTY0OTAxOTA2MCwwMDAwMDE0OTAwMDAwMTdmZjEzMjAxNjcwMDAwMDE3ZmJlYjIwZjRm`

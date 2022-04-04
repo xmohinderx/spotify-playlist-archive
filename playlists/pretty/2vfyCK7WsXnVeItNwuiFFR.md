@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vfyCK7WsXnVeItNwuiFFR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/2vfyCK7WsXnVeItNwuiFFR.md) - [plain]
 | 29 | [Daddy's Baby Girl](https://open.spotify.com/track/4lQ1ntNKWgDWK5YLcdGBM0) | [Jimmy Needham](https://open.spotify.com/artist/4yMGs8CtlMVF7RV2XU539m) | [Clear the Stage](https://open.spotify.com/album/1OXysRz4yKWPjeZFrAkOAe) | 3:06 |
 | 30 | [Baby Baby Baby](https://open.spotify.com/track/1Ut95lm6Ydl5cxN1ExamOi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Complete 1950's Masters \- Johnny Mathis](https://open.spotify.com/album/2kA1tewN9dZxnniJ3x5NG7) | 3:05 |
 
-Snapshot ID: `NjEsODdhNTE2MDAzYzExZGRhODZjM2JlNWI3N2JkZGIwNWE4NWJkZmFiOA==`
+Snapshot ID: `NjQsMmJmY2Y5YTE1NDljNzEzNjc4OThlNDdiZDUzYTE4M2QxMjViODIzNw==`

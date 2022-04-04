@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -6976,6 +6976,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448\u044c \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
+        "url": "https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u044e\u0441\u043b\u0456 UA",
+          "url": "https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR"
+        }
+      ],
+      "date_added": "2022-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448\u044c \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
+      "url": "https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX"
+    },
+    {
+      "album": {
         "name": "Sosa Muzik",
         "url": "https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh"
       },
@@ -7439,7 +7457,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 173725,
       "name": "\u0414\u0435\u0436\u0430\u0432\u044e",
       "url": "https://open.spotify.com/track/1GOiMxQXZUzjzH0Sxpck0B"
@@ -7519,7 +7537,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "\u0414\u043d\u044f\u043c\u0438-\u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/04gmklgYhNhZxRnAvSofoE"
@@ -12471,7 +12489,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-04",
       "duration_ms": 144705,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u0442\u0435\u0431\u044f \u0442\u0440\u0430\u0445\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/72aOn2zEIaEOOyOVGdpl8Z"
