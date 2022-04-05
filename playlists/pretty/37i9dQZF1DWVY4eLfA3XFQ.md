@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: CID
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,224 likes - 131 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,284 likes - 131 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

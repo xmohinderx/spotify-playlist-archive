@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > The best in alt, folk, and indie rock\. Cover: Gang of Youths
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,099 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,094 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

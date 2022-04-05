@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,805 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,848 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [La Adelita](https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mexico](https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu) | 1:54 |
 | 100 | [Rancho Grande](https://open.spotify.com/track/3fOJtfyLvJs1Xc5s5oMpIB) | [Pepe Qizar](https://open.spotify.com/artist/3JQLK6CKoZeWkehXcX4Uhi), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:33 |
 
-Snapshot ID: `MTY0OTAzMzgzMCwwMDAwMDAwMGY2M2VkZDYxMWZmYjJmYjMxMmI4NDVjYmJiYzEzOGVj`
+Snapshot ID: `MTY0OTEyMDIyNywwMDAwMDAwMGY2M2VkZDYxMWZmYjJmYjMxMmI4NDVjYmJiYzEzOGVj`

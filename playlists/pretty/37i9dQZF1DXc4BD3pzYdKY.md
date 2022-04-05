@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Trip Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,053 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,073 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 |
 | 80 | [2022](https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [2022](https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK) | 1:54 |
 
-Snapshot ID: `MTY0OTAzNDAyOCwwMDAwMDAwMDRhY2NkMmU2YjgwMzMxNDg1ZjVlYzE2MTIwYmUyYjdm`
+Snapshot ID: `MTY0OTEyMDQ1MywwMDAwMDAwMDRhY2NkMmU2YjgwMzMxNDg1ZjVlYzE2MTIwYmUyYjdm`

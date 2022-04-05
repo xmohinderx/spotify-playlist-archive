@@ -2301,6 +2301,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [The Bridge](/playlists/pretty/4qq3MCSLrDgYx7RfJBDvij.md)
 - [The Brontës](/playlists/pretty/37i9dQZF1DX8uVDy7wwKj9.md)
 - [The Classical Takeover: Philip Glass](/playlists/pretty/37i9dQZF1DWXtBjoO4Thyy.md)
+- [The Cole Porter Songbook](/playlists/pretty/37i9dQZF1DX8HwEXibv1ID.md)
 - [The Cookout](/playlists/pretty/37i9dQZF1DXab8DipvnuNU.md)
 - [The Critics Choice 2012](/playlists/pretty/24HEIuw8etbkitpDCxZ1dQ.md)
 - [The Essential Edgar Allan Poe](/playlists/pretty/37i9dQZF1DWVezbGpUvpz7.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,867 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,223 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Terrapin](https://open.spotify.com/track/5LvQxdpf7SPx0ZkpkftwwN) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Don't Feed the Birds](https://open.spotify.com/album/567ZlcK2pGAR2xDVJYmppY) | 2:53 |
 | 100 | [THE WORD](https://open.spotify.com/track/6fdO1Q9BsT2WbhFFLzgkNr) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Dani Sofiya](https://open.spotify.com/artist/7JVoNdm3eAiWFmILuXLW36) | [SOL, VOL.1](https://open.spotify.com/album/1WR9ir9c2fe6GF9vuPnolO) | 3:52 |
 
-Snapshot ID: `MTY0OTAzMzkyNSwwMDAwMDAwMDU1YTFiYWI0ZGU4OTNjNjU4YThjZDBhZTlhMWIyOTc1`
+Snapshot ID: `MTY0OTEyMDMzNCwwMDAwMDAwMDU1YTFiYWI0ZGU4OTNjNjU4YThjZDBhZTlhMWIyOTc1`

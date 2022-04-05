@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,956 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,013 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 8 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 |
 | 9 | [They Not Ready](https://open.spotify.com/track/6E5dZiOO0DswcJZH0qPOvU) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [They Not Ready](https://open.spotify.com/album/2mTJUIJUZnRj521nuYi0jc) | 2:46 |
 | 10 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 |
-| 11 | [Who Not Turnt](https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Easy Money](https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F) | 2:14 |
-| 12 | [The Whoop Family \(feat\. Sada Baby\)](https://open.spotify.com/track/1Qz4O4X6vp4PCoyicOeurc) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Back On Track](https://open.spotify.com/album/1A6RGXkdrjY5IKwaMU53OZ) | 2:15 |
-| 13 | [Nothing Left](https://open.spotify.com/track/7CRwGeKhIQTsbtcvHp2eRE) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Nothing Left](https://open.spotify.com/album/2mEfZJ6sqQqbUh62eu1DJt) | 2:26 |
-| 14 | [Cash App](https://open.spotify.com/track/6AG2zjruUpoYu9hunhx2lg) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Cash App](https://open.spotify.com/album/5Y6DbLjNhOclGopStO1P1d) | 2:10 |
-| 15 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
-| 16 | [100 Chicagos](https://open.spotify.com/track/2zg04XrOXZLIZGjDo2Z9qH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [100 Chicagos](https://open.spotify.com/album/0ffO94MgQ8Ev3ZpQDHsYhV) | 2:46 |
-| 17 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
-| 18 | [Showstopper](https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Showstopper](https://open.spotify.com/album/0sphY41zkKz25R3ZXnoV3X) | 1:53 |
-| 19 | [Opps Block](https://open.spotify.com/track/7yDzPmFZ356mCmahvNZXHD) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Opps Block](https://open.spotify.com/album/5tto8sTQ3BiRHE80AbAW8T) | 1:54 |
+| 11 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 |
+| 12 | [Who Not Turnt](https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Easy Money](https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F) | 2:14 |
+| 13 | [The Whoop Family \(feat\. Sada Baby\)](https://open.spotify.com/track/1Qz4O4X6vp4PCoyicOeurc) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Back On Track](https://open.spotify.com/album/1A6RGXkdrjY5IKwaMU53OZ) | 2:15 |
+| 14 | [Nothing Left](https://open.spotify.com/track/7CRwGeKhIQTsbtcvHp2eRE) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Nothing Left](https://open.spotify.com/album/2mEfZJ6sqQqbUh62eu1DJt) | 2:26 |
+| 15 | [Cash App](https://open.spotify.com/track/6AG2zjruUpoYu9hunhx2lg) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Cash App](https://open.spotify.com/album/5Y6DbLjNhOclGopStO1P1d) | 2:10 |
+| 16 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
+| 17 | [100 Chicagos](https://open.spotify.com/track/2zg04XrOXZLIZGjDo2Z9qH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [100 Chicagos](https://open.spotify.com/album/0ffO94MgQ8Ev3ZpQDHsYhV) | 2:46 |
+| 18 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
+| 19 | [Showstopper](https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Showstopper](https://open.spotify.com/album/0sphY41zkKz25R3ZXnoV3X) | 1:53 |
 | 20 | [Beat The Streets](https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Beat The Streets](https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty) | 2:34 |
 | 21 | [Sincerely Face](https://open.spotify.com/track/1pkmi6mGVijG0Vq9Ml64aw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Sincerely Face](https://open.spotify.com/album/1MiQurvciltuV7N6e9vTwV) | 2:41 |
 | 22 | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/4neQVPkami7MzzLoOHIA6c) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [OH REALLY](https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Glock 9 \(with Lil Zay Osama\)](https://open.spotify.com/track/0tRcyxggR2a32pC7Wl51Bd) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Glock 9 \(with Lil Zay Osama\)](https://open.spotify.com/album/3eQNATRnbTmpIXistwy1By) | 3:24 |
 | 50 | [God Forbid](https://open.spotify.com/track/4YphKexoCrhNOfMlY4lJX2) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Icewear Vezzo](https://open.spotify.com/artist/6BQwKKrDkrEwvTKtTRSsSc) | [God Forbid](https://open.spotify.com/album/69BgUjwhTRuJi8Y8XaB5dM) | 3:06 |
 
-Snapshot ID: `MTY0ODc4NTYwMCwwMDAwMDNlMTAwMDAwMTdmZTM0N2FlYzMwMDAwMDE3ZmRjNTM4MDgy`
+Snapshot ID: `MTY0OTA5Mjg2OCwwMDAwMDNlMjAwMDAwMTdmZjU5ODM5NjgwMDAwMDE3ZmRjNTM4MDgy`

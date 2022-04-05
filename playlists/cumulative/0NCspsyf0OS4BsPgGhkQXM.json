@@ -1916,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Head Shot",
+        "url": "https://open.spotify.com/album/4Xpkv0j5BFJEyiaqTGJke7"
+      },
+      "artists": [
+        {
+          "name": "Tsuruda",
+          "url": "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220729,
+      "name": "Head Shot",
+      "url": "https://open.spotify.com/track/1w4NslJtxyBFRdEfKCrAIk"
+    },
+    {
+      "album": {
         "name": "Heart Out My Chest",
         "url": "https://open.spotify.com/album/7hNCn0U74ITDR6zDbQWJcl"
       },

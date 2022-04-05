@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Harry Styles, Karol Conká e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,719 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,946 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Animais](https://open.spotify.com/track/2hp0fZcYuP2Ar2Oq0FKMAK) | [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Gangsta da Roça](https://open.spotify.com/album/6INY1ZCxui9Mof158VyBbc) | 2:16 |
 | 100 | [Ritimadinho](https://open.spotify.com/track/5qZPgfe4Hywf4UFp6SiQyn) | [Jake](https://open.spotify.com/artist/195qY5bgczknuPvkcVPIbE), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Ritimadinho](https://open.spotify.com/album/7eZNAhbsoQeCHWbUGzYqv5) | 2:34 |
 
-Snapshot ID: `MTY0ODg1MTUzNSwwMDAwMDU1YTAwMDAwMTdmZTczNWM0Y2YwMDAwMDE3ZmUyM2E4YzVk`
+Snapshot ID: `MTY0OTEwMzIxMywwMDAwMDU1YjAwMDAwMTdmZjYzNjExZTYwMDAwMDE3ZmUyM2E4YzVk`

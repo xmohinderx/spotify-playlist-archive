@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,842 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,835 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Joyeux Noël](https://open.spotify.com/track/1xRBTzIffG760rUzbGeAf3) | [Charlēne](https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB) | [Voix de Noël](https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc) | 2:39 |
 | 100 | [Minuit chrétien](https://open.spotify.com/track/0O1semZ6o0wcA4B7j7L97L) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Un grand noël d'amour](https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE) | 5:08 |
 
-Snapshot ID: `MTY0OTAzMzQ5NSwwMDAwMDAwMDUwMGZlZGQzNGNiYjA2Y2I0NzE1OTBhZTVlMzE4Njc3`
+Snapshot ID: `MTY0OTExOTg0NywwMDAwMDAwMDUwMGZlZGQzNGNiYjA2Y2I0NzE1OTBhZTVlMzE4Njc3`

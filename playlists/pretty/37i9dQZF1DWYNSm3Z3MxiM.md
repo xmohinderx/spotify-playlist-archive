@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Nothing but anthems \- for an extra rep, an extra set, an extra mile...
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,898 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,171 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 64 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 65 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
 
-Snapshot ID: `MTY0OTAzMzY0MCwwMDAwMDAwMDhjYzhhZjU4NjE5MTZjMjRlZjRmYzIyNmNjNmMwN2M2`
+Snapshot ID: `MTY0OTEyMDAxMywwMDAwMDAwMDhjYzhhZjU4NjE5MTZjMjRlZjRmYzIyNmNjNmMwN2M2`

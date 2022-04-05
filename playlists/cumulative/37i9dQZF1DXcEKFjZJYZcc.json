@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Contemplate",
+        "url": "https://open.spotify.com/album/3q3a9uetf1yEethiWw7oTI"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl",
+          "url": "https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Contemplate",
+      "url": "https://open.spotify.com/track/1088RgbNKWvtK2YfyPBscv"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn"
       },
@@ -880,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Kleiner Schmetterling",
+        "url": "https://open.spotify.com/album/4ROfZp4Tk7ygTIcixATZ95"
+      },
+      "artists": [
+        {
+          "name": "David Fenger",
+          "url": "https://open.spotify.com/artist/5m6XLwqI3BUA5zkFsxdKrS"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215620,
+      "name": "Kleiner Schmetterling",
+      "url": "https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL"
+    },
+    {
+      "album": {
         "name": "L'est\u00e9tique",
         "url": "https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO"
       },
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 105000,
       "name": "Morgensol",
       "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
@@ -1784,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Lavender Dreams",
+        "url": "https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz"
+      },
+      "artists": [
+        {
+          "name": "Lavender Dreams",
+          "url": "https://open.spotify.com/artist/1wJYmHd0L9LFwHptgxT3D9"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98078,
+      "name": "Starlight Canyon",
+      "url": "https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6"
+    },
+    {
+      "album": {
         "name": "Starry Sky",
         "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
       },
@@ -2076,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Training Wheels",
+        "url": "https://open.spotify.com/album/5pBxsJkcluC0rriObZFAQ4"
+      },
+      "artists": [
+        {
+          "name": "Arelius",
+          "url": "https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183192,
+      "name": "Training Wheels",
+      "url": "https://open.spotify.com/track/4SwoHJ6WZtsX4Uv9ro5BfH"
+    },
+    {
+      "album": {
         "name": "Treading Lightly",
         "url": "https://open.spotify.com/album/6yq4dA4UPNEYGRoyu1emE3"
       },
@@ -2127,10 +2199,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 128500,
       "name": "Uitwaaien",
       "url": "https://open.spotify.com/track/6fOFKyLhs5ryi2f8IiWBq8"
+    },
+    {
+      "album": {
+        "name": "Valse",
+        "url": "https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw"
+      },
+      "artists": [
+        {
+          "name": "Egor Grushin",
+          "url": "https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Valse",
+      "url": "https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK"
     },
     {
       "album": {

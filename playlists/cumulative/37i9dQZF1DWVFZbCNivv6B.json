@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Aczino.",
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Santa Fe Klan.",
   "name": "Arena Hip-Hop",
   "published_playlist_ids": [
     "18GYr3VL7srQ56xnZNWbUP"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 179347,
       "name": "Aquiles",
       "url": "https://open.spotify.com/track/13G2sCd1TekPn9EXxRpHda"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 219585,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 147272,
       "name": "Estilolibre",
       "url": "https://open.spotify.com/track/5urWBmqFpzyWrG4OEuUhNp"
@@ -1316,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
         "name": "Matem\u00e1ticas Supremas",
         "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
       },
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 175609,
       "name": "Matem\u00e1ticas Supremas",
       "url": "https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Peligro a la Redonda",
       "url": "https://open.spotify.com/track/6bQGXITO7qz0yuXSF4eGKX"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 133440,
       "name": "Rafa M\u00e1rquez",
       "url": "https://open.spotify.com/track/4Gjfldv4SNjenR11yIduqb"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "Si Me Ven",
       "url": "https://open.spotify.com/track/78OauUHA9r0rWFGEOMArs7"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Tirando Saco",
       "url": "https://open.spotify.com/track/6U0tZNSKuwAbNvT3kvezhF"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 210857,
       "name": "Uh La La",
       "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Word",
       "url": "https://open.spotify.com/track/1aDinHzGNHgACWIhztAv2u"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for your focus time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,053 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,110 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
 | 100 | [I Remember You \- 1989 Digital Remaster;The Rudy Van Gelder Edition](https://open.spotify.com/track/5r8RZwbct7wfq9HJ0kY89c) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3yGcHzdskfjL8p0Zlx9uTH) | 3:55 |
 
-Snapshot ID: `MTY0OTAzMzk0NCwwMDAwMDAwMDZmNjVmZDdiZmNkMmM1MThiYzZmOTQwZDJmYWJiMTQy`
+Snapshot ID: `MTY0OTEyMDM1NSwwMDAwMDAwMDZmNjVmZDdiZmNkMmM1MThiYzZmOTQwZDJmYWJiMTQy`

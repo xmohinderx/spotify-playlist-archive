@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,583 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,739 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [North East South West](https://open.spotify.com/track/0M6VQJRyLpg9RC4im1rVZj) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Near To The Wild Heart Of Life](https://open.spotify.com/album/26ZXAfEXcFBGqK7rLbCraB) | 4:20 |
 | 90 | [Heads Will Roll](https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:41 |
 
-Snapshot ID: `MTY0OTAzNDAxMiwwMDAwMDAwMDU4YWVlZGVmMWQ0MjZiYWQ5YTMwNWUyZmI3OTFiNDgy`
+Snapshot ID: `MTY0OTEyMDQzNSwwMDAwMDAwMDU4YWVlZGVmMWQ0MjZiYWQ5YTMwNWUyZmI3OTFiNDgy`

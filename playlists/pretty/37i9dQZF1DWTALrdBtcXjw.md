@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,987 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,058 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
 | 100 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 |
 
-Snapshot ID: `MTY0OTAzMzQ5MiwwMDAwMDAwMGIxYmM2NmYxZTlkZTlhNDc5MjVmOWNmY2UwNDk0MmRj`
+Snapshot ID: `MTY0OTExOTg0NSwwMDAwMDAwMGIxYmM2NmYxZTlkZTlhNDc5MjVmOWNmY2UwNDk0MmRj`

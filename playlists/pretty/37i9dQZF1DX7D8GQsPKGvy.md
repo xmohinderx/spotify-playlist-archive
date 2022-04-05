@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,998 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,740 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 149 | [Sexual \- Oliver Nelson Remix / Radio Edit](https://open.spotify.com/track/39zrVbRvAjw1FbKaK64NTZ) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Sexual](https://open.spotify.com/album/4fpw9otqwjuKWM7OLu8DgP) | 3:20 |
 | 150 | [Monster \- Robin Schulz Remix](https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Monster \(Robin Schulz Remix\)](https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO) | 2:45 |
 
-Snapshot ID: `MTY0OTAzMzg5NCwwMDAwMDAwMDQ5ZjRjY2U5NDM2MmMyZDIyM2YwNGE0MTQ1NjMwNzA0`
+Snapshot ID: `MTY0OTEyMDMwMCwwMDAwMDAwMDQ5ZjRjY2U5NDM2MmMyZDIyM2YwNGE0MTQ1NjMwNzA0`

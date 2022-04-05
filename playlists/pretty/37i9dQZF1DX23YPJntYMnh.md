@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,706 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,802 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 |
 | 60 | [Big House Burning](https://open.spotify.com/track/1oDTpyhLChK7JpnRbbYNqC) | [Mind Funk](https://open.spotify.com/artist/3c6xldffEaAaAbEXQuZjbR) | [Mind Funk](https://open.spotify.com/album/5EGO7FFGg6fzXu9GR22pEG) | 4:27 |
 
-Snapshot ID: `MTY0OTAzMzc0MywwMDAwMDAwMGU1NjgyOTU1NmJkYTkzNDk4OGFhZmUzZGIxM2VmZWI5`
+Snapshot ID: `MTY0OTEyMDEzMCwwMDAwMDAwMGU1NjgyOTU1NmJkYTkzNDk4OGFhZmUzZGIxM2VmZWI5`

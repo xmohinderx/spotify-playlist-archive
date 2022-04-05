@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52\-H1hRrcIe4g"> Rexx Life Raj </a>,  <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw\-hCSMiiVfCdbzgPeg"> Fireboy DML </a> and <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW\_fH\-rNEg"> Wale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,708 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,713 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

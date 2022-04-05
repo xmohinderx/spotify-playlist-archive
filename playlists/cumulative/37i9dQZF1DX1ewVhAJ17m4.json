@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: Avril Lavigne",
+  "description": "All the best new songs from the pop punk scene. Cover: Hot Milk",
   "name": "Pop Punk's Not Dead",
   "published_playlist_ids": [
     "1ZPuIvGxHPsGj5FOHcdzdv"
@@ -98,6 +98,32 @@
     },
     {
       "album": {
+        "name": "AFTER THERAPY (feat. Hot Mulligan)",
+        "url": "https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Extra Large Holiday Card",
+          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141352,
+      "name": "AFTER THERAPY (feat. Hot Mulligan)",
+      "url": "https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z"
+    },
+    {
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/5FSIgmLvYFNl97ffWdUYfa"
       },
@@ -113,6 +139,24 @@
       "duration_ms": 188554,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/4HtoILxBA3ICgzUeWVr6x8"
+    },
+    {
+      "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8"
     },
     {
       "album": {
@@ -203,7 +247,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 187770,
       "name": "Bored",
       "url": "https://open.spotify.com/track/1Zo5VosNNnN4kJffIVGFVY"
@@ -261,7 +305,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 241297,
       "name": "Catching Fire (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/0M0iDfjwyJwRWBS1Wpocd5"
@@ -726,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Friendzone",
+        "url": "https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ"
+      },
+      "artists": [
+        {
+          "name": "Bronnie",
+          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Friendzone",
+      "url": "https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
       },
@@ -939,7 +1001,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 151521,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
@@ -1585,7 +1647,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 172500,
       "name": "Scream",
       "url": "https://open.spotify.com/track/7LQQ207LAlwd7AuL8cmgjN"
@@ -1603,7 +1665,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 171000,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/2oGyfekTurVuAerH3HDx5f"
@@ -1701,7 +1763,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 160426,
       "name": "Single At 40",
       "url": "https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo"
@@ -1723,7 +1785,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 182866,
       "name": "smoke break//",
       "url": "https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW"
@@ -1796,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Split in Two",
+        "url": "https://open.spotify.com/album/1DEWsFXqaBdn7Udm2vz8A1"
+      },
+      "artists": [
+        {
+          "name": "Stuck Out",
+          "url": "https://open.spotify.com/artist/64Q80rDAedUbxhgMAJzyjI"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212265,
+      "name": "Split in Two",
+      "url": "https://open.spotify.com/track/2Jfzv5UDSKUqlFncSabFy7"
+    },
+    {
+      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/5hUxUuJHwqBJVbOD201gfN"
       },
@@ -1825,7 +1905,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 158146,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/5o89wZBm3klAcMufTGeYBJ"
@@ -1922,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "TOMMY TOOK A PICTURE",
+        "url": "https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa"
+      },
+      "artists": [
+        {
+          "name": "Signals Midwest",
+          "url": "https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166183,
+      "name": "TOMMY TOOK A PICTURE",
+      "url": "https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC"
+    },
+    {
+      "album": {
         "name": "u look stupid",
         "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
       },
@@ -1969,7 +2067,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 167261,
       "name": "Violet!",
       "url": "https://open.spotify.com/track/7eRcOJ0bOVJcBjF5IqPiFg"
@@ -1987,7 +2085,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 199598,
       "name": "Walk Over My Grave",
       "url": "https://open.spotify.com/track/43c7a2qXSry2me3tYfowdZ"

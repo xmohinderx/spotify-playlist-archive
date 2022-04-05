@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "can't seem to",
+        "url": "https://open.spotify.com/album/3PEZDg9PyJcJg3Dir5Hlu5"
+      },
+      "artists": [
+        {
+          "name": "s. lyre",
+          "url": "https://open.spotify.com/artist/0Ic21br4X3YoE8wZgwTK0f"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149583,
+      "name": "can't seem to",
+      "url": "https://open.spotify.com/track/0p5tCrpBT4WLfwQ2lLMXGb"
+    },
+    {
+      "album": {
         "name": "Mysterium",
         "url": "https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i"
       },
@@ -915,6 +933,28 @@
       "duration_ms": 212016,
       "name": "Lotus Flower (Special Edition)",
       "url": "https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro"
+    },
+    {
+      "album": {
+        "name": "Luminous (gishfang Remix)",
+        "url": "https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "gishfang",
+          "url": "https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Luminous - gishfang Remix",
+      "url": "https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn"
     },
     {
       "album": {

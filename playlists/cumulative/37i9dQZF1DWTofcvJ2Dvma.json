@@ -2812,6 +2812,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/0fc7JFUcxR5zs6UVgIXmeg"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105925,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/31az0ltREtEXcrCNAvqpQi"
+    },
+    {
+      "album": {
         "name": "Virtue",
         "url": "https://open.spotify.com/album/70aT7VUr0QaOjEkRCZNrvf"
       },

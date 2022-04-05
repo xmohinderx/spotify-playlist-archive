@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 
 > This is the essential Axwell Λ Ingrosso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,426 likes - 24 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,435 likes - 24 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1230,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/4UALxeyoQXVRVFJdMJ05a0"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163928,
+      "name": "Reboot",
+      "url": "https://open.spotify.com/track/1Q7OXxsTM8aUaZ3BbPfIDb"
+    },
+    {
+      "album": {
         "name": "Restart Your Heart",
         "url": "https://open.spotify.com/album/5Twkvtgo6tMIA0pAphY4N6"
       },

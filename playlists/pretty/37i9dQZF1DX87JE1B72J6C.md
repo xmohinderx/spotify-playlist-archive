@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 
 > The essential deadmau5 originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,403 likes - 62 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,418 likes - 62 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 | 30 | [I Remember \- Strobelite Mix](https://open.spotify.com/track/1qnJYRDhTV4GGMtbLTWtNR) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/35HmhbuEA2Q2m6kKP8SuR2) | 4:41 |
 | 31 | [Cafe del Mar \- deadmau5 Remix](https://open.spotify.com/track/3rv889IqPyuugLUTVTsUOT) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7) | [Ultra Trance 09](https://open.spotify.com/album/19O4sEb2pNtkQtEhrVPo9r) | 5:47 |
 | 32 | [Let Go](https://open.spotify.com/track/5gCGQlfEofp2Zxz5ZjJAa9) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [W:/2016ALBUM/](https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x) | 6:18 |
-| 33 | [Aural Psynapse](https://open.spotify.com/track/7Ar4sHJSRdk18APx84hl9O) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [5 Years of mau5](https://open.spotify.com/album/0zyj1GySC9Cf4u8maD2q9v) | 7:30 |
+| 33 | [Aural Psynapse \- Original Mix](https://open.spotify.com/track/7Ar4sHJSRdk18APx84hl9O) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [5 Years of mau5](https://open.spotify.com/album/0zyj1GySC9Cf4u8maD2q9v) | 7:30 |
 | 34 | [Snowcone](https://open.spotify.com/track/1N31Wy2PWz5HvCzMbff3mO) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [W:/2016ALBUM/](https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x) | 5:14 |
 | 35 | [You And I \- Deadmau5 Remix](https://open.spotify.com/track/2ueKL2MWoyfg1FnBpHOfbH) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [You And I](https://open.spotify.com/album/7zLXnrozg2n7TrsnwHFLKF) | 6:19 |
 | 36 | [Pets](https://open.spotify.com/track/1orqppWOgid8LIp3X2dUIg) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [while\(1<2\)](https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f) | 7:31 |

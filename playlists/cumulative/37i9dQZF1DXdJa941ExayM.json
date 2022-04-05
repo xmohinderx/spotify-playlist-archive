@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Maybe it's punk, maybe it's not. Cover: LIA LIA",
+  "description": "Maybe it's punk, maybe it's not. Cover: Jean Dawson",
   "name": "Punk Unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -463,6 +463,24 @@
       "duration_ms": 173741,
       "name": "dwell on the guilt of saving myself",
       "url": "https://open.spotify.com/track/3FlDAl8qo24cEpAE3MHIC3"
+    },
+    {
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/35sMewPvkGqx8fwPlN7KQP"
+      },
+      "artists": [
+        {
+          "name": "Prince Daddy & the Hyena",
+          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235017,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/1G7gjVi7RTnivq0IhKpPfi"
     },
     {
       "album": {
@@ -1058,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Major Waste",
+        "url": "https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Major Waste",
+      "url": "https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32"
+    },
+    {
+      "album": {
         "name": "No Taste",
         "url": "https://open.spotify.com/album/6DMgTKIxvkURDu03kPoIrq"
       },
@@ -1597,6 +1633,28 @@
       "duration_ms": 174568,
       "name": "sore",
       "url": "https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82"
+    },
+    {
+      "album": {
+        "name": "Still Running (5K)",
+        "url": "https://open.spotify.com/album/1Rb4OowmozoRFy2qpR6tnT"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        },
+        {
+          "name": "DJ Lethal",
+          "url": "https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Still Running (5K) (feat.DJ Lethal)",
+      "url": "https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG"
     },
     {
       "album": {

@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "02/04",
+        "url": "https://open.spotify.com/album/6YMgewrFiE4nx7RXY8STWt"
+      },
+      "artists": [
+        {
+          "name": "Nho Khoa",
+          "url": "https://open.spotify.com/artist/2lGxfgGlxrWh7X76fWUyod"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208629,
+      "name": "02/04",
+      "url": "https://open.spotify.com/track/2Ep3gCKRgCXkpRvg6Pgxlt"
+    },
+    {
+      "album": {
         "name": "03.Iwant",
         "url": "https://open.spotify.com/album/2VqmZzrfv8Heyfb3M0CncI"
       },
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 252580,
       "name": "Awful Day",
       "url": "https://open.spotify.com/track/0ibbMM3GdmtESZfGv8vsEV"
@@ -1266,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Duy\u00ean Ta Tr\u1eddi L\u1ea5y",
+        "url": "https://open.spotify.com/album/4NjcmJL20rRQOVd87WwQmR"
+      },
+      "artists": [
+        {
+          "name": "Anh Khoa",
+          "url": "https://open.spotify.com/artist/0r5KtuhT32hmawS8dj6jFm"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342839,
+      "name": "Duy\u00ean Ta Tr\u1eddi L\u1ea5y",
+      "url": "https://open.spotify.com/track/7HopTGfS9Jp2F44PuOTkAk"
+    },
+    {
+      "album": {
         "name": "Em C\u00f3 C\u00f2n Kh\u00f3c M\u1ed9t M\u00ecnh ?",
         "url": "https://open.spotify.com/album/1q3vgu6N4R0w5UvzFEd29n"
       },
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 158000,
       "name": "Khi M\u00f9a M\u01b0a \u0110i Qua",
       "url": "https://open.spotify.com/track/5nY6Kkxnv7CVCFZbSPBgPZ"
@@ -3379,7 +3415,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 194298,
       "name": "qu\u00e1 tr\u1ec5 quay \u0111\u1ea7u",
       "url": "https://open.spotify.com/track/4AC5YHWwddN4gPlpSR0BaZ"
@@ -3783,6 +3819,28 @@
       "duration_ms": 160052,
       "name": "Ta V\u1edbi Ta (feat. SeaA)",
       "url": "https://open.spotify.com/track/2e27fIIzhJ9223tazc3Vgw"
+    },
+    {
+      "album": {
+        "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/02k5ksGgSAFFNikcdzD8AX"
+      },
+      "artists": [
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh"
+        },
+        {
+          "name": "Minh Trang",
+          "url": "https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Ta \u0110\u00e2u C\u00f3 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/1BEucHuiAAvdCgjrvITZTA"
     },
     {
       "album": {
@@ -4421,6 +4479,28 @@
       "duration_ms": 185312,
       "name": "What's Your Problem? (feat. GoKKy)",
       "url": "https://open.spotify.com/track/4OpF0X4ki0as0qnuErqehJ"
+    },
+    {
+      "album": {
+        "name": "Worthless",
+        "url": "https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn"
+      },
+      "artists": [
+        {
+          "name": "Haukong",
+          "url": "https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB"
+        },
+        {
+          "name": "Left Hand",
+          "url": "https://open.spotify.com/artist/0Ftvam9jrL8kG5Y9LMVl9D"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216939,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz"
     },
     {
       "album": {

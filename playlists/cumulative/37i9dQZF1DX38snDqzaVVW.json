@@ -940,6 +940,24 @@
     },
     {
       "album": {
+        "name": "No One But You",
+        "url": "https://open.spotify.com/album/6DTSx1BOMwmneXNSsvgZux"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/0dXB28kP8XMuyeLo4mUKuv"
+    },
+    {
+      "album": {
         "name": "Amassakoul",
         "url": "https://open.spotify.com/album/5FPDGVaIIfWVH79NJoslSe"
       },

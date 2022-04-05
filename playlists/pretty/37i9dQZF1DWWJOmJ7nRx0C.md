@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,232 likes - 155 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,328 likes - 155 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 53 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 |
 | 54 | [Neon Grave](https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Neon Grave](https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8) | 3:59 |
 | 55 | [I Still Burn](https://open.spotify.com/track/6aXpsIVZDN1lfdt88T8fX1) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [I Still Burn](https://open.spotify.com/album/7di6xQ4AQEGp9lxmCgOH45) | 3:55 |
-| 56 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 |
+| 56 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 |
 | 57 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 |
 | 58 | [Scarlet Cross](https://open.spotify.com/track/6FfSelhMMRoigvtAlYPmBd) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/5GMs2D82ElHRpVGbtUod3J) | 3:37 |
 | 59 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |

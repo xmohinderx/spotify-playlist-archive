@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,575 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,597 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
 | 40 | [Baghdad Choby](https://open.spotify.com/track/3IVt662A0J2oiOJsg8VKx6) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/0p2oxZptRyHl9d8UE86JeK) | 4:37 |
 
-Snapshot ID: `MTY0OTAzMzY2MywwMDAwMDAwMDA1ZTJmNTdmZjQyMTcyZGQzZmEzYjVlNTQwNDY0MmQ5`
+Snapshot ID: `MTY0OTEyMDAzOSwwMDAwMDAwMDA1ZTJmNTdmZjQyMTcyZGQzZmEzYjVlNTQwNDY0MmQ5`

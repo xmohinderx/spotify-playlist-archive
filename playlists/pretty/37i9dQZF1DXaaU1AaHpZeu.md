@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Siddhartha
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,190 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,224 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 8 | [IM PRESS](https://open.spotify.com/track/3Nk3YpFPkKzkqN9aU3F3yx) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [IM PRESS](https://open.spotify.com/album/7AcOp96wcmoB1p8Vu3AvND) | 4:11 |
 | 9 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 |
 | 10 | [Paranoia](https://open.spotify.com/track/6GZr86vGdj2YEfwVZtEFeK) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Trovador Tecno](https://open.spotify.com/album/1JRVZPZkVUuLxz9njLLmij) | 4:11 |
-| 11 | [La La La Luna](https://open.spotify.com/track/6nyIYsXNWfiTh8Ig7UnXGV) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Quiero meterme en tu cama](https://open.spotify.com/album/0Jaz0MAFzHZFSNNjqoyzmh) | 3:34 |
+| 11 | [La La La Luna](https://open.spotify.com/track/6nyIYsXNWfiTh8Ig7UnXGV) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Quiero Meterme En Tu Cama](https://open.spotify.com/album/0Jaz0MAFzHZFSNNjqoyzmh) | 3:34 |
 | 12 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 |
 | 13 | [El Truco](https://open.spotify.com/track/6s2aKPPUoAtRCQDsQ2Kuef) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6), [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [El Truco](https://open.spotify.com/album/4moErv1lxhdoXIDB9M41Ym) | 3:49 |
 | 14 | [Ritos de Mar](https://open.spotify.com/track/1yufHs5PhYpCgI8iquBdUf) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Ritos de Mar](https://open.spotify.com/album/5LgOXAvTqvGkVOlKhfwYLS) | 3:47 |

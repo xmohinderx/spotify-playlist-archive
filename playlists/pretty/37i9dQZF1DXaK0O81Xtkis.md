@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > <a href="spotify:artist:3qDMrpZHtZEtVl5i1l7hP3">Nightly</a> stage a soda takeover with some of their fave indie pop picks up top!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,683 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,750 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

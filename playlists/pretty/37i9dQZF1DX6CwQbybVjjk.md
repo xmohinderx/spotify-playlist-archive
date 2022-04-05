@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CwQbybVjjk.md) - [plain]
 
 > Check out these indie musics, all froms artists playing at SXSW 2017..\. Cover: <a href="spotify:artist:7FU0xCgmSYQEiBeevUqQ4S">Yoke Lore</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,919 likes - 59 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 59 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

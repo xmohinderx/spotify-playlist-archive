@@ -1920,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Humid Summer",
+        "url": "https://open.spotify.com/album/7zYKqNwzEp4mQINeLOhUwn"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Humid Summer",
+      "url": "https://open.spotify.com/track/1r0IpQJP0eZmuvdHLFZkcn"
+    },
+    {
+      "album": {
         "name": "Hurtless",
         "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
       },

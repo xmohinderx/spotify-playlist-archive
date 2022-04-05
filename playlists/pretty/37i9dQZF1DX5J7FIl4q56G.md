@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Municipal Waste
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,842 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,027 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grave Dive](https://open.spotify.com/track/4DCtTtWYJLP3UD2s9Km0Ee) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Grave Dive](https://open.spotify.com/album/5D6o12XKVSm9arPgSFefgV) | 2:31 |
-| 2 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 |
+| 2 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 |
 | 3 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 |
 | 4 | [Tea Leaves](https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Tea Leaves](https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt) | 3:34 |
 | 5 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 |

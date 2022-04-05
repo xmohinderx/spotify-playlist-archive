@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,718 likes - 74 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,093 likes - 74 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mitra Re \- From "Runway 34"](https://open.spotify.com/track/4SmMVj2SnYXPA2M9LhtCnO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Abhishek Ghatak](https://open.spotify.com/artist/4rFL6YoEW3L8LlczX893RQ) | [Mitra Re \(From "Runway 34"\)](https://open.spotify.com/album/5EHxqOSbp0XjSQDq8MfRXH) | 3:41 |
+| 1 | [Mitra Re \- From "Runway 34"](https://open.spotify.com/track/4SmMVj2SnYXPA2M9LhtCnO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(From "Runway 34"\)](https://open.spotify.com/album/5EHxqOSbp0XjSQDq8MfRXH) | 3:41 |
 | 2 | [Dhokha](https://open.spotify.com/track/2aV8nAkyt5nsWdQTruzgmJ) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Khushalii Kumar](https://open.spotify.com/artist/10shJL4t1SGF0r24bg627p) | [Dhokha](https://open.spotify.com/album/7I8VnIahW5LQ03YmifHQ1u) | 4:05 |
 | 3 | [Soch Liya \(From "Radhe Shyam"\)](https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Soch Liya \(From "Radhe Shyam"\)](https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq) | 4:43 |
 | 4 | [Lehra Do \(From "83"\)](https://open.spotify.com/track/6Owi3S26o0nbvDznmjvOT8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Lehra Do \(From "83"\)](https://open.spotify.com/album/0Ink7DQBLeYRJ7fPX4pqtm) | 3:37 |

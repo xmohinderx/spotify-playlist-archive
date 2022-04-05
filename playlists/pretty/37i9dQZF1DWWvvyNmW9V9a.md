@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the songs you need rn Cover: Mad Tsai
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,790 likes - 104 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,197 likes - 104 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

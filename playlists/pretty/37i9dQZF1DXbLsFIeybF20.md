@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,056 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,084 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Don't Go 'Way Nobody](https://open.spotify.com/track/4D1Lfz1sRzTgNTnkIcVpRX) | [George 'Kid Sheik' Cola](https://open.spotify.com/artist/0QT5nK2NhypP144yooqttQ), [Louis Nelson](https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR), [Clarence Ford](https://open.spotify.com/artist/6my0cbStLrvXWuO56PsdxS), [Jeanette Kimball](https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD), [Les Muscutt](https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7), [Stewart Davis](https://open.spotify.com/artist/4tNsyPoW2LMYivqg5rkMSI), [Chester Jones](https://open.spotify.com/artist/6onoCEDLEhy5PloGJdY7WT) | [The Sheik of Araby](https://open.spotify.com/album/1KMFnmvtbtx6ZElipw5fBc) | 3:09 |
 | 50 | [Tight Like This](https://open.spotify.com/track/0mkgfCq5dx1z1SMzaQGBKj) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Dear Louis](https://open.spotify.com/album/5OLuk4cPOgJ8zihkrFdAvx) | 7:04 |
 
-Snapshot ID: `MTY0OTAzNDAxMSwwMDAwMDAwMDQ4MTM1OGI0MGM2ZGRkZjMwMzQyNDNhMThhYjliYTFh`
+Snapshot ID: `MTY0OTEyMDQzNSwwMDAwMDAwMDQ4MTM1OGI0MGM2ZGRkZjMwMzQyNDNhMThhYjliYTFh`

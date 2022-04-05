@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170486,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ"
+    },
+    {
+      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH"
       },

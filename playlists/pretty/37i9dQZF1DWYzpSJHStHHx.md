@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,145 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,503 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Warned You](https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/5CsiKKVYjYSu7yQqqxW5Wi) | 2:13 |
 | 80 | [Hey \(feat\. Alfie Templeman\)](https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK) | 3:01 |
 
-Snapshot ID: `MTY0OTAzMzY1NiwwMDAwMDAwMDQ0ZTk3NWRhZTUyMzgxM2U4NzJjODE5YjhkZDI1MDQy`
+Snapshot ID: `MTY0OTEyMDAzMSwwMDAwMDAwMDQ0ZTk3NWRhZTUyMzgxM2U4NzJjODE5YjhkZDI1MDQy`

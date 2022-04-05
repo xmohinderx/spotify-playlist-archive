@@ -2,7 +2,7 @@
 
 ### [Punk Unleashed](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
-> Maybe it's punk, maybe it's not\. Cover: LIA LIA
+> Maybe it's punk, maybe it's not\. Cover: Jean Dawson
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2021-12-20 |  |
 | [Drive in Mind](https://open.spotify.com/track/4nDfSnWHRBDwoeF4YClv09) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/4fMQjWGXHrUDH7WgomBq6s) | 4:03 | 2021-12-20 |  |
 | [dwell on the guilt of saving myself](https://open.spotify.com/track/3FlDAl8qo24cEpAE3MHIC3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [dwell on the guilt of saving myself](https://open.spotify.com/album/4A1cgR7WJ44YKY4ffQXyyU) | 2:53 | 2021-12-20 |  |
+| [El Dorado](https://open.spotify.com/track/1G7gjVi7RTnivq0IhKpPfi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [El Dorado](https://open.spotify.com/album/35sMewPvkGqx8fwPlN7KQP) | 3:55 | 2022-04-04 |  |
 | [Energie](https://open.spotify.com/track/7zrzlGk7w1SfmonIYC953p) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Energie / Energia](https://open.spotify.com/album/0Zs6lOksFrXAhI2bLkkveD) | 2:55 | 2021-12-20 | 2022-02-16 |
 | [Enveloped](https://open.spotify.com/track/6JpNRJWABPoMCter1WlSlP) | [Girls In Synthesis](https://open.spotify.com/artist/1JDshBvdtYOv3h1Th6xYQV) | [Enveloped](https://open.spotify.com/album/2ARMZHJiFxX46oOiMx4TVH) | 3:53 | 2022-03-18 |  |
 | [Eton Mess](https://open.spotify.com/track/3G8eU7xiy5RCHGWuv1XRmI) | [BLAB](https://open.spotify.com/artist/30Ksb5y6JT8MQO36S3CnwF) | [Eton Mess](https://open.spotify.com/album/26LiIG02F99Nn6rvkazCvu) | 1:57 | 2021-12-20 |  |
@@ -63,6 +64,7 @@
 | [Love Me Do Again](https://open.spotify.com/track/0T4hPBqUrXIY3BGUh3sYgF) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Love Me Do Again](https://open.spotify.com/album/4T4T30hUA1MfwaZiMaz1eM) | 3:34 | 2021-12-20 | 2022-02-16 |
 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 | 2022-02-15 |  |
 | [Loverman](https://open.spotify.com/track/4MZVYWdHxymEM7EVP5Nu8g) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/7atg2sq4rPY2I0acROpVEt) | 2:13 | 2021-12-20 |  |
+| [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 | 2022-04-04 |  |
 | [Manners](https://open.spotify.com/track/6OFhypC7nf7O2BrBcBRHiw) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [No Taste](https://open.spotify.com/album/6DMgTKIxvkURDu03kPoIrq) | 2:57 | 2021-12-20 |  |
 | [Meat Market](https://open.spotify.com/track/4bQWIser8emNKjX3GlZJu3) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino \(B\-Sides\)](https://open.spotify.com/album/1JI8xZT4G7DrHF3KFAZdLW) | 3:15 | 2021-12-20 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-20 |  |
@@ -92,6 +94,7 @@
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 |  |
 | [So You Don't Get In Trouble](https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu) | [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [So You Don't Get In Trouble](https://open.spotify.com/album/6lFhQlG8PC9byMDPccFNW6) | 3:06 | 2021-12-20 |  |
 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 | 2022-02-04 |  |
+| [Still Running \(5K\) \(feat.DJ Lethal\)](https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2) | [Still Running \(5K\)](https://open.spotify.com/album/1Rb4OowmozoRFy2qpR6tnT) | 3:36 | 2022-04-04 |  |
 | [storyboard for a pessimist](https://open.spotify.com/track/6UObhqa3DmniQ0YTWg2AqW) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 2:38 | 2021-12-20 |  |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-20 |  |
 | [Talking To Ourselves \- IDLES Inner Monologue Remix](https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Talking To Ourselves \(IDLES Inner Monologue Remix\)](https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe) | 4:52 | 2022-03-18 |  |

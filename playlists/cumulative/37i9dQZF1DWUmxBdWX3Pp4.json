@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 132680,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 251142,
       "name": "El Terre",
       "url": "https://open.spotify.com/track/1ZPQz619gClipJQFKCbreS"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 135053,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 173617,
       "name": "No Hay Fallo",
       "url": "https://open.spotify.com/track/6uX08Q1SKqYD5NqcpqbVZL"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 189033,
       "name": "Putero",
       "url": "https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5"
@@ -2462,6 +2462,24 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174916,
+      "name": "ROBERT DE NIRO",
+      "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
+    },
+    {
+      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt"
       },
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 210008,
       "name": "Roma",
       "url": "https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B"
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-05",
       "duration_ms": 173226,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/7dm2eWzZsI3mW1oKgF21qV"

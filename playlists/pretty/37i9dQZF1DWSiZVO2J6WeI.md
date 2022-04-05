@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,947 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,069 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 99 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 |
 | 100 | [Yellow Mountain \- Studio Edit](https://open.spotify.com/track/0YavOnNQabNAZsJalEi648) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 |
 
-Snapshot ID: `MTY0OTAzMzQ3NywwMDAwMDAwMGY3ZWUyZTU4NzdiZmZmZTcxNGM3ZTI3OGMzZDVhYjNk`
+Snapshot ID: `MTY0OTExOTgyOCwwMDAwMDAwMGY3ZWUyZTU4NzdiZmZmZTcxNGM3ZTI3OGMzZDVhYjNk`

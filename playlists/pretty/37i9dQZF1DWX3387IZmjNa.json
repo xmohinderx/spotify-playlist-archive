@@ -1,32 +1,48 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Roddy Ricch",
-  "num_followers": 1878324,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: A Boogie Wit Da Hoodie",
+  "num_followers": 1878359,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODE4MjQwMiwwMDAwMDUwYzAwMDAwMTdmYmY1MzlmNTUwMDAwMDE3ZjQ2ZjJmN2Iz",
+  "snapshot_id": "MTY0OTA0NTA3MywwMDAwMDUwZDAwMDAwMTdmZjJiZWVkYTIwMDAwMDE3ZmUwZDIwN2Ji",
   "tracks": [
     {
-      "added_at": "2022-03-25 04:26:42",
+      "added_at": "2022-04-04 04:04:33",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/1W06ElmmLtIuontPTRxw7v"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 172137,
-      "name": "Like A Thug (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
+      "duration_ms": 158268,
+      "name": "Playa (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd"
+    },
+    {
+      "added_at": "2022-04-04 04:04:33",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -259,6 +275,46 @@
       "duration_ms": 226006,
       "name": "MAGIC (feat. Mustard)",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2022-03-25 04:26:42",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Like A Thug (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
+    },
+    {
+      "added_at": "2022-04-04 04:04:33",
+      "album": {
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Coming Down (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -793,50 +849,6 @@
       "url": "https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6"
     },
     {
-      "added_at": "2021-09-03 05:30:12",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Quickie (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/0lm4qgoN2ztdPUghOOYxaT"
-      },
-      "artists": [
-        {
-          "name": "Hitmaka",
-          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 168832,
-      "name": "Quickie (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5rQ7HbJhF28EnrZc7wdUYr"
-    },
-    {
       "added_at": "2021-09-17 04:01:00",
       "album": {
         "name": "Find A Way (feat. Lil Baby & Lil Durk)",
@@ -911,26 +923,6 @@
       "duration_ms": 111444,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56"
-    },
-    {
-      "added_at": "2021-09-03 05:02:30",
-      "album": {
-        "name": "GEEZYWORLD",
-        "url": "https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "Keeper (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn"
     },
     {
       "added_at": "2021-10-01 04:00:00",

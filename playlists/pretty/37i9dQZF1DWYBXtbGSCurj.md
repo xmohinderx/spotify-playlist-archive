@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Costa Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,128 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,330 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [Longe dos Falsos](https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Longe dos Falsos](https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf) | 3:19 |
 | 12 | [Outra Vez](https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Outra Vez](https://open.spotify.com/album/3feoSyeCZPVS0SROIuQr8j) | 4:11 |
 | 13 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
-| 14 | [Fentanyl](https://open.spotify.com/track/5i1yDx3dq5LOrvXOwTrI17) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Fentanyl](https://open.spotify.com/album/7DG2wH8fJtEUN3fnoOxR1A) | 2:11 |
+| 14 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 | 15 | [Marquinha](https://open.spotify.com/track/4CvoPPB7Rcf600XgehVs37) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Marquinha](https://open.spotify.com/album/5KyezC5oKpxNtgsTFGfFv3) | 4:27 |
 | 16 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 17 | [Salve](https://open.spotify.com/track/1BUzQYJ22PsXp4hq1GdtpV) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Salve](https://open.spotify.com/album/1eGOBnHJUMGVlCYwAu8Na1) | 1:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 69 | [Ouro Rosé II](https://open.spotify.com/track/4sDtOypFLuQGujmcic6aUv) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Peunubeat](https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [Ouro Rosé II](https://open.spotify.com/album/5s3MZ1YRjdyoj3LDHvq6Mb) | 4:43 |
 | 70 | [Cachorro Louco](https://open.spotify.com/track/5BVGR8c3JopBGpswyxe21p) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Cachorro Louco](https://open.spotify.com/album/3ynywp3ME7xQ7Xv1xKnzkw) | 3:17 |
 
-Snapshot ID: `MTY0ODg0NjcyNiwwMDAwMDFhMDAwMDAwMTdmZTZlYzY1NzAwMDAwMDE3ZmRjOWI1ZWIz`
+Snapshot ID: `MTY0OTEwMTMwMCwwMDAwMDFhMTAwMDAwMTdmZjYxOGUxOGQwMDAwMDE3ZmRjOWI1ZWIz`
