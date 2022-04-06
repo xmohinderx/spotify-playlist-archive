@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,918 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,019 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [El Amor Acaba \- Revisitado](https://open.spotify.com/track/6anqUM48ATNGIKMDi7lyyf) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Amor Acaba \(Revisitado\)](https://open.spotify.com/album/6szyEthvepQ6WGIwVVhspT) | 4:28 |
 | 100 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
 
-Snapshot ID: `MTY0OTEyMDE5MiwwMDAwMDAwMDkxNjdkZTM3Yjg4YTRiMTU5Y2U1NDllZjg2N2IwN2Ex`
+Snapshot ID: `MTY0OTIwNjc0MywwMDAwMDAwMDkxNjdkZTM3Yjg4YTRiMTU5Y2U1NDllZjg2N2IwN2Ex`

@@ -1,13 +1,29 @@
 {
-  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: NCT DREAM",
-  "num_followers": 3736447,
+  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: IVE",
+  "num_followers": 3739004,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTEyMDM4NSwwMDAwMDAwMDdkOWI1N2RkNTM5ZGQ2YTczNGVlNTNiZjU5YjVkYzIz",
+  "snapshot_id": "MTY0OTIwNjkxMCwwMDAwMDAwMGYzY2ZmZmQzZmNjNDJjOWNiMDk2NWZjZjA4NDc3ZjYw",
   "tracks": [
+    {
+      "added_at": "2022-04-05 09:05:56",
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
     {
       "added_at": "2022-04-04 15:17:06",
       "album": {

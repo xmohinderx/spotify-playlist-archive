@@ -1,12 +1,12 @@
 {
   "description": "New joints of the week featuring Lil Tjay, A Boogie Wit da Hoodie, City Girls, and more. Cover: Dreamville",
-  "num_followers": 150531,
+  "num_followers": 150694,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA0NTI4MSwwMDAwMDBiZjAwMDAwMTdmZjJjMjFjMWIwMDAwMDE3ZmUxNDYyNWUz",
+  "snapshot_id": "MTY0OTE3NzAxNywwMDAwMDBjMDAwMDAwMTdmZmE5YzNjNjUwMDAwMDE3ZmUxNDYyNWUz",
   "tracks": [
     {
       "added_at": "2022-04-01 04:01:00",
@@ -295,6 +295,26 @@
       "duration_ms": 141714,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
+    },
+    {
+      "added_at": "2022-04-05 16:43:37",
+      "album": {
+        "name": "Waddup (feat. Polo G)",
+        "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "Waddup (feat. Polo G)",
+      "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -875,46 +895,6 @@
       "duration_ms": 209541,
       "name": "Vulture Island V2 (with Lil Baby)",
       "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "B.A.M.",
-        "url": "https://open.spotify.com/album/27tc3vusfciaqBm3j48Upx"
-      },
-      "artists": [
-        {
-          "name": "Yungeen Ace",
-          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "B.A.M.",
-      "url": "https://open.spotify.com/track/4zcvcmOQNzhIseuZyt4Jqe"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Play This At My Funeral (feat. Landon Cube)",
-        "url": "https://open.spotify.com/album/2Nzf9d8bYm8lnfHv0PEFbh"
-      },
-      "artists": [
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        },
-        {
-          "name": "Landon Cube",
-          "url": "https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD"
-        }
-      ],
-      "duration_ms": 186279,
-      "name": "Play This At My Funeral (feat. Landon Cube)",
-      "url": "https://open.spotify.com/track/6iKwtznICou14DzcTcXB2w"
     },
     {
       "added_at": "2022-04-01 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,088 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,288 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 42 | [Fefe Naa Efe](https://open.spotify.com/track/01M4pDUAFpAiuvtNSDRSlE) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 8:12 |
 | 43 | [This Hustling World](https://open.spotify.com/track/2qWDv8zJ4xRQWMT6BSjCNk) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Simigwa](https://open.spotify.com/album/72batX8m52vXaZwCTXkunL) | 4:18 |
 | 44 | [Onye Mmanya](https://open.spotify.com/track/3hcUREHAHIjauQzwrxmJIk) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 5:52 |
-| 45 | [Bargain](https://open.spotify.com/track/4hu0hZxoEAgGnf1wgpEax8) | [Rob](https://open.spotify.com/artist/0ABl0JElqGIJeuB5fqBfz0) | [Make It Fast, Make It Slow \(Soundway Records\)](https://open.spotify.com/album/000f3dTtvpazVzv35NuZmn) | 5:17 |
+| 45 | [Bargain](https://open.spotify.com/track/4hu0hZxoEAgGnf1wgpEax8) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow \(Soundway Records\)](https://open.spotify.com/album/000f3dTtvpazVzv35NuZmn) | 5:17 |
 | 46 | [Spoons](https://open.spotify.com/track/4XEQqy7GlKVKKoC34yE0RU) | [Malian Musicians](https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Mali Music](https://open.spotify.com/album/40ncJvz2FvF1Z4EvpE3vU9) | 5:19 |
 | 47 | [Hyena](https://open.spotify.com/track/1D3NaA8JL6QrKoYNj4BKN0) | [Jamshied Sharifi](https://open.spotify.com/artist/33MqkNoziqq49iXwazk71o) | [Footsteps In Africa \- The Soundtrack](https://open.spotify.com/album/63Llqn2jgqa0yKscAVGsuK) | 2:53 |
 | 48 | [Fafa](https://open.spotify.com/track/4ttKTDA9f5i2dAPSOqTRtB) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Fondo](https://open.spotify.com/album/6ulGA7Fh0lxzmlG1r6OOwR) | 5:03 |

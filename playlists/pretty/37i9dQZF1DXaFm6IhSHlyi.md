@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR?si=N0egSx\-tQT6tflfVl3Er1A">Lana Lubany</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,809 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,863 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [The Book of Love](https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe Version\)](https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn) | 2:58 |
 | 150 | [Tutto questo sei tu](https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Tutto questo sei tu](https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB) | 4:04 |
 
-Snapshot ID: `MTY0OTEyMDM5OCwwMDAwMDAwMDlkYTIxYjJiNjA3YTkyNTQxMWQ5ZDc1ZWNlZjYyZTdl`
+Snapshot ID: `MTY0OTIwNjkyMSwwMDAwMDAwMDlkYTIxYjJiNjA3YTkyNTQxMWQ5ZDc1ZWNlZjYyZTdl`

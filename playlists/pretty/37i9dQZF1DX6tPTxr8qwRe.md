@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Olivia O'Brien
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,743 likes - 69 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,610 likes - 69 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

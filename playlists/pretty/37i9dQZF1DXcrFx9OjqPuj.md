@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 
 > Get the party started with some uplifting party jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,985 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,008 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrFx9OjqPuj.md) - [plain]
 | 99 | [Avila And Tequila \- 1998 \- Remaster](https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK) | 4:31 |
 | 100 | [Sneaky Pete](https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:47 |
 
-Snapshot ID: `MTY0OTEyMDQ3NywwMDAwMDAwMGNlODVhYmZmZmZjYzJlMTRlMTQwMmQ2NzQ5MzVjZDVk`
+Snapshot ID: `MTY0OTIwNjk4OCwwMDAwMDAwMGNlODVhYmZmZmZjYzJlMTRlMTQwMmQ2NzQ5MzVjZDVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,003 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,074 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Latino & Proud](https://open.spotify.com/track/07mGbA2IRjQlvW0Es36yD9) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/4a2i4pa8TJrtLZgVDK2HuA) | 3:40 |
 | 100 | [Vienen A Verme \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
 
-Snapshot ID: `MTY0OTEyMDM0MCwwMDAwMDAwMDI2Y2U2YzE3NDViZThjMzZiNWYwZTlhZDg4YTM3YjJm`
+Snapshot ID: `MTY0OTIwNjg3MCwwMDAwMDAwMDI2Y2U2YzE3NDViZThjMzZiNWYwZTlhZDg4YTM3YjJm`

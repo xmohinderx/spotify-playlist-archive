@@ -1198,28 +1198,6 @@
     },
     {
       "album": {
-        "name": "Sem Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/32SxJtdIAKypT2ruZxgLzp"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        },
-        {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167137,
-      "name": "Sem Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Wv6XBZP0HOHKgDJwJBhHG"
-    },
-    {
-      "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
       },
@@ -1319,6 +1297,28 @@
       "duration_ms": 108460,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
+    },
+    {
+      "album": {
+        "name": "To Apaixonadin",
+        "url": "https://open.spotify.com/album/32SxJtdIAKypT2ruZxgLzp"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167137,
+      "name": "To Apaixonadin",
+      "url": "https://open.spotify.com/track/4Wv6XBZP0HOHKgDJwJBhHG"
     },
     {
       "album": {

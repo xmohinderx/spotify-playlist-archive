@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 
 > 
 
-[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 659 songs - 1 day 14 hr 35 min
+[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 660 songs - 1 day 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -667,5 +667,6 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 | 657 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 |
 | 658 | [Cosas Malas \- Remix](https://open.spotify.com/track/7hiAGGyiLaLBTVroaE08hx) | [Jona Mix](https://open.spotify.com/artist/766vvKS4M2b7XuaEzfkCs8) | [Cosas Malas \(Remix\)](https://open.spotify.com/album/7EDSu2ktxKYf8ZMm0NQFPP) | 2:59 |
 | 659 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
+| 660 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 
-Snapshot ID: `NzAzLGU5MDg5NWJmOWUyODgwZTQwN2I5ZmFmYWQ4YjQ3YjQyNzM2MmE4Yjk=`
+Snapshot ID: `NzA0LDNkYjU1NjdmOWM2MjhjNDRlMGI0NjZlODUzMjk0ZjQ0NzJkYzQ5NDc=`

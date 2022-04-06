@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,655 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,782 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 79 | [Price Tag](https://open.spotify.com/track/2Zb61Z5WIsb7R6CH19mjHm) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:43 |
 | 80 | [Read All About It, Pt\. III](https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:43 |
 
-Snapshot ID: `MTY0OTEyMDMyMywwMDAwMDAwMDliMzY2NjdlZmU2MTMxOTQxNGNlOWJkZDk3MDAxNDJh`
+Snapshot ID: `MTY0OTIwNjg1NSwwMDAwMDAwMDliMzY2NjdlZmU2MTMxOTQxNGNlOWJkZDk3MDAxNDJh`

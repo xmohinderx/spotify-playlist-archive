@@ -74,6 +74,28 @@
     },
     {
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221702,
+      "name": "ADULTHOOD",
+      "url": "https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv"
+    },
+    {
+      "album": {
         "name": "Ain't That Somethin'",
         "url": "https://open.spotify.com/album/6RlS5tZbxU06yoAxpQiKoE"
       },
@@ -1655,7 +1677,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 214159,
       "name": "Traingazing",
       "url": "https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa"

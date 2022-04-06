@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Gala Nell, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,496 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,614 likes - 78 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,25 +67,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 57 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
 | 58 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 |
 | 59 | [All Sortsa Luv](https://open.spotify.com/track/6sfvovPheLI0luP3kkjgTA) | [South of France](https://open.spotify.com/artist/0sBxk1gyQM4VN1j1pS01GJ) | [All Sortsa Luv](https://open.spotify.com/album/40vbo9VnJDLJZwiljHaOpu) | 3:30 |
-| 60 | [Paralyzed](https://open.spotify.com/track/0W9m89cGZJs94b40aucJ2k) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru) | [Paralyzed](https://open.spotify.com/album/6Qwko7TsrOnxYe77mY3frt) | 2:35 |
-| 61 | [Where The Wild Things Are](https://open.spotify.com/track/0TqCoJvdIs4CtDaQpv7JfH) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [Superpowers: part I](https://open.spotify.com/album/6H0lYr8rp08c2idHjqL6KU) | 2:17 |
-| 62 | [STRANGEST DESIRES \- COLLAR REMIX](https://open.spotify.com/track/0GbBWJAG3VFZXZz8pPBgdp) | [COLLAR](https://open.spotify.com/artist/3CsnrC5kPn3W4Hynewhciy) | [REMIXES MMXXII](https://open.spotify.com/album/15SDPSSJRwc1po6yHSP1j0) | 4:35 |
-| 63 | [This Shame Should Not Be Mine](https://open.spotify.com/track/5U7mdyOJpqtc9G3ViWq3jz) | [GGGOLDDD](https://open.spotify.com/artist/6ggf9cwxdhYNLFPhf4CazJ) | [This Shame Should Not Be Mine](https://open.spotify.com/album/2FSmKCoj9A6Pa28gacTaQt) | 3:57 |
-| 64 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 |
-| 65 | [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 |
-| 66 | [Fake Friends](https://open.spotify.com/track/38fQ6kiW7QPPK3Sd1Wk8w8) | [Melladaze](https://open.spotify.com/artist/5UsqCBkAPzvtOuCnENmdux) | [Fake Friends](https://open.spotify.com/album/30O4r5RflwEQ4AYrt6Ib9H) | 2:35 |
-| 67 | [GOTi](https://open.spotify.com/track/0YNfBZJ1GWLOi9hzTCiJt1) | [Love Deluxe](https://open.spotify.com/artist/4TBHppp6n1cCgjUpN0aTZf) | [GOTi](https://open.spotify.com/album/6hfQsf6hHdkxF6VR9YMfRe) | 3:33 |
-| 68 | [La Niebla](https://open.spotify.com/track/5cvLyw0lsezwirgCVFm2u8) | [Nomae](https://open.spotify.com/artist/2MhoE1jwmGgP3n8cwblDS5) | [La Niebla](https://open.spotify.com/album/4JfO4RR4cD33eVJD48i2pd) | 2:50 |
-| 69 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
-| 70 | [Gated Bloom](https://open.spotify.com/track/5yS6KbzmK0w7INcVJEAxam) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 3:20 |
-| 71 | [Crazy Sexy Dirty](https://open.spotify.com/track/1TIX1HwdjIXemCJDDyhPoy) | [Mike Nasty](https://open.spotify.com/artist/6kbSgW17fy30NioACFOt4X) | [Crazy Sexy Dirty](https://open.spotify.com/album/6sWsMNGzp9zHizUdZkl1oA) | 4:49 |
-| 72 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 |
-| 73 | [FL Studio, Obrigado \- Mixed](https://open.spotify.com/track/4dvN3trWoReTje5nmeTkhb) | [A.k.Adrix](https://open.spotify.com/artist/7q1nY63lVBPXNuKJ7Igkjs) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 1:41 |
-| 74 | [Okra Ooze](https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL) | [Kee Avil](https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR) | [Crease](https://open.spotify.com/album/5HrRbXAcV7NZ2G2Z2ghcF6) | 3:54 |
-| 75 | [These Are Heavy Things](https://open.spotify.com/track/4pupPSHAUxLmgN0s2hiEAj) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:36 |
-| 76 | [Monday \- Original Track](https://open.spotify.com/track/7bDYwcz5Q3reZ076pXLrhY) | [Jac\-o](https://open.spotify.com/artist/40IJCtaLBLFvCLyeeCYQWA) | [Monday \(Original Track\)](https://open.spotify.com/album/5gEtpE8EhfT4UgwOTu5t4q) | 4:34 |
-| 77 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 |
-| 78 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
-| 79 | [Wax Wings](https://open.spotify.com/track/3JhUL35Tjy6gHLevmzoTxM) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [Wax Wings](https://open.spotify.com/album/4K3SbD1ETQz7LneRcccvzK) | 3:54 |
+| 60 | [Where The Wild Things Are](https://open.spotify.com/track/0TqCoJvdIs4CtDaQpv7JfH) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [Superpowers: part I](https://open.spotify.com/album/6H0lYr8rp08c2idHjqL6KU) | 2:17 |
+| 61 | [STRANGEST DESIRES \- COLLAR REMIX](https://open.spotify.com/track/0GbBWJAG3VFZXZz8pPBgdp) | [COLLAR](https://open.spotify.com/artist/3CsnrC5kPn3W4Hynewhciy) | [REMIXES MMXXII](https://open.spotify.com/album/15SDPSSJRwc1po6yHSP1j0) | 4:35 |
+| 62 | [This Shame Should Not Be Mine](https://open.spotify.com/track/5U7mdyOJpqtc9G3ViWq3jz) | [GGGOLDDD](https://open.spotify.com/artist/6ggf9cwxdhYNLFPhf4CazJ) | [This Shame Should Not Be Mine](https://open.spotify.com/album/2FSmKCoj9A6Pa28gacTaQt) | 3:57 |
+| 63 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 |
+| 64 | [Chill Ish](https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV) | [NOVA](https://open.spotify.com/artist/6hMxAjfLqgMK5P7oBGXdOT) | [Chill Ish](https://open.spotify.com/album/1SGLItMEtFK3IFwMyM6lOD) | 2:05 |
+| 65 | [Fake Friends](https://open.spotify.com/track/38fQ6kiW7QPPK3Sd1Wk8w8) | [Melladaze](https://open.spotify.com/artist/5UsqCBkAPzvtOuCnENmdux) | [Fake Friends](https://open.spotify.com/album/30O4r5RflwEQ4AYrt6Ib9H) | 2:35 |
+| 66 | [GOTi](https://open.spotify.com/track/0YNfBZJ1GWLOi9hzTCiJt1) | [Love Deluxe](https://open.spotify.com/artist/4TBHppp6n1cCgjUpN0aTZf) | [GOTi](https://open.spotify.com/album/6hfQsf6hHdkxF6VR9YMfRe) | 3:33 |
+| 67 | [La Niebla](https://open.spotify.com/track/5cvLyw0lsezwirgCVFm2u8) | [Nomae](https://open.spotify.com/artist/2MhoE1jwmGgP3n8cwblDS5) | [La Niebla](https://open.spotify.com/album/4JfO4RR4cD33eVJD48i2pd) | 2:50 |
+| 68 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
+| 69 | [Gated Bloom](https://open.spotify.com/track/5yS6KbzmK0w7INcVJEAxam) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 3:20 |
+| 70 | [Crazy Sexy Dirty](https://open.spotify.com/track/1TIX1HwdjIXemCJDDyhPoy) | [Mike Nasty](https://open.spotify.com/artist/6kbSgW17fy30NioACFOt4X) | [Crazy Sexy Dirty](https://open.spotify.com/album/6sWsMNGzp9zHizUdZkl1oA) | 4:49 |
+| 71 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 |
+| 72 | [FL Studio, Obrigado \- Mixed](https://open.spotify.com/track/4dvN3trWoReTje5nmeTkhb) | [A.k.Adrix](https://open.spotify.com/artist/7q1nY63lVBPXNuKJ7Igkjs) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 1:41 |
+| 73 | [Okra Ooze](https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL) | [Kee Avil](https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR) | [Crease](https://open.spotify.com/album/5HrRbXAcV7NZ2G2Z2ghcF6) | 3:54 |
+| 74 | [These Are Heavy Things](https://open.spotify.com/track/4pupPSHAUxLmgN0s2hiEAj) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:36 |
+| 75 | [Monday \- Original Track](https://open.spotify.com/track/7bDYwcz5Q3reZ076pXLrhY) | [Jac\-o](https://open.spotify.com/artist/40IJCtaLBLFvCLyeeCYQWA) | [Monday \(Original Track\)](https://open.spotify.com/album/5gEtpE8EhfT4UgwOTu5t4q) | 4:34 |
+| 76 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 |
+| 77 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
+| 78 | [Wax Wings](https://open.spotify.com/track/3JhUL35Tjy6gHLevmzoTxM) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [Wax Wings](https://open.spotify.com/album/4K3SbD1ETQz7LneRcccvzK) | 3:54 |
 
-Snapshot ID: `MTY0OTExOTk2MCwwMDAwMDAwMDlhYjZjODQyNDM3MTRjNWVjNDA1OGE5ZjRmMmE2ODU3`
+Snapshot ID: `MTY0OTIwNjUzOCwwMDAwMDAwMGE1NDZhMWNlNDU4OTYwZjk4NDYwYjBlM2IyYzZhY2Nj`

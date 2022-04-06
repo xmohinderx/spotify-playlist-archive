@@ -2388,6 +2388,24 @@
     },
     {
       "album": {
+        "name": "Blood In The Snow",
+        "url": "https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286133,
+      "name": "Blood In The Snow",
+      "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/77m2CAzG88DkuYbXZD6VM6"
       },
@@ -3961,6 +3979,32 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/3Shmw3BtBdSwWAd2euMIXc"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Takis",
+          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
+        },
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5TaVGEfQ9jzxE4Itai3hLW"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/35FI994qdBENdCgR6M72CW"
       },
       "artists": [
@@ -4349,7 +4393,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
@@ -8161,7 +8205,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 235417,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
@@ -8271,7 +8315,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -11693,7 +11737,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 177157,
       "name": "Kill My Lonely",
       "url": "https://open.spotify.com/track/2q8RX9TJ5Il8qjM9kqvJfo"
@@ -16445,7 +16489,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
@@ -16979,7 +17023,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 212210,
       "name": "Puzzle Box",
       "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
@@ -17427,7 +17471,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 261741,
       "name": "Revelation - Barry Can't Swim Remix",
       "url": "https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n"
@@ -17981,7 +18025,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 170562,
       "name": "Run Free",
       "url": "https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P"
@@ -19577,7 +19621,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 247626,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
@@ -19769,7 +19813,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
@@ -19865,7 +19909,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 215640,
       "name": "Spit",
       "url": "https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3"
@@ -22257,7 +22301,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 141312,
       "name": "Typical (feat. Lars Martin)",
       "url": "https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd"
@@ -23403,7 +23447,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 182250,
       "name": "When We're Awake",
       "url": "https://open.spotify.com/track/2d3fA0TfGGFBJJHGXWnV5s"
@@ -23473,6 +23517,28 @@
       "duration_ms": 224865,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/53WlrFe9LKHa42WoNF8F4q"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150256,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/5i1pA6kJcxetBsFifLWtwG"
     },
     {
       "album": {
@@ -23597,7 +23663,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
@@ -23699,7 +23765,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 195210,
       "name": "Wicked Games - Radio Edit",
       "url": "https://open.spotify.com/track/5MN68joMsXEr6ss8gwHqCU"

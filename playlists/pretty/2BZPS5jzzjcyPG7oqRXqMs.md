@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening .
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,790 likes - 100 songs - 6 hr 3 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,793 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 99 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
 | 100 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 |
 
-Snapshot ID: `MzEwNyxiNjI0ODg0ZmU0ZTU0NzNhN2UxYzg1ZWVlYTY1NDJkNTIxNDA3ZTEx`
+Snapshot ID: `MzEwOSxiZWVhMGM0Njk4MWUwN2UyNDllMzI2NjZmN2Q0ZDlmMGVjZjUyN2M0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,716 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,794 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 |
 | 150 | [Do It Anyway](https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG) | [Keith Cuts](https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN) | [Do It Anyway](https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa) | 3:35 |
 
-Snapshot ID: `MTY0OTExOTg2OSwwMDAwMDAwMGFhOTMzZWVhN2EwODA0MjFkMGRkNjE4NTM5MzBjZjE4`
+Snapshot ID: `MTY0OTIwNjQ1OCwwMDAwMDAwMGFhOTMzZWVhN2EwODA0MjFkMGRkNjE4NTM5MzBjZjE4`

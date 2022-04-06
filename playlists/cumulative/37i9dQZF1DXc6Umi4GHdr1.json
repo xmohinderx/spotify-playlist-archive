@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 133720,
       "name": "Anji",
       "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
@@ -365,6 +365,24 @@
       "duration_ms": 241592,
       "name": "die Tulpe",
       "url": "https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK"
+    },
+    {
+      "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "East",
+      "url": "https://open.spotify.com/track/0EXR9AfcquwLS4yksMql29"
     },
     {
       "album": {
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 163740,
       "name": "La Vigie",
       "url": "https://open.spotify.com/track/0rZm326H0WhDCntVeZkoWa"
@@ -1301,10 +1319,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 355306,
       "name": "The End of All Rivers",
       "url": "https://open.spotify.com/track/6nS9crd0L3jh2zbGCPGkiC"
+    },
+    {
+      "album": {
+        "name": "The Other Side Of The Sun",
+        "url": "https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi"
+      },
+      "artists": [
+        {
+          "name": "Josephine Forrester",
+          "url": "https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155295,
+      "name": "The Other Side Of The Sun",
+      "url": "https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI"
     },
     {
       "album": {
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 147192,
       "name": "Tiempo Diferente",
       "url": "https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ"

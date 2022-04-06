@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,068 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,413 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 45 | [R U 4 Me?](https://open.spotify.com/track/1NJ2etRHt8KOJI2wA1S7du) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [R U 4 Me?](https://open.spotify.com/album/5ThbmX1gLaPbtTA3aBgZQo) | 2:49 |
 | 46 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 |
 | 47 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 |
-| 48 | [Everybody’s Gonna Love Somebody \- Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody’s Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 |
+| 48 | [Everybody’s Gonna Love Somebody \- Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody's Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 |
 | 49 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
 | 50 | [Begin Again](https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Begin Again](https://open.spotify.com/album/2V3TNPXvdNjqXAHPKYXUAT) | 3:46 |
 | 51 | [Shane](https://open.spotify.com/track/35goAAwRgw83du1h0Ulare) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Shane](https://open.spotify.com/album/1WaMYVxngDmjliUb3mcVka) | 3:41 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Dance In Room Song](https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Dance In Room Song](https://open.spotify.com/album/3FkUMOuiprjmmlnY1DmV1u) | 2:51 |
 | 120 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 |
 
-Snapshot ID: `MTY0OTEyMDE1NSwwMDAwMDAwMDhkMzUxMGI4Yjk3MjhmNTY3NTA0ZGZmZTljNTMxOWJm`
+Snapshot ID: `MTY0OTIwNjcxMSwwMDAwMDAwMDhkMzUxMGI4Yjk3MjhmNTY3NTA0ZGZmZTljNTMxOWJm`

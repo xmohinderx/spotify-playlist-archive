@@ -1846,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "7 Secretos",
+        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153211,
+      "name": "Se Que No",
+      "url": "https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m"
+    },
+    {
+      "album": {
         "name": "Se Termin\u00f3 (feat. Kodigo)",
         "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
       },
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 128000,
       "name": "Vacio",
       "url": "https://open.spotify.com/track/435YiiQUdWbS6Z735tNrdL"

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 157675,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 142913,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes On Patios",
+        "url": "https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw"
+      },
+      "artists": [
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Cigarettes On Patios",
+      "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
+    },
+    {
+      "album": {
         "name": "CLAW MACHINE",
         "url": "https://open.spotify.com/album/3Tcny7YWM2B7stnwwgrmvq"
       },
@@ -661,7 +679,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 170945,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/3iBlHQdUYMH1uQ45EjMmkw"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 129473,
       "name": "Coming Off (w/ Brevin Kim)",
       "url": "https://open.spotify.com/track/5VVwf9cFRB54BwuRTTUzk5"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 140869,
       "name": "commas",
       "url": "https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 165600,
       "name": "dirty laundry",
       "url": "https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 181727,
       "name": "Fcked Up Teeth",
       "url": "https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 93953,
       "name": "Float",
       "url": "https://open.spotify.com/track/7B2bBV0UHQwjuumnpr461D"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 137894,
       "name": "funny lil thing",
       "url": "https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 204418,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/17fegXpwCZ98uOGEo4iDD0"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 123269,
       "name": "horror story",
       "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
@@ -1674,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "Dark Sky Paradise",
+        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "I Don't Fuck With You",
+      "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "album": {
         "name": "A Romantic Comedy",
         "url": "https://open.spotify.com/album/3P6huL2kqXwGKRyR6gWEqh"
       },
@@ -1707,7 +1747,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 155825,
       "name": "i'm drunk and i miss you more",
       "url": "https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c"
@@ -1773,7 +1813,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 215936,
       "name": "imu (ft. Travis Barker)",
       "url": "https://open.spotify.com/track/0CcPL8OEi8vchvprpl6oYe"
@@ -1995,7 +2035,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
@@ -2089,7 +2129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6GvMQIbZJLv7DczrwXTv43"
@@ -2129,7 +2169,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 226006,
       "name": "MAGIC (feat. Mustard)",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
@@ -2267,7 +2307,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 150118,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x"
@@ -2285,7 +2325,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
@@ -2321,7 +2361,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
@@ -2343,7 +2383,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 164499,
       "name": "Nintendo",
       "url": "https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG"
@@ -2365,6 +2405,50 @@
       "duration_ms": 196733,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
+    },
+    {
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304606,
+      "name": "No Problem (feat. Lil Wayne & 2 Chainz)",
+      "url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
       "album": {
@@ -2415,7 +2499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 170666,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4OY3LbPQOaKeYsrDXw7zFD"
@@ -2513,7 +2597,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 169560,
       "name": "Peso",
       "url": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3"
@@ -2571,7 +2655,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 196813,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
@@ -2651,7 +2735,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 163058,
       "name": "RAINCLOUDS",
       "url": "https://open.spotify.com/track/39ZCoAQVRkBsAIo0kO8f1f"
@@ -2727,6 +2811,24 @@
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
+    },
+    {
+      "album": {
+        "name": "RESCUE",
+        "url": "https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny 2 Phones",
+          "url": "https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157995,
+      "name": "RESCUE",
+      "url": "https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq"
     },
     {
       "album": {
@@ -2821,6 +2923,28 @@
       "duration_ms": 83571,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7"
+    },
+    {
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "rockstar (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
       "album": {
@@ -2965,7 +3089,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 137263,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ"
@@ -3041,7 +3165,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 185668,
       "name": "Stars In The Sky - From Sonic The Hedgehog 2",
       "url": "https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ"
@@ -3201,7 +3325,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
@@ -3327,7 +3451,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 117714,
       "name": "the other side",
       "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
@@ -3363,7 +3487,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 206306,
       "name": "This Could Be Us",
       "url": "https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"
@@ -3381,7 +3505,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 179383,
       "name": "This Isn't Heaven, It Must Be Hell",
       "url": "https://open.spotify.com/track/5NICLsAN2wxcFQEdriIV1s"
@@ -3403,7 +3527,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 195173,
       "name": "Tom Holland",
       "url": "https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd"
@@ -3549,7 +3673,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 151446,
       "name": "W (with yvngxchris)",
       "url": "https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6"
@@ -3589,7 +3713,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 233880,
       "name": "Weekend Millionaires",
       "url": "https://open.spotify.com/track/4CNAf3OB75dximfpqT52Lo"
@@ -3607,7 +3731,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 122130,
       "name": "Winning",
       "url": "https://open.spotify.com/track/1yS8J9iYUVXBs2k7HH8LBd"
@@ -3625,7 +3749,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 126316,
       "name": "winter",
       "url": "https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7"
@@ -3643,7 +3767,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
@@ -3661,7 +3785,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 161700,
       "name": "you",
       "url": "https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD"

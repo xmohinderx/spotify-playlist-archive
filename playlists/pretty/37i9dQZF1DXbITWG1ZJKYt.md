@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,490,519 likes - 200 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,491,772 likes - 200 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Alabama \- Live At Birdland Jazzclub, New York City, NY, 10/18/1963](https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 5:08 |
 | 200 | [Moanin' \- Remastered](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
 
-Snapshot ID: `MTY0OTEyMDQzMiwwMDAwMDAwMGM1NWZmOWM1MTQ2ZGE3NWJlZTUzYmIyZDQ0MjdiZDZh`
+Snapshot ID: `MTY0OTIwNjk1MCwwMDAwMDAwMGM1NWZmOWM1MTQ2ZGE3NWJlZTUzYmIyZDQ0MjdiZDZh`

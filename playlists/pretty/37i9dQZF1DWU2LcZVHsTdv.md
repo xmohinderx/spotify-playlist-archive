@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,030 likes - 99 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,110 likes - 99 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

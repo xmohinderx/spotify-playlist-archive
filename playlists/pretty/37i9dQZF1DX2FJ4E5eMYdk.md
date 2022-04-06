@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > A little psychedelic, a little groovy, and very rootsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,036 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,082 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Island Time](https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N) | [Island Time](https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj) | 3:55 |
 | 60 | [All In My Head](https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:21 |
 
-Snapshot ID: `MTY0OTEyMDEzNSwwMDAwMDAwMDliOTRiNDU0MTc4ZjI4ODQ2ZmYwZWZmNDViZjI0ODZk`
+Snapshot ID: `MTY0OTIwNjY5NCwwMDAwMDAwMDliOTRiNDU0MTc4ZjI4ODQ2ZmYwZWZmNDViZjI0ODZk`

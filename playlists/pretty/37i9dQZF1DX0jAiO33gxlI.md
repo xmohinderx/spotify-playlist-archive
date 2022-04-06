@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Tribo da Periferia, MC Ryan SP, Hungria Hip Hop
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,785 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,946 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 6 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 |
 | 7 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 |
 | 8 | [Vida Longa, Mundo Pequeno](https://open.spotify.com/track/1ARpf6Tuivb4hnPzgy4tQY) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado Sem Cortes](https://open.spotify.com/album/66kMEjrEoIXIvERhjEj40q) | 5:03 |
-| 9 | [Sadomasoquismo \(Me Tira da Mira\)](https://open.spotify.com/track/6eUjznFQSr6fAF8seWOb9K) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [King](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Sadomasoquismo \(Me Tira da Mira\)](https://open.spotify.com/album/1ZbGWxWJXSMu2MWWrzlwtZ) | 2:48 |
+| 9 | [Sadomasoquismo \(Me Tira da Mira\)](https://open.spotify.com/track/6eUjznFQSr6fAF8seWOb9K) | [King](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Sadomasoquismo \(Me Tira da Mira\)](https://open.spotify.com/album/1ZbGWxWJXSMu2MWWrzlwtZ) | 2:48 |
 | 10 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 |
 | 11 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 12 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 |

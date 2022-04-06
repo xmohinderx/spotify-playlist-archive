@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: KWON EUN BI",
-  "num_followers": 662527,
+  "num_followers": 662986,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA2NTk3NiwwMDAwMDI1NjAwMDAwMTdmZjNmZGUxN2UwMDAwMDE3ZmYzZmQzNWRi",
+  "snapshot_id": "MTY0OTE0Mzg4OSwwMDAwMDI1NzAwMDAwMTdmZjhhMmJmNTEwMDAwMDE3ZmYzZmQzNWRi",
   "tracks": [
     {
       "added_at": "2022-04-04 09:52:56",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek"
     },
     {
+      "added_at": "2022-04-04 09:52:56",
+      "album": {
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+    },
+    {
       "added_at": "2022-03-28 09:30:38",
       "album": {
         "name": "Real Love",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr"
     },
     {
+      "added_at": "2022-04-05 07:31:29",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 160520,
+      "name": "MY BAG",
+      "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
+    },
+    {
       "added_at": "2022-03-31 09:37:56",
       "album": {
         "name": "memeM",
@@ -75,22 +107,6 @@
       "duration_ms": 172066,
       "name": "memeM",
       "url": "https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI"
-    },
-    {
-      "added_at": "2022-04-04 09:52:56",
-      "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
       "added_at": "2022-03-16 09:38:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Avishai Cohen
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,230 likes - 58 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,302 likes - 58 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 40 | [Golden Hour](https://open.spotify.com/track/5GKcr12O6MRmYu8J4htkxu) | [Club d'Elf](https://open.spotify.com/artist/1BgpmrYwHqgWNKGjMm0VmU) | [You Never Know](https://open.spotify.com/album/37fCdBLGlpjurRYsD1VWUM) | 6:33 |
 | 41 | [Joro Timbal](https://open.spotify.com/track/1pn9VU1ThlFyXjzBQAr354) | [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [3rd Element Revisited](https://open.spotify.com/album/2Tz8l7hgQLWZerJZjtMiXT) | 5:53 |
 | 42 | [Milonga](https://open.spotify.com/track/11XMMojJjPScvfPYP0warO) | [Aleix Bové](https://open.spotify.com/artist/4lNinXkx60hVhH1tRBtXUb), [El Diván del Tiempo](https://open.spotify.com/artist/6SDw7K8Nn5ftX1OFdbQYAJ), [Gerard Marsal](https://open.spotify.com/artist/3mT0v6sO12z9NBNUAhcE0P), [Ivan Santa](https://open.spotify.com/artist/0n4G8VIdl9dDZLQ4kTeGzb), [Cesar Vasconcelos](https://open.spotify.com/artist/4sbQpflVV8Pqt7nVy6ww04) | [Milonga](https://open.spotify.com/album/6V8I6zzAfmNG8iIe3HAM1Y) | 3:46 |
-| 43 | [Flight](https://open.spotify.com/track/2yFgYM0madEwWgdOijIYCv) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Jonas Gravlund](https://open.spotify.com/artist/4TYGbjlU0XZV8gjstM6FLm), [Jens Mikkel Madsen](https://open.spotify.com/artist/7clzRivIR9YHDz4RcgnYyD), [August Korsgaard](https://open.spotify.com/artist/0FnP7mg6LLySHd6gpTWuRW), [John Riddle](https://open.spotify.com/artist/1gePrzNWnpoHNFNZ446iRi) | [Flight](https://open.spotify.com/album/0eInTrCi8RZ7yHYBC5uDyu) | 5:05 |
+| 43 | [Flight](https://open.spotify.com/track/2yFgYM0madEwWgdOijIYCv) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Jonas Gravlund](https://open.spotify.com/artist/4TYGbjlU0XZV8gjstM6FLm), [August Korsgaard](https://open.spotify.com/artist/0FnP7mg6LLySHd6gpTWuRW), [Jens Mikkel Madsen](https://open.spotify.com/artist/7clzRivIR9YHDz4RcgnYyD), [John Riddell](https://open.spotify.com/artist/0uv2Zc91g37wbcF4JNZjll) | [Flight](https://open.spotify.com/album/0eInTrCi8RZ7yHYBC5uDyu) | 5:05 |
 | 44 | [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 |
 | 45 | [A Thin With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 |
 | 46 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 |

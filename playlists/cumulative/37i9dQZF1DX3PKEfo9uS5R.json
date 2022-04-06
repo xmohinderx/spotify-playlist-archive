@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 221284,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 212694,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 134857,
       "name": "Fluffy",
       "url": "https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 213818,
       "name": "Gone Fishing",
       "url": "https://open.spotify.com/track/0KBpSaFvoYODDM5r8uvUQJ"
@@ -1132,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "outbreak",
+        "url": "https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI"
+      },
+      "artists": [
+        {
+          "name": "Amaraldo",
+          "url": "https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "outbreak",
+      "url": "https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq"
+    },
+    {
+      "album": {
         "name": "Overtime",
         "url": "https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN"
       },
@@ -1201,6 +1219,24 @@
       "duration_ms": 242086,
       "name": "Play Day",
       "url": "https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw"
+    },
+    {
+      "album": {
+        "name": "Play My Heart",
+        "url": "https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY"
+      },
+      "artists": [
+        {
+          "name": "Jorja X",
+          "url": "https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Play My Heart - Instrumental Dub",
+      "url": "https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp"
     },
     {
       "album": {
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 244544,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl"

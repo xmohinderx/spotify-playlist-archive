@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,246 likes - 21 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,289 likes - 21 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 |
-| 2 | [Up](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 |
+| 2 | [Up!](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up!](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 |
 | 3 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 |
 | 4 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 |
 | 5 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 20 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 |
 | 21 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 |
 
-Snapshot ID: `MTY0OTExOTkyOCwwMDAwMDAwMDRkYWVhNDU2NmJlMWE3MzU2NmE3YzEzNDQxMjdmZWVh`
+Snapshot ID: `MTY0OTIwNjUxMCwwMDAwMDAwMDRkYWVhNDU2NmJlMWE3MzU2NmE3YzEzNDQxMjdmZWVh`

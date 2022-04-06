@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
-> Your daily dose of soul\-infused music! Cover: Joss Stone
+> Congratulations to the amazing Jon Batiste \(cover\).
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Crescent Moon](https://open.spotify.com/track/7pdYhzjTxgjiUwThH98hyk) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/3rlyvJMxvYoUkcZ14PIwtb) | 3:19 | 2022-01-27 |  |
 | [Crooked Sermon](https://open.spotify.com/track/1zK1Jf3jkOf84ADLGig2U9) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Years](https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB) | 4:19 | 2021-12-03 |  |
 | [CRUMPY](https://open.spotify.com/track/3axI88EJvw5J6tnMdCvc66) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [CRUMPY](https://open.spotify.com/album/6dKmyxrba50ysYPG0fJlOA) | 3:07 | 2020-04-24 | 2020-09-15 |
+| [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 |  |
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2021-04-17 | 2022-01-28 |
 | [Damaged Heart](https://open.spotify.com/track/7uUBiganGx5JJO1AoUTzhA) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Damaged Heart](https://open.spotify.com/album/2Tzqr30MEOXJCVBiRYChra) | 3:10 | 2020-10-30 | 2021-12-01 |
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-07-30 | 2021-10-29 |

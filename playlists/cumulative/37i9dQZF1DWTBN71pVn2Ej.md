@@ -2,7 +2,7 @@
 
 ### [Alternative Noise](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
-> The best new alternative rock tracks\. Cover: Nova Twins
+> The best new alternative rock tracks.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-03-29 |  |
 | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx), [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq) | 3:22 | 2022-02-10 |  |
 | [Better Friend](https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Better Friend](https://open.spotify.com/album/75XZVRTJTmmVIpicxZLRuL) | 4:17 | 2022-02-24 |  |
-| [big deal](https://open.spotify.com/track/4GEZ6cKhqcm5IbZsEKwEv3) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [the lovehate mixtape](https://open.spotify.com/album/0A7duZERSI4xT4SttTCBvj) | 2:39 | 2021-12-16 |  |
+| [big deal](https://open.spotify.com/track/4GEZ6cKhqcm5IbZsEKwEv3) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [the lovehate mixtape](https://open.spotify.com/album/0A7duZERSI4xT4SttTCBvj) | 2:39 | 2021-12-16 | 2022-04-06 |
 | [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 | 2022-03-31 |  |
 | [blink](https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d) | [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [blink](https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD) | 3:47 | 2022-02-17 |  |
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-03-10 |  |
@@ -32,6 +32,7 @@
 | [Burnt \(By the Sun\)](https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Somebody's Closer](https://open.spotify.com/album/3TGCf5xW77jYE9JbzM0SiC) | 2:51 | 2021-12-16 |  |
 | [BWBB](https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [BWBB](https://open.spotify.com/album/0hM0Y3rcMNL57znId5EISZ) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Call It Home](https://open.spotify.com/track/4LbhFWgp6MeYvrHNRbhrC7) | [Of Allies](https://open.spotify.com/artist/5fYc93nNjMlAsoaXen9elQ) | [Epoch](https://open.spotify.com/album/16Le5bzGb1VGLfx9BFaK1i) | 4:04 | 2021-12-16 | 2022-01-21 |
+| [Care About You](https://open.spotify.com/track/5EdKpHVNlOuoQIf8rjvRrc) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Driving In The Dark](https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR) | 2:51 | 2022-04-05 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-27 |  |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |
 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 | 2022-01-13 |  |
@@ -40,7 +41,7 @@
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-02-10 |  |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-17 | 2022-02-25 |
-| [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-21 |  |
+| [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-21 | 2022-04-06 |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 |  |
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
 | [Down4ever](https://open.spotify.com/track/6wTgRF97V3ewzivhYSVBGL) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Down4ever](https://open.spotify.com/album/3L6Nyy6vDuIuUxZ75BI6f0) | 3:27 | 2021-12-16 | 2022-01-07 |
@@ -56,6 +57,7 @@
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-12-16 | 2022-02-18 |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 |  |
+| [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 |  |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2021-12-16 | 2022-02-11 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 |  |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
@@ -69,6 +71,7 @@
 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 | 2022-01-20 |  |
 | [Johnny Wants To Fight](https://open.spotify.com/track/7H1ZwfAglRLCUxS4kfLZtT) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Johnny Wants To Fight](https://open.spotify.com/album/0BHNYQwg5z73DRT5S4ja67) | 4:00 | 2021-12-16 |  |
 | [Journey Proud](https://open.spotify.com/track/7lZYsbTb3qmsJlZZUXz0KK) | [Tree River](https://open.spotify.com/artist/1FLrUkEcdVbt27IZ3dnTIu) | [Journey Proud](https://open.spotify.com/album/4MthkjXIy91PKMCOdcX7E7) | 4:20 | 2022-02-10 |  |
+| [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-05 |  |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
 | [Leash](https://open.spotify.com/track/3jV6xQbRfeYUgwCZEsz1sJ) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen](https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj) | 3:13 | 2021-12-16 | 2022-02-11 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2022-03-10 |  |
@@ -89,7 +92,7 @@
 | [Personal Space](https://open.spotify.com/track/4QOTnsKNWG86hTp3AeFHsG) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Personal Space](https://open.spotify.com/album/26k38wPq6koIUKR7KtWXee) | 3:40 | 2021-12-16 | 2022-03-25 |
 | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/track/42aJXANJRz2Prmz48ZGElE) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/album/3aBKxP5DFuVPGRLZmJVDrm) | 4:02 | 2022-03-31 |  |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 |  |
-| [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-16 |  |
+| [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-16 | 2022-04-06 |
 | [Queen](https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Queen](https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7) | 3:13 | 2022-03-10 |  |
 | [Rinse and Repeat](https://open.spotify.com/track/5TFCatIcfeNVhoUpqHIlHg) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Rinse and Repeat](https://open.spotify.com/album/59LnOVTUi3AkP948nZ54BS) | 4:31 | 2022-03-24 | 2022-03-30 |
 | [Roses](https://open.spotify.com/track/3lG1KQ70mUNVbYoOF21oUl) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Roses](https://open.spotify.com/album/0GBaXfDNx3iAuOLsw9szJ6) | 3:15 | 2022-02-03 | 2022-03-11 |
@@ -114,7 +117,8 @@
 | [UGLY BUG](https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [The Brass Tax](https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT) | 3:54 | 2022-02-24 |  |
 | [Wall of Silence](https://open.spotify.com/track/2WwLEcSoYJjhTTS7eqUb08) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Wall of Silence](https://open.spotify.com/album/4UBTTNZuO58gEW8EQvrM18) | 3:14 | 2021-12-16 | 2022-03-22 |
 | [Walls](https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Walls](https://open.spotify.com/album/5O4Lzcjk9GDqMm59roa3x7) | 3:04 | 2021-12-16 | 2022-04-01 |
-| [Way Out](https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Way Out](https://open.spotify.com/album/6ONvmvNv1ODp0o6vEaMwM7) | 3:02 | 2021-12-16 |  |
+| [Way Out](https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Way Out](https://open.spotify.com/album/6ONvmvNv1ODp0o6vEaMwM7) | 3:02 | 2021-12-16 | 2022-04-06 |
+| [When It All Breaks Down](https://open.spotify.com/track/70Hz40RYlUS8GsSnIoypkT) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 4:15 | 2022-04-05 |  |
 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 | 2021-12-16 | 2022-03-11 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/6Ggg9AKfFQpmIDHFv49y1r) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Yeah Yeah Yeah](https://open.spotify.com/album/17J3qSTLNBHWzwUFPwizZX) | 3:07 | 2021-12-16 | 2022-01-14 |
 | [Your Favourite Blade](https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 4:34 | 2022-02-17 |  |

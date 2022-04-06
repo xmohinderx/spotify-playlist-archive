@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 
 > Listen to easy songs from your favorite artists! Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,904,505 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,906,220 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 99 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 100 | [Million Reasons](https://open.spotify.com/track/1rpDLMm4FjGqMz6N1dZZo8) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:25 |
 
-Snapshot ID: `MTY0OTExOTg3MiwwMDAwMDAwMDRiN2RmNmM5YjcyNzcyMDYwZjBhMjkzZWMxYjhjNDg4`
+Snapshot ID: `MTY0OTIwNjQ2MSwwMDAwMDAwMDRiN2RmNmM5YjcyNzcyMDYwZjBhMjkzZWMxYjhjNDg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,484 likes - 635 songs - 1 day 18 hr 42 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,485 likes - 635 songs - 1 day 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 82 | [Begin The Begin](https://open.spotify.com/track/5z0V8zBt6uI8dqc0ChROpg) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Lifes Rich Pageant](https://open.spotify.com/album/5utjCgJfaqaOqfHGMzD9cB) | 3:28 |
 | 83 | [Trailerpark](https://open.spotify.com/track/2XZWpgwCr9GFZUI6QgPBl8) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 4:26 |
 | 84 | [Enjoy the Silence \- Single Mix](https://open.spotify.com/track/1YwNlWLf8auhazSQUDQLFU) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Enjoy the Silence](https://open.spotify.com/album/13OoJ5Y23cdo8CDAiQwznb) | 4:17 |
-| 85 | [Dissident \(Remastered\)](https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:34 |
+| 85 | [Dissident \- Remastered](https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:34 |
 | 86 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
 | 87 | [L.A.X.](https://open.spotify.com/track/3cKbIicif5YVFF4VqI47sA) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 4:10 |
 | 88 | [Calling Occupants Of Interplanetary Craft](https://open.spotify.com/track/6XzgfcOFwpn7747ROhyp86) | [Klaatu](https://open.spotify.com/artist/5F2L8tQs3nAcg9P4uxWufg) | [3:47 EST](https://open.spotify.com/album/58UcN7f8fECrlCmmLgbDAT) | 7:10 |

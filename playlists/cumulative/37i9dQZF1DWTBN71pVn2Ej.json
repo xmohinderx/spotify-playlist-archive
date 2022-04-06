@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new alternative rock tracks. Cover: Nova Twins",
+  "description": "The best new alternative rock tracks.",
   "name": "Alternative Noise",
   "published_playlist_ids": [
     "5quM8neQlox9eNtsEIONeH"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 159441,
       "name": "big deal",
       "url": "https://open.spotify.com/track/4GEZ6cKhqcm5IbZsEKwEv3"
@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Driving In The Dark",
+        "url": "https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR"
+      },
+      "artists": [
+        {
+          "name": "Columbus",
+          "url": "https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171508,
+      "name": "Care About You",
+      "url": "https://open.spotify.com/track/5EdKpHVNlOuoQIf8rjvRrc"
+    },
+    {
+      "album": {
         "name": "CASUALTY",
         "url": "https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q"
       },
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 219586,
       "name": "Decompress",
       "url": "https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry"
@@ -920,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Gotta Let It Go",
+        "url": "https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116485,
+      "name": "Gotta Let It Go",
+      "url": "https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP"
+    },
+    {
+      "album": {
         "name": "Great Mass of Color",
         "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
       },
@@ -1159,6 +1195,24 @@
       "duration_ms": 260799,
       "name": "Journey Proud",
       "url": "https://open.spotify.com/track/7lZYsbTb3qmsJlZZUXz0KK"
+    },
+    {
+      "album": {
+        "name": "Disconnected Happy",
+        "url": "https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda"
+      },
+      "artists": [
+        {
+          "name": "Daisy Brain",
+          "url": "https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170813,
+      "name": "Kleptomaniac",
+      "url": "https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1"
     },
     {
       "album": {
@@ -1537,7 +1591,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 258661,
       "name": "Pushin' Thru It",
       "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
@@ -1987,10 +2041,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 182053,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g"
+    },
+    {
+      "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255670,
+      "name": "When It All Breaks Down",
+      "url": "https://open.spotify.com/track/70Hz40RYlUS8GsSnIoypkT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: King Kaliedoscope
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,631 likes - 85 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,816 likes - 85 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

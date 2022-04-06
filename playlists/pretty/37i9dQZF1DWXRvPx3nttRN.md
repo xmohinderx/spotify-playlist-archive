@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,824 likes - 232 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,970 likes - 232 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [This Is What You Came For](https://open.spotify.com/track/7cCQufLFp5xl6wemDaX4sa) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/5E4mw9A80rMwcpyG24kSPk) | 3:24 |
 | 232 | [Can't Hold Us \- Acoustic](https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Can't Hold Us \(Acoustic\)](https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L) | 3:19 |
 
-Snapshot ID: `MTY0OTExOTk4MywwMDAwMDAwMGRmZGE4Njc4MjY5NGZlMjFlYTMzNzBiYzk0YjQzMDcy`
+Snapshot ID: `MTY0OTIwNjU1OSwwMDAwMDAwMGRmZGE4Njc4MjY5NGZlMjFlYTMzNzBiYzk0YjQzMDcy`

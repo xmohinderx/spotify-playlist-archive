@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Cowboy Mugshot \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,356 likes - 115 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,458 likes - 115 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,183 @@
 {
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tolstoys",
-  "num_followers": 2298,
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Meowlau & Val",
+  "num_followers": 2304,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY5NDAwMCwwMDAwMDAwZjAwMDAwMTdmNjY5YzY2NzYwMDAwMDE3ZjY1ZjYyNjMy",
+  "snapshot_id": "MTY0OTE5NjAwMCwwMDAwMDAxMDAwMDAwMTdmZmJiZGU0NjgwMDAwMDE3ZmZhNTAxMzA2",
   "tracks": [
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6MzVdDYLRTb6NuX6az3NB2"
+      },
+      "artists": [
+        {
+          "name": "Meowlau",
+          "url": "https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8"
+        },
+        {
+          "name": "Val",
+          "url": "https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa"
+        }
+      ],
+      "duration_ms": 177091,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/7GlUBvlcaebiYAPr8RCfIN"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "P\u016flnoc",
+        "url": "https://open.spotify.com/album/4khu0PnlvU5K2hN1ZgdOvr"
+      },
+      "artists": [
+        {
+          "name": "Tereza Balonov\u00e1",
+          "url": "https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq"
+        }
+      ],
+      "duration_ms": 196513,
+      "name": "P\u016flnoc",
+      "url": "https://open.spotify.com/track/4A9L4HX1otUuiE6ZX1eJuu"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "The House Carpenter",
+        "url": "https://open.spotify.com/album/3Ag5sJJlr90JCTWCyYhtMp"
+      },
+      "artists": [
+        {
+          "name": "Roxane Genot",
+          "url": "https://open.spotify.com/artist/4jO41bgpC8DyhIQKU6bL2P"
+        },
+        {
+          "name": "Jan Pouska",
+          "url": "https://open.spotify.com/artist/5tIqHX7DrdXOfJbY6U7GU6"
+        },
+        {
+          "name": "Karliene",
+          "url": "https://open.spotify.com/artist/6o0tlyxHJhnel5vkFMrdAN"
+        }
+      ],
+      "duration_ms": 346122,
+      "name": "The House Carpenter",
+      "url": "https://open.spotify.com/track/3O1FyhJZoQnpW1OLuFTTJs"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "Br4tzz Doll",
+        "url": "https://open.spotify.com/album/2ldwriyEUrEUWTJsM1OEFn"
+      },
+      "artists": [
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/1HCRMgwVECDvvNTDcgu1Df"
+        },
+        {
+          "name": "Kewu",
+          "url": "https://open.spotify.com/artist/34Qbxs0clIxZjiDB8bnlyY"
+        }
+      ],
+      "duration_ms": 178703,
+      "name": "Br4tzz Doll",
+      "url": "https://open.spotify.com/track/1Eqpu19fGaQgelyx9ye0gU"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/4YcBmYAW8XgkLjN2seCSny"
+      },
+      "artists": [
+        {
+          "name": "Tea Sofia",
+          "url": "https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W"
+        }
+      ],
+      "duration_ms": 211941,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3lsBhGXCLlNaoN4j1addpV"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "\u0160t\u011bst\u00ed je v lidech",
+        "url": "https://open.spotify.com/album/7c3MRjAEZwdAEXpY9Tdhru"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pracha\u0159ov\u00e1",
+          "url": "https://open.spotify.com/artist/5t9baqUCNOIZSlxWB14IXV"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "\u0160t\u011bst\u00ed je v lidech",
+      "url": "https://open.spotify.com/track/4yyv9pwIb9S5N0sVQPHQOL"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "Linen",
+        "url": "https://open.spotify.com/album/5fdGPlWPcQVMp92RvTrKsN"
+      },
+      "artists": [
+        {
+          "name": "Chief Bromden",
+          "url": "https://open.spotify.com/artist/3P0deXQVCXFzlLH4kMYth7"
+        },
+        {
+          "name": "Lenka Dusilov\u00e1",
+          "url": "https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI"
+        }
+      ],
+      "duration_ms": 296125,
+      "name": "Linen",
+      "url": "https://open.spotify.com/track/1eko0b6kZqU7rYxMfeOy9N"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "Sen",
+        "url": "https://open.spotify.com/album/4HzKX6bV8nlhlxPWsu0xNJ"
+      },
+      "artists": [
+        {
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Sen",
+      "url": "https://open.spotify.com/track/6zrTE6TvagdtmAWhrnfXQC"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
+      "album": {
+        "name": "Nebe je odem\u010den\u00e9",
+        "url": "https://open.spotify.com/album/1a8dD01amRMssvxbeNx64U"
+      },
+      "artists": [
+        {
+          "name": "Raduza",
+          "url": "https://open.spotify.com/artist/4iwfTVBJGGtaCAgy2K0PAd"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Zlat\u00fd kolovrat",
+      "url": "https://open.spotify.com/track/6ialcFeuXk5ScRIH83RPLV"
+    },
+    {
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Mirror Me",
         "url": "https://open.spotify.com/album/6y5wzKUDXEUTgJAr8yjB6i"
@@ -25,27 +193,7 @@
       "url": "https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/6k6JIL8EdqPvGLS9oFrjH7"
-      },
-      "artists": [
-        {
-          "name": "Meowlau",
-          "url": "https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8"
-        },
-        {
-          "name": "Val",
-          "url": "https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/6tH84i4TyWzWUJGS54A7jM"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "side effects of being human",
         "url": "https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8"
@@ -61,7 +209,7 @@
       "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "\u00dabo\u010d\u00ed",
         "url": "https://open.spotify.com/album/5ZB03QZgrrujo158132H2h"
@@ -81,7 +229,7 @@
       "url": "https://open.spotify.com/track/5pJzzbzjPgCJrKe394kv8Y"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "No\u010dn\u00ed nebe",
         "url": "https://open.spotify.com/album/3E6ArN95PrHgNcIf5SHl4M"
@@ -101,7 +249,7 @@
       "url": "https://open.spotify.com/track/6MhmF5c2ZAaN1Mlfnbh4Ka"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "I Want To Be Perfect",
         "url": "https://open.spotify.com/album/1LJL5tyy403JxvpgPoSMQD"
@@ -117,7 +265,7 @@
       "url": "https://open.spotify.com/track/0cfLMh35GyuZne7PNaJIFn"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Jsem",
         "url": "https://open.spotify.com/album/0pRARP9FOKcmcCKj2hFRdi"
@@ -133,7 +281,7 @@
       "url": "https://open.spotify.com/track/091LqS4GafDKXraNTFZxhC"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Lampiony",
         "url": "https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng"
@@ -149,7 +297,7 @@
       "url": "https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Mom, I\u2019m Lost",
         "url": "https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA"
@@ -165,7 +313,7 @@
       "url": "https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/2jbsQzyMviDICk8oxzMMWy"
@@ -181,7 +329,7 @@
       "url": "https://open.spotify.com/track/3RiYzSJtBvepIaG2kPp7w7"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Roztomil\u00e1 Holka",
         "url": "https://open.spotify.com/album/5o0wvWo4Awr6SSuHoZI0c3"
@@ -197,7 +345,7 @@
       "url": "https://open.spotify.com/track/3I2lMpY9rwDQD9mHtWuqk0"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Vzpomn\u011bnky",
         "url": "https://open.spotify.com/album/5fp5UTrsmABvoTEKoKRSNS"
@@ -213,7 +361,7 @@
       "url": "https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Gentle",
         "url": "https://open.spotify.com/album/3fiZkPky4bC9GSmEaDY5yp"
@@ -229,7 +377,7 @@
       "url": "https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Hey Pretty Girl",
         "url": "https://open.spotify.com/album/2Fep9sXn34nhBu9nchd1jt"
@@ -245,7 +393,7 @@
       "url": "https://open.spotify.com/track/6j88qCaGXIGKfO4npS3Zjd"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Jant\u00e1r",
         "url": "https://open.spotify.com/album/3ZrYnpwjHYptsx4fIeGtsX"
@@ -261,7 +409,7 @@
       "url": "https://open.spotify.com/track/6jtCo1ziArPzJEtxsNSRDq"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2nnc0uhfe33S2GZzCQjRr7"
@@ -277,7 +425,7 @@
       "url": "https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/5iF5L0NHHOXCU6alL6KKk6"
@@ -293,7 +441,7 @@
       "url": "https://open.spotify.com/track/0S2hh9GRIl6SmJfe24aCrs"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/3hxtaqMnSaHmYiuwVeL5eD"
@@ -309,7 +457,7 @@
       "url": "https://open.spotify.com/track/4dRuSzS3c1bYWaqEnuiItC"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Just Another Dream",
         "url": "https://open.spotify.com/album/517LIc9zu3bC3oIqZMgaiF"
@@ -325,7 +473,7 @@
       "url": "https://open.spotify.com/track/39oWADXTHbyBXMaB9eQ1Uv"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Time And Fate",
         "url": "https://open.spotify.com/album/7aDh92lgDBbFosDaDCgAFg"
@@ -341,7 +489,7 @@
       "url": "https://open.spotify.com/track/2cWiSlDby0VTldzK7j6wwP"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "10 Oceans",
         "url": "https://open.spotify.com/album/6XtLw9KEuNFqBjEmccaDrb"
@@ -357,7 +505,7 @@
       "url": "https://open.spotify.com/track/5FUGMqXyZIv2t06I2R7GJl"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "IMMA BE",
         "url": "https://open.spotify.com/album/2226V954dtuMW9MSb7yDNm"
@@ -373,7 +521,7 @@
       "url": "https://open.spotify.com/track/64GCdK3N6zXabQjYDJ1cWy"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Hlavolamy",
         "url": "https://open.spotify.com/album/1i75XX00HoWDAKep3zmzpY"
@@ -389,7 +537,7 @@
       "url": "https://open.spotify.com/track/0mZaxziywLliqJQ0rp6uXG"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
@@ -409,7 +557,7 @@
       "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/6V74Tl5BkFcmjgFzlrXKlS"
@@ -425,7 +573,7 @@
       "url": "https://open.spotify.com/track/4aNNkD2DuKkq2xT074awc6"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Slobodn\u00e1",
         "url": "https://open.spotify.com/album/6cUxNhqrQVgYbuvXKgWJLe"
@@ -445,7 +593,7 @@
       "url": "https://open.spotify.com/track/2bMZhixpG9IWJsKiQjN4Fb"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "L\u00c1SKOV\u011aTY",
         "url": "https://open.spotify.com/album/7LRUTFVeUAcHcLP4CxratA"
@@ -461,7 +609,7 @@
       "url": "https://open.spotify.com/track/5aLbBRryiQMXIS2ynsPeVE"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Ka\u017ed\u00e1 z n\u00e1s",
         "url": "https://open.spotify.com/album/2LnOCuZCOMnmIKuqp5BCNd"
@@ -477,47 +625,7 @@
       "url": "https://open.spotify.com/track/5vdAfclJ9hvFP2AYgmBlQT"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Lithium",
-        "url": "https://open.spotify.com/album/3cUCl0xAC7X5IdIhcSkWDH"
-      },
-      "artists": [
-        {
-          "name": "Lenny",
-          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
-        }
-      ],
-      "duration_ms": 169454,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/7ziz6Iu5msY4wCZMM2Wqr3"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "HIGH/EXIT",
-        "url": "https://open.spotify.com/album/4zVHkJXyUakYi6G0e6ofVm"
-      },
-      "artists": [
-        {
-          "name": "DIANA",
-          "url": "https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX"
-        },
-        {
-          "name": "Masker Muzzik",
-          "url": "https://open.spotify.com/artist/5p7SvTRRnQc0CsmhzDhcoI"
-        },
-        {
-          "name": "SpecialBeatz",
-          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "HIGH/EXIT",
-      "url": "https://open.spotify.com/track/7HglGnP1IfSAI9d66G317O"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "T\u0159i te\u010dky",
         "url": "https://open.spotify.com/album/2YyWekDi3HRk226aQQy0zo"
@@ -533,7 +641,7 @@
       "url": "https://open.spotify.com/track/0PqdMzuPMXXkX9xtO9Hyhx"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Wait for Life",
         "url": "https://open.spotify.com/album/12hatNWqCDyWNlkWvhm9GX"
@@ -549,39 +657,7 @@
       "url": "https://open.spotify.com/track/7f5aSQS3MIeqerJKbHtywz"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Budeme svoji",
-        "url": "https://open.spotify.com/album/22IHHWY6KfXmxlhfqUKQmN"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/1LibaIG9U6IplTTf9XMeNV"
-        }
-      ],
-      "duration_ms": 134171,
-      "name": "Budeme svoji",
-      "url": "https://open.spotify.com/track/1iKSgO9r4Um1ViuymwVaQX"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Sense of the Rain",
-        "url": "https://open.spotify.com/album/3mrG3ZpdoScTmQ3JyDUHRL"
-      },
-      "artists": [
-        {
-          "name": "Dennyiah",
-          "url": "https://open.spotify.com/artist/35TJYv4wYPEBTHzL7j66DS"
-        }
-      ],
-      "duration_ms": 197947,
-      "name": "Sense of the Rain",
-      "url": "https://open.spotify.com/track/1Cd3UgrrC0ZxcmgAhsJbgY"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "RUNNIN\u2019 OUT OF F* TIME",
         "url": "https://open.spotify.com/album/5g9cJGBVdKJvLmyp6247b7"
@@ -597,7 +673,7 @@
       "url": "https://open.spotify.com/track/55pQMGSGWHu9eQ4QVOkkws"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "\u010casy se m\u011bn\u00ed",
         "url": "https://open.spotify.com/album/0OTEueHdGIHC1EGPNrgujI"
@@ -613,7 +689,7 @@
       "url": "https://open.spotify.com/track/4atsam3P3ITpW0gkb6ogX4"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Jezinky (acapela)",
         "url": "https://open.spotify.com/album/3EE9GG0IhouS9ufrpJLuxb"
@@ -629,7 +705,7 @@
       "url": "https://open.spotify.com/track/4XGxWLRQWGfsW3IA1ggJf3"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/6zrlMgpHaAOQr8J8s3MZ8P"
@@ -645,7 +721,7 @@
       "url": "https://open.spotify.com/track/5aCbxCgeHSNYn4LvhgKY6i"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "VERACITY",
         "url": "https://open.spotify.com/album/39Yhu0tuQ9CEhdo9HZWbBe"
@@ -661,7 +737,7 @@
       "url": "https://open.spotify.com/track/2htyExlBInYjE6vp4dnM9P"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "gone, gone",
         "url": "https://open.spotify.com/album/6WfmAfWuwNS1OyLsnJy6tf"
@@ -677,7 +753,7 @@
       "url": "https://open.spotify.com/track/4mOaNoSyocxfaWKvC2b1oU"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Zimnice",
         "url": "https://open.spotify.com/album/4fSjQwZr5pHDDuWvoSgS7a"
@@ -693,7 +769,7 @@
       "url": "https://open.spotify.com/track/3Mqmll2zjEj2vArurOtewp"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "TWICE",
         "url": "https://open.spotify.com/album/67LmD9W4SNlXKq5cKtf6Br"
@@ -709,7 +785,7 @@
       "url": "https://open.spotify.com/track/1uKzDQGOo1NHHlgJex5T3X"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "V\u00e1ham",
         "url": "https://open.spotify.com/album/2db18d66qkuPVuIXAGsV0u"
@@ -725,23 +801,7 @@
       "url": "https://open.spotify.com/track/5uSNTYAPSYTiAkPZe99ZSL"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Nah\u00e1",
-        "url": "https://open.spotify.com/album/67YoR0F4qupJDwOe3kpHMT"
-      },
-      "artists": [
-        {
-          "name": "Kaczi",
-          "url": "https://open.spotify.com/artist/6e5TZZ5oltfQdCEL3c8RJQ"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "R\u016f\u017ee",
-      "url": "https://open.spotify.com/track/2Smx0BJT24nVMbOOGq8JbO"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "D\u00e1\u017ednik (Sama)",
         "url": "https://open.spotify.com/album/5FU0bDw4QXwq82fhRkdQV7"
@@ -757,23 +817,7 @@
       "url": "https://open.spotify.com/track/1JQvmONdxM4MoIktSYmqfk"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "She's Mine",
-        "url": "https://open.spotify.com/album/3qXQO2CFJ1xQOv1TPODZ49"
-      },
-      "artists": [
-        {
-          "name": "Andie J",
-          "url": "https://open.spotify.com/artist/4AE7bTRG6nG3BHvb4YFOcm"
-        }
-      ],
-      "duration_ms": 227982,
-      "name": "She's Mine",
-      "url": "https://open.spotify.com/track/0JgDXLwvGC8X8I3xsS6cug"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Can You Believe",
         "url": "https://open.spotify.com/album/3uXDE79QM7FUK3bgCsCbYb"
@@ -789,55 +833,7 @@
       "url": "https://open.spotify.com/track/3kf6Z3UXi0pl5Ie9D6IBVD"
     },
     {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Old Photos",
-        "url": "https://open.spotify.com/album/4HndRERHQDTlpwbSksfChN"
-      },
-      "artists": [
-        {
-          "name": "Evah",
-          "url": "https://open.spotify.com/artist/1t9G8Ol2BuSJnbTAEOJYZh"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Old Photos",
-      "url": "https://open.spotify.com/track/478YiimS1qz1cw9uCBy92c"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/467iLM7d3KBvKy03DgGtmP"
-      },
-      "artists": [
-        {
-          "name": "Nanashi",
-          "url": "https://open.spotify.com/artist/79hLmoVVJlCRKNOHFoqQ4a"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "MONSTER",
-      "url": "https://open.spotify.com/track/0u4C08sn9NyjPnHavYVlbC"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Champ",
-        "url": "https://open.spotify.com/album/6SioqIGyuxCANDwoMEF91I"
-      },
-      "artists": [
-        {
-          "name": "Fourtuna",
-          "url": "https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb"
-        }
-      ],
-      "duration_ms": 264097,
-      "name": "Champ",
-      "url": "https://open.spotify.com/track/3mor9gkLB2b6fGo9ckK89V"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
+      "added_at": "2022-04-05 22:00:00",
       "album": {
         "name": "Iba ja a ty",
         "url": "https://open.spotify.com/album/7bJioMZzR9m9vmFfy59ji5"
@@ -851,22 +847,6 @@
       "duration_ms": 197240,
       "name": "Iba ja a ty",
       "url": "https://open.spotify.com/track/6dXZ4c4aOZXI79QMThOfJd"
-    },
-    {
-      "added_at": "2022-03-07 23:00:00",
-      "album": {
-        "name": "Kamkoli se d\u00e1\u0161",
-        "url": "https://open.spotify.com/album/4zv8DtzXeKbikL5Ri8tSo3"
-      },
-      "artists": [
-        {
-          "name": "Jitka Zelenkov\u00e1",
-          "url": "https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI"
-        }
-      ],
-      "duration_ms": 251330,
-      "name": "Kamkoli se d\u00e1\u0161",
-      "url": "https://open.spotify.com/track/2KTbW8iHPn2QtO8CYATSEq"
     }
   ],
   "unique_name": "EQUAL CZ&SK",

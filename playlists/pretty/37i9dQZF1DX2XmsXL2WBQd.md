@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,171 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,254 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 70 | [Cha Cha Cha](https://open.spotify.com/track/0FPXDopNoeVy2GmE6ZLrv1) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Rhino Hi\-Five: MC Lyte](https://open.spotify.com/album/1dO9eKzbFJxKy9uej2bfak) | 3:00 |
 
-Snapshot ID: `MTY0OTEyMDE0NSwwMDAwMDAwMDdjZjI2MGRlNjRmMmM2N2I0NWNkMTIxYmE0ZDMzODU0`
+Snapshot ID: `MTY0OTIwNjcwNCwwMDAwMDAwMDdjZjI2MGRlNjRmMmM2N2I0NWNkMTIxYmE0ZDMzODU0`

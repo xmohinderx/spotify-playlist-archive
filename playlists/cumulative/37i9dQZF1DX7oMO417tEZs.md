@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-04-01 |  |
+| [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-04-01 | 2022-04-06 |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-11 |  |
 | [Admit It \(U Don't Want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(U Don't Want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2022-02-18 |  |
 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 | 2022-02-18 |  |

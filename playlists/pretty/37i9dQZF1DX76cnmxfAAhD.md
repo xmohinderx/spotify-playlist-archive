@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,348 likes - 200 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,125 likes - 200 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 | 33 | [Ants Marching](https://open.spotify.com/track/5S9Os6xwdncvFEhj0RJRHv) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Under the Table and Dreaming \(Expanded Edition\)](https://open.spotify.com/album/1Iraf3Q7P5GtHS9Un3HPDN) | 4:31 |
 | 34 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 35 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
-| 36 | [Daughter \(Remastered\)](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
+| 36 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 37 | [Mustang Sally](https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX), [Andrew Strong](https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te) | [The Commitments](https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0) | 4:01 |
 | 38 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 39 | [Mysterious Ways](https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:03 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 | 199 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 |
 | 200 | [I Promised Myself](https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O) | [Nick Kamen](https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB) | [Move Until We Fly](https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N) | 4:00 |
 
-Snapshot ID: `MTY0OTEyMDI5NiwwMDAwMDAwMDViYmEwYjRiZDMyNDM2ZDcyYjg4NzA4N2EyNmIwZGMz`
+Snapshot ID: `MTY0OTIwNjgzMiwwMDAwMDAwMDViYmEwYjRiZDMyNDM2ZDcyYjg4NzA4N2EyNmIwZGMz`

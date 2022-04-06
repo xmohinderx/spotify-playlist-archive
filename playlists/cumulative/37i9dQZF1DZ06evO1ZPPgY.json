@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 179200,
       "name": "Honey Please, Can't Ya See - Alternate Version",
       "url": "https://open.spotify.com/track/5HUqK2g43gAWGaOP5e2ru9"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-31",
+      "date_removed": null,
       "duration_ms": 228573,
       "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
       "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
@@ -697,6 +697,24 @@
       "duration_ms": 280280,
       "name": "Never, Never Gonna Give Ya Up - Long Version",
       "url": "https://open.spotify.com/track/00FRRwuaJP9KimukvLQCOz"
+    },
+    {
+      "album": {
+        "name": "Barry White & Candlelight: A Love Collection Pt. 2",
+        "url": "https://open.spotify.com/album/3XotEmKQfEhV0wTebRzOD9"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up - Long Version",
+      "url": "https://open.spotify.com/track/6IJzcmcNDLpInP7nverunW"
     },
     {
       "album": {
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 532706,
       "name": "The Erotic Garden - After Hours Version Of Secret Garden",
       "url": "https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 276466,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-06",
       "duration_ms": 212906,
       "name": "You're The First, The Last, My Everything - Single Version",
       "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"

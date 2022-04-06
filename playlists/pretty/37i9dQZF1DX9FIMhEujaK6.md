@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,191 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,213 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Notforyou \(Jacana People Remix\)](https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Blue Coat, Red Dress Remixed, Pt\. 1](https://open.spotify.com/album/0tPHt8iFGIkpiW6Ao1U5lS) | 3:49 |
 | 50 | [Retina](https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retina / Stay](https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s) | 3:54 |
 
-Snapshot ID: `MTY0OTEyMDM2NSwwMDAwMDAwMDdlNTAxYzJkMDg3NzRiMWNmYjc2MGQ4YjNkYjI4MDFm`
+Snapshot ID: `MTY0OTIwNjg5MywwMDAwMDAwMDdlNTAxYzJkMDg3NzRiMWNmYjc2MGQ4YjNkYjI4MDFm`

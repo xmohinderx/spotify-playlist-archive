@@ -1,18 +1,18 @@
 {
-  "description": "With Adele, Lauren Marsh, Haley Reinhart, Jessie Ware and more",
+  "description": "With Adele, Sam Smith, Lauren Marsh, Meryl Streep and more",
   "num_followers": 739,
   "original_name": "When We Were Young Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTEyMDUzMCwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1",
+  "snapshot_id": "MTY0OTIwNzAzNCwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+      "duration_ms": 403044,
+      "name": "Love Is A Game",
+      "url": "https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Good At Goodbyes (Acoustic)",
+        "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 220095,
+      "name": "Too Good At Goodbyes - Acoustic",
+      "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
     },
     {
       "added_at": null,
@@ -43,18 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+        "name": "Mamma Mia! The Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "Meryl Streep",
+          "url": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+      "duration_ms": 297933,
+      "name": "The Winner Takes It All - From \"Mamma Mia!\"",
+      "url": "https://open.spotify.com/track/4uytiW8D73yWQHkg1PzYlB"
     },
     {
       "added_at": null,
@@ -75,24 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say It Again (Acoustic)",
-        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
-      },
-      "artists": [
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 181408,
-      "name": "Say It Again - Acoustic",
-      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
@@ -100,9 +100,109 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unfinished Business (Deluxe)",
+        "url": "https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X"
+      },
+      "artists": [
+        {
+          "name": "Nathan Sykes",
+          "url": "https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Over And Over Again",
+      "url": "https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay Awake with Me (acoustic)",
+        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Owen",
+          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Made to Love You",
+      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u2019t Help Falling In Love",
+        "url": "https://open.spotify.com/album/605mQUK9p6ZZksFCwzojV7"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 200849,
+      "name": "Can\u2019t Help Falling In Love",
+      "url": "https://open.spotify.com/track/7bYZEi1c2NVS1VNyF3SEuC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3L87d5pBbyRyi5VYnC3Mk7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 288255,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 348625,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/6QSJvH2m7QLAiFIywwzCVi"
     },
     {
       "added_at": null,
@@ -155,6 +255,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things I've Never Said (Deluxe)",
+        "url": "https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/4ahVZKZ7c0HP7qiNxmD3Ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jamie Lawson",
+        "url": "https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 201072,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher Than Here",
+        "url": "https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Just Like A Child",
+      "url": "https://open.spotify.com/track/73B39JQSjAl1bddnj7u8PB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "River Of Tears",
+      "url": "https://open.spotify.com/track/5NRl32BO29q8xtWFvOlHZE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR"
       },
@@ -179,24 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
-        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Golden Slumbers / Carry That Weight - From \"Sing\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6Atf08XRK8oAs1XfAi6SPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
@@ -204,73 +384,277 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5CjKwY7FUJgKSwTVzoQIaU"
+      "duration_ms": 243200,
+      "name": "Don't You Remember",
+      "url": "https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kelly",
-        "url": "https://open.spotify.com/album/1xHfSsXafxCoZawWGoNmrk"
+        "name": "Things I've Never Said (Deluxe)",
+        "url": "https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n"
       },
       "artists": [
         {
-          "name": "Andrea Faustini",
-          "url": "https://open.spotify.com/artist/78RYQ3D5v8NkwlNwp0sY6i"
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
         }
       ],
-      "duration_ms": 201200,
-      "name": "I Didn't Know My Own Strength",
-      "url": "https://open.spotify.com/track/2IPHHm3WsJOjg3sMJKRAWG"
+      "duration_ms": 221946,
+      "name": "Don't Worry About Me",
+      "url": "https://open.spotify.com/track/6Cg9IMVU4EP2uM41g8IX56"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Send My Love (To Your New Lover) - Acoustic",
-        "url": "https://open.spotify.com/album/2vQHAPK5z1jxwHQSfcXaMM"
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q"
       },
       "artists": [
         {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 217548,
-      "name": "Send My Love (To Your New Lover) - Acoustic",
-      "url": "https://open.spotify.com/track/1Fu5HACCHTceqO5iVtZ0Uo"
+      "duration_ms": 181605,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/2iuL3ONbUGaLz5gmzk0PKo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Hurricane",
-        "url": "https://open.spotify.com/album/5knuQLXo7V4YnODlay8oKy"
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
       "artists": [
         {
-          "name": "Jamie Scott",
-          "url": "https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         }
       ],
-      "duration_ms": 241399,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/282p5nzzWitBct4l5NXoYz"
+      "duration_ms": 303653,
+      "name": "If By Chance",
+      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mamma Mia! The Movie Soundtrack",
-        "url": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
+        "name": "Runnin' (Lose It All)",
+        "url": "https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP"
       },
       "artists": [
         {
-          "name": "Amanda Seyfried",
-          "url": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Arrow Benjamin",
+          "url": "https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj"
         }
       ],
-      "duration_ms": 224106,
-      "name": "Thank You For The Music - From 'Mamma Mia!' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/64yJ0tpcSveze3KJAdZGKe"
+      "duration_ms": 213019,
+      "name": "Runnin' (Lose It All)",
+      "url": "https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella Eyre",
+        "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 196806,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/3cBtANnJGopPaRMXCl3mV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peroxide (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q9EqYPv9qiUl9pbf5LLhS"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        },
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 328160,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/6Qjh3wHd3utObcZsKsx5pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/4I3FyrIM4E9I2MYm533VmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Sound Without Silence",
+        "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Never Seen Anything \"Quite Like You\"",
+      "url": "https://open.spotify.com/track/71qNRlNDnPahvATE7Zl4Nw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF"
     },
     {
       "added_at": null,
@@ -291,102 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 271226,
-      "name": "Hometown Glory",
-      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All I Ask",
-        "url": "https://open.spotify.com/album/0eNmX8nKMb93UZx0NXiBXL"
-      },
-      "artists": [
-        {
-          "name": "Masen Lee",
-          "url": "https://open.spotify.com/artist/3JW7u0QzNcJfPmwvDV09Bd"
-        }
-      ],
-      "duration_ms": 271161,
-      "name": "All I Ask",
-      "url": "https://open.spotify.com/track/0DgzkhRCRKC30d1R7lD9TZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summer Hits",
-        "url": "https://open.spotify.com/album/7imPSm02gUNzxnCOrdvjt4"
-      },
-      "artists": [
-        {
-          "name": "Metrixx",
-          "url": "https://open.spotify.com/artist/3dpG6M91e9gkMArlQ5hSha"
-        }
-      ],
-      "duration_ms": 209725,
-      "name": "Die With You",
-      "url": "https://open.spotify.com/track/5Ww9np0yb02gc6ziBuqXQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glee: The Music, The Complete Season Four",
-        "url": "https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Teenage Dream - Acoustic",
-      "url": "https://open.spotify.com/track/2Igc5kWSzeztCCZInea9Mf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unfinished Business (Deluxe)",
-        "url": "https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sykes",
-          "url": "https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Over And Over Again",
-      "url": "https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Alone - Acoustic",
-      "url": "https://open.spotify.com/track/0vDnzajlY189JIRlQ0cOUs"
+      "duration_ms": 220386,
+      "name": "Golden Slumbers / Carry That Weight - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6Atf08XRK8oAs1XfAi6SPq"
     },
     {
       "added_at": null,
@@ -400,57 +700,73 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+      "duration_ms": 348226,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/43dcCpx19I0R4zLr4KH1UC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Jamie Lawson",
-        "url": "https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR"
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
       "artists": [
         {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 201072,
-      "name": "Wasn't Expecting That",
-      "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "To Make You Feel My Love",
-        "url": "https://open.spotify.com/album/6gwM1D5UiToXTtKNrnalqD"
+        "name": "Back to Friends",
+        "url": "https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac"
       },
       "artists": [
         {
-          "name": "Mathilde Holtti",
-          "url": "https://open.spotify.com/artist/2NdKb6RxwdsoHkgP9f310w"
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 217297,
-      "name": "To Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5geYcomfyH7gQUZenaZj1o"
+      "duration_ms": 215980,
+      "name": "Back to Friends",
+      "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN"
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 247001,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF"
+      "duration_ms": 242564,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2d7LPtieXdIYzf7yHPooWd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say It Again (Acoustic)",
+        "url": "https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 181408,
+      "name": "Say It Again - Acoustic",
+      "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
     },
     {
       "added_at": null,
@@ -475,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -500,327 +800,15 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 300247,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/2c6xRsQBv7pynuhYhWoHxo"
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piece By Piece (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Piece by Piece",
-      "url": "https://open.spotify.com/track/2NELtMgQ8HSdrGrYQPLnC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things I've Never Said (Deluxe)",
-        "url": "https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n"
-      },
-      "artists": [
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/4ahVZKZ7c0HP7qiNxmD3Ir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Till The End - From \"Me Before You\"",
-      "url": "https://open.spotify.com/track/4wuKfMYt9XIDiGCIfloBRR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Don't You Remember",
-      "url": "https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/4WZZDzGqjvw4bRwrp56U24"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5LN736t27w3aH0lSAMX4nD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Worry About Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/0QKsVqGwY9cL34Opx9UmPL"
-      },
-      "artists": [
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 193362,
-      "name": "Don't Worry About Me - Radio Edit",
-      "url": "https://open.spotify.com/track/61EyFqR1l5o9IkaPTtsmXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella Eyre",
-        "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turning Page",
-        "url": "https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Turning Page",
-      "url": "https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3L87d5pBbyRyi5VYnC3Mk7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 288255,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Seyfried",
-          "url": "https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u"
-        },
-        {
-          "name": "Christine Baranski",
-          "url": "https://open.spotify.com/artist/1L4nOFaQKejFy75REi9BKh"
-        },
-        {
-          "name": "Julie Walters",
-          "url": "https://open.spotify.com/artist/5Yi0y4bNdc04Oxk9l6nwXa"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "I've Been Waiting For You",
-      "url": "https://open.spotify.com/track/7C3xydn7tJZLCSBcV2ZFYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 182163,
-      "name": "Strangers By Nature",
-      "url": "https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Cry When I Laugh",
-        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 265381,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
       "artists": [
         {
@@ -828,9 +816,29 @@
           "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+      "duration_ms": 176320,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     }
   ],
   "unique_name": "When We Were Young Radio",
