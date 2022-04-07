@@ -1,13 +1,213 @@
 {
-  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Duvy\n",
-  "num_followers": 199894,
+  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Sojabrat\n",
+  "num_followers": 202258,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY3MDg1NywwMDAwMDEwNTAwMDAwMTdmZGM3MGQ5ZWIwMDAwMDE3ZjZmYTdjNTU0",
+  "snapshot_id": "MTY0OTI3NDgyNCwwMDAwMDEwNjAwMDAwMTgwMDA3MGE4M2QwMDAwMDE4MDAwNzA2ODYx",
   "tracks": [
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/0qDHucLoZvB2MbYm3EC3tV"
+      },
+      "artists": [
+        {
+          "name": "Sojabrat",
+          "url": "https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5"
+        },
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Elvis",
+      "url": "https://open.spotify.com/track/0rRKr4ZW0N1a5QgLpdSrBb"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/7LEpqZlSTdnAHojw0qjwr2"
+      },
+      "artists": [
+        {
+          "name": "Troi Blank",
+          "url": "https://open.spotify.com/artist/6zZkEizf8T5YYeUSLgC9bI"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/4W0NlMQ4Q0hw5GULXFAoAd"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "FYM",
+        "url": "https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 173826,
+      "name": "FYM",
+      "url": "https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Get Zoe'd",
+        "url": "https://open.spotify.com/album/6Hxt4C3vrXWnLQ6ZLPvAph"
+      },
+      "artists": [
+        {
+          "name": "BirdBidness",
+          "url": "https://open.spotify.com/artist/5WkLdMToMEcLz7fhYs5kVQ"
+        }
+      ],
+      "duration_ms": 129897,
+      "name": "Get Zoe'd",
+      "url": "https://open.spotify.com/track/65m1z49MxWIP1SIX5L6oBr"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/4eA7qEcjE8zGnGC9WxR2JU"
+      },
+      "artists": [
+        {
+          "name": "Kaywavey",
+          "url": "https://open.spotify.com/artist/2dlUzga0zMV4iOt448UyMJ"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "The Basics",
+      "url": "https://open.spotify.com/track/3kEJbuJgQTyxCbioPD6jEK"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Murder She Wrote",
+        "url": "https://open.spotify.com/album/2MpWuDP1XufFCVsFeqbOJS"
+      },
+      "artists": [
+        {
+          "name": "BFG Straap",
+          "url": "https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL"
+        }
+      ],
+      "duration_ms": 151040,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/72KemdNWtlNwW62GK3IyRj"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Shake (Valliefunk)",
+        "url": "https://open.spotify.com/album/3emrFFrO5EFBdqiytF45Id"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "Shake (Valliefunk)",
+      "url": "https://open.spotify.com/track/0MMSrpdhpa2m6LKfgw92Ua"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Xfoliate (feat. General Fly)",
+        "url": "https://open.spotify.com/album/3zeWEXeE1KcvU9eKH4A1Mr"
+      },
+      "artists": [
+        {
+          "name": "Tre Nyce",
+          "url": "https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5"
+        },
+        {
+          "name": "General Fly",
+          "url": "https://open.spotify.com/artist/0ovVBJhyUjwApNsNIPT8XB"
+        }
+      ],
+      "duration_ms": 144222,
+      "name": "Xfoliate (feat. General Fly)",
+      "url": "https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Melissa's",
+        "url": "https://open.spotify.com/album/3s7npn3jRJHA7xWA4kjsRX"
+      },
+      "artists": [
+        {
+          "name": "Perry Maysun",
+          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
+        }
+      ],
+      "duration_ms": 123806,
+      "name": "Melissa's",
+      "url": "https://open.spotify.com/track/5wPrNXHkEjh3RfBejfHNqt"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Here, There & Everywhere",
+        "url": "https://open.spotify.com/album/0PAmoJ4Qrc1zEkdssPvxEw"
+      },
+      "artists": [
+        {
+          "name": "LORD JAH-MONTE OGBON",
+          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
+        }
+      ],
+      "duration_ms": 152835,
+      "name": "HARDEST QUESTION EVER",
+      "url": "https://open.spotify.com/track/1ZDSsVA08OTmtt5Tovg8fM"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Happy Birthday FL33 | TH3 PARTY N3V3R 3NDS",
+        "url": "https://open.spotify.com/album/3vmyKABUJa3SLlUReegkTu"
+      },
+      "artists": [
+        {
+          "name": "FLEE",
+          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/1cEHRuuFQW9wBM7RTRQced"
+    },
+    {
+      "added_at": "2022-04-06 19:53:44",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
+    },
     {
       "added_at": "2022-03-30 20:07:37",
       "album": {
@@ -411,22 +611,6 @@
     {
       "added_at": "2022-03-16 16:00:00",
       "album": {
-        "name": "Sleazy Flow",
-        "url": "https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 112117,
-      "name": "Sleazy Flow",
-      "url": "https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf"
-    },
-    {
-      "added_at": "2022-03-16 16:00:00",
-      "album": {
         "name": "skinny jeans & rick owens",
         "url": "https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER"
       },
@@ -439,42 +623,6 @@
       "duration_ms": 124675,
       "name": "skinny jeans & rick owens",
       "url": "https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP"
-    },
-    {
-      "added_at": "2022-03-16 16:00:00",
-      "album": {
-        "name": "Beat Em Down",
-        "url": "https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6"
-      },
-      "artists": [
-        {
-          "name": "E the profit",
-          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Beat Em Down",
-      "url": "https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn"
-    },
-    {
-      "added_at": "2022-03-16 16:00:00",
-      "album": {
-        "name": "Unsigned Hype",
-        "url": "https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5"
-      },
-      "artists": [
-        {
-          "name": "Idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        },
-        {
-          "name": "Denaro Love",
-          "url": "https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Unsigned Hype",
-      "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
     },
     {
       "added_at": "2022-03-16 16:00:00",
@@ -635,94 +783,6 @@
     {
       "added_at": "2022-03-09 17:00:00",
       "album": {
-        "name": "GRASSWAYZ",
-        "url": "https://open.spotify.com/album/6BC6u8kIWICEcamEVUN3yM"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 165234,
-      "name": "Thugz Dont Cry",
-      "url": "https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N"
-    },
-    {
-      "added_at": "2022-03-09 17:00:00",
-      "album": {
-        "name": "Get Back",
-        "url": "https://open.spotify.com/album/3duBAtUF1Qs0I0N9YdmDNn"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Anonimis",
-          "url": "https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL"
-    },
-    {
-      "added_at": "2022-03-09 17:00:00",
-      "album": {
-        "name": "Do It Up",
-        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
-      },
-      "artists": [
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
-        }
-      ],
-      "duration_ms": 244968,
-      "name": "Do It Up",
-      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
-    },
-    {
-      "added_at": "2022-03-09 17:00:00",
-      "album": {
-        "name": "Blind Spots",
-        "url": "https://open.spotify.com/album/7yfXpObFL4I6SUIJYRxqqY"
-      },
-      "artists": [
-        {
-          "name": "440 Smitty",
-          "url": "https://open.spotify.com/artist/6bZx82FJqBkiTZ2SfbSnwE"
-        }
-      ],
-      "duration_ms": 175147,
-      "name": "Blind Spots",
-      "url": "https://open.spotify.com/track/0qkvm3CobVarPSvJX93cjA"
-    },
-    {
-      "added_at": "2022-03-10 22:15:22",
-      "album": {
-        "name": "The Wolf Is In The Peacoat",
-        "url": "https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV"
-      },
-      "artists": [
-        {
-          "name": "Doley Bernays",
-          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
-        }
-      ],
-      "duration_ms": 196325,
-      "name": "The Wolf Is In The Peacoat",
-      "url": "https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3"
-    },
-    {
-      "added_at": "2022-03-09 17:00:00",
-      "album": {
         "name": "Kaizen",
         "url": "https://open.spotify.com/album/0NZOg8FxHc5x7hvV7RQ2E1"
       },
@@ -743,22 +803,6 @@
       "duration_ms": 128343,
       "name": "Cadence",
       "url": "https://open.spotify.com/track/31EM4o566nTdMxW2mPTI3D"
-    },
-    {
-      "added_at": "2022-03-09 17:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0abvZEzTy1FhekP4UYAly1"
-      },
-      "artists": [
-        {
-          "name": "TraviS",
-          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0cQtpYUTFpLX9knYsQAsJf"
     },
     {
       "added_at": "2022-03-09 17:00:00",
@@ -815,54 +859,6 @@
       "duration_ms": 132134,
       "name": "Lump Sums",
       "url": "https://open.spotify.com/track/40SSNky5ForcHL6H8KUDYU"
-    },
-    {
-      "added_at": "2022-03-02 18:22:58",
-      "album": {
-        "name": "Aii",
-        "url": "https://open.spotify.com/album/7eQSHDQA3rzLhCtpCUhYw8"
-      },
-      "artists": [
-        {
-          "name": "Elzzz",
-          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Aii",
-      "url": "https://open.spotify.com/track/16tpixiOqAD8ijKVXEzBCp"
-    },
-    {
-      "added_at": "2022-03-02 18:22:58",
-      "album": {
-        "name": "MASTERS",
-        "url": "https://open.spotify.com/album/5E10OtPI9ZhOZd6S0aXqC1"
-      },
-      "artists": [
-        {
-          "name": "Charlie Noiir",
-          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
-        }
-      ],
-      "duration_ms": 151498,
-      "name": "MASTERS",
-      "url": "https://open.spotify.com/track/38NtKqElLaksQrspgZibgK"
-    },
-    {
-      "added_at": "2022-03-02 18:22:58",
-      "album": {
-        "name": "No Pants Till February",
-        "url": "https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4"
-      },
-      "artists": [
-        {
-          "name": "BASYL",
-          "url": "https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Conversations",
-      "url": "https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

@@ -1,12 +1,12 @@
 {
   "description": "All your indie favorites. Cover: Mac DeMarco",
-  "num_followers": 577220,
+  "num_followers": 577516,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjY5MSwwMDAwMDAwMGZhMDRmYTMyMjc0NWE5ZmU4ZjE1ZTA2OTM0NTI5NzA3",
+  "snapshot_id": "MTY0OTI5Mjk4MiwwMDAwMDAwMDcwMDk3YzFmZDBlMGQ4NzFiNzVhYzMzNGE1NmQ3ZDA1",
   "tracks": [
     {
       "added_at": "2022-02-02 03:04:32",
@@ -505,38 +505,6 @@
       "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
-      "added_at": "2022-03-15 17:18:01",
-      "album": {
-        "name": "In the Aeroplane Over the Sea",
-        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
-      },
-      "artists": [
-        {
-          "name": "Neutral Milk Hotel",
-          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "In the Aeroplane Over the Sea",
-      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
-    },
-    {
-      "added_at": "2021-02-08 22:17:24",
-      "album": {
-        "name": "Half-Light",
-        "url": "https://open.spotify.com/album/2eVtqdI1qU02LHrPH72Omq"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Bike Dream",
-      "url": "https://open.spotify.com/track/1acb8u70kClk6NjITaZyuG"
-    },
-    {
       "added_at": "2021-02-08 22:17:24",
       "album": {
         "name": "Sun Giant",
@@ -567,6 +535,38 @@
       "duration_ms": 315026,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+    },
+    {
+      "added_at": "2022-03-15 17:18:01",
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
+    },
+    {
+      "added_at": "2021-02-08 22:17:24",
+      "album": {
+        "name": "Half-Light",
+        "url": "https://open.spotify.com/album/2eVtqdI1qU02LHrPH72Omq"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Bike Dream",
+      "url": "https://open.spotify.com/track/1acb8u70kClk6NjITaZyuG"
     },
     {
       "added_at": "2021-02-08 22:17:24",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-02-08 22:17:24",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
-    },
-    {
-      "added_at": "2021-02-08 22:17:24",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2021-02-08 22:17:24",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5egsoXU4SPbj38cP9sBlXk"
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/6Cp1LNb26iMtPT7JTtEZyD"
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
     },
     {
       "added_at": "2021-02-08 22:17:24",
@@ -1579,6 +1563,22 @@
       "duration_ms": 223573,
       "name": "In a River",
       "url": "https://open.spotify.com/track/0qaWxVVd3KrP4WY27KWpIe"
+    },
+    {
+      "added_at": "2021-02-08 22:17:24",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5egsoXU4SPbj38cP9sBlXk"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/6Cp1LNb26iMtPT7JTtEZyD"
     },
     {
       "added_at": "2021-02-08 22:17:24",

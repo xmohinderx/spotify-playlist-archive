@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,143 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,280 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 88 | [More Than You Know](https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3) | [Graham Harvey](https://open.spotify.com/artist/1JJR7xNYRfi4iuY7mVQ0DS), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [Jeremy Brown](https://open.spotify.com/artist/0Ov05kdgJtUwMZXGCkCDAQ), [Josh Morrison](https://open.spotify.com/artist/4ynl1ZTEDPTMBQy8ws8qs9) | [More Than You Know](https://open.spotify.com/album/4O2qrIuZgFCiU4aDaBadJY) | 5:31 |
 | 89 | [Bon ami](https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:45 |
 | 90 | [Garden of Delight](https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I Love Jan Lundgren Trio](https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh) | 4:51 |
-| 91 | [America Revisited](https://open.spotify.com/track/4AnIwmmaBSXe4Ka9Cc1NlU) | [Matt Slocum](https://open.spotify.com/artist/6JEdeepCpNmTEaixWmT6e9) | [With Love And Sadness](https://open.spotify.com/album/6DKf6iakI0t1jHC1VPyl6C) | 4:32 |
-| 92 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 |
+| 91 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 |
+| 92 | [America Revisited](https://open.spotify.com/track/4AnIwmmaBSXe4Ka9Cc1NlU) | [Matt Slocum](https://open.spotify.com/artist/6JEdeepCpNmTEaixWmT6e9) | [With Love And Sadness](https://open.spotify.com/album/6DKf6iakI0t1jHC1VPyl6C) | 4:32 |
 | 93 | [Dear Old Stockholm](https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 7:46 |
 | 94 | [Summer In Central Park](https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 6:41 |
 | 95 | [Theme For Ernie](https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6oCVoCOJDG6LH3njz2ej4A) | 5:04 |
 | 96 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 |
-| 97 | [Cabin in the Sky](https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 6:45 |
-| 98 | [The Sequel](https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 8:05 |
-| 99 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
-| 100 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 |
+| 97 | [The Sequel](https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 8:05 |
+| 98 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
+| 99 | [Summer Wind](https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 4:37 |
+| 100 | [The Wrong Blues](https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Live](https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6) | 8:03 |
 
-Snapshot ID: `MTY0OTIwNjQzNywwMDAwMDAwMGIxYmM2NmYxZTlkZTlhNDc5MjVmOWNmY2UwNDk0MmRj`
+Snapshot ID: `MTY0OTI5MjcwOSwwMDAwMDAwMDYxMjA1ZTc3OWVjOWM3OWE5NDg2OGQ1NTFhYmYwZDNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,445 likes - 228 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,670 likes - 228 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 139 | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/track/5p3TPKXcEanHmNzJNUxybY) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/album/0JlCX6tuYVECMNhEdWw7u4) | 2:22 |
 | 140 | [What Is Love \(feat\. Nito\-Onna\)](https://open.spotify.com/track/6vUIW5SQODOUwPzBoOrWQ2) | [Royale Avenue](https://open.spotify.com/artist/1sSjBN7wUrQBTgcjSNEnI5), [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [What Is Love \(feat\. Nito\-Onna\)](https://open.spotify.com/album/7FFM8eDpTQPPVPrYoPu7gM) | 2:27 |
 | 141 | [Tainted Love](https://open.spotify.com/track/3lAoqK9lSnZ7JePkZ24TMp) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Tainted Love](https://open.spotify.com/album/1J8bztJZsDvUrTALFuv5X1) | 2:43 |
-| 142 | [Careless Whisper](https://open.spotify.com/track/1RboHz2mOd2xF1qpcjjGB2) | [sad girls](https://open.spotify.com/artist/1dUK379IEZWSlU3bPI1BuD), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [22angels](https://open.spotify.com/artist/0WYuN6MUoWW2Ox7Or3APqS) | [Careless Whisper](https://open.spotify.com/album/3FkCBF2etum6LxqHKEfvVz) | 2:39 |
+| 142 | [Careless Whisper](https://open.spotify.com/track/1RboHz2mOd2xF1qpcjjGB2) | [sad girls](https://open.spotify.com/artist/1dUK379IEZWSlU3bPI1BuD), [Meric again](https://open.spotify.com/artist/1lzWLvoIxqN5p11BnZnAf1), [22angels](https://open.spotify.com/artist/0WYuN6MUoWW2Ox7Or3APqS) | [Careless Whisper](https://open.spotify.com/album/3FkCBF2etum6LxqHKEfvVz) | 2:39 |
 | 143 | [Afterglow](https://open.spotify.com/track/5IoujrnF52FF4yTxwpkCmb) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse) | [Afterglow](https://open.spotify.com/album/0RBLaQ2w4wAdQKL7xHzUqJ) | 2:39 |
 | 144 | [In the End](https://open.spotify.com/track/0EvmrjNaRk3EWAUV2gdVcs) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [In the End](https://open.spotify.com/album/7qhgMskueXQcZ37uFukhzd) | 2:55 |
 | 145 | [I Wanna Dance with Somebody \(feat\. The High\)](https://open.spotify.com/track/6wa9YlQMYlnur0kdTDgwl8) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [I Wanna Dance with Somebody \(feat\. The High\)](https://open.spotify.com/album/6u2Y3tuGTCKgNxJWynj3qs) | 2:40 |

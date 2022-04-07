@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,421 likes - 124 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,489 likes - 124 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

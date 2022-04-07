@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Goldfinger",
-  "num_followers": 304964,
+  "num_followers": 305062,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjg0NiwwMDAwMDAwMDEwNjRhODc4YjU5YmI1MjkzZDRmZTg3YTgyNTI5Zjc0",
+  "snapshot_id": "MTY0OTI5MzE0OSwwMDAwMDAwMDUyNzYxN2ExODA5ZmJhNWI3NjY2MDc5YzEwNDc1ODJk",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Hang-Ups",
-        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 186266,
       "name": "The Science of Selling Yourself Short",
       "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Hang-Ups",
+        "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Everything Goes Numb",
-        "url": "https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Everything Went Numb",
-      "url": "https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl"
       },
@@ -199,38 +183,6 @@
       "duration_ms": 144333,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/5kxxhOkxd7j57e7oL121gI"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
-      },
-      "artists": [
-        {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Twenty-Eight Teeth",
-        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
-      },
-      "artists": [
-        {
-          "name": "Buck-O-Nine",
-          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -251,6 +203,38 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Everything Goes Numb",
+        "url": "https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Everything Went Numb",
+      "url": "https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Twenty-Eight Teeth",
+        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
+      },
+      "artists": [
+        {
+          "name": "Buck-O-Nine",
+          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "While We're At It",
+        "url": "https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Wonderful Day for the Race",
+      "url": "https://open.spotify.com/track/6h9Su5IoSExGHd5X0fTfhL"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Cinema Beer Nuts",
         "url": "https://open.spotify.com/album/5qQuOwX2PTWy7ju1eq7ktp"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "While We're At It",
-        "url": "https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Wonderful Day for the Race",
-      "url": "https://open.spotify.com/track/6h9Su5IoSExGHd5X0fTfhL"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/0N4VKJj7FPmaeueGOv25C9"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "When God Was Great",
+        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 213754,
+      "name": "LONELY BOY",
+      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 203933,
       "name": "Lost Again",
       "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "When God Was Great",
-        "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 213754,
-      "name": "LONELY BOY",
-      "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Awkward Always",
+        "url": "https://open.spotify.com/album/079riMJqKu6hjZZUIT4JEI"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "Awkward Always",
+      "url": "https://open.spotify.com/track/15pG633R6ETfX5OVhSisYS"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Trouble Maker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Awkward Always",
-        "url": "https://open.spotify.com/album/079riMJqKu6hjZZUIT4JEI"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 154686,
-      "name": "Awkward Always",
-      "url": "https://open.spotify.com/track/15pG633R6ETfX5OVhSisYS"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
-      },
-      "artists": [
-        {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Work Hard, Play Hard, See You in the Graveyard",
         "url": "https://open.spotify.com/album/7gQDqeLcyp8Xfxs7YZFZmz"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
     },
     {
       "added_at": "2021-09-02 23:00:00",

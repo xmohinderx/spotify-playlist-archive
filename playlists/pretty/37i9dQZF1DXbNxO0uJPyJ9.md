@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,068 likes - 80 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,302 likes - 80 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 4 | [Let's Dance](https://open.spotify.com/track/17UCjtGEwO9FgCjuHyqTW5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [so80s \(So Eighties\) Volume 4 \- Pres\. By Blank & Jones](https://open.spotify.com/album/5KZreTwJZo9nGNoKtHiYXS) | 7:40 |
 | 5 | [Smalltown Boy](https://open.spotify.com/track/1nz1xzqPN4xYZtR4zgiLxt) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age Of Consent](https://open.spotify.com/album/76FsX997zHYXNiBVcdWZHG) | 5:03 |
 | 6 | [Never Ending Story](https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 5:20 |
-| 7 | [Two Tribes \- Annihilation](https://open.spotify.com/track/04HO96V1POrb0L0iZ8kfK0) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 9:08 |
-| 8 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
-| 9 | [Big In Japan \- Original](https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2doOYBckmPG4zdRzvBOofA) | 4:46 |
+| 7 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
+| 8 | [Big In Japan \- Original](https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2doOYBckmPG4zdRzvBOofA) | 4:46 |
+| 9 | [Two Tribes \- Annihilation](https://open.spotify.com/track/04HO96V1POrb0L0iZ8kfK0) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 9:08 |
 | 10 | [Shout \- U.S\. Remix](https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Steve Thompson](https://open.spotify.com/artist/072BKskZiAjsLMHqZkX9bo), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:00 |
 | 11 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 12 | [Dolce Vita](https://open.spotify.com/track/2mRgBTwCtP7zdtzQWjkSN1) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/6sbpamlKLWPBUVLCOwxvjk) | 7:31 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 28 | [You're My Heart, You're My Soul](https://open.spotify.com/track/2fAwXuWp5IDWMYqXOtDUCS) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Original Album Classics](https://open.spotify.com/album/3Oyhha3GVcismiv65PzJnF) | 5:32 |
 | 29 | [Two Tribes \(Carnage Mix\)](https://open.spotify.com/track/1KoL3cW4vnCEF6paWaveeH) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/7bfpkbku6m1cMU4UPQAggE) | 7:56 |
 | 30 | [Lullaby \- Extended Mix](https://open.spotify.com/track/6HURSxn73thUTH84NfW2UE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Extended 80s \- The Definitive 12" Collection](https://open.spotify.com/album/0sTwtICqSY31MdIGGwAfJx) | 7:43 |
-| 31 | [Enjoy The Silence \- 2006 Digital Remaster](https://open.spotify.com/track/3enkvSCLKtGCCXfRyEK9Fl) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator](https://open.spotify.com/album/1v6DV6Bt0kDsX1Vd1f7CEe) | 6:12 |
-| 32 | [Domino Dancing \- 2001 Remastered Version](https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA) | 7:40 |
+| 31 | [Domino Dancing \- 2001 Remastered Version](https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective](https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA) | 7:40 |
+| 32 | [Enjoy The Silence \- 2006 Digital Remaster](https://open.spotify.com/track/3enkvSCLKtGCCXfRyEK9Fl) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator](https://open.spotify.com/album/1v6DV6Bt0kDsX1Vd1f7CEe) | 6:12 |
 | 33 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
 | 34 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 35 | [Wouldn't It Be Good \- Extended 12" Remix](https://open.spotify.com/track/4Higw00SKb2QInfrWsExET) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing \(Expanded Edition\)](https://open.spotify.com/album/73s7f6K2K8u5GyKUQu6lhY) | 6:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
 | 80 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 
-Snapshot ID: `MTY0OTIwNjk1MywwMDAwMDAwMGNhM2Y3NWNiYmJlYWQzNTlkYjU1ZTNjN2NlNGQ4YzE1`
+Snapshot ID: `MTY0OTI5MzI2NSwwMDAwMDAwMDZkNTk1NmE3NDhjNjFmMWMxZmJhNWUwN2U5ZGYxODAx`

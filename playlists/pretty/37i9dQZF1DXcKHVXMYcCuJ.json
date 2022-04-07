@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 52800,
+  "num_followers": 52941,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjk3NSwwMDAwMDAwMDk2OTdiMTI0M2IwMzNiYzE4Y2MzZmJhOWJjNmI0ZGI1",
+  "snapshot_id": "MTY0OTI5MzI5MCwwMDAwMDAwMDkyNzc2YjUwZjAzZGE0MmYxZWQzNmM3MTNmMjQzMmI2",
   "tracks": [
     {
       "added_at": "2022-02-02 21:33:06",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-02-02 21:33:06",
       "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2022-02-02 21:33:06",
+      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a"
-    },
-    {
-      "added_at": "2022-02-02 21:33:06",
-      "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "added_at": "2022-02-02 21:33:06",

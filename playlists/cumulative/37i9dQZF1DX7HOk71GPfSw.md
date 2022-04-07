@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
-> UMRU\_snare\_bespoke.wav
+> hyperpop spotify playlist ft\. Frost Children
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [forget](https://open.spotify.com/track/01VF7wkmqT4SGPAQcTrIHu) | [polar](https://open.spotify.com/artist/4HlFCYgQck8zAvDboWZ0mq), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [forget](https://open.spotify.com/album/5AoNsTaT8J7IBoEmKiYPKg) | 2:47 | 2022-02-25 | 2022-03-03 |
 | [forget—me—not! \(feat\. Instupendo\)](https://open.spotify.com/track/12FHngId8yX7Ke2SL05cet) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [little\*stars](https://open.spotify.com/album/2I1dafNnVSLe0pe17KOrHN) | 3:18 | 2020-11-14 | 2021-01-08 |
 | [Fork in the Road \- unlucksi Remix](https://open.spotify.com/track/2yCBDXLTuVQKrYokZ0N9Fj) | [unlucksi](https://open.spotify.com/artist/2VfMInMPDeeezuORpGdQye), [In The Blue Shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE) | [Fork in the Road \(unlucksi Remix\)](https://open.spotify.com/album/3lGL7uqlg34XzVB8HqfppZ) | 3:29 | 2021-03-06 | 2021-07-17 |
+| [FOX BOP](https://open.spotify.com/track/4bDK6GxLWO8b6cBUsscXZp) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FOX BOP](https://open.spotify.com/album/5oPaBnxvKHPcgHpKwR5QMm) | 2:30 | 2022-04-06 |  |
 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 | 2020-10-13\* | 2020-12-09 |
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2020-11-23 | 2022-01-13 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-03-04 |  |
@@ -663,7 +664,7 @@
 | [MEMORIES!!!](https://open.spotify.com/track/2LXZzGiaZ5vYxGXEQmsOy3) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 2:27 | 2021-11-05 | 2022-03-05 |
 | [MEMORIES!!!](https://open.spotify.com/track/35yCnfCz5vX2iQnl89F9Y1) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [MEMORIES!!!](https://open.spotify.com/album/3mKfIrC5xunHzcXdvAV5dn) | 2:27 | 2021-10-30 | 2021-11-13 |
 | [Memory of Love](https://open.spotify.com/track/6Qw4s26oCiGnhodjoKBoZx) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [Memory of Love](https://open.spotify.com/album/7gpy1Uq2bcfC3QI8reQ2fu) | 3:02 | 2021-08-14 | 2021-09-17 |
-| [Mental \(feat\. Slump6s & glaive\)](https://open.spotify.com/track/1aRwfcw6dJCFADHm4fqy4T) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Mental \(feat\. Slump6s & glaive\)](https://open.spotify.com/album/5jmPMZargFxop6FYM7Kv5J) | 2:53 | 2022-03-11 |  |
+| [MENTAL \(feat\. Slump6s & glaive\)](https://open.spotify.com/track/1aRwfcw6dJCFADHm4fqy4T) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [MENTAL \(feat\. Slump6s & glaive\)](https://open.spotify.com/album/5jmPMZargFxop6FYM7Kv5J) | 2:53 | 2022-03-11 |  |
 | [mental anguish](https://open.spotify.com/track/1W1fTA8eoQ7SwlWaQc2iTK) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:54 | 2021-10-06 | 2022-01-29 |
 | [messy](https://open.spotify.com/track/2XDvHznQixmCfCPfsWbnrw) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw) | [messy](https://open.spotify.com/album/0jNJiyyqlGaVNKYdvalsqi) | 2:29 | 2021-07-17 | 2021-09-22 |
 | [METAL](https://open.spotify.com/track/1duflsY5auKbBr9nULEp6f) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [METAL](https://open.spotify.com/album/64QF1vC6FaWjFn3Tj9nFNN) | 3:20 | 2021-02-10 | 2021-07-15 |

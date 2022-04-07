@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Antony Szmierek",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jaish",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -333,6 +333,24 @@
       "duration_ms": 155876,
       "name": "amethyst",
       "url": "https://open.spotify.com/track/4krGuYcWC40BPg24FhmqTd"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1oA1VlkDQmPW5ypRGWfWqx"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113052,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4e5w1dOHgWFSqXlQcPaGJ4"
     },
     {
       "album": {
@@ -675,10 +693,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 262060,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w"
+    },
+    {
+      "album": {
+        "name": "cabin fever",
+        "url": "https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73962,
+      "name": "cabin fever",
+      "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
     },
     {
       "album": {
@@ -823,7 +859,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 220411,
       "name": "Deep In, Deep Out",
       "url": "https://open.spotify.com/track/1VuScoy5WfUJRDkTj2QmTR"
@@ -978,6 +1014,42 @@
     },
     {
       "album": {
+        "name": "Don't You Give Up On Me",
+        "url": "https://open.spotify.com/album/5fDvqmqLFg2VkW297OCvtc"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "Don't You Give Up On Me",
+      "url": "https://open.spotify.com/track/0EIvV9yLIyC1HhynOQSuFi"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5QTZrBgBPbCjskB6olU8Hg"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t"
+    },
+    {
+      "album": {
         "name": "Easy Come Easy Go",
         "url": "https://open.spotify.com/album/5CQjLyXaqP5LPtcqOaAgNM"
       },
@@ -989,7 +1061,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 192426,
       "name": "Easy Come Easy Go",
       "url": "https://open.spotify.com/track/2LgkM7cuxKyW9KIZ9wZHiH"
@@ -1050,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "Euler\u2019s Disc",
+        "url": "https://open.spotify.com/album/4myLNhF4ntBgMQqzaqiiLA"
+      },
+      "artists": [
+        {
+          "name": "Louf",
+          "url": "https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352392,
+      "name": "Euler\u2019s Disc",
+      "url": "https://open.spotify.com/track/2u1il4zePSsXmJlATY9bmo"
+    },
+    {
+      "album": {
         "name": "everything looks darker now",
         "url": "https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc"
       },
@@ -1083,6 +1173,24 @@
       "duration_ms": 164967,
       "name": "Exes",
       "url": "https://open.spotify.com/track/1i0gDbcJUHd0mKxJIFpqen"
+    },
+    {
+      "album": {
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
     },
     {
       "album": {
@@ -1437,7 +1545,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 206603,
       "name": "Go Back in Time",
       "url": "https://open.spotify.com/track/7atthTzVajQ4UuQiwZkj2o"
@@ -1823,7 +1931,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 142013,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/7jBx0JhLqK0g3bYvL61f3U"
@@ -2087,7 +2195,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 240064,
       "name": "Job Done",
       "url": "https://open.spotify.com/track/4keoX75UEWCO0wDVhaFIOM"
@@ -2304,6 +2412,24 @@
     },
     {
       "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/4obqEeispd4zybuIeLzUYN"
+      },
+      "artists": [
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246300,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/59CN7mcm07irUS6YSEUobE"
+    },
+    {
+      "album": {
         "name": "lose yourself.",
         "url": "https://open.spotify.com/album/1uCQjmgeRjzvmUM8C9UEdE"
       },
@@ -2359,6 +2485,24 @@
       "duration_ms": 205094,
       "name": "Love Is A Serious Mental Illness",
       "url": "https://open.spotify.com/track/4jDYaGsubTxHbvShox1pmm"
+    },
+    {
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/12XJVreIoihBllag1a4LLf"
+      },
+      "artists": [
+        {
+          "name": "The Backup Plan",
+          "url": "https://open.spotify.com/artist/2OHdFbFCCK7cuJS02RHbwh"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/7uUyiqEULRsk8zovqDLLHw"
     },
     {
       "album": {
@@ -2915,7 +3059,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 196236,
       "name": "No one Buys me Flowers",
       "url": "https://open.spotify.com/track/7uNpGpvrbniaHK9jjng5PN"
@@ -2987,7 +3131,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 225245,
       "name": "Nothing to Something",
       "url": "https://open.spotify.com/track/0jy6xqf66xAccJWPg1db5e"
@@ -3125,7 +3269,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 183385,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/1MDwXvdl15ieMnMTHmAyIx"
@@ -3219,7 +3363,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 157840,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/2JhvPbdeynxzLYRPtX5GH1"
@@ -3590,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/5FKplGtCUy18MNBsrfe5x7"
+      },
+      "artists": [
+        {
+          "name": "T.J. Maverick",
+          "url": "https://open.spotify.com/artist/5f8ohOwDXa5aJYVkcM1riT"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/09fAuXluhXNv2muT6LLlGu"
+    },
+    {
+      "album": {
         "name": "Run the Lights",
         "url": "https://open.spotify.com/album/2YblBkuyN0vDQUCJpntbcl"
       },
@@ -3623,7 +3785,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 232945,
       "name": "See You",
       "url": "https://open.spotify.com/track/3MIIOWKkWySNmVe0v8JYQs"
@@ -3641,7 +3803,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 178766,
       "name": "Sefton in the Summertime",
       "url": "https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn"
@@ -3775,6 +3937,24 @@
       "duration_ms": 210576,
       "name": "Sick of It",
       "url": "https://open.spotify.com/track/5QXGw1NqlVAkl3DYj9zUcZ"
+    },
+    {
+      "album": {
+        "name": "Silent Movie",
+        "url": "https://open.spotify.com/album/1ZeT3LQu8fgK6Qc3BZX3CY"
+      },
+      "artists": [
+        {
+          "name": "Erica Manzoli",
+          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "Silent Movie",
+      "url": "https://open.spotify.com/track/6W85fbQbVmKkEQs1W88vQK"
     },
     {
       "album": {
@@ -4306,6 +4486,24 @@
     },
     {
       "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/4IM03HuDmUFPDdbIth6DGu"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178454,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/5GTxkbTyZe9OtvdsgLaWLp"
+    },
+    {
+      "album": {
         "name": "Twenty-two",
         "url": "https://open.spotify.com/album/4MhmPW6FAWawJZad2nssgT"
       },
@@ -4541,6 +4739,24 @@
       "duration_ms": 175578,
       "name": "With U",
       "url": "https://open.spotify.com/track/75DHJ9Szi2lYMDZMADrPhn"
+    },
+    {
+      "album": {
+        "name": "Woke Up, Chose Violence",
+        "url": "https://open.spotify.com/album/4FG4S3sodNuVYaFqGWFCTG"
+      },
+      "artists": [
+        {
+          "name": "Berry Galazka",
+          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153663,
+      "name": "Woke Up, Chose Violence",
+      "url": "https://open.spotify.com/track/5UhbJJTRnfIkuzYAPlyVA3"
     },
     {
       "album": {

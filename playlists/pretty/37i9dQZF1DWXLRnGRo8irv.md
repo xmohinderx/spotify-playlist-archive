@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: Seori\(서리\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,099 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,147 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 42 | [RAW](https://open.spotify.com/track/2oqLffivCbcJlbGYXXp3nk) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 1:11 |
 | 43 | [Time for the glory](https://open.spotify.com/track/0VCWeQuUFTz2MkivIbJVXo) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 4:21 |
 | 44 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
-| 45 | [The last cold snap](https://open.spotify.com/track/2rDD8ISyiF38Ir5bKAPKxC) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [The last cold snap](https://open.spotify.com/album/5iLIVvRmGY4d8eqVvf9fPK) | 4:00 |
+| 45 | [EAU DE SPRING](https://open.spotify.com/track/2rDD8ISyiF38Ir5bKAPKxC) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [EAU DE SPRING](https://open.spotify.com/album/5iLIVvRmGY4d8eqVvf9fPK) | 4:00 |
 | 46 | [Never Ending Story..](https://open.spotify.com/track/4NRfotQyUEzPCWPCMVk9Cl) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [Never Ending Story..](https://open.spotify.com/album/6IxTod6cQ9Isj6scJ7uDqz) | 3:58 |
 | 47 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 |
 | 48 | [Everything to you](https://open.spotify.com/track/27gUhkVD6kOEe7vcLbc3jO) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Everything to you](https://open.spotify.com/album/19BHUKXfKGiYfvSyzDMxNo) | 3:52 |

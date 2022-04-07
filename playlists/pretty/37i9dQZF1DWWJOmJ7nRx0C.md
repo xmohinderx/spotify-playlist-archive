@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,443 likes - 155 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,585 likes - 155 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

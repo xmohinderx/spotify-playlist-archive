@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Camille
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,234 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,343 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 36 | [Wie Ben Je?](https://open.spotify.com/track/0uRii1GzNw9FNmDAMWPyPJ) | [COZIN](https://open.spotify.com/artist/2UGmdRgmidBuqkgTrJIMTI) | [Zwarte Hemel](https://open.spotify.com/album/3PKzy4mISb26uD3XV50Ic4) | 3:24 |
 | 37 | [Alleen](https://open.spotify.com/track/2PVNqnPI3NQAFcgXMpUly2) | [Anouk Leander](https://open.spotify.com/artist/1LMmNDtd8SjhXqpvMccXXr) | [Alleen](https://open.spotify.com/album/1YpcgfOLmxvqUlAGg3Kmrd) | 2:55 |
 | 38 | [Black Mirror](https://open.spotify.com/track/6ZlKRS9DzYSAzcz9a2E528) | [LANI](https://open.spotify.com/artist/3C0EAgBRXUuNECI6jj7h3R) | [Black Mirror](https://open.spotify.com/album/396mMwSI3zcs5Udp2nUP84) | 3:08 |
-| 39 | [Overdose](https://open.spotify.com/track/2ADsufYzRMSooxLFCGK3qM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Overdose](https://open.spotify.com/album/4REUtrV4qmf8rDbtX6jqII) | 2:33 |
-| 40 | [BABY GIRL](https://open.spotify.com/track/64CraDOVhpin7OPc4MRaaV) | [Anna Dutoit](https://open.spotify.com/artist/20QqftxgyoLMoSmrD3fpL7) | [BABY GIRL](https://open.spotify.com/album/1iznQ8BNjCg3VqVYV1mnqO) | 2:45 |
-| 41 | [Dode Bloem](https://open.spotify.com/track/6BB0GCGwqpGPeTiNW3f0NC) | [IKRAAAN](https://open.spotify.com/artist/2tCegOPiGh8HZLAy1fmi8A) | [Dode Bloem](https://open.spotify.com/album/4vv1UYJ2Q9o2NhLmysMie6) | 3:13 |
-| 42 | [Belgium In The Rain](https://open.spotify.com/track/5dIzB9W0TQbBFzU4QX0zdj) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 3:07 |
-| 43 | [FOMO](https://open.spotify.com/track/7Eyrj5OeaBB5LAK56ZaMxf) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [FOMO](https://open.spotify.com/album/2e1XbPCzrbVt66fWClVVwA) | 3:29 |
-| 44 | [Luna](https://open.spotify.com/track/3oL0FRaqPH3hx1qmRvitSs) | [Coline Blf](https://open.spotify.com/artist/1XDyP487Btx5DKzhE2jNjT) | [Luna](https://open.spotify.com/album/38Dw6jQCPCK8d70FWJJAnt) | 3:39 |
-| 45 | [When I Cry](https://open.spotify.com/track/64SWZk8slFxJMV2FRaglJV) | [Jade](https://open.spotify.com/artist/6gt6I3wE7iKdn5eUYnNHlF) | [When I Cry](https://open.spotify.com/album/3KDr8sM2aLIj3qVH88xUKz) | 2:57 |
-| 46 | [It Ends With You](https://open.spotify.com/track/0Rj3PMzpeh68GZGjRd3Kk8) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM) | [It Ends With You](https://open.spotify.com/album/5wDIeTEJWkNThiMbLAGDgK) | 2:26 |
-| 47 | [Moon](https://open.spotify.com/track/46RoQhhmV1rH3zYN16Vvh4) | [STACE](https://open.spotify.com/artist/77ilYLfao13XeK0y38I6iX), [Kriticos](https://open.spotify.com/artist/2nGPuZfeFOBon0T2Q0R5HX) | [Green Onyx](https://open.spotify.com/album/6coHhGmYKyLUfXPAW4xYCx) | 4:06 |
-| 48 | [C'est le bordel](https://open.spotify.com/track/0PmjeRkie6Q6qXL9G9MUmb) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [C'est le bordel](https://open.spotify.com/album/4UHUq2Cal5NUX7U8471lZc) | 2:52 |
-| 49 | [Bubblegum](https://open.spotify.com/track/7ylbNn5hIq11cCdnFZQ1L5) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [Bubblegum](https://open.spotify.com/album/4f4wOOH8b4QlM3AVcc466e) | 3:07 |
-| 50 | [Fou](https://open.spotify.com/track/1JnJ956dicaUtYGTsCAlC9) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Quand je vois l'humain](https://open.spotify.com/album/3jGM6aQBau9OAfLcdbbT5h) | 3:25 |
+| 39 | [BABY GIRL](https://open.spotify.com/track/64CraDOVhpin7OPc4MRaaV) | [Anna Dutoit](https://open.spotify.com/artist/20QqftxgyoLMoSmrD3fpL7) | [BABY GIRL](https://open.spotify.com/album/1iznQ8BNjCg3VqVYV1mnqO) | 2:45 |
+| 40 | [Dode Bloem](https://open.spotify.com/track/6BB0GCGwqpGPeTiNW3f0NC) | [IKRAAAN](https://open.spotify.com/artist/2tCegOPiGh8HZLAy1fmi8A) | [Dode Bloem](https://open.spotify.com/album/4vv1UYJ2Q9o2NhLmysMie6) | 3:13 |
+| 41 | [Belgium In The Rain](https://open.spotify.com/track/5dIzB9W0TQbBFzU4QX0zdj) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 3:07 |
+| 42 | [FOMO](https://open.spotify.com/track/7Eyrj5OeaBB5LAK56ZaMxf) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [FOMO](https://open.spotify.com/album/2e1XbPCzrbVt66fWClVVwA) | 3:29 |
+| 43 | [Luna](https://open.spotify.com/track/3oL0FRaqPH3hx1qmRvitSs) | [Coline Blf](https://open.spotify.com/artist/1XDyP487Btx5DKzhE2jNjT) | [Luna](https://open.spotify.com/album/38Dw6jQCPCK8d70FWJJAnt) | 3:39 |
+| 44 | [When I Cry](https://open.spotify.com/track/64SWZk8slFxJMV2FRaglJV) | [Jade](https://open.spotify.com/artist/6gt6I3wE7iKdn5eUYnNHlF) | [When I Cry](https://open.spotify.com/album/3KDr8sM2aLIj3qVH88xUKz) | 2:57 |
+| 45 | [It Ends With You](https://open.spotify.com/track/0Rj3PMzpeh68GZGjRd3Kk8) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM) | [It Ends With You](https://open.spotify.com/album/5wDIeTEJWkNThiMbLAGDgK) | 2:26 |
+| 46 | [Moon](https://open.spotify.com/track/46RoQhhmV1rH3zYN16Vvh4) | [STACE](https://open.spotify.com/artist/77ilYLfao13XeK0y38I6iX), [Kriticos](https://open.spotify.com/artist/2nGPuZfeFOBon0T2Q0R5HX) | [Green Onyx](https://open.spotify.com/album/6coHhGmYKyLUfXPAW4xYCx) | 4:06 |
+| 47 | [C'est le bordel](https://open.spotify.com/track/0PmjeRkie6Q6qXL9G9MUmb) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [C'est le bordel](https://open.spotify.com/album/4UHUq2Cal5NUX7U8471lZc) | 2:52 |
+| 48 | [Bubblegum](https://open.spotify.com/track/7ylbNn5hIq11cCdnFZQ1L5) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [Bubblegum](https://open.spotify.com/album/4f4wOOH8b4QlM3AVcc466e) | 3:07 |
+| 49 | [Fou](https://open.spotify.com/track/1JnJ956dicaUtYGTsCAlC9) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Quand je vois l'humain](https://open.spotify.com/album/3jGM6aQBau9OAfLcdbbT5h) | 3:25 |
 
-Snapshot ID: `MTY0OTE5NjAwMCwwMDAwMDAwZjAwMDAwMTdmZmJiZGUzNmEwMDAwMDE3ZmY0Y2Q0N2U5`
+Snapshot ID: `MTY0OTIzMDcwNSwwMDAwMDAxMDAwMDAwMTdmZmRjZjc0YTEwMDAwMDE3ZmY0Y2Q0N2U5`

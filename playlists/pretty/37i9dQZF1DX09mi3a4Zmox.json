@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3892212,
+  "num_followers": 3892488,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjYzMSwwMDAwMDAwMDAzZTJhMzEyODg4NmI1MmMwMzk5MzM1MTYxNDNlMjM2",
+  "snapshot_id": "MTY0OTI5MjkxOCwwMDAwMDAwMDJhNjBkZmE0ZTY4ODc4NzhjOTgzNmE4MGZiZDIxNjU4",
   "tracks": [
     {
       "added_at": "2022-02-01 15:46:24",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-02-01 15:46:24",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2022-02-01 15:46:24",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2022-02-01 15:46:24",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2022-02-01 15:46:24",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-02-01 15:46:24",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/0ob1RrPxFuyGMeKqxdf7mW"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 201644,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/2hut8CKkX5obUCgsbp3RHb"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-02-01 15:46:24",
@@ -331,6 +331,22 @@
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
+    },
+    {
+      "added_at": "2022-02-01 15:46:24",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0ob1RrPxFuyGMeKqxdf7mW"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201644,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/2hut8CKkX5obUCgsbp3RHb"
     },
     {
       "added_at": "2022-02-01 15:46:24",
@@ -363,22 +379,6 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2022-02-01 15:46:24",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-02-01 15:46:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-02-01 15:46:24",
       "album": {
+        "name": "Extended Play Yatra",
+        "url": "https://open.spotify.com/album/684Oha4XLJKYD3OztiXma5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/6ytgCKFGvKrmVj1X7s8idZ"
+    },
+    {
+      "added_at": "2022-02-01 15:46:24",
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/3mBRgkagJKALFDxm5ptevT"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/3bCuNSiaBHqxdevMYEnGpe"
-    },
-    {
-      "added_at": "2022-02-01 15:46:24",
-      "album": {
-        "name": "Extended Play Yatra",
-        "url": "https://open.spotify.com/album/684Oha4XLJKYD3OztiXma5"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Como Mirarte",
-      "url": "https://open.spotify.com/track/6ytgCKFGvKrmVj1X7s8idZ"
     },
     {
       "added_at": "2022-02-01 15:46:24",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-02-01 15:46:24",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/5RELLT2r8WuuLmOFBTZP2b"
-    },
-    {
-      "added_at": "2022-02-01 15:46:24",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 180493,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6svomc2OrfHEqm6bIDqddz"
+    },
+    {
+      "added_at": "2022-02-01 15:46:24",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/5RELLT2r8WuuLmOFBTZP2b"
     },
     {
       "added_at": "2022-02-01 15:46:24",

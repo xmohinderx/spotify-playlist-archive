@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Luz Pinos y m\u00e1s mujeres, a todo volumen.",
+  "description": "Itzza Primera y m\u00e1s mujeres, a todo volumen.",
   "name": "EQUAL Andes",
   "published_playlist_ids": [
     "4ig5nNsfONZJzmj3q1Nolg"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 199018,
       "name": "Donde Estas Amor",
       "url": "https://open.spotify.com/track/4AgxR5LREx81UqZBhOO5J9"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 226464,
       "name": "Elegiste Enga\u00f1arme",
       "url": "https://open.spotify.com/track/348g4lfzjvOj2IslIqIRx0"
@@ -487,6 +487,24 @@
       "duration_ms": 172653,
       "name": "Estoy Soltera",
       "url": "https://open.spotify.com/track/597HxeFN4prkOZml250ZhR"
+    },
+    {
+      "album": {
+        "name": "Putilandia",
+        "url": "https://open.spotify.com/album/1vKI3h0ERKvGgZqP3dsBNa"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Est\u00e1 Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4MDNY9gZdhmk6YEjslxhgI"
     },
     {
       "album": {
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 189653,
       "name": "Uno M\u00e1s Uno",
       "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"

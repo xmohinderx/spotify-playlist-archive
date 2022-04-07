@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1078386,
+  "num_followers": 1078430,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjY3NiwwMDAwMDAwMDVmNzQ4MDQ5OGZhNzU1Y2FlNWFhZTQwNzQzMDQwYTU5",
+  "snapshot_id": "MTY0OTI5Mjk2NiwwMDAwMDAwMDFkOTY2M2UyYmQwMDgxNDI2YjAxMGRmNjJhNTdlMzFj",
   "tracks": [
     {
       "added_at": "2021-09-24 03:10:22",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "Future Nostalgia (The Moonlight Edition)",
-        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "We're Good",
-      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 214585,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6ZamNPbk8US2Xb7fcgLt1V"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "We're Good",
+      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "Tyler Shaw",
-        "url": "https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Be Like You",
-      "url": "https://open.spotify.com/track/2hOBvV6M8x3IVnpCtIZuGj"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
         "name": "Country Stuff",
         "url": "https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "Tyler Shaw",
+        "url": "https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Be Like You",
+      "url": "https://open.spotify.com/track/2hOBvV6M8x3IVnpCtIZuGj"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "Meet You There",
-        "url": "https://open.spotify.com/album/10xZODjcj6V1iWxB5a3Jii"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Love You Right",
-      "url": "https://open.spotify.com/track/5c6I3sGmOMiQWUalVjYnj7"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/10xZODjcj6V1iWxB5a3Jii"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/5c6I3sGmOMiQWUalVjYnj7"
     },
     {
       "added_at": "2021-09-24 03:10:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-09-24 03:10:22",
       "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2021-09-24 03:10:22",
-      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 168253,
       "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
       "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
+    },
+    {
+      "added_at": "2021-09-24 03:10:22",
+      "album": {
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2021-09-24 03:10:22",

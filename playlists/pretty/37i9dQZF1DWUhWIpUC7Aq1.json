@@ -1,12 +1,12 @@
 {
   "description": "who's that girl.... it's you with your large white collar, sparrow print booties, and dare we say ~curtain bangs~ ",
-  "num_followers": 18773,
+  "num_followers": 19093,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjQ3OSwwMDAwMDAwMGZjOWJmNjIwMDhlNzIzYjk0OWNiZWRjNzc5N2Q2M2Zh",
+  "snapshot_id": "MTY0OTI5Mjc1NSwwMDAwMDAwMDBjYTUyMjE1ZDMwYjk5ODdlZGIyNzQ5MDhjY2Y3NjVh",
   "tracks": [
     {
       "added_at": "2022-02-10 19:15:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 315200,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/1G8ie1boOkATlOVesYdv2C"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/1G8ie1boOkATlOVesYdv2C"
     },
     {
       "added_at": "2022-02-10 19:15:40",

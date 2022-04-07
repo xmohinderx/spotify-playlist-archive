@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 117082,
+  "num_followers": 117205,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNzAwMSwwMDAwMDAwMGI5OGY1NzYyOTc2YTE3NzQ2MWRiOTJhYWUwOTk0ZTU1",
+  "snapshot_id": "MTY0OTI5MzMxOSwwMDAwMDAwMDJlMmU5YTMyN2ZjM2IzNTc5YTM1ZmQ5MWQ5OWY2YTk4",
   "tracks": [
     {
       "added_at": "2021-12-22 23:31:50",
@@ -311,6 +311,22 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2021-12-22 23:31:50",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 320306,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "added_at": "2021-12-22 23:31:50",
+      "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/7Gw1W7OHekTxmG5bgdQlZm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Waiting for Tonight - Hex's Momentous Radio Mix",
+      "url": "https://open.spotify.com/track/6zY3ijGTWs4e357AHvmaD5"
     },
     {
       "added_at": "2021-12-22 23:31:50",
@@ -519,22 +535,6 @@
       "duration_ms": 304960,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
-    },
-    {
-      "added_at": "2021-12-22 23:31:50",
-      "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/7Gw1W7OHekTxmG5bgdQlZm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Waiting for Tonight - Hex's Momentous Radio Mix",
-      "url": "https://open.spotify.com/track/6zY3ijGTWs4e357AHvmaD5"
     },
     {
       "added_at": "2021-12-22 23:31:50",

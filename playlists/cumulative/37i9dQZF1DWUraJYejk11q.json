@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "DAZED",
+        "url": "https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6"
+      },
+      "artists": [
+        {
+          "name": "Galaksit",
+          "url": "https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "DAZED",
+      "url": "https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7"
+    },
+    {
+      "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
         "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
       },
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 385173,
       "name": "Endongo",
       "url": "https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M"
@@ -1989,6 +2007,28 @@
       "duration_ms": 382767,
       "name": "Siren",
       "url": "https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Caroline Polachek)",
+        "url": "https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238019,
+      "name": "Sirens (feat. Caroline Polachek)",
+      "url": "https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4"
     },
     {
       "album": {

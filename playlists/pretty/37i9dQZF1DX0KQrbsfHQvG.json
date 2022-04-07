@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 157362,
+  "num_followers": 157395,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjY0MCwwMDAwMDAwMGI0ZjIzMjA5MDhkMGNjMTBmYTY1ODMzNTI0NzkyZjBl",
+  "snapshot_id": "MTY0OTI5MjkyNywwMDAwMDAwMGU5NDc4NGEzYWExZGY0NzZkNjZhMmY5NTQ0Yzg1NmEx",
   "tracks": [
     {
       "added_at": "2022-01-14 05:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Identity",
-        "url": "https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "BURN IT",
-        "url": "https://open.spotify.com/album/3xQ3UT8MXWNHi6ze8TGQ5p"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 231689,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/5YVMcqVtrNuy41qRyu55ag"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "BURN IT",
+        "url": "https://open.spotify.com/album/3xQ3UT8MXWNHi6ze8TGQ5p"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 231689,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/5YVMcqVtrNuy41qRyu55ag"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -395,22 +395,6 @@
       "duration_ms": 228720,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Hate Conquers All",
-        "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -451,6 +435,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Hate Conquers All",
+        "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4aeS8uzdE2lHU6sGpwWTjH"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/1458wiKvtIJNcragJ49iQL"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "American Attraction",
-        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "American Attraction",
-      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Our House (The Mess We Made)",
         "url": "https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj"
       },
@@ -511,22 +495,6 @@
       "duration_ms": 220528,
       "name": "Our House (The Mess We Made)",
       "url": "https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Massacre, The New American Dream",
-        "url": "https://open.spotify.com/album/5fx7p0vA2al3xUtzHRUJ6N"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Massacre, The New American Dream",
-      "url": "https://open.spotify.com/track/0NflwidhwbOHB9tBesSQrx"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -547,6 +515,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Massacre, The New American Dream",
+        "url": "https://open.spotify.com/album/5fx7p0vA2al3xUtzHRUJ6N"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Massacre, The New American Dream",
+      "url": "https://open.spotify.com/track/0NflwidhwbOHB9tBesSQrx"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 201956,
       "name": "Hail To The Victor",
       "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "a modern tragedy vol. 3",
-        "url": "https://open.spotify.com/album/7AyAjjEyQwjpaqMEWMi3Iu"
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
         }
       ],
-      "duration_ms": 215035,
-      "name": "Oh No!!!",
-      "url": "https://open.spotify.com/track/1o7fEkmVNWFiBOunYE4flT"
+      "duration_ms": 173733,
+      "name": "Bullet - Single Version",
+      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+        "name": "a modern tragedy vol. 3",
+        "url": "https://open.spotify.com/album/7AyAjjEyQwjpaqMEWMi3Iu"
       },
       "artists": [
         {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
+      "duration_ms": 215035,
+      "name": "Oh No!!!",
+      "url": "https://open.spotify.com/track/1o7fEkmVNWFiBOunYE4flT"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -767,22 +767,6 @@
       "duration_ms": 181493,
       "name": "Bleed American",
       "url": "https://open.spotify.com/track/4J0AkZj6UilnoNRpFN4W2b"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "6:00",
-      "url": "https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -851,22 +835,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "REV001",
         "url": "https://open.spotify.com/album/0zIkU9A6r0UjwIaIs2qMCg"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 190266,
       "name": "REV001",
       "url": "https://open.spotify.com/track/1848Fg5mU5Dk14CaahuasP"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "6:00",
+      "url": "https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -935,22 +919,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "21st Century Liability",
         "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
@@ -967,34 +935,18 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Economy Of Death",
-        "url": "https://open.spotify.com/album/614jK7SKYCn5xYqEV8yBRM"
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
       "artists": [
         {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Economy Of Death",
-      "url": "https://open.spotify.com/track/1azvYDoh5ppY6ynmhSzr0a"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 173326,
-      "name": "Made An America",
-      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1015,6 +967,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Economy Of Death",
+        "url": "https://open.spotify.com/album/614jK7SKYCn5xYqEV8yBRM"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Economy Of Death",
+      "url": "https://open.spotify.com/track/1azvYDoh5ppY6ynmhSzr0a"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "Year Zero",
         "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 229666,
       "name": "Capital G",
       "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 173326,
+      "name": "Made An America",
+      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1083,54 +1083,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "VANDALS",
-        "url": "https://open.spotify.com/album/2rcUKQmIZbyqNwX27l6Z6U"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 177654,
-      "name": "VANDALS",
-      "url": "https://open.spotify.com/track/1GimywxURsgAQHndRPToYj"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Amplifier",
-        "url": "https://open.spotify.com/album/3C3OZNijbICjzXv1BydjNH"
-      },
-      "artists": [
-        {
-          "name": "Fear No Empire",
-          "url": "https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk"
-        }
-      ],
-      "duration_ms": 214487,
-      "name": "Amplifier",
-      "url": "https://open.spotify.com/track/3iEJfetLpNgqQM0riDWP9R"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "thoughts & prayers",
-        "url": "https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "thoughts & prayers",
-      "url": "https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Give In",
         "url": "https://open.spotify.com/album/6o1EM7uwLSqveoOTmvaAwL"
       },
@@ -1163,6 +1115,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Amplifier",
+        "url": "https://open.spotify.com/album/3C3OZNijbICjzXv1BydjNH"
+      },
+      "artists": [
+        {
+          "name": "Fear No Empire",
+          "url": "https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk"
+        }
+      ],
+      "duration_ms": 214487,
+      "name": "Amplifier",
+      "url": "https://open.spotify.com/track/3iEJfetLpNgqQM0riDWP9R"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -1175,6 +1143,38 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "VANDALS",
+        "url": "https://open.spotify.com/album/2rcUKQmIZbyqNwX27l6Z6U"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 177654,
+      "name": "VANDALS",
+      "url": "https://open.spotify.com/track/1GimywxURsgAQHndRPToYj"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "thoughts & prayers",
+        "url": "https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "thoughts & prayers",
+      "url": "https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Trigger",
-        "url": "https://open.spotify.com/album/1H84oHDW2NjJlZMBAZsjtT"
+        "name": "National Anthem",
+        "url": "https://open.spotify.com/album/7pqXY4C7TOgZPfaz9q4Kxt"
       },
       "artists": [
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
         }
       ],
-      "duration_ms": 164751,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/4dHNWm43HrElSRtwvRRbtg"
+      "duration_ms": 148133,
+      "name": "National Anthem",
+      "url": "https://open.spotify.com/track/17DPxC2PVZH80od1vFvW2t"
     }
   ],
   "unique_name": "Rise Up",

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 188722,
       "name": "ALMAZAT",
       "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "Arab Trap 2 / Habibi",
       "url": "https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "V!BEZ, Vol. 3",
+        "url": "https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS"
+    },
+    {
+      "album": {
         "name": "Drop It Again",
         "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 212307,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 236657,
       "name": "El-M3allem - Moseqah",
       "url": "https://open.spotify.com/track/6G56HoNH8vgM5d0M8jmtSH"
@@ -377,7 +395,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 217142,
       "name": "Get It Poppin - Original Mix",
       "url": "https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 409817,
       "name": "Illumine - Original Mix",
       "url": "https://open.spotify.com/track/3HvRFELeWQ5ib6G5w9wvJi"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 176535,
       "name": "Izdaja",
       "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 198453,
       "name": "Kobra (feat. Pouvoir Magique)",
       "url": "https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 173187,
       "name": "Manama",
       "url": "https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 144006,
       "name": "Menak",
       "url": "https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-24",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Raqsni",
       "url": "https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 137124,
       "name": "Rise",
       "url": "https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 476033,
       "name": "Serengeti - Chihaka Remix",
       "url": "https://open.spotify.com/track/4OdRW0NHk3YEomB1yQvcUz"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 221156,
       "name": "Token Baashi",
       "url": "https://open.spotify.com/track/39qUZ7zIlDXziDOvRE2UCN"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Tribe",
       "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"

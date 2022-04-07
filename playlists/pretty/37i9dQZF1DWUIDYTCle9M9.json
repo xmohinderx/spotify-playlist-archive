@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima!",
-  "num_followers": 503434,
+  "num_followers": 503631,
   "original_name": "Alto Astral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjQ3MSwwMDAwMDAwMDJmODRiZDZlODgyOWIzMjhiNTMxODExN2JlZGVkNzk2",
+  "snapshot_id": "MTY0OTI5Mjc0NiwwMDAwMDAwMDhkNzhiOWEzZTExZGIyN2EzYTlmMjc2NmI1NjU0ODQ2",
   "tracks": [
     {
       "added_at": "2021-07-02 03:03:00",
@@ -187,38 +187,18 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Onde Voc\u00ea Mora?",
-        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Onde Voc\u00ea Mora?",
-      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT"
+      "duration_ms": 151500,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -235,22 +215,6 @@
       "duration_ms": 249706,
       "name": "Girassol (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -287,6 +251,26 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
+        "name": "Onde Voc\u00ea Mora?",
+        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Onde Voc\u00ea Mora?",
+      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
         "name": "Como est\u00e3o voc\u00eas?",
         "url": "https://open.spotify.com/album/3DDNSWI08bjLGOsK2EBY7w"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 182186,
       "name": "Enquanto Houver Sol",
       "url": "https://open.spotify.com/track/4Eu11AEW4PK9Rtc3TkTwl7"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 175270,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Calango",
-        "url": "https://open.spotify.com/album/5pp3Fjp4h728libl8vxoFn"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Jackie Tequila",
-      "url": "https://open.spotify.com/track/4vylvWmzkARLasyWiAMo2I"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "Bem Melhor",
         "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 183050,
       "name": "Bem Melhor",
       "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Calango",
+        "url": "https://open.spotify.com/album/5pp3Fjp4h728libl8vxoFn"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Jackie Tequila",
+      "url": "https://open.spotify.com/track/4vylvWmzkARLasyWiAMo2I"
     },
     {
       "added_at": "2021-07-02 03:03:00",

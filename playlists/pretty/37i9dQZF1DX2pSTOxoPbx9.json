@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 624873,
+  "num_followers": 625101,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjcxMCwwMDAwMDAwMGJmYjUwNjlkMTAyN2Y0MTVkOTIwNmUxMjE2ZTVlOWI4",
+  "snapshot_id": "MTY0OTI5MzAwMywwMDAwMDAwMDIwOTQ1ZDAwMDVlNjFiZjc2NWE5OGJkMjZmNzEyYjY3",
   "tracks": [
     {
       "added_at": "2021-10-22 04:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "They Moved In Shadow All Together",
-        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
-      },
-      "artists": [
-        {
-          "name": "Emily Jane White",
-          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 276286,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "They Moved In Shadow All Together",
+        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
+      },
+      "artists": [
+        {
+          "name": "Emily Jane White",
+          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/629CzKiV2SbwuMSU0O9rIt"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/3ONaqCb780ATQB9j3vSoi2"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
         "name": "Until",
         "url": "https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 317026,
       "name": "Bell Under Water",
       "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/629CzKiV2SbwuMSU0O9rIt"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/3ONaqCb780ATQB9j3vSoi2"
     },
     {
       "added_at": "2021-10-29 21:08:45",

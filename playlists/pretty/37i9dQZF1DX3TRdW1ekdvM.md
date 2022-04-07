@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,663 likes - 44 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,845 likes - 45 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 42 | [Theta Part Two 4\-7 Hz](https://open.spotify.com/track/7f1xSEUhVJBblZxPhFSlu7) | [Life Sync](https://open.spotify.com/artist/23Ju3YgKExCyL6FifFdDPp) | [Deep Concentration: Theta Binaural Beats](https://open.spotify.com/album/25pzL43hpUVDyDGCWUBtCr) | 2:00 |
 | 43 | [Codes of Light 6hz Theta](https://open.spotify.com/track/2MC5zmOUOQCE6UiHmNA4xj) | [Hagai A](https://open.spotify.com/artist/4P0srzvQWm4l1Z85vkTwQo) | [Codes of Light](https://open.spotify.com/album/5swlw6y7xtorw1scuowROI) | 10:00 |
 | 44 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
+| 45 | [Theta Waves 7hz](https://open.spotify.com/track/2S5VZzo3RCO5vLnkIM9F4j) | [Subtle Mind Expansion](https://open.spotify.com/artist/2GZTcvdQzd7OgcQC0jnAsJ) | [Super Lucky: Attract Good Luck With Positive Affirmations Ischronic Tones Brainwave Entrainment](https://open.spotify.com/album/6yzrHBpa7wdDpmyG8QmCu2) | 10:02 |
 
-Snapshot ID: `MTY0OTA1NzYwNiwwMDAwMDAyZTAwMDAwMTdmZjM3ZTJhN2IwMDAwMDE3MzQ2YzgyZTU4`
+Snapshot ID: `MTY0OTIzODcyNSwwMDAwMDAyZjAwMDAwMTdmZmU0OWQzYjkwMDAwMDE3MzQ2YzgyZTU4`

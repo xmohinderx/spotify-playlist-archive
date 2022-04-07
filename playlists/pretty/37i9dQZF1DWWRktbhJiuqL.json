@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
-  "num_followers": 1465138,
+  "num_followers": 1465325,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjUzMSwwMDAwMDAwMDJiNWE4NzI3YzMzYzllYWFiYmUxN2JmNDIyYmQxYTRi",
+  "snapshot_id": "MTY0OTI5MjgxMSwwMDAwMDAwMDBjMjI0NzcwMTRmMDJjM2UwZGY3YTE2YmQ4MjQ5MmRj",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274133,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "1984",
         "url": "https://open.spotify.com/album/6x2n6wj3WvkRi8J8gxEcF0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 264333,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/75wP08AtMfGfjk0nPdvVw3"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1187,54 +1187,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Guitar Heaven: The Greatest Guitar Classics Of All Time",
-        "url": "https://open.spotify.com/album/2mvUHntZi5syPgO8rrlSdL"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 231360,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/3fBuhWRaAlkXOUFFJL0Mag"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Stay Hungry [Deluxe 25th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/2BNYEcFVte2IUpzuPOTnoS"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "I Wanna Rock (Remastered Album Version)",
-      "url": "https://open.spotify.com/track/7zLC4HAY11GvvKsZHNrkAp"
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1255,18 +1219,38 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "Guitar Heaven: The Greatest Guitar Classics Of All Time",
+        "url": "https://open.spotify.com/album/2mvUHntZi5syPgO8rrlSdL"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+      "duration_ms": 231360,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/3fBuhWRaAlkXOUFFJL0Mag"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Stay Hungry [Deluxe 25th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/2BNYEcFVte2IUpzuPOTnoS"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "I Wanna Rock (Remastered Album Version)",
+      "url": "https://open.spotify.com/track/7zLC4HAY11GvvKsZHNrkAp"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 280360,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/4DWzGxXc3shAzDGy2UIaL5"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Get Your Wings",
         "url": "https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 233160,
       "name": "Same Old Song and Dance",
       "url": "https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 180517,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+      "duration_ms": 241933,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/4DWzGxXc3shAzDGy2UIaL5"
     },
     {
       "added_at": "2022-03-11 05:00:00",

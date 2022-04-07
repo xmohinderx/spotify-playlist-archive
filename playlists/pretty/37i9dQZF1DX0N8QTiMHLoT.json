@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 104679,
+  "num_followers": 104724,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjY0MiwwMDAwMDAwMDg1YmNjYThjNjVlYjkxOTlmZjdmNDIzZTRmNWIwNGI4",
+  "snapshot_id": "MTY0OTI5MjkyOSwwMDAwMDAwMDk3MDViMjc2MzY0ZGJkMTE2Nzc0ZjU2NzVkNGQ3NDdm",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -115,22 +115,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "What Did He Say?",
-        "url": "https://open.spotify.com/album/15A21H8cjqxKZmjzIswRyL"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "What You Won\u2019t Do For Love",
-      "url": "https://open.spotify.com/track/4va2GsDHBZIEmop8BzIS6B"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
       },
@@ -163,6 +147,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "What Did He Say?",
+        "url": "https://open.spotify.com/album/15A21H8cjqxKZmjzIswRyL"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "What You Won\u2019t Do For Love",
+      "url": "https://open.spotify.com/track/4va2GsDHBZIEmop8BzIS6B"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Broadway Blues",
         "url": "https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 351599,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Bela Fleck and the Flecktones",
-        "url": "https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "The Sinister Minister",
-      "url": "https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -235,18 +219,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
+        "name": "Bela Fleck and the Flecktones",
+        "url": "https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0"
       },
       "artists": [
         {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
         }
       ],
-      "duration_ms": 335588,
-      "name": "Is That the Best You Can Do?",
-      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
+      "duration_ms": 276986,
+      "name": "The Sinister Minister",
+      "url": "https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -263,6 +247,22 @@
       "duration_ms": 239533,
       "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)",
       "url": "https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 335588,
+      "name": "Is That the Best You Can Do?",
+      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Aneurythms",
-        "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
-      },
-      "artists": [
-        {
-          "name": "Jeff Berlin",
-          "url": "https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1"
-        }
-      ],
-      "duration_ms": 384653,
-      "name": "Porky & Beans",
-      "url": "https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -331,6 +315,38 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Clarke Band",
+          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
+        }
+      ],
+      "duration_ms": 118739,
+      "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
+      "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Aneurythms",
+        "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
+      },
+      "artists": [
+        {
+          "name": "Jeff Berlin",
+          "url": "https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1"
+        }
+      ],
+      "duration_ms": 384653,
+      "name": "Porky & Beans",
+      "url": "https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -383,18 +399,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x"
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
       "artists": [
         {
-          "name": "The Stanley Clarke Band",
-          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
         }
       ],
-      "duration_ms": 118739,
-      "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
-      "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
+      "duration_ms": 381786,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -427,22 +443,6 @@
       "duration_ms": 397640,
       "name": "Cosmic Underground",
       "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
-      },
-      "artists": [
-        {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
-        }
-      ],
-      "duration_ms": 381786,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Me & My Bass Guitar",
-      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 353546,
       "name": "Funky Boy",
       "url": "https://open.spotify.com/track/4kVQoPK2CdsWYhlLhIl9oi"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Me & My Bass Guitar",
+      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
     },
     {
       "added_at": "2021-05-06 21:09:12",

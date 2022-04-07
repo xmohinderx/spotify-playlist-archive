@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles (Spotify Only)",
+        "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261137,
+      "name": "Back to You - Spotify Singles",
+      "url": "https://open.spotify.com/track/3TUQZ3agjkG64kbsYEcgVn"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
@@ -8351,6 +8369,24 @@
       "duration_ms": 191160,
       "name": "Name For You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0WA6hODnSyMCRmRZKGKocc"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Spotify Only)",
+        "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182065,
+      "name": "Need You Tonight - Spotify Singles",
+      "url": "https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63"
     },
     {
       "album": {

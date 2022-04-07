@@ -1,12 +1,12 @@
 {
   "description": "The pop leaning side of 2000s indie. Cover: Phoenix",
-  "num_followers": 271648,
+  "num_followers": 271887,
   "original_name": "Indie Pop 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjg5NiwwMDAwMDAwMGUyZTYwZjc0ZTliNjIzMTA2NTM1OGFhNzhiMDhmZWMy",
+  "snapshot_id": "MTY0OTI5MzIwMywwMDAwMDAwMDM5YjJkMGFiZTYxZGM4ZmI2MmE1ZDI2NWYxMzMyNWZl",
   "tracks": [
     {
       "added_at": "2022-03-15 17:17:05",
@@ -699,38 +699,6 @@
     {
       "added_at": "2022-03-15 17:17:05",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/1DqTNIgasdUuTVBfHuEZds"
-    },
-    {
-      "added_at": "2022-03-15 17:17:05",
-      "album": {
-        "name": "Broom",
-        "url": "https://open.spotify.com/album/3ZXNnZ17fD6rcoabtjoyGk"
-      },
-      "artists": [
-        {
-          "name": "Someone Still Loves You Boris Yeltsin",
-          "url": "https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "House Fire",
-      "url": "https://open.spotify.com/track/6qPnHotmUk3Z4JPkwXBqJj"
-    },
-    {
-      "added_at": "2022-03-15 17:17:05",
-      "album": {
         "name": "Summer in Abaddon",
         "url": "https://open.spotify.com/album/3XLn9BkDkwq4icsUye2Krp"
       },
@@ -747,6 +715,22 @@
     {
       "added_at": "2022-03-15 17:17:05",
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/1DqTNIgasdUuTVBfHuEZds"
+    },
+    {
+      "added_at": "2022-03-15 17:17:05",
+      "album": {
         "name": "Transatlanticism",
         "url": "https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 246373,
       "name": "The New Year",
       "url": "https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA"
+    },
+    {
+      "added_at": "2022-03-15 17:17:05",
+      "album": {
+        "name": "Broom",
+        "url": "https://open.spotify.com/album/3ZXNnZ17fD6rcoabtjoyGk"
+      },
+      "artists": [
+        {
+          "name": "Someone Still Loves You Boris Yeltsin",
+          "url": "https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "House Fire",
+      "url": "https://open.spotify.com/track/6qPnHotmUk3Z4JPkwXBqJj"
     },
     {
       "added_at": "2022-03-15 17:17:05",

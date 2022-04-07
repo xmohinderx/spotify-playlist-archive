@@ -1,12 +1,12 @@
 {
   "description": "Instrumental jazz to set the mood for a relaxed evening.",
-  "num_followers": 382143,
+  "num_followers": 382280,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjQzNywwMDAwMDAwMGIxYmM2NmYxZTlkZTlhNDc5MjVmOWNmY2UwNDk0MmRj",
+  "snapshot_id": "MTY0OTI5MjcwOSwwMDAwMDAwMDYxMjA1ZTc3OWVjOWM3OWE5NDg2OGQ1NTFhYmYwZDNm",
   "tracks": [
     {
       "added_at": "2022-03-17 23:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "With Love And Sadness",
-        "url": "https://open.spotify.com/album/6DKf6iakI0t1jHC1VPyl6C"
-      },
-      "artists": [
-        {
-          "name": "Matt Slocum",
-          "url": "https://open.spotify.com/artist/6JEdeepCpNmTEaixWmT6e9"
-        }
-      ],
-      "duration_ms": 272242,
-      "name": "America Revisited",
-      "url": "https://open.spotify.com/track/4AnIwmmaBSXe4Ka9Cc1NlU"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 329653,
       "name": "Blues for Sharpie",
       "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "With Love And Sadness",
+        "url": "https://open.spotify.com/album/6DKf6iakI0t1jHC1VPyl6C"
+      },
+      "artists": [
+        {
+          "name": "Matt Slocum",
+          "url": "https://open.spotify.com/artist/6JEdeepCpNmTEaixWmT6e9"
+        }
+      ],
+      "duration_ms": 272242,
+      "name": "America Revisited",
+      "url": "https://open.spotify.com/track/4AnIwmmaBSXe4Ka9Cc1NlU"
     },
     {
       "added_at": "2022-03-17 23:00:00",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
-        "name": "The Time is Now",
-        "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Al Foster",
-          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
-        }
-      ],
-      "duration_ms": 405907,
-      "name": "Cabin in the Sky",
-      "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
         "name": "The Sequel",
         "url": "https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum"
       },
@@ -1871,6 +1847,30 @@
       "duration_ms": 277306,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Standards Live",
+        "url": "https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 483533,
+      "name": "The Wrong Blues",
+      "url": "https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC"
     }
   ],
   "unique_name": "Jazzy Dinner",

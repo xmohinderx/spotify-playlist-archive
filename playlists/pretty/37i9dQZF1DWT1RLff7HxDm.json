@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Joe Bonamassa",
-  "num_followers": 129899,
+  "num_followers": 129966,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjQzMSwwMDAwMDAwMDhlNGYxNzM2YjEyMjk4YTg1MTMwYTMxNzYwZDVkMzg4",
+  "snapshot_id": "MTY0OTI5MjcwMiwwMDAwMDAwMDQ0YzUzNDg4MDhjYWY1MGIzY2VhMmY5ZGQ1MjYxNzcz",
   "tracks": [
     {
       "added_at": "2022-02-04 17:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Keep On Growing (Live)",
-        "url": "https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 650746,
-      "name": "Keep On Growing - Live",
-      "url": "https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Big, Bad & Beautiful - Live",
         "url": "https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp"
       },
@@ -211,6 +195,38 @@
       "duration_ms": 350573,
       "name": "Stoop Down Baby - Live",
       "url": "https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Let Me Love You Baby (Live)",
+        "url": "https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 335955,
+      "name": "Let Me Love You Baby - Live",
+      "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Keep On Growing (Live)",
+        "url": "https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -263,22 +279,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Let Me Love You Baby (Live)",
-        "url": "https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 335955,
-      "name": "Let Me Love You Baby - Live",
-      "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Frosty (Live)",
         "url": "https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 206671,
       "name": "Alabama - Live",
       "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At The Sydney Opera House",
+        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 447360,
+      "name": "Drive - Live",
+      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -375,22 +391,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "One More Car, One More Rider",
-        "url": "https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 539293,
-      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
-      "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live From The Fox Oakland",
         "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
       },
@@ -407,18 +407,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live At The Sydney Opera House",
-        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+        "name": "One More Car, One More Rider",
+        "url": "https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 447360,
-      "name": "Drive - Live",
-      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
+      "duration_ms": 539293,
+      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -435,6 +435,22 @@
       "duration_ms": 497133,
       "name": "Pocket Full of Dust (Live)",
       "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 922505,
+      "name": "How Many More Times - Live",
+      "url": "https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -483,6 +499,42 @@
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Nobody Knows You When You're Down And Out (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 299863,
+      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 303168,
+      "name": "Born Under A Bad Sign - Live",
+      "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -547,42 +599,6 @@
       "duration_ms": 469445,
       "name": "Empty Promises (Live)",
       "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Nobody Knows You When You're Down And Out (Live at LOCKN' / 2019)",
-        "url": "https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 299863,
-      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "British Blues Explosion Live",
-        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 922505,
-      "name": "How Many More Times - Live",
-      "url": "https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -651,18 +667,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll - Live",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -703,18 +719,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 303168,
-      "name": "Born Under A Bad Sign - Live",
-      "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -763,6 +779,22 @@
       "duration_ms": 299826,
       "name": "Blue On Black - Live",
       "url": "https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL"
+    },
+    {
+      "added_at": "2021-04-09 04:00:00",
+      "album": {
+        "name": "High Class Girl (Live)",
+        "url": "https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 341840,
+      "name": "High Class Girl - Live",
+      "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -847,22 +879,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 345270,
-      "name": "Let The Good Times Roll - Live",
-      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 421219,
+      "name": "Mainline Florida - Live",
+      "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -941,10 +973,10 @@
       "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
     },
     {
-      "added_at": "2021-04-09 04:00:00",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "High Class Girl (Live)",
-        "url": "https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF"
+        "name": "Now Serving: Royal Tea Live From The Ryman",
+        "url": "https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9"
       },
       "artists": [
         {
@@ -952,49 +984,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 341840,
-      "name": "High Class Girl - Live",
-      "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        },
-        {
-          "name": "The Ronnie Wood Band",
-          "url": "https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE"
-        },
-        {
-          "name": "Mick Taylor",
-          "url": "https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY"
-        }
-      ],
-      "duration_ms": 426835,
-      "name": "Mr Luck (feat. Mick Taylor) - Live",
-      "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Live at the King Eddy",
-        "url": "https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP"
-      },
-      "artists": [
-        {
-          "name": "The Harpoonist & the Axe Murderer",
-          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Cry a Little - Live",
-      "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
+      "duration_ms": 274853,
+      "name": "I Didn't Think She Would Do It - Live",
+      "url": "https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh"
     }
   ],
   "unique_name": "Blues Live & Loud",

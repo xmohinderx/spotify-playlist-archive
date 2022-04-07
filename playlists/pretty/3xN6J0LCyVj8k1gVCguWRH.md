@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,038 likes - 120 songs - 7 hr 31 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,045 likes - 119 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,22 +111,21 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 101 | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/track/07twUUK8jWUCVsrSoEgbLW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/album/1C9zDYqWpx7Lqcsu81DV6Y) | 2:36 |
 | 102 | [UN DIA \(ONE DAY\)](https://open.spotify.com/track/2WI0AMgzaEdKs2hcoN21vF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Vacation](https://open.spotify.com/album/2sqLIvbunhtQbmK0OyUjx2) | 3:52 |
 | 103 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 |
-| 104 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 |
-| 105 | [Sirens Found Me](https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67) | [Sean Hartofilis](https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA) | [Seas](https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V) | 3:41 |
-| 106 | [Mañanas de Cristal](https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mañanas de Cristal](https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C) | 3:48 |
-| 107 | [It Will Happen](https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [It Will Happen](https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x) | 2:31 |
-| 108 | [All Alone](https://open.spotify.com/track/30TJfcL9CThxV59oQNDn5z) | [Lazz](https://open.spotify.com/artist/5MQbx82uV5IHs6A2kEhwpd) | [All Alone](https://open.spotify.com/album/4GUVHqPWHZ9annyGjQ9lon) | 1:59 |
-| 109 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 |
-| 110 | [Wannabe](https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf) | [Shaina](https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy) | [Wannabe](https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb) | 3:30 |
-| 111 | [Can I Call](https://open.spotify.com/track/7KEoaGK0LbmooqotHalGI9) | [Alannah McCready](https://open.spotify.com/artist/19fZ2lVAwrWHiELAsDJPWH), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Can I Call](https://open.spotify.com/album/2647W0tRgbbR7oaUhN67bY) | 3:07 |
-| 112 | [Bye Bye](https://open.spotify.com/track/1aU8D93OIB8rUK26AOogid) | [Destani Wolf](https://open.spotify.com/artist/0SiK5iC7tDZCq3HIH4EEBl) | [Bye Bye](https://open.spotify.com/album/0bMvPtrMwuTEKM2Z0HwULt) | 3:17 |
-| 113 | [Coming Back to You](https://open.spotify.com/track/6ObSyR7Xe7j97QfY9dHIHm) | [SPENCE](https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb) | [Coming Back to You](https://open.spotify.com/album/2X7ZvaQQmYHi0iVbTyJe4Y) | 3:18 |
-| 114 | [Eazy](https://open.spotify.com/track/4Q4Sn1FQdnKgfbvvm8FvOJ) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [Eazy](https://open.spotify.com/album/5RgDv2g3bCMYw7ygM3Jk8Q) | 3:21 |
-| 115 | [Routine](https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m) | [Sim Paul](https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC) | [SADBOIBURNERACCOUNT](https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa) | 2:24 |
-| 116 | [When the Time Comes](https://open.spotify.com/track/1DEqOOgLUCUTKF99w5YvEG) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [When the Time Comes/Blue](https://open.spotify.com/album/0RdLDp7mj0cRvMTXcBQglc) | 4:14 |
-| 117 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 |
-| 118 | [27 Thousand Days](https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:40 |
-| 119 | [Cant Help It](https://open.spotify.com/track/2SZQnV5pZcOFflhVa5N9J2) | [Donnie Montreal](https://open.spotify.com/artist/5cBpmnOiFP9Gz1jn0fNzhX) | [Cant Help It](https://open.spotify.com/album/2A5yEKu4yHliBWXgzxubZH) | 3:28 |
-| 120 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
+| 104 | [Sirens Found Me](https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67) | [Sean Hartofilis](https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA) | [Seas](https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V) | 3:41 |
+| 105 | [Mañanas de Cristal](https://open.spotify.com/track/2a6gwFFwQZ4cB6hdSymNMu) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mañanas de Cristal](https://open.spotify.com/album/67cfgVgz1x1T1Mb9KApm6C) | 3:48 |
+| 106 | [It Will Happen](https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [It Will Happen](https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x) | 2:31 |
+| 107 | [All Alone](https://open.spotify.com/track/30TJfcL9CThxV59oQNDn5z) | [Lazz](https://open.spotify.com/artist/5MQbx82uV5IHs6A2kEhwpd) | [All Alone](https://open.spotify.com/album/4GUVHqPWHZ9annyGjQ9lon) | 1:59 |
+| 108 | [Materialism](https://open.spotify.com/track/61QFI94aaG9vW30xZZ6tTn) | [Adame](https://open.spotify.com/artist/7jA4m3ZcdKMMqKtHud403Y) | [Materialism](https://open.spotify.com/album/5uGpKPg89A0Zwvh1zKtVOA) | 3:30 |
+| 109 | [Wannabe](https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf) | [Shaina](https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy) | [Wannabe](https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb) | 3:30 |
+| 110 | [Can I Call](https://open.spotify.com/track/7KEoaGK0LbmooqotHalGI9) | [Alannah McCready](https://open.spotify.com/artist/19fZ2lVAwrWHiELAsDJPWH), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Can I Call](https://open.spotify.com/album/2647W0tRgbbR7oaUhN67bY) | 3:07 |
+| 111 | [Bye Bye](https://open.spotify.com/track/1aU8D93OIB8rUK26AOogid) | [Destani Wolf](https://open.spotify.com/artist/0SiK5iC7tDZCq3HIH4EEBl) | [Bye Bye](https://open.spotify.com/album/0bMvPtrMwuTEKM2Z0HwULt) | 3:17 |
+| 112 | [Coming Back to You](https://open.spotify.com/track/6ObSyR7Xe7j97QfY9dHIHm) | [SPENCE](https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb) | [Coming Back to You](https://open.spotify.com/album/2X7ZvaQQmYHi0iVbTyJe4Y) | 3:18 |
+| 113 | [Eazy](https://open.spotify.com/track/4Q4Sn1FQdnKgfbvvm8FvOJ) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [Eazy](https://open.spotify.com/album/5RgDv2g3bCMYw7ygM3Jk8Q) | 3:21 |
+| 114 | [Routine](https://open.spotify.com/track/1hXgdCVIiF2e1HPeI6jX1m) | [Sim Paul](https://open.spotify.com/artist/2RswgL4p86FQ4VlDvHd2LC) | [SADBOIBURNERACCOUNT](https://open.spotify.com/album/1WiX3bToReU93TkBfnh5Qa) | 2:24 |
+| 115 | [When the Time Comes](https://open.spotify.com/track/1DEqOOgLUCUTKF99w5YvEG) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [When the Time Comes/Blue](https://open.spotify.com/album/0RdLDp7mj0cRvMTXcBQglc) | 4:14 |
+| 116 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 |
+| 117 | [27 Thousand Days](https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:40 |
+| 118 | [Cant Help It](https://open.spotify.com/track/2SZQnV5pZcOFflhVa5N9J2) | [Donnie Montreal](https://open.spotify.com/artist/5cBpmnOiFP9Gz1jn0fNzhX) | [Cant Help It](https://open.spotify.com/album/2A5yEKu4yHliBWXgzxubZH) | 3:28 |
+| 119 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
 
-Snapshot ID: `MjY4Myw5MGEzZWFhNzMxMDNmN2JkY2RlMGNiOWI0MjljZDA3NjdhMTFjZDc5`
+Snapshot ID: `MjY4NCw2NWNiYTJlZjZkNDU3ZDAzY2YwZGEwMTE2M2Y5ZmUwOTJmNzBhYWY3`

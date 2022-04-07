@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  lyrical school
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,076 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,100 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 6 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 |
 | 7 | [escape](https://open.spotify.com/track/0ycOGquMdMgfKRW4P3u5We) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [MAD](https://open.spotify.com/album/4cOBpDn4PKOzDQNgnwYJOU) | 3:43 |
 | 8 | [Yellow Gang](https://open.spotify.com/track/5QBrOei7ufS1YKeDCj1z2g) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Yellow Gang](https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH) | 2:27 |
-| 9 | [all\-rounder feat\. Rachel, valknee](https://open.spotify.com/track/2PPLR5sM7FOqCy3nCAiDhO) | [minan](https://open.spotify.com/artist/7JYvme1EZU4RbxTjqVGkwh), [Rachel](https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [ttyl](https://open.spotify.com/album/0McmwzkKm1RSEZSjlfMbed) | 4:04 |
-| 10 | [Find me!](https://open.spotify.com/track/2dNrPqEJvwOQURA0sKx9uG) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [Find me!](https://open.spotify.com/album/0Xls8W7f64nPmP9YQ3Lnr3) | 3:48 |
-| 11 | [どれにしようかな](https://open.spotify.com/track/519DeWGuEhLTLWVZQx1Nhi) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 2:41 |
+| 9 | [Link Up](https://open.spotify.com/track/08fh3LXCZvDV6jgGwC2Usf) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:44 |
+| 10 | [all\-rounder feat\. Rachel, valknee](https://open.spotify.com/track/2PPLR5sM7FOqCy3nCAiDhO) | [minan](https://open.spotify.com/artist/7JYvme1EZU4RbxTjqVGkwh), [Rachel](https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [ttyl](https://open.spotify.com/album/0McmwzkKm1RSEZSjlfMbed) | 4:04 |
+| 11 | [Find me!](https://open.spotify.com/track/2dNrPqEJvwOQURA0sKx9uG) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [Find me!](https://open.spotify.com/album/0Xls8W7f64nPmP9YQ3Lnr3) | 3:48 |
 | 12 | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/track/4k3e5VLYGX2NrAXZZfPDyQ) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Hood bby \(Theme of +81 Connect\)](https://open.spotify.com/album/6Y5o1FWgV2kYo8FTFxLlHh) | 1:21 |
 | 13 | [NO BRA!](https://open.spotify.com/track/6S01qsUQq0mMlBga28BoWx) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [NO BRA!](https://open.spotify.com/album/4C7RfD8GktBck4JQZUjQTI) | 3:05 |
 | 14 | [摩天楼](https://open.spotify.com/track/6HrRqbT6lIFJa8grf7vYNO) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Presence III](https://open.spotify.com/track/4jPmKeadryiIXkpHGgmGtP) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [角田晃広](https://open.spotify.com/artist/5MLbXwg6eC6pjnitNN12GD), [3exes](https://open.spotify.com/artist/2VNaqz6PRTduwGnaaWgwE5) | [Presence](https://open.spotify.com/album/7phQpXC8t9cF5VbtKJx1aD) | 4:11 |
 | 50 | [No title](https://open.spotify.com/track/0XdI3wpcggUraCOrREycp5) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [No title](https://open.spotify.com/album/2gT1KUYWvD5nH24NSk1dep) | 2:51 |
 
-Snapshot ID: `MTY0OTE3MDgwMCwwMDAwMDAxNzAwMDAwMTdmZmEzZDVlM2EwMDAwMDE3ZmZhMzM4YzM1`
+Snapshot ID: `MTY0OTIzNjk2OCwwMDAwMDAxODAwMDAwMTdmZmUyZjA1Y2EwMDAwMDE3ZmZhMzM4YzM1`

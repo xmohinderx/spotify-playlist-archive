@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Old Crow Medicine Show
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,648 likes - 151 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,707 likes - 151 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

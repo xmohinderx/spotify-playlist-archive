@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 520891,
+  "num_followers": 520918,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjYzMywwMDAwMDAwMDYyMjk4ZTU4NzY3YWZlMTgyYzgzNjZmYjViODMwMzcz",
+  "snapshot_id": "MTY0OTI5MjkxOSwwMDAwMDAwMDllNzYxZTM5YjQyMDA5Mzg0OTQ3YjNhZDU2MDllMmY0",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -213,26 +213,6 @@
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 139460,
-      "name": "my ex's best friend (with blackbear)",
-      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
@@ -319,6 +299,26 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 139460,
+      "name": "my ex's best friend (with blackbear)",
+      "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/18EL26qP11mySASVZGWIAf"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Dead Reflection",
+        "url": "https://open.spotify.com/album/43mB8nIZ2n1TAKzbkUUtrI"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/2DdQUpye64CYDB9Hahf3Q3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -379,22 +395,6 @@
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6Ei2gpD1MwqQGVh7DEXnqZ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Dead Reflection",
-        "url": "https://open.spotify.com/album/43mB8nIZ2n1TAKzbkUUtrI"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "The Afterglow",
-      "url": "https://open.spotify.com/track/2DdQUpye64CYDB9Hahf3Q3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 146436,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "I Beg To Differ (This Will Get Better)",
-        "url": "https://open.spotify.com/album/0UaxFieNv1ccs2GCECCUGy"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 216561,
-      "name": "I Beg To Differ (This Will Get Better)",
-      "url": "https://open.spotify.com/track/739PZq7vljYry4Hz5wL7Mx"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Getaway Green/Sleeping In/Some Kind Of Disaster",
         "url": "https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 167041,
       "name": "Getaway Green",
       "url": "https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "I Beg To Differ (This Will Get Better)",
+        "url": "https://open.spotify.com/album/0UaxFieNv1ccs2GCECCUGy"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 216561,
+      "name": "I Beg To Differ (This Will Get Better)",
+      "url": "https://open.spotify.com/track/739PZq7vljYry4Hz5wL7Mx"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Shook By Your Shaved Head",
-        "url": "https://open.spotify.com/album/3hsRuI836SopOrq3dW6T1g"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 163860,
-      "name": "Shook By Your Shaved Head",
-      "url": "https://open.spotify.com/track/4Nx4ytJjdpmkIQ6tyLll2p"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Without Me (P\u00e2querette)",
         "url": "https://open.spotify.com/album/7H8jW1UyGZiHqHpIWoTtZS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 192468,
       "name": "Without Me (P\u00e2querette)",
       "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shook By Your Shaved Head",
+        "url": "https://open.spotify.com/album/3hsRuI836SopOrq3dW6T1g"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 163860,
+      "name": "Shook By Your Shaved Head",
+      "url": "https://open.spotify.com/track/4Nx4ytJjdpmkIQ6tyLll2p"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/47z6lzRf8ka60nxT2TiCrE"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Never Coming Home",
-      "url": "https://open.spotify.com/track/0TVqltg5lxOhLpeImpaAYH"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Greatest Of All Time",
         "url": "https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 177037,
       "name": "Greatest Of All Time",
       "url": "https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/47z6lzRf8ka60nxT2TiCrE"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/0TVqltg5lxOhLpeImpaAYH"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 193468,
-      "name": "20/20",
-      "url": "https://open.spotify.com/track/3VZZgqgrmQrWXeDKTL8Jgw"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 183282,
       "name": "When Both Sides Suck, We're All Winners",
       "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 193468,
+      "name": "20/20",
+      "url": "https://open.spotify.com/track/3VZZgqgrmQrWXeDKTL8Jgw"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Interrobang",
-        "url": "https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Prayers",
-      "url": "https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Interrobang",
+        "url": "https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp"
     },
     {
       "added_at": "2020-11-20 21:27:18",

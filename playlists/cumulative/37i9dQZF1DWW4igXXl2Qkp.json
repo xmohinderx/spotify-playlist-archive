@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Duvy\n",
+  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Sojabrat\n",
   "name": "Fresh Finds Hip-Hop",
   "published_playlist_ids": [
     "7ACRaTvmzFFb0E4bv2Gefa"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 181812,
       "name": "Aii",
       "url": "https://open.spotify.com/track/16tpixiOqAD8ijKVXEzBCp"
@@ -411,6 +411,24 @@
       "duration_ms": 132173,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/4hinXOJmKCmYv6p2maNGpw"
+    },
+    {
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
     },
     {
       "album": {
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 130588,
       "name": "Beat Em Down",
       "url": "https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 175147,
       "name": "Blind Spots",
       "url": "https://open.spotify.com/track/0qkvm3CobVarPSvJX93cjA"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 264000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ"
@@ -1610,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/7LEpqZlSTdnAHojw0qjwr2"
+      },
+      "artists": [
+        {
+          "name": "Troi Blank",
+          "url": "https://open.spotify.com/artist/6zZkEizf8T5YYeUSLgC9bI"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/4W0NlMQ4Q0hw5GULXFAoAd"
+    },
+    {
+      "album": {
         "name": "Do It Up",
         "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
       },
@@ -1625,7 +1661,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 244968,
       "name": "Do It Up",
       "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
@@ -1789,6 +1825,28 @@
       "duration_ms": 193781,
       "name": "Eating",
       "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
+    },
+    {
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/0qDHucLoZvB2MbYm3EC3tV"
+      },
+      "artists": [
+        {
+          "name": "Sojabrat",
+          "url": "https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5"
+        },
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140874,
+      "name": "Elvis",
+      "url": "https://open.spotify.com/track/0rRKr4ZW0N1a5QgLpdSrBb"
     },
     {
       "album": {
@@ -2016,6 +2074,24 @@
     },
     {
       "album": {
+        "name": "FYM",
+        "url": "https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "FYM",
+      "url": "https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR"
+    },
+    {
+      "album": {
         "name": "Games.",
         "url": "https://open.spotify.com/album/59bCSmdAv1Ha3zmKtUsRCa"
       },
@@ -2081,7 +2157,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 147804,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL"
@@ -2125,6 +2201,24 @@
       "duration_ms": 183076,
       "name": "Get Out (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4CnJqlLWZDkSZIuG0DAySk"
+    },
+    {
+      "album": {
+        "name": "Get Zoe'd",
+        "url": "https://open.spotify.com/album/6Hxt4C3vrXWnLQ6ZLPvAph"
+      },
+      "artists": [
+        {
+          "name": "BirdBidness",
+          "url": "https://open.spotify.com/artist/5WkLdMToMEcLz7fhYs5kVQ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129897,
+      "name": "Get Zoe'd",
+      "url": "https://open.spotify.com/track/65m1z49MxWIP1SIX5L6oBr"
     },
     {
       "album": {
@@ -2303,6 +2397,24 @@
       "duration_ms": 146751,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4zCzDMxz0Tuq80n5vCNIpR"
+    },
+    {
+      "album": {
+        "name": "Here, There & Everywhere",
+        "url": "https://open.spotify.com/album/0PAmoJ4Qrc1zEkdssPvxEw"
+      },
+      "artists": [
+        {
+          "name": "LORD JAH-MONTE OGBON",
+          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152835,
+      "name": "HARDEST QUESTION EVER",
+      "url": "https://open.spotify.com/track/1ZDSsVA08OTmtt5Tovg8fM"
     },
     {
       "album": {
@@ -3139,10 +3251,28 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 151498,
       "name": "MASTERS",
       "url": "https://open.spotify.com/track/38NtKqElLaksQrspgZibgK"
+    },
+    {
+      "album": {
+        "name": "Melissa's",
+        "url": "https://open.spotify.com/album/3s7npn3jRJHA7xWA4kjsRX"
+      },
+      "artists": [
+        {
+          "name": "Perry Maysun",
+          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123806,
+      "name": "Melissa's",
+      "url": "https://open.spotify.com/track/5wPrNXHkEjh3RfBejfHNqt"
     },
     {
       "album": {
@@ -3373,6 +3503,24 @@
       "duration_ms": 166956,
       "name": "Mud Brothers",
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
+    },
+    {
+      "album": {
+        "name": "Murder She Wrote",
+        "url": "https://open.spotify.com/album/2MpWuDP1XufFCVsFeqbOJS"
+      },
+      "artists": [
+        {
+          "name": "BFG Straap",
+          "url": "https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/72KemdNWtlNwW62GK3IyRj"
     },
     {
       "album": {
@@ -3935,7 +4083,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 164440,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0cQtpYUTFpLX9knYsQAsJf"
@@ -4294,6 +4442,24 @@
     },
     {
       "album": {
+        "name": "Shake (Valliefunk)",
+        "url": "https://open.spotify.com/album/3emrFFrO5EFBdqiytF45Id"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163478,
+      "name": "Shake (Valliefunk)",
+      "url": "https://open.spotify.com/track/0MMSrpdhpa2m6LKfgw92Ua"
+    },
+    {
+      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -4403,7 +4569,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 112117,
       "name": "Sleazy Flow",
       "url": "https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf"
@@ -4483,6 +4649,24 @@
       "duration_ms": 130115,
       "name": "Spliff Vol.1",
       "url": "https://open.spotify.com/track/0vT5Rulc6WiTo9a1NUIk9g"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday FL33 | TH3 PARTY N3V3R 3NDS",
+        "url": "https://open.spotify.com/album/3vmyKABUJa3SLlUReegkTu"
+      },
+      "artists": [
+        {
+          "name": "FLEE",
+          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/1cEHRuuFQW9wBM7RTRQced"
     },
     {
       "album": {
@@ -4678,6 +4862,24 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/4eA7qEcjE8zGnGC9WxR2JU"
+      },
+      "artists": [
+        {
+          "name": "Kaywavey",
+          "url": "https://open.spotify.com/artist/2dlUzga0zMV4iOt448UyMJ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "The Basics",
+      "url": "https://open.spotify.com/track/3kEJbuJgQTyxCbioPD6jEK"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY"
       },
@@ -4707,7 +4909,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 196325,
       "name": "The Wolf Is In The Peacoat",
       "url": "https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3"
@@ -4747,7 +4949,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 165234,
       "name": "Thugz Dont Cry",
       "url": "https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N"
@@ -5021,7 +5223,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
@@ -5267,6 +5469,28 @@
       "duration_ms": 89146,
       "name": "WTF",
       "url": "https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR"
+    },
+    {
+      "album": {
+        "name": "Xfoliate (feat. General Fly)",
+        "url": "https://open.spotify.com/album/3zeWEXeE1KcvU9eKH4A1Mr"
+      },
+      "artists": [
+        {
+          "name": "Tre Nyce",
+          "url": "https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5"
+        },
+        {
+          "name": "General Fly",
+          "url": "https://open.spotify.com/artist/0ovVBJhyUjwApNsNIPT8XB"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144222,
+      "name": "Xfoliate (feat. General Fly)",
+      "url": "https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY"
     },
     {
       "album": {

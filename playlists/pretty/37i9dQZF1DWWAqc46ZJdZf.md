@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,224 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,148 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 14 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
 | 15 | [By Any Means](https://open.spotify.com/track/78tw2cG41XXZSUD1RisQ5q) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [REPRISE: A Roc Nation Album](https://open.spotify.com/album/5ZwZy4UkFJ4BYNE6zewMuo) | 3:45 |
 | 16 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
-| 17 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
-| 18 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
-| 19 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
+| 17 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
+| 18 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
+| 19 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 |
 | 20 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 21 | [FTP](https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [FTP](https://open.spotify.com/album/03WHzx89aK1pKO9GZzlSH7) | 2:42 |
 | 22 | [NO MORE TEARDROPS feat\. Malik Yusef, Wyatt Waddell](https://open.spotify.com/track/4bPBhogrMsUkJHYeCW06ov) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Malik Yusef](https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD), [Wyatt Waddell](https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY) | [REPRISE: A Roc Nation Album](https://open.spotify.com/album/5ZwZy4UkFJ4BYNE6zewMuo) | 4:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 60 | [Kings](https://open.spotify.com/track/34I7k03M8nh8HDlLcrHlVS) | [Kosine](https://open.spotify.com/artist/5JO4jfnkthNB05Byp1zA84), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Kings](https://open.spotify.com/album/1JBUJodU3ej0ZIWBjkpKgE) | 3:29 |
 
-Snapshot ID: `MTY0OTIwNjUyMSwwMDAwMDAwMDIzYTdkZWQzYWQxOTg0YWNlZDJhNDUxYmJhYzg2MTY2`
+Snapshot ID: `MTY0OTI5MjgwMCwwMDAwMDAwMDBhOTk1MTg5MTcyNjljNzI2MTJlNDYyMDBlOTEyNDlh`

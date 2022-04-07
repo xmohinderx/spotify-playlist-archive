@@ -1,13 +1,33 @@
 {
-  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Anuel AA, Yailin la M\u00e1s Viral",
-  "num_followers": 452582,
+  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Lele Pons y Kim Loaiza",
+  "num_followers": 452780,
   "original_name": "Dale Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc5MjgwMCwwMDAwMDQxODAwMDAwMTdmZTNiNThiN2YwMDAwMDE3ZmUxYjE5OThj",
+  "snapshot_id": "MTY0OTI4NjAwMCwwMDAwMDQxOTAwMDAwMTgwMDExYjJkZTIwMDAwMDE3ZmY2Yzg0OGE3",
   "tracks": [
+    {
+      "added_at": "2022-04-06 23:00:00",
+      "album": {
+        "name": "Piketona (with Kim Loaiza)",
+        "url": "https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 158894,
+      "name": "Piketona (with Kim Loaiza)",
+      "url": "https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7"
+    },
     {
       "added_at": "2022-04-01 06:00:00",
       "album": {

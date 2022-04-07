@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 119499,
+  "num_followers": 119494,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjgzOCwwMDAwMDAwMDNhNzY2ZTg5NGMwODU3MjM4MTVkNzFjYTVkYjVhNTcz",
+  "snapshot_id": "MTY0OTI5MzE0MSwwMDAwMDAwMDRhZWRlM2VkODMwYzAxNWJjYjMyOTg4MzZjOWZkYmEy",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -267,6 +267,30 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a",
+        "url": "https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 113519,
+      "name": "Mar\u00edlia Mendon\u00e7a",
+      "url": "https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Poesia Ac\u00fastica #6: Era uma Vez",
         "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
       },
@@ -319,30 +343,6 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6: Era uma Vez",
       "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a",
-        "url": "https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 113519,
-      "name": "Mar\u00edlia Mendon\u00e7a",
-      "url": "https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -507,18 +507,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+        "name": "Quadro",
+        "url": "https://open.spotify.com/album/5yjcqNWevRGMwuJckk1yo3"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
         }
       ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+      "duration_ms": 167384,
+      "name": "Quadro",
+      "url": "https://open.spotify.com/track/55tDrclRHCHXIoPwyPHlVn"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -543,26 +547,6 @@
       "duration_ms": 199384,
       "name": "Na Onda",
       "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Quadro",
-        "url": "https://open.spotify.com/album/5yjcqNWevRGMwuJckk1yo3"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Intactoz Corp.",
-          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Quadro",
-      "url": "https://open.spotify.com/track/55tDrclRHCHXIoPwyPHlVn"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -603,6 +587,22 @@
       "duration_ms": 230157,
       "name": "So\u0301 Uma Noite",
       "url": "https://open.spotify.com/track/6UzHlvFqdBWe8DWJfSqgXf"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -671,6 +671,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Rodeo (feat. Nas)",
+        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 145222,
+      "name": "Rodeo - feat. Nas",
+      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Banco",
         "url": "https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW"
       },
@@ -691,22 +711,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Rodeo (feat. Nas)",
-        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
+        "name": "Bal\u00e3o",
+        "url": "https://open.spotify.com/album/3ExChVUPgeX4QKS0kqLYNz"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 145222,
-      "name": "Rodeo - feat. Nas",
-      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
+      "duration_ms": 253333,
+      "name": "Bal\u00e3o",
+      "url": "https://open.spotify.com/track/6nc3d5wRTTzkZo29kZRr5r"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -731,26 +751,6 @@
       "duration_ms": 204088,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Bal\u00e3o",
-        "url": "https://open.spotify.com/album/3ExChVUPgeX4QKS0kqLYNz"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Bal\u00e3o",
-      "url": "https://open.spotify.com/track/6nc3d5wRTTzkZo29kZRr5r"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Futuruz",
+        "url": "https://open.spotify.com/album/7v3QqNKdhBQ6n3IrjZO5mq"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "duration_ms": 195596,
+      "name": "N\u00e3o conversamos, mas",
+      "url": "https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 201600,
       "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
       "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Futuruz",
-        "url": "https://open.spotify.com/album/7v3QqNKdhBQ6n3IrjZO5mq"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Intactoz Corp.",
-          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
-        }
-      ],
-      "duration_ms": 195596,
-      "name": "N\u00e3o conversamos, mas",
-      "url": "https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Merci \u00a3",
+        "url": "https://open.spotify.com/album/6G0Df5ehAcIqnNsZr4N7LI"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Intactoz Corp.",
+          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Qq c\u00ea t\u00e1 insinuando",
+      "url": "https://open.spotify.com/track/7ICkpwQdejZF5uo71TuYSP"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Plaqtudum",
         "url": "https://open.spotify.com/album/7wELyO14kBKEMrimHEOxuW"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Merci \u00a3",
-        "url": "https://open.spotify.com/album/6G0Df5ehAcIqnNsZr4N7LI"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Intactoz Corp.",
-          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Qq c\u00ea t\u00e1 insinuando",
-      "url": "https://open.spotify.com/track/7ICkpwQdejZF5uo71TuYSP"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1843,46 +1843,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Ela Adora Veneno",
-        "url": "https://open.spotify.com/album/2M2ERLeG59UHlyTPRkVZWI"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Jailhouse",
-          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Ela Adora Veneno",
-      "url": "https://open.spotify.com/track/0pZUtEL4oKQEeI3omlt9dg"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Glockada",
         "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
       },
@@ -1919,6 +1879,46 @@
       "duration_ms": 141913,
       "name": "Zerando a Vida",
       "url": "https://open.spotify.com/track/1rr3B3UAKOz3vzjuNfhLu3"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Ela Adora Veneno",
+        "url": "https://open.spotify.com/album/2M2ERLeG59UHlyTPRkVZWI"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Jailhouse",
+          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Ela Adora Veneno",
+      "url": "https://open.spotify.com/track/0pZUtEL4oKQEeI3omlt9dg"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2020-10-20 20:23:39",

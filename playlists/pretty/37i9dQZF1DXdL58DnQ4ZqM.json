@@ -1,12 +1,12 @@
 {
   "description": "Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.",
-  "num_followers": 175882,
+  "num_followers": 176003,
   "original_name": "Lazy Chill Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjk5OSwwMDAwMDAwMDIwODExN2EzOTllMmExYjI4ZDE4YmFjNDMyM2RmNmRi",
+  "snapshot_id": "MTY0OTI5MzMxNywwMDAwMDAwMGYyOGJlOTIzYmU5OTE2MjgxYmM4YTQyNTUyMzA1MjE3",
   "tracks": [
     {
       "added_at": "2022-03-16 16:24:20",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-03-16 16:24:20",
       "album": {
-        "name": "frozen in time",
-        "url": "https://open.spotify.com/album/7iOmyPmJFZWrIKR8r4sYBP"
-      },
-      "artists": [
-        {
-          "name": "Kainbeats",
-          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
-        },
-        {
-          "name": "Elizabeth Cutler",
-          "url": "https://open.spotify.com/artist/3gWhWKKgCrFezDHBSG1Uvw"
-        }
-      ],
-      "duration_ms": 128533,
-      "name": "frozen in time",
-      "url": "https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C"
-    },
-    {
-      "added_at": "2022-03-16 16:24:20",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 150857,
       "name": "Earth",
       "url": "https://open.spotify.com/track/47grvGTNigrMww35L06LJa"
+    },
+    {
+      "added_at": "2022-03-16 16:24:20",
+      "album": {
+        "name": "frozen in time",
+        "url": "https://open.spotify.com/album/7iOmyPmJFZWrIKR8r4sYBP"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Elizabeth Cutler",
+          "url": "https://open.spotify.com/artist/3gWhWKKgCrFezDHBSG1Uvw"
+        }
+      ],
+      "duration_ms": 128533,
+      "name": "frozen in time",
+      "url": "https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C"
     },
     {
       "added_at": "2022-03-16 16:24:20",

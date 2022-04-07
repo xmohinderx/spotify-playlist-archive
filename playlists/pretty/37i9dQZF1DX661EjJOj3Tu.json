@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 460849,
+  "num_followers": 460962,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjgwMywwMDAwMDAwMDU3NzU2NmMwZTZjMzdmZTExMmZjZjIxNjVlMDBkNDU2",
+  "snapshot_id": "MTY0OTI5MzEwNSwwMDAwMDAwMDliNjFhNzI5M2Q1NzZmOGRkYjc4NmYwMWJiYTI1MTRk",
   "tracks": [
     {
       "added_at": "2021-12-09 23:40:26",
@@ -107,42 +107,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Lagrimas Negras",
-      "url": "https://open.spotify.com/track/3fxPfBBMeYJQEzGT7oWVEy"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Look out Now!",
         "url": "https://open.spotify.com/album/3If8CnWombvLZqUZiN3FI5"
       },
@@ -183,6 +147,22 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "Latin Fever",
         "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 314546,
       "name": "Batida diferente",
       "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3KqVBTW2XNykZ5r1yRRjo6"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Lagrimas Negras",
+      "url": "https://open.spotify.com/track/3fxPfBBMeYJQEzGT7oWVEy"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -247,6 +247,22 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/3lPIhnwknJZ1OsApgTy4V2"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 139986,
       "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
       "url": "https://open.spotify.com/track/21qbOwx9gLQoSY0O8KMMZm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -427,26 +427,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 505323,
-      "name": "2/3's Adventure",
-      "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/5vDVZn67Qr0UqCUftZaiq5"
       },
@@ -527,6 +507,26 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 505323,
+      "name": "2/3's Adventure",
+      "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "Soul Sauce",
         "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 435360,
       "name": "Los Bandidos",
       "url": "https://open.spotify.com/track/32tLjdkVZN11pPtEhT8zEq"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Broasted or Fried",
+        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -651,22 +667,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Broasted or Fried",
-        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Spanish Grease",
+        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Spanish Grease",
+      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "The Best Of Chick Corea",
         "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 216706,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Spanish Grease",
-        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Spanish Grease",
-      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -975,26 +975,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1019,22 +999,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Poncho At Montreux",
-        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 404680,
-      "name": "El Shing-A-Ling",
-      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Soul Sauce",
         "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
       },
@@ -1051,18 +1015,38 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Poncho At Montreux",
+        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 404680,
+      "name": "El Shing-A-Ling",
+      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1083,6 +1067,22 @@
       "duration_ms": 388426,
       "name": "People",
       "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1135,6 +1135,22 @@
       "duration_ms": 180413,
       "name": "Come Fly With Me",
       "url": "https://open.spotify.com/track/6OPXHnJY3NMn5Qr6K1Qqty"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/4XOYfjUT8oKKuDAE1UrUPE"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1219,22 +1235,6 @@
       "duration_ms": 352693,
       "name": "Mambo Inn (Remastered)",
       "url": "https://open.spotify.com/track/2iQzD2Nsu682Ta394Zkyc1"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/4XOYfjUT8oKKuDAE1UrUPE"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Reza",
-      "url": "https://open.spotify.com/track/4EpucAOoGXgSW5HScC8V1F"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Border-Free",
         "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Reza",
+      "url": "https://open.spotify.com/track/4EpucAOoGXgSW5HScC8V1F"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
         "name": "El Grito - Suite para Orquesta de Jazz",
         "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 376546,
       "name": "El Grito",
       "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
+        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 161306,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1539,42 +1555,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Los Jibaros",
-      "url": "https://open.spotify.com/track/5TN80dTN1oDq9VBPxyQm7K"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
-        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
-        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 161306,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 307817,
       "name": "Canci\u00f3n Con Todos",
       "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Los Jibaros",
+      "url": "https://open.spotify.com/track/5TN80dTN1oDq9VBPxyQm7K"
     },
     {
       "added_at": "2021-12-09 23:40:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2021-12-09 23:40:26",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Descarga Cubana",
-      "url": "https://open.spotify.com/track/7KYZCnIiupT3cO6n03HrEI"
-    },
-    {
-      "added_at": "2021-12-09 23:40:26",
-      "album": {
         "name": "Slave to Love",
         "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 517106,
       "name": "La Explosi\u00f3n (Instrumental) - Ao Vivo",
       "url": "https://open.spotify.com/track/1OmzzOmyVL0xf7pCkDyrAj"
+    },
+    {
+      "added_at": "2021-12-09 23:40:26",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Descarga Cubana",
+      "url": "https://open.spotify.com/track/7KYZCnIiupT3cO6n03HrEI"
     },
     {
       "added_at": "2021-12-09 23:40:26",

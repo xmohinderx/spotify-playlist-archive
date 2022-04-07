@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 22972,
+  "num_followers": 22978,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjU5MiwwMDAwMDAwMDQ5ZGY3ZGFmNDhhZTgyNzlhYmQzMGNlMTAzYzA5NWU2",
+  "snapshot_id": "MTY0OTI5Mjg3NiwwMDAwMDAwMDAwN2MwNmU3MDBiZWYyNTNjMGZhZTNkYjgzODAxODdm",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -255,6 +255,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 178946,
       "name": "Kom",
       "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "I natt \u00e4r jag din",
-        "url": "https://open.spotify.com/album/5i0Hnlj1Hc6peFWOf2rMyg"
-      },
-      "artists": [
-        {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "Avundsjuk",
-      "url": "https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 184733,
       "name": "Cara mia",
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "I natt \u00e4r jag din",
+        "url": "https://open.spotify.com/album/5i0Hnlj1Hc6peFWOf2rMyg"
+      },
+      "artists": [
+        {
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "Avundsjuk",
+      "url": "https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw"
     },
     {
       "added_at": "2019-02-28 12:57:58",

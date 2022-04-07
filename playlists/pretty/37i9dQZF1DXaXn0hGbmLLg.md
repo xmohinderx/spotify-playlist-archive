@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: S10
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,134 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,315 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 17 | [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 |
 | 18 | [Pristine Blue](https://open.spotify.com/track/7oczjsABWXDAX8TeAs71VN) | [The Klittens](https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2) | [Pristine Blue](https://open.spotify.com/album/3QWW1XTvVRbKl0D6L2phSW) | 3:02 |
 | 19 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
-| 20 | [Perfect timing](https://open.spotify.com/track/2DY5R8QvoWhJ6YtJvSdKvd) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/2XuXb5n66tNpFONPqC8xSM) | 3:02 |
+| 20 | [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 |
 | 21 | [Veel Te Snel](https://open.spotify.com/track/0DTJHINndG61wLOLcLnXrq) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Veel Te Snel](https://open.spotify.com/album/2YWd4zvqXb7H4zvGsLKNIP) | 3:22 |
 | 22 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 |
 | 23 | [Te Veel](https://open.spotify.com/track/6VptKuuI6oBRcNwmTSjI4w) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ) | [Te Veel](https://open.spotify.com/album/3yBu2zB4qYj4pWmMAXEL44) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 49 | [Satelliet](https://open.spotify.com/track/4NnkVavy6MxppTvUs1MEpr) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Satelliet](https://open.spotify.com/album/0Ll26MjMIdm1gZQyojyq3Q) | 3:07 |
 | 50 | [Ik Blijf Bewegen](https://open.spotify.com/track/7h6hKZdd8GdAd0PHBRnMrr) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ik Blijf Bewegen](https://open.spotify.com/album/250O2g5LnbWMxfr1CgX8iW) | 2:15 |
 
-Snapshot ID: `MTY0OTE5NjAwMCwwMDAwMDAxOTAwMDAwMTdmZmJiZGUzNjQwMDAwMDE3ZmFiYjhlMjNk`
+Snapshot ID: `MTY0OTI1NjI0MiwwMDAwMDAxYzAwMDAwMTdmZmY1NTFjNzYwMDAwMDE3ZmZlMWYyYjY0`

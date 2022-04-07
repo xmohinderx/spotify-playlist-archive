@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 238163,
+  "num_followers": 238365,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjU4MywwMDAwMDAwMGJjODViMTk5ZjkwNjMzM2RjMDdjMDg2ZGY4YmM4YjYy",
+  "snapshot_id": "MTY0OTI5Mjg2NiwwMDAwMDAwMDQ0ZDkzMjFhZDU2YjMyMzlhNWFjZmQyMDFlMDY5ZTlk",
   "tracks": [
     {
       "added_at": "2022-02-21 15:46:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-02-21 15:46:00",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2022-02-21 15:46:00",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+    },
+    {
+      "added_at": "2022-02-21 15:46:00",
+      "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2022-02-21 15:46:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-02-21 15:46:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2022-02-21 15:46:00",
+      "album": {
         "name": "Pale November Dew",
         "url": "https://open.spotify.com/album/2ea78WFnPuZiXVietGV08T"
       },
@@ -613,22 +629,6 @@
       "url": "https://open.spotify.com/track/7k72bd7LDOOJSY0uIQgxE1"
     },
     {
-      "added_at": "2022-02-21 15:46:00",
-      "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/2wEtYCTlmYyCZFQDSWc3GP"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/3mNbESTcSwgN0qSr0I4Vzi"
-    },
-    {
       "added_at": "2022-03-09 18:44:54",
       "album": {
         "name": "Day Plan",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-02-21 15:46:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "After All",
+        "url": "https://open.spotify.com/album/2wEtYCTlmYyCZFQDSWc3GP"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+      "duration_ms": 231280,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/3mNbESTcSwgN0qSr0I4Vzi"
     },
     {
       "added_at": "2022-02-21 15:46:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-02-21 15:46:00",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/28yBTX3k4B5gNK9lmus04C"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 166876,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/6XQzy3sYwgCKPCwGvTWQ7o"
-    },
-    {
-      "added_at": "2022-02-21 15:46:00",
-      "album": {
         "name": "Wildewoman",
         "url": "https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 351293,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc"
+    },
+    {
+      "added_at": "2022-02-21 15:46:00",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/28yBTX3k4B5gNK9lmus04C"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 166876,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6XQzy3sYwgCKPCwGvTWQ7o"
     },
     {
       "added_at": "2022-02-21 15:46:00",

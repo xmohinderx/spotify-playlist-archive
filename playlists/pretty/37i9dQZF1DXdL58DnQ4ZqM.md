@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,882 likes - 80 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,003 likes - 80 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 67 | [Dreamland](https://open.spotify.com/track/3Xnj3T6IMbPgw56KFvYku2) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 2:11 |
 | 68 | [Kingdom 8](https://open.spotify.com/track/0xbt52iPJMXdiCIb1lut4M) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kingdom 8](https://open.spotify.com/album/0JAVwqmdvCeJ88Idgoxw7w) | 1:30 |
 | 69 | [L’ Eau](https://open.spotify.com/track/1xGKqS5MWiXY0ZVnjqylH3) | [Deanna Devore](https://open.spotify.com/artist/33ZWQlxgrQJGHCo82XqhWJ), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [JokerB](https://open.spotify.com/artist/2PZenj9yNHY0BN5AUw7s4s) | [A better World](https://open.spotify.com/album/0ZdSFLnuddK3AW40GQoXvB) | 2:44 |
-| 70 | [frozen in time](https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Elizabeth Cutler](https://open.spotify.com/artist/3gWhWKKgCrFezDHBSG1Uvw) | [frozen in time](https://open.spotify.com/album/7iOmyPmJFZWrIKR8r4sYBP) | 2:08 |
-| 71 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 |
+| 70 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 |
+| 71 | [frozen in time](https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Elizabeth Cutler](https://open.spotify.com/artist/3gWhWKKgCrFezDHBSG1Uvw) | [frozen in time](https://open.spotify.com/album/7iOmyPmJFZWrIKR8r4sYBP) | 2:08 |
 | 72 | [Come With Me](https://open.spotify.com/track/5Lgti8Xh7NxSbjzDC3T0kg) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Come With Me](https://open.spotify.com/album/1qOFhBtbVOUvA4j0HDLihd) | 2:28 |
 | 73 | [Midnight Voyage](https://open.spotify.com/track/4oenxadz35pWdKMIkr8jr2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [mtch.](https://open.spotify.com/artist/5c9Xrr1IzKEbGhRNeLYppn) | [Midnight Voyage](https://open.spotify.com/album/3e3Rc8LBc2JEnmdZgOneXZ) | 2:11 |
 | 74 | [Purple haze visions](https://open.spotify.com/track/3Cpp6MnBh61sOa47oLvGqv) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Listen your Soul](https://open.spotify.com/album/71x0mEE9ETZUEKjPKHAwqk) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 79 | [Jazzhop Wonderland](https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Jazzhop Wonderland](https://open.spotify.com/album/2aHKW2nDbVlEsRsq9loKjY) | 2:22 |
 | 80 | [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 |
 
-Snapshot ID: `MTY0OTIwNjk5OSwwMDAwMDAwMDIwODExN2EzOTllMmExYjI4ZDE4YmFjNDMyM2RmNmRi`
+Snapshot ID: `MTY0OTI5MzMxNywwMDAwMDAwMGYyOGJlOTIzYmU5OTE2MjgxYmM4YTQyNTUyMzA1MjE3`

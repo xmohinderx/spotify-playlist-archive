@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
-  "num_followers": 205606,
+  "num_followers": 205570,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjc5OSwwMDAwMDAwMGQwZDA3YTc5NmI2NDExMzIwNDRkOTFkZTZkZWVjMjI4",
+  "snapshot_id": "MTY0OTI5MzEwMSwwMDAwMDAwMDUwYjIxOTM0NmQwMTJkZjViZDE2OTRmNDdhYTY0NmEy",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Happiness (Is Christmas) / Christmas Time Is Here [Medley]",
-        "url": "https://open.spotify.com/album/3EHLXow9Wsj6TG94gJa7YV"
+        "name": "Christmas Calling (Jolly Jones)",
+        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
       },
       "artists": [
         {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 265546,
-      "name": "Happiness (Is Christmas) / Christmas Time Is Here - Medley",
-      "url": "https://open.spotify.com/track/6NdYUsXSosT32J3g09ZiZM"
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas Calling (Jolly Jones)",
-        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
+        "name": "Happiness (Is Christmas) / Christmas Time Is Here [Medley]",
+        "url": "https://open.spotify.com/album/3EHLXow9Wsj6TG94gJa7YV"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
         }
       ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
+      "duration_ms": 265546,
+      "name": "Happiness (Is Christmas) / Christmas Time Is Here - Medley",
+      "url": "https://open.spotify.com/track/6NdYUsXSosT32J3g09ZiZM"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Dream of Christmas",
-        "url": "https://open.spotify.com/album/4stLntb5hPUR6BQsZdIQSq"
-      },
-      "artists": [
-        {
-          "name": "Gary Barlow",
-          "url": "https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/6fYQ6Dk1UKdEEJvthH9Zn9"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "The Pianoman at Christmas (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 165956,
       "name": "Tis The Season",
       "url": "https://open.spotify.com/track/1FyYqRWeCWiO5jfY2BiGvs"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Dream of Christmas",
+        "url": "https://open.spotify.com/album/4stLntb5hPUR6BQsZdIQSq"
+      },
+      "artists": [
+        {
+          "name": "Gary Barlow",
+          "url": "https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/6fYQ6Dk1UKdEEJvthH9Zn9"
     },
     {
       "added_at": "2021-12-24 05:00:00",

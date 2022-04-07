@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,152 likes - 69 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,200 likes - 69 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 58 | [Punya Paap](https://open.spotify.com/track/4QjxBB2HoL6d2vb5wmCWyT) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/1a5LWLdsFG00UfF4utZJRB) | 3:00 |
 | 59 | [Takeover](https://open.spotify.com/track/5DVnSQ90r2M3gm6XbgTCLp) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:29 |
 | 60 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 |
-| 61 | [Hot Launde \(feat\. Fotty Seven, Bali\)](https://open.spotify.com/track/0rTiCmWHEamtV6uAXDxbDh) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/2U1AnEfchxMfiBkClg3Loa) | [The Power Of Dreams Of A Kid \(Original\)](https://open.spotify.com/album/1XdgyumnAI5dQNDVzfVauE) | 4:18 |
+| 61 | [Hot Launde \(feat\. Fotty Seven, Bali\)](https://open.spotify.com/track/0rTiCmWHEamtV6uAXDxbDh) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [The Power Of Dreams Of A Kid \(Original\)](https://open.spotify.com/album/1XdgyumnAI5dQNDVzfVauE) | 4:18 |
 | 62 | [Bindis and Bangles](https://open.spotify.com/track/4ayoGc9wRRbOUowta8OrYZ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Bindis and Bangles](https://open.spotify.com/album/6mKpIIUMij8TpG1mQm91Si) | 3:19 |
 | 63 | [Gandhi Money](https://open.spotify.com/track/3DXP7pJNl1AmAUl90CAGe0) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:55 |
 | 64 | [Chal Bombay](https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,705 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,179 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 4 | [Build Me Up Buttercup](https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Very Best Of The Foundations](https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx) | 3:00 |
 | 5 | [I Got You Babe](https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Best Of Sonny & Cher](https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP) | 3:10 |
 | 6 | [Brown Eyed Girl](https://open.spotify.com/track/4myBMnNWZlgvVelYeTu55w) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Super Hits](https://open.spotify.com/album/7cQhE9arqGBgQfdLu47zdm) | 3:02 |
-| 7 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
-| 8 | [King Of The Road](https://open.spotify.com/track/3gpWYe5Y0S7RQBjgWoM5vh) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [All Time Greatest Hits](https://open.spotify.com/album/2NORomXwfb5vpzxc65oPi4) | 2:28 |
-| 9 | [Put A Little Love In Your Heart](https://open.spotify.com/track/1fQn0TtyvkS6PjdVOitG4p) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [The Very Best Of Jackie DeShannon](https://open.spotify.com/album/7kxfDfYncthSbWnXZ6NKFD) | 2:36 |
+| 7 | [King Of The Road](https://open.spotify.com/track/3gpWYe5Y0S7RQBjgWoM5vh) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [All Time Greatest Hits](https://open.spotify.com/album/2NORomXwfb5vpzxc65oPi4) | 2:28 |
+| 8 | [Put A Little Love In Your Heart](https://open.spotify.com/track/1fQn0TtyvkS6PjdVOitG4p) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [The Very Best Of Jackie DeShannon](https://open.spotify.com/album/7kxfDfYncthSbWnXZ6NKFD) | 2:36 |
+| 9 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 10 | [Chapel of Love](https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Chapel of Love](https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin) | 2:50 |
-| 11 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 |
-| 12 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/3V5vrRmjNj4MssxW8cEJov) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [20th Century Masters: The Millennium Collection\-Best Of Marvin Gaye\-Volume 1\-The 60's](https://open.spotify.com/album/2A4QaigyufW2Lk3eKOBWG3) | 3:00 |
-| 13 | [Sweet Caroline](https://open.spotify.com/track/5akBpqWmFWEHoBGRIrR5aK) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/3F3ZBkt86QKDSPRrVpk7Wx) | 3:23 |
+| 11 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/3V5vrRmjNj4MssxW8cEJov) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [20th Century Masters: The Millennium Collection\-Best Of Marvin Gaye\-Volume 1\-The 60's](https://open.spotify.com/album/2A4QaigyufW2Lk3eKOBWG3) | 3:00 |
+| 12 | [Sweet Caroline](https://open.spotify.com/track/5akBpqWmFWEHoBGRIrR5aK) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/3F3ZBkt86QKDSPRrVpk7Wx) | 3:23 |
+| 13 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 |
 | 14 | [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 |
 | 15 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 |
 | 16 | [This Magic Moment](https://open.spotify.com/track/2dJkw6SsPdgtQI27b3AXb1) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 2:57 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 60 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 61 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 62 | [You're All I Need To Get By](https://open.spotify.com/track/64IJPv9SUpcGZWAZ5ipaGD) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [20th Century Masters: The Millennium Collection: The Best Of Marvin Gaye & Tammi Terrell](https://open.spotify.com/album/2FJv3jHewcKaYT506ny93J) | 2:50 |
-| 63 | [Things](https://open.spotify.com/track/7EME8xI4YLbUUT8qVKgBoR) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:31 |
-| 64 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 |
+| 63 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 |
+| 64 | [Things](https://open.spotify.com/track/7EME8xI4YLbUUT8qVKgBoR) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:31 |
 | 65 | [My Boyfriend's Back](https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS) | [The Angels](https://open.spotify.com/artist/6YtJeguOS8yoMkmLLnzU7q) | [My Boyfriend's Back](https://open.spotify.com/album/42pUInY6KQcFg0L6ySYZsa) | 2:16 |
 | 66 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 |
 | 67 | [Personality](https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [My Cherie Amour](https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century](https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH) | 2:51 |
 | 100 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
 
-Snapshot ID: `MTY0OTIwNjc3MywwMDAwMDAwMGM1ZGViZmY0YjA4NGY1YzQzMDIzN2ViNWU2ZDEzZTY0`
+Snapshot ID: `MTY0OTI5MzA3MiwwMDAwMDAwMDVjZjdmZDNkN2FiMDNjYWUwMDRkN2MzYTA2ODk4M2M1`

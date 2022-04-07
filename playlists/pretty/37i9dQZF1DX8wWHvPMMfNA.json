@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental jazz for your focus time.",
-  "num_followers": 189160,
+  "num_followers": 189216,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjg4NCwwMDAwMDAwMDZmNjVmZDdiZmNkMmM1MThiYzZmOTQwZDJmYWJiMTQy",
+  "snapshot_id": "MTY0OTI5MzE5MSwwMDAwMDAwMDgzNWU0ZTA5YmU3YjE4YTgzNzdhMjdkY2Y0ZDRhM2U3",
   "tracks": [
     {
       "added_at": "2022-02-24 23:01:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-02-24 23:01:00",
       "album": {
+        "name": "Moon Beams [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
         "name": "You Must Believe In Spring",
         "url": "https://open.spotify.com/album/4wRlW4dwNOMa408LaTpG9n"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2022-02-24 23:01:00",
       "album": {
-        "name": "Moon Beams [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/1wnbi9NzQPBCobZ6OYCpqH"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Gary's Theme - Remastered",
+      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -359,38 +375,6 @@
       "duration_ms": 292573,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Gary's Theme - Remastered",
-      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "Everybody's Somebody's Fool",
-      "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -463,6 +447,22 @@
       "duration_ms": 253840,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2Ob1A4itFyJWUa6fpwqAOs"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "Everybody's Somebody's Fool",
+      "url": "https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-02-24 23:01:00",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 339133,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/5Yg6vuu56IRs4qvAvZ1CGU"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
         "name": "Riverside Profiles: Chet Baker",
         "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 183320,
       "name": "September Song",
       "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 339133,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/5Yg6vuu56IRs4qvAvZ1CGU"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-02-24 23:01:00",
       "album": {
-        "name": "Nice People",
-        "url": "https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 319333,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 290466,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
+        "name": "Nice People",
+        "url": "https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 319333,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
     },
     {
       "added_at": "2022-02-24 23:01:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-02-24 23:01:00",
       "album": {
-        "name": "Horace Silver Trio (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3yGcHzdskfjL8p0Zlx9uTH"
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 235826,
-      "name": "I Remember You - 1989 Digital Remaster;The Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5r8RZwbct7wfq9HJ0kY89c"
+      "duration_ms": 415360,
+      "name": "Dear Sir",
+      "url": "https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X"
     }
   ],
   "unique_name": "Focus Jazz",

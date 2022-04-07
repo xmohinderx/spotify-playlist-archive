@@ -1152,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "Let Me Hold You",
+        "url": "https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N"
+      },
+      "artists": [
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        },
+        {
+          "name": "Brandon Mignacca",
+          "url": "https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Let Me Hold You",
+      "url": "https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh"
+    },
+    {
+      "album": {
         "name": "Light of Mine",
         "url": "https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc"
       },

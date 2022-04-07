@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,500 likes - 30 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,519 likes - 30 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 9 | [You Gotta Love Me](https://open.spotify.com/track/2G0CLkfLw9TSsKQbnp3aqu) | [Johnny Colón and His Orchestra](https://open.spotify.com/artist/4yUkSaJEuOaiXGsw0NwIyD) | [Boogaloo '67](https://open.spotify.com/album/1x7WB2bsSYqHHfIQ7NeNyD) | 6:15 |
 | 10 | [Son Cuero Y Boogaloo](https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live at the Red Garter Vol 2](https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS) | 8:30 |
 | 11 | [Grazin' In The Grass](https://open.spotify.com/track/039Mx8o4AA0xbVsd99L8FV) | [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [Orchestra Harlow Presenta A Ismael Miranda](https://open.spotify.com/album/1vjHbuMmbI5zhLuN0eabmW) | 3:16 |
-| 12 | [Marilu](https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM) | 4:07 |
-| 13 | [It's Not What You Say](https://open.spotify.com/track/2e5coCHCulu84SddM2ripp) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T) | 2:56 |
-| 14 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 |
-| 15 | [Bang Bang](https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 4:07 |
-| 16 | [You're Moving Much Too Fast](https://open.spotify.com/track/0CHCDzy0qWlTClcArjpxhG) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 3:20 |
+| 12 | [Bang Bang](https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Fania Latin Boogaloo Essentials](https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg) | 4:07 |
+| 13 | [Marilu](https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM) | 4:07 |
+| 14 | [It's Not What You Say](https://open.spotify.com/track/2e5coCHCulu84SddM2ripp) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T) | 2:56 |
+| 15 | [You're Moving Much Too Fast](https://open.spotify.com/track/0CHCDzy0qWlTClcArjpxhG) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 3:20 |
+| 16 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 |
 | 17 | [TP Treat](https://open.spotify.com/track/3trVLunsgJ5zojYzNMIg66) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/2GIc0Slt2YBCnPsonsUP9O) | 3:57 |
 | 18 | [Arrecotin Arrecotan](https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Ismael Rivera \- Greatest Hits](https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor) | 3:38 |
 | 19 | [I'll Be A Happy Man](https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK) | [The Latin Blues Band Featuring Luis Aviles](https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM), [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W) | [Take A Trip Pussycat \(feat\. Luis Aviles\)](https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ) | 3:34 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 29 | [Lookie, Lookie](https://open.spotify.com/track/0xSaQcf3Yhi8AfiRna5OoU) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq) | [Se Solto \- On The Loose](https://open.spotify.com/album/2p0oSn1smy7KlFq9k64fK2) | 3:34 |
 | 30 | [Que Bueno Boogaloo](https://open.spotify.com/track/343S3fphbIwx7wI4gJgNyF) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Leyendas De La Fania Vol 6](https://open.spotify.com/album/6xbr773VgXkRIEFCPFs3Iu) | 2:44 |
 
-Snapshot ID: `MTY0OTIwNjU4NywwMDAwMDAwMDMzMGQxYzYwZWY1YzcxNWYzNTdmYmI2MWJkOTA3OWRm`
+Snapshot ID: `MTY0OTI5Mjg3MSwwMDAwMDAwMDY3MDJhNWRkZmVkNDFkN2ZjYTEzY2NhMGExMzI4MTY3`

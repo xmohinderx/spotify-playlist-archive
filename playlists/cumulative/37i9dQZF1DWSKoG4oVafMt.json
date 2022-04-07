@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz"
+    },
+    {
+      "album": {
         "name": "Cooper (feat. Gurlez Akhtar)",
         "url": "https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7"
       },
@@ -1462,7 +1480,7 @@
       "artists": [
         {
           "name": "Jind",
-          "url": "https://open.spotify.com/artist/1hCJCn80zsITppqP8guqWp"
+          "url": "https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h"
         },
         {
           "name": "Shera Dhaliwal",

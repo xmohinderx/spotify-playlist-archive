@@ -429,7 +429,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
@@ -929,6 +929,24 @@
       "duration_ms": 187933,
       "name": "Tengo Victoria",
       "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "album": {
+        "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
+        "url": "https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Hernandez-Zabala",
+          "url": "https://open.spotify.com/artist/1HJMdZQ2zO6NFFXni6JKOK"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248944,
+      "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
+      "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"
     },
     {
       "album": {

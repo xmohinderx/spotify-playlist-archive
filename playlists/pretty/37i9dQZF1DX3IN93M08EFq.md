@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,874 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,880 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 9 | [I Surrender \(Bonus Track\)](https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Must Exist](https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3) | 3:42 |
 | 10 | [Dansa, fastän](https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Facit](https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo) | 2:47 |
 | 11 | [This Is the Year](https://open.spotify.com/track/6rBzSjdrihboUkZ0YyhWLc) | [Marit Bergman](https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU) | [3.00 A.M\. Serenades](https://open.spotify.com/album/4hbobVgZ2HhBzeiclP1df4) | 3:04 |
-| 12 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
-| 13 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
+| 12 | [Instant Repeater '99](https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU) | [The Soundtrack Of Our Lives](https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2) | [Welcome To The Infant Freebase](https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa) | 4:41 |
+| 13 | [One Of Us Is Gonna Die Young](https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 3:30 |
 | 14 | [Pokerkväll i Vårby Gård](https://open.spotify.com/track/40i1Lt5HjtIvTsd0t1GCoy) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/11bkl9cdSG8mWl4iYfSZd6) | 2:57 |
 | 15 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
 | 16 | [Vart jag mig i världen vänder](https://open.spotify.com/track/68sFVD0NzRLOo7IX4RF9B3) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Ett fel närmare rätt](https://open.spotify.com/album/13C5LAOYroOzWXvuqKXsyq) | 3:32 |
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 22 | [Too Bored to Die](https://open.spotify.com/track/5FFeUgNmokNLv9MBkQuF62) | [Bad Cash Quartet](https://open.spotify.com/artist/4C6ou9gRAa06qpt5wOOBfB) | [Outcast](https://open.spotify.com/album/3fLoZosVoHEsZrHyESEAv5) | 3:32 |
 | 23 | [Geraldine](https://open.spotify.com/track/75UqWU4Y0YdCB9MrnKZZnC) | [Glasvegas](https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl) | [Glasvegas](https://open.spotify.com/album/2MLOTcKvTfrJHhEeRb164i) | 3:45 |
 | 24 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
-| 25 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
-| 26 | [Upp på sociala, ner på systemet](https://open.spotify.com/track/6Dg9SZupe5axBKl0FQRgq7) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/7M2s4qU2vsaKETuXyYpT9u) | 3:00 |
-| 27 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 |
+| 25 | [Upp på sociala, ner på systemet](https://open.spotify.com/track/6Dg9SZupe5axBKl0FQRgq7) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/7M2s4qU2vsaKETuXyYpT9u) | 3:00 |
+| 26 | [Dom andra](https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 3:46 |
+| 27 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 |
 | 28 | [Terribly Dark](https://open.spotify.com/track/5CUWXQ0aRksf6zqpgy7TrV) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [To The Soul](https://open.spotify.com/album/5EMIxmFzKQckoxb3t7zYGH) | 4:27 |
 | 29 | [Tonight I Have To Leave It](https://open.spotify.com/track/4OLlcgkQR9V9Eqk8sUEjtY) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Our Ill Wills](https://open.spotify.com/album/6XkaYefTFwNKCgeAK48l0f) | 3:33 |
 | 30 | [I Will Always Be Your Soldier](https://open.spotify.com/track/4n0TkiApnLXv1RSk17gOBH) | [Marit Bergman](https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU) | [Baby Dry Your Eye](https://open.spotify.com/album/64AW9sxYJpSs3b8H5Ny5ae) | 3:50 |
 | 31 | [It Pays To Belong](https://open.spotify.com/track/6EFMkLWSnU9x59szIWQdeq) | [The Embassy](https://open.spotify.com/artist/2oyNl6Ds6rY648mcUFhVgT) | [Tacking](https://open.spotify.com/album/1bLkGtCJICnpHuFbhUnoA2) | 3:54 |
-| 32 | [Det snurrar i min skalle](https://open.spotify.com/track/3b7fBk9K03QWUg6F3w1G12) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Det snurrar i min skalle](https://open.spotify.com/album/32ibUTOKkJKjojt6x3cuQr) | 4:14 |
-| 33 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
-| 34 | [Dancing On My Own](https://open.spotify.com/track/4g6AXLnnxNDp1D7VWRZXRs) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5) | 4:48 |
-| 35 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
+| 32 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 |
+| 33 | [Det snurrar i min skalle](https://open.spotify.com/track/3b7fBk9K03QWUg6F3w1G12) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Det snurrar i min skalle](https://open.spotify.com/album/32ibUTOKkJKjojt6x3cuQr) | 4:14 |
+| 34 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 |
+| 35 | [Dancing On My Own](https://open.spotify.com/track/4g6AXLnnxNDp1D7VWRZXRs) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5) | 4:48 |
 | 36 | [Tralala lilla molntuss, kom hit ska du få en puss](https://open.spotify.com/track/1Y5hLt3uWM1jZWE4Rzm90E) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Jag rear ut min själ](https://open.spotify.com/album/4TSjDtkoIAzsVxMowLW85w) | 3:27 |
 | 37 | [They're Bulding Walls Around Us](https://open.spotify.com/track/1x4grz0E1xPaABuYttYnwY) | [Moneybrother](https://open.spotify.com/artist/6O6kWwVAL4xK4G8SBcsNJR) | [To Die Alone](https://open.spotify.com/album/1OmgmU8vv0oTxwBRdGzKIi) | 3:09 |
 | 38 | [Mon Amour \(Alternative Single Mix\)](https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa) | [The Plan](https://open.spotify.com/artist/1xp8n7sGGGHKO6pwxH8RCI) | [The Plan](https://open.spotify.com/album/4KlUqRzW0bNtNlMSgja6Ve) | 3:00 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
 | 45 | [High Drama](https://open.spotify.com/track/1p8FGKTfZMp2aiOBci2JRq) | [Laakso](https://open.spotify.com/artist/4chKPJr2tkdsT0ghHNSUi7) | [My Gods](https://open.spotify.com/album/6gDeHvqMae3KmWyst7LKeF) | 3:11 |
 
-Snapshot ID: `MTY0OTIwNjcyNSwwMDAwMDAwMGFhNGFjZjBmNTE2YTc5MGQzYzkwNGM3MmVlNTViNDE2`
+Snapshot ID: `MTY0OTI5MzAxOSwwMDAwMDAwMDkwYjZkZGFjMTVlMDdjYzdmYjA2NTA5ZmRiNDFhN2Jm`

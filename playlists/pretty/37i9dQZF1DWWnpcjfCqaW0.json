@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Lefty Frizzell, Hank Williams, Kitty Wells",
-  "num_followers": 206457,
+  "num_followers": 206546,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjU0MCwwMDAwMDAwMGFjMmJjZTRlY2MyOTZlMGZjMTUzODFlZjgxMWFmMGYz",
+  "snapshot_id": "MTY0OTI5MjgyMSwwMDAwMDAwMGI4MWM2YzExYjFkNGZhNzVmOTYzYzc5MmQ1MjJkYWE4",
   "tracks": [
     {
       "added_at": "2022-02-21 19:58:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "El Paso",
-      "url": "https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 113240,
       "name": "Blue, Blue Day",
       "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "50's Jukebox Classics",
-        "url": "https://open.spotify.com/album/0zl8ppEQmanaQVe7G2KEsF"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/6pPmgSgrdWMemkmpRWO2aQ"
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -203,38 +203,18 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The Essential Marty Robbins 1951-1982",
-        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+        "name": "50's Jukebox Classics",
+        "url": "https://open.spotify.com/album/0zl8ppEQmanaQVe7G2KEsF"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 148600,
-      "name": "A White Sport Coat (with Ray Conniff)",
-      "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+      "duration_ms": 172026,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/6pPmgSgrdWMemkmpRWO2aQ"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -255,6 +235,26 @@
       "duration_ms": 163506,
       "name": "Your Cheatin' Heart - Single Version",
       "url": "https://open.spotify.com/track/3PIZKsovCCVX3XaxKSzkdY"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "A White Sport Coat (with Ray Conniff)",
+      "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -307,6 +307,26 @@
       "duration_ms": 164520,
       "name": "The Wild Side Of Life",
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "40 Greatest Hits",
+        "url": "https://open.spotify.com/album/62SqkhUnO18912vRKmOUKy"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Hey, Good Lookin' - Single Version",
+      "url": "https://open.spotify.com/track/4v3tdzHwvCpGLmVPnhMCkH"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -375,26 +395,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "40 Greatest Hits",
-        "url": "https://open.spotify.com/album/62SqkhUnO18912vRKmOUKy"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Hey, Good Lookin' - Single Version",
-      "url": "https://open.spotify.com/track/4v3tdzHwvCpGLmVPnhMCkH"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "16 All Time Favorite Songs",
         "url": "https://open.spotify.com/album/3OLbbEOcRa5Y3Loil0cxKT"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 174693,
       "name": "Blues, Stay Away From Me",
       "url": "https://open.spotify.com/track/2ewXa1fuu1NwFn3zfdC3Ye"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -471,6 +455,22 @@
       "duration_ms": 115280,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 125906,
       "name": "In The Jailhouse Now",
       "url": "https://open.spotify.com/track/5xcJtLxdprEWBR2jRqcQPW"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "Retrospective: Volume 2",
+        "url": "https://open.spotify.com/album/47ymTrwffavz5onalcmEP9"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Too Old To Cut The Mustard",
+      "url": "https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "Best Jazz Country",
         "url": "https://open.spotify.com/album/5Zn7pDrgDmcQKGBHfg04IH"
       },
@@ -839,22 +859,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2",
-        "url": "https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "I Can't Help It (If I'm Still In Love With You) - Single Version",
-      "url": "https://open.spotify.com/track/4T5kMpam4F1U4TnkrJWiHu"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
@@ -867,26 +871,6 @@
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "Retrospective: Volume 2",
-        "url": "https://open.spotify.com/album/47ymTrwffavz5onalcmEP9"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Too Old To Cut The Mustard",
-      "url": "https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2",
+        "url": "https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "I Can't Help It (If I'm Still In Love With You) - Single Version",
+      "url": "https://open.spotify.com/track/4T5kMpam4F1U4TnkrJWiHu"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "Golden Hits - The World's Most Famous Auctioneer",
         "url": "https://open.spotify.com/album/51LKNcsgLkgMmtgSQt9vKL"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Invitation to the Blues",
-      "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "Invitation to the Blues",
+      "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1051,38 +1051,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "Best Of George Jones: 20th Century Masters: The Millennium Collection",
-        "url": "https://open.spotify.com/album/37dkZUAgs2WWCpCQrPa3SF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "Why Baby Why - Single Version",
-      "url": "https://open.spotify.com/track/2Nl4tN3rYAnnx8PpYOhQfN"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 151426,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -1095,6 +1063,22 @@
       "duration_ms": 107186,
       "name": "(Let Me Be Your) Teddy Bear",
       "url": "https://open.spotify.com/track/4qfseGEjfvaXs6veGjPU2z"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "Best Of George Jones: 20th Century Masters: The Millennium Collection",
+        "url": "https://open.spotify.com/album/37dkZUAgs2WWCpCQrPa3SF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "Why Baby Why - Single Version",
+      "url": "https://open.spotify.com/track/2Nl4tN3rYAnnx8PpYOhQfN"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 151426,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 152906,
       "name": "Crazy Arms",
       "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Cry, Cry, Cry - Long Version",
-      "url": "https://open.spotify.com/track/7DP5q4CQMx5hf4K5RnVVYP"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1215,6 +1199,38 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cry, Cry, Cry - Long Version",
+      "url": "https://open.spotify.com/track/7DP5q4CQMx5hf4K5RnVVYP"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/0skpgsgM8u27MXV1RZSTJR"
       },
@@ -1323,6 +1323,42 @@
       "duration_ms": 178706,
       "name": "Slow Poke",
       "url": "https://open.spotify.com/track/6FF75qRTxIbIHQTDEiUFmm"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "The Singles Collection 1950-62",
+        "url": "https://open.spotify.com/album/1Bz8kCGC6w4SXupWHfiWzH"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Forever And Always",
+      "url": "https://open.spotify.com/track/1iz8GVAaRaQ3oiybsBiM7O"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "The Nashville Dixielanders",
+          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Alabama Jubilee",
+      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1359,18 +1395,18 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The Singles Collection 1950-62",
-        "url": "https://open.spotify.com/album/1Bz8kCGC6w4SXupWHfiWzH"
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Forever And Always",
-      "url": "https://open.spotify.com/track/1iz8GVAaRaQ3oiybsBiM7O"
+      "duration_ms": 130826,
+      "name": "Ballad of a Teenage Queen",
+      "url": "https://open.spotify.com/track/5HwAaXDLVDgVcoGIjDRANK"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1387,42 +1423,6 @@
       "duration_ms": 136026,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "The Nashville Dixielanders",
-          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Alabama Jubilee",
-      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "Ballad of a Teenage Queen",
-      "url": "https://open.spotify.com/track/5HwAaXDLVDgVcoGIjDRANK"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
+        "name": "Salty Dog Rag",
+        "url": "https://open.spotify.com/album/6shIVa7uEFfoSkwnuf70hH"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 171288,
+      "name": "Birmingham Bounce",
+      "url": "https://open.spotify.com/track/0nd00V0zyqu1oEIqHtlDU7"
+    },
+    {
+      "added_at": "2022-02-21 19:58:42",
+      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "Salty Dog Rag",
-        "url": "https://open.spotify.com/album/6shIVa7uEFfoSkwnuf70hH"
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 171288,
-      "name": "Birmingham Bounce",
-      "url": "https://open.spotify.com/track/0nd00V0zyqu1oEIqHtlDU7"
+      "duration_ms": 176600,
+      "name": "How's the World Treating You",
+      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
     },
     {
       "added_at": "2022-02-21 19:58:42",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The 50 Greatest Love Songs",
-        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Love Me Tender - Mono",
-      "url": "https://open.spotify.com/track/5ap5OgMjY85VcIDcyv02Nc"
-    },
-    {
-      "added_at": "2022-02-21 19:58:42",
-      "album": {
         "name": "Nippers 50's-Vol.1",
         "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-02-21 19:58:42",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 176600,
-      "name": "How's the World Treating You",
-      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
+      "duration_ms": 162133,
+      "name": "Love Me Tender - Mono",
+      "url": "https://open.spotify.com/track/5ap5OgMjY85VcIDcyv02Nc"
     }
   ],
   "unique_name": "50s Country",

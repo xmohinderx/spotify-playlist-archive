@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 166840,
       "name": "260 (feat. Raekwon)",
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 219361,
       "name": "4mat",
       "url": "https://open.spotify.com/track/07OjreI89nNLjMAvvaFhkv"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 232571,
       "name": "4r Da Squaw",
       "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 232277,
       "name": "Another Day Another Dollar",
       "url": "https://open.spotify.com/track/6S0cTguk3NT72NAmZsfy6W"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 226440,
       "name": "Award Tour",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 128004,
       "name": "Bad Business (Killswitch)",
       "url": "https://open.spotify.com/track/5SfQRqIR5NRZhLqpX2Z6sE"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 159301,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/6Z1lZYniJVYG8el7HgFEAQ"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 318000,
       "name": "Be That As It May",
       "url": "https://open.spotify.com/track/16JqCysNiBDExuj4qRkudm"
@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Growthfully Developed",
+        "url": "https://open.spotify.com/album/2rzycokngAInNwhFF3Hc0Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Crack",
+          "url": "https://open.spotify.com/artist/3wws8s15DuuQWiG2xct414"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79966,
+      "name": "Beer Just Bread in a Can",
+      "url": "https://open.spotify.com/track/2NSNRgm6AbyxIFOt7YCOJi"
+    },
+    {
+      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl"
       },
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 223600,
       "name": "Black Cowboy",
       "url": "https://open.spotify.com/track/3DxgD2fFhcvEWS73JHqd5M"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 183160,
       "name": "Cherchez LaGhost (feat. U-God)",
       "url": "https://open.spotify.com/track/5vKPSbwck6yojUAZIHTsFj"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 337737,
       "name": "Coconut Oil",
       "url": "https://open.spotify.com/track/4zNPEolX2wxQjmZCSjqAgg"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 273453,
       "name": "Crooklyn - Crooklyn/Soundtrack Version",
       "url": "https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 118518,
       "name": "Crystal Ball",
       "url": "https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 211800,
       "name": "D'evils",
       "url": "https://open.spotify.com/track/40Vlcc5gw1Fy3C2qoQ6aoO"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 222653,
       "name": "Da Art of Storytellin' (Pt. 1)",
       "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 134457,
       "name": "Danger Bag",
       "url": "https://open.spotify.com/track/1dxivoBW5VXMsVTw72NyKl"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 115886,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4PPOojZGWpy7dO4QLs0w5Q"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 190279,
       "name": "Dollaz",
       "url": "https://open.spotify.com/track/1Y7ojxZymhZ5dn8CTNRtBU"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "Don't Sweat The Technique",
       "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 350400,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 188986,
       "name": "Five Lies About the World Outside",
       "url": "https://open.spotify.com/track/18PxIEhlP4WxTo8twA43Xv"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 163774,
       "name": "For The Money",
       "url": "https://open.spotify.com/track/4BINJC1uO9DOFhuK3Tbf32"
@@ -1493,6 +1511,24 @@
       "duration_ms": 234819,
       "name": "From99",
       "url": "https://open.spotify.com/track/7x8MxpJLA4gZnkQpi5jx5M"
+    },
+    {
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "album": {
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 249616,
       "name": "Gas Face",
       "url": "https://open.spotify.com/track/2fkSG0h6ff0oYHbkchdpup"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 196113,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/44m4K4o9rie4OHIFt24th3"
@@ -1743,7 +1779,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 120879,
       "name": "Highway Robbery",
       "url": "https://open.spotify.com/track/5eFnlvOiuOVicC2eVGGBej"
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 152250,
       "name": "Hogarth Hughes",
       "url": "https://open.spotify.com/track/6cCKQe5IrkKRt1KnDTiAV6"
@@ -1845,7 +1881,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
@@ -1863,7 +1899,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 209119,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
@@ -1925,7 +1961,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 191508,
       "name": "I Want It All (feat. Fly Anakin & Nickelus F)",
       "url": "https://open.spotify.com/track/2aqxYIQASZtHookre6o12S"
@@ -2071,7 +2107,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "its all good",
       "url": "https://open.spotify.com/track/3dgLsN49usi0UVar2nOaRd"
@@ -2089,7 +2125,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 260160,
       "name": "Jazz",
       "url": "https://open.spotify.com/track/3eqEq53sUsaukd560hw7Dh"
@@ -2107,7 +2143,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 251666,
       "name": "Jazzy Belle",
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
@@ -2125,7 +2161,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
@@ -2271,7 +2307,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 151090,
       "name": "Late for the Bus",
       "url": "https://open.spotify.com/track/04eV3eZX2h8Tlhi1oo3fpJ"
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 259893,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/45kPGqELOHKNFXWG3DsQFN"
@@ -2325,7 +2361,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 281133,
       "name": "Let It Out",
       "url": "https://open.spotify.com/track/52LaP5RzwlSId81druJ3PC"
@@ -2399,7 +2435,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 200439,
       "name": "Light Bill (feat. Meyhem Lauren)",
       "url": "https://open.spotify.com/track/4V6DPMcnpbwWM2tSwCFd9U"
@@ -2509,7 +2545,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 308866,
       "name": "Lookout!",
       "url": "https://open.spotify.com/track/1TB9ufPyRklqlQRdXPhD6F"
@@ -2531,7 +2567,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 118398,
       "name": "Loose Change (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/2Z5MbKovyels3EXitye0eo"
@@ -2553,7 +2589,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 94000,
       "name": "Louie BK",
       "url": "https://open.spotify.com/track/11k8whY52rJLKjnVecp2Rf"
@@ -2611,7 +2647,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 112787,
       "name": "Lye",
       "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
@@ -2687,7 +2723,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "Mathematics",
       "url": "https://open.spotify.com/track/3gRlmtdCyNoKiyozn2pqc9"
@@ -2705,7 +2741,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 265533,
       "name": "Me Or The Papes",
       "url": "https://open.spotify.com/track/1h20yRsf5WeuHbohrlfcCt"
@@ -2763,7 +2799,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 308733,
       "name": "Mind Playing Tricks on Me",
       "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
@@ -2807,7 +2843,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 145781,
       "name": "Moment Hung",
       "url": "https://open.spotify.com/track/3XJoql5pyhwGtQYfUwKDGb"
@@ -2825,7 +2861,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 247333,
       "name": "Moment Of Truth",
       "url": "https://open.spotify.com/track/1fotoYONO343JjbC8XvPSl"
@@ -2873,7 +2909,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
@@ -2913,7 +2949,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
@@ -2965,7 +3001,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 184013,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
@@ -2991,7 +3027,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 138866,
       "name": "New Skeezer (Hot Sauce)",
       "url": "https://open.spotify.com/track/7qH6PM08d2IrufZvULWpwl"
@@ -3189,10 +3225,44 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 152281,
       "name": "Not a Lot to Fear",
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+    },
+    {
+      "album": {
+        "name": "Contraband from India",
+        "url": "https://open.spotify.com/album/5WUATf0UJVcPCZSPQYfJVG"
+      },
+      "artists": [
+        {
+          "name": "DJ 2-Tone Jones",
+          "url": "https://open.spotify.com/artist/5uD4qCw6B6RohO1426PgYp"
+        },
+        {
+          "name": "Prince Po",
+          "url": "https://open.spotify.com/artist/2IyxjoObylnp7q5FVcMA45"
+        },
+        {
+          "name": "Asheru",
+          "url": "https://open.spotify.com/artist/5wfWBXE34E1R6nRQme7TH3"
+        },
+        {
+          "name": "Joe. D",
+          "url": "https://open.spotify.com/artist/7DbhpUPUE6TDNlgFvCet0K"
+        },
+        {
+          "name": "yU",
+          "url": "https://open.spotify.com/artist/3LdBNdn7Sp4nTykVebv8I7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223319,
+      "name": "Not Down",
+      "url": "https://open.spotify.com/track/6wJ1SxhiB3v7qMKCwJMFth"
     },
     {
       "album": {
@@ -3207,7 +3277,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 133054,
       "name": "Nothing Moves",
       "url": "https://open.spotify.com/track/51FjDH2NrpX9uBWw7HnB43"
@@ -3229,7 +3299,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 191656,
       "name": "Nuhood",
       "url": "https://open.spotify.com/track/2GCxPh9kEXAbCfC5AqCRgQ"
@@ -3321,7 +3391,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 244200,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/1z3Q1tjW3b8HndGACUWDcM"
@@ -3387,7 +3457,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 272013,
       "name": "Pam Grier",
       "url": "https://open.spotify.com/track/4COklyEUnipSInTyM61f56"
@@ -3521,7 +3591,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 140500,
       "name": "Plain English",
       "url": "https://open.spotify.com/track/5zFPB7NKXniVJWgwrC8B6Y"
@@ -3657,7 +3727,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 196483,
       "name": "Radar",
       "url": "https://open.spotify.com/track/1WAha54gkZkgotFU1EXiaH"
@@ -3737,7 +3807,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 261266,
       "name": "Rebirth Of Slick (Cool Like Dat)",
       "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
@@ -3791,7 +3861,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 203613,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/5mFC0krEDkxLVykyb4pJ22"
@@ -3817,7 +3887,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 302973,
       "name": "Return of the Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/72mGcVc65dysPSaT2SvWZX"
@@ -3879,7 +3949,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
@@ -3915,7 +3985,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 225044,
       "name": "Royal Supreme",
       "url": "https://open.spotify.com/track/1B74Md5S50ii778fZZ3OeA"
@@ -3933,7 +4003,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 295160,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/5pFXepfAbXlLUm5vBZXXXW"
@@ -4083,7 +4153,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 165187,
       "name": "Secret Life of Purpose",
       "url": "https://open.spotify.com/track/2QwKuvq0UfOUdzuUNpz4lA"
@@ -4137,7 +4207,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
@@ -4173,7 +4243,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 214640,
       "name": "So Hardcore",
       "url": "https://open.spotify.com/track/3qkEUf2kHE4c8NYaivthPR"
@@ -4199,7 +4269,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 282560,
       "name": "Something to Rap About (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
@@ -4261,7 +4331,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 147904,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/5D6IPioAdjkgXndWih9dxD"
@@ -4305,7 +4375,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 197413,
       "name": "Straight Face",
       "url": "https://open.spotify.com/track/7eBhqEnsVShNrege6jiKxc"
@@ -4567,7 +4637,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 80826,
       "name": "The Smell Of Death",
       "url": "https://open.spotify.com/track/5RJBFEnpXIAgpInGazKb1F"
@@ -4621,7 +4691,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
@@ -4639,7 +4709,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 223744,
       "name": "Think About April",
       "url": "https://open.spotify.com/track/4ECPU20pHjz6QLGjGDkLn9"
@@ -4675,7 +4745,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/6uh8siVtiO7lJwhFeAnavp"
@@ -4727,7 +4797,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 169590,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/6RVz7IaTnJ2WlCTwZtLWjV"
@@ -4789,7 +4859,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
@@ -4873,7 +4943,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 238893,
       "name": "Verses from the Abstract",
       "url": "https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA"
@@ -4931,7 +5001,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 148250,
       "name": "Want To Say",
       "url": "https://open.spotify.com/track/1wKD1Gv2s2TW5orPkXiz8b"
@@ -4975,7 +5045,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 232942,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/0VSVXJXyIJNWOdeRsgxOkz"
@@ -5019,7 +5089,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 228992,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/24zYzUI3WjerBzqO3Vj2BC"
@@ -5037,7 +5107,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
@@ -5055,7 +5125,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 275342,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
@@ -5107,7 +5177,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 142046,
       "name": "Whoop T",
       "url": "https://open.spotify.com/track/4rCdZNTAi41YRzc9dB4QcS"
@@ -5147,7 +5217,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 170544,
       "name": "Within",
       "url": "https://open.spotify.com/track/4PTz74h9yl34uL2fB110Io"
@@ -5187,7 +5257,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 223573,
       "name": "Word On The Street",
       "url": "https://open.spotify.com/track/2jYufij3lHCUJAuSYZZYVL"
@@ -5245,7 +5315,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 260200,
       "name": "Wrong Side of da Tracks",
       "url": "https://open.spotify.com/track/0yf6ORR6kV4iEn6T78XKbZ"
@@ -5263,7 +5333,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 241680,
       "name": "You Ain't Gotta Lie (Momma Said)",
       "url": "https://open.spotify.com/track/7A3ETuOrieyx9KSF0sn0Zf"

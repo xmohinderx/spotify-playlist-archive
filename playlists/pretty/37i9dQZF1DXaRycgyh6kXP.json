@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 105409,
+  "num_followers": 105646,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjkyNywwMDAwMDAwMDg3YjVhMzJiZjhkNDQzNGIzMWYwN2E5ZThhNDYzZDNl",
+  "snapshot_id": "MTY0OTI5MzIzOCwwMDAwMDAwMDIyNGUzMGQyN2YxNmEwYjBiY2ViMzhiOWVmYjJiYTJm",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "I Will Make Room for You (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 497500,
+      "name": "I Will Make Room for You - Four Tet Remix",
+      "url": "https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/4Enz8DFB6Ue4rUCenfucpw"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 192300,
       "name": "Four Horsemen",
       "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "I Will Make Room for You (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 497500,
-      "name": "I Will Make Room for You - Four Tet Remix",
-      "url": "https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "The White Arcades",
-        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "The Kiss",
-      "url": "https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e"
     },
     {
       "added_at": "2022-02-03 02:43:26",

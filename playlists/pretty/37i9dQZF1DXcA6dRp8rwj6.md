@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: City Girls\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,888 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,911 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 27 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 |
 | 28 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 |
 | 29 | [GANANIKA](https://open.spotify.com/track/5VGslDcbunMcITNpdt8VGY) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [GANANIKA](https://open.spotify.com/album/7c9L6pZZxpWYYW19Um95Ul) | 3:15 |
-| 30 | [Old School, New Design](https://open.spotify.com/track/2u6ae0Myv0XKYsbruYd0d4) | [Budamunk & Jansport J](https://open.spotify.com/artist/6lRi0oj75qbG8jMq6e4HSf), [Jansport J](https://open.spotify.com/artist/23lJNrVQNbmohxsZZylJgY), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp) | [Old School, New Design](https://open.spotify.com/album/3qQ7idlPQKLHlgyivzHmJF) | 3:12 |
+| 30 | [Old School, New Design](https://open.spotify.com/track/2u6ae0Myv0XKYsbruYd0d4) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [Jansport J](https://open.spotify.com/artist/23lJNrVQNbmohxsZZylJgY), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp) | [Old School, New Design](https://open.spotify.com/album/3qQ7idlPQKLHlgyivzHmJF) | 3:12 |
 | 31 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 | 32 | [Ballin \(Play\-In Remix\)](https://open.spotify.com/track/227dZXkrNPdg4Yhbe0glfp) | [Paris Bryant](https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u) | [Ballin \(Play\-In Remix\)](https://open.spotify.com/album/0hBGBlsuNGnHlKI112Il9W) | 2:06 |
 | 33 | [ADDI](https://open.spotify.com/track/5B8bajmEkgnMLmglqy467U) | [Harvinth Skin](https://open.spotify.com/artist/6qgKUwOGSU1iHNktLOON00), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [ADDI](https://open.spotify.com/album/22oBrfio9f3NVPVaSQiB1w) | 2:28 |

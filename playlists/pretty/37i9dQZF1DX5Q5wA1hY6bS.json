@@ -1,12 +1,12 @@
 {
   "description": "Because the best things in life are wild and free...",
-  "num_followers": 1474233,
+  "num_followers": 1474217,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjc4NSwwMDAwMDAwMDkwZDhkNDliODk2MmI3ZDNjMzUyNWZlZWJkMzJhOWZi",
+  "snapshot_id": "MTY0OTI5MzA4NSwwMDAwMDAwMDg3NzNkNzE2NTVlNjFmMzU1YTExOTIzNGU5OTdmMjAx",
   "tracks": [
     {
       "added_at": "2021-11-19 05:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
-        "name": "Penny, Heads Up",
-        "url": "https://open.spotify.com/album/3gMHXQbvGp5xsM1lMhm4xv"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Penny, Heads Up",
-      "url": "https://open.spotify.com/track/1a01Toe3uKNRhqLmW9x3Ar"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
         "name": "As We Ran",
         "url": "https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y"
       },
@@ -447,6 +431,26 @@
       "duration_ms": 257167,
       "name": "Hand Over My Heart",
       "url": "https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "Penny, Heads Up",
+        "url": "https://open.spotify.com/album/3gMHXQbvGp5xsM1lMhm4xv"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 207186,
+      "name": "Penny, Heads Up",
+      "url": "https://open.spotify.com/track/1a01Toe3uKNRhqLmW9x3Ar"
     },
     {
       "added_at": "2021-11-19 05:01:00",

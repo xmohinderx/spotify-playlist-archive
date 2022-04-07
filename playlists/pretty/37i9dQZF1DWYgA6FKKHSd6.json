@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 202591,
+  "num_followers": 202618,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjU5MiwwMDAwMDAwMDhjYzM5Y2VmNTI5ZTE0MWIxNjk0YmVmNDM0MDYwNmQ1",
+  "snapshot_id": "MTY0OTI5Mjg3NiwwMDAwMDAwMGY0MGE2NTE0YjA2NDE1ZWViNTRjYjFmZDAxZGZhYzZm",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Tonic",
-        "url": "https://open.spotify.com/album/5Px1CUSgIpdRpChsMAC0OE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Tonic",
-      "url": "https://open.spotify.com/track/2MLsWnBmhbkyypQTJ7DFgw"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -163,6 +147,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Tonic",
+        "url": "https://open.spotify.com/album/5Px1CUSgIpdRpChsMAC0OE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Tonic",
+      "url": "https://open.spotify.com/track/2MLsWnBmhbkyypQTJ7DFgw"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Just Like Heaven",
         "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
       },
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Groove On!",
@@ -207,6 +223,22 @@
       "duration_ms": 293613,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "The Bottom Line",
+      "url": "https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -245,38 +277,6 @@
       "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/5LyajQP5gTpHwL9Xd1xM5S"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "The Bottom Line",
-      "url": "https://open.spotify.com/track/1o1CuXwRdGmlmcpEiepgDQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Lookin' Up",
@@ -307,6 +307,42 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        },
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Full Effect",
+        "url": "https://open.spotify.com/album/4nAOFV8VFGSThTzO8wjndt"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/688IS2tPq6AgtER7EJQpsm"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -383,22 +419,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Full Effect",
-        "url": "https://open.spotify.com/album/4nAOFV8VFGSThTzO8wjndt"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/688IS2tPq6AgtER7EJQpsm"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Manhattan Nights",
         "url": "https://open.spotify.com/album/5UK0Q34XqyJsCao79Tr8GC"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/3HTqV23RH74GnMagyTkQ1P"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        },
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -669,26 +669,6 @@
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Hello Tomorrow",
-        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "When Will I Know For Sure",
-      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Livin' Large",
@@ -723,22 +703,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Backyard Brew",
-        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
+        "name": "Hello Tomorrow",
+        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
       },
       "artists": [
         {
-          "name": "The JT Project",
-          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         },
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 254376,
-      "name": "Backyard Brew",
-      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+      "duration_ms": 291386,
+      "name": "When Will I Know For Sure",
+      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -759,18 +739,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Windfall",
-        "url": "https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4"
+        "name": "Backyard Brew",
+        "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
       },
       "artists": [
         {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+          "name": "The JT Project",
+          "url": "https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 270466,
-      "name": "Windfall",
-      "url": "https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm"
+      "duration_ms": 254376,
+      "name": "Backyard Brew",
+      "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -791,6 +775,22 @@
       "duration_ms": 242413,
       "name": "Groovin' U",
       "url": "https://open.spotify.com/track/3xvJKgVCpppdfBmBr5wkKG"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Windfall",
+        "url": "https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Windfall",
+      "url": "https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Chill Factor",
@@ -927,6 +911,22 @@
       "duration_ms": 296360,
       "name": "Speak Easy",
       "url": "https://open.spotify.com/track/64iI0xWTsFNb647B6suOmv"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 254642,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul Ties",
         "url": "https://open.spotify.com/album/5Qe5J6bW0EyChzBZwg7Zve"
       },
@@ -1369,6 +1353,22 @@
       "url": "https://open.spotify.com/track/4l4dodgipavIzeo1H1YYCj"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 254642,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "The Goddess",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/4TQRDpyL9qCEzEAjApeN7k"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "When You Smile - Single",
+        "url": "https://open.spotify.com/album/0lbnN0g6Blu5mg6PoRkv0H"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 241195,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/76Tvpe4niV7n7ZpCKkfnAG"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Balance",
@@ -1435,22 +1451,6 @@
       "duration_ms": 240553,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "When You Smile - Single",
-        "url": "https://open.spotify.com/album/0lbnN0g6Blu5mg6PoRkv0H"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 241195,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/76Tvpe4niV7n7ZpCKkfnAG"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4DpctB8lMvnlKz4pYAgaET"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Givin' In",
+      "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Carnival Fever",
         "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
       },
@@ -1631,38 +1647,6 @@
       "duration_ms": 387500,
       "name": "Lil' too Late",
       "url": "https://open.spotify.com/track/2MzX6L4aa5YenFesxJDeMA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4DpctB8lMvnlKz4pYAgaET"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Givin' In",
-      "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1715,6 +1699,22 @@
       "duration_ms": 275680,
       "name": "Warm - Album Mix",
       "url": "https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc"
+      },
+      "artists": [
+        {
+          "name": "Tony Craddock, Jr.",
+          "url": "https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH"
+        }
+      ],
+      "duration_ms": 243882,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq"
     }
   ],
   "unique_name": "Sax and the City",

@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Maria Becerra, Becky G",
-  "num_followers": 575859,
+  "num_followers": 575993,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjc3NSwwMDAwMDAwMGQ3ZmM2YWNiNWE1NmVlZTcxNmRlMTI4NmVjYTAzZmEy",
+  "snapshot_id": "MTY0OTI5MzA3NSwwMDAwMDAwMDY2ZjUzMWQ2OTY2ZjQ4OWEyN2FmZTlhZmY4ZDcwMzE5",
   "tracks": [
     {
       "added_at": "2022-03-01 20:43:10",
@@ -271,6 +271,26 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
         "name": "Los Besos",
         "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
       },
@@ -287,22 +307,6 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
         "name": "Flow Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3"
       },
@@ -315,6 +319,22 @@
       "duration_ms": 175610,
       "name": "Flow Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -355,26 +375,6 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL"
       },
@@ -511,34 +511,6 @@
       "duration_ms": 164184,
       "name": "Al Lau",
       "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
-        "name": "Las Nenas (feat. La Duraca)",
-        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "La Duraca",
-          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "Las Nenas (feat. La Duraca)",
-      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -599,6 +571,34 @@
       "duration_ms": 182333,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "Las Nenas (feat. La Duraca)",
+        "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "La Duraca",
+          "url": "https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "Las Nenas (feat. La Duraca)",
+      "url": "https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -851,38 +851,6 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
-        "name": "Perreito",
-        "url": "https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 121240,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
-        "name": "Que Mal Te Fue",
-        "url": "https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Que Mal Te Fue",
-      "url": "https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
       },
@@ -895,6 +863,22 @@
       "duration_ms": 201600,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "Perreito",
+        "url": "https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 121240,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -919,18 +903,18 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
-        "name": "the better half of me",
-        "url": "https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj"
+        "name": "Que Mal Te Fue",
+        "url": "https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF"
       },
       "artists": [
         {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 180965,
-      "name": "lovin kind",
-      "url": "https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY"
+      "duration_ms": 212906,
+      "name": "Que Mal Te Fue",
+      "url": "https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -947,6 +931,22 @@
       "duration_ms": 140573,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3XtsyVQ4sj7mi7iNpU3arZ"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "the better half of me",
+        "url": "https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 180965,
+      "name": "lovin kind",
+      "url": "https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -979,26 +979,6 @@
       "duration_ms": 195366,
       "name": "Superpoderes",
       "url": "https://open.spotify.com/track/3UiKij7gnwxLoywPzvOMaP"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -1051,6 +1031,26 @@
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/7deJdnhCWumMOBJtXeIVyN"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2022-03-01 20:43:10",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-03-01 20:43:10",
       "album": {
+        "name": "Visceral",
+        "url": "https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Buena Para Nada",
+      "url": "https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z"
+    },
+    {
+      "added_at": "2022-03-01 20:43:10",
+      "album": {
         "name": "Que Me Baile",
         "url": "https://open.spotify.com/album/39A93gmprdEh2cctH6K2Ar"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 223846,
       "name": "Que Me Baile",
       "url": "https://open.spotify.com/track/6dZDBFRYElQx4DY1q62r30"
-    },
-    {
-      "added_at": "2022-03-01 20:43:10",
-      "album": {
-        "name": "Visceral",
-        "url": "https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Buena Para Nada",
-      "url": "https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z"
     },
     {
       "added_at": "2022-03-01 20:43:10",

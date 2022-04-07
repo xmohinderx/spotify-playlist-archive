@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 25438,
+  "num_followers": 25531,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjczNiwwMDAwMDAwMGI5NjQ3MzIyMjgwYzliMTEyOWNhMjYyNTk3OWRiOWM4",
+  "snapshot_id": "MTY0OTI5MzAzMiwwMDAwMDAwMGFmNmE5ZTFjM2Y0MDM3NTgxOWFkNjVhYjliNGQ1OTIy",
   "tracks": [
     {
       "added_at": "2022-03-21 15:14:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-03-21 15:14:27",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 357600,
-      "name": "Jamin'",
-      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
-    },
-    {
-      "added_at": "2022-03-21 15:14:27",
-      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 300590,
       "name": "Curiosa Scoperta",
       "url": "https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os"
+    },
+    {
+      "added_at": "2022-03-21 15:14:27",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Jamin'",
+      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
     },
     {
       "added_at": "2022-03-21 15:14:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,488 likes - 113 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,642 likes - 113 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

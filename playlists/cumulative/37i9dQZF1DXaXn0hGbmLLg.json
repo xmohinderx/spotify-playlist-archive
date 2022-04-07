@@ -2605,7 +2605,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-07",
       "duration_ms": 182193,
       "name": "Perfect timing",
       "url": "https://open.spotify.com/track/2DY5R8QvoWhJ6YtJvSdKvd"
@@ -4049,6 +4049,24 @@
       "duration_ms": 182660,
       "name": "ze noemen mij",
       "url": "https://open.spotify.com/track/4g9TQO1ZTTYbk0EbnTVTNv"
+    },
+    {
+      "album": {
+        "name": "Hazes Is De Basis 4",
+        "url": "https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Zeg Maar Niets Meer - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9"
     },
     {
       "album": {

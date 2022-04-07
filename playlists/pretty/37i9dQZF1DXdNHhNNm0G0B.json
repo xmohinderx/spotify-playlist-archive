@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 55569,
+  "num_followers": 55643,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNzAwMSwwMDAwMDAwMGY4NmIzODU4YzAxOGRmZGNiOWUxMzllOWZlMTNkM2Fm",
+  "snapshot_id": "MTY0OTI5MzMxOSwwMDAwMDAwMGEwMmNjMDdmNDFkYmIyOTUwMzg0OWRiMGMwZjA0MjZl",
   "tracks": [
     {
       "added_at": "2021-12-17 00:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Hesitation Theme and Variation Blues",
-      "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Imaginational Anthem Vol. 5",
         "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 229853,
       "name": "Hemet Pine Singer",
       "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Hesitation Theme and Variation Blues",
+      "url": "https://open.spotify.com/track/2h4KmvKPMxvZjTpHTpq2FE"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -207,6 +207,38 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Imaginational Anthem",
+      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 96840,
+      "name": "Mesquite Shade",
+      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -231,22 +263,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
-      },
-      "artists": [
-        {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Imaginational Anthem",
-      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Fate Is Only Twice",
         "url": "https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 287493,
       "name": "Rondo in D - On Southern Themes",
       "url": "https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 96840,
-      "name": "Mesquite Shade",
-      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Orange Co. Serenade",
-        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Gone Clear",
         "url": "https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 367570,
       "name": "Gone Clear",
       "url": "https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Orange Co. Serenade",
+        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Orange Co. Serenade",
-        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "All Will Prosper",
         "url": "https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "Orange Co. Serenade",
+        "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -715,22 +699,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 215662,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "A Place at the Table (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 215662,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
-    },
-    {
-      "added_at": "2021-12-17 00:00:00",
-      "album": {
         "name": "Preachin' Blues",
         "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-12-17 00:00:00",
       "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
       },
       "artists": [
         {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2021-12-17 00:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 245066,
       "name": "Long River (Allegheny)",
       "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+    },
+    {
+      "added_at": "2021-12-17 00:00:00",
+      "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
     }
   ],
   "unique_name": "Backporch Blues",

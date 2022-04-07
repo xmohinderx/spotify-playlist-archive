@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 63375,
+  "num_followers": 63371,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTIwNjgxMCwwMDAwMDAwMDEzODQxZGQzZTZjMWU3MmNiMmFjMjYyZDk2NGJlMDk5",
+  "snapshot_id": "MTY0OTI5MzExMiwwMDAwMDAwMDhlNGQ4NzY4ZmM3NjdkMzJhYWJlMDUxZmIyZmFlOTg0",
   "tracks": [
     {
       "added_at": "2021-12-09 23:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/5470dPg8Z5zWC3XtLAkHEW"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/0agVqdVtJx6paNYSplVvpq"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 197038,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/5470dPg8Z5zWC3XtLAkHEW"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/0agVqdVtJx6paNYSplVvpq"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/57nyAsOzQc642JTGwioDli"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 193306,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/6V7dNVUExZ1z1TCHYxLrHg"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/57nyAsOzQc642JTGwioDli"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Raised Under Grey Skies",
-        "url": "https://open.spotify.com/album/3WEeVvwxDad8bPd9ESOeuF"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1fpWhK9SvoEXcvcN3TgqTs"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/35rFWtak5IuXggrMbUunqo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Raised Under Grey Skies",
+        "url": "https://open.spotify.com/album/3WEeVvwxDad8bPd9ESOeuF"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1fpWhK9SvoEXcvcN3TgqTs"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5oWQ2uILvj5bAjeIjSYYc8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7ilS0BPWS8ek2P2GaxH3cP"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Until The Morning Light",
-        "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
-      },
-      "artists": [
-        {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Until The Morning Light",
-      "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
         "name": "Stop By Now",
         "url": "https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 223360,
       "name": "Stop By Now",
       "url": "https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Until The Morning Light",
+        "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
+      },
+      "artists": [
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Until The Morning Light",
+      "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
     },
     {
       "added_at": "2021-12-09 23:01:00",
