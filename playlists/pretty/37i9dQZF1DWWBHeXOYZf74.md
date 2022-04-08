@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Totally Enormous Extinct Dinosaurs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,379 likes - 103 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,369 likes - 103 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

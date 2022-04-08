@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8X0x7JMkJi.md) - [plain]
 
 > Podcasts que te ajudam a tirar um tempinho para cuidar de você.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,643 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 49,670 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 238333,
       "name": "AZALEA",
       "url": "https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI"
@@ -2176,6 +2176,24 @@
     },
     {
       "album": {
+        "name": "save me",
+        "url": "https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192596,
+      "name": "save me",
+      "url": "https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY"
+    },
+    {
+      "album": {
         "name": "SKZ2021",
         "url": "https://open.spotify.com/album/5eWA9aiVzEO8y9Cf6aUPw5"
       },
@@ -2943,7 +2961,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 199026,
       "name": "Yummy Yummy Love",
       "url": "https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB"

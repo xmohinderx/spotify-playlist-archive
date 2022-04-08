@@ -2,7 +2,7 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt?si=rmLKrb58SkSv4E5\-v4Gp0Q">Shortstraw</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=TnxF3JSTRx2gX2NV4hpZsA">Lucy Kruger & The Lost Boys</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Like Fire](https://open.spotify.com/track/03g3AEXXS0sVDkTWQv51eX) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:34 | 2022-02-03 |  |
 | [Lonely Road](https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Lonely Road](https://open.spotify.com/album/5O7lOQew1oBQHZ4ndqKESK) | 3:15 | 2021-05-05 | 2022-03-04 |
 | [Loveless](https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M) | [De Wallen](https://open.spotify.com/artist/3n6PF2KnptY1WuDGFguiXF) | [Street Fight Sonata](https://open.spotify.com/album/5fnZOHN3JZLNQ208awZyNk) | 3:11 | 2021-02-18 | 2022-01-22 |
+| [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:19 | 2022-04-07 |  |
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
 | [Monkey Mind](https://open.spotify.com/track/05PILc8wNotPdvMeukiElo) | [The Vast Oddity](https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO) | [Monkey Mind](https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J) | 2:56 | 2021-11-11 | 2022-03-18 |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 |  |

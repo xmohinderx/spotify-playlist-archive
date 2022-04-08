@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "cult leader",
+        "url": "https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163462,
+      "name": "cult leader",
+      "url": "https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7"
+    },
+    {
+      "album": {
         "name": "cut my fingers off",
         "url": "https://open.spotify.com/album/1saNgGCJZpAqsvnUZypMc2"
       },

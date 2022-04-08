@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Mezzaluna, Shanna Shannon, arash buana, Shakira Jasmine, Idgitaf, Reybong, Warren Hue, raissa anggiani, Jinan Laetitia, noui",
-  "num_followers": 22621,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: noui",
+  "num_followers": 22625,
   "original_name": "RADAR Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI5Mjg4NCwwMDAwMDAwMGZlNjVkYWM5NDIwMWFhZjUzZDg2ZTViMjRlMmMzMjcz",
+  "snapshot_id": "MTY0OTM3OTM3MywwMDAwMDAwMGQ1YjE3YzcyYjFmYWRiODA1YWZjMDIzMTU3OTU5NDcy",
   "tracks": [
+    {
+      "added_at": "2022-04-07 17:00:00",
+      "album": {
+        "name": "innerchild",
+        "url": "https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9"
+      },
+      "artists": [
+        {
+          "name": "noui",
+          "url": "https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B"
+        }
+      ],
+      "duration_ms": 230781,
+      "name": "girl of the earth",
+      "url": "https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU"
+    },
     {
       "added_at": "2022-03-24 17:00:00",
       "album": {

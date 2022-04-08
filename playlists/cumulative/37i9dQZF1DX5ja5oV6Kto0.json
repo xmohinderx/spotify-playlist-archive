@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih?si=qzKfHiReTJWF_XBVqjTcAQ\"> Cruel Santino </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=QnarUIK5QNWu0In2nJsHvQ\"> Ayra Starr </a> and <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=m8dfeDYbSW-xbWtAIUJejA\"> Lojay </a> ",
   "name": "Alt\u00e9 Cruise",
   "published_playlist_ids": [
     "3abyZu302ITz5DM9hnTS7F"
@@ -213,6 +213,24 @@
       "duration_ms": 221881,
       "name": "ANCESTORS",
       "url": "https://open.spotify.com/track/0RSDH2CCDTzOZo0UIBiUNM"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3JpeOalfcfBvLPAzPevtb6"
+      },
+      "artists": [
+        {
+          "name": "SirBastien",
+          "url": "https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110442,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/4N6P3mAVkGM4gLdgbMuogo"
     },
     {
       "album": {
@@ -839,7 +857,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 154015,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/77WyHfWYb6sWhPJ5GeeUmo"
@@ -1236,6 +1254,32 @@
     },
     {
       "album": {
+        "name": "In A Loop",
+        "url": "https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193515,
+      "name": "In A Loop",
+      "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/16mVzniCBttR752jet9few"
       },
@@ -1247,7 +1291,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 69593,
       "name": "In the Wind",
       "url": "https://open.spotify.com/track/2daN2z6MVvHVuVKCYmQqOn"
@@ -1393,7 +1437,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 179000,
       "name": "LET YOU DOWN",
       "url": "https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq"
@@ -1451,6 +1495,24 @@
       "duration_ms": 165981,
       "name": "London",
       "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
+    },
+    {
+      "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/1kjV9FTE7BIzpfFW4Yp1fC"
+      },
+      "artists": [
+        {
+          "name": "Merry-Lynn",
+          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/5DyKBJH9Ycqhj9RNigfWCk"
     },
     {
       "album": {
@@ -1939,7 +2001,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 144905,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/1wegRvKF1pqIRbmKBldgqi"
@@ -2019,6 +2081,32 @@
       "duration_ms": 152000,
       "name": "Rude",
       "url": "https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
+      },
+      "artists": [
+        {
+          "name": "NATIVE Sound System",
+          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220894,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
     },
     {
       "album": {
@@ -2267,7 +2355,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 129438,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/03aPkknuYGCLLLqScoRvI8"

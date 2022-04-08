@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493,001 likes - 200 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,494,155 likes - 200 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 |
 | 200 | [Moanin' \- Remastered](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
 
-Snapshot ID: `MTY0OTI5MzI2MiwwMDAwMDAwMDIzNTBkM2IzYmUzN2EyMzAyNjI4MGI4NjBjODBlZTQ4`
+Snapshot ID: `MTY0OTM3OTc0MiwwMDAwMDAwMDIzNTBkM2IzYmUzN2EyMzAyNjI4MGI4NjBjODBlZTQ4`

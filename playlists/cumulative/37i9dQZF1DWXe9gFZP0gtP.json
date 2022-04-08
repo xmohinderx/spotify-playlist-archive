@@ -1106,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Dvala",
+        "url": "https://open.spotify.com/album/5eHx7IxJ0eXfVfD8KMMxD9"
+      },
+      "artists": [
+        {
+          "name": "Elvar Arngrimsson",
+          "url": "https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Dvala",
+      "url": "https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb"
+    },
+    {
+      "album": {
         "name": "Easy Mind",
         "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
       },
@@ -1449,6 +1467,24 @@
       "duration_ms": 176000,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83"
+    },
+    {
+      "album": {
+        "name": "Fliessend",
+        "url": "https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9"
+      },
+      "artists": [
+        {
+          "name": "Solar Wash",
+          "url": "https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164881,
+      "name": "Fliessend",
+      "url": "https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP"
     },
     {
       "album": {

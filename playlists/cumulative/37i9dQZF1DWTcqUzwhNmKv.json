@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lamb of God and Dave Mustaine on top of the biggest Metal playlist!",
+  "description": "Bullet For My Valentine on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Shot in the Dark",
+        "url": "https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "A Shot in the Dark",
+      "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
+    },
     {
       "album": {
         "name": "Anything at All",
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 325600,
       "name": "Bastards",
       "url": "https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 209828,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
@@ -711,6 +729,24 @@
       "duration_ms": 140228,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx"
+    },
+    {
+      "album": {
+        "name": "Manifestations",
+        "url": "https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213287,
+      "name": "From The Fire In You",
+      "url": "https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5"
     },
     {
       "album": {
@@ -1158,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Loveletting (7\" Cut)",
+        "url": "https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235353,
+      "name": "Loveletting - 7\" Cut",
+      "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
+    },
+    {
+      "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL"
       },
@@ -1350,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233325,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS"
+    },
+    {
+      "album": {
         "name": "On The Dark Waters",
         "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
       },
@@ -1527,7 +1599,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 172758,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
@@ -1714,6 +1786,28 @@
     },
     {
       "album": {
+        "name": "Spaceman (feat. FiNCH)",
+        "url": "https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190125,
+      "name": "Spaceman (feat. FiNCH)",
+      "url": "https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic"
+    },
+    {
+      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
       },
@@ -1725,7 +1819,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 168913,
       "name": "Standing My Ground",
       "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
@@ -1905,7 +1999,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 186086,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/3VfLjiVTnB7VQnzK0gUr0d"
@@ -2277,10 +2371,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
+    },
+    {
+      "album": {
+        "name": "Zick Zack",
+        "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244365,
+      "name": "Zick Zack",
+      "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
     },
     {
       "album": {

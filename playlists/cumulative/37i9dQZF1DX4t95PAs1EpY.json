@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 163914,
       "name": "Hope!",
       "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 158117,
       "name": "Maybe Tomorrow?",
       "url": "https://open.spotify.com/track/5SeMmi8XpLcWGHQ1PqpsZn"
@@ -1391,6 +1391,28 @@
       "duration_ms": 145226,
       "name": "Microwave Jam",
       "url": "https://open.spotify.com/track/0JXHJVMM7sy9sszTiEpumr"
+    },
+    {
+      "album": {
+        "name": "Mikonos",
+        "url": "https://open.spotify.com/album/5oJF59iGEfTX7grO1ovUy6"
+      },
+      "artists": [
+        {
+          "name": "Kid Kio",
+          "url": "https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Mikonos",
+      "url": "https://open.spotify.com/track/0qnvXzItiOWH4YzNoztrPc"
     },
     {
       "album": {
@@ -1816,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Give Ut Up",
+        "url": "https://open.spotify.com/album/42LL7ZVY3mIcW74gVmkgmZ"
+      },
+      "artists": [
+        {
+          "name": "Avery Palm",
+          "url": "https://open.spotify.com/artist/0dJz1wtsMh5DrqCnoyiQDr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104823,
+      "name": "Reattachment",
+      "url": "https://open.spotify.com/track/5jaPyxDqTmJNaWb6FV5Iqy"
+    },
+    {
+      "album": {
         "name": "Red Dove",
         "url": "https://open.spotify.com/album/7GJpLw4jMbTx00deI5jpOa"
       },
@@ -2037,7 +2077,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 135342,
       "name": "Single Passenger",
       "url": "https://open.spotify.com/track/4FhYHkYXgrAksGlwfiq0bL"

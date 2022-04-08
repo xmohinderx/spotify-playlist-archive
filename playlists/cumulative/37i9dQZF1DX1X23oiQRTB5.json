@@ -554,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Le chemin des braves",
+        "url": "https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "Kongolais mauvais (feat. Ninho)",
+      "url": "https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs"
+    },
+    {
+      "album": {
         "name": "Civilisation",
         "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
       },
@@ -1089,7 +1111,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 150382,
       "name": "Tout recommencer",
       "url": "https://open.spotify.com/track/1EtlH4DyYlU1X9cAIyVFXB"

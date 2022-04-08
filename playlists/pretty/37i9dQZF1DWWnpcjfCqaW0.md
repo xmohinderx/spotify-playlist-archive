@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Lefty Frizzell, Hank Williams, Kitty Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,546 likes - 96 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,647 likes - 96 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 95 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 96 | [Love Me Tender \- Mono](https://open.spotify.com/track/5ap5OgMjY85VcIDcyv02Nc) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:42 |
 
-Snapshot ID: `MTY0OTI5MjgyMSwwMDAwMDAwMGI4MWM2YzExYjFkNGZhNzVmOTYzYzc5MmQ1MjJkYWE4`
+Snapshot ID: `MTY0OTM3OTMxMSwwMDAwMDAwMGI4MWM2YzExYjFkNGZhNzVmOTYzYzc5MmQ1MjJkYWE4`

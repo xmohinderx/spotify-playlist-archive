@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,419 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,441 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Riding For The Feeling](https://open.spotify.com/track/2JiVVU7qv1YeD1yabpIyoX) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/4RBHgVw8kR6IpXVnZhZrh0) | 6:05 |
 | 100 | [When](https://open.spotify.com/track/6V7CVkMHJGi3FaStcMbwtJ) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil \(Bonus Track Version\)](https://open.spotify.com/album/7qZBXmpXR2Cv4tYDx6SgiD) | 4:05 |
 
-Snapshot ID: `MTY0OTI5MzAxMCwwMDAwMDAwMDZjYTgxMWRkYTlmNjAzZmUyMzJmZmY4NGUxZDI3Yjhj`
+Snapshot ID: `MTY0OTM3OTQ5NywwMDAwMDAwMDZjYTgxMWRkYTlmNjAzZmUyMzJmZmY4NGUxZDI3Yjhj`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,597 likes - 730 songs - 1 day 21 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,613 likes - 730 songs - 1 day 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Back to You \- Spotify Singles](https://open.spotify.com/track/3TUQZ3agjkG64kbsYEcgVn) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles \(Spotify Only\)](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 4:21 |
-| 2 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles \(Spotify Only\)](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
+| 1 | [Back to You \- Spotify Singles](https://open.spotify.com/track/3TUQZ3agjkG64kbsYEcgVn) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 4:21 |
+| 2 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
 | 3 | [Baghon Main \- Spotify Singles](https://open.spotify.com/track/767DqFjvUfMmpBp02QxApL) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 5:27 |
 | 4 | [DI MI NOMBRE \- Cap.8: Éxtasis \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 |
 | 5 | [I Don't Wanna Talk \(I Just Wanna Dance\) \- Spotify Singles](https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 3:00 |

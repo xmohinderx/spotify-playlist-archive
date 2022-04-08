@@ -1474,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "Silly Little Dream, Pt. 1",
+        "url": "https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6"
+      },
+      "artists": [
+        {
+          "name": "July Jones",
+          "url": "https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196982,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY"
+    },
+    {
+      "album": {
         "name": "Stay Ugly EP",
         "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
       },

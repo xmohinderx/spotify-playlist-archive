@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Avishai Cohen
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,364 likes - 58 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,434 likes - 58 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

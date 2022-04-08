@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: \u00c4TNA",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Ansu",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -77,6 +77,24 @@
       "duration_ms": 218106,
       "name": "All We Are",
       "url": "https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau"
+    },
+    {
+      "album": {
+        "name": "an all diesen Tagen",
+        "url": "https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164820,
+      "name": "an all diesen Tagen",
+      "url": "https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb"
     },
     {
       "album": {
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 198000,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf"
@@ -417,6 +435,24 @@
       "duration_ms": 153128,
       "name": "For your safety",
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
     },
     {
       "album": {
@@ -775,7 +811,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 180500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ"
@@ -1011,7 +1047,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 221065,
       "name": "New Era",
       "url": "https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 184137,
       "name": "Okay",
       "url": "https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x"
@@ -1138,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "School Friends",
+        "url": "https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210839,
+      "name": "School Friends",
+      "url": "https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl"
+    },
+    {
+      "album": {
         "name": "She's A Star",
         "url": "https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x"
       },
@@ -1153,6 +1207,42 @@
       "duration_ms": 285336,
       "name": "She's A Star",
       "url": "https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU"
+    },
+    {
+      "album": {
+        "name": "Sicher",
+        "url": "https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175320,
+      "name": "Sicher",
+      "url": "https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM"
+    },
+    {
+      "album": {
+        "name": "Sick Of Being Sad",
+        "url": "https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163078,
+      "name": "Sick Of Being Sad",
+      "url": "https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R"
     },
     {
       "album": {
@@ -1229,7 +1319,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 163576,
       "name": "The World's Thing",
       "url": "https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq"

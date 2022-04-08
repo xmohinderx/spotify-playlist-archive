@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Harry Styles, Karol Conká e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,411 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,615 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 83 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
 | 84 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 |
 | 85 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 |
-| 86 | [Rodagi Deluxe](https://open.spotify.com/track/3T8zyu5lLoZSRLUtQfuyc7) | [Neves](https://open.spotify.com/artist/3mRXxBNJb2YDNuSAGEl3Mw), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Rodagi Deluxe](https://open.spotify.com/album/2XtzLfTMw0c6l1dNWGAX8o) | 2:30 |
+| 86 | [Rodagi Deluxe](https://open.spotify.com/track/3T8zyu5lLoZSRLUtQfuyc7) | [Neves](https://open.spotify.com/artist/3mRXxBNJb2YDNuSAGEl3Mw), [Ear Kid](https://open.spotify.com/artist/27LEINgN8kACqS7qdHcDmm) | [Rodagi Deluxe](https://open.spotify.com/album/2XtzLfTMw0c6l1dNWGAX8o) | 2:30 |
 | 87 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
 | 88 | [Novas Publicações](https://open.spotify.com/track/04sKrysddYBkbXHizCcbfQ) | [Zé Vaqueiro Estilizado](https://open.spotify.com/artist/5rJJOghaNhAk41itivi1LO), [Unha Pintada](https://open.spotify.com/artist/0oSb8ZEnIS4bPrpDoMT4tx) | [Novas Publicações](https://open.spotify.com/album/11MCLs87b0VhwUTEFYliFP) | 3:15 |
 | 89 | [Deu Pra Ler](https://open.spotify.com/track/7BXBUMLuxV3aeY53RdNWsN) | [Cesinha e Matheus](https://open.spotify.com/artist/6GY5MqIO1G53zbx4fhlXuf), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Deu Pra Ler](https://open.spotify.com/album/4lQJ6SnUqtvTfuv7MT5T0A) | 2:44 |

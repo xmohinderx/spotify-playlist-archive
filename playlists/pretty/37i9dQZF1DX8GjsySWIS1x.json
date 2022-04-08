@@ -1,12 +1,12 @@
 {
   "description": "The latest in gaming music.",
-  "num_followers": 951633,
+  "num_followers": 952012,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4Mzc1MywwMDAwMDA2ODAwMDAwMTdmZjUwZDI1NjQwMDAwMDE3ZmU2NDFlNzg3",
+  "snapshot_id": "MTY0OTM1OTkxMSwwMDAwMDA2OTAwMDAwMTgwMDU4MmZiNDgwMDAwMDE3ZmU2NDFlNzg3",
   "tracks": [
     {
       "added_at": "2022-04-02 19:17:17",
@@ -59,6 +59,22 @@
       "duration_ms": 219802,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH"
+    },
+    {
+      "added_at": "2022-04-07 19:31:51",
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": "2021-10-15 16:30:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Tom Grennan
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,278 likes - 83 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,599 likes - 83 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

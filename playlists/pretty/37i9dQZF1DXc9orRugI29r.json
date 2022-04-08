@@ -1,13 +1,33 @@
 {
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "num_followers": 254365,
-  "original_name": "HOT NOW: Paulo Londra - Chance",
+  "num_followers": 255103,
+  "original_name": "HOT NOW: Ghetto Kids & Neto Pe\u00f1a - Ojos Chiquitos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI4Njc2OSwwMDAwMDI5OTAwMDAwMTgwMDEyNmViYzQwMDAwMDE3ZmZhMjU5ZDYw",
+  "snapshot_id": "MTY0OTM2NjQwMCwwMDAwMDI5YTAwMDAwMTgwMDVlNWZjNTIwMDAwMDE4MDAxZmZkMjNk",
   "tracks": [
+    {
+      "added_at": "2022-04-07 21:20:00",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+    },
     {
       "added_at": "2022-04-06 22:00:00",
       "album": {
@@ -665,6 +685,6 @@
       "url": "https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3"
     }
   ],
-  "unique_name": "HOT NOW: Paulo Londra - Chance",
+  "unique_name": "HOT NOW: Ghetto Kids & Neto Pe\u00f1a - Ojos Chiquitos",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

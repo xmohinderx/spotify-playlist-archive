@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52-H1hRrcIe4g\"> Rexx Life Raj </a>,  <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw-hCSMiiVfCdbzgPeg\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW_fH-rNEg\"> Wale</a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=hF3KpHpFTNmf7Go9_OfZVg\"> Yemi Alade </a> and <a href=\"https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S?si=VUxF_jE8RZuqUQSxi9AoJAg\"> Kranium</a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -914,6 +914,32 @@
     },
     {
       "album": {
+        "name": "Go German",
+        "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Go German",
+      "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
+    },
+    {
+      "album": {
         "name": "Good Love (feat. Tay Iwar)",
         "url": "https://open.spotify.com/album/25NtIUVnX0QEX2GKJxngfe"
       },
@@ -1364,6 +1390,32 @@
     },
     {
       "album": {
+        "name": "Love Power",
+        "url": "https://open.spotify.com/album/3oD1rx2uDhDJ97YqHnBkKc"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "The Solar System",
+          "url": "https://open.spotify.com/artist/6XuvHsn1lq9MB4Qt10S0Sn"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331159,
+      "name": "Love Power",
+      "url": "https://open.spotify.com/track/5lApWR48TCVMLNCFrSa09s"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1449,6 +1501,28 @@
       "duration_ms": 209945,
       "name": "Most Original",
       "url": "https://open.spotify.com/track/0zU9AIa27k16Awi5keku5L"
+    },
+    {
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
       "album": {
@@ -1753,7 +1827,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 164560,
       "name": "Payback (feat. Knucks)",
       "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
@@ -2545,7 +2619,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 168244,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/31EkvbGV7cdXZgUt4gbtlK"
@@ -2567,7 +2641,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 188826,
       "name": "THE SUN (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
@@ -2699,7 +2773,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 207200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
@@ -2829,6 +2903,32 @@
       "duration_ms": 237983,
       "name": "Vroom - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "album": {
+        "name": "Walangolo",
+        "url": "https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "Walangolo",
+      "url": "https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j"
     },
     {
       "album": {

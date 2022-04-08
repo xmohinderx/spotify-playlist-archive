@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: p\-rallel
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,560 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,632 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [For Keeps](https://open.spotify.com/track/1nPgx4Q9edLlooxkg46HrA) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [For Keeps](https://open.spotify.com/album/7nJUSI4LKvwz6zXmpskgv9) | 2:52 |
 | 70 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 
-Snapshot ID: `MTY0OTI5MzMyNiwwMDAwMDAwMDA1NWYyYmZjNmJlZWZhZDVjYzcwM2EyNTUyYzc5ZDVm`
+Snapshot ID: `MTY0OTM3OTgwMiwwMDAwMDAwMDA1NWYyYmZjNmJlZWZhZDVjYzcwM2EyNTUyYzc5ZDVm`

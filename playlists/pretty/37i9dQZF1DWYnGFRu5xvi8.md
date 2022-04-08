@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,921 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,993 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [CRISIS CORE Theme \- Dreams and Honor](https://open.spotify.com/track/1v8NTBc7aDh17Ycs9inmOM) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 3:20 |
 | 100 | [Precipitous Combat](https://open.spotify.com/track/2eyaZmFVMi4JzfNMpWSZzh) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:30 |
 
-Snapshot ID: `MTY0OTI5Mjg3OCwwMDAwMDAwMDkwNTNjY2Q1ZjU3MzliN2ViOWQ1YWZmMjcyY2FlNzhj`
+Snapshot ID: `MTY0OTM3OTM2NywwMDAwMDAwMDkwNTNjY2Q1ZjU3MzliN2ViOWQ1YWZmMjcyY2FlNzhj`

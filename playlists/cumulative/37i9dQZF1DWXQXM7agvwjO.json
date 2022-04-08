@@ -1,11 +1,41 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: CHANKA (Hong Kong)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Folk9 (Thailand)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "13: 4",
+        "url": "https://open.spotify.com/album/5rvf59OvYzXNxmN9d4nemR"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        },
+        {
+          "name": "Ryu su a",
+          "url": "https://open.spotify.com/artist/2U57dP2hI49nAHcCn6Mpmu"
+        },
+        {
+          "name": "Park Hyun Seo",
+          "url": "https://open.spotify.com/artist/4MqbpF1gPfGwUsQb1R35ba"
+        },
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/3TrPkBeDdVF0ZESQEkv1zc"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "13: 4",
+      "url": "https://open.spotify.com/track/0g9QfoNxP3Y1UmCnQ357Y2"
+    },
     {
       "album": {
         "name": "About a Woman",
@@ -59,6 +89,24 @@
       "duration_ms": 202325,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1O6fh32Fqnk2otTyFDqn1b"
+    },
+    {
+      "album": {
+        "name": "Am I Overthinking This?",
+        "url": "https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Am I Overthinking This?",
+      "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
     },
     {
       "album": {
@@ -185,10 +233,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 275651,
       "name": "Behind Your Dream",
       "url": "https://open.spotify.com/track/4TSleT2yijfAt8sf5PNgrg"
+    },
+    {
+      "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy"
+      },
+      "artists": [
+        {
+          "name": "Youth Brush",
+          "url": "https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209538,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR"
     },
     {
       "album": {
@@ -363,7 +429,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 186000,
       "name": "CHERRY SHINE",
       "url": "https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL"
@@ -490,6 +556,24 @@
     },
     {
       "album": {
+        "name": "FUNFAIR",
+        "url": "https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i"
+      },
+      "artists": [
+        {
+          "name": "Mocca",
+          "url": "https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148722,
+      "name": "Easy Like 123",
+      "url": "https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP"
+    },
+    {
+      "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar"
       },
@@ -607,7 +691,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 244821,
       "name": "Hold",
       "url": "https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3"
@@ -705,10 +789,46 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 190904,
       "name": "I Wrote Because",
       "url": "https://open.spotify.com/track/6eepK5FHCdhg8IamM3Ly2q"
+    },
+    {
+      "album": {
+        "name": "i-",
+        "url": "https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176210,
+      "name": "i-",
+      "url": "https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0"
+    },
+    {
+      "album": {
+        "name": "insomnia",
+        "url": "https://open.spotify.com/album/60u9cSJBnwIS0QuoBUQMWz"
+      },
+      "artists": [
+        {
+          "name": "H I N A N O",
+          "url": "https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "insomnia",
+      "url": "https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs"
     },
     {
       "album": {
@@ -723,7 +843,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 270265,
       "name": "Je Suis La Pomme Rouge",
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
@@ -1012,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/4wYcxu7ys9LdYSWER7GxPX"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447259,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/3MDzm55OlzM0D2Nw4qfgFb"
+    },
+    {
+      "album": {
         "name": "NIA",
         "url": "https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7"
       },
@@ -1041,7 +1179,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 228900,
       "name": "Night Diver",
       "url": "https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9"
@@ -1113,7 +1251,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 145333,
       "name": "Precious",
       "url": "https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F"
@@ -1246,6 +1384,24 @@
     },
     {
       "album": {
+        "name": "sour patch",
+        "url": "https://open.spotify.com/album/7AxUn89z5i2BiiBbjKMtjh"
+      },
+      "artists": [
+        {
+          "name": "Darren & Cashwell",
+          "url": "https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "sour patch",
+      "url": "https://open.spotify.com/track/2wE6tegCkdlnJZtFbDScsA"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/3VB0h9yR5BCy6kpPynwj0Z"
       },
@@ -1279,7 +1435,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 262484,
       "name": "Stripes Theme",
       "url": "https://open.spotify.com/track/3rWLChbEtZ3zdh4QDkFAU0"
@@ -1333,7 +1489,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 243555,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/4amslzmcELgZwGmfrg2gOV"
@@ -1530,6 +1686,28 @@
     },
     {
       "album": {
+        "name": "Y\u00eau Nh\u1ea5t",
+        "url": "https://open.spotify.com/album/31sXIpSQbyU0OcIEHXCMBF"
+      },
+      "artists": [
+        {
+          "name": "SuperC",
+          "url": "https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo"
+        },
+        {
+          "name": "RPT PhongKhin",
+          "url": "https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157582,
+      "name": "Y\u00eau Nh\u1ea5t (feat. RPT PhongKhin)",
+      "url": "https://open.spotify.com/track/3ZAfDSOBPiUupvPmAzZ3cI"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e48\u0e2d\u0e19\u0e08\u0e30\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27 (Panic)",
         "url": "https://open.spotify.com/album/2F72NDhMG8MW1NDK8QY1j8"
       },
@@ -1667,7 +1845,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 226276,
       "name": "\ud658\ub780\uc758 \uc138\ub300 The Generation of Tribulation",
       "url": "https://open.spotify.com/track/31OivIYnFwCpGRVp19DxD3"

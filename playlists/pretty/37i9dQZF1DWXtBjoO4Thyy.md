@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Philip Glass continues The Classical Takeover with his all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,495 likes - 33 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,525 likes - 33 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,966 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,029 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
 | 60 | [I Didn't Think She Would Do It \- Live](https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 4:34 |
 
-Snapshot ID: `MTY0OTI5MjcwMiwwMDAwMDAwMDQ0YzUzNDg4MDhjYWY1MGIzY2VhMmY5ZGQ1MjYxNzcz`
+Snapshot ID: `MTY0OTM3OTE5NSwwMDAwMDAwMDQ0YzUzNDg4MDhjYWY1MGIzY2VhMmY5ZGQ1MjYxNzcz`

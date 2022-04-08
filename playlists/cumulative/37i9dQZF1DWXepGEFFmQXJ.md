@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
-> The cream of today's Country crop\. Cover: Keith Urban
+> The cream of today's Country crop\. Cover: Brad Cox
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-30 | 2022-04-01 |
 | [Country Outta My Girl](https://open.spotify.com/track/12JnMGEzuhRdyBZ84UAi07) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Country Outta My Girl](https://open.spotify.com/album/5yMa7b6GWvPHTPijIDQVtJ) | 3:22 | 2021-12-30 | 2022-04-01 |
 | [Darts in the Dark](https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Darts in the Dark](https://open.spotify.com/album/72qFlRjiGC6RJey0c4yHHD) | 3:13 | 2021-12-30 |  |
+| [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-04-07 |  |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2022-03-31 |  |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-30 |  |
 | [Drink Along Song](https://open.spotify.com/track/0EKtrPckzmWUQgVQpLd61k) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Drink Along Song](https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy) | 2:48 | 2021-12-30 | 2022-04-01 |
@@ -50,11 +51,12 @@
 | [God Took His Time On You](https://open.spotify.com/track/3QaA5jdFoAvcnxhfE50vCs) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [God Took His Time On You](https://open.spotify.com/album/553FYAh936iamVcIN0rx9F) | 3:35 | 2021-12-30 |  |
 | [Gone Gone Gone](https://open.spotify.com/track/3e8guey6EYihDMOgFmUsAv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Gone Gone Gone](https://open.spotify.com/album/0ZF1G8jsIxqhvl6IMlAQgH) | 3:16 | 2021-12-30 | 2022-03-05 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-06 |  |
-| [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-12-30 |  |
+| [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-12-30 | 2022-04-08 |
 | [Good Things](https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/6ap7EgZFWKOCrsGZyAzM9U) | 2:28 | 2021-12-30 | 2022-03-18 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-21 |  |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-30 | 2022-03-05 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2022-03-04 |  |
+| [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-07 |  |
 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 | 2021-12-30 | 2022-04-01 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-01-31 | 2022-02-22 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-24 |  |
@@ -102,10 +104,12 @@
 | [The Next Big Thing](https://open.spotify.com/track/1wx9E45yeb7aCoU8TfCm62) | [Katrina Burgoyne](https://open.spotify.com/artist/5IHAd9gZnw4yrczPvDklll) | [The Next Big Thing](https://open.spotify.com/album/66Mjl0zineaXSf7YQVAt2f) | 3:23 | 2021-12-30 | 2022-02-01 |
 | [The One](https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [The One](https://open.spotify.com/album/2goSTc1QM9a6imb2tUnzBC) | 3:26 | 2022-03-31 |  |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-30 |  |
+| [This Night Forever](https://open.spotify.com/track/1n3xrPkzczwahhYRKLvBRj) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [This Night Forever](https://open.spotify.com/album/21uMl1aVKPmDS8ZU5pZBEo) | 2:51 | 2022-04-07 |  |
 | [This Summer's The One](https://open.spotify.com/track/7w2BUkoME2VxIZltz8zuqS) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [This Summer's The One](https://open.spotify.com/album/5FL5wCFvoZUvPYV7Ohgl43) | 2:43 | 2022-01-21 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-30 | 2022-04-01 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 |  |
 | [Unforgettable](https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Unforgettable](https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD) | 3:30 | 2022-01-27 |  |
+| [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 |  |
 | [What You Make It](https://open.spotify.com/track/5ruiqSweVb8QjUTYfKlomJ) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids On Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:05 | 2021-12-30 |  |
 | [Whatchawanna](https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx) | [Cornell And Carr](https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8) | [Whatchawanna](https://open.spotify.com/album/4GmKCBn3BCo41XByDKb1Wj) | 3:22 | 2021-12-30 | 2022-02-05 |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-03-31 |  |
@@ -115,5 +119,7 @@
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2021-12-30 | 2022-02-01 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-30 |  |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 |  |
+| [you and i](https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [you and i](https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E) | 3:26 | 2022-04-07 |  |
+| [Young Lovers](https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Young Lovers](https://open.spotify.com/album/4pPOeH8ptXvDiLLohk0c5C) | 3:38 | 2022-04-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "All We Can Do",
+        "url": "https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx"
+      },
+      "artists": [
+        {
+          "name": "Edna Lyles",
+          "url": "https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "All We Can Do",
+      "url": "https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K"
       },
@@ -1848,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Fliessend",
+        "url": "https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9"
+      },
+      "artists": [
+        {
+          "name": "Solar Wash",
+          "url": "https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164881,
+      "name": "Fliessend",
+      "url": "https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP"
+    },
+    {
+      "album": {
         "name": "Flucht",
         "url": "https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn"
       },
@@ -2313,6 +2349,24 @@
       "duration_ms": 179222,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF"
+    },
+    {
+      "album": {
+        "name": "Inner Space",
+        "url": "https://open.spotify.com/album/7jcI5TedzwecaRrogB2eGw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dawson",
+          "url": "https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189492,
+      "name": "Inner Space",
+      "url": "https://open.spotify.com/track/1sEa9g6jEgVVN140C89gYl"
     },
     {
       "album": {
@@ -3195,6 +3249,24 @@
       "duration_ms": 148984,
       "name": "Nox",
       "url": "https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7"
+    },
+    {
+      "album": {
+        "name": "De regreso",
+        "url": "https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF"
+      },
+      "artists": [
+        {
+          "name": "The Sun Door",
+          "url": "https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173431,
+      "name": "Nuevo tiempo",
+      "url": "https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn"
     },
     {
       "album": {

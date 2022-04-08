@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/6cfFPGErcW6407wBcuU0nz)
 
-> County's best like you've never heard before\. Cover: Parker McCollum, Tenille Arts & BRELAND.
+> County's best like you've never heard before\. Cover: Jimmie Allen, Kelsea Ballerini & Luke Combs
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

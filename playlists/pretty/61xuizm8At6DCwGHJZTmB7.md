@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Celebrate Easter with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 109,014 likes - 77 songs - 6 hr 51 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 109,094 likes - 77 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

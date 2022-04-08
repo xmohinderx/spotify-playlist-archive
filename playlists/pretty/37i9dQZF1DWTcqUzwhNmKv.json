@@ -1,15 +1,147 @@
 {
-  "description": "Lamb of God and Dave Mustaine on top of the biggest Metal playlist!",
-  "num_followers": 1273025,
+  "description": "Bullet For My Valentine on top of the biggest Metal playlist!",
+  "num_followers": 1273340,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc3MTIwMCwwMDAwMDRkMjAwMDAwMTdmZTI2YmY0ODIwMDAwMDE3ZmRlYTY5OGUx",
+  "snapshot_id": "MTY0OTM3NjAwMCwwMDAwMDRkMzAwMDAwMTgwMDY3ODc4YmYwMDAwMDE4MDAzYjcxN2Y5",
   "tracks": [
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 233325,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "So Called Life",
+        "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 206276,
+      "name": "So Called Life",
+      "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "Cyberhex",
+        "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Lindsay Schoolcraft",
+          "url": "https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ"
+        }
+      ],
+      "duration_ms": 275247,
+      "name": "Cyberhex",
+      "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "Like A Villain",
+        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "Zick Zack",
+        "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 244365,
+      "name": "Zick Zack",
+      "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "ZOMBIFIED",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "ZOMBIFIED",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 198665,
+      "name": "Hunting Season",
+      "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 182243,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Wake Up Dead",
         "url": "https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre"
@@ -33,75 +165,7 @@
       "url": "https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "So Called Life",
-        "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 206276,
-      "name": "So Called Life",
-      "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Like A Villain",
-        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Cyberhex",
-        "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Lindsay Schoolcraft",
-          "url": "https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ"
-        }
-      ],
-      "duration_ms": 275247,
-      "name": "Cyberhex",
-      "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "ZOMBIFIED",
-        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "ZOMBIFIED",
-      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "IMPERA",
         "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
@@ -117,7 +181,7 @@
       "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
@@ -137,7 +201,7 @@
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
@@ -153,7 +217,7 @@
       "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
@@ -169,23 +233,7 @@
       "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "CHAOS",
-        "url": "https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 182243,
-      "name": "CHAOS",
-      "url": "https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Never Gonna Learn EP",
         "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
@@ -225,23 +273,7 @@
       "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Hunting Season",
-        "url": "https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "Hunting Season",
-      "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Daggers",
         "url": "https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Stockholm Syndrome",
         "url": "https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x"
@@ -293,23 +325,23 @@
       "url": "https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
-        "name": "Pump It",
-        "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
+        "name": "Loveletting (7\" Cut)",
+        "url": "https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 172758,
-      "name": "Pump It",
-      "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
+      "duration_ms": 235353,
+      "name": "Loveletting - 7\" Cut",
+      "url": "https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "The Steeple",
         "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Only Human (feat. AJ Channer)",
         "url": "https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Neurotic (feat. Lukas Rossi)",
         "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Imaginary Fire",
         "url": "https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "TURN IT UP LIKE (Stand In The Fire)",
         "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
@@ -401,23 +433,23 @@
       "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+        "name": "Manifestations",
+        "url": "https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
         }
       ],
-      "duration_ms": 321708,
-      "name": "Zeit",
-      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
+      "duration_ms": 213287,
+      "name": "From The Fire In You",
+      "url": "https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "COLD BLOOD",
         "url": "https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "False Providence (feat. Mick Gordon)",
         "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
@@ -489,7 +521,23 @@
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
+      "album": {
+        "name": "A Shot in the Dark",
+        "url": "https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 192092,
+      "name": "A Shot in the Dark",
+      "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
+    },
+    {
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Smoke Signals",
         "url": "https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
@@ -521,7 +569,7 @@
       "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Dead Inside (feat. David Draiman of Disturbed)",
         "url": "https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Eulogies",
         "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Put Your Back Into The Oar",
         "url": "https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Death",
         "url": "https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Immutable",
         "url": "https://open.spotify.com/album/1AS4JyVjjOgILIZ7TyhOKZ"
@@ -613,39 +661,27 @@
       "url": "https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
-        "name": "Bullet For My Valentine",
-        "url": "https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k"
+        "name": "Spaceman (feat. FiNCH)",
+        "url": "https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 325600,
-      "name": "Bastards",
-      "url": "https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/6b6ub6gxztDNnzFyQag5sS"
-      },
-      "artists": [
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 186086,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/3VfLjiVTnB7VQnzK0gUr0d"
+      "duration_ms": 190125,
+      "name": "Spaceman (feat. FiNCH)",
+      "url": "https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "I Am Damnation",
         "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
@@ -693,23 +729,7 @@
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Deadman",
-        "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 209828,
-      "name": "Deadman",
-      "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Unconquered",
         "url": "https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Watchtower",
         "url": "https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Somewhere Beyond The Blue",
         "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Where Angels Fear to Fly",
         "url": "https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Secrets Of The American Gods",
         "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Break The Silence",
         "url": "https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Zeal & Ardor",
         "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Calling You",
         "url": "https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "On The Dark Waters",
         "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
@@ -885,23 +905,7 @@
       "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 168913,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Feel What I Believe",
         "url": "https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
@@ -933,7 +937,7 @@
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Guillotine",
         "url": "https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Save Us",
         "url": "https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW"
@@ -965,7 +969,7 @@
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Power of Will",
         "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
@@ -1001,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Doom Crew Inc.",
         "url": "https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4"
@@ -1017,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-04-08 00:00:00",
       "album": {
         "name": "Dystopia (feat. Christoph Wieczorek of Annisokay)",
         "url": "https://open.spotify.com/album/1xiPawOviJPuyqAhBWXYej"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Keith Urban",
+  "description": "The cream of today's Country crop. Cover: Brad Cox",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -468,6 +468,24 @@
     },
     {
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168280,
+      "name": "Denim & Rhinestones",
+      "url": "https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo"
+    },
+    {
+      "album": {
         "name": "Dirt Road Down",
         "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
       },
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 169045,
       "name": "Good One",
       "url": "https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X"
@@ -935,6 +953,24 @@
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
+    },
+    {
+      "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "album": {
@@ -1816,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "This Night Forever",
+        "url": "https://open.spotify.com/album/21uMl1aVKPmDS8ZU5pZBEo"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Fall",
+          "url": "https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "This Night Forever",
+      "url": "https://open.spotify.com/track/1n3xrPkzczwahhYRKLvBRj"
+    },
+    {
+      "album": {
         "name": "This Summer's The One",
         "url": "https://open.spotify.com/album/5FL5wCFvoZUvPYV7Ohgl43"
       },
@@ -1889,6 +1943,24 @@
       "duration_ms": 210810,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv"
+    },
+    {
+      "album": {
+        "name": "What Brought You Back",
+        "url": "https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188491,
+      "name": "What Brought You Back",
+      "url": "https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ"
     },
     {
       "album": {
@@ -2059,6 +2131,42 @@
       "duration_ms": 156893,
       "name": "Y'all Means All - from Season 6 of Queer Eye",
       "url": "https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1"
+    },
+    {
+      "album": {
+        "name": "you and i",
+        "url": "https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E"
+      },
+      "artists": [
+        {
+          "name": "Emmagen Rain",
+          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "you and i",
+      "url": "https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24"
+    },
+    {
+      "album": {
+        "name": "Young Lovers",
+        "url": "https://open.spotify.com/album/4pPOeH8ptXvDiLLohk0c5C"
+      },
+      "artists": [
+        {
+          "name": "Andrew Swift",
+          "url": "https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Young Lovers",
+      "url": "https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ"

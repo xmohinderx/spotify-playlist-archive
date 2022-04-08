@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Lil Tjay, A Boogie Wit da Hoodie, City Girls, and more\. Cover: Dreamville
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,883 likes - 52 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,080 likes - 52 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

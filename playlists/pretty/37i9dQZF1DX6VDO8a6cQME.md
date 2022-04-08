@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The '90s had an amazing soundtrack\. Let's reminisce with these R&B jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,838,686 likes - 45 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,839,488 likes - 45 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 44 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
 | 45 | [It's All About Me](https://open.spotify.com/track/4Wtk0YYWUcx1JYicaq5Jd0) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 4:24 |
 
-Snapshot ID: `MTY0OTI5MzExOCwwMDAwMDAwMDIwY2ViY2NhNjMzYzI5ZWU4NzNiMDkwNzYwNGZhYmQ5`
+Snapshot ID: `MTY0OTM3OTYwMiwwMDAwMDAwMDIwY2ViY2NhNjMzYzI5ZWU4NzNiMDkwNzYwNGZhYmQ5`

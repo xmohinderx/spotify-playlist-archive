@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,501 likes - 98 songs - 5 hr 8 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 31,521 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 14 | [Dream Weaver](https://open.spotify.com/track/4Nejxk0XzGASERAt6N1sFw) | [leftprojects](https://open.spotify.com/artist/4tzBgwJriG1dEMbccffFnH) | [Dream Weaver](https://open.spotify.com/album/4Lfn2XyzSDukx5X4vu5O9L) | 5:31 |
 | 15 | [Your Name](https://open.spotify.com/track/4eYFHZe46TSnsC9YtDsdVc) | [BEACH SCVM](https://open.spotify.com/artist/2JPD7MQeNXhJ8XqGKZgeTf) | [Your Name](https://open.spotify.com/album/12Pc5L2bZjbDqSXLedhz8J) | 2:42 |
 | 16 | [Rockstar](https://open.spotify.com/track/2Ilwkcdd3TQPfWJznf1Mm9) | [Tina Pámpano](https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28), [Funny Rage](https://open.spotify.com/artist/0nnbRnctDmzZK9a0OzYUEq) | [Rockstar](https://open.spotify.com/album/3aLH1VDAvlRBNCEpYBqlDE) | 3:02 |
-| 17 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
+| 17 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
 | 18 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 |
 | 19 | [MI FREAKY](https://open.spotify.com/track/5jf60t5k9u6JRpqGBpDHgN) | [Marigaby](https://open.spotify.com/artist/6T1uXUwkOXS5v70yZduarI), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Da Silva](https://open.spotify.com/artist/6vuVged7VF8wges7fJU2s5) | [MI FREAKY](https://open.spotify.com/album/2TTlE9MgSQV510Fidpdl8b) | 3:08 |
 | 20 | [LUCKY STRIKE](https://open.spotify.com/track/3SaW0rPPGQVf4jwYzEoXIK) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [LUCKY STRIKE](https://open.spotify.com/album/3KmwHCYR22NBPiKp9JulUd) | 2:52 |

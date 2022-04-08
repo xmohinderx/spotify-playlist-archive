@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,329 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,368 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 49 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
 | 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 4:58 |
 
-Snapshot ID: `MTYzOTUwNDAyMSwwMDAwMDAwODAwMDAwMTdkYmEwZTA5NGQwMDAwMDE3ZGJhMGRkMTU5`
+Snapshot ID: `MTY0OTM0OTIxOCwwMDAwMDAwOTAwMDAwMTgwMDRkZmQyODYwMDAwMDE4MDA0ZGY1Mzg3`

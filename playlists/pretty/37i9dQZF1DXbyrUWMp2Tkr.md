@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,308 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,479 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 | 49 | [Through Eyes of Glass](https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 6:24 |
 | 50 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 |
 
-Snapshot ID: `MTY0OTI5MzI4MCwwMDAwMDAwMDVhOGNhMTc2MjNhYjA5ZGM1NjNjZGM0ZDg4OWQzMDU3`
+Snapshot ID: `MTY0OTM3OTc1OCwwMDAwMDAwMDVhOGNhMTc2MjNhYjA5ZGM1NjNjZGM0ZDg4OWQzMDU3`

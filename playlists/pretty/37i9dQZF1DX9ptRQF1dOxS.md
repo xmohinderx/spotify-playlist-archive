@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,200 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,213 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 2 | [Your Mind](https://open.spotify.com/track/1HtQWBViM05CjUOaA4AloV) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Your Mind](https://open.spotify.com/album/3W83hrUuMsRyva2PHUVDGs) | 4:19 |
 | 3 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 |
 | 4 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
-| 5 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
+| 5 | [2NIGHT](https://open.spotify.com/track/0HkBqaSTLUogyeF98VDAl1) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [2NIGHT / GAMES WE PLAY](https://open.spotify.com/album/6Bc7X2d6csfETOdeg9o3o1) | 3:05 |
 | 6 | [Lavender & Red Roses](https://open.spotify.com/track/0lPZumEzxNLBOklVCEyiA4) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lavender & Red Roses](https://open.spotify.com/album/3UIVM6d0j9G2hSi7uBp6d4) | 2:54 |
 | 7 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 8 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 |

@@ -270,6 +270,32 @@
     },
     {
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/58kFj4Po9Ml6IsaptlHM9K"
+      },
+      "artists": [
+        {
+          "name": "Ricky Blaze",
+          "url": "https://open.spotify.com/artist/5WFPVKybSiU6x8HBTACfpr"
+        },
+        {
+          "name": "Alexus Rose",
+          "url": "https://open.spotify.com/artist/3bwrDV53J1QI93OHu3pClk"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203642,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/54ddFMbGCrLfS7nJOE0xbO"
+    },
+    {
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -1967,7 +1993,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
@@ -2247,7 +2273,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -3213,7 +3239,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 219834,
       "name": "Substance",
       "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"

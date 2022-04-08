@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,073 likes - 104 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,064 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 49 | [Last Christmas](https://open.spotify.com/track/0DS5HffF9EGOO7ukXGsDWV) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 4:38 |
 | 50 | [All I Want For Christmas Is You](https://open.spotify.com/track/1iBnuoXZV2dGFl6mRWlZAk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Party!](https://open.spotify.com/album/3kRyhfULYkUMMfZQTqwbtG) | 3:15 |
 | 51 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 |
-| 52 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/638awDN1WEtt5t5erIN5yU) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids Christmas](https://open.spotify.com/album/62F8g6Yj3GHsl6cK8dNnVP) | 2:24 |
+| 52 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/638awDN1WEtt5t5erIN5yU) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids Christmas](https://open.spotify.com/album/62F8g6Yj3GHsl6cK8dNnVP) | 2:24 |
 | 53 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/541mKUH89gViH3rPkSDecP) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:00 |
 | 54 | [We Need Christmas](https://open.spotify.com/track/1pDPciRVBf21B50uILT8yX) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:49 |
 | 55 | [This Christmas \(Hang All the Mistletoe\)](https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:40 |

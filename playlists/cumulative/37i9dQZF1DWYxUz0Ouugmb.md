@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mezzaluna, Shanna Shannon, arash buana, Shakira Jasmine, Idgitaf, Reybong, Warren Hue, raissa anggiani, Jinan Laetitia, noui
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: noui
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Favorite](https://open.spotify.com/track/6Nd7rc30EsFdGrwfeB8N2n) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:25 | 2022-03-24 |  |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 | 2022-03-25 |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 | 2022-03-25 |
+| [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 |  |
 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:21 | 2022-03-24 |  |
 | [Hahaha](https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kumpulan Cerita Pendek](https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge) | 3:16 | 2022-01-27 | 2022-03-25 |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2021-11-25 | 2022-03-25 |

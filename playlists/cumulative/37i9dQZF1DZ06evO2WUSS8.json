@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Houses in Motion",
       "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 348840,
       "name": "Idje Idje",
       "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 193013,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 228640,
       "name": "Mycelium",
       "url": "https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv"
@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "Out Of Africa",
+      "url": "https://open.spotify.com/track/2AsieG1DqPvaWrcDmVeNvz"
+    },
+    {
+      "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
       },
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 207026,
       "name": "Oya Diosa",
       "url": "https://open.spotify.com/track/5W5xwZtuu2pUbBnTSJyTgR"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 248466,
       "name": "The Great Curve",
       "url": "https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 222626,
       "name": "Yaki Yaki",
       "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"

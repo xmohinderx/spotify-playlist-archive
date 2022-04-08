@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/2BQ8Waa8pqvdy1BMNmCqGF"
+      },
+      "artists": [
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234910,
+      "name": "\u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/77r9WAYpt3E8FMFnyVP3we"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d6 \u05d0\u05e0\u05d9 \u05d4\u05d5\u05dc\u05db\u05ea",
         "url": "https://open.spotify.com/album/7tKvAfydF5Lkw7tci3ziqW"
       },

@@ -757,7 +757,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 145474,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 361411,
       "name": "Beautiful And Forgotten",
       "url": "https://open.spotify.com/track/24bIHvdxjF97SjZOhjgh3I"
@@ -3428,6 +3428,24 @@
     },
     {
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/5cJJCynK6z204zTHHUVD8J"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "En Route",
+      "url": "https://open.spotify.com/track/3FTgMfHOZNjSf4phnnkyhm"
+    },
+    {
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/7hbgiDa3wDX1v4Dh8I90h4"
       },
@@ -3529,7 +3547,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 211501,
       "name": "Epsilon",
       "url": "https://open.spotify.com/track/5ts2iiEVxJJOz0WOCBR9GK"

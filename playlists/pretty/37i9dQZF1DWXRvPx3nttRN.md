@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,101 likes - 232 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,228 likes - 232 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [Waiting For Love \- Prinston & Astrid S Acoustic Version](https://open.spotify.com/track/6jMcnR3U9NDwtziD5fmSYY) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jens Siverstedt](https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI) | [Waiting For Love \(Remixes\)](https://open.spotify.com/album/4yjiauN4w1HUe5dmv7An24) | 3:21 |
 | 232 | [Can't Hold Us \- Acoustic](https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Can't Hold Us \(Acoustic\)](https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L) | 3:19 |
 
-Snapshot ID: `MTY0OTI5Mjg0MSwwMDAwMDAwMDkzNWRkZTJjYjA3YTA4NmRhODQyMzM3M2Y1YjQ3MmY3`
+Snapshot ID: `MTY0OTM3OTMzMSwwMDAwMDAwMDkzNWRkZTJjYjA3YTA4NmRhODQyMzM3M2Y1YjQ3MmY3`

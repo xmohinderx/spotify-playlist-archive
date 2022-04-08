@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 
 > The best recent metal tracks\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,474 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,578 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

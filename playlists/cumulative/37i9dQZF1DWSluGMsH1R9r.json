@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 160835,
       "name": "A Recurring Theme",
       "url": "https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb"
@@ -329,6 +329,24 @@
       "duration_ms": 149078,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD"
+      },
+      "artists": [
+        {
+          "name": "Lucie Jean",
+          "url": "https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B"
     },
     {
       "album": {
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 136000,
       "name": "Danderlion",
       "url": "https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 173277,
       "name": "Eclectism",
       "url": "https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR"
@@ -3844,6 +3862,24 @@
     },
     {
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP"
+      },
+      "artists": [
+        {
+          "name": "Stephen Canyons",
+          "url": "https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124765,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx"
+    },
+    {
+      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
@@ -4237,6 +4273,24 @@
       "duration_ms": 173000,
       "name": "Meandering",
       "url": "https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo"
+    },
+    {
+      "album": {
+        "name": "Med lukkede \u00f8yne",
+        "url": "https://open.spotify.com/album/39hfQ5HdJ6I1WL3858QOVr"
+      },
+      "artists": [
+        {
+          "name": "Leah Dreyer",
+          "url": "https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Med lukkede \u00f8yne",
+      "url": "https://open.spotify.com/track/2E7s7HybOzu68ug7gJWeL0"
     },
     {
       "album": {
@@ -5583,10 +5637,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 201124,
       "name": "Quiet Cove",
       "url": "https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND"
+    },
+    {
+      "album": {
+        "name": "Rain In July",
+        "url": "https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp"
+      },
+      "artists": [
+        {
+          "name": "Noah Evans",
+          "url": "https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rain In July",
+      "url": "https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE"
     },
     {
       "album": {
@@ -6526,6 +6598,24 @@
     },
     {
       "album": {
+        "name": "Lavender Dreams",
+        "url": "https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz"
+      },
+      "artists": [
+        {
+          "name": "Lok Hanzo",
+          "url": "https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98078,
+      "name": "Starlight Canyon",
+      "url": "https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6"
+    },
+    {
+      "album": {
         "name": "Still Water",
         "url": "https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu"
       },
@@ -6689,6 +6779,24 @@
       "duration_ms": 142750,
       "name": "Symposium",
       "url": "https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ"
+    },
+    {
+      "album": {
+        "name": "Synchronicities",
+        "url": "https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166749,
+      "name": "Synchronicities",
+      "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"
     },
     {
       "album": {
@@ -7808,6 +7916,42 @@
     },
     {
       "album": {
+        "name": "Waltz in a Dream",
+        "url": "https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149055,
+      "name": "Waltz in a Dream",
+      "url": "https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH"
+    },
+    {
+      "album": {
+        "name": "We Will Last",
+        "url": "https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ"
+      },
+      "artists": [
+        {
+          "name": "Marta Lien",
+          "url": "https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "We Will Last",
+      "url": "https://open.spotify.com/track/37lSjTwceAafdpm011tsGb"
+    },
+    {
+      "album": {
         "name": "Westwood",
         "url": "https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy"
       },
@@ -8017,7 +8161,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-08",
       "duration_ms": 126500,
       "name": "World Of Water",
       "url": "https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3"

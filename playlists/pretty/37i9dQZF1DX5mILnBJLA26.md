@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=pehu9N2ESLaYhtWbxnD6OQ">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,677 likes - 80 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,154 likes - 80 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,121 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=D7iB6dHfQwa8MLdAJWNESQ\" > Elaine </a>",
-  "num_followers": 99133,
+  "num_followers": 99234,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI5MjczOSwwMDAwMDAwMDY1N2E2ZTJhMmQyYzExYjMxZTM0ZGQ4YjMyYzU5NTg2",
+  "snapshot_id": "MTY0OTM3OTIzMSwwMDAwMDAwMDAwOWI4YWJjNWI1MWEwYzc3NTg0MTlhMDhlNzk0MDE5",
   "tracks": [
+    {
+      "added_at": "2021-09-24 05:23:07",
+      "album": {
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
+    {
+      "added_at": "2021-07-09 00:00:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
+    },
+    {
+      "added_at": "2021-08-27 00:00:00",
+      "album": {
+        "name": "Be My Guest",
+        "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 210215,
+      "name": "Be My Guest",
+      "url": "https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa"
+    },
+    {
+      "added_at": "2021-10-08 05:25:26",
+      "album": {
+        "name": "Love Nwantiti (Acoustic Version)",
+        "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 184196,
+      "name": "Love Nwantiti (Acoustic Version)",
+      "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
+    },
+    {
+      "added_at": "2021-09-09 23:00:00",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
+      "added_at": "2021-01-27 19:05:44",
+      "album": {
+        "name": "Ayra Starr",
+        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
+    },
     {
       "added_at": "2022-03-17 23:00:00",
       "album": {
@@ -23,6 +131,102 @@
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+    },
+    {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 197498,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
+    },
+    {
+      "added_at": "2021-02-02 14:30:01",
+      "album": {
+        "name": "Seed",
+        "url": "https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET"
+    },
+    {
+      "added_at": "2021-12-16 23:01:00",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 191544,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Call (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Call (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
+    },
+    {
+      "added_at": "2020-12-04 05:09:43",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2021-02-02 14:31:01",
@@ -43,6 +247,38 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2021-07-01 20:59:00",
+      "album": {
+        "name": "A Side Of Me",
+        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
+    },
+    {
+      "added_at": "2022-04-07 23:00:00",
+      "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
     },
     {
       "added_at": "2021-12-02 23:01:00",
@@ -149,6 +385,26 @@
       "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
     },
     {
+      "added_at": "2021-03-05 07:24:56",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0uPJ8tLFVNO3dUBiOijfZ8"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "duration_ms": 170389,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2ZJj6KjYRpl8oDAdoniXCJ"
+    },
+    {
       "added_at": "2021-08-27 00:00:00",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
@@ -163,6 +419,42 @@
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "My WorlD With U",
+        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
+    },
+    {
+      "added_at": "2021-03-25 22:00:00",
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4"
+      },
+      "artists": [
+        {
+          "name": "Ally Jordan",
+          "url": "https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
     },
     {
       "added_at": "2021-12-02 23:01:00",
@@ -185,6 +477,26 @@
       "url": "https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv"
     },
     {
+      "added_at": "2021-02-12 07:18:58",
+      "album": {
+        "name": "Chinese",
+        "url": "https://open.spotify.com/album/6g0V4asspKqOCxVOYl8NjT"
+      },
+      "artists": [
+        {
+          "name": "OchoForeign",
+          "url": "https://open.spotify.com/artist/4rr4pqnoEJYZSLUSh4S699"
+        },
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 200418,
+      "name": "Chinese",
+      "url": "https://open.spotify.com/track/1UpkXyE8cMfXCq8eEY40BK"
+    },
+    {
       "added_at": "2021-01-07 23:59:00",
       "album": {
         "name": "Antidote (feat. Adekunle Gold)",
@@ -203,26 +515,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "My WorlD With U",
-        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        },
-        {
-          "name": "Landstrip Chip",
-          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -277,22 +569,6 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Boxed Out",
-        "url": "https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mak",
-          "url": "https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg"
-        }
-      ],
-      "duration_ms": 193982,
-      "name": "Validation",
-      "url": "https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok"
-    },
-    {
       "added_at": "2021-07-09 00:00:00",
       "album": {
         "name": "Sinner",
@@ -337,22 +613,6 @@
       "url": "https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41"
     },
     {
-      "added_at": "2021-07-09 00:00:00",
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
-    },
-    {
       "added_at": "2022-03-03 23:00:00",
       "album": {
         "name": "Attention",
@@ -395,22 +655,6 @@
       "duration_ms": 458777,
       "name": "Asibe Happy",
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
-    },
-    {
-      "added_at": "2021-03-25 22:00:00",
-      "album": {
-        "name": "Give Me Love",
-        "url": "https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4"
-      },
-      "artists": [
-        {
-          "name": "Ally Jordan",
-          "url": "https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -587,22 +831,6 @@
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
-    },
-    {
-      "added_at": "2021-02-02 14:30:01",
-      "album": {
-        "name": "Seed",
-        "url": "https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET"
     },
     {
       "added_at": "2021-08-06 08:42:19",
@@ -805,46 +1033,6 @@
       "url": "https://open.spotify.com/track/5RFUao2hVBqb7PT6Mag63z"
     },
     {
-      "added_at": "2021-01-27 19:05:44",
-      "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
-    },
-    {
-      "added_at": "2021-09-24 05:23:07",
-      "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
-      },
-      "artists": [
-        {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
-    },
-    {
       "added_at": "2022-02-03 23:02:00",
       "album": {
         "name": "Afraid to Lose You",
@@ -859,26 +1047,6 @@
       "duration_ms": 207446,
       "name": "Afraid to Lose You",
       "url": "https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8"
-    },
-    {
-      "added_at": "2021-03-05 07:24:56",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/0uPJ8tLFVNO3dUBiOijfZ8"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        }
-      ],
-      "duration_ms": 170389,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2ZJj6KjYRpl8oDAdoniXCJ"
     },
     {
       "added_at": "2021-12-16 23:01:00",
@@ -925,50 +1093,6 @@
       "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
     },
     {
-      "added_at": "2021-02-12 07:18:58",
-      "album": {
-        "name": "Chinese",
-        "url": "https://open.spotify.com/album/6g0V4asspKqOCxVOYl8NjT"
-      },
-      "artists": [
-        {
-          "name": "OchoForeign",
-          "url": "https://open.spotify.com/artist/4rr4pqnoEJYZSLUSh4S699"
-        },
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 200418,
-      "name": "Chinese",
-      "url": "https://open.spotify.com/track/1UpkXyE8cMfXCq8eEY40BK"
-    },
-    {
-      "added_at": "2021-12-16 23:01:00",
-      "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
-      },
-      "artists": [
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
-        },
-        {
-          "name": "chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 191544,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
-    },
-    {
       "added_at": "2022-01-20 23:00:00",
       "album": {
         "name": "Riddim 5",
@@ -999,26 +1123,6 @@
       "duration_ms": 162857,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Call (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Call (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
     },
     {
       "added_at": "2022-02-03 23:02:00",
@@ -1055,74 +1159,6 @@
       "duration_ms": 192596,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
-    },
-    {
-      "added_at": "2021-09-09 23:00:00",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2021-10-08 05:25:26",
-      "album": {
-        "name": "Love Nwantiti (Acoustic Version)",
-        "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 184196,
-      "name": "Love Nwantiti (Acoustic Version)",
-      "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
-    },
-    {
-      "added_at": "2021-07-01 20:59:00",
-      "album": {
-        "name": "A Side Of Me",
-        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
-    },
-    {
-      "added_at": "2021-08-27 00:00:00",
-      "album": {
-        "name": "Be My Guest",
-        "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 210215,
-      "name": "Be My Guest",
-      "url": "https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -1177,22 +1213,6 @@
       "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     },
     {
-      "added_at": "2022-01-20 23:00:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 197498,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
-    },
-    {
       "added_at": "2021-11-04 23:01:00",
       "album": {
         "name": "Was It Something I Said?",
@@ -1227,26 +1247,6 @@
       "duration_ms": 137368,
       "name": "Aibu",
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
-    },
-    {
-      "added_at": "2020-12-04 05:09:43",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2021-10-08 05:25:26",

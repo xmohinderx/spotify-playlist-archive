@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,860 likes - 105 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 105 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

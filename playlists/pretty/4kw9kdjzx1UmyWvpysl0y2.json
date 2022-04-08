@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128441,
+  "num_followers": 128435,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMzNixmMGU0ZDM5NzJlM2MyNDUxNjlmNWY5YWE3YzZjYzJmYmQ2ZDc4ZjU3",
+  "snapshot_id": "MzMzOSwzNmIwNzdkOGIyNzZiODlmMGJlZjhmNGIwNzdjNTMzMzVlMjZiMWU5",
   "tracks": [
+    {
+      "added_at": "2022-04-07 16:14:08",
+      "album": {
+        "name": "FUNNYFACE",
+        "url": "https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "duration_ms": 185378,
+      "name": "FUNNYFACE",
+      "url": "https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba"
+    },
     {
       "added_at": "2022-04-06 16:23:12",
       "album": {
@@ -1111,42 +1127,6 @@
       "duration_ms": 179820,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Unfinished",
-        "url": "https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "Lumynesynth",
-          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Unfinished",
-      "url": "https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Shadowblade",
-        "url": "https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz"
-      },
-      "artists": [
-        {
-          "name": "Caster",
-          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
-        }
-      ],
-      "duration_ms": 255766,
-      "name": "Shadowblade",
-      "url": "https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

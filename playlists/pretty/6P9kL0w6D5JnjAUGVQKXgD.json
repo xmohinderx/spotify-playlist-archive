@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Dimitri Vegas, Like Mike, Kim Loaiza, Azteck",
-  "num_followers": 48520,
+  "num_followers": 48519,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTE4NCwzOWExODE4YzNiZTU2NTdhYmU5Mzk0NzYxZGQwMWZlYTE4YTIzZjM0",
+  "snapshot_id": "MTE4NSwyYmJjYWZiZWJmZTBiODBlNjhhN2FiMTM2ZGYwZjZlMGYzOGMwZWYz",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
     },
     {
+      "added_at": "2022-04-07 18:28:03",
+      "album": {
+        "name": "First Girl On The Moon",
+        "url": "https://open.spotify.com/album/2aMFJdNMo1l20PdOWRhx5h"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "First Girl On The Moon",
+      "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
+    },
+    {
       "added_at": "2022-03-02 15:42:03",
       "album": {
         "name": "Headlights (feat. KIDDO)",
@@ -993,6 +1009,22 @@
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
+      "added_at": "2021-05-13 23:01:06",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
+      },
+      "artists": [
+        {
+          "name": "Allergic",
+          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
+    },
+    {
       "added_at": "2021-08-16 15:42:05",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
@@ -1019,22 +1051,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2021-05-13 23:01:06",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
-      },
-      "artists": [
-        {
-          "name": "Allergic",
-          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
     },
     {
       "added_at": "2021-07-25 08:40:06",
@@ -1161,30 +1177,6 @@
       "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
     },
     {
-      "added_at": "2022-03-06 15:41:03",
-      "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
       "added_at": "2021-05-20 23:01:05",
       "album": {
         "name": "Music Is My Suicide",
@@ -1207,6 +1199,30 @@
       "duration_ms": 156647,
       "name": "Music Is My Suicide",
       "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
+    },
+    {
+      "added_at": "2022-03-06 15:41:03",
+      "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2022-01-25 15:41:02",
@@ -1353,6 +1369,46 @@
       "url": "https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ"
     },
     {
+      "added_at": "2021-06-10 23:01:05",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
+      },
+      "artists": [
+        {
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+        },
+        {
+          "name": "The Crushboys",
+          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
+        }
+      ],
+      "duration_ms": 152245,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
+    },
+    {
+      "added_at": "2022-04-07 18:28:03",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
       "added_at": "2022-04-04 15:44:02",
       "album": {
         "name": "What Would You Do?",
@@ -1377,24 +1433,24 @@
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
-      "added_at": "2021-06-10 23:01:05",
+      "added_at": "2022-04-04 15:44:02",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2NI9Kx9BRxMXAFIrwKK6yr"
       },
       "artists": [
         {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "The Crushboys",
-          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 152245,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/4aA4fWBqWNd77pWvgPsxJS"
     },
     {
       "added_at": "2022-04-05 16:02:02",
@@ -1441,26 +1497,6 @@
       "url": "https://open.spotify.com/track/5PZpXuU8cAXC8743d4B1r3"
     },
     {
-      "added_at": "2022-04-04 15:44:02",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/2NI9Kx9BRxMXAFIrwKK6yr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/4aA4fWBqWNd77pWvgPsxJS"
-    },
-    {
       "added_at": "2022-04-05 16:02:02",
       "album": {
         "name": "Permanence",
@@ -1499,6 +1535,26 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2021-04-08 23:01:07",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
+      },
+      "artists": [
+        {
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+        },
+        {
+          "name": "DVO",
+          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
     },
     {
       "added_at": "2021-10-18 15:41:06",
@@ -1545,26 +1601,6 @@
       "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
     },
     {
-      "added_at": "2021-04-08 23:01:07",
-      "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
-      },
-      "artists": [
-        {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
-        },
-        {
-          "name": "DVO",
-          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
-    },
-    {
       "added_at": "2022-03-17 15:41:03",
       "album": {
         "name": "Stereo Love",
@@ -1583,6 +1619,26 @@
       "duration_ms": 146190,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/4Ef3ODp0REOFXMgDL4S5fM"
+    },
+    {
+      "added_at": "2022-03-24 15:42:03",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2021-11-08 15:41:02",
@@ -1609,62 +1665,6 @@
       "url": "https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6"
     },
     {
-      "added_at": "2021-11-05 15:41:02",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7vik2r7cPNr24ugtZ3KYTj"
-      },
-      "artists": [
-        {
-          "name": "mavzy grx",
-          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
-        }
-      ],
-      "duration_ms": 149523,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/2uhAFOeTwJpRMEKMlqId5L"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Decisions",
@@ -1685,28 +1685,20 @@
       "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
-      "added_at": "2022-01-23 15:43:02",
+      "added_at": "2021-11-05 15:41:02",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7vik2r7cPNr24ugtZ3KYTj"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "mavzy grx",
+          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
         }
       ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+      "duration_ms": 149523,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2uhAFOeTwJpRMEKMlqId5L"
     },
     {
       "added_at": "2021-06-25 17:34:07",
@@ -1753,24 +1745,24 @@
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
-      "added_at": "2021-01-30 23:01:05",
+      "added_at": "2022-03-24 15:42:03",
       "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/1U4L4M5SeW0gUjKvyE94M9"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
       "artists": [
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 157927,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3lDax71SDuJGcFrCyw9qak"
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2021-04-22 23:01:06",
@@ -1795,6 +1787,66 @@
       "duration_ms": 160000,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
+    },
+    {
+      "added_at": "2022-01-23 15:43:02",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2021-01-30 23:01:05",
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1U4L4M5SeW0gUjKvyE94M9"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3lDax71SDuJGcFrCyw9qak"
+    },
+    {
+      "added_at": "2021-03-05 23:01:05",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
+      },
+      "artists": [
+        {
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
     },
     {
       "added_at": "2021-10-23 15:41:01",
@@ -1833,22 +1885,6 @@
       "url": "https://open.spotify.com/track/4IKa5EKTmhKvV1wuTJf9Eq"
     },
     {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
       "added_at": "2022-03-24 15:42:03",
       "album": {
         "name": "Lasting Lover",
@@ -1867,46 +1903,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2021-05-12 23:01:06",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/7CGYzuw78v8gVvaMyVedPd"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv"
-    },
-    {
-      "added_at": "2022-03-24 15:42:03",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2021-04-29 23:01:06",
@@ -1933,28 +1929,24 @@
       "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
     },
     {
-      "added_at": "2022-04-05 16:02:02",
+      "added_at": "2021-05-12 23:01:06",
       "album": {
-        "name": "Typical (feat. Lars Martin)",
-        "url": "https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/7CGYzuw78v8gVvaMyVedPd"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Lars Martin",
-          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 141312,
-      "name": "Typical (feat. Lars Martin)",
-      "url": "https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd"
+      "duration_ms": 191596,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv"
     },
     {
       "added_at": "2021-05-06 23:01:06",
@@ -2009,40 +2001,40 @@
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
     },
     {
-      "added_at": "2022-04-05 16:02:02",
+      "added_at": "2022-04-07 18:28:03",
       "album": {
-        "name": "Crave The Bassline",
-        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5WiJHK34SXiwH47hk56HGc"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 166962,
-      "name": "Crave The Bassline",
-      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+      "duration_ms": 215640,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3"
     },
     {
-      "added_at": "2022-03-21 15:46:02",
+      "added_at": "2022-03-24 15:42:03",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Used To Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2020-12-16 10:55:04",

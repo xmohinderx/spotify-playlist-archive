@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,627,861 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,630,772 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Crush on You](https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:35 |
 | 100 | [Back That Azz Up](https://open.spotify.com/track/525yPO8r5J6kLostDxm3XK) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Greatest Hits](https://open.spotify.com/album/0UlugUB43h0SKODTgJDc35) | 4:25 |
 
-Snapshot ID: `MTY0OTI5Mjk1MiwwMDAwMDAwMGI1MWExOGQ1YWI3MDBhYmRiMmMwNWE4MTkwMzQ5MzM5`
+Snapshot ID: `MTY0OTM3OTQzOSwwMDAwMDAwMGI1MWExOGQ1YWI3MDBhYmRiMmMwNWE4MTkwMzQ5MzM5`

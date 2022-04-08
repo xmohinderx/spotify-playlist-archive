@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Gryffin, OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,393,828 likes - 96 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,252 likes - 96 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

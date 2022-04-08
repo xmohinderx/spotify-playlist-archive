@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Marian Oviedo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,991 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,013 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
 | 100 | [Las Mexicanas](https://open.spotify.com/track/6bNHCe28nsHobXYTIM1vHd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Las Mexicanas](https://open.spotify.com/album/7JD3x8vLMOIIzruPBVmjgo) | 3:11 |
 
-Snapshot ID: `MTY0OTI5Mjk5OCwwMDAwMDAwMDMwZjY4OTQ4MzZiYTkzMGQzMGMzYzI3OTMyYzNiMDA0`
+Snapshot ID: `MTY0OTM3OTQ4NCwwMDAwMDAwMDMwZjY4OTQ4MzZiYTkzMGQzMGMzYzI3OTMyYzNiMDA0`

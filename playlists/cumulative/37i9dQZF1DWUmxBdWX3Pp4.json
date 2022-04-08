@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Te Explico?",
+        "url": "https://open.spotify.com/album/5LaLUUh2nUdBK8DoNSgX1n"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162056,
+      "name": "C\u00f3mo Te Explico?",
+      "url": "https://open.spotify.com/track/2ouBjgKseCiYoGBAJm3S7B"
+    },
+    {
+      "album": {
         "name": "De Museo",
         "url": "https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,958 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,068 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Sherry](https://open.spotify.com/track/0NpvdCO506uO58D4AbKzki) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 2:32 |
 | 50 | [It's Not Unusual](https://open.spotify.com/track/2LW29dEaw4EWNkHNzRma2O) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [The Best Of ..\. Tom Jones](https://open.spotify.com/album/2RTw7VSbOKkniM20HE2vzJ) | 1:59 |
 
-Snapshot ID: `MTY0OTI5MzE2NCwwMDAwMDAwMDk0MWRmNzkwMDc3OWEyNjc2M2Q1MWFjMGU1Y2Q1NGJm`
+Snapshot ID: `MTY0OTM3OTY0NywwMDAwMDAwMDk0MWRmNzkwMDc3OWEyNjc2M2Q1MWFjMGU1Y2Q1NGJm`

@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "L.A. to Miami",
+        "url": "https://open.spotify.com/album/2KtKTDPHET53VNgccwlYvj"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Miami, My Amy",
+      "url": "https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK"
       },
