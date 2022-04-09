@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,416 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,525 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 99 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 |
 | 100 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 |
 
-Snapshot ID: `MTY0OTM3OTE4NiwwMDAwMDAwMGVlZDllZTQyYWE5NGMyNmQ5MGI1OWM4OTM4ZWYxZTgx`
+Snapshot ID: `MTY0OTQ2NTM1OSwwMDAwMDAwMGVlZDllZTQyYWE5NGMyNmQ5MGI1OWM4OTM4ZWYxZTgx`

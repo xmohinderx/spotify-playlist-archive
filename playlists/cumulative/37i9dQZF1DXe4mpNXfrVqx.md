@@ -2,7 +2,7 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Nathy MC
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Samantha Machado
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [FDP EU TE AMO](https://open.spotify.com/track/7oRU2MX5XxLVe53Zh5uZN5) | [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [BRAZA](https://open.spotify.com/album/0hNutyZHAMMxDZqTskpIOZ) | 2:38 | 2022-03-18 |  |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-18 |  |
 | [Flow Tinashe](https://open.spotify.com/track/3aPYt5NlSKHQ1QoJ8rgfHi) | [Bruna Liz](https://open.spotify.com/artist/1Y4WZDXADQZRLwOopgt37V) | [Flow Tinashe](https://open.spotify.com/album/1EDMseF4GmY9exe5iZU14o) | 2:37 | 2022-03-18 |  |
+| [Fofoqueira](https://open.spotify.com/track/6lEfI6QvsdZyQKhDW9FYmB) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Fofoqueira](https://open.spotify.com/album/6flPMDm8S9h2s3bCMaWA6e) | 2:01 | 2022-04-08 |  |
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 |  |
@@ -65,7 +66,7 @@
 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 | 2022-03-18 |  |
 | [Sem Tempo](https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Sem Tempo](https://open.spotify.com/album/4Av4a7XW2YxfupT4mJDXXh) | 2:44 | 2022-03-18 |  |
 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 | 2022-03-18 |  |
-| [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 |  |
+| [Suíte](https://open.spotify.com/track/2V1OUlByWK0TETvPKjdUqp) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Suíte](https://open.spotify.com/album/2czFe8CEb8GcRnYCiZyHd0) | 2:58 | 2022-03-18 | 2022-04-09 |
 | [Só Mais um Trapper](https://open.spotify.com/track/077llN7tZH947zQPJFAsMJ) | [Donna Forte](https://open.spotify.com/artist/7pFC3Q9kglhwQQ9y5h9utD) | [Só Mais um Trapper](https://open.spotify.com/album/4xFk7SlXHcQYK1muQp4roe) | 2:24 | 2022-03-18 |  |
 | [Só Para Você](https://open.spotify.com/track/7dqHd6Sc9TbRmmSnU7z4Ro) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Só Para Você](https://open.spotify.com/album/78c8qIT7DWLFDGRB7vdU8u) | 2:15 | 2022-03-18 |  |
 | [Só Você](https://open.spotify.com/track/3OPtaoYm5WKIwzpZ5rJKwU) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Aloizio](https://open.spotify.com/artist/5vC11pPaZkV4ydnM4kRo91) | [Nunchi](https://open.spotify.com/album/1Jyyxrx1LEpuPKwf1r2nlx) | 2:50 | 2022-03-18 |  |

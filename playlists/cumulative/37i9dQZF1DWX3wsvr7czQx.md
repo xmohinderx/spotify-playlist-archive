@@ -2,7 +2,7 @@
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
-> Icons only\. Cover: Bryan Adams
+> Icons only\. Cover: Van Morrison
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Five Years](https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Five Years](https://open.spotify.com/album/2LfOEABtSzqIDAFUSUm2m3) | 4:45 | 2021-10-22 |  |
 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 | 2021-11-19 |  |
 | [Get Together](https://open.spotify.com/track/0VOUTJdbl1xUPSp92MtohU) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Get Together](https://open.spotify.com/album/4MlWINtVUMSiJziqDpyvvx) | 4:12 | 2021-10-22 |  |
-| [Hold On](https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Hold On](https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG) | 4:19 | 2021-10-22 |  |
+| [Hold On](https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Hold On](https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG) | 4:19 | 2021-10-22 | 2022-04-09 |
 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 |  |
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 | 2022-01-07 |  |
@@ -45,6 +45,7 @@
 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 |  |
 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 | 2021-10-22 |  |
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |
+| [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2021-10-22 |  |
 | [Scream](https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 2:11 | 2021-10-22 | 2022-02-12 |

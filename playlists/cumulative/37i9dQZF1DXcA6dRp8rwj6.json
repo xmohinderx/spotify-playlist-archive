@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 132400,
       "name": "Blicky",
       "url": "https://open.spotify.com/track/6M1aWKsChPUlqmFp8SFClk"
@@ -3302,6 +3302,28 @@
     },
     {
       "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179674,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "album": {
         "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
         "url": "https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq"
       },
@@ -3325,6 +3347,24 @@
       "duration_ms": 182491,
       "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135929,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
     },
     {
       "album": {
@@ -7042,7 +7082,7 @@
         },
         {
           "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "url": "https://open.spotify.com/artist/153WVZF82FEDLgoWCfKkmo"
         },
         {
           "name": "Lilkvffs",

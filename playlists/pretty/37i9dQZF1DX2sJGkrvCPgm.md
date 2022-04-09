@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,254 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,261 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [He Comes](https://open.spotify.com/track/0lYkt2IT6tsgccbVjKXTOf) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Advent Songs](https://open.spotify.com/album/0q3YflR2DQiPytrpHx7lAA) | 4:31 |
 | 100 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 |
 
-Snapshot ID: `MTY0OTM3OTQ5MCwwMDAwMDAwMDQ2NGJmMmMyNjc2NTVlMWJjODFkNGMyYjhjYmZiNzQ2`
+Snapshot ID: `MTY0OTQ2NTY2NywwMDAwMDAwMDQ2NGJmMmMyNjc2NTVlMWJjODFkNGMyYjhjYmZiNzQ2`

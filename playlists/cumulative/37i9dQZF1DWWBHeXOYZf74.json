@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Totally Enormous Extinct Dinosaurs",
+  "description": "Genre-less. Quality first always. Cover: Vince Staples",
   "name": "POLLEN",
   "published_playlist_ids": [
     "0satjjBJ2wfilttyMYfCS7"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 203840,
       "name": "anotherlife",
       "url": "https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR"
@@ -2572,6 +2572,28 @@
     },
     {
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213232,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1"
+    },
+    {
+      "album": {
         "name": "FOTO",
         "url": "https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A"
       },
@@ -3285,7 +3307,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
@@ -4141,7 +4163,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 233651,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW"
@@ -4213,7 +4235,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 144584,
       "name": "Brewster",
       "url": "https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s"
@@ -6803,7 +6825,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 199339,
       "name": "Dear Fear",
       "url": "https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT"
@@ -7275,7 +7297,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 165187,
       "name": "diving board",
       "url": "https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1"
@@ -7693,6 +7715,24 @@
       "duration_ms": 172000,
       "name": "dork",
       "url": "https://open.spotify.com/track/2jLSVy4c3jUqA9y55PrARJ"
+    },
+    {
+      "album": {
+        "name": "double standard",
+        "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "double standard",
+      "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
     },
     {
       "album": {
@@ -8797,7 +8837,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 161471,
       "name": "EXPIRATION DATE",
       "url": "https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9"
@@ -11052,6 +11092,24 @@
     },
     {
       "album": {
+        "name": "Grammar",
+        "url": "https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461538,
+      "name": "Grammar",
+      "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
+    },
+    {
+      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -11306,6 +11364,24 @@
     },
     {
       "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
+    },
+    {
+      "album": {
         "name": "Gutter! (feat. WARA)",
         "url": "https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve"
       },
@@ -11453,7 +11529,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 313906,
       "name": "Hard Drive Gold - Maya Jane Coles Remix",
       "url": "https://open.spotify.com/track/02MILoESiCZEnbJ6mPiMsG"
@@ -11713,7 +11789,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 179439,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
@@ -12395,6 +12471,24 @@
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "album": {
+        "name": "DREAM SOUP",
+        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206370,
+      "name": "Human Shape",
+      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
     },
     {
       "album": {
@@ -13419,7 +13513,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 205026,
       "name": "In-between and Overseas",
       "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
@@ -15158,6 +15252,28 @@
     },
     {
       "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179674,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "album": {
         "name": "A PawPaw Rod EP",
         "url": "https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH"
       },
@@ -15909,7 +16025,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168944,
       "name": "Look What We Do",
       "url": "https://open.spotify.com/track/63RWcevgfeFOhSQK9yXiY7"
@@ -19066,6 +19182,28 @@
     },
     {
       "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "album": {
         "name": "Out The Window",
         "url": "https://open.spotify.com/album/0evUdm79s2PhPpfM82QVlm"
       },
@@ -19685,6 +19823,24 @@
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "album": {
@@ -20941,7 +21097,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 146331,
       "name": "Really, Really",
       "url": "https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT"
@@ -22197,7 +22353,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 272898,
       "name": "Satellite Space Age Edition (feat. Louis Cole & Genevieve Artadi) [from Insecure: Music From The HBO Original Series, Season 5]",
       "url": "https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf"
@@ -22255,6 +22411,24 @@
       "duration_ms": 208740,
       "name": "Savage Nomad",
       "url": "https://open.spotify.com/track/08VqVNSBQNzYzRDNhEoOav"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198243,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf"
     },
     {
       "album": {
@@ -24743,6 +24917,24 @@
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
+    },
+    {
+      "album": {
+        "name": "Taco",
+        "url": "https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "Taco",
+      "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
     },
     {
       "album": {

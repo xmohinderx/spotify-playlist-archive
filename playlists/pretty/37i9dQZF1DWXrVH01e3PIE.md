@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > La casa del Trap de Argentino\. Foto: John C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,555 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,585 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 9 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 |
 | 10 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 |
 | 11 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 |
-| 12 | [Roma](https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [R.J.Ä](https://open.spotify.com/artist/3Q8bocv6goyDOaHXauuYp8) | [Roma](https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt) | 3:30 |
+| 12 | [Roma](https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [R.J.Ä](https://open.spotify.com/artist/3Q8bocv6goyDOaHXauuYp8), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Roma](https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt) | 3:30 |
 | 13 | [DEMASIADO ACÁ](https://open.spotify.com/track/7m3Xelht46B638RTXA9GGQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [DEMASIADO ACÁ](https://open.spotify.com/album/3fJn9ymxRpel8WNvRwjOwV) | 2:10 |
 | 14 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 |
 | 15 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 |

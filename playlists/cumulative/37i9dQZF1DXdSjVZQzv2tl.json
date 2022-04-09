@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3ximo Passo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "Felicidade Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd"
+    },
+    {
+      "album": {
         "name": "Falando de Amor, Vol. 1",
         "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192725,
       "name": "Ficha Limpa",
       "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
@@ -731,6 +749,24 @@
       "duration_ms": 158716,
       "name": "Melhor Ser uma Saudade",
       "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical (Ao Vivo / Vol. 6)",
+        "url": "https://open.spotify.com/album/5Z5Y76DPTwvgg02i4gS6OT"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183382,
+      "name": "Minha C\u00f3pia Atual - Ao Vivo",
+      "url": "https://open.spotify.com/track/4HpRywZJgzkXXYLKJ0mLiY"
     },
     {
       "album": {
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 165380,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"

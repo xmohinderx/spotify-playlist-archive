@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,339 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,367 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 89 | [My Kinda Party](https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:44 |
 | 90 | [Ready Set Roll](https://open.spotify.com/track/3rh2f6nqswpfDN3Ef6Bi5J) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 3:10 |
 
-Snapshot ID: `MTY0OTM3OTMzOCwwMDAwMDAwMDkwNzE5Y2FjY2YzNzU4ZTExM2Y0Y2RkNjFmY2JkYzIy`
+Snapshot ID: `MTY0OTQ2NTUxMywwMDAwMDAwMDkwNzE5Y2FjY2YzNzU4ZTExM2Y0Y2RkNjFmY2JkYzIy`

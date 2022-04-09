@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Trip Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,127 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,138 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [Faithful](https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Faithful](https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu) | 2:41 |
 | 80 | [2022](https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [2022](https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK) | 1:54 |
 
-Snapshot ID: `MTY0OTM3OTc2MSwwMDAwMDAwMGMxMjdhZjQ0M2QxYWM1NjYyYWYwN2JlMGY5NGQxODZm`
+Snapshot ID: `MTY0OTQ2NTk0MywwMDAwMDAwMGMxMjdhZjQ0M2QxYWM1NjYyYWYwN2JlMGY5NGQxODZm`

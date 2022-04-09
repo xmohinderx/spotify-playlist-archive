@@ -135,7 +135,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 179520,
       "name": "August",
       "url": "https://open.spotify.com/track/3ZQ3kDvbNYIZI4uR1qQHII"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 235387,
       "name": "Behaviour",
       "url": "https://open.spotify.com/track/08VUmUWFeWtXjfswYufGXQ"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 288146,
       "name": "Bipolar Rhapsody",
       "url": "https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 147413,
       "name": "Body",
       "url": "https://open.spotify.com/track/656neoAxvwrA9812K99kTO"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192478,
       "name": "Cape Life",
       "url": "https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 153222,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 156666,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 180461,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/5PTaK4FzliDWLnNzdzLbbp"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
@@ -1057,6 +1057,24 @@
       "duration_ms": 183333,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ"
+    },
+    {
+      "album": {
+        "name": "Sunset Visionary, Vol. 2",
+        "url": "https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "FWM2",
+      "url": "https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v"
     },
     {
       "album": {
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9"
@@ -1141,6 +1159,24 @@
       "duration_ms": 169285,
       "name": "Going Ghost",
       "url": "https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS"
+    },
+    {
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     },
     {
       "album": {
@@ -1195,6 +1231,24 @@
       "duration_ms": 186277,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2"
+    },
+    {
+      "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
     },
     {
       "album": {
@@ -1257,7 +1311,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 240000,
       "name": "Heavenly Side",
       "url": "https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ"
@@ -1467,7 +1521,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 156478,
       "name": "Lemonhaze",
       "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
@@ -1485,10 +1539,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190626,
       "name": "let me breathe",
       "url": "https://open.spotify.com/track/1dImOLdm6XxDQIRunSIAtG"
+    },
+    {
+      "album": {
+        "name": "lifeline",
+        "url": "https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165206,
+      "name": "lifeline",
+      "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
     },
     {
       "album": {
@@ -1979,10 +2051,36 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 220000,
       "name": "Pigs In The Sky VIP (feat. Arrested Youth)",
       "url": "https://open.spotify.com/track/0fgtqm5zqLoIaE83j6pqnx"
+    },
+    {
+      "album": {
+        "name": "Post Punk (feat. Iggy Pop)",
+        "url": "https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+        },
+        {
+          "name": "Hyper",
+          "url": "https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275966,
+      "name": "Post Punk (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK"
     },
     {
       "album": {
@@ -2077,7 +2175,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
@@ -2135,7 +2233,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190819,
       "name": "S.O.A.G.",
       "url": "https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz"
@@ -2273,7 +2371,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168253,
       "name": "Slow Heart (PVRIS Remix)",
       "url": "https://open.spotify.com/track/10yj5ZXNfYU44CtXcq8AVK"
@@ -2291,7 +2389,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 267986,
       "name": "Smoke Hole",
       "url": "https://open.spotify.com/track/66y3v3HpE6kjIo7k2UnwDd"
@@ -2423,7 +2521,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 166389,
       "name": "Take Me Instead",
       "url": "https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4"
@@ -2448,6 +2546,24 @@
     },
     {
       "album": {
+        "name": "Tell Me The Truth",
+        "url": "https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242349,
+      "name": "Tell Me The Truth",
+      "url": "https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg"
+    },
+    {
+      "album": {
         "name": "ANARCHY",
         "url": "https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf"
       },
@@ -2459,10 +2575,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 152900,
       "name": "That Bitch",
       "url": "https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0"
+    },
+    {
+      "album": {
+        "name": "LORE, Vol. 1",
+        "url": "https://open.spotify.com/album/6w0mJbm5Pil6u3JWvosuMH"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "THE DETECTIVE V2",
+      "url": "https://open.spotify.com/track/3Pm6YBsjzZIlpRGwg0GFb0"
     },
     {
       "album": {
@@ -2535,7 +2669,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 136066,
       "name": "Time of my Life",
       "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
@@ -2565,6 +2699,24 @@
       "duration_ms": 158464,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"
+    },
+    {
+      "album": {
+        "name": "Volume II",
+        "url": "https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Tramp",
+      "url": "https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG"
     },
     {
       "album": {
@@ -2637,7 +2789,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 219574,
       "name": "Waterproof",
       "url": "https://open.spotify.com/track/6lFdL2AaWZ70APkyCUf19r"

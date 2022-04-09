@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,151 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,315 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [Curse the Weather](https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [DealBreaker](https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX) | 3:43 |
 | 50 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
 
-Snapshot ID: `MTY0OTM3OTc0MSwwMDAwMDAwMDA3MmMzZjQzNTkzYTc3ZTE1OThmYzNjZjQyYWQ3Mjg1`
+Snapshot ID: `MTY0OTQ2NTkyMiwwMDAwMDAwMDA3MmMzZjQzNTkzYTc3ZTE1OThmYzNjZjQyYWQ3Mjg1`

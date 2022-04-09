@@ -2,7 +2,7 @@
 
 ### [Sonic Artefacts](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
-> The beauty lo\-fi ambience record and manipulated on tape.
+> The harmony between beautiful Ambient and tape manipulation.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

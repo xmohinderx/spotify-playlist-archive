@@ -1,12 +1,12 @@
 {
-  "description": "The soundtrack to the Internet. Cover: Yeat",
-  "num_followers": null,
+  "description": "The soundtrack to the Internet. Cover: bbno$",
+  "num_followers": 1096230,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI4NDExMiwwMDAwMDJmNDAwMDAwMTgwMDBmZTYwODkwMDAwMDE3ZmRkY2ViYjUz",
+  "snapshot_id": "MTY0OTQ0OTg5MCwwMDAwMDJmNjAwMDAwMTgwMGFkZmY0OTQwMDAwMDE4MDA0NjAwYWUx",
   "tracks": [
     {
       "added_at": "2022-04-01 04:01:00",
@@ -57,6 +57,54 @@
       "url": "https://open.spotify.com/track/6uLimhxMmX7fjn2ZQ16WYk"
     },
     {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "mathematics",
+        "url": "https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "mathematics",
+      "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
+    },
+    {
+      "added_at": "2022-03-04 05:04:00",
+      "album": {
+        "name": "DO IT AGAIN",
+        "url": "https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "DO IT AGAIN",
+      "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
+    },
+    {
+      "added_at": "2022-02-10 16:05:00",
+      "album": {
+        "name": "DIVE IN!",
+        "url": "https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 100517,
+      "name": "DIVE IN!",
+      "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
+    },
+    {
       "added_at": "2022-04-02 19:24:12",
       "album": {
         "name": "Antisocial",
@@ -77,20 +125,24 @@
       "url": "https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8"
     },
     {
-      "added_at": "2022-02-21 19:19:05",
+      "added_at": "2022-04-08 04:05:00",
       "album": {
-        "name": "556 (Green Tip)",
-        "url": "https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h"
+        "name": "556 (Green Tip) (Spotem G-Mix)",
+        "url": "https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v"
       },
       "artists": [
         {
           "name": "iayze",
           "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        },
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
         }
       ],
-      "duration_ms": 117190,
-      "name": "556 (Green Tip)",
-      "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
+      "duration_ms": 172995,
+      "name": "556 (Green Tip) (Spotem G-Mix)",
+      "url": "https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR"
     },
     {
       "added_at": "2022-02-03 00:21:09",
@@ -141,22 +193,6 @@
       "url": "https://open.spotify.com/track/6n6TnyJwc10q07Jer3KILk"
     },
     {
-      "added_at": "2022-03-04 05:04:00",
-      "album": {
-        "name": "DO IT AGAIN",
-        "url": "https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "DO IT AGAIN",
-      "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
-    },
-    {
       "added_at": "2022-04-03 20:52:47",
       "album": {
         "name": "SlimeBall 2",
@@ -175,6 +211,22 @@
       "duration_ms": 227175,
       "name": "EA (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
+    },
+    {
+      "added_at": "2022-04-08 20:31:30",
+      "album": {
+        "name": "Subzero",
+        "url": "https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Subzero",
+      "url": "https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN"
     },
     {
       "added_at": "2022-03-11 00:00:54",
@@ -197,6 +249,22 @@
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
     },
     {
+      "added_at": "2022-03-16 14:34:49",
+      "album": {
+        "name": "Super Urus",
+        "url": "https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Super Urus",
+      "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
+    },
+    {
       "added_at": "2022-03-16 16:30:03",
       "album": {
         "name": "UNDERWATER",
@@ -217,22 +285,6 @@
       "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
     },
     {
-      "added_at": "2022-03-24 18:06:44",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "5% TINT",
-      "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
-    },
-    {
       "added_at": "2022-03-28 17:37:45",
       "album": {
         "name": "IFeelLikeDirt",
@@ -247,22 +299,6 @@
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Rain On You!",
-        "url": "https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 84681,
-      "name": "Rain On You!",
-      "url": "https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7"
     },
     {
       "added_at": "2022-04-02 19:24:12",
@@ -303,8 +339,8 @@
     {
       "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "JELEEL JUICE!",
-        "url": "https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT"
+        "name": "Rain On You!",
+        "url": "https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A"
       },
       "artists": [
         {
@@ -312,9 +348,25 @@
           "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 104427,
-      "name": "JELEEL JUICE!",
-      "url": "https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q"
+      "duration_ms": 84681,
+      "name": "Rain On You!",
+      "url": "https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7"
+    },
+    {
+      "added_at": "2022-03-24 18:06:44",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "5% TINT",
+      "url": "https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -529,22 +581,6 @@
       "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
     },
     {
-      "added_at": "2022-03-16 14:34:49",
-      "album": {
-        "name": "Super Urus",
-        "url": "https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Super Urus",
-      "url": "https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb"
-    },
-    {
       "added_at": "2021-10-01 04:25:03",
       "album": {
         "name": "fafo",
@@ -579,22 +615,6 @@
       "duration_ms": 199111,
       "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI"
-    },
-    {
-      "added_at": "2022-02-10 16:05:00",
-      "album": {
-        "name": "DIVE IN!",
-        "url": "https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 100517,
-      "name": "DIVE IN!",
-      "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
     },
     {
       "added_at": "2022-03-17 19:39:41",
@@ -659,6 +679,22 @@
       "duration_ms": 106536,
       "name": "Yale",
       "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "JELEEL JUICE!",
+        "url": "https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 104427,
+      "name": "JELEEL JUICE!",
+      "url": "https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q"
     },
     {
       "added_at": "2022-03-06 02:24:11",
@@ -779,22 +815,6 @@
       "duration_ms": 115343,
       "name": "Wokeup",
       "url": "https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R"
-    },
-    {
-      "added_at": "2022-03-11 00:00:54",
-      "album": {
-        "name": "Spookie Coochie",
-        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 168620,
-      "name": "Spookie Coochie",
-      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
     },
     {
       "added_at": "2022-03-04 05:04:00",
@@ -1473,42 +1493,6 @@
       "url": "https://open.spotify.com/track/5iDpk9U5ktJY9ML4tJ6uaX"
     },
     {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "bitch im joe biden",
-        "url": "https://open.spotify.com/album/1Kqk8PBnJOv7FgfCer68nH"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 108441,
-      "name": "bitch im joe biden",
-      "url": "https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu"
-    },
-    {
-      "added_at": "2021-11-12 08:05:00",
-      "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
-      },
-      "artists": [
-        {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 136303,
-      "name": "Head$hot! (with Trippie Redd)",
-      "url": "https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP"
-    },
-    {
       "added_at": "2021-12-03 14:21:15",
       "album": {
         "name": "IYKYK",
@@ -1761,38 +1745,6 @@
       "url": "https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK"
     },
     {
-      "added_at": "2021-11-23 16:39:17",
-      "album": {
-        "name": "5 Percent",
-        "url": "https://open.spotify.com/album/1qfeSZwjjTa2pU1zW6Mndk"
-      },
-      "artists": [
-        {
-          "name": "Roddy P",
-          "url": "https://open.spotify.com/artist/1N3U83dsU5JDoKi67D1uZz"
-        }
-      ],
-      "duration_ms": 110090,
-      "name": "5 Percent",
-      "url": "https://open.spotify.com/track/5yRA5qmT2zOP5DTfCONS6Z"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "LOVE BLACK",
-        "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
-      },
-      "artists": [
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 210730,
-      "name": "IDK WHAT TO TELL YOU",
-      "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
-    },
-    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "FOREVER FIGEROA",
@@ -1811,22 +1763,6 @@
       "duration_ms": 176842,
       "name": "Off The Lot (feat. UnoTheActivist)",
       "url": "https://open.spotify.com/track/4hFIAXvcdVRfJQHdxpFofT"
-    },
-    {
-      "added_at": "2021-10-07 15:52:41",
-      "album": {
-        "name": "The Creator",
-        "url": "https://open.spotify.com/album/182T6uQqW6fYIWiMMQjuBk"
-      },
-      "artists": [
-        {
-          "name": "10k.Caash",
-          "url": "https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp"
-        }
-      ],
-      "duration_ms": 121653,
-      "name": "WEST COAST CURE",
-      "url": "https://open.spotify.com/track/0vRa1EzwXx7b56uXsuctFU"
     }
   ],
   "unique_name": "Internet People",

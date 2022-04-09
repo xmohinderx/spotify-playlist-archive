@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,789 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,018 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Oxford Comma](https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 3:15 |
 | 100 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
 
-Snapshot ID: `MTY0OTM3OTQ2OSwwMDAwMDAwMDcwMDk3YzFmZDBlMGQ4NzFiNzVhYzMzNGE1NmQ3ZDA1`
+Snapshot ID: `MTY0OTQ2NTY0NSwwMDAwMDAwMDcwMDk3YzFmZDBlMGQ4NzFiNzVhYzMzNGE1NmQ3ZDA1`

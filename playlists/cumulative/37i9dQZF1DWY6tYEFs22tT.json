@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New music from Pengz, Dreamville, and Lil Tjay is here!",
+  "description": "New music from Fivio Foreign, Lil Baby, Pusha-T and Coi Leray is here!",
   "name": "Hip-Hop Central",
   "published_playlist_ids": [
     "524c90ob7nnH5efTtaRnrW"
@@ -201,6 +201,36 @@
       "duration_ms": 130869,
       "name": "Ain't It A Flex",
       "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t No Fun",
+        "url": "https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147204,
+      "name": "Ain\u2019t No Fun",
+      "url": "https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP"
     },
     {
       "album": {
@@ -495,7 +525,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
@@ -703,6 +733,32 @@
       "duration_ms": 158420,
       "name": "Champions (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6MBBMgzOJjVsBuhZglGJXw"
+    },
+    {
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241643,
+      "name": "Changed On Me (feat. Vory & Polo G)",
+      "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
     },
     {
       "album": {
@@ -1354,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "album": {
         "name": "Colors (Deluxe)",
         "url": "https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt"
       },
@@ -1599,7 +1673,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192000,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/3L8ZXzjAUHwsJg3OCETX2Z"
@@ -1749,7 +1823,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 203340,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/6gnDtJqX8ue57HrTBlpGk0"
@@ -2091,7 +2165,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 155866,
       "name": "Iced Out Necklace",
       "url": "https://open.spotify.com/track/4gHV947Q9UAUse8jl8agb6"
@@ -2244,6 +2318,46 @@
     },
     {
       "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179674,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "album": {
         "name": "LEVELS",
         "url": "https://open.spotify.com/album/5zMY9dBNuoHLWsxtCdSEZj"
       },
@@ -2284,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135929,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
+    },
+    {
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
       },
@@ -2295,7 +2427,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168224,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
@@ -2672,6 +2804,32 @@
     },
     {
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "Mountains (with Fivio Foreign & Yung M.A)",
+      "url": "https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l"
+    },
+    {
+      "album": {
         "name": "Murder Music",
         "url": "https://open.spotify.com/album/7An2d6hIBTIisD0WRyr7No"
       },
@@ -2735,6 +2893,32 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "album": {
+        "name": "Neck & Wrist",
+        "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209314,
+      "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
+      "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
     },
     {
       "album": {
@@ -2803,7 +2987,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168666,
       "name": "No Effort",
       "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
@@ -3444,6 +3628,24 @@
     },
     {
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "album": {
         "name": "Rocc Climbing (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7"
       },
@@ -3517,7 +3719,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
@@ -3679,6 +3881,24 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
+        "name": "Soccer Dad",
+        "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Soccer Dad",
+      "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
     },
     {
       "album": {
@@ -3869,6 +4089,24 @@
       "duration_ms": 178413,
       "name": "Straight To It (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
+    },
+    {
+      "album": {
+        "name": "Subzero",
+        "url": "https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Subzero",
+      "url": "https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN"
     },
     {
       "album": {

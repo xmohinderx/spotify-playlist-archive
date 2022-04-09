@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,447 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,541 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 47 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
 | 48 | [Rockstar](https://open.spotify.com/track/3F932JvnxZiSXwwIXq6fFC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rockstar](https://open.spotify.com/album/1LBqAaRlyxRmMK3jsHU5If) | 3:56 |
 
-Snapshot ID: `Mjc0ODg5NzIsMDAwMDAwMDAzZjZkZDY1MTQ3NTk4NGQxNGY5YWJiMGFjMDMxZjUxOQ==`
+Snapshot ID: `Mjc0OTA0NDMsMDAwMDAwMDAxMzIxMjUzZDI5YWZiYmFlYmRhNzE3YzgzMWRkMTAwYw==`

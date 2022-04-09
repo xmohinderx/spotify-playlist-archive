@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Sun Up to Sundown",
+        "url": "https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym"
+      },
+      "artists": [
+        {
+          "name": "Angie K",
+          "url": "https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186494,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT"
+    },
+    {
+      "album": {
         "name": "Friends in Low Places",
         "url": "https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv"
       },
@@ -1463,6 +1481,24 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Amarte (I Want It All - Spanish Version)",
+        "url": "https://open.spotify.com/album/0R1HKdM5CJp45q9FnwlIm9"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201273,
+      "name": "Yo Quiero Amarte - I Want It All - Spanish Version",
+      "url": "https://open.spotify.com/track/3N6ElyqsYqDd85wWdMd1gX"
     },
     {
       "album": {

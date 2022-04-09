@@ -1,13 +1,53 @@
 {
-  "description": "Proudly marching to the beat of their own drum. Cover: Busty & the Bass",
-  "num_followers": 124759,
+  "description": "Proudly marching to the beat of their own drum. Cover: Prince Innocence",
+  "num_followers": 124808,
   "original_name": "Outliers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTE3MDg5OCwwMDAwMDJkYTAwMDAwMTdmZmEzZWRlMjgwMDAwMDE3ZmMyZTgyYzdl",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDJkYjAwMDAwMTgwMDc1NDMyYmEwMDAwMDE4MDA2MjhiZWM1",
   "tracks": [
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Forever & Ever",
+        "url": "https://open.spotify.com/album/2HswSRDbq4DwmrxopZk9F2"
+      },
+      "artists": [
+        {
+          "name": "Prince Innocence",
+          "url": "https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV"
+        }
+      ],
+      "duration_ms": 276195,
+      "name": "Forever & Ever",
+      "url": "https://open.spotify.com/track/2nhcQ4E3o9BAdx6oc4q2nA"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Our World",
+        "url": "https://open.spotify.com/album/3K9XyoRSNqgFkksxKLxycX"
+      },
+      "artists": [
+        {
+          "name": "Bodysync",
+          "url": "https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Giraffage",
+          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Our World",
+      "url": "https://open.spotify.com/track/1XwN7nOPkZpH1ScNWDAQZz"
+    },
     {
       "added_at": "2022-03-25 16:18:25",
       "album": {
@@ -97,6 +137,22 @@
       "url": "https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "double standard",
+        "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "double standard",
+      "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
       "added_at": "2022-03-25 16:18:25",
       "album": {
         "name": "Outta This World",
@@ -131,6 +187,26 @@
       "duration_ms": 286133,
       "name": "Blood In The Snow",
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 213232,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1"
     },
     {
       "added_at": "2022-03-25 16:18:25",
@@ -171,22 +247,6 @@
     {
       "added_at": "2022-03-25 16:18:25",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-03-25 16:18:25",
-      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -219,6 +279,22 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Bach To The Future",
+        "url": "https://open.spotify.com/album/07yiAwV5iuadm9PdRv44sw"
+      },
+      "artists": [
+        {
+          "name": "Kyla Charter",
+          "url": "https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9"
+        }
+      ],
+      "duration_ms": 161522,
+      "name": "Bach To The Future",
+      "url": "https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR"
     },
     {
       "added_at": "2022-03-25 16:18:25",
@@ -293,6 +369,22 @@
       "url": "https://open.spotify.com/track/5I73WkfhuOvavHVYk3TGrm"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
       "added_at": "2022-03-25 16:18:25",
       "album": {
         "name": "333 (Deluxe)",
@@ -365,6 +457,26 @@
       "url": "https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "JUICE",
+        "url": "https://open.spotify.com/album/4YH7LDtcPK6K69yY1nPrbh"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 116324,
+      "name": "JUICE",
+      "url": "https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv"
+    },
+    {
       "added_at": "2022-03-25 16:18:25",
       "album": {
         "name": "A PawPaw Rod EP",
@@ -433,24 +545,20 @@
       "url": "https://open.spotify.com/track/284dZP2uHiNlX2NitwREww"
     },
     {
-      "added_at": "2022-04-01 17:27:29",
+      "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "Demon Mode",
-        "url": "https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D"
+        "name": "Poppyseed",
+        "url": "https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn"
       },
       "artists": [
         {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
         }
       ],
-      "duration_ms": 198193,
-      "name": "Demon Mode",
-      "url": "https://open.spotify.com/track/6cCJGSDSgYBxU9xPULz3fS"
+      "duration_ms": 259183,
+      "name": "Poppyseed",
+      "url": "https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE"
     },
     {
       "added_at": "2022-03-25 16:18:25",
@@ -581,6 +689,22 @@
       "url": "https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "TT Cobra",
+        "url": "https://open.spotify.com/album/5kRHghr6UXPuay0isNtljg"
+      },
+      "artists": [
+        {
+          "name": "Teria Morada",
+          "url": "https://open.spotify.com/artist/0VEkyYlmUrNUfaQsVCenZ5"
+        }
+      ],
+      "duration_ms": 173297,
+      "name": "TT Cobra",
+      "url": "https://open.spotify.com/track/2PYrGszDlGNHDJdledVUxZ"
+    },
+    {
       "added_at": "2022-03-25 16:18:25",
       "album": {
         "name": "Your Love",
@@ -669,6 +793,22 @@
       "url": "https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "UNCLEAR",
+        "url": "https://open.spotify.com/album/0jOGBg5KR2dPGuo0nITfS0"
+      },
+      "artists": [
+        {
+          "name": "NLN",
+          "url": "https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW"
+        }
+      ],
+      "duration_ms": 127637,
+      "name": "UNCLEAR",
+      "url": "https://open.spotify.com/track/4bs78Oz3BO0cTkEoQZiqwS"
+    },
+    {
       "added_at": "2022-03-25 16:18:25",
       "album": {
         "name": "Rot",
@@ -735,6 +875,22 @@
       "duration_ms": 130560,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Blue World",
+        "url": "https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM"
+      },
+      "artists": [
+        {
+          "name": "Jesse Mac Cormack",
+          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
+        }
+      ],
+      "duration_ms": 281123,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq"
     },
     {
       "added_at": "2022-03-25 16:18:25",
@@ -839,6 +995,26 @@
       "duration_ms": 172800,
       "name": "Original Classic (Byron The Aquarius Remix)",
       "url": "https://open.spotify.com/track/7InCGnTDBzpjvN1nCxiFws"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Digital Damage",
+        "url": "https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 149209,
+      "name": "Digital Damage",
+      "url": "https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7"
     },
     {
       "added_at": "2022-04-01 17:27:29",
@@ -1163,22 +1339,6 @@
     {
       "added_at": "2022-03-25 16:18:25",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
-      },
-      "artists": [
-        {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
-        }
-      ],
-      "duration_ms": 218027,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
-    },
-    {
-      "added_at": "2022-03-25 16:18:25",
-      "album": {
         "name": "all will be well",
         "url": "https://open.spotify.com/album/1bnuqw7lokUgOfybpKHVdZ"
       },
@@ -1255,22 +1415,6 @@
       "duration_ms": 232380,
       "name": "Ninsei",
       "url": "https://open.spotify.com/track/3fjujleoSeT2mEAthHPENC"
-    },
-    {
-      "added_at": "2022-03-25 16:18:25",
-      "album": {
-        "name": "NHFN",
-        "url": "https://open.spotify.com/album/5cSsUduepwm1Ry9nKx9WAA"
-      },
-      "artists": [
-        {
-          "name": "Jesse Mac Cormack",
-          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
-        }
-      ],
-      "duration_ms": 253788,
-      "name": "NHFN",
-      "url": "https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq"
     },
     {
       "added_at": "2022-03-25 16:18:25",

@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "J'ai des doutes",
+        "url": "https://open.spotify.com/album/5WAwZBNajwUdiTkZ9VoHwR"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172340,
+      "name": "J'ai des doutes",
+      "url": "https://open.spotify.com/track/4oPUdGWrRiA56cheYPUQiw"
+    },
+    {
+      "album": {
         "name": "J'ai oubli\u00e9",
         "url": "https://open.spotify.com/album/3jBvP4vX3KB5qyhPWjFzw6"
       },
@@ -3493,6 +3511,24 @@
       "duration_ms": 188440,
       "name": "Verre D'eau",
       "url": "https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz"
+    },
+    {
+      "album": {
+        "name": "FRENCH FRIES",
+        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
+      },
+      "artists": [
+        {
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "WHERE I'M GOING",
+      "url": "https://open.spotify.com/track/573B9CVK8NwRyO23XRrHln"
     },
     {
       "album": {

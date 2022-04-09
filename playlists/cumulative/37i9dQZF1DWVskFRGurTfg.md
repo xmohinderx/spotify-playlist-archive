@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
-> Éxitos urbanos de Latinoamérica, con ROSALÍA en portada.
+> Éxitos urbanos de Latinoamérica: Foto: Quevedo, Duki & De La Ghetto.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-03-11 |  |
 | [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-04 |  |
 | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT) | 2:49 | 2022-02-18 | 2022-03-05 |
-| [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 | 2021-12-17 |  |
+| [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 | 2021-12-17 | 2022-04-09 |
 | [BICI](https://open.spotify.com/track/3TBZtPqL5tuOk5QYH9WvvK) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 4:08 | 2021-12-17 | 2022-02-05 |
 | [Bien Chula](https://open.spotify.com/track/7xrfbORzJICHtRJtNTpkdc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Bien Chula](https://open.spotify.com/album/0Lfi1JYvyfmnet3moWcC10) | 2:52 | 2021-12-17 | 2022-01-29 |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-03-25 |  |
@@ -77,6 +77,7 @@
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-17 |  |
 | [FLEXXX](https://open.spotify.com/track/6kmUiXB20EEru6wn39f2Tw) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:14 | 2022-03-25 |  |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2022-02-04 |  |
+| [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-04-08 |  |
 | [Ganas \- Remix](https://open.spotify.com/track/2gozgdGrgeKxV5ssjzokPo) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ganas \(Remix\)](https://open.spotify.com/album/606mo5NTK2yjOAE1JUiYEF) | 3:28 | 2021-12-17 | 2022-01-22 |
 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 | 2021-12-17 |  |
 | [GUCCI FENDI](https://open.spotify.com/track/30VNqIVJx9ONVBNJorbemZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GUCCI FENDI](https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8) | 2:52 | 2022-03-11 |  |

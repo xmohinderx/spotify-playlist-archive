@@ -678,6 +678,32 @@
     },
     {
       "album": {
+        "name": "Munich Afternoon",
+        "url": "https://open.spotify.com/album/2CjaV6jqeaUFGUhKx6vaoa"
+      },
+      "artists": [
+        {
+          "name": "Nils W\u00fclker",
+          "url": "https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Patrick Hahn",
+          "url": "https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298200,
+      "name": "Munich Afternoon",
+      "url": "https://open.spotify.com/track/1g6WFBWZWcelqtpBoSNagG"
+    },
+    {
+      "album": {
         "name": "Beyond Bach, Other Composers I Adore",
         "url": "https://open.spotify.com/album/2YSxMJokGpKxh9kc4Zj6Ro"
       },

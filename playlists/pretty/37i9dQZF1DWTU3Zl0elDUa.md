@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,520 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,747 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/4KpJWjfmodlhM6XQeoZXBd) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3), [Beatmasters](https://open.spotify.com/artist/3kSxMljyCkYdHrOzmLzQTV) | [Boss Drum](https://open.spotify.com/album/2qqBB0ifiEG4sKnRsJf1Y3) | 6:15 |
 | 60 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 
-Snapshot ID: `MTY0OTM3OTIxMywwMDAwMDAwMGE2MThmYWE3ZTA3ODMxYjRkNThjZDZmNGM5Y2E5NjUz`
+Snapshot ID: `MTY0OTQ2NTM4OCwwMDAwMDAwMGE2MThmYWE3ZTA3ODMxYjRkNThjZDZmNGM5Y2E5NjUz`

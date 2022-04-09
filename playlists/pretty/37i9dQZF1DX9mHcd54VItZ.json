@@ -1,13 +1,29 @@
 {
   "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=TnxF3JSTRx2gX2NV4hpZsA\">Lucy Kruger & The Lost Boys</a>",
-  "num_followers": 10110,
+  "num_followers": 10119,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM2ODc0MCwwMDAwMDJiNzAwMDAwMTgwMDYwOWIwZjIwMDAwMDE4MDA2MDgzZjUy",
+  "snapshot_id": "MTY0OTQwMjQxNCwwMDAwMDJiODAwMDAwMTgwMDgwYjg1NGQwMDAwMDE4MDA2MDgzZjUy",
   "tracks": [
+    {
+      "added_at": "2022-04-08 07:20:14",
+      "album": {
+        "name": "Teen Tapes (For Performing Your Own Stunts)",
+        "url": "https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX"
+    },
     {
       "added_at": "2022-03-31 21:59:00",
       "album": {
@@ -1163,6 +1179,22 @@
       "duration_ms": 175438,
       "name": "Didn't Want To Fall In Love With You - Radio Edit",
       "url": "https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s"
+    },
+    {
+      "added_at": "2022-04-08 07:20:14",
+      "album": {
+        "name": "Autobiography of an Evening",
+        "url": "https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Autobiography of an Evening",
+      "url": "https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX"
     },
     {
       "added_at": "2021-12-09 21:59:00",

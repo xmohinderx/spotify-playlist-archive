@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "20k",
+        "url": "https://open.spotify.com/album/5Mg7iSImJ358j645v2jTKx"
+      },
+      "artists": [
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Ar Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Baby Chief Records",
+          "url": "https://open.spotify.com/artist/1kytZpbYcSINavzrDrfpDd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161797,
+      "name": "20k",
+      "url": "https://open.spotify.com/track/5jQrHKl7ehUznLOjbqQMOl"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/16Uz4XwvDDcdECJB0fDZ7t"
       },
@@ -23,7 +49,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 158797,
       "name": "777",
       "url": "https://open.spotify.com/track/5SDPHUavPTZCIlxtVT9J3R"
@@ -214,6 +240,28 @@
     },
     {
       "album": {
+        "name": "Bobojaco da Oakley",
+        "url": "https://open.spotify.com/album/1XI0vQgvPDAehmgme8B5xV"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Gta Postura",
+          "url": "https://open.spotify.com/artist/7pLnfhfUrLszvHQfQxLoVj"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Bobojaco da Oakley",
+      "url": "https://open.spotify.com/track/3xvWAKFHdMxjKHtIkWxx7Q"
+    },
+    {
+      "album": {
         "name": "Bota Pra Descer",
         "url": "https://open.spotify.com/album/3EcORgncBTSfuFIIJ4XASM"
       },
@@ -229,7 +277,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 197386,
       "name": "Bota Pra Descer",
       "url": "https://open.spotify.com/track/2zxAV2NrrIZwY9tXbnAFyX"
@@ -325,7 +373,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 306822,
       "name": "CAMISETA CARA",
       "url": "https://open.spotify.com/track/1j2ota25fkBJ1pJOjmlqo6"
@@ -454,6 +502,28 @@
     },
     {
       "album": {
+        "name": "Cavalo Branco",
+        "url": "https://open.spotify.com/album/43y3hHbvd7AY0iB416aYRZ"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Cavalo Branco",
+      "url": "https://open.spotify.com/track/2IqLOBSZ9eE0eO9VTuPjwU"
+    },
+    {
+      "album": {
         "name": "Colombinha",
         "url": "https://open.spotify.com/album/0fHNSg02poH27fJrHiWiMU"
       },
@@ -561,7 +631,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 210485,
       "name": "Desce A\u00ed (Flow Drake)",
       "url": "https://open.spotify.com/track/2oRqU8CVBhp8ZAwaikwoCW"
@@ -624,6 +694,32 @@
     },
     {
       "album": {
+        "name": "Dono do Tempo",
+        "url": "https://open.spotify.com/album/0t34IJmpRmUsiSbBwpTNg1"
+      },
+      "artists": [
+        {
+          "name": "Mc King",
+          "url": "https://open.spotify.com/artist/1g2Y9BdMQmy2dp5oLbInjz"
+        },
+        {
+          "name": "KRANIO",
+          "url": "https://open.spotify.com/artist/6J1S0t1vRR7f6wcTWh4Qql"
+        },
+        {
+          "name": "DJ Faveliano",
+          "url": "https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Dono do Tempo",
+      "url": "https://open.spotify.com/track/1XEy922wlmhiOW1TQoW3BZ"
+    },
+    {
+      "album": {
         "name": "Dtml",
         "url": "https://open.spotify.com/album/2cIDEiDekBHyduSkY1UBVX"
       },
@@ -647,6 +743,28 @@
       "duration_ms": 151415,
       "name": "Dtml",
       "url": "https://open.spotify.com/track/5OLrCfwG3L1Xq24FDvIyUV"
+    },
+    {
+      "album": {
+        "name": "Ela Causou",
+        "url": "https://open.spotify.com/album/6EvZHQi8zNQDyCKo2ju5gf"
+      },
+      "artists": [
+        {
+          "name": "Haitam",
+          "url": "https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Ela Causou",
+      "url": "https://open.spotify.com/track/7M1RfNnBhAaDvE3gm0F5FP"
     },
     {
       "album": {
@@ -1099,7 +1217,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 205677,
       "name": "Listerine",
       "url": "https://open.spotify.com/track/47IAJR8Jovtsdi8U417ASQ"
@@ -1191,10 +1309,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 165000,
       "name": "Marcha 2",
       "url": "https://open.spotify.com/track/1p3kWP5QwZ2i3u9qFh2OX1"
+    },
+    {
+      "album": {
+        "name": "Matotodozz",
+        "url": "https://open.spotify.com/album/5majwQOUVaHvNJGlWf3EYA"
+      },
+      "artists": [
+        {
+          "name": "Muzzike",
+          "url": "https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Matotodozz",
+      "url": "https://open.spotify.com/track/7MLSFER4mpArJGDCQGPVBK"
     },
     {
       "album": {
@@ -1269,6 +1405,36 @@
       "duration_ms": 181512,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/2NIwJ0BXryqFfArHKCPiV1"
+    },
+    {
+      "album": {
+        "name": "n\u00e3o mais",
+        "url": "https://open.spotify.com/album/5LXYNQNliYB8Ijp4ZRBgUi"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "Stef",
+          "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
+        },
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Nuno",
+          "url": "https://open.spotify.com/artist/1lg8hQQPsc2Qf4uiVhrqyf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "n\u00e3o mais",
+      "url": "https://open.spotify.com/track/7dSOWUPP9KkixmLRHnmHgL"
     },
     {
       "album": {
@@ -1419,7 +1585,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 191379,
       "name": "Pix",
       "url": "https://open.spotify.com/track/5o9U9ZHY2vKMqG2qIqWD9I"
@@ -1702,6 +1868,32 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/28FU9DxhpBwAy57qZHDWV0"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148289,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6uJG0R5QFvJXbp2KLZrBFy"
+    },
+    {
+      "album": {
         "name": "Senta",
         "url": "https://open.spotify.com/album/5AYk5IV25N14Qj4FUvxuYu"
       },
@@ -1765,7 +1957,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 167542,
       "name": "Sinal de Gang",
       "url": "https://open.spotify.com/track/6fAQBTsa792cNdfyYVhyjS"
@@ -1838,6 +2030,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Melhoria",
+        "url": "https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5"
+      },
+      "artists": [
+        {
+          "name": "YngLu.",
+          "url": "https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH"
+        },
+        {
+          "name": "Tifli",
+          "url": "https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h"
+        },
+        {
+          "name": "Patrickzaun",
+          "url": "https://open.spotify.com/artist/1jwGYSmc5PZibKTO59H17P"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184067,
+      "name": "S\u00f3 Melhoria",
+      "url": "https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU"
+    },
+    {
+      "album": {
         "name": "Taca Fogo",
         "url": "https://open.spotify.com/album/0MVKxVg09UjW1G2Af0A8ZX"
       },
@@ -1865,6 +2083,32 @@
       "duration_ms": 160000,
       "name": "Taca Fogo",
       "url": "https://open.spotify.com/track/6jm4BsS9UK2rCD4yGNHv4O"
+    },
+    {
+      "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/1dc3KZ8GVNuw5jRwXoV3oU"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Johnny Monteiro",
+          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91111,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/1cMiMDKpJRjzDEPROE0TrN"
     },
     {
       "album": {
@@ -1975,7 +2219,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 230869,
       "name": "Vibe Giyu Tomioka",
       "url": "https://open.spotify.com/track/0cGO5hWc20Fl5kdBkl2i6J"
@@ -1997,7 +2241,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 141600,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/7liUN8S1V8h5dTzcuLg69U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdowzKiHFkSQ.md) - [plain]
 
 > Let a guitar put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,879 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,112 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdowzKiHFkSQ.md) - [plain]
 | 83 | [Shambala](https://open.spotify.com/track/4OLBx9wxBXhsZCUZiOXGtq) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [The Best Of 3 Dog Night](https://open.spotify.com/album/0hQ9bcocveWRrJ0Z2TbEa7) | 3:22 |
 | 84 | [Do You Wanna Dance? \- 2001 Remaster](https://open.spotify.com/track/0zEswgpayNg0tlsr2L0q7P) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia](https://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho) | 1:55 |
 | 85 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 |
-| 86 | [The One and Only](https://open.spotify.com/track/69Tyiih00ZZKboHFnXp0VF) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/1u2eOnhJaDlnDJ9ArCFXzC) | 3:43 |
+| 86 | [The One And Only](https://open.spotify.com/track/69Tyiih00ZZKboHFnXp0VF) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/1u2eOnhJaDlnDJ9ArCFXzC) | 3:43 |
 | 87 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
 | 88 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL) | 4:31 |
 | 89 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdowzKiHFkSQ.md) - [plain]
 | 99 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 |
 | 100 | [Radiation Vibe](https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:41 |
 
-Snapshot ID: `MTY0OTM3OTgxNSwwMDAwMDAwMGE4MjBlZTBhNGFlMDQ5NTBmNTM0ZGEzYmUxZmEyZjg5`
+Snapshot ID: `MTY0OTQ2NTk5NCwwMDAwMDAwMGE4MjBlZTBhNGFlMDQ5NTBmNTM0ZGEzYmUxZmEyZjg5`

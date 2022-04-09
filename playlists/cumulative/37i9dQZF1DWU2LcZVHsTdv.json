@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "New Creation (Live)",
+        "url": "https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211190,
+      "name": "Love Is The Reason - Live",
+      "url": "https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN"
+    },
+    {
+      "album": {
         "name": "Made For Me To Love (Demo)",
         "url": "https://open.spotify.com/album/6IVFgta0BGd8IGVwLRPb71"
       },

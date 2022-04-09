@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,798 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,955 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [God Gave Rock N Roll To You \- Live In Virginia Beach / 2004](https://open.spotify.com/track/7yrZLisamI2TPFqeqxFi6C) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Virginia Beach](https://open.spotify.com/album/47LCEebhE6fZYzV1Qchy9x) | 6:37 |
 | 50 | [Domino](https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:00 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDA5N2QwNGI1ZGY4ZGU1YWFjODQzMDIzZDY3ODFjY2QwMg==`
+Snapshot ID: `Mjc0OTA0NDMsMDAwMDAwMDA1Y2NjODU0Y2M0MzA3ZWNkODhjOWI2ZjczZTBmZjI4NA==`

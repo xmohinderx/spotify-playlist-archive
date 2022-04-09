@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank & Luke Titus\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,310 likes - 113 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,376 likes - 113 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 12 | [Joro Timbal](https://open.spotify.com/track/1pn9VU1ThlFyXjzBQAr354) | [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG) | [3rd Element Revisited](https://open.spotify.com/album/2Tz8l7hgQLWZerJZjtMiXT) | 5:53 |
 | 13 | [Lumaby](https://open.spotify.com/track/1GZMQMrRIIvU7Nxqjsa9Ud) | [Mejiwahn](https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj), [hrlum](https://open.spotify.com/artist/1QCUIMMPGwxKs9E3UmY2bL) | [Lumaby](https://open.spotify.com/album/0A6pviKzqkj7KWyKgazqfd) | 2:52 |
 | 14 | [Indigo Bay](https://open.spotify.com/track/2i8W0Qfpf89LyEmY7tMckM) | [Sélène Saint\-Aimé](https://open.spotify.com/artist/5kWK4UGTuzfbsWpOdGnEzs) | [Potomitan](https://open.spotify.com/album/2iXmj7GdBxWJ2xQQkRcmvy) | 6:00 |
-| 15 | [A Thin With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 |
+| 15 | [A Thing With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 |
 | 16 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 |
 | 17 | [Outer Space](https://open.spotify.com/track/4OtOIqwtab8PP0mmmMrA74) | [Peter Somuah](https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU) | [Outer Space](https://open.spotify.com/album/5NhJWX9YURdApPbMR6PBHt) | 6:18 |
 | 18 | [Love Letters to the Other Side](https://open.spotify.com/track/0KZ68203OaPJEMZADqBPJo) | [Bogdan Gumenyuk](https://open.spotify.com/artist/4JPAAu1k2SBRi64Nv2fmVP), [Steve Raegele](https://open.spotify.com/artist/6e1pW2RenuffKHefBdBO5T) | [Love Letters to the Other Side](https://open.spotify.com/album/78AihiuOkps9MERv2lBlGt) | 8:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=QnarUIK5QNWu0In2nJsHvQ"> Ayra Starr </a> and <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=m8dfeDYbSW\-xbWtAIUJejA"> Lojay </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,726 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,765 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 18 | [All I Ever Wanted](https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 |
 | 19 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 |
 | 20 | [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 |
-| 21 | [FEEL A WAY](https://open.spotify.com/track/1GqEu4nDrzncKDnBaf7FKs) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Princess Adjua](https://open.spotify.com/artist/6fpPwaXFCoilQT8lacJcyP) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:35 |
+| 21 | [FEEL A WAY](https://open.spotify.com/track/1GqEu4nDrzncKDnBaf7FKs) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/5rNuB0NDlrwEpYIeDK0AK2) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:35 |
 | 22 | [TDK \(feat\. SirBastien\)](https://open.spotify.com/track/3615rdkHPXPOOs1PFWd2ec) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC) | [Powers Vol\. 2](https://open.spotify.com/album/4ujY9crqPurKAbu3ryYQJD) | 2:43 |
 | 23 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 |
 | 24 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 |

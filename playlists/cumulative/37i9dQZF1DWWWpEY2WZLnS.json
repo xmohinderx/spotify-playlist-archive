@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 201500,
       "name": "4K",
       "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
@@ -201,6 +201,28 @@
       "duration_ms": 168960,
       "name": "Bajo Mundo",
       "url": "https://open.spotify.com/track/75QDxza3YsGW0Aihq1lIdj"
+    },
+    {
+      "album": {
+        "name": "Sabiduria",
+        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe"
     },
     {
       "album": {
@@ -1376,6 +1398,36 @@
     },
     {
       "album": {
+        "name": "Sabiduria",
+        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265297,
+      "name": "Maquina de Dinero",
+      "url": "https://open.spotify.com/track/5kDHjIMgqsaNoQzuvJ2Wbz"
+    },
+    {
+      "album": {
         "name": "Me Quieren Abobiar",
         "url": "https://open.spotify.com/album/6vlGqLulsURF5I3A1YV825"
       },
@@ -1939,7 +1991,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"

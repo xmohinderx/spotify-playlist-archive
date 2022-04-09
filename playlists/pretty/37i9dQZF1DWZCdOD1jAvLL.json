@@ -1,13 +1,29 @@
 {
-  "description": "Ride the bassline. Cover: BLOND:ISH",
-  "num_followers": 156796,
+  "description": "Ride the bassline. Cover: NIIKO X SWAE",
+  "num_followers": 158192,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNzE3NiwwMDAwMDFmNDAwMDAwMTdmZTVjMjE3MmEwMDAwMDE3ZmJmODRmNDky",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDFmNTAwMDAwMTgwMDc1NDMyYmYwMDAwMDE4MDA2NzNmMmRl",
   "tracks": [
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/1fzqZXdmmKi4inSKoDJM5Y"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Pathway",
+      "url": "https://open.spotify.com/track/0au2fnq9tGdAGyNWuthEew"
+    },
     {
       "added_at": "2022-03-25 06:10:05",
       "album": {
@@ -329,6 +345,30 @@
       "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Ininna Tora",
+        "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Mildenhaus",
+          "url": "https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP"
+        }
+      ],
+      "duration_ms": 204598,
+      "name": "Ininna Tora",
+      "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
+    },
+    {
       "added_at": "2022-02-18 18:02:29",
       "album": {
         "name": "Gassed Up",
@@ -407,6 +447,26 @@
       "duration_ms": 202285,
       "name": "Color Of Your Soul",
       "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Never Be Mine",
+        "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        },
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Never Be Mine",
+      "url": "https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -565,6 +625,26 @@
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "JUICE",
+        "url": "https://open.spotify.com/album/4YH7LDtcPK6K69yY1nPrbh"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 116324,
+      "name": "JUICE",
+      "url": "https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv"
+    },
+    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "The Beat Goes",
@@ -703,6 +783,26 @@
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4g4Ud08xXYgLuW3ltAy5X4"
+      },
+      "artists": [
+        {
+          "name": "Smalltown DJs",
+          "url": "https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f"
+        },
+        {
+          "name": "Kid Enigma",
+          "url": "https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE"
+        }
+      ],
+      "duration_ms": 239100,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/12fvR8U0EkokIAybOHUSqh"
     },
     {
       "added_at": "2022-03-18 04:00:00",

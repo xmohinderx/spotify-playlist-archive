@@ -1,13 +1,57 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Chance The Rapper",
-  "num_followers": 1050756,
+  "num_followers": 1051345,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDE5YzAwMDAwMTdmZTM0N2FlYzgwMDAwMDE3ZmRjNjUyZTFi",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDE5ZDAwMDAwMTgwMDc1NDMyZDIwMDAwMDE3ZmRjNjUyZTFi",
   "tracks": [
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 257553,
+      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Johnny P's Caddy",
+        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
     {
       "added_at": "2022-03-25 04:52:36",
       "album": {
@@ -61,6 +105,46 @@
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
     },
     {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "better",
+        "url": "https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "better",
+      "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217855,
+      "name": "EAST POINT PRAYER",
+      "url": "https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf"
+    },
+    {
       "added_at": "2022-03-25 04:52:36",
       "album": {
         "name": "2 P'z In A Pod",
@@ -109,30 +193,6 @@
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 257553,
-      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
-      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
@@ -153,26 +213,6 @@
       "url": "https://open.spotify.com/track/1KsHmftDAysEtLpDK1o6Y9"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Johnny P's Caddy",
-        "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
-    },
-    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Still Here (feat. Cordae)",
@@ -191,26 +231,6 @@
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "better",
-        "url": "https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "better",
-      "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
     },
     {
       "added_at": "2022-01-28 20:27:54",
@@ -303,6 +323,26 @@
       "duration_ms": 79098,
       "name": "Continental Breakfast",
       "url": "https://open.spotify.com/track/5Kz3x2O7Zfbikh9xuUeUWU"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Jerry Curl (feat. Larry June)",
+        "url": "https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 194022,
+      "name": "Jerry Curl (feat. Larry June)",
+      "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -491,6 +531,22 @@
       "duration_ms": 148946,
       "name": "The Tonight Show",
       "url": "https://open.spotify.com/track/79gAYrZvmDIXbFSwL7CFGh"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "No Pants Till February",
+        "url": "https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4"
+      },
+      "artists": [
+        {
+          "name": "BASYL",
+          "url": "https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ"
     },
     {
       "added_at": "2022-01-14 05:00:00",

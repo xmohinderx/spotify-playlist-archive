@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 168409,
       "name": "Bald Head Bitch",
       "url": "https://open.spotify.com/track/4tEUsFm3lsLVMMYBNL2e9P"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Beating Down Yo Block",
       "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 125440,
       "name": "BIA BIA (feat. Lil Jon)",
       "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 183939,
       "name": "Big Chant (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/16MXJdHFDde9XwQL7Jvqju"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127493,
+      "name": "Box & Papers",
+      "url": "https://open.spotify.com/track/7BXDc3WTYrqA87sJYlGn4A"
+    },
+    {
+      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -427,7 +445,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 208358,
       "name": "Could Never (Remix) [feat. Moneybagg Yo]",
       "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 193775,
       "name": "Do Too Much",
       "url": "https://open.spotify.com/track/5LeHigT7pl8owmXu1rQMYR"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 207065,
       "name": "Do We Have A Problem?",
       "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
@@ -722,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/5jcWxbHoRtLdZvVTIbftd4"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120717,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/7nZqPwoxgPpE9ghskM6tHh"
+    },
+    {
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -795,7 +831,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 132989,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"
@@ -831,7 +867,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 154389,
       "name": "Girls in the Hood",
       "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
@@ -849,7 +885,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 202119,
       "name": "GodMother",
       "url": "https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8"
@@ -867,7 +903,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 125676,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5cjZBEFgmz42sT8cprY2FK"
@@ -925,7 +961,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 70429,
       "name": "If I Want To",
       "url": "https://open.spotify.com/track/3mulIJBXRtnCCyrhEmQnUT"
@@ -972,6 +1008,28 @@
     },
     {
       "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "album": {
         "name": "What's My Name",
         "url": "https://open.spotify.com/album/1WAtJjV9jTuCteNx5H7id5"
       },
@@ -1001,7 +1059,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 125661,
       "name": "M$. Hardbody",
       "url": "https://open.spotify.com/track/7mnkT43jt8l9Cpg3UYRy8G"
@@ -1019,7 +1077,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168716,
       "name": "Maaan (Got Me F'd Up)",
       "url": "https://open.spotify.com/track/2ZIe9Spi6ysxIafCfgLkKo"
@@ -1163,7 +1221,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 160440,
       "name": "Not Friendly",
       "url": "https://open.spotify.com/track/5qFIkQHP1sao8tzMJ0IzEe"
@@ -1185,7 +1243,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 189325,
       "name": "Not Gang (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0"
@@ -1273,7 +1331,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 188805,
       "name": "Onnat",
       "url": "https://open.spotify.com/track/3iqbwis7OqasGC8y6f3LFf"
@@ -1425,7 +1483,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 147028,
       "name": "Ratch (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/4300IZycSZEP0Bn20ipbxq"
@@ -1559,7 +1617,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 136615,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/1MetT6jbSGkJqArcDltkW0"
@@ -1671,7 +1729,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 121248,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1r1s3410xYexj6RHM670dc"
@@ -1754,6 +1812,28 @@
     },
     {
       "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Thief In The Night (with G Herbo)",
+      "url": "https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu"
+    },
+    {
+      "album": {
         "name": "TMU",
         "url": "https://open.spotify.com/album/14pVzTX0DTUFJ85z5soNFU"
       },
@@ -1787,7 +1867,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 169737,
       "name": "Top Notch (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
@@ -1831,7 +1911,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 189511,
       "name": "Type Shit (feat. Cardi B)",
       "url": "https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS"

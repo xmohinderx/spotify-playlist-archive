@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Aglomera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3feZd4mZaOrV1s865qbKVE"
+      },
+      "artists": [
+        {
+          "name": "Ratos De Por\u00e3o",
+          "url": "https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149214,
+      "name": "Aglomera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6oV9vEUb5dmXic5bjeg7GP"
+    },
+    {
+      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 160411,
       "name": "Brainless",
       "url": "https://open.spotify.com/track/66LgSLTaY4qAPRNazf0Psn"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 250860,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 196887,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/4KegQTOlL9MRctg4JIeVUl"
@@ -904,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD"
+    },
+    {
+      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
       },
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 241034,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/2yAI6FssGr5WfoqU7NSmPg"
@@ -1374,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "No Apologies",
+      "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
+    },
+    {
+      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 161253,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
@@ -2073,6 +2127,42 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up (When This Nightmare's Over)",
+        "url": "https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare's Over)",
+      "url": "https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku"
+    },
+    {
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "album": {

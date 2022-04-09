@@ -34,6 +34,28 @@
     },
     {
       "album": {
+        "name": "2 Oceans",
+        "url": "https://open.spotify.com/album/1KsD536VfBAiqRASMt6VdL"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213055,
+      "name": "2 Oceans",
+      "url": "https://open.spotify.com/track/0goA2cYxU9k2XfQHzo6WcP"
+    },
+    {
+      "album": {
         "name": "2725",
         "url": "https://open.spotify.com/album/4WKG31FVxhajs25iZoqRFk"
       },
@@ -1447,6 +1469,28 @@
       "duration_ms": 196706,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/7fnW0ZcFWAHaMGfCPW1gzg"
+    },
+    {
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Featuring music from Joel Corry, Bryson Tiller & David Guetta, Hardwell, J. Worra & Taylor Moody, Totally Enormous Extinct Dinosaurs and more!",
+  "description": "The world's biggest dance hits. Featuring music from Armin van Buuren, Billen Ted & JC Stewart, Carl Cox & Fatboy Slim, R3HAB and more!",
   "name": "mint",
   "published_playlist_ids": [
     "2lDweGgvQhwyQi5R55ct4Y"
@@ -550,6 +550,58 @@
     },
     {
       "album": {
+        "name": "Come Around Again",
+        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
+    },
+    {
+      "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
       },
@@ -685,7 +737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 198703,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
@@ -707,7 +759,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
@@ -1107,7 +1159,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
@@ -1155,7 +1207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 198102,
       "name": "Fuck U Love U",
       "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
@@ -1225,10 +1277,32 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 210000,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
+    },
+    {
+      "album": {
+        "name": "Go (goddard. Remix)",
+        "url": "https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192514,
+      "name": "Go - goddard. Remix",
+      "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
     },
     {
       "album": {
@@ -1511,7 +1585,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -1750,6 +1824,32 @@
     },
     {
       "album": {
+        "name": "Ininna Tora",
+        "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Mildenhaus",
+          "url": "https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204598,
+      "name": "Ininna Tora",
+      "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
+    },
+    {
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -1787,6 +1887,24 @@
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
+      "album": {
+        "name": "Is It You",
+        "url": "https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh"
+      },
+      "artists": [
+        {
+          "name": "PAX",
+          "url": "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "Is It You",
+      "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
     },
     {
       "album": {
@@ -1981,6 +2099,28 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "album": {
@@ -2241,7 +2381,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
@@ -2267,6 +2407,28 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "album": {
+        "name": "Married to Your Melody",
+        "url": "https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Married to Your Melody",
+      "url": "https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h"
     },
     {
       "album": {
@@ -2431,6 +2593,24 @@
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+    },
+    {
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS"
     },
     {
       "album": {
@@ -3086,6 +3266,28 @@
     },
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT"
       },
@@ -3246,6 +3448,32 @@
     },
     {
       "album": {
+        "name": "Speed Trials On Acid",
+        "url": "https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Dan Diamond",
+          "url": "https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203371,
+      "name": "Speed Trials On Acid (feat. Dan Diamond)",
+      "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
+    },
+    {
+      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/5WiJHK34SXiwH47hk56HGc"
       },
@@ -3371,7 +3599,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 302439,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv"
@@ -3961,7 +4189,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -4145,7 +4373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

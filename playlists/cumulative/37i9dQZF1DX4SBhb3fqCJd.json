@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today.  Cover: Ella Mai",
+  "description": "The pulse of R&B music today.  Cover: Syd",
   "name": "Are & Be",
   "published_playlist_ids": [
     "5zrlCMCGUGIh9pkJp17t53"
@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "City of Gods (Part II)",
+        "url": "https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "City of Gods (Part II)",
+      "url": "https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS"
+    },
+    {
+      "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
       },
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209853,
       "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
@@ -360,6 +378,28 @@
     },
     {
       "album": {
+        "name": "CYBAH (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "album": {
         "name": "DFMU",
         "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
       },
@@ -411,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190056,
       "name": "Do I Ever (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
@@ -485,7 +525,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
@@ -671,7 +711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 222168,
       "name": "Get Back (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
@@ -1319,7 +1359,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 157779,
       "name": "Nothing Feels Better",
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
@@ -1345,6 +1385,28 @@
       "duration_ms": 231570,
       "name": "NWA (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+    },
+    {
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "album": {
@@ -1735,6 +1797,24 @@
       "duration_ms": 207314,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+    },
+    {
+      "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "album": {

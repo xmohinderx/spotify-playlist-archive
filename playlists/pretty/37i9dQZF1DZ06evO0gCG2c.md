@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,524 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,681 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 39 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 40 | [Keep You Much Longer](https://open.spotify.com/track/2vmGdxSGSkWTZJmtDLPvGC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 4:20 |
 | 41 | [No Wahala \(feat\. Akon & Runtown\)](https://open.spotify.com/track/03MxQe4F8TGGZSs4Zyha4b) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [No Wahala \(feat\. AKON & RUNTOWN\)](https://open.spotify.com/album/5k7JaH84J9RFAhzrCugrUQ) | 3:32 |
-| 42 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
-| 43 | [Criminal](https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 5:06 |
+| 42 | [Criminal](https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 5:06 |
+| 43 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 |
 | 44 | [Gangsta Bop](https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:06 |
 | 45 | [Fair To You](https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 3:19 |
 | 46 | [Troublemaker](https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Shut It Down \(feat\. Akon\)](https://open.spotify.com/track/6r9uMZ7NBaMO1ovylcJZI4) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:46 |
 | 50 | [Be With You](https://open.spotify.com/track/5fFVy5lNikE6Gls8qKLS5L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:51 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDAwMGU4MTc5MzQ4ZjRiZTgzZWMzNzAyMDUxM2ZiYmZjMg==`
+Snapshot ID: `Mjc0OTA0NDQsMDAwMDAwMDA0NzUxMmZmMzM4ZDUyMDJiYjA2M2JhYzhhYTI3YzVjZQ==`

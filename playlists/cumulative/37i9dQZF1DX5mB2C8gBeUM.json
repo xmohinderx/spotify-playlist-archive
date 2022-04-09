@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Actin' Up",
+        "url": "https://open.spotify.com/album/04yCexTvMFC47BOGeV1qyt"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Actin' Up",
+      "url": "https://open.spotify.com/track/6GWfFBDsbGHOSAex90tfXI"
+    },
+    {
+      "album": {
         "name": "Don't Give Away The Ending",
         "url": "https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190287,
       "name": "Bottom Of This Bottle",
       "url": "https://open.spotify.com/track/7JhbMQw7V8qsJoCGh29SKp"
@@ -1150,6 +1168,28 @@
     },
     {
       "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/4ipyMe9sckjf2FM7hSWepV"
+      },
+      "artists": [
+        {
+          "name": "Ty March.",
+          "url": "https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw"
+        },
+        {
+          "name": "Deonte D-Real Davis",
+          "url": "https://open.spotify.com/artist/1TDei8T2PO7GJn2XKYCwvT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/4uJ0vf7Z8kTBOCIyS9mMwH"
+    },
+    {
+      "album": {
         "name": "Fancy Like (feat. Kesha)",
         "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
       },
@@ -1488,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+    },
+    {
+      "album": {
         "name": "Hearts Don't Break the Same",
         "url": "https://open.spotify.com/album/0Iqz6GYWJmqnThN0S59H6j"
       },
@@ -1641,7 +1699,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 214838,
       "name": "Home For The Summer",
       "url": "https://open.spotify.com/track/3vlj2o1ahG1g6AM6Qnm2gu"
@@ -2811,7 +2869,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 171242,
       "name": "Right Where You Left It",
       "url": "https://open.spotify.com/track/2g9cCY3YTGaHS6EStrTTQE"
@@ -2829,7 +2887,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 194438,
       "name": "RNDS",
       "url": "https://open.spotify.com/track/6vi8rnrpTsqKM88odyNCWQ"

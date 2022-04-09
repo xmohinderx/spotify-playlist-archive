@@ -1,13 +1,1185 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 759590,
+  "num_followers": 760046,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM3OTU1NywwMDAwMDAwMDFiMDAwMWM3OTVlMmZjODVjZWNjZjQxMzU5ZGRhOGU5",
+  "snapshot_id": "MTY0OTQ2NTczNiwwMDAwMDAwMGYyNjkwYmY5ZmE3ZjBjNWY5ZTU1YWM1YWJjMjA0Mjgx",
   "tracks": [
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 143613,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e"
+    },
+    {
+      "added_at": "2022-04-07 14:36:49",
+      "album": {
+        "name": "Live In Concert / All of Me",
+        "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Do You Wanna Dance",
+        "url": "https://open.spotify.com/album/5XqYAqRGDvOvs1Qg1y5nKF"
+      },
+      "artists": [
+        {
+          "name": "Bobby Freeman",
+          "url": "https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "C'mon And Swim",
+      "url": "https://open.spotify.com/track/7LAMmINm2WrXyvFAD1iVnD"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Eddie Cochran",
+        "url": "https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 121066,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/44XGMLszaOWD7k4LsJMcWa"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/5EGL2hAczX2WvJ4WB0WJVB"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The McGuire Sisters Greatest Hits",
+        "url": "https://open.spotify.com/album/1XUHMyIyGrUkx9kfRZYCIm"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/4bsND9IuJz18UtFx2MwwO8"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "Walking To New Orleans - Remastered",
+      "url": "https://open.spotify.com/track/5I3hQNKjCwalENrab1SBtt"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/3F3ZBkt86QKDSPRrVpk7Wx"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/5akBpqWmFWEHoBGRIrR5aK"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Runaround Sue",
+        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Runaround Sue",
+      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Very Best Of Lou Rawls",
+        "url": "https://open.spotify.com/album/4ww1iSH4EcZRCqPcn8Dv23"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Love Is A Hurtin' Thing - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/64HTTmNuE6Pf6dSbM6nlcs"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Pop & Doo Wop Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ZP8aK0MU81zQCo2PDJJ1S"
+      },
+      "artists": [
+        {
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/0jyKxHlY8AbsobubF31EXB"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Dionne Warwick Collection: Her All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "Do You Know the Way to San Jose",
+      "url": "https://open.spotify.com/track/3ADQ9jGCJ6MfSbIZqtbVj2"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/7EME8xI4YLbUUT8qVKgBoR"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Sam The Sham & The Pharaohs",
+          "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Greatest Hits - Ricky Nelson (Remastered Edition)",
+        "url": "https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Travelin' Man - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0LA0c8SIOnKNHfEd8LZoac"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Gone Girl Groups of the 50's & 60's Featuring the Shangri-La's, The Chantels, The Dixie Cups, The Chiffons, & More!",
+        "url": "https://open.spotify.com/album/6QyniAm0Q6gzZN6exeJnGB"
+      },
+      "artists": [
+        {
+          "name": "The Ad Libs",
+          "url": "https://open.spotify.com/artist/3ahRanZQnsZmAVMNqRsimM"
+        }
+      ],
+      "duration_ms": 182238,
+      "name": "The Boy from New York City",
+      "url": "https://open.spotify.com/track/14bVmMWKT2uEugYQcQir9n"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/4Iizap6rgpM8EWv8FW8b0b"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Do Wah Diddy Diddy - 1997 Remastered Version",
+      "url": "https://open.spotify.com/track/5kWobkGc1McvhM4LzWyJO3"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Sloop John B - Remastered",
+      "url": "https://open.spotify.com/track/2ULL3VZf4WwBKO4vjwT7Bg"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Del Vikings Doo Wop",
+        "url": "https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 160467,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "These Boots Are Made For Walkin'",
+      "url": "https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/1EpJ6FtwpTrITdh1yfZhYI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls of Fire",
+      "url": "https://open.spotify.com/track/7ugeFdykRDPMMy6XPMdIdz"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Sugar, Sugar",
+        "url": "https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Dimension Dolls",
+        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 148626,
+      "name": "The Loco-Motion - Single Version",
+      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Just Sings",
+        "url": "https://open.spotify.com/album/4TcPCrJATiXIcOQyEdPIGz"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lewis",
+          "url": "https://open.spotify.com/artist/7Kaa31WCrBRiLn4wogWtVI"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "Rock-A-Bye Your Baby With A Dixie Melody",
+      "url": "https://open.spotify.com/track/0vXhvlYN43mPBuXWWcyvjo"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
+        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 117266,
+      "name": "I'm In Love Again",
+      "url": "https://open.spotify.com/track/64tWwNVw8RPIY2N4IYGUBk"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hqTwDwtJw99EGsX8BOnIa"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 138560,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5TkxtJtC64uDDK4rbrXz0u"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Love To Love",
+        "url": "https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/2dJkw6SsPdgtQI27b3AXb1"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Kinks (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3hXXoaAA09avxBSSxtPIaL"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/1oG2vWELiGjIqxwqGcyqwF"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Chapel of Love",
+        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170874,
+      "name": "Chapel of Love",
+      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Connie Francis",
+        "url": "https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/6VlHxpNEDikJh617edCYzz"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Sonny & Cher",
+        "url": "https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153453,
+      "name": "There's A Kind Of Hush",
+      "url": "https://open.spotify.com/track/3QzPRTZ6hocM2nTZYkdIq7"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Lesley Gore",
+        "url": "https://open.spotify.com/album/40SQtbiQLIU8TMTgCCB7KB"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/0sElHCOGB2n8Nlo6GOtWnq"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "I Got The Feelin'",
+      "url": "https://open.spotify.com/track/7reGxEWg0JGotK561kvmqa"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/3n1q8ES4npE4wlcnFtK9qO"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby & Grace Kelly",
+          "url": "https://open.spotify.com/artist/34CRCC21gRhqn5G7XAkGsN"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0Osw0ZdsD53aqx92ik0Br8"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Doo-Wop",
+        "url": "https://open.spotify.com/album/2W5CiPEbYAW5UTbiPYsnCa"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 139311,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/5u8OgipjDkS2nkYlSlMkWF"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Shout! Shout! (Knock Yourself Out)",
+        "url": "https://open.spotify.com/album/5VyKvzMRm4syftBZM3qB5T"
+      },
+      "artists": [
+        {
+          "name": "Ernie Maresca",
+          "url": "https://open.spotify.com/artist/0b9n4vhaTCuL23DoRJ1XHj"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "Shout Shout (Knock Yourself Out)",
+      "url": "https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Bobby Rydell",
+        "url": "https://open.spotify.com/album/4zjFtmowRVcKgO5l0sFKi1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rydell",
+          "url": "https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "I'll Never Dance Again",
+      "url": "https://open.spotify.com/track/5fxChRcnmyk2en0r5YMF6E"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Legendary Masters Series",
+        "url": "https://open.spotify.com/album/434hmQ0GM7ynBeMZz5BSQ3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Take Good Care Of My Baby - 1990 Remastered",
+      "url": "https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Stand By Me [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/38IkFZQU3ZF6agt6FkKA8C"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Rhino Hi-Five: The Coasters",
+        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 113040,
+      "name": "Yakety Yak",
+      "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/0TFWByvQisKRyuE8MeqBY8"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Be-Bop-A-Lula - 2002 - Remastered",
+      "url": "https://open.spotify.com/track/63tznJW5FCf5jM7hgYvEMe"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 139546,
+      "name": "Money (That's What I Want)",
+      "url": "https://open.spotify.com/track/4OncTbCLRRozq30FZfx2Tc"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of The Surfaris",
+        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Wipe Out - Hit Version / Extended Ending",
+      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Complete Best Of",
+        "url": "https://open.spotify.com/album/4uDButkVrJfajurDPoxoDC"
+      },
+      "artists": [
+        {
+          "name": "Barry Mann",
+          "url": "https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Who Put The Bomp (In The Bomp, Bomp,Bomp)?",
+      "url": "https://open.spotify.com/track/30txFxKhnMJqUXz0xx0x39"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "My Boyfriend's Back",
+        "url": "https://open.spotify.com/album/42pUInY6KQcFg0L6ySYZsa"
+      },
+      "artists": [
+        {
+          "name": "The Angels",
+          "url": "https://open.spotify.com/artist/6YtJeguOS8yoMkmLLnzU7q"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "My Boyfriend's Back",
+      "url": "https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: The Best Of Marvin Gaye & Tammi Terrell",
+        "url": "https://open.spotify.com/album/2FJv3jHewcKaYT506ny93J"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/64IJPv9SUpcGZWAZ5ipaGD"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "On the Street Where You Live",
+      "url": "https://open.spotify.com/track/4oCGnINvzJI8F5KWDajAOQ"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Ames Brothers Volume 2",
+        "url": "https://open.spotify.com/album/3N3zdZQ8DDHcRFiFg1jYH5"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 175612,
+      "name": "You, You, You",
+      "url": "https://open.spotify.com/track/7iv8br1y5Hv63QX5Z2HFjv"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
+        "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Price",
+          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Personality",
+      "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/1BuP3K4tWcL1WSpUcLQHyz"
+      },
+      "artists": [
+        {
+          "name": "The Rooftop Singers",
+          "url": "https://open.spotify.com/artist/6Gb08eT3LlkGynDscl9vbz"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Walk Right In",
+      "url": "https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
@@ -31,386 +1203,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+        "name": "The Very Best Of The Foundations",
+        "url": "https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx"
       },
       "artists": [
         {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 94906,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2022-04-07 14:36:49",
-      "album": {
-        "name": "Live In Concert / All of Me",
-        "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
-      },
-      "artists": [
-        {
-          "name": "Engelbert Humperdinck",
-          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "A Man Without Love",
-      "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 153453,
-      "name": "There's A Kind Of Hush",
-      "url": "https://open.spotify.com/track/3QzPRTZ6hocM2nTZYkdIq7"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Ames Brothers Volume 2",
-        "url": "https://open.spotify.com/album/3N3zdZQ8DDHcRFiFg1jYH5"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "You, You, You",
-      "url": "https://open.spotify.com/track/7iv8br1y5Hv63QX5Z2HFjv"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Bowfinger (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Dm9QDSRzwY3fZTvWVT7jy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivers",
-          "url": "https://open.spotify.com/artist/3TiISqKS6ESlMQ4WFfZJw2"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Secret Agent Man - From \"Secret Agent\" CBS TV Show",
-      "url": "https://open.spotify.com/track/6cYF2G5funXxQQ4XWPJ6q2"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection-Best Of Marvin Gaye-Volume 1-The 60's",
-        "url": "https://open.spotify.com/album/2A4QaigyufW2Lk3eKOBWG3"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/3V5vrRmjNj4MssxW8cEJov"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Las 66 Favoritas de Jose Mar\u00eda \u00cd\u00f1igo y Jos\u00e9 Ram\u00f3n Pardo, Vol. 2 (1958-1962) [Remastered]",
-        "url": "https://open.spotify.com/album/6Hq9dw9rBsKmfV8qImkuWp"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 252879,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/5WElvv9RgXsbxIYwfY9mPk"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Quentin Tarantino's Death Proof (Standard Version)",
-        "url": "https://open.spotify.com/album/792e32l3F2OKtZdu8OSYzn"
-      },
-      "artists": [
-        {
-          "name": "Smith",
-          "url": "https://open.spotify.com/artist/3rTApaPj4lsscY0OoDPnkP"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/6DBdd6oYkrNFXAuZwXXBQo"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best Of Tom Jones 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/6TiIQSWfDgwQTg1aycqAsP"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119266,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/5Fwif6oyL2EjXAFTGL909U"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/1jz8TlrPZR6oXROieCoc2v"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Rhino Hi-Five: The Coasters",
-        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "16 Most Requested Songs: Encore!",
-        "url": "https://open.spotify.com/album/38Y2Jx1WvHE5mB93uFsmCO"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 142093,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2Z4NCkGmgL946nR9tuv7rR"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 139506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Ain't Got No Home: The Best Of Clarence \"Frogman\" Henry",
-        "url": "https://open.spotify.com/album/1jFpQ6HiMhdwxPCjV9hRDK"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "(I Don't Know Why) But I Do",
-      "url": "https://open.spotify.com/track/09vP5YG4ZEKsVf15XKmavX"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/0YTgZJfVLmJ0b8XAMZKRKg"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/3n1q8ES4npE4wlcnFtK9qO"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby & Grace Kelly",
-          "url": "https://open.spotify.com/artist/34CRCC21gRhqn5G7XAkGsN"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0Osw0ZdsD53aqx92ik0Br8"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The McGuire Sisters Greatest Hits",
-        "url": "https://open.spotify.com/album/1XUHMyIyGrUkx9kfRZYCIm"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/4bsND9IuJz18UtFx2MwwO8"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Holidays & Hits",
-        "url": "https://open.spotify.com/album/5tnzZOPPSeafBICfszjSkK"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 145586,
-      "name": "Looking Back - Remastered 2005",
-      "url": "https://open.spotify.com/track/0KM29sd6s7Tg70vl2Kmfic"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "My Boyfriend's Back",
-        "url": "https://open.spotify.com/album/42pUInY6KQcFg0L6ySYZsa"
-      },
-      "artists": [
-        {
-          "name": "The Angels",
-          "url": "https://open.spotify.com/artist/6YtJeguOS8yoMkmLLnzU7q"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "My Boyfriend's Back",
-      "url": "https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Sinatra: Best Of The Best",
-        "url": "https://open.spotify.com/album/2PinY54sX1Uty9C4oQSFdP"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 156840,
-      "name": "Strangers in the Night",
-      "url": "https://open.spotify.com/track/0uIiLNILi2uzTBvOjAZPbo"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "I Got The Feelin'",
-      "url": "https://open.spotify.com/track/7reGxEWg0JGotK561kvmqa"
+      "duration_ms": 180280,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3iwujDVtiJQwqbvjVS6LZV"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -431,162 +1235,134 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+        "name": "Neil Sedaka Sings The Hits",
+        "url": "https://open.spotify.com/album/1ya3SaqV6XPJjeSq7Camb2"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+      "duration_ms": 136093,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/64UJ810pLNwurMLRCPJPoa"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+        "name": "The Hit Makers",
+        "url": "https://open.spotify.com/album/0piki0HMQMbLzV1I1QorCS"
       },
       "artists": [
         {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+          "name": "Les Paul",
+          "url": "https://open.spotify.com/artist/2hkZGvBotqZ7uBBUnBwmLC"
+        },
+        {
+          "name": "Mary Ford",
+          "url": "https://open.spotify.com/artist/0kI2sHLngm2GKwAZblx465"
         }
       ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+      "duration_ms": 174600,
+      "name": "Vaya Con Dios",
+      "url": "https://open.spotify.com/track/3qhxI5f7klTVfK0iWYmKdM"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
+        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+      "duration_ms": 175213,
+      "name": "You're Just In Love (I Wonder Why)",
+      "url": "https://open.spotify.com/track/0jVYsBfsxGA7zPurjqnlH8"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Pop & Doo Wop Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ZP8aK0MU81zQCo2PDJJ1S"
+        "name": "50 Big Ones: Greatest Hits",
+        "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
       },
       "artists": [
         {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 149986,
-      "name": "Hey Paula",
-      "url": "https://open.spotify.com/track/0jyKxHlY8AbsobubF31EXB"
+      "duration_ms": 166520,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/0mwr3py9MZIOdvOrI31h6r"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "My Kind Of Music - A Fine Romance",
-        "url": "https://open.spotify.com/album/5yZZnBJ8S8xeeONqkAIBsg"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/3GU4xQcSPxH4rRH28l6UbW"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 125226,
-      "name": "Que Sera, Sera (Whatever Will Be Will Be)",
-      "url": "https://open.spotify.com/track/2eRPbqkCDYHcGOPGQ8RX5o"
+      "duration_ms": 188466,
+      "name": "That's Amore - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/7ha6LU5Dle7FGBh0I9LZIa"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "With His Hot and Blue Guitar",
-        "url": "https://open.spotify.com/album/4449MfWtDgtRQBYZvbPqV6"
+        "name": "Mad Men: A Musical Companion (1960-1965)",
+        "url": "https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 163045,
-      "name": "I Walk the Line",
-      "url": "https://open.spotify.com/track/1Vr6JSWTpl5MIxUHOJ3nny"
+      "duration_ms": 142213,
+      "name": "Hey! Baby - Single Version",
+      "url": "https://open.spotify.com/track/6T8enFgxOUn1bq1C37w59C"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Barrett Strong",
-        "url": "https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V"
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
       "artists": [
         {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Money (That's What I Want) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT"
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
       },
       "artists": [
         {
-          "name": "Vic Damone",
-          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 163093,
-      "name": "On the Street Where You Live",
-      "url": "https://open.spotify.com/track/4oCGnINvzJI8F5KWDajAOQ"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Blue Jean Bop",
-        "url": "https://open.spotify.com/album/0TFWByvQisKRyuE8MeqBY8"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Be-Bop-A-Lula - 2002 - Remastered",
-      "url": "https://open.spotify.com/track/63tznJW5FCf5jM7hgYvEMe"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Beach Party",
-        "url": "https://open.spotify.com/album/1mh6ZNXSK0kCLebYxFXTSO"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 157520,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/0CRxGsJrwOMQUuTr4yT5mX"
+      "duration_ms": 177906,
+      "name": "Nowhere To Run - Single Version / Mono",
+      "url": "https://open.spotify.com/track/51HaFqOPAJFfFNycct9IWR"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -607,242 +1383,70 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7cQhE9arqGBgQfdLu47zdm"
+        "name": "I Will Follow Him",
+        "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Little Peggy March",
+          "url": "https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy"
         }
       ],
-      "duration_ms": 182960,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/4myBMnNWZlgvVelYeTu55w"
+      "duration_ms": 148160,
+      "name": "I Will Follow Him",
+      "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Essential Elvis Presley",
-        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+        "name": "Ivory Joe Hunter",
+        "url": "https://open.spotify.com/album/7JQOItJtLNVdmqWxsL8EbF"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Ivory Joe Hunter",
+          "url": "https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea"
         }
       ],
-      "duration_ms": 162413,
-      "name": "Love Me Tender",
-      "url": "https://open.spotify.com/track/7LSGjWtza5Y8itm6Cpbj1s"
+      "duration_ms": 170293,
+      "name": "Since I Met You Baby",
+      "url": "https://open.spotify.com/track/6M8T6sKR02fUJPgWHxXuGS"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game",
-        "url": "https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0"
+        "name": "Sugar Shack / Buddy's Buddy",
+        "url": "https://open.spotify.com/album/51nvfVI9OVO0rb70lI00qS"
       },
       "artists": [
         {
-          "name": "Patti Page",
-          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
+          "name": "Jimmy Gilmer & The Fireballs",
+          "url": "https://open.spotify.com/artist/2FIdQw5j2RpoSKSg3siOmy"
         }
       ],
-      "duration_ms": 158426,
-      "name": "(How Much Is) That Doggie in the Window",
-      "url": "https://open.spotify.com/track/1mMSH14XSSjzLvNuf62azx"
+      "duration_ms": 123693,
+      "name": "Sugar Shack",
+      "url": "https://open.spotify.com/track/2nLLenueHlqs60IcDn9lan"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Connie Francis",
-        "url": "https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN"
+        "name": "Perry Como's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Where The Boys Are",
-      "url": "https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Very Best Of Eddie Fisher",
-        "url": "https://open.spotify.com/album/1N97ksukEGmwRDYk1BrOL7"
-      },
-      "artists": [
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
         {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
         }
       ],
-      "duration_ms": 185826,
-      "name": "I'm Walking Behind You",
-      "url": "https://open.spotify.com/track/2FqOLG4ViICqhx35v8xoBx"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Till I Waltz Again With You",
-        "url": "https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Till I Waltz Again With You",
-      "url": "https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Kinks (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3hXXoaAA09avxBSSxtPIaL"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/1oG2vWELiGjIqxwqGcyqwF"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
-        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Doo-Wop",
-        "url": "https://open.spotify.com/album/2W5CiPEbYAW5UTbiPYsnCa"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 166922,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/3EcdioSeXbtELIdpFGDg5W"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3RziCV8OHY8e4g33fqCpJy"
-      },
-      "artists": [
-        {
-          "name": "Brian Hyland",
-          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Sealed With A Kiss",
-      "url": "https://open.spotify.com/track/7wXeFRFidpQIfZgExLavJy"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 139640,
-      "name": "Walk Right Back",
-      "url": "https://open.spotify.com/track/3NUXLtK8UGdD8TvZ12b4dD"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best of the Ohio Express",
-        "url": "https://open.spotify.com/album/1z5SrNEBvLmCnJxe54Thk9"
-      },
-      "artists": [
-        {
-          "name": "Ohio Express",
-          "url": "https://open.spotify.com/artist/6EHdKd4m8DzNf9NhVeJSVI"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Yummy, Yummy, Yummy",
-      "url": "https://open.spotify.com/track/6WvbMOjKf5y3CAHn4ubwlp"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Very Best Of Lou Rawls",
-        "url": "https://open.spotify.com/album/4ww1iSH4EcZRCqPcn8Dv23"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Love Is A Hurtin' Thing - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/64HTTmNuE6Pf6dSbM6nlcs"
+      "duration_ms": 196373,
+      "name": "No Other Love (with Henri Ren\u00e9 & His Orchestra and Chorus)",
+      "url": "https://open.spotify.com/track/4iyzrJ3qIGBvG8yl5dWHQ8"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -867,146 +1471,34 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+        "name": "All Aglow Again!",
+        "url": "https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP"
       },
       "artists": [
         {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
+      "duration_ms": 202693,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Maurice Williams & The Zodiacs",
+          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
         }
       ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Martha Reeves & The Vandellas",
-        "url": "https://open.spotify.com/album/4seyYG4tzIszSchBUebRRx"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "(Love Is Like A) Heat Wave - Single Version",
-      "url": "https://open.spotify.com/track/4y5c6RsmHzrNHqL1n8hMyI"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Chuck Berry",
-        "url": "https://open.spotify.com/album/5oe2YLmp9uZgV0lKguAadC"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Sweet Little Sixteen",
-      "url": "https://open.spotify.com/track/4DEbXdYvto9BB3TyYyxLKn"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Lost Hits Of The 50's",
-        "url": "https://open.spotify.com/album/5DyWDTuTcEyMH5UDxyuOby"
-      },
-      "artists": [
-        {
-          "name": "Patience & Prudence",
-          "url": "https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor"
-        }
-      ],
-      "duration_ms": 115333,
-      "name": "Tonight You Belong To Me",
-      "url": "https://open.spotify.com/track/6TGjPUIJuJYRnHc4tXiQDI"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/1EpJ6FtwpTrITdh1yfZhYI"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls of Fire",
-      "url": "https://open.spotify.com/track/7ugeFdykRDPMMy6XPMdIdz"
+      "duration_ms": 94906,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1027,598 +1519,114 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+        "name": "Classic Soft Rock",
+        "url": "https://open.spotify.com/album/5w025o7Bez9DkriD0wLLg5"
       },
       "artists": [
         {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3y35c71yb6I1OtwmhwT1Cq"
+      "duration_ms": 165929,
+      "name": "Hooked on a Feeling - Re-Recorded",
+      "url": "https://open.spotify.com/track/0yLeZobMkcVrqoIC8IkcHZ"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Classic Sinatra - His Great Performances 1953-1960",
-        "url": "https://open.spotify.com/album/4VEpFmuBpIMHBtynE2wcVl"
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Young At Heart - Remastered",
-      "url": "https://open.spotify.com/track/7B8IvJclv9W7LcINxYSFR5"
+      "duration_ms": 161640,
+      "name": "Everybody Loves Somebody",
+      "url": "https://open.spotify.com/track/78VG6M1i7JQXBdygmWFwye"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "An American Love Story",
-        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 172186,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "All Time Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/7fi394FGU8dioWCI02DqXr"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Day-O",
-      "url": "https://open.spotify.com/track/3wBEiVtKNaLBRImRtlZRbZ"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
-      },
-      "artists": [
-        {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
-        }
-      ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+      "duration_ms": 132613,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/5y2m5EePLwcTAUa3iXxztB"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
         "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip"
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 177906,
-      "name": "Nowhere To Run - Single Version / Mono",
-      "url": "https://open.spotify.com/track/51HaFqOPAJFfFNycct9IWR"
+      "duration_ms": 163680,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
       },
       "artists": [
         {
-          "name": "The Marcels",
-          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 135200,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2sIiAxBkth5riaZmp2KgZz"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best Of Georgia Gibbs: The Mercury Years",
-        "url": "https://open.spotify.com/album/1aQLXLo5hr1l3l9h7EVJWM"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gibbs",
-          "url": "https://open.spotify.com/artist/6E8uXyNsUKeGOgRqAOcgBa"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "Tweedle Dee",
-      "url": "https://open.spotify.com/track/2TRt55mhsEEC7tuwE5dQdd"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Sugar, Sugar",
-        "url": "https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 166008,
-      "name": "These Boots Are Made For Walkin'",
-      "url": "https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "I Will Follow Him",
-        "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
-      },
-      "artists": [
-        {
-          "name": "Little Peggy March",
-          "url": "https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "I Will Follow Him",
-      "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2NORomXwfb5vpzxc65oPi4"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 148280,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3gpWYe5Y0S7RQBjgWoM5vh"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Greatest Hits - Ricky Nelson (Remastered Edition)",
-        "url": "https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Travelin' Man - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/0LA0c8SIOnKNHfEd8LZoac"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "21 Golden Hits",
-        "url": "https://open.spotify.com/album/0G9JiVoIric9mCMeAGmflu"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Puppy Love",
-      "url": "https://open.spotify.com/track/6PsEyLPVh3kC8OPJF960tg"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Doo-Wop",
-        "url": "https://open.spotify.com/album/2W5CiPEbYAW5UTbiPYsnCa"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 139311,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/5u8OgipjDkS2nkYlSlMkWF"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Chordettes' Best",
-        "url": "https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 143613,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+      "duration_ms": 139640,
+      "name": "Walk Right Back",
+      "url": "https://open.spotify.com/track/3NUXLtK8UGdD8TvZ12b4dD"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "url": "https://open.spotify.com/album/2DxPHmsvN4oP5PldgkbvrA"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        },
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 171026,
-      "name": "I Fall To Pieces",
-      "url": "https://open.spotify.com/track/6SJp1liZkAUW256L3ml3H5"
+      "duration_ms": 150600,
+      "name": "Peggy Sue - Single Version",
+      "url": "https://open.spotify.com/track/5SWqbaVQI5EgILjYVniKqe"
     },
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
       },
       "artists": [
         {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Magic Touch: An Anthology",
-        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Love Letters In The Sand",
-      "url": "https://open.spotify.com/track/4pvHoNisb1NWUgvVBDXkX4"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Complete Best Of",
-        "url": "https://open.spotify.com/album/4uDButkVrJfajurDPoxoDC"
-      },
-      "artists": [
-        {
-          "name": "Barry Mann",
-          "url": "https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Who Put The Bomp (In The Bomp, Bomp,Bomp)?",
-      "url": "https://open.spotify.com/track/30txFxKhnMJqUXz0xx0x39"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 130892,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Shout! Shout! (Knock Yourself Out)",
-        "url": "https://open.spotify.com/album/5VyKvzMRm4syftBZM3qB5T"
-      },
-      "artists": [
-        {
-          "name": "Ernie Maresca",
-          "url": "https://open.spotify.com/artist/0b9n4vhaTCuL23DoRJ1XHj"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "Shout Shout (Knock Yourself Out)",
-      "url": "https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "It's Mashed Potato Time/Do The Bird",
-        "url": "https://open.spotify.com/album/4SaED2mtSzOU6UEGk6rzwm"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Mashed Potato Time",
-      "url": "https://open.spotify.com/track/6jouZcdraQvsbh7SWkLEui"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
-        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 117266,
-      "name": "I'm In Love Again",
-      "url": "https://open.spotify.com/track/64tWwNVw8RPIY2N4IYGUBk"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/7fgQxIMO8E0sVRs5g4JFLM"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3RziCV8OHY8e4g33fqCpJy"
-      },
-      "artists": [
-        {
-          "name": "Brian Hyland",
-          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "Itsy Bitsy Teenie Weenie Yellow Polka-Dot Bikini",
-      "url": "https://open.spotify.com/track/3Aug2RunJbjGiz2CTtWu5l"
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     }
   ],
   "unique_name": "Classic Oldies",

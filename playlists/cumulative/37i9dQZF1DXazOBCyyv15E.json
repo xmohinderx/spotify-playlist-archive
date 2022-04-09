@@ -4294,6 +4294,24 @@
     },
     {
       "album": {
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
+    },
+    {
+      "album": {
         "name": "Get Me To A Nunnery",
         "url": "https://open.spotify.com/album/7d6Z9wwzXl8VQ04Jnz1nqT"
       },

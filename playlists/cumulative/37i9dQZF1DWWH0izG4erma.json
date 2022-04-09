@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Birmingham",
         "url": "https://open.spotify.com/album/4rkv7ffmhDwzpPtVnw5BcO"
       },
@@ -279,6 +297,24 @@
       "duration_ms": 174702,
       "name": "Black Leather Jackets",
       "url": "https://open.spotify.com/track/2qTOszFOraCetAWrbXM0qv"
+    },
+    {
+      "album": {
+        "name": "Black Magic Lady",
+        "url": "https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287835,
+      "name": "Black Magic Lady",
+      "url": "https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl"
     },
     {
       "album": {

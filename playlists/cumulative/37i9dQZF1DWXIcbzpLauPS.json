@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Shot in the Dark",
+        "url": "https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "A Shot in the Dark",
+      "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
+    },
+    {
+      "album": {
         "name": "A Stranger I Remain",
         "url": "https://open.spotify.com/album/3apA50v3LWM6VILq8yl1Zj"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 182000,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/0HcjKTb2vcKHSi8xZejERI"
@@ -337,6 +355,24 @@
       "duration_ms": 157406,
       "name": "bioMACHiNA",
       "url": "https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX"
+    },
+    {
+      "album": {
+        "name": "Harmony In Absolution",
+        "url": "https://open.spotify.com/album/32uH048DrBtvttFGxo5deB"
+      },
+      "artists": [
+        {
+          "name": "Monument Of A Memory",
+          "url": "https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/1lIvriL7jNztn6JaU5saJc"
     },
     {
       "album": {
@@ -553,7 +589,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 217818,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192600,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY"
@@ -796,6 +832,28 @@
     },
     {
       "album": {
+        "name": "Damage Plan",
+        "url": "https://open.spotify.com/album/1QCgurPzNCDiHr0uZiqjWc"
+      },
+      "artists": [
+        {
+          "name": "Saving Vice",
+          "url": "https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b"
+        },
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195788,
+      "name": "Damage Plan",
+      "url": "https://open.spotify.com/track/4FA7Ax4cLqAwf5DaHryjdy"
+    },
+    {
+      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i"
       },
@@ -825,7 +883,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209828,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
@@ -1274,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD"
+    },
+    {
+      "album": {
         "name": "Between Me and The Machine",
         "url": "https://open.spotify.com/album/6l8CriAGZ9xzFOFazJCYSk"
       },
@@ -1289,6 +1365,24 @@
       "duration_ms": 278112,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/7e7meNa1AtJ1PGntydHkaZ"
+    },
+    {
+      "album": {
+        "name": "Manifestations",
+        "url": "https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213287,
+      "name": "From The Fire In You",
+      "url": "https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5"
     },
     {
       "album": {
@@ -1401,7 +1495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 176933,
       "name": "Heads Up",
       "url": "https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR"
@@ -1549,6 +1643,24 @@
       "duration_ms": 243874,
       "name": "Intergalactic Casanova",
       "url": "https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x"
+    },
+    {
+      "album": {
+        "name": "INTO THE DARK",
+        "url": "https://open.spotify.com/album/58F7xz9oqfYuj6WpUsbBiE"
+      },
+      "artists": [
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221799,
+      "name": "INTO THE DARK",
+      "url": "https://open.spotify.com/track/49h0nGFVuwOa1wgL5kMpVN"
     },
     {
       "album": {
@@ -1866,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/0wKiJpLxOrTciVn5MiyEiW"
+      },
+      "artists": [
+        {
+          "name": "Overthrone",
+          "url": "https://open.spotify.com/artist/0eO94W2Pfc0qTDTPTEmfVw"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251722,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/0TN52OMfh6juOo5vIQCDG1"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1ohjKFnDzXTdow3BX4JAIp"
       },
@@ -1895,7 +2025,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 228841,
       "name": "Misguided",
       "url": "https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX"
@@ -2676,6 +2806,28 @@
     },
     {
       "album": {
+        "name": "Spaceman (feat. FiNCH)",
+        "url": "https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190125,
+      "name": "Spaceman (feat. FiNCH)",
+      "url": "https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic"
+    },
+    {
+      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
       },
@@ -2687,7 +2839,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168913,
       "name": "Standing My Ground",
       "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
@@ -3160,6 +3312,24 @@
     },
     {
       "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2e766ojr5NmFTOtULHrZGN"
+      },
+      "artists": [
+        {
+          "name": "Saviour",
+          "url": "https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/6vLIcvjjLPftlcadH1hbTu"
+    },
+    {
+      "album": {
         "name": "Iridescent",
         "url": "https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr"
       },
@@ -3193,6 +3363,24 @@
       "duration_ms": 217959,
       "name": "Transcendent",
       "url": "https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1"
+    },
+    {
+      "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1"
+      },
+      "artists": [
+        {
+          "name": "The Amsterdam Red Light District",
+          "url": "https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200474,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l"
     },
     {
       "album": {
@@ -3355,7 +3543,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 263414,
       "name": "Vanguard",
       "url": "https://open.spotify.com/track/5NxVQJrYanVUMotKD02TaP"
@@ -3377,7 +3565,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 328500,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/4sEzO3UhMRg2DTYsC05BU8"
@@ -3474,6 +3662,24 @@
     },
     {
       "album": {
+        "name": "Weapon",
+        "url": "https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214874,
+      "name": "Weapon",
+      "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"
+    },
+    {
+      "album": {
         "name": "Voyeurist",
         "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
       },
@@ -3503,7 +3709,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 197000,
       "name": "When The World Awakens",
       "url": "https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN"
@@ -3521,7 +3727,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 275916,
       "name": "Who's fault?",
       "url": "https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87"

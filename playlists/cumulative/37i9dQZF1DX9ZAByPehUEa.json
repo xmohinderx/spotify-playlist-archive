@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 171428,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 225343,
       "name": "Be The Light",
       "url": "https://open.spotify.com/track/0SnTh7LOFLXFtLZDFB4OTd"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 256598,
       "name": "Body Funk",
       "url": "https://open.spotify.com/track/064PIXni8eIfwYocDoCBUD"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 496615,
       "name": "Buy Yourself friends",
       "url": "https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX"
@@ -397,6 +397,28 @@
       "duration_ms": 171049,
       "name": "Club Cotton - Future Disco Edit",
       "url": "https://open.spotify.com/track/2bgBsPqPhORnZh2HRO5B8X"
+    },
+    {
+      "album": {
+        "name": "Coffee in the Morning EP",
+        "url": "https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225471,
+      "name": "Coffee in the Morning - Radio Edit",
+      "url": "https://open.spotify.com/track/7Jg80rSKiEVhmGE8sVEYf2"
     },
     {
       "album": {
@@ -455,7 +477,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 319891,
       "name": "Confrontations",
       "url": "https://open.spotify.com/track/0p1ijCxJxAmEUm9OfTM4mX"
@@ -491,7 +513,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 232000,
       "name": "Delirio Italiano",
       "url": "https://open.spotify.com/track/5kir7rtYilOrOBCVIMMKRf"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 274546,
       "name": "DNT STP MY LV",
       "url": "https://open.spotify.com/track/1E7n6zG7oQuJJaLctiqsOD"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 398095,
       "name": "Do You Feel Like I Do?",
       "url": "https://open.spotify.com/track/2xdstbWVKz1Q2XGiNLebuu"
@@ -715,7 +737,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
@@ -777,7 +799,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 297574,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa"
@@ -945,7 +967,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 230000,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6meRSRdVv5HcIhS3YNpi2S"
@@ -963,7 +985,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 193228,
       "name": "Got My Love",
       "url": "https://open.spotify.com/track/1Wt6l5K5IyPpqU6CH7SaMM"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 185856,
       "name": "Gravity (feat. Rhea Melvin)",
       "url": "https://open.spotify.com/track/5T3lRILDXOyl9T6evKltxA"
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 500063,
       "name": "Hello Echo",
       "url": "https://open.spotify.com/track/58lrRLt4Unnb2PYtu6n1Xl"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -1165,7 +1187,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
@@ -1201,7 +1223,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 324642,
       "name": "I Wanna Be Like You",
       "url": "https://open.spotify.com/track/37rSW7fSEzOIMVodxP0gY9"
@@ -1255,7 +1277,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 279685,
       "name": "Jive Turkey",
       "url": "https://open.spotify.com/track/22aFQjqtLpyY5PryOdCcgn"
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 160250,
       "name": "Light Up My Life - Alex Preston Remix",
       "url": "https://open.spotify.com/track/0DlLLaliuECL8YOLxc87rZ"
@@ -1499,7 +1521,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 341500,
       "name": "Like a Woman",
       "url": "https://open.spotify.com/track/4joBpM6Rabmmpx02sx7gSJ"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 222880,
       "name": "Losers - Purple Disco Machine Remix Edit",
       "url": "https://open.spotify.com/track/7M8RlfP8SviqaH4kCkOkyE"
@@ -1623,7 +1645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 232320,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n"
@@ -1685,7 +1707,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 413858,
       "name": "Love Trip",
       "url": "https://open.spotify.com/track/36T8YcNQzsrAq7okfOu7t5"
@@ -1765,7 +1787,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 203225,
       "name": "Melody (Gerry Read Remix)",
       "url": "https://open.spotify.com/track/0jVAnpIkW2asL1w2bTeF69"
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 359026,
       "name": "Naive",
       "url": "https://open.spotify.com/track/0rfEdPPefdgfjykn7mbe0G"
@@ -2051,7 +2073,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 489631,
       "name": "No Price (feat. Chromeo & Al-P) - 12\" Mix",
       "url": "https://open.spotify.com/track/0OE4VqAcsSjRjmgqUFJivg"
@@ -2091,10 +2113,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 323012,
       "name": "No Wait",
       "url": "https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq"
+    },
+    {
+      "album": {
+        "name": "NO WAY! (Diamond Pistols Remix)",
+        "url": "https://open.spotify.com/album/7voGlCPPwlqQujBcBNhrCy"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175173,
+      "name": "NO WAY! - Diamond Pistols Remix",
+      "url": "https://open.spotify.com/track/7aWgGrMx5WOsrYZ1lS1tbR"
     },
     {
       "album": {
@@ -2109,7 +2153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 149508,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
@@ -2197,10 +2241,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 266133,
       "name": "Orange Sunlight",
       "url": "https://open.spotify.com/track/26JD90dGwlxzFpMB5cfIHh"
+    },
+    {
+      "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
     },
     {
       "album": {
@@ -2223,7 +2285,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
@@ -2259,7 +2321,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 261959,
       "name": "Perch\u00e9 Perch\u00e9",
       "url": "https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw"
@@ -2277,7 +2339,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 231031,
       "name": "Playbox",
       "url": "https://open.spotify.com/track/4PyjU6NkpXm78HRNAXg0fk"
@@ -2295,7 +2357,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -2317,7 +2379,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -2361,7 +2423,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 221875,
       "name": "Price Tags (feat. Anderson .Paak) - kryptogram Remix",
       "url": "https://open.spotify.com/track/417n6UbUWOdel5iXcROCd0"
@@ -2379,7 +2441,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Queen Of Hearts",
       "url": "https://open.spotify.com/track/4gwEkJmN6PcgVfnawh2DHl"
@@ -2405,7 +2467,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 223506,
       "name": "Real Groove (feat. Dua Lipa) - Studio 2054 Initial Talk Remix",
       "url": "https://open.spotify.com/track/3I9gIF7c1VwAdvjTsvLgod"
@@ -2587,7 +2649,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 193489,
       "name": "Shit Cant Make Anything",
       "url": "https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO"
@@ -2627,7 +2689,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 321713,
       "name": "Sizzling",
       "url": "https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw"
@@ -2747,7 +2809,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
@@ -2783,7 +2845,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 296250,
       "name": "Somewhere Else - Original Mix",
       "url": "https://open.spotify.com/track/6U3EGYS5kqjWp11anZDAqG"
@@ -2827,7 +2889,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 241889,
       "name": "Street Rave - Edit",
       "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
@@ -2878,6 +2940,24 @@
     },
     {
       "album": {
+        "name": "Techno Disco Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Techno Disco Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+    },
+    {
+      "album": {
         "name": "Thank You (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/3ySavJtPwv3onVluixQuIK"
       },
@@ -2893,7 +2973,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 227590,
       "name": "Thank You - Jax Jones Remix",
       "url": "https://open.spotify.com/track/77PHaOlBrM9krYHIl39LAo"
@@ -2923,7 +3003,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 203720,
       "name": "The Answer (featuring Arthur Baker & Victor Simonelli)",
       "url": "https://open.spotify.com/track/5tb7bUuqTNVeON3uamNvSF"
@@ -2981,7 +3061,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 188180,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
@@ -3021,7 +3101,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 197952,
       "name": "Trick Disco - Edit",
       "url": "https://open.spotify.com/track/1rtOK50Hz7TdZ4qMqzJSKv"
@@ -3051,7 +3131,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 225913,
       "name": "Two Feet - Dan Shake Remix",
       "url": "https://open.spotify.com/track/6Gn5AQS5jDpjHWdPK5P03G"
@@ -3095,7 +3175,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 174193,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/1EFpoL0SkgjioIvPnEyh2R"
@@ -3117,7 +3197,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Way I Feel",
       "url": "https://open.spotify.com/track/3LR4PJyRU1CWKgMbrGDWvp"

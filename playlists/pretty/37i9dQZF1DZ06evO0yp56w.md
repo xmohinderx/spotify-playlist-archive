@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,980 likes - 52 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,162 likes - 52 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 51 | [Dead Star](https://open.spotify.com/track/2sP2TwYA3zewyBDrZsGahr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:40 |
 | 52 | [Cave](https://open.spotify.com/track/6Jf7Sx68vsWFKeWjOxcLhQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 4:46 |
 
-Snapshot ID: `Mjc0ODg5NzIsMDAwMDAwMDA2YmY5MjY0YjU0MmU4YzQyNTU5NjIwNjYwZTVmYTMwMw==`
+Snapshot ID: `Mjc0OTA0NDMsMDAwMDAwMDA1MjQzNTRjYWE4MzgyMmU2Mzk0ZWIwOTYzZWI2YTBjYw==`

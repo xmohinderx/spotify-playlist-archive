@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,135 likes - 64 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,149 likes - 64 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 20 | [Tied My Shoes](https://open.spotify.com/track/53H4l93nIcnpvn3sw748I7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Tied My Shoes](https://open.spotify.com/album/19J5uNmKXqKlbJPVanBACR) | 0:36 |
 | 21 | [Good Morning Time](https://open.spotify.com/track/6xb4OAYBf3uBUcRakOf2Rb) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu), [Casey Darnell](https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy) | [Everybody Sing!](https://open.spotify.com/album/2af6i5dnpvJd95k1rRUDQF) | 1:58 |
 | 22 | [The Hairbrush Song](https://open.spotify.com/track/7byEE1H59Byz5yuUhFPQaa) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [All The Songs \(Vol\. 1\)](https://open.spotify.com/album/0n3mrhnJn9cd6i17A0zGTP) | 3:04 |
-| 23 | [Caillou Theme](https://open.spotify.com/track/3wEH6ICVXNmBARGVcUh6cJ) | [Caillou](https://open.spotify.com/artist/2q7Y961PdiUNtscXldFlzt) | [Summertime Jams](https://open.spotify.com/album/7aMzjz4XbFsDUmnhINcqpj) | 0:45 |
+| 23 | [Caillou Theme](https://open.spotify.com/track/3wEH6ICVXNmBARGVcUh6cJ) | [Caillou](https://open.spotify.com/artist/5UtrFOo0vH241oQGb28vKP) | [Summertime Jams](https://open.spotify.com/album/7aMzjz4XbFsDUmnhINcqpj) | 0:45 |
 | 24 | [Let's Get Ready!](https://open.spotify.com/track/2kpfbfFJxnbMysLSp8zAIc) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6) | 2:05 |
 | 25 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 26 | [Rock to Get Ready for School](https://open.spotify.com/track/7owkxvRgVyrLCGJ9mCGOtL) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Rock to Get Ready](https://open.spotify.com/album/5E8gzylfGNVaDHylqoydus) | 2:00 |

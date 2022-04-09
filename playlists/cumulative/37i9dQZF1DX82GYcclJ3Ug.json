@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: Beach Bunny",
+  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: DE'WAYNE & POORSTACY",
   "name": "The New Alt",
   "published_playlist_ids": [
     "4nMPQOlCNMSE5OFGV7xGWt"
@@ -95,6 +95,24 @@
       "duration_ms": 186680,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4C62NziSPR0BQXTFFM7fx9"
+    },
+    {
+      "album": {
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
       "album": {
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
@@ -628,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
@@ -783,7 +819,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
@@ -957,6 +993,28 @@
       "duration_ms": 190000,
       "name": "Did You Sleep Last Night?",
       "url": "https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1"
+    },
+    {
+      "album": {
+        "name": "DIE OUT HERE (feat. POORSTACY)",
+        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (feat. POORSTACY)",
+      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "album": {
@@ -1624,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Happier in Hell",
+        "url": "https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173172,
+      "name": "Happier in Hell",
+      "url": "https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo"
+    },
+    {
+      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/5fSC2RnEJ1cCmPiwQq0J6U"
       },
@@ -1787,6 +1863,24 @@
       "duration_ms": 148000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/0Uh9ks0HAyQRIPG4hJFncV"
+    },
+    {
+      "album": {
+        "name": "High Water / Art of Survival",
+        "url": "https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189267,
+      "name": "High Water",
+      "url": "https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf"
     },
     {
       "album": {
@@ -2130,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2cCZOwzwsyLDCEdaPVcBPm"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195747,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/06RESLziavoi6gBcXJnvXF"
+    },
+    {
+      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/54g9Q7VZdJYNrmEsx93gHV"
       },
@@ -2307,7 +2423,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
@@ -2419,6 +2535,24 @@
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+    },
+    {
+      "album": {
+        "name": "lifeline",
+        "url": "https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165206,
+      "name": "lifeline",
+      "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
     },
     {
       "album": {
@@ -2897,7 +3031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 170881,
       "name": "Nothing Can Kill Us",
       "url": "https://open.spotify.com/track/301CUIqMm4OO521fxMLOZg"
@@ -3411,7 +3545,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3"
@@ -3639,7 +3773,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
@@ -3683,6 +3817,24 @@
       "duration_ms": 169336,
       "name": "Sober/Hungover (feat. Arizona Zervas)",
       "url": "https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/4QBx8JasTV7xXncJLCGtAT"
+      },
+      "artists": [
+        {
+          "name": "*repeat repeat",
+          "url": "https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219757,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/6oC9DrTP8SmWiD6RZrDVbv"
     },
     {
       "album": {
@@ -3882,6 +4034,24 @@
     },
     {
       "album": {
+        "name": "That's Where I Am",
+        "url": "https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ"
+    },
+    {
+      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl"
       },
@@ -3969,6 +4139,42 @@
       "duration_ms": 217617,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
+    },
+    {
+      "album": {
+        "name": "The Kitchen",
+        "url": "https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "The Kitchen",
+      "url": "https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0"
+    },
+    {
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "The Last Man On Earth",
+      "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
     },
     {
       "album": {
@@ -4063,7 +4269,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 172600,
       "name": "thought it was",
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
@@ -4320,6 +4526,24 @@
     },
     {
       "album": {
+        "name": "Wake Me Up (When This Nightmare's Over)",
+        "url": "https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare's Over)",
+      "url": "https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/54E3apTPVWbNr3kizUlxcq"
       },
@@ -4414,6 +4638,24 @@
     },
     {
       "album": {
+        "name": "What's Done is Done",
+        "url": "https://open.spotify.com/album/2ePmaLxFwdudLmUSj8eMwr"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "What\u2019s Done is Done",
+      "url": "https://open.spotify.com/track/4Gnn0gDHzMFRNx5DmX6gK8"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -4501,7 +4743,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"

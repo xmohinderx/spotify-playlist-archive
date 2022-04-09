@@ -1086,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Espionage",
+        "url": "https://open.spotify.com/album/6D7XC9r5x45DXCUDfjS0m1"
+      },
+      "artists": [
+        {
+          "name": "Inteus",
+          "url": "https://open.spotify.com/artist/19NNBW45HcAOPkYzJMeMNN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329612,
+      "name": "Espionage",
+      "url": "https://open.spotify.com/track/1mFmFZRC6mMSeMioZ5MfRh"
+    },
+    {
+      "album": {
         "name": "Even When It Hurts",
         "url": "https://open.spotify.com/album/60WED4aWktTTkbqw36QGa3"
       },

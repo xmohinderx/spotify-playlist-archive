@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 227456,
       "name": "A Patch of Old Snow",
       "url": "https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 183701,
       "name": "Beautiful Skin",
       "url": "https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 275231,
       "name": "D mol",
       "url": "https://open.spotify.com/track/0M7Ew3UU4f6UtQOsLFHNNp"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 204773,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3bIW46Go72C43usLCm2ADr"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 665120,
       "name": "It Should Have Happened A Long Time Ago",
       "url": "https://open.spotify.com/track/6VUDBYUWhvg7dCKef3a0ZI"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 134360,
       "name": "Just Now, Var. III",
       "url": "https://open.spotify.com/track/5rkbRJ922Kd9ECEmck7FAZ"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 382245,
       "name": "Koral",
       "url": "https://open.spotify.com/track/75J3oHSbGQesLlJ1vlQjj9"
@@ -1963,6 +1963,28 @@
       "duration_ms": 333546,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/3OnhMmKlWN1lLyGY6C01ji"
+    },
+    {
+      "album": {
+        "name": "Beyond The Missouri Sky",
+        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416040,
+      "name": "The Moon Song",
+      "url": "https://open.spotify.com/track/39Td6DiaWVzx5RcDCMWQFz"
     },
     {
       "album": {

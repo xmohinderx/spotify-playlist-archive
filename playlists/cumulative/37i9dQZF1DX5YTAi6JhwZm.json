@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/2TTkyu86wjF0ctenpw966O"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338106,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/5riSr1LFW4Bv7JzMNwIc9C"
+    },
+    {
+      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -197,6 +215,24 @@
       "duration_ms": 356746,
       "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+    },
+    {
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/14CJ7ivDy9dMuDdHHm19ES"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117493,
+      "name": "Camptown Races",
+      "url": "https://open.spotify.com/track/1NkCYPvbK6YVCoGp3GGtQ8"
     },
     {
       "album": {
@@ -417,6 +453,24 @@
       "duration_ms": 406213,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M"
+    },
+    {
+      "album": {
+        "name": "The Atomic Mr Basie",
+        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Flight of the Foo Birds",
+      "url": "https://open.spotify.com/track/2MZBVXviBSBenB8AnmsMXi"
     },
     {
       "album": {

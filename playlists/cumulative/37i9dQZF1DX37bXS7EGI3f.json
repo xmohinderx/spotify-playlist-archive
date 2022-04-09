@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-29",
-  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Hammerfall",
+  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Alestorm",
   "name": "Epic & Melodic",
   "published_playlist_ids": [
     "7kEcasUjgrsWeDSNxMBt56"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 282146,
       "name": "Brothers of the Past - 2022 Version",
       "url": "https://open.spotify.com/track/0Setu1TLxA25kpwiKs2PVp"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 249838,
       "name": "Clone",
       "url": "https://open.spotify.com/track/4G9hW8GiFh3CJrGOHCRzGv"
@@ -1044,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/67HLuJLje712aP4z6CGlIJ"
+      },
+      "artists": [
+        {
+          "name": "Moonshade",
+          "url": "https://open.spotify.com/artist/4K8ETf2R1Gs7fz5y21CTTN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251470,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq"
+    },
+    {
+      "album": {
         "name": "Escape the Silence",
         "url": "https://open.spotify.com/album/1iu2v0huz5qp6NVq8qdtza"
       },
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 279405,
       "name": "Follow Me - 2021 Version",
       "url": "https://open.spotify.com/track/0INe7Iyke6NFj22Qk1VUG4"
@@ -2000,6 +2018,46 @@
     },
     {
       "album": {
+        "name": "Into the Fray",
+        "url": "https://open.spotify.com/album/1i56v9dkURFNj7XHoundjA"
+      },
+      "artists": [
+        {
+          "name": "Jani Liimatainen",
+          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
+        },
+        {
+          "name": "Timo Kotipelto",
+          "url": "https://open.spotify.com/artist/6QUvv3P8ejJWoHqZNwnUQG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333693,
+      "name": "Into the Fray",
+      "url": "https://open.spotify.com/track/7AfWTnag2fhUVKY8oklYGN"
+    },
+    {
+      "album": {
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Invaders",
+      "url": "https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc"
+    },
+    {
+      "album": {
         "name": "Just Another Day",
         "url": "https://open.spotify.com/album/2NOle5O8JU8LgaqKjUvy02"
       },
@@ -2436,6 +2494,24 @@
     },
     {
       "album": {
+        "name": "Magellan's Expedition",
+        "url": "https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278899,
+      "name": "Magellan's Expedition",
+      "url": "https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s"
+    },
+    {
+      "album": {
         "name": "Magic Signs",
         "url": "https://open.spotify.com/album/1d8Ox6KeG0LC7RObcYR5eU"
       },
@@ -2707,6 +2783,24 @@
       "duration_ms": 196600,
       "name": "My Mother Told Me",
       "url": "https://open.spotify.com/track/4DoyIK599jZyOJxj5CK6Vu"
+    },
+    {
+      "album": {
+        "name": "My Shadow Self",
+        "url": "https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK"
     },
     {
       "album": {
@@ -3887,7 +3981,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 317940,
       "name": "The Crown and the Ring",
       "url": "https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N"
@@ -4347,7 +4441,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 210342,
       "name": "Turn Off the Light",
       "url": "https://open.spotify.com/track/7HMC4F7fwmR1hhkqrKfKJi"

@@ -1,12 +1,12 @@
 {
-  "description": "Tech house technicians. Cover: CID",
-  "num_followers": 544494,
+  "description": "Tech house technicians. Cover: Mark Knight",
+  "num_followers": 544622,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgzMjUxMiwwMDAwMDExNzAwMDAwMTdmZTYxMzgyZTMwMDAwMDE3ZmUwZjQ4OTcx",
+  "snapshot_id": "MTY0OTQzMjk1MiwwMDAwMDExYjAwMDAwMTgwMDlkZDdlZjgwMDAwMDE3ZmY1YmJmZTAy",
   "tracks": [
     {
       "added_at": "2022-04-01 17:01:52",
@@ -41,40 +41,88 @@
       "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
     },
     {
-      "added_at": "2022-03-25 17:23:15",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "Tripasia",
-        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Brisotti",
-          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         }
       ],
-      "duration_ms": 176791,
-      "name": "Tripasia",
-      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+      "duration_ms": 217080,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
     },
     {
-      "added_at": "2022-03-25 17:23:15",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "400",
-        "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "ACT ON",
+          "url": "https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 205466,
-      "name": "400",
-      "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
+      "duration_ms": 158765,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "State Of Mind (feat. Sarah de Warren) [Guz Remix]",
+        "url": "https://open.spotify.com/album/1TiR8DuQwzQaurJqTtY4tY"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "State Of Mind (feat. Sarah de Warren) - Guz Remix",
+      "url": "https://open.spotify.com/track/7rcuHUBzcsHNJOlPNvH14q"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "You Are A God",
+        "url": "https://open.spotify.com/album/5ufDKRN3NzQl8jCNbmBd40"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Cari Golden",
+          "url": "https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "You Are A God",
+      "url": "https://open.spotify.com/track/2HqBxTBH8GzRHaYxpvQVP5"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -99,6 +147,106 @@
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "Tripasia",
+        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "duration_ms": 176791,
+      "name": "Tripasia",
+      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/3Cbdi0BQD0TfC1tB5BJRS2"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "BINGEWATCH",
+          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
+        }
+      ],
+      "duration_ms": 225937,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5xSkFVN2VATZzjcvAeSaSO"
+    },
+    {
+      "added_at": "2022-03-25 17:23:15",
+      "album": {
+        "name": "400",
+        "url": "https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "400",
+      "url": "https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Feel (feat. MarynCharlie)",
+        "url": "https://open.spotify.com/album/3vSp8TGpjOx30VnzlPNj1w"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "MarynCharlie",
+          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
+        }
+      ],
+      "duration_ms": 168989,
+      "name": "Feel (feat. MarynCharlie)",
+      "url": "https://open.spotify.com/track/27cOULnIkVv1nFDmTZECkE"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -237,32 +385,20 @@
       "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
     },
     {
-      "added_at": "2022-04-01 04:01:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
-        "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/4CuSM5CQQKVwm29LXBnvEo"
       },
       "artists": [
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        },
-        {
-          "name": "Martha Wash",
-          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
-      "url": "https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR"
+      "duration_ms": 223450,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/7qIU50XAzFBYENwo5L5AeV"
     },
     {
       "added_at": "2022-03-25 17:23:15",
@@ -301,6 +437,30 @@
       "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/6Z6yYkyyRR8feI3BLRzqOq"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        },
+        {
+          "name": "Atlantic Garden",
+          "url": "https://open.spotify.com/artist/22Op85hP1ZLkoR0MD3t5bj"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/2xZbruVujURSsK3CRPpPJz"
+    },
+    {
       "added_at": "2022-03-11 18:48:28",
       "album": {
         "name": "La Danza",
@@ -315,6 +475,26 @@
       "duration_ms": 157619,
       "name": "La Danza",
       "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Pra Nao Dizer",
+        "url": "https://open.spotify.com/album/4T90MAy1ApB3LyatLqTqAc"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        }
+      ],
+      "duration_ms": 203971,
+      "name": "Pra Nao Dizer",
+      "url": "https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks"
     },
     {
       "added_at": "2022-03-25 18:09:12",
@@ -349,6 +529,22 @@
       "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Don't Stop the Music",
+        "url": "https://open.spotify.com/album/0qG1DZ3U6h4y0l8CWii36d"
+      },
+      "artists": [
+        {
+          "name": "Richard Grey",
+          "url": "https://open.spotify.com/artist/7xfEjDr3c7DIUoW0qf6s0A"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Don't Stop the Music - Original Mix",
+      "url": "https://open.spotify.com/track/5GSdqMlUmNA34MJbX4WYeP"
+    },
+    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Party",
@@ -381,6 +577,26 @@
       "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Your Soul EP",
+        "url": "https://open.spotify.com/album/7sTirjHMUMYwWivQKkEQWT"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "Gold Lemonade",
+          "url": "https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Keep It Goin",
+      "url": "https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Locco",
@@ -397,24 +613,32 @@
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-04-01 04:01:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3tqNGEZdCA5ZyLxquLoxBY"
+        "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         },
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        },
+        {
+          "name": "Martha Wash",
+          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
         }
       ],
-      "duration_ms": 186625,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2TxDyUw7JRuUNfbQmcn0Cs"
+      "duration_ms": 168000,
+      "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR"
     },
     {
       "added_at": "2022-03-11 18:48:28",
@@ -1685,26 +1909,6 @@
       "url": "https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI"
     },
     {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "My Humps",
-        "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
-    },
-    {
       "added_at": "2022-01-05 15:42:52",
       "album": {
         "name": "Really Really Hot",
@@ -2315,30 +2519,6 @@
       "duration_ms": 169133,
       "name": "Groove La Afrika",
       "url": "https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/6AITsfnOPby1JiJwUD7TBI"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
-      "url": "https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv"
     },
     {
       "added_at": "2021-12-03 17:29:09",

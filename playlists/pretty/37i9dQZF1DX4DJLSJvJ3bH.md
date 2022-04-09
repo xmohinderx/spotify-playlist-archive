@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,129 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,111 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Blue Christmas](https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Jazz Christmas](https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc) | 3:50 |
 | 70 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
 
-Snapshot ID: `MTY0OTM3OTUyOCwwMDAwMDAwMGE4MWU1YzliNTgyMjA5ZTExNzM4MjQxNDE2NThhYWY2`
+Snapshot ID: `MTY0OTQ2NTcwNiwwMDAwMDAwMGE4MWU1YzliNTgyMjA5ZTExNzM4MjQxNDE2NThhYWY2`

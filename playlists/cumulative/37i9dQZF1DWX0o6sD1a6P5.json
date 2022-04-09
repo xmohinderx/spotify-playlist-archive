@@ -2316,14 +2316,10 @@
     },
     {
       "album": {
-        "name": "Va bene (feat. Jul & Naza)",
+        "name": "Va bene (feat. 4.4.2 & Jul)",
         "url": "https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k"
       },
       "artists": [
-        {
-          "name": "4.4.2",
-          "url": "https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY"
-        },
         {
           "name": "Tayc",
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
@@ -2333,19 +2329,23 @@
           "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
           "name": "Naza",
           "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "4.4.2",
+          "url": "https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217021,
-      "name": "Va bene (feat. Jul & Naza)",
+      "name": "Va bene (feat. 4.4.2 & Jul)",
       "url": "https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3"
     },
     {

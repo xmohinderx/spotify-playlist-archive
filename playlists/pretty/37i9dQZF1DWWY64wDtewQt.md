@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,855 likes - 105 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,411 likes - 105 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 2 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 |
 | 3 | [SUICIDE YEAR](https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ) | 1:31 |
 | 4 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 |
-| 5 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 |
+| 5 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
 | 6 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 |
-| 7 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
-| 8 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
-| 9 | [North Memphis](https://open.spotify.com/track/3UoRLUFPhTSYqhbqSdlf1U) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/3pXNnx5yR3ozsjmHXnMDav) | 2:16 |
-| 10 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 |
-| 11 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 |
-| 12 | [Force of Nature](https://open.spotify.com/track/1tU8uSGm5STmi3FPJ3VnUc) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Force of Nature](https://open.spotify.com/album/2ODshRfVNQfKaSHa7bD3DH) | 3:28 |
+| 7 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
+| 8 | [North Memphis](https://open.spotify.com/track/3UoRLUFPhTSYqhbqSdlf1U) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/3pXNnx5yR3ozsjmHXnMDav) | 2:16 |
+| 9 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 |
+| 10 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
+| 11 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 |
+| 12 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 |
 | 13 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 |
-| 14 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 |
-| 15 | [LAST ONE](https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe) | [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz) | [LAST ONE](https://open.spotify.com/album/20fCMIeYP46IRXINaR7wq5) | 2:30 |
-| 16 | [DOWNING ME](https://open.spotify.com/track/3rxBuyFbUbsfslCAliycO7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [DREAM](https://open.spotify.com/album/3Zo5srzZBKt75pN3MhAZ6W) | 2:12 |
-| 17 | [Toxic](https://open.spotify.com/track/4DKFXmPUcKXEZGZumea5WE) | [SIDRENCHIK](https://open.spotify.com/artist/4u7VPxU2FXLXFJB20hmTAN) | [Toxic](https://open.spotify.com/album/0mcj5c7hnBA89WjqDEFR8g) | 2:16 |
+| 14 | [LAST ONE](https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe) | [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz) | [LAST ONE](https://open.spotify.com/album/20fCMIeYP46IRXINaR7wq5) | 2:30 |
+| 15 | [DOWNING ME](https://open.spotify.com/track/3rxBuyFbUbsfslCAliycO7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [DREAM](https://open.spotify.com/album/3Zo5srzZBKt75pN3MhAZ6W) | 2:12 |
+| 16 | [Toxic](https://open.spotify.com/track/4DKFXmPUcKXEZGZumea5WE) | [SIDRENCHIK](https://open.spotify.com/artist/4u7VPxU2FXLXFJB20hmTAN) | [Toxic](https://open.spotify.com/album/0mcj5c7hnBA89WjqDEFR8g) | 2:16 |
+| 17 | [Force of Nature](https://open.spotify.com/track/1tU8uSGm5STmi3FPJ3VnUc) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Force of Nature](https://open.spotify.com/album/2ODshRfVNQfKaSHa7bD3DH) | 3:28 |
 | 18 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 |
 | 19 | [HIT THE GAS](https://open.spotify.com/track/7BhiI0Z3iqqblrHlEhOVge) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [HIT THE GAS](https://open.spotify.com/album/5aEuFp7TWiZT88x3LNNRlw) | 2:08 |
 | 20 | [REASON TO LIVE](https://open.spotify.com/track/4ct6fY3UwHrY4IJIasEDfl) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [REASON TO LIVE](https://open.spotify.com/album/4nmSaKjoJkZH1Agf5brNku) | 3:12 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 104 | [Table Full of Kings](https://open.spotify.com/track/5eYZAIN6bHI0srA2iNd8uG) | [Dann](https://open.spotify.com/artist/60bD6XK3cMDEGwQqURVnjw) | [Memphis Apprentice](https://open.spotify.com/album/6C3Kn7WzIuAAnM5kUZgcSg) | 2:03 |
 | 105 | [Bounce](https://open.spotify.com/track/4LMVzEFDbxZhQc3iqy0YnL) | [Ihaveonechance](https://open.spotify.com/artist/1STAy1JvQQyNmcykEIh9rM), [Hies](https://open.spotify.com/artist/409aFAfrx44WjovOlThFIm) | [Bounce](https://open.spotify.com/album/4THmSdpu4Zs9fz7Nt5cqyC) | 2:11 |
 
-Snapshot ID: `MTY0OTI1MDc2NywwMDAwMDA0MTAwMDAwMTdmZmYwMTkzZWQwMDAwMDE3YmVkOTI4YWRl`
+Snapshot ID: `MTY0OTQxNDE3MiwwMDAwMDA0MzAwMDAwMTgwMDhiZWVlY2EwMDAwMDE3YmVkOTI4YWRl`

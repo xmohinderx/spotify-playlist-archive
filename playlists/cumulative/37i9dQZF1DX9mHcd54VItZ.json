@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Autobiography of an Evening",
+        "url": "https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Autobiography of an Evening",
+      "url": "https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX"
+    },
+    {
+      "album": {
         "name": "Love Bite",
         "url": "https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo"
       },
@@ -1203,6 +1221,24 @@
       "duration_ms": 307265,
       "name": "Red Handed",
       "url": "https://open.spotify.com/track/2G0YeSyBBpGRDk1p2xMZe8"
+    },
+    {
+      "album": {
+        "name": "Teen Tapes (For Performing Your Own Stunts)",
+        "url": "https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX"
     },
     {
       "album": {

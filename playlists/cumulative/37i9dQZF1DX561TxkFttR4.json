@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
+    },
+    {
+      "album": {
         "name": "Across Borders",
         "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
       },

@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.3\_5\-da3m0nsneverstop.caf](https://open.spotify.com/track/7fVnqLU7KEFJAXedeKafsa) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/012oKUlmu9qA84z4kYrOAj) | 2:10 | 2020-10-20\* |  |
+| [110 Dreams](https://open.spotify.com/track/0L4QsEnPKDHFDu3KYHbjMu) | [UAP](https://open.spotify.com/artist/1fEqRExfCuTtAfM8md9Phf) | [110 Dreams](https://open.spotify.com/album/0ZMK1jFG39nOA6n6dGaCi8) | 4:38 | 2022-04-08 |  |
 | [1982 Space Program](https://open.spotify.com/track/0CNolXkqcjhUEYdFjFDCy1) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Exploration 84](https://open.spotify.com/album/4oqsOmuIgfGiOADX2XRA12) | 4:32 | 2020-10-20\* |  |
 | [1987](https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [1987 EP](https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI) | 4:38 | 2021-10-03 |  |
 | [66 MHz](https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [66 MHz](https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK) | 3:54 | 2020-10-20\* |  |

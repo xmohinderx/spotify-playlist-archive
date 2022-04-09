@@ -13770,6 +13770,24 @@
     },
     {
       "album": {
+        "name": "You Kill My Cool",
+        "url": "https://open.spotify.com/album/5XJuXepgsWKL0uidTKSRDy"
+      },
+      "artists": [
+        {
+          "name": "The Subways",
+          "url": "https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "You Kill My Cool",
+      "url": "https://open.spotify.com/track/7gR45ZiEnwZbxtwxQJC9d0"
+    },
+    {
+      "album": {
         "name": "You Suck Dude",
         "url": "https://open.spotify.com/album/47qPZfTscKx7zKxWC2aSpG"
       },

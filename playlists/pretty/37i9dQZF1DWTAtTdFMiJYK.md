@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Parekh & Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,994 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,073 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 79 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 |
 | 80 | [Kaahe Ko Sataaye](https://open.spotify.com/track/5VvJxA5YDS3J88R6snUOX1) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Kaahe Ko Sataaye](https://open.spotify.com/album/2orsvLr1bGcUenmFBuaXM1) | 3:45 |
 
-Snapshot ID: `MTY0OTM3OTIwMiwwMDAwMDAwMGE3M2NmNzFiOTNlZTZhMzBhMmNhZjc2NjM4ODkyOWM0`
+Snapshot ID: `MTY0OTQ2NTM3NiwwMDAwMDAwMGE3M2NmNzFiOTNlZTZhMzBhMmNhZjc2NjM4ODkyOWM0`

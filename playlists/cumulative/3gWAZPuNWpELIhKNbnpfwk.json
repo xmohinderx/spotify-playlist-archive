@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "110 Dreams",
+        "url": "https://open.spotify.com/album/0ZMK1jFG39nOA6n6dGaCi8"
+      },
+      "artists": [
+        {
+          "name": "UAP",
+          "url": "https://open.spotify.com/artist/1fEqRExfCuTtAfM8md9Phf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278986,
+      "name": "110 Dreams",
+      "url": "https://open.spotify.com/track/0L4QsEnPKDHFDu3KYHbjMu"
+    },
+    {
+      "album": {
         "name": "Exploration 84",
         "url": "https://open.spotify.com/album/4oqsOmuIgfGiOADX2XRA12"
       },

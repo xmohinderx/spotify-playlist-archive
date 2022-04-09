@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: HAAi & Obi Franky",
+  "description": "The home for alternative electronic music. Cover: Lil Silva",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 239950,
       "name": "100 dollar bill",
       "url": "https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC"
@@ -109,10 +109,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 191520,
       "name": "3210",
       "url": "https://open.spotify.com/track/13VxdO5vy8rA1dXJgYfrKx"
+    },
+    {
+      "album": {
+        "name": "3210 (Ross from Friends Remix)",
+        "url": "https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352664,
+      "name": "3210 - Ross from Friends Remix",
+      "url": "https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O"
     },
     {
       "album": {
@@ -531,6 +553,28 @@
       "duration_ms": 332931,
       "name": "Back Tae Ayr",
       "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+    },
+    {
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213232,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1"
     },
     {
       "album": {
@@ -1582,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "Grammar",
+        "url": "https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461538,
+      "name": "Grammar",
+      "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
+    },
+    {
+      "album": {
         "name": "Gunk",
         "url": "https://open.spotify.com/album/5o1iZA91oDEL122dimCIDh"
       },
@@ -1789,6 +1851,24 @@
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT"
+    },
+    {
+      "album": {
+        "name": "I Kinda Missed It, Pt. 2 // We Want the Bag",
+        "url": "https://open.spotify.com/album/2bcMZ8OapFrn9lPa8a7KlX"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397500,
+      "name": "I Kinda Missed It, Pt. 2",
+      "url": "https://open.spotify.com/track/3sXK2mSjguulDYPUIzGg5y"
     },
     {
       "album": {
@@ -2430,6 +2510,28 @@
     },
     {
       "album": {
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        },
+        {
+          "name": "Lolo the Great",
+          "url": "https://open.spotify.com/artist/0eySNJmFWF37NqzpHNYnKT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh"
+    },
+    {
+      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -2775,7 +2877,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 201142,
       "name": "Play",
       "url": "https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu"
@@ -3410,6 +3512,32 @@
     },
     {
       "album": {
+        "name": "Speed Trials On Acid",
+        "url": "https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Dan Diamond",
+          "url": "https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203371,
+      "name": "Speed Trials On Acid (feat. Dan Diamond)",
+      "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
+    },
+    {
+      "album": {
         "name": "SOS MUSIC VOLUME 2",
         "url": "https://open.spotify.com/album/1llHE4inOjJG7mdaCEuUCR"
       },
@@ -3813,7 +3941,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 283373,
       "name": "True",
       "url": "https://open.spotify.com/track/5W9agjZMdYy8nlZoYYj0XU"

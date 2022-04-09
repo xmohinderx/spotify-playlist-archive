@@ -1692,6 +1692,24 @@
     },
     {
       "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "The Years",
+      "url": "https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z"
+    },
+    {
+      "album": {
         "name": "There You Are",
         "url": "https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl"
       },

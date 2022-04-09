@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Tom Grennan",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Vance Joy ",
   "name": "Everyday Favorites ",
   "published_playlist_ids": [
     "57Nh8OaYOKSlXPXupFKB2E"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 222337,
       "name": "400 Trillion",
       "url": "https://open.spotify.com/track/7J6nmPoXm6dIlVAIvSzUVp"
@@ -138,6 +138,42 @@
     },
     {
       "album": {
+        "name": "Heartbeat Changes (Part 1)",
+        "url": "https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174453,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8"
+    },
+    {
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219380,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
+    },
+    {
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -167,7 +203,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 216906,
       "name": "All Loved Out",
       "url": "https://open.spotify.com/track/2OfE3gVO974f6Vm9wqltl9"
@@ -185,10 +221,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 178546,
       "name": "All Of It All",
       "url": "https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n"
     },
     {
       "album": {
@@ -542,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -677,7 +749,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 202666,
       "name": "Don't Mess With Love",
       "url": "https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA"
@@ -912,6 +984,24 @@
     },
     {
       "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222488,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6"
+    },
+    {
+      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -1100,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "Hills Of Fire",
+        "url": "https://open.spotify.com/album/1YIf7cUYKJoMrR6LnY0seU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233885,
+      "name": "Hills Of Fire",
+      "url": "https://open.spotify.com/track/3FMJQgm2EIIaUiQXR3r36y"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/0gN1XPYzfFVGy0XFvzRuC3"
       },
@@ -1165,7 +1273,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
@@ -1679,7 +1787,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S"
@@ -1899,7 +2007,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
@@ -2627,6 +2735,24 @@
       "duration_ms": 194477,
       "name": "You",
       "url": "https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm"
+    },
+    {
+      "album": {
+        "name": "You Ain't Shit",
+        "url": "https://open.spotify.com/album/6GC5XiFPE4HKjtisa1bTVL"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158226,
+      "name": "You Ain't Shit",
+      "url": "https://open.spotify.com/track/6G7rge360le0bewy9WOcnw"
     },
     {
       "album": {

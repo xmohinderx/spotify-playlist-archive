@@ -1,12 +1,12 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 91286,
+  "num_followers": 91335,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDAyNTAwMDAwMTdmZTM0OTgzMmQwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY0OTM5MDUyMCwwMDAwMDAyNjAwMDAwMTgwMDc1NjA3MTUwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
     {
       "added_at": "2022-04-01 04:02:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO"
     },
     {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Bird of Passage",
+        "url": "https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Fat Hair",
+      "url": "https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP"
+    },
+    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Headless Chicken",
@@ -55,6 +71,22 @@
       "duration_ms": 519625,
       "name": "Headless Chicken",
       "url": "https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "The Roaring Twenties",
+        "url": "https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw"
+      },
+      "artists": [
+        {
+          "name": "Maarten Ouweneel",
+          "url": "https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG"
+        }
+      ],
+      "duration_ms": 298859,
+      "name": "The Roaring Twenties",
+      "url": "https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB"
     },
     {
       "added_at": "2021-07-30 04:01:00",

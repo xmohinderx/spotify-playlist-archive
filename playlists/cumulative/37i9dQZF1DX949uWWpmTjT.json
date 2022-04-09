@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 393431,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 264920,
       "name": "Alba",
       "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 183953,
       "name": "Bidin My Time",
       "url": "https://open.spotify.com/track/20bB0bptCjNdqQR6tL6knD"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 299046,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 466600,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190990,
       "name": "DFAA",
       "url": "https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 250813,
       "name": "Don't You Know I Care",
       "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 193413,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 453133,
       "name": "From Dream to Dream",
       "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 340360,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1zWZGoKD5FydwD8chRm1ii"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 348546,
       "name": "I Don't Stand A Ghost Of A Chance With You",
       "url": "https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 462773,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 400173,
       "name": "I Walked Bud",
       "url": "https://open.spotify.com/track/2PHdKqYKcegDxYeIsaWZxX"
@@ -1238,6 +1238,28 @@
     },
     {
       "album": {
+        "name": "The Trumpet Artistry Of Chet Baker",
+        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Moon Love",
+      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
       },
@@ -1253,7 +1275,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 618733,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
@@ -1329,7 +1351,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 255226,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0"
@@ -1354,6 +1376,32 @@
     },
     {
       "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588840,
+      "name": "Please Send Me Someone To Love",
+      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
+    },
+    {
+      "album": {
         "name": "Moon Beams [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
       },
@@ -1365,10 +1413,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 301333,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/5bemClhFeQ7fcth7mjjnKO"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/4A9VfIf7ttN6gFmZJkj7dS"
     },
     {
       "album": {
@@ -1395,7 +1461,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 317019,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/7iP9VLNBi1M52IFT8ZCyAa"
@@ -1453,7 +1519,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 445520,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/0ZXeZe8avZyPZIhfGJdt4I"
@@ -1583,7 +1649,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 407266,
       "name": "Sophisticated Lady - Remastered 1997",
       "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
@@ -1623,7 +1689,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
@@ -1677,7 +1743,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 201613,
       "name": "Stormy Weather (Keeps Rainin' All The Time)",
       "url": "https://open.spotify.com/track/5nT91D7XR6gWKuAcTy3IZv"
@@ -1851,7 +1917,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "The Sun Forgot To Shine This Morning",
       "url": "https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx"
@@ -1887,7 +1953,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 162333,
       "name": "There's A Boat That's Leavin' Soon For New York - From \"Porgy And Bess\"",
       "url": "https://open.spotify.com/track/6bfQCa9oirwmj84TJEsLYp"
@@ -1923,7 +1989,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 318946,
       "name": "Tis Autumn",
       "url": "https://open.spotify.com/track/0LNmnKqqiIreCnb8BMowCr"
@@ -1941,7 +2007,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 534520,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum"
@@ -2017,7 +2083,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 407533,
       "name": "We kiss In A Shadow",
       "url": "https://open.spotify.com/track/3HXe31FkbH5MHNyNoUI222"
@@ -2075,7 +2141,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "What's The Rush",
       "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
@@ -2115,7 +2181,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 281040,
       "name": "While My Lady Sleeps - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw"
@@ -2151,7 +2217,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"

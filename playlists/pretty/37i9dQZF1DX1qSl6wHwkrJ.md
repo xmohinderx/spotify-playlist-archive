@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [Really Been Good This Year](https://open.spotify.com/track/1fYAFiGWMZ2MQdP2xsIoQW) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:28 |
 | 50 | [Santa Claus Wants Some Lovin'](https://open.spotify.com/track/35d8cz7V2ppNIwmPFV5w9g) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:23 |
 
-Snapshot ID: `MTY0OTM3OTQ1OSwwMDAwMDAwMGE5ZWUxNTU3Y2M4YTRjZDc1ZDAxMjdiZGE4OTQ2YTk2`
+Snapshot ID: `MTY0OTQ2NTYzNSwwMDAwMDAwMGE5ZWUxNTU3Y2M4YTRjZDc1ZDAxMjdiZGE4OTQ2YTk2`

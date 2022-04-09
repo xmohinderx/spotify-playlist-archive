@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,631 likes - 75 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,742 likes - 75 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 |
 | 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 
-Snapshot ID: `MTY0OTM3OTUxNywwMDAwMDAwMGFmNmE5ZTFjM2Y0MDM3NTgxOWFkNjVhYjliNGQ1OTIy`
+Snapshot ID: `MTY0OTQ2NTY5NCwwMDAwMDAwMGFmNmE5ZTFjM2Y0MDM3NTgxOWFkNjVhYjliNGQ1OTIy`

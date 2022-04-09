@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661,849 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,662,040 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 2:54 |
 | 100 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
 
-Snapshot ID: `MTY0OTM3OTU1MywwMDAwMDAwMDJjYTU1OGQ3OGZhMDY4NWM1YTgyMGZkOTk4ZDZhZTQ2`
+Snapshot ID: `MTY0OTQ2NTczMiwwMDAwMDAwMDJjYTU1OGQ3OGZhMDY4NWM1YTgyMGZkOTk4ZDZhZTQ2`

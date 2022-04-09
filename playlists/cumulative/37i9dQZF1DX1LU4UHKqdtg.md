@@ -171,5 +171,6 @@
 | [ジレンマ](https://open.spotify.com/track/439K6P5nMguuX0C2d2kMxK) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [ジレンマ](https://open.spotify.com/album/4XGNyv71OpEDScASJSwkKc) | 3:03 | 2022-02-22 | 2022-03-11 |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 |  |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
+| [酒 \(JIU\)](https://open.spotify.com/track/7iWEo1YPXrWELXh4pD9S6w) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [酒 \(JIU\)](https://open.spotify.com/album/78Yo8PKLNKJsVuqFQylA9l) | 3:06 | 2022-04-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

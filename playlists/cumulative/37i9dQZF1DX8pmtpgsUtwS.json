@@ -606,6 +606,28 @@
     },
     {
       "album": {
+        "name": "Jazbaat",
+        "url": "https://open.spotify.com/album/02WsvCMmNNPnsQLToOKMdL"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Express",
+          "url": "https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn"
+        },
+        {
+          "name": "Shubham Roy",
+          "url": "https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346791,
+      "name": "Jazbaat",
+      "url": "https://open.spotify.com/track/5KPgdiXBqZeMKn3LSkNV8S"
+    },
+    {
+      "album": {
         "name": "Jhooti Jhooti Batiyaan",
         "url": "https://open.spotify.com/album/4stZhzbynvnfaqNTEYVDq0"
       },

@@ -1,13 +1,49 @@
 {
-  "description": "All new, all blues. Cover: Laura Evans",
-  "num_followers": 114852,
+  "description": "All new, all blues. Cover: Fantastic Negrito",
+  "num_followers": 114914,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDBiYTAwMDAwMTdmZTM0OTgzMmQwMDAwMDE3ZmI4NWExNjI0",
+  "snapshot_id": "MTY0OTM5MDQ2MCwwMDAwMDBiYjAwMDAwMTgwMDc1NTFjZWMwMDAwMDE3ZmZiNDEwYTc4",
   "tracks": [
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Trudoo",
+        "url": "https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217059,
+      "name": "Trudoo",
+      "url": "https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
+    },
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Stay away from me",
+        "url": "https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra"
+      },
+      "artists": [
+        {
+          "name": "Nathan Jubber",
+          "url": "https://open.spotify.com/artist/2Ax0SEV5ct7Q3EOJDbxsJZ"
+        }
+      ],
+      "duration_ms": 162622,
+      "name": "Stay away from me",
+      "url": "https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Bad Habit",
@@ -71,6 +123,42 @@
       "duration_ms": 232941,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Hits Like Lightning",
+        "url": "https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45"
+      },
+      "artists": [
+        {
+          "name": "Foreign Affairs",
+          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
+        }
+      ],
+      "duration_ms": 162030,
+      "name": "Hits Like Lightning",
+      "url": "https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Sunshine Blue",
+        "url": "https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Sunshine Blue",
+      "url": "https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw"
     },
     {
       "added_at": "2022-03-25 04:01:00",

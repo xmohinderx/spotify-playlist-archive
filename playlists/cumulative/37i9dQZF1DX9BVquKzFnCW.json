@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
@@ -297,10 +297,40 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 234426,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/11zGAB6yiVU0x27PvuiKjr"
+    },
+    {
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414466,
+      "name": "Charcoal Blues - Remastered 2004",
+      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
     },
     {
       "album": {
@@ -435,7 +465,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 425960,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy"
@@ -489,7 +519,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 425933,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
@@ -529,6 +559,24 @@
       "duration_ms": 482440,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351826,
+      "name": "Fran-Dance - alternate take",
+      "url": "https://open.spotify.com/track/4lcVPIWSWPB7F1emLGz1Tm"
     },
     {
       "album": {
@@ -633,7 +681,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 299960,
       "name": "How My Heart Sings",
       "url": "https://open.spotify.com/track/2Ux4XVw6LxaN4Kr4QncNkU"
@@ -723,7 +771,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 462773,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
@@ -1224,6 +1272,32 @@
     },
     {
       "album": {
+        "name": "Legacy Of A Legend",
+        "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "Ode To A Cowboy",
+      "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
+    },
+    {
+      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
       },
@@ -1271,7 +1345,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
@@ -1314,6 +1388,32 @@
     },
     {
       "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Peri's Scope",
+      "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
+    },
+    {
+      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
@@ -1325,7 +1425,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 331253,
       "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
@@ -1529,6 +1629,24 @@
       "duration_ms": 320920,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH"
     },
     {
       "album": {
@@ -1881,7 +1999,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 442533,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/5vooXq1F3SrYJl8TGtMsHA"
@@ -1917,7 +2035,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
@@ -1957,6 +2075,24 @@
       "duration_ms": 344373,
       "name": "Yardbird Suite",
       "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "You\u2019re Driving Me Crazy",
+      "url": "https://open.spotify.com/track/1iBs0OyTuRQG2ZLkYEbxLT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9BVquKzFnCW"

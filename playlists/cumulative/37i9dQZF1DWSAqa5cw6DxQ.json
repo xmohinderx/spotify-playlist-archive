@@ -318,6 +318,42 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb"
+    },
+    {
+      "album": {
+        "name": "Guitar Meditation",
+        "url": "https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX"
+      },
+      "artists": [
+        {
+          "name": "Michael Marc",
+          "url": "https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133765,
+      "name": "Chill Spa Music",
+      "url": "https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ"
       },

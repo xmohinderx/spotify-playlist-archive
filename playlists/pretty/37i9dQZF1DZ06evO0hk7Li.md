@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,945 likes - 48 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,954 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 29 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 |
 | 30 | [Something Beautiful](https://open.spotify.com/track/32sEFeCIpyTaEwnhWGrE1J) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 3:39 |
 | 31 | [Remember](https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [I Owe You Nothing / Remember](https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr) | 4:12 |
-| 32 | [You Don't Even Call Me](https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 4:01 |
+| 32 | [Sink or Swim](https://open.spotify.com/track/0kFV57VAYDJEcbtOK7YmNS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:38 |
 | 33 | [Move with You](https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Move With You](https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d) | 3:09 |
 | 34 | [Kids On the Corner](https://open.spotify.com/track/0gxvQg0BxoKjiIE2v4ie7y) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 3:25 |
 | 35 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
-| 36 | [Sink or Swim](https://open.spotify.com/track/0kFV57VAYDJEcbtOK7YmNS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:38 |
+| 36 | [You Don't Even Call Me](https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 4:01 |
 | 37 | [You Might Find Me](https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:27 |
 | 38 | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/album/7GcRDb1Li5vr4q1hLQCWdM) | 3:42 |
 | 39 | [Rizla](https://open.spotify.com/track/5RcM4gHZICI1DqMr5SpnVE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 47 | [Redemption](https://open.spotify.com/track/6i9Y0BUxejRaa1oiQK6cqf) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Life \(Deluxe\)](https://open.spotify.com/album/1Z0wiHzWvZ1qtWkEKNE6TW) | 3:50 |
 | 48 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDBjYmYwMzQ3YWQ0YzAxNDZhMjIxOWZiZmU2MWZhYzBhMQ==`
+Snapshot ID: `Mjc0OTA0NDMsMDAwMDAwMDA0YjI5ZTc0MzcwMGJkYTY0NzZhMTBlNTRlNjE0NmZmYQ==`

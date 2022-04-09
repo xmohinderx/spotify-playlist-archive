@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,269 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,309 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 14 | [Boom \(feat\. MOTi, Ty Dolla $ign, Wizkid & Kranium\)](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 |
 | 15 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
 | 16 | [Ojuelegba](https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:36 |
-| 17 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
-| 18 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
+| 17 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
+| 18 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
 | 19 | [Ghetto Love](https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto Love](https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2) | 3:18 |
 | 20 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 21 | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv) | 3:33 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 46 | [This Kind Luv](https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:49 |
 | 47 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 |
 | 48 | [Pakurumo](https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:32 |
-| 49 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
-| 50 | [Dirty Wine \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:01 |
+| 49 | [Dirty Wine \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:01 |
+| 50 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDBmMDg3YWJlZGQwZTQ1OTIzOTJlMzdlNmVmMjZiNzMxMQ==`
+Snapshot ID: `Mjc0OTA0NDMsMDAwMDAwMDAzMzcyM2E2MGNhZGU3NGNlNjZiZGVlYWQ4ZDg3MjUwMw==`

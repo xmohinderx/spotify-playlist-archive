@@ -908,6 +908,32 @@
     },
     {
       "album": {
+        "name": "Colours (Sublab Remix)",
+        "url": "https://open.spotify.com/album/5pzwKqAhA94uPq9nHZ27tA"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Colours - Sublab Remix",
+      "url": "https://open.spotify.com/track/2PRt6lN51AU82RORtjC0pm"
+    },
+    {
+      "album": {
         "name": "Moria",
         "url": "https://open.spotify.com/album/2cWxHrXLktYn2jh0dptnut"
       },
@@ -1341,7 +1367,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 140000,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/5o1QZzfsboTlxhoAPR36LA"
@@ -1367,7 +1393,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 112000,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/6NLgMm1fbFNgZg7MaRHq2W"
@@ -1627,6 +1653,28 @@
       "duration_ms": 209600,
       "name": "Fight for It",
       "url": "https://open.spotify.com/track/4T0ogybMZD4TgI6XUcU4gR"
+    },
+    {
+      "album": {
+        "name": "Find My Own Way (Klassic Remix)",
+        "url": "https://open.spotify.com/album/79Oxn79sqqINdbsmHEnaor"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        },
+        {
+          "name": "Klassic",
+          "url": "https://open.spotify.com/artist/3GK2baUfq1sC80Ss1TIJx0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185888,
+      "name": "Find My Own Way - Klassic Remix",
+      "url": "https://open.spotify.com/track/1XVV4kghwYVW33D8JrnnYy"
     },
     {
       "album": {
@@ -1975,6 +2023,32 @@
       "duration_ms": 187945,
       "name": "HEROIN",
       "url": "https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8"
+    },
+    {
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/2Xt39TtY6ayTD6IfZhW3CU"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "RIENK",
+          "url": "https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129529,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1Usby6wCOlnwFcbcXtqO8O"
     },
     {
       "album": {
@@ -4727,7 +4801,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 164397,
       "name": "Visions",
       "url": "https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn"

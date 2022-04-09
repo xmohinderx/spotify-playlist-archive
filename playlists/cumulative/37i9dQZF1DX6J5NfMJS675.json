@@ -1448,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/2xKakGV3jfL6ghykptVMpF"
       },
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 385190,
       "name": "Hyper World",
       "url": "https://open.spotify.com/track/5k5TtPbBNyTy5F7o0TqKVP"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 392727,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2RlFL1FgHR8Kt6Mwkwsg0K"
@@ -3975,6 +3993,24 @@
       "duration_ms": 444084,
       "name": "Rave Cave",
       "url": "https://open.spotify.com/track/6GwHqZ8aM58nTcGzulYmsm"
+    },
+    {
+      "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
       "album": {

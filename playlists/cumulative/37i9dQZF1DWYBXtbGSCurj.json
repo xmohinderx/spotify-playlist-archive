@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Costa Gold",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Hyperanhas",
   "name": "Trap Ouro",
   "published_playlist_ids": [
     "4T7iGLaKVcPullqJpNjFYS"
@@ -998,6 +998,58 @@
     },
     {
       "album": {
+        "name": "Ela Me Complica",
+        "url": "https://open.spotify.com/album/6NV4zX4BMGnFvpRTSgVBEN"
+      },
+      "artists": [
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        },
+        {
+          "name": "MC Lucks",
+          "url": "https://open.spotify.com/artist/11vFELtbAlOir58NCnfEKq"
+        },
+        {
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Ela Me Complica",
+      "url": "https://open.spotify.com/track/7p9BmLTCzow2aYzrNQGKg3"
+    },
+    {
+      "album": {
+        "name": "Ela Rebola Pra Mim e Senta",
+        "url": "https://open.spotify.com/album/6XDqXxUJdrvrVE0E8tpUz9"
+      },
+      "artists": [
+        {
+          "name": "JK",
+          "url": "https://open.spotify.com/artist/7fhNdrAf9drUALOXjQbnMW"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Nobru Black",
+          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244284,
+      "name": "Ela Rebola Pra Mim e Senta",
+      "url": "https://open.spotify.com/track/7ssx7WIG1M0VAErCdtRB8n"
+    },
+    {
+      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/3jqd57ft9JoXiJnIJreNHb"
       },
@@ -1580,6 +1632,32 @@
     },
     {
       "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
+      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
+    },
+    {
+      "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/75HPiH3QdcUvYWCcZLAMng"
       },
@@ -1989,7 +2067,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 147740,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/3wKfelws5Mak6BpV8HG0dc"
@@ -3037,7 +3115,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 283747,
       "name": "Ouro Ros\u00e9 II",
       "url": "https://open.spotify.com/track/4sDtOypFLuQGujmcic6aUv"
@@ -3387,7 +3465,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 120000,
       "name": "Princesa do Morro",
       "url": "https://open.spotify.com/track/3p9yAHLinHSBrqCdmA55l2"

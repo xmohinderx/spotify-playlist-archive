@@ -148,6 +148,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7g4mFu5vX4VZT5CVeXDKOe"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/34enNnTqxTFXEp5BFpgD5l"
+    },
+    {
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B"
       },
@@ -1425,6 +1443,24 @@
       "duration_ms": 188852,
       "name": "Fool For Ya",
       "url": "https://open.spotify.com/track/3MzC6XQa26SurM3VX5ovZE"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc"
     },
     {
       "album": {
@@ -3170,6 +3206,24 @@
     },
     {
       "album": {
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/1fzqZXdmmKi4inSKoDJM5Y"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Pathway",
+      "url": "https://open.spotify.com/track/0au2fnq9tGdAGyNWuthEew"
+    },
+    {
+      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/2dEFkkBjhmbWc2VT3zkcgu"
       },
@@ -4365,6 +4419,28 @@
       "duration_ms": 236170,
       "name": "Trampoline - Jauz Remix",
       "url": "https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll"
+    },
+    {
+      "album": {
+        "name": "Trip To Mars",
+        "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Sammi Constantine",
+          "url": "https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212935,
+      "name": "Trip To Mars",
+      "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
     },
     {
       "album": {

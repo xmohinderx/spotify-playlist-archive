@@ -1,18 +1,18 @@
 {
-  "description": "DMV music breaking waves. Cover: MARTI",
-  "num_followers": 9936,
+  "description": "DMV music breaking waves. Cover: Yung Manny",
+  "num_followers": 9940,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAzNDAwMDAwMTdmZTM0N2FlYjIwMDAwMDE3ZmUzM2ZhZjEw",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDAzNTAwMDAwMTgwMDc1NDMyYjcwMDAwMDE4MDA2Y2QzNzNl",
   "tracks": [
     {
-      "added_at": "2022-03-04 05:13:30",
+      "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "Hear Me Clearly",
-        "url": "https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi"
+        "name": "Neck & Wrist",
+        "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
       "artists": [
         {
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
         {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 141547,
-      "name": "Hear Me Clearly (with Nigo)",
-      "url": "https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS"
+      "duration_ms": 209314,
+      "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
+      "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -49,6 +53,42 @@
       "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "2much!",
+        "url": "https://open.spotify.com/album/443RBSVIDMtixEIT4cagJC"
+      },
+      "artists": [
+        {
+          "name": "Lil Burnt Ketchup",
+          "url": "https://open.spotify.com/artist/2iLd0uKrUR1mruLlVf8fJR"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "duration_ms": 190055,
+      "name": "2much!",
+      "url": "https://open.spotify.com/track/3wzJyzD19Qu9eGQ4WkfCDP"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Taco",
+        "url": "https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Taco",
+      "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "BSU (Shut Up)",
@@ -63,6 +103,38 @@
       "duration_ms": 161816,
       "name": "BSU (Shut Up)",
       "url": "https://open.spotify.com/track/1Copp20ewBPoetwaP3XVDr"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Me & My Weapon",
+        "url": "https://open.spotify.com/album/3VDQqiahFQSOgA0eq6oxjr"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "duration_ms": 150187,
+      "name": "Me & My Weapon",
+      "url": "https://open.spotify.com/track/1wlATrcYdFPujJw6xPJsld"
+    },
+    {
+      "added_at": "2022-03-18 06:49:35",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -209,6 +281,26 @@
       "url": "https://open.spotify.com/track/3O8vdWwaxU0RMWP7XBS6NC"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "You Ready",
+        "url": "https://open.spotify.com/album/3M4DJPSOTNOfdgjS2yIs27"
+      },
+      "artists": [
+        {
+          "name": "Dough 2.0h",
+          "url": "https://open.spotify.com/artist/5SlSMGFLJO8Vsa11ri5HfO"
+        },
+        {
+          "name": "DJ Schemes",
+          "url": "https://open.spotify.com/artist/3n191rw9FJtgf7r3VkGuJk"
+        }
+      ],
+      "duration_ms": 185704,
+      "name": "You Ready",
+      "url": "https://open.spotify.com/track/6SrwuTWyNdze4UzJFXkZtA"
+    },
+    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Sorry 4 the OSSH",
@@ -271,22 +363,6 @@
       "duration_ms": 179696,
       "name": "C.L.O.U.D.S",
       "url": "https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB"
-    },
-    {
-      "added_at": "2022-03-18 06:49:35",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/5HNPfgoy393M0xbdZzAmKd"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
     },
     {
       "added_at": "2022-03-18 06:49:35",
@@ -755,58 +831,6 @@
       "duration_ms": 96052,
       "name": "Out My Body",
       "url": "https://open.spotify.com/track/3sjX3mGo9JuBqX5I4lLaK6"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Letter Grade",
-        "url": "https://open.spotify.com/album/4fhWfiF5SltcSgOdGsgu8r"
-      },
-      "artists": [
-        {
-          "name": "Shark Breach",
-          "url": "https://open.spotify.com/artist/3dXwEWeXNM60sfrLdiBKP6"
-        },
-        {
-          "name": "Swerzie",
-          "url": "https://open.spotify.com/artist/5cdRW3M7PAo9EAB0qYk8bU"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Letter Grade",
-      "url": "https://open.spotify.com/track/2PAQ6lDXfmB7DJxMZLJtqk"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Range Rover",
-        "url": "https://open.spotify.com/album/3klTzIpepOkSDNz3J7Qw3h"
-      },
-      "artists": [
-        {
-          "name": "Babyxsosa",
-          "url": "https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ"
-        }
-      ],
-      "duration_ms": 69564,
-      "name": "Range Rover",
-      "url": "https://open.spotify.com/track/3xFIvufsojCwJSd3ReS74O"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Weapons Lie",
-        "url": "https://open.spotify.com/album/4BDHYQRaCEmjtoOAcQwWuR"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 138049,
-      "name": "Weapons Lie",
-      "url": "https://open.spotify.com/track/0XdeEmgE4IyNYYlslA5JyD"
     },
     {
       "added_at": "2022-03-04 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,046 likes - 155 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,163 likes - 155 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 101 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 |
 | 102 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 |
 | 103 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 |
-| 104 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 |
+| 104 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 |
 | 105 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 |
 | 106 | [The Winter of My Discontent](https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Beloved of the Sky](https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ) | 7:20 |
 | 107 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 |

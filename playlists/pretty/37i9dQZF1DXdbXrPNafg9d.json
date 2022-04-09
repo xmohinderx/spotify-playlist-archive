@@ -1,13 +1,369 @@
 {
-  "description": "The best new tracks every week. Cover: Arlo Parks",
-  "num_followers": 1198033,
+  "description": "The best new tracks every week. Cover: Omar Apollo",
+  "num_followers": 1198226,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDI4MzAwMDAwMTdmZTM0N2FlYjYwMDAwMDE3ZmUxZTE5Mjk3",
+  "snapshot_id": "MTY0OTQ0Njc0MywwMDAwMDI4NTAwMDAwMTgwMGFhZmVmNDgwMDAwMDE4MDA1YjI1MTA3",
   "tracks": [
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Ur Mum",
+        "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Ur Mum",
+      "url": "https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "That's Where I Am",
+        "url": "https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Dot",
+        "url": "https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX"
+      },
+      "artists": [
+        {
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
+        }
+      ],
+      "duration_ms": 322586,
+      "name": "Dot",
+      "url": "https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "The Next 20th Century",
+        "url": "https://open.spotify.com/album/0uA5metsUf0bd1jBf1MZgh"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 416693,
+      "name": "The Next 20th Century",
+      "url": "https://open.spotify.com/track/46cancExMUYCCkOKLqQ78E"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "purgatory",
+        "url": "https://open.spotify.com/album/4YPPEhZL6jnJRyCYWu6UaU"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 248453,
+      "name": "purgatory",
+      "url": "https://open.spotify.com/track/7vIW48A9n1kDD14DI98lsc"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "double standard",
+        "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "double standard",
+      "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "puppy luv",
+        "url": "https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 163082,
+      "name": "nice pup",
+      "url": "https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "hate to be lame",
+        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 156798,
+      "name": "hate to be lame (feat. FINNEAS)",
+      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
+    },
+    {
+      "added_at": "2022-04-08 19:39:03",
+      "album": {
+        "name": "Shock Flesh",
+        "url": "https://open.spotify.com/album/5v5XVEaBSrL2wAURNfUEAf"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 221064,
+      "name": "Shock Flesh",
+      "url": "https://open.spotify.com/track/5x9TpKuPv0dkGF5jxUNgZd"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "I Don\u2019t Have Control Sometimes",
+        "url": "https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 153054,
+      "name": "I Don\u2019t Have Control Sometimes",
+      "url": "https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Perfected Steps",
+        "url": "https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 398491,
+      "name": "Perfected Steps",
+      "url": "https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL"
+    },
+    {
+      "added_at": "2022-04-08 19:39:03",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Work Out",
+        "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 291776,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
+    },
+    {
+      "added_at": "2022-04-08 19:39:03",
+      "album": {
+        "name": "Town",
+        "url": "https://open.spotify.com/album/0MLoqSn4uzTbybCdM9Hhkv"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Town",
+      "url": "https://open.spotify.com/track/1vOx4E1M76XOP4nkYaoBgq"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "My Echo",
+        "url": "https://open.spotify.com/album/3y33CXQRWrRZttJV1hXl2L"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "My Echo",
+      "url": "https://open.spotify.com/track/5tFleO79RsHgXTqyDjoFWT"
+    },
+    {
+      "added_at": "2022-04-08 19:39:03",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/0pZgWeVFEMFEkLljfazaCr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2S9ioeurLIMRV9XIlsiBxS"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Homeschool: Book II",
+        "url": "https://open.spotify.com/album/5c7spvnif2WCfBfUArnKgz"
+      },
+      "artists": [
+        {
+          "name": "Homeschool",
+          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "The Strangest Thing",
+      "url": "https://open.spotify.com/track/7sumQuqsfJOuQERyfDq6FP"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Book Of Our Names",
+        "url": "https://open.spotify.com/album/2P6xXZdy5Gxn5EhqAGqhTF"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Book Of Our Names",
+      "url": "https://open.spotify.com/track/1RJKZ9na1sB3RrUIEeinLg"
+    },
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {

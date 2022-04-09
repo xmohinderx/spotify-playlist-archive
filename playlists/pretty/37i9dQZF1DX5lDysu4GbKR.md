@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,559 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,659 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 4 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 |
 | 5 | [Colors \- Acoustic](https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/4qCOopm0NNnTIs92GoQKnm) | 5:23 |
 | 6 | [Feet Don't Fail Me Now \- Live Acoustic Version](https://open.spotify.com/track/5h9DWBKM0eXCsKIemi0nyM) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now \(Live Acoustic Version\)](https://open.spotify.com/album/4JGBm9QfSWxAZvO5wgotj8) | 3:26 |
-| 7 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
-| 8 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 |
+| 7 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 |
+| 8 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
 | 9 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 |
 | 10 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 |
 | 11 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 |
 | 100 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY0ODQ2MTI5OCwwMDAwMDA4NTAwMDAwMTdmY2ZmMzNiODIwMDAwMDE3ZDEzOTQ1MDcx`
+Snapshot ID: `MTY0OTQxMDM2NywwMDAwMDA4NjAwMDAwMTgwMDg4NGUxYTUwMDAwMDE3ZDEzOTQ1MDcx`

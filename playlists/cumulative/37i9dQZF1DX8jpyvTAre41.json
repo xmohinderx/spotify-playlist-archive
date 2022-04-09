@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Red Hot Chili Peppers",
+  "description": "The hottest tunes in rock. Crank it up! Cover: L\u00d8L\u00d8",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 207333,
       "name": "American Dreams",
       "url": "https://open.spotify.com/track/2m0DylsG34gQLYoolnIH2U"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/738ea6GnnVj6w8RiiX3B47"
@@ -937,6 +937,24 @@
       "duration_ms": 182853,
       "name": "Devastatingly Mediocre",
       "url": "https://open.spotify.com/track/2WkOcuI6MDChQqqofsuXsz"
+    },
+    {
+      "album": {
+        "name": "To Hell With You, I Love You",
+        "url": "https://open.spotify.com/album/0O3etrjarBOgWlCYhBNtjH"
+      },
+      "artists": [
+        {
+          "name": "Deanna Petcoff",
+          "url": "https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182853,
+      "name": "Devastatingly Mediocre",
+      "url": "https://open.spotify.com/track/6xInLalqFCmsLDmVWkF4Gy"
     },
     {
       "album": {
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 122901,
       "name": "Fear Of The Dawn",
       "url": "https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw"
@@ -1509,6 +1527,24 @@
       "duration_ms": 195814,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5R8SxUYD9W4rXuak7DH1nh"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202466,
+      "name": "Gimme Spirit",
+      "url": "https://open.spotify.com/track/3yugLVA1ewfpNtxzDCkD6Q"
     },
     {
       "album": {
@@ -1855,7 +1891,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 225343,
       "name": "If You Were Me",
       "url": "https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE"
@@ -1974,6 +2010,24 @@
     },
     {
       "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/6XnFiwvPC1UBH9ZRkfb94q"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159596,
+      "name": "junkie",
+      "url": "https://open.spotify.com/track/2WIWwLS7IOl3GzQmr1GJSb"
+    },
+    {
+      "album": {
         "name": "Just What I Needed",
         "url": "https://open.spotify.com/album/0I00sFWhGUoZY0muWNXA6M"
       },
@@ -2010,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
+    },
+    {
+      "album": {
         "name": "Kill The Noise",
         "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
@@ -2021,7 +2093,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
@@ -2718,6 +2790,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182065,
+      "name": "Need You Tonight - Spotify Singles",
+      "url": "https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63"
+    },
+    {
+      "album": {
         "name": "Neurotic (feat. Lukas Rossi)",
         "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
       },
@@ -2809,6 +2899,42 @@
       "duration_ms": 209317,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/3rDtj7Aykjkfuw8TBIDUOK"
+    },
+    {
+      "album": {
+        "name": "Envy of None",
+        "url": "https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy"
+      },
+      "artists": [
+        {
+          "name": "Envy Of None",
+          "url": "https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246397,
+      "name": "Never Said I Love You",
+      "url": "https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf"
+    },
+    {
+      "album": {
+        "name": "Ego Trip",
+        "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "No Apologies",
+      "url": "https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb"
     },
     {
       "album": {
@@ -3305,10 +3431,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 203042,
       "name": "Rock and Roll (Ain't No Simple Thing)",
       "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
+    },
+    {
+      "album": {
+        "name": "In Good Time",
+        "url": "https://open.spotify.com/album/46JOax9Ae2TFpLQQbofUVz"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220152,
+      "name": "Rock n Roll",
+      "url": "https://open.spotify.com/track/0a3HBsPWPOHOFwRx75dUtJ"
     },
     {
       "album": {
@@ -3323,7 +3467,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 220152,
       "name": "Rock n Roll",
       "url": "https://open.spotify.com/track/2wp72dpFc0ZdjVuAcU3A4C"
@@ -3547,10 +3691,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 152280,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2VSDgY45ztAF4R4TJHKVOu"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/3FMudXjXtacIvLP4D00KF9"
     },
     {
       "album": {
@@ -3879,7 +4041,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 275000,
       "name": "The Beautiful",
       "url": "https://open.spotify.com/track/3fyCwnT64CHVVLXVyAnpKc"
@@ -4095,7 +4257,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 243859,
       "name": "Truth Be Told",
       "url": "https://open.spotify.com/track/1N61QLRTGgzb97qTd03KhZ"
@@ -4273,6 +4435,42 @@
       "duration_ms": 260866,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV"
+    },
+    {
+      "album": {
+        "name": "Washed Away",
+        "url": "https://open.spotify.com/album/6MI2S0SLN6rKzdYr8uBVTB"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200939,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG"
+    },
+    {
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "album": {

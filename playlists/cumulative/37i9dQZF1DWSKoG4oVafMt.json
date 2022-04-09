@@ -160,6 +160,32 @@
     },
     {
       "album": {
+        "name": "Balle Ni Balle",
+        "url": "https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Balle Ni Balle",
+      "url": "https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR"
+    },
+    {
+      "album": {
         "name": "Bas",
         "url": "https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX"
       },
@@ -495,6 +521,24 @@
       "duration_ms": 156818,
       "name": "Chobara",
       "url": "https://open.spotify.com/track/2aK4FvQCWnyac8NshliNGd"
+    },
+    {
+      "album": {
+        "name": "Choodhe Wali",
+        "url": "https://open.spotify.com/album/1UxPVWhAlJFxzaiyAxqmld"
+      },
+      "artists": [
+        {
+          "name": "Akaal",
+          "url": "https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Choodhe Wali",
+      "url": "https://open.spotify.com/track/7EpBW8ix608NfhLh86wclH"
     },
     {
       "album": {
@@ -3171,6 +3215,28 @@
       "duration_ms": 226046,
       "name": "Pagal Nahi Hona (feat. Sonu Sood)",
       "url": "https://open.spotify.com/track/1BPnrHYkrXc28xp66lB2CZ"
+    },
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2AjzWvwY2v5Mw1iFYNzGsY"
+      },
+      "artists": [
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Minister Music",
+          "url": "https://open.spotify.com/artist/4onBePCRXkocuDcGQXRCH7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225806,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0nb2IsOz3YO9JYvLENh3oW"
     },
     {
       "album": {

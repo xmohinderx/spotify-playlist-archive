@@ -1,12 +1,12 @@
 {
   "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Katy Perry & Thomas Rhett",
-  "num_followers": 739965,
+  "num_followers": 740251,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI3NzU3OCwwMDAwMDBlYzAwMDAwMTgwMDA5YWFkMzEwMDAwMDE3ZmQwZjY5Y2Fk",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDBlZDAwMDAwMTgwMDc1NDMyZDQwMDAwMDE3ZmQwZjY5Y2Fk",
   "tracks": [
     {
       "added_at": "2022-04-06 20:39:38",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "I Burned LA Down",
+        "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+    },
+    {
       "added_at": "2022-04-06 20:39:38",
       "album": {
         "name": "When You're Gone",
@@ -47,38 +63,6 @@
     {
       "added_at": "2022-04-06 20:39:38",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Humble Quest",
-      "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/0pC2nDSKjfCdEth7murfOu"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 185388,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1a5KFrCyfZLa6EeOU6kr7S"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -135,18 +135,34 @@
     {
       "added_at": "2022-04-06 20:39:38",
       "album": {
-        "name": "evergone",
-        "url": "https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL"
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 209300,
-      "name": "evergone",
-      "url": "https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx"
+      "duration_ms": 204240,
+      "name": "Humble Quest",
+      "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
+    },
+    {
+      "added_at": "2022-04-06 20:39:38",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0pC2nDSKjfCdEth7murfOu"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 185388,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1a5KFrCyfZLa6EeOU6kr7S"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -163,6 +179,22 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 222488,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -195,6 +227,22 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-04-06 20:39:38",
+      "album": {
+        "name": "evergone",
+        "url": "https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 209300,
+      "name": "evergone",
+      "url": "https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -287,50 +335,6 @@
     {
       "added_at": "2022-04-06 20:39:38",
       "album": {
-        "name": "COMPLETE MESS",
-        "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206361,
-      "name": "COMPLETE MESS",
-      "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -347,6 +351,22 @@
       "duration_ms": 221885,
       "name": "You Were Loved (with OneRepublic)",
       "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2022-04-06 20:39:38",
+      "album": {
+        "name": "COMPLETE MESS",
+        "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -405,6 +425,22 @@
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 200558,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL"
+    },
+    {
       "added_at": "2022-04-06 20:39:38",
       "album": {
         "name": "Hurtless",
@@ -419,6 +455,22 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2022-04-06 20:39:38",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -467,6 +519,34 @@
       "duration_ms": 175213,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn"
+    },
+    {
+      "added_at": "2022-04-06 20:39:38",
+      "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -587,22 +667,6 @@
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
-        "name": "In Real Life",
-        "url": "https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "In Real Life",
-      "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -783,22 +847,6 @@
     {
       "added_at": "2022-04-06 20:39:38",
       "album": {
-        "name": "Circles Around This Town",
-        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -895,22 +943,6 @@
       "duration_ms": 165765,
       "name": "Shadow Of Mine",
       "url": "https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
-        "name": "Is It Worth Being Sad",
-        "url": "https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge"
-      },
-      "artists": [
-        {
-          "name": "Meg Mac",
-          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
-        }
-      ],
-      "duration_ms": 241248,
-      "name": "Is It Worth Being Sad",
-      "url": "https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa"
     },
     {
       "added_at": "2022-04-06 20:39:38",
@@ -1107,26 +1139,6 @@
     {
       "added_at": "2022-04-06 20:39:38",
       "album": {
-        "name": "Fortune Favors The Bold",
-        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
-        }
-      ],
-      "duration_ms": 218164,
-      "name": "Fortune Favors The Bold",
-      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -1171,22 +1183,6 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8"
-    },
-    {
-      "added_at": "2022-04-06 20:39:38",
-      "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
-      },
-      "artists": [
-        {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
     },
     {
       "added_at": "2022-04-06 20:39:38",

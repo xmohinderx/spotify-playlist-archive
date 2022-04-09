@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
 | 75 | [Tennessee Song](https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t) | 4:40 |
 
-Snapshot ID: `MTY0OTM3OTY5OCwwMDAwMDAwMGFlMWZkNTYxOWExMDIyNzU3YzZmMDBjMjdkYmM4ODdh`
+Snapshot ID: `MTY0OTQ2NTg3NywwMDAwMDAwMGFlMWZkNTYxOWExMDIyNzU3YzZmMDBjMjdkYmM4ODdh`

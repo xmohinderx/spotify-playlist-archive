@@ -212,7 +212,7 @@
     },
     {
       "album": {
-        "name": "Guy - Special Edition",
+        "name": "Guy (Special Edition)",
         "url": "https://open.spotify.com/album/0OQFSlarAIy9dNEAMFiHXr"
       },
       "artists": [
@@ -299,6 +299,24 @@
       "duration_ms": 269133,
       "name": "I Just Can't Handle It",
       "url": "https://open.spotify.com/track/5gerqKlQjPws8z9IWoQkvy"
+    },
+    {
+      "album": {
+        "name": "Guy (Special Edition)",
+        "url": "https://open.spotify.com/album/0OQFSlarAIy9dNEAMFiHXr"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289333,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/3QBDlRxooMZ1OyufAV7DYl"
     },
     {
       "album": {
@@ -465,6 +483,24 @@
       "duration_ms": 262333,
       "name": "Live and Learn",
       "url": "https://open.spotify.com/track/4eoli5b55cvAkvwP4tB1TF"
+    },
+    {
+      "album": {
+        "name": "I'll Give All My Love to You",
+        "url": "https://open.spotify.com/album/6SjLhapZQcPYcMP73FdPRZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320506,
+      "name": "Make You Sweat",
+      "url": "https://open.spotify.com/track/3iI6xZkQSWGjWx5phFVLn2"
     },
     {
       "album": {
@@ -772,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Cooleyhighharmony - Expanded Edition",
+        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA"
+    },
+    {
+      "album": {
         "name": "Men At Large",
         "url": "https://open.spotify.com/album/2txZxLm7JOwV6hducGKxR2"
       },
@@ -783,7 +837,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 381493,
       "name": "Use Me - #1",
       "url": "https://open.spotify.com/track/4zAjMSLNfJbuIVxJwfjztP"

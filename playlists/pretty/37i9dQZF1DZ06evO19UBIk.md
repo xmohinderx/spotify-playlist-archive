@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,247 likes - 42 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,391 likes - 42 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 33 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 |
 | 34 | [Ghost Song](https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 2:50 |
 | 35 | [The WASP \(Texas Radio and the Big Beat\)](https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:13 |
-| 36 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 |
-| 37 | [Light My Fire \- Live](https://open.spotify.com/track/4HaOHPT5aUiqUnvXTA2BDz) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [American Nights \- In Concert](https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC) | 9:54 |
+| 36 | [Light My Fire \- Live](https://open.spotify.com/track/4HaOHPT5aUiqUnvXTA2BDz) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [American Nights \- In Concert](https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC) | 9:54 |
+| 37 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 |
 | 38 | [Awake](https://open.spotify.com/track/6U65Pc0A2qHYwJoU1OLgH0) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 0:35 |
 | 39 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
-| 40 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 |
-| 41 | [Rock Me Baby \- L.A\. Woman Sessions](https://open.spotify.com/track/0I060wAAVjhFv28hJ5rpGZ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5zJ5Hz4a5OACoowuL3x86m) | 4:39 |
+| 40 | [Rock Me Baby \- L.A\. Woman Sessions](https://open.spotify.com/track/0I060wAAVjhFv28hJ5rpGZ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5zJ5Hz4a5OACoowuL3x86m) | 4:39 |
+| 41 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 |
 | 42 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDA1OTdhMzNhMjkwYzY4MTBmZTY2OTE0MDA2YmZhZWU5YQ==`
+Snapshot ID: `Mjc0OTA0NDQsMDAwMDAwMDA3NzE2MDBmOGI1ZDNlYmZhM2Q3NzUzY2FhZmQ2N2JhOQ==`

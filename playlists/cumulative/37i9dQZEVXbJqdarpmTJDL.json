@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 195738,
       "name": "BLACK SUVS",
       "url": "https://open.spotify.com/track/2ibTCf9g3c5eb8poLQRC8F"
@@ -3255,7 +3255,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 173333,
       "name": "Dokimase Ton",
       "url": "https://open.spotify.com/track/2Jr5Z8VTNa3bPAlbBk6n6k"
@@ -4167,7 +4167,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 174972,
       "name": "Foti\u00e1 - Evangelia x Eleni Foureira",
       "url": "https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt"
@@ -6515,7 +6515,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 158060,
       "name": "LAVA",
       "url": "https://open.spotify.com/track/37IcdR2E3aae1WqwFDfJ0R"
@@ -7453,6 +7453,24 @@
       "duration_ms": 37027,
       "name": "Mary Shelley Voice Note 1",
       "url": "https://open.spotify.com/track/7uxTwwQFwajFySPzMQl9bo"
+    },
+    {
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/5c26xB0jKTmvJHauiYnVNL"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160269,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
     },
     {
       "album": {
@@ -12277,6 +12295,32 @@
       "duration_ms": 229090,
       "name": "Vamos Vamos",
       "url": "https://open.spotify.com/track/6nBq8Vn8w3snU2qQtI4e4Q"
+    },
+    {
+      "album": {
+        "name": "Van Persie",
+        "url": "https://open.spotify.com/album/1nkCbVSsC0gnIeaED6YIgE"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166551,
+      "name": "Van Persie",
+      "url": "https://open.spotify.com/track/34Q1M0pSFzV71nQ65Kl8vd"
     },
     {
       "album": {

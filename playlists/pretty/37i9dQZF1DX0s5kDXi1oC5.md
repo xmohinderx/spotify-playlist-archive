@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,757,084 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,758,534 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 | 74 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
 | 75 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/7y2YUIyCuVhBidENVT0068) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Love Me Like You Do \(From "Fifty Shades Of Grey"\)](https://open.spotify.com/album/2YLHkrwyRBsjBgSAySg0es) | 4:12 |
 
-Snapshot ID: `MTY0OTM3OTQzMCwwMDAwMDAwMDUyNjYxZDgzOTU1ZWRhN2IxNzVmOTAyODk1MzMxMTdm`
+Snapshot ID: `MTY0OTQ2NTYwNywwMDAwMDAwMDUyNjYxZDgzOTU1ZWRhN2IxNzVmOTAyODk1MzMxMTdm`

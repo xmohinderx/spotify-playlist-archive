@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,414 likes - 33 songs - 1 hr 51 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,413 likes - 34 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 31 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 |
 | 32 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 |
 | 33 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 |
+| 34 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 |
 
-Snapshot ID: `OTYzMSw5OTJmYmU1MjY5OWNjYTQ5MjAxOTcwZDU5YWEzNTgxYzUyNzE3Mzcz`
+Snapshot ID: `OTYzMiwzYTM3OTM0ZDcyMjdiNTNlOWJmZTgwMmNmMGQ4ODJhNDEwNDI4ZDcx`

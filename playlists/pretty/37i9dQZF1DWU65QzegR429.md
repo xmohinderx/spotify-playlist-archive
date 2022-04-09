@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Goyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,944 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,951 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 71 | [When I Was Your Girl](https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [There's No Other Girl \(Live Session EP\)](https://open.spotify.com/album/65e8ENLi3NSZj5xooYNO1x) | 5:35 |
 | 72 | [Pal De Pesos](https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 3:09 |
 
-Snapshot ID: `MTY0OTM3OTIzMSwwMDAwMDAwMDNlODc2NmIwMTFlOGI4YTVmNzlmMTBhZTVhN2QwM2E4`
+Snapshot ID: `MTY0OTQ2NTQwNiwwMDAwMDAwMDNlODc2NmIwMTFlOGI4YTVmNzlmMTBhZTVhN2QwM2E4`

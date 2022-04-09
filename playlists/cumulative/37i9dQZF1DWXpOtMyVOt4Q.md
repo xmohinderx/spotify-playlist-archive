@@ -6,11 +6,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 | 2022-04-08 |
+| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 |  |
 | [A Drifting Up](https://open.spotify.com/track/2mEGWzbwnYg8WTlGQGR05r) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 6:27 | 2019-12-16 |  |
 | [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 |  |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 |  |
-| [Another Day \(revised\)](https://open.spotify.com/track/2SD75djCvrho74KDWD9YgY) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/4r6F9MHmX3c5zeYzaETi7z) | 4:21 | 2019-12-16 |  |
+| [Another Day \(revised\)](https://open.spotify.com/track/2SD75djCvrho74KDWD9YgY) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/4r6F9MHmX3c5zeYzaETi7z) | 4:21 | 2019-12-16 | 2022-04-09 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-12-16 |  |
 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 | 2019-12-16 |  |
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2019-12-16 |  |

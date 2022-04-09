@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 156055,
       "name": "Big Worm",
       "url": "https://open.spotify.com/track/6RW9K0DGsTuPLCWCXdxujM"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 204947,
       "name": "Glock 9 (with Lil Zay Osama)",
       "url": "https://open.spotify.com/track/0tRcyxggR2a32pC7Wl51Bd"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 186888,
       "name": "God Forbid",
       "url": "https://open.spotify.com/track/4YphKexoCrhNOfMlY4lJX2"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209229,
       "name": "Going Long (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/17LlS7L1bm2BwnCMTHs4fH"
@@ -1632,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Misfit",
+        "url": "https://open.spotify.com/album/5DxK2C3rMlXURlUyf8PvTq"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169256,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/6v83lCQkyqUvZGY7Au9IVI"
+    },
+    {
+      "album": {
         "name": "Trench Baby 2",
         "url": "https://open.spotify.com/album/6FXz7jXl0k95MmlWkMto6B"
       },
@@ -1942,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Poised",
+        "url": "https://open.spotify.com/album/10WVSnQrc0yZzUWwojqVv3"
+      },
+      "artists": [
+        {
+          "name": "TOB Duke",
+          "url": "https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99279,
+      "name": "Poised",
+      "url": "https://open.spotify.com/track/246mkx0FW2nU6nGXz4ReUX"
+    },
+    {
+      "album": {
         "name": "PROUD OF YOU",
         "url": "https://open.spotify.com/album/1Xtnt4yn49QQZMAWwk64vX"
       },
@@ -1957,6 +1993,24 @@
       "duration_ms": 96000,
       "name": "PROUD OF YOU",
       "url": "https://open.spotify.com/track/4PcC5ofoImDVsHtShnbX5F"
+    },
+    {
+      "album": {
+        "name": "Real Pain",
+        "url": "https://open.spotify.com/album/0qMf5UmnI9yA0usoW5dRRc"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144133,
+      "name": "Real Pain",
+      "url": "https://open.spotify.com/track/7KybOgn1cY0phZqQVRbjse"
     },
     {
       "album": {
@@ -2159,7 +2213,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 161948,
       "name": "Sincerely Face",
       "url": "https://open.spotify.com/track/1pkmi6mGVijG0Vq9Ml64aw"
@@ -2305,6 +2359,36 @@
       "duration_ms": 225546,
       "name": "Still (feat. 6LACK and Smino)",
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
+    },
+    {
+      "album": {
+        "name": "Jungle Life",
+        "url": "https://open.spotify.com/album/5THkCkk8aDEg6bJFVi7n1j"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Shun",
+          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
+        },
+        {
+          "name": "DCG Bsavv",
+          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217325,
+      "name": "Stomp (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2EE0PQ2Lb8MX3cIPtkr4GC"
     },
     {
       "album": {
@@ -2465,6 +2549,28 @@
       "duration_ms": 166960,
       "name": "They Not Ready",
       "url": "https://open.spotify.com/track/6E5dZiOO0DswcJZH0qPOvU"
+    },
+    {
+      "album": {
+        "name": "Thump Shit",
+        "url": "https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226362,
+      "name": "Thump Shit",
+      "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
     },
     {
       "album": {

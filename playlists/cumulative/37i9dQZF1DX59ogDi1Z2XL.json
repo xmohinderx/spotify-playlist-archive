@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Pilla B",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Da Crook",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "ALA BEKE",
+        "url": "https://open.spotify.com/album/0Y9z4dKx4h4lOcbuqlpdKf"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "ALA BEKE",
+      "url": "https://open.spotify.com/track/5xDIpgpqLQXphuSOzkKAbz"
+    },
+    {
+      "album": {
         "name": "Alejandro Sosa",
         "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 120000,
       "name": "Already Made It",
       "url": "https://open.spotify.com/track/4YDOvcVVVYf9nyRHdWH0Dw"
@@ -441,10 +459,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 146268,
       "name": "An Introduction",
       "url": "https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp"
+    },
+    {
+      "album": {
+        "name": "Andale",
+        "url": "https://open.spotify.com/album/6NRBtjo7if3S4ui08r26yx"
+      },
+      "artists": [
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        },
+        {
+          "name": "Fame Holiday",
+          "url": "https://open.spotify.com/artist/2AjbOeYS0jcF0t2F0RDgNy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/4Lk0nufAClU869ovcB1fU2"
     },
     {
       "album": {
@@ -503,7 +543,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 161026,
       "name": "Astronef",
       "url": "https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN"
@@ -543,7 +583,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 166829,
       "name": "Audience",
       "url": "https://open.spotify.com/track/2doyy6vMc813yJnE4fSZcj"
@@ -645,7 +685,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 188967,
       "name": "Before Time",
       "url": "https://open.spotify.com/track/1DnfB5aMcGcJC7cLjy3OXV"
@@ -1244,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT CLOTH",
+        "url": "https://open.spotify.com/album/0JhPAhMX1Mf8UmwzBsrmxv"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "DIFFERENT CLOTH",
+      "url": "https://open.spotify.com/track/6KK4ps0ql746q5tAilDyxj"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5RxAq4Ex06wjkX0Y4EAsAz"
       },
@@ -1385,6 +1443,28 @@
       "duration_ms": 172560,
       "name": "Eastern Conference",
       "url": "https://open.spotify.com/track/4NrxklLNMdYNVlNN2ZXEH1"
+    },
+    {
+      "album": {
+        "name": "Eastside (feat. Toosii)",
+        "url": "https://open.spotify.com/album/7jT3pZ8Mv8DRIMsD14jg0T"
+      },
+      "artists": [
+        {
+          "name": "Portion",
+          "url": "https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Eastside (feat. Toosii)",
+      "url": "https://open.spotify.com/track/1wCXZCCoFBkMlFgKmUeefZ"
     },
     {
       "album": {
@@ -1817,7 +1897,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 234130,
       "name": "Fuck Em All",
       "url": "https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE"
@@ -2610,6 +2690,36 @@
     },
     {
       "album": {
+        "name": "Ketchup Chips",
+        "url": "https://open.spotify.com/album/6YCn4Ru41igscYJnOwhkRu"
+      },
+      "artists": [
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        },
+        {
+          "name": "Essex Boys",
+          "url": "https://open.spotify.com/artist/3LVjqBF6OlWuuCEaLiaYPP"
+        },
+        {
+          "name": "Tim North",
+          "url": "https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU"
+        },
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Ketchup Chips",
+      "url": "https://open.spotify.com/track/0utr8H2QchZPLDdQkTRDD7"
+    },
+    {
+      "album": {
         "name": "Kizzle Clavion",
         "url": "https://open.spotify.com/album/2YTuknfW0kH0SJixv4LcZF"
       },
@@ -2889,7 +2999,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168000,
       "name": "Made Me",
       "url": "https://open.spotify.com/track/7JmIcCMbPl0DUswUk7MQ7w"
@@ -3613,7 +3723,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 150000,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/1JjP2oYeFS5L2mWkc9abJl"
@@ -3865,7 +3975,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 174067,
       "name": "Rien de moins",
       "url": "https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh"
@@ -3905,6 +4015,24 @@
       "duration_ms": 175412,
       "name": "roadman freestyle",
       "url": "https://open.spotify.com/track/1NmP1UKYWdEZ2fvPt4Kz47"
+    },
+    {
+      "album": {
+        "name": "Trip to the 6, Vol. 2",
+        "url": "https://open.spotify.com/album/1QinvrNry3to06iEzmgH5J"
+      },
+      "artists": [
+        {
+          "name": "Kwaejo",
+          "url": "https://open.spotify.com/artist/5TLCJPbL1kDKCjHxhgOAts"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Run Up",
+      "url": "https://open.spotify.com/track/113hCEPA7eSOQWpOVqWsGe"
     },
     {
       "album": {
@@ -3967,6 +4095,24 @@
       "duration_ms": 190876,
       "name": "Sage",
       "url": "https://open.spotify.com/track/3D2Y7Z8Q1gpwRJj1y4K3SD"
+    },
+    {
+      "album": {
+        "name": "Semelles Rouges",
+        "url": "https://open.spotify.com/album/67RgrQJcw4cjWoSPy2g15C"
+      },
+      "artists": [
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162637,
+      "name": "Semelles Rouges",
+      "url": "https://open.spotify.com/track/3dz6pALqpl62Z62mg2P4ng"
     },
     {
       "album": {
@@ -4594,6 +4740,24 @@
     },
     {
       "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/04PINoPIvnCdtghN3vQ1fA"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156168,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/6vFT9bWoWwE23fTm4reayD"
+    },
+    {
+      "album": {
         "name": "Tribeca Nights",
         "url": "https://open.spotify.com/album/0g6TZedkxClPZI966LMzJJ"
       },
@@ -4695,7 +4859,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190639,
       "name": "TWITCH",
       "url": "https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh"
@@ -4852,6 +5016,24 @@
     },
     {
       "album": {
+        "name": "We Getting Rich",
+        "url": "https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG"
+      },
+      "artists": [
+        {
+          "name": "Tia Bank$",
+          "url": "https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153035,
+      "name": "We Getting Rich",
+      "url": "https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC"
+    },
+    {
+      "album": {
         "name": "Western Conference",
         "url": "https://open.spotify.com/album/5wynBL7bR3Y1BEtXXnBgAA"
       },
@@ -4921,6 +5103,24 @@
       "duration_ms": 179751,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/6bvnHnYqRJPHJ4gGegTGQm"
+    },
+    {
+      "album": {
+        "name": "Woke up",
+        "url": "https://open.spotify.com/album/6theH5DNx3z2nAaPkbwUCG"
+      },
+      "artists": [
+        {
+          "name": "Lil Berete",
+          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "Woke up",
+      "url": "https://open.spotify.com/track/2hoe9iD2gecT97dkq9QsdU"
     },
     {
       "album": {

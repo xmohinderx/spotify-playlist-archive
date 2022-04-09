@@ -722,6 +722,28 @@
     },
     {
       "album": {
+        "name": "Falling Down (with Nick Hexum of 311)",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199971,
+      "name": "Falling Down (with Nick Hexum of 311)",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/0SZQ6wLElyi6n2BbPkkV0z"
       },
@@ -859,7 +881,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 157365,
       "name": "Halfway Home",
       "url": "https://open.spotify.com/track/4rEZTFvuctp8A1bFpAg6dJ"
@@ -1405,7 +1427,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 224960,
       "name": "lost \u2018cause",
       "url": "https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
@@ -2491,7 +2513,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 204441,
       "name": "The Ripple",
       "url": "https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H"

@@ -670,6 +670,46 @@
     },
     {
       "album": {
+        "name": "Escola",
+        "url": "https://open.spotify.com/album/6mOtkvZOGiGJj3s1h7oq7H"
+      },
+      "artists": [
+        {
+          "name": "Dii Ornelas",
+          "url": "https://open.spotify.com/artist/4dhEVPVt6FvQg5J5GalK6H"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Escola",
+      "url": "https://open.spotify.com/track/2g08pOAqvnqYVwPoAcwq8G"
+    },
+    {
+      "album": {
+        "name": "Eu Sei",
+        "url": "https://open.spotify.com/album/5PkNJfoBruW40DwjyBi9AW"
+      },
+      "artists": [
+        {
+          "name": "Will Kevin",
+          "url": "https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG"
+        },
+        {
+          "name": "Cezza",
+          "url": "https://open.spotify.com/artist/5rLw6pCcoJyli9ZYnDFwrV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181486,
+      "name": "Eu Sei",
+      "url": "https://open.spotify.com/track/2HPXiiN92wwR3ZmXI4BjY7"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/4t17G8FjoT4cr5u7k7BXAd"
       },
@@ -685,7 +725,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 138556,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1c9DvP24N1IGDvwDJd3h8Q"
@@ -751,7 +791,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 179200,
       "name": "Garota Carioca",
       "url": "https://open.spotify.com/track/6PjBsT9gg0BlqHDJ7CBUMC"
@@ -891,7 +931,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 167574,
       "name": "Marrenta",
       "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
@@ -1761,6 +1801,32 @@
       "duration_ms": 153964,
       "name": "Tutorial De Como Ser Feliz",
       "url": "https://open.spotify.com/track/3y34iNIG0D2r3Tb2ZSIHBR"
+    },
+    {
+      "album": {
+        "name": "TypeBeat",
+        "url": "https://open.spotify.com/album/2GyuvNLobMhd28LCehhl9c"
+      },
+      "artists": [
+        {
+          "name": "Limera",
+          "url": "https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/54rY6D7VjLPPMTZqCeVkVa"
+        },
+        {
+          "name": "Freelipe",
+          "url": "https://open.spotify.com/artist/21lOzsQVuksBDSHTli72hq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "TypeBeat",
+      "url": "https://open.spotify.com/track/1ZW7hF93RrPT3h0To3P79U"
     },
     {
       "album": {

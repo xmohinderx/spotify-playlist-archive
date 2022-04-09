@@ -1590,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223961,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
       },

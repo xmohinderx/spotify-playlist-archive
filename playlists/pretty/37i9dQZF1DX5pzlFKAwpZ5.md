@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > A celebration of contemporary Ambient music produced by Japanese artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,670 likes - 93 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,705 likes - 94 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,30 +76,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 66 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 |
 | 67 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 |
 | 68 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 |
-| 69 | [Sea \- Roméo Poirier Rework](https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [See\-Through Remixes](https://open.spotify.com/album/34R46SN6KOHMqcTJP0HSXV) | 3:22 |
-| 70 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 |
-| 71 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 |
-| 72 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 |
-| 73 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 |
-| 74 | [Afternoon Coastline](https://open.spotify.com/track/2DJzac0etyt8fnN0X7xUh7) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [slowdance​,​lowtide](https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA) | 6:08 |
-| 75 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 |
-| 76 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 |
-| 77 | [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 |
-| 78 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 |
-| 79 | [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 |
-| 80 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 |
-| 81 | [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 |
-| 82 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
-| 83 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 |
-| 84 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 |
-| 85 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
-| 86 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 |
-| 87 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 |
-| 88 | [Fold Air](https://open.spotify.com/track/53p4Twt4YkUlrYQwkuWrI4) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 2:48 |
-| 89 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 |
-| 90 | [Körper](https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/7EnDzySppi2dvBGEFFcmHu) | 5:55 |
-| 91 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 |
-| 92 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
-| 93 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
+| 69 | [Time](https://open.spotify.com/track/6vY9hR2JMxFoWncntRAG2p) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Size](https://open.spotify.com/album/4fic5J6NkTKLcb93LcnfR9) | 3:02 |
+| 70 | [Sea \- Roméo Poirier Rework](https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [See\-Through Remixes](https://open.spotify.com/album/34R46SN6KOHMqcTJP0HSXV) | 3:22 |
+| 71 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 |
+| 72 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 |
+| 73 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 |
+| 74 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 |
+| 75 | [Afternoon Coastline](https://open.spotify.com/track/2DJzac0etyt8fnN0X7xUh7) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [slowdance​,​lowtide](https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA) | 6:08 |
+| 76 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 |
+| 77 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 |
+| 78 | [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 |
+| 79 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 |
+| 80 | [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 |
+| 81 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 |
+| 82 | [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 |
+| 83 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
+| 84 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 |
+| 85 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 |
+| 86 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
+| 87 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 |
+| 88 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 |
+| 89 | [Fold Air](https://open.spotify.com/track/53p4Twt4YkUlrYQwkuWrI4) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 2:48 |
+| 90 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 |
+| 91 | [Körper](https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/7EnDzySppi2dvBGEFFcmHu) | 5:55 |
+| 92 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 |
+| 93 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
+| 94 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY0ODIyMjgxNSwwMDAwMDAxMjAwMDAwMTdmYzFiYzQ2YmUwMDAwMDE3OWE4MzczMjY1`
+Snapshot ID: `MTY0OTQzNjYzNiwwMDAwMDAxMzAwMDAwMTgwMGExNWI1MzcwMDAwMDE3OWE4MzczMjY1`

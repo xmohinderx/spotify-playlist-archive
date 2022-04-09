@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,858 likes - 200 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,809 likes - 200 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 | 77 | [Cream \- Without Rap Monologue](https://open.spotify.com/track/5MWKU5MnIuv5uQez4n0byz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/6dRctIZQKuZCSSoR6QBBv9) | 4:13 |
 | 78 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
 | 79 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 |
-| 80 | [The One and Only](https://open.spotify.com/track/69Tyiih00ZZKboHFnXp0VF) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/1u2eOnhJaDlnDJ9ArCFXzC) | 3:43 |
+| 80 | [The One And Only](https://open.spotify.com/track/69Tyiih00ZZKboHFnXp0VF) | [Chesney Hawkes](https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY) | [Buddy's Song](https://open.spotify.com/album/1u2eOnhJaDlnDJ9ArCFXzC) | 3:43 |
 | 81 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
 | 82 | [Crazy](https://open.spotify.com/track/10tdqQKFhddpkjzxllTVRj) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/19HYZxcJ0K0CinYb3Mmjap) | 4:28 |
 | 83 | [Into The Great Wide Open](https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 | 199 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 |
 | 200 | [I Promised Myself](https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O) | [Nick Kamen](https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB) | [Move Until We Fly](https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N) | 4:00 |
 
-Snapshot ID: `MTY0OTM3OTYxOSwwMDAwMDAwMDhhYTI3ZWJhMzhjZjgyY2JjNzJmNGE5OTg0MmY0MzVl`
+Snapshot ID: `MTY0OTQ2NTc5OCwwMDAwMDAwMDhhYTI3ZWJhMzhjZjgyY2JjNzJmNGE5OTg0MmY0MzVl`

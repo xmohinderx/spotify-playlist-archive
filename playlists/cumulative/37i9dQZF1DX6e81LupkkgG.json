@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "album": {
         "name": "Problems (feat. Grady)",
         "url": "https://open.spotify.com/album/78R8twPAoAHiix5OspTCPp"
       },
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
@@ -1745,6 +1763,28 @@
       "duration_ms": 153863,
       "name": "Unloving You",
       "url": "https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34"
+    },
+    {
+      "album": {
+        "name": "Until She's Gone / Tu Luz Qued\u00f3",
+        "url": "https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "Until She\u2019s Gone (with Sebastian Yatra)",
+      "url": "https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92"
     },
     {
       "album": {

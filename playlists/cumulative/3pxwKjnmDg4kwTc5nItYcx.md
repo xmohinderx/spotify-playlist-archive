@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
-> Let your mind float away with these down\-tempo low key tracks\. Cover: Sara Kays
+> Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [High Tide, Low Tide](https://open.spotify.com/track/4qau8uvxVQhgs97FqDx59J) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [High Tide, Low Tide](https://open.spotify.com/album/7e15CDmEwzk9Ofwle05dXF) | 2:51 | 2020-10-20 |  |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2021-02-19 |  |
 | [Higher](https://open.spotify.com/track/7jISIavPp1bqXWgc0FWv9k) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B), [Andy Ward](https://open.spotify.com/artist/1gaWqnGdl91TwTbneZU1um) | [Higher](https://open.spotify.com/album/30RiCF6QFMQ93V3KCfvVAw) | 3:18 | 2020-06-21 | 2021-05-12 |
+| [Higher Love](https://open.spotify.com/track/1yf7KpJKsDEWtBdznkkGAH) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/1Djbaj0U3owtsuQSY7Q2Ly) | 3:04 | 2022-04-08 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-08 |  |
 | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/track/2GkWldueoTr8uz4O6T80GN) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Heartbreak in the Hills](https://open.spotify.com/album/7gLoySF3FKTPYWZ0VpOjL6) | 3:08 | 2020-07-24 | 2021-05-12 |
 | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/track/5IyF01fIazdmFkXHWWnQI7) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/album/5rSU5GRGD4D58dvzX43nte) | 3:08 | 2020-07-18 | 2021-05-12 |
@@ -485,6 +486,7 @@
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:50 | 2020-01-17 | 2020-03-20 |
 | [TEXT \(feat\. Amindi\)](https://open.spotify.com/track/3C76nLG6c4U0Cp3FtebFaU) | [UNO Stereo](https://open.spotify.com/artist/253f0pT64ByK78L928CjbE), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [TEXT \(feat\. Amindi\)](https://open.spotify.com/album/4wttZ73afJBtmSrV07e53g) | 3:48 | 2020-09-03 | 2021-05-12 |
 | [That Guy](https://open.spotify.com/track/2Vqyi6UADqtRjN5A1lnTe5) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [That Guy](https://open.spotify.com/album/3WqnkhM1Ww81wkyXIMflLc) | 2:39 | 2020-09-25 |  |
+| [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-08 |  |
 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 | 2019-08-27\* |  |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2020-03-20 | 2021-05-12 |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27\* | 2019-11-11 |

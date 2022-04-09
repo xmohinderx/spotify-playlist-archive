@@ -1,13 +1,49 @@
 {
   "description": "Holdin' it down for the westside. Cover: Buddy",
-  "num_followers": 686054,
+  "num_followers": 686116,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDUxNDAwMDAwMTdmZTM0N2FlYWIwMDAwMDE3ZmRjMzgzODU5",
+  "snapshot_id": "MTY0OTM5MDQwMCwwMDAwMDUxNTAwMDAwMTgwMDc1NDMyYWMwMDAwMDE3ZmRjMzgzODU5",
   "tracks": [
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179674,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Soccer Dad",
+        "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Soccer Dad",
+      "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
+    },
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
@@ -29,20 +65,24 @@
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "ROSE STREET",
-        "url": "https://open.spotify.com/album/7CndERmuISXqBYNk7poimm"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 153687,
-      "name": "ROSE STREET",
-      "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+      "duration_ms": 222225,
+      "name": "moved to miami (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
       "added_at": "2022-03-25 05:02:22",
@@ -63,6 +103,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "ROSE STREET",
+        "url": "https://open.spotify.com/album/7CndERmuISXqBYNk7poimm"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 153687,
+      "name": "ROSE STREET",
+      "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa"
       },
@@ -75,6 +131,22 @@
       "duration_ms": 141714,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 135929,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -103,46 +175,6 @@
       "duration_ms": 193573,
       "name": "Hair Salon (with Cozz feat. G Perico & Reason)",
       "url": "https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 222225,
-      "name": "moved to miami (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "MAGIC (feat. Mustard)",
-        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        }
-      ],
-      "duration_ms": 226006,
-      "name": "MAGIC (feat. Mustard)",
-      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -189,6 +221,26 @@
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Do It Up",
+        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "duration_ms": 244968,
+      "name": "Do It Up",
+      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Dead Homies",
@@ -203,6 +255,50 @@
       "duration_ms": 172654,
       "name": "Dead Homies",
       "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "MAGIC (feat. Mustard)",
+        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 226006,
+      "name": "MAGIC (feat. Mustard)",
+      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "2 P'z In A Pod",
+        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        }
+      ],
+      "duration_ms": 175220,
+      "name": "Leave It Up To Me",
+      "url": "https://open.spotify.com/track/6xRD47ABwR3y4RytXiTJFi"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -265,28 +361,44 @@
       "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "2 P'z In A Pod",
-        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
+        "name": "Jerry Curl (feat. Larry June)",
+        "url": "https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb"
       },
       "artists": [
         {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
         },
         {
           "name": "Larry June",
           "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
         }
       ],
-      "duration_ms": 175220,
-      "name": "Leave It Up To Me",
-      "url": "https://open.spotify.com/track/6xRD47ABwR3y4RytXiTJFi"
+      "duration_ms": 194022,
+      "name": "Jerry Curl (feat. Larry June)",
+      "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "RAMONA PARK BROKE MY HEART",
+        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217855,
+      "name": "EAST POINT PRAYER",
+      "url": "https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -309,48 +421,20 @@
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "Do It Up",
-        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+        "name": "Fuck Love",
+        "url": "https://open.spotify.com/album/38VrQda1Fd52DXKHe1z5KQ"
       },
       "artists": [
         {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
         }
       ],
-      "duration_ms": 244968,
-      "name": "Do It Up",
-      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "BODR",
-        "url": "https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        },
-        {
-          "name": "Nefertitti Avani",
-          "url": "https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn"
-        }
-      ],
-      "duration_ms": 211361,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U"
+      "duration_ms": 138212,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/3FcsP46yuD5OhisPkp0jFT"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -433,26 +517,6 @@
       "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Gospel (with Eminem)",
-        "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Gospel (with Eminem)",
-      "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
-    },
-    {
       "added_at": "2022-03-25 05:02:22",
       "album": {
         "name": "Apt. 505",
@@ -467,26 +531,6 @@
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Heaven's Sky (feat. Rae Khalil)",
-        "url": "https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 229802,
-      "name": "Heaven's Sky (feat. Rae Khalil)",
-      "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -507,6 +551,22 @@
       "duration_ms": 164000,
       "name": "Half A Bird",
       "url": "https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2"
+    },
+    {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Cali Lovin",
+        "url": "https://open.spotify.com/album/3p39OOJTQ79L1dmC4HmQbW"
+      },
+      "artists": [
+        {
+          "name": "KINGMOSTWANTED",
+          "url": "https://open.spotify.com/artist/7BCzdg9R0InC8COslhyNrQ"
+        }
+      ],
+      "duration_ms": 91115,
+      "name": "Cali Lovin",
+      "url": "https://open.spotify.com/track/6ryE7ZAB9jsM8tfpmXIuEJ"
     },
     {
       "added_at": "2022-03-25 05:02:22",
@@ -531,22 +591,6 @@
       "duration_ms": 177012,
       "name": "DRIP (feat. E-40 & OHGEESY)",
       "url": "https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Covenant",
-        "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
-      },
-      "artists": [
-        {
-          "name": "Rory Fresco",
-          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
-        }
-      ],
-      "duration_ms": 151808,
-      "name": "Covenant",
-      "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -657,34 +701,6 @@
       "url": "https://open.spotify.com/track/5ICnHKFy7yBDTEFjZ8hODA"
     },
     {
-      "added_at": "2022-03-25 05:02:22",
-      "album": {
-        "name": "2 P'z In A Pod",
-        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        }
-      ],
-      "duration_ms": 231801,
-      "name": "Late Nights (feat. Jim Jones)",
-      "url": "https://open.spotify.com/track/40i123eK1z1saRvFPPX8YV"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Do Whatever to Survive",
@@ -759,22 +775,6 @@
       "duration_ms": 237233,
       "name": "ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)",
       "url": "https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8"
-    },
-    {
-      "added_at": "2022-01-28 20:32:39",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/22QaAcWSzIdOWtCgaca1un"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        }
-      ],
-      "duration_ms": 176971,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0XgnXsUlzkpqrcdKx002IT"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -915,26 +915,6 @@
       "duration_ms": 127346,
       "name": "WTF",
       "url": "https://open.spotify.com/track/2ejZLWVTTr39e67FWxfWig"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "GOTTI (Deluxe)",
-        "url": "https://open.spotify.com/album/0M0Wgv4lSkjpdRapzg76BC"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198468,
-      "name": "Make It Look Easy (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5ajUHjr4TkrK0pav0MrDXP"
     },
     {
       "added_at": "2022-02-11 05:01:00",

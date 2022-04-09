@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,917 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,024 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 |
 | 2 | [Blue Friday \- Rudy Van Gelder Remaster](https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn) | 8:44 |
 | 3 | [Hoe Down](https://open.spotify.com/track/7kDlGHJVjuMGVZWNDlH9Ru) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 4:41 |
-| 4 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 |
+| 4 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 |
 | 5 | [Sweet 'n' Sour](https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Caravan \[Keepnews Collection\]](https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq) | 5:31 |
 | 6 | [The Jody Grind](https://open.spotify.com/track/2gK90iDN9ggQoECv4494mb) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Jody Grind](https://open.spotify.com/album/1ova3sOrIf9V2s076VCZ9w) | 5:50 |
 | 7 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 75 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
 
-Snapshot ID: `MTY0OTM3OTM4NywwMDAwMDAwMDg5MWM2ZjRhY2U0ZDgzYTAxZDI3YWQwMzE3ZDUzYzEw`
+Snapshot ID: `MTY0OTQ2NTU2MywwMDAwMDAwMDg5MWM2ZjRhY2U0ZDgzYTAxZDI3YWQwMzE3ZDUzYzEw`

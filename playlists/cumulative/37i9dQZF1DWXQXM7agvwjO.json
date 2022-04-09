@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "FREE FALL",
+        "url": "https://open.spotify.com/album/4F5JcwEM357HqVobOz0o3b"
+      },
+      "artists": [
+        {
+          "name": "VIA",
+          "url": "https://open.spotify.com/artist/1GwORzb8qkKDqDgKx3mzNc"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194634,
+      "name": "Days in Bloom",
+      "url": "https://open.spotify.com/track/75XYPmzcxOPZkimUCiI8WI"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP"
       },

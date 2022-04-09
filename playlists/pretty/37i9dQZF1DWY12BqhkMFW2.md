@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,158 likes - 35 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,287 likes - 35 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Open Your Eyes](https://open.spotify.com/track/5UzPW8HC6slxstdRbV3Kcp) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/1VW9ltXjlRK43xOXS3l0VE) | 3:21 |
 | 35 | [Love Changes \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/7q83jvO3GjbyS7FnHoM1f2) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 4:30 |
 
-Snapshot ID: `MTY0OTM3OTM0NywwMDAwMDAwMDRkMGI5MjRhMWExY2EyOTgzMTJkYmI0YjlkYzlmMGZl`
+Snapshot ID: `MTY0OTQ2NTUyMSwwMDAwMDAwMDRkMGI5MjRhMWExY2EyOTgzMTJkYmI0YjlkYzlmMGZl`

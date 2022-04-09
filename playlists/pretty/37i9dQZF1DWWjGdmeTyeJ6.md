@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: burningforestboy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,579 likes - 101 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,799 likes - 101 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 100 | [Days Go By](https://open.spotify.com/track/0Wi4Cn9tgcNKEKWNWXQqIV) | [Fontanarosa](https://open.spotify.com/artist/0k4N7aGYCoBA9NVf1AKoqy) | [Are You There ?](https://open.spotify.com/album/54Au5aeDYhtVv1cPVeIuaC) | 2:30 |
 | 101 | [Please Louise](https://open.spotify.com/track/3LAoAGgX4B6B8N7MTpuui2) | [Sally Seltmann](https://open.spotify.com/artist/78yXDNBYzL3P9b1V0LP30Y) | [Please Louise](https://open.spotify.com/album/5LcKyKUArhPb4Bs4dx7RMb) | 3:23 |
 
-Snapshot ID: `MTY0OTM3OTMwOSwwMDAwMDAwMDg1M2JhNjliOGRkNjI0ODk2MTk5NzViMWU4ZWY4MmEz`
+Snapshot ID: `MTY0OTQ2NTQ4MywwMDAwMDAwMDg1M2JhNjliOGRkNjI0ODk2MTk5NzViMWU4ZWY4MmEz`

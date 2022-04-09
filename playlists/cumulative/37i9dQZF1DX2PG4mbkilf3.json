@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Bach To The Future",
+        "url": "https://open.spotify.com/album/07yiAwV5iuadm9PdRv44sw"
+      },
+      "artists": [
+        {
+          "name": "Kyla Charter",
+          "url": "https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161522,
+      "name": "Bach To The Future",
+      "url": "https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR"
+    },
+    {
+      "album": {
         "name": "Exes & O's",
         "url": "https://open.spotify.com/album/0J5rmovLwIyGzUgiGAOIoR"
       },
@@ -1577,10 +1595,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209522,
       "name": "Look Mom I'm a Superhero",
       "url": "https://open.spotify.com/track/7sLRMErDPsf3nZOo9kyyqR"
+    },
+    {
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/22iUSFqCbq62Oa7J3pAyhO"
+      },
+      "artists": [
+        {
+          "name": "OCH\u00c9",
+          "url": "https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134249,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe"
     },
     {
       "album": {
@@ -2718,6 +2754,24 @@
     },
     {
       "album": {
+        "name": "The Falls",
+        "url": "https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172278,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC"
+    },
+    {
+      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/7rkN6aKoETjoXjtvOUCh0Z"
       },
@@ -2953,7 +3007,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 165000,
       "name": "Waves Of Love",
       "url": "https://open.spotify.com/track/7FKHOjtCDh4kv3npLlqx3e"
@@ -3029,7 +3083,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"

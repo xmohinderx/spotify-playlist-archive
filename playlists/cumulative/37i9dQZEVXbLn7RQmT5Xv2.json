@@ -1544,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "El 3bd W El Waili",
+        "url": "https://open.spotify.com/album/43JSHH03M1PhzPjixeuwnG"
+      },
+      "artists": [
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "El 3bd W El Waili",
+      "url": "https://open.spotify.com/track/6CFDWaN8XmEHGUgXG2MxaO"
+    },
+    {
+      "album": {
         "name": "El Donia El Helwa",
         "url": "https://open.spotify.com/album/7FX0RpQPmbmFk8QXxiRFf8"
       },
@@ -4365,7 +4383,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168000,
       "name": "OMMI",
       "url": "https://open.spotify.com/track/6xFehAsaKJYClqja52y2h5"

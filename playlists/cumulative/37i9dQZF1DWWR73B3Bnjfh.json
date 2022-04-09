@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 448866,
       "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r"
+    },
+    {
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 554960,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/3M00YjxlMIPveCXrVuLb4c"
@@ -580,6 +598,24 @@
     },
     {
       "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344080,
+      "name": "Glad to Be Unhappy",
+      "url": "https://open.spotify.com/track/4TW8F823OjEBYp0vFPS5Gz"
+    },
+    {
+      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -620,7 +656,7 @@
     },
     {
       "album": {
-        "name": "Ah Um",
+        "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
       "artists": [
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 193173,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70"
@@ -1667,7 +1703,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 293240,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
@@ -1685,7 +1721,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 281493,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
@@ -1921,7 +1957,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 441053,
       "name": "You Leave Me Breathless - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/0FcDIsJa17QDNo1zHp6SB5"

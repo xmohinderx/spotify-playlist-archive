@@ -798,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8"
+      },
+      "artists": [
+        {
+          "name": "Elijah Waters",
+          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg"
+    },
+    {
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR"
       },
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 240255,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 102452,
       "name": "Cry Alone",
       "url": "https://open.spotify.com/track/0qyi8mjouhgjQT5tPgBGar"
@@ -2332,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "Final Dance",
+        "url": "https://open.spotify.com/album/76YhHsvtsqmToA8YEWA5uz"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182337,
+      "name": "Final Dance",
+      "url": "https://open.spotify.com/track/39Z6LwZezDkLN4YcGezypr"
+    },
+    {
+      "album": {
         "name": "STARSCREAM",
         "url": "https://open.spotify.com/album/1KT10bvDi0UODxLMZjTVld"
       },
@@ -2467,6 +2503,24 @@
       "duration_ms": 123221,
       "name": "FOOL AROUND",
       "url": "https://open.spotify.com/track/2jnPbSbAhFAkIDm8lqwAgb"
+    },
+    {
+      "album": {
+        "name": "Fool In Love",
+        "url": "https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN"
+      },
+      "artists": [
+        {
+          "name": "Tenelle",
+          "url": "https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200135,
+      "name": "Fool In Love",
+      "url": "https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB"
     },
     {
       "album": {
@@ -3651,7 +3705,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 253313,
       "name": "Just a Man",
       "url": "https://open.spotify.com/track/63kvSFY9v2vZLo6fdNCFg5"
@@ -5173,7 +5227,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
@@ -6811,7 +6865,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 109218,
       "name": "V for Vanity",
       "url": "https://open.spotify.com/track/3Llcnu9Q15mwPlfwGlJaiI"

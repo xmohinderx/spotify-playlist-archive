@@ -1,13 +1,29 @@
 {
-  "description": "hyperpop spotify playlist ft. Frost Children",
-  "num_followers": 311162,
+  "description": "spotify hyperpop playlist Cover: Elyotto",
+  "num_followers": 311377,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTI2MjU1MCwwMDAwMDE0YjAwMDAwMTdmZmZiNTVlNjMwMDAwMDE3ZmZiM2YyYzUw",
+  "snapshot_id": "MTY0OTQzMDI0NywwMDAwMDE1MjAwMDAwMTgwMDliNDM5MGQwMDAwMDE3ZmZmYTcyZDhj",
   "tracks": [
+    {
+      "added_at": "2022-04-08 15:04:07",
+      "album": {
+        "name": "lifeline",
+        "url": "https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 165206,
+      "name": "lifeline",
+      "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
+    },
     {
       "added_at": "2022-04-06 04:08:00",
       "album": {
@@ -23,6 +39,58 @@
       "duration_ms": 150769,
       "name": "FOX BOP",
       "url": "https://open.spotify.com/track/4bDK6GxLWO8b6cBUsscXZp"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "xtc",
+        "url": "https://open.spotify.com/album/6Rj5EonDXw6qthEUuFKL51"
+      },
+      "artists": [
+        {
+          "name": "Boy Virgo",
+          "url": "https://open.spotify.com/artist/6qOXLXKu3ULLCLb9bqqVSM"
+        },
+        {
+          "name": "Baby Brat",
+          "url": "https://open.spotify.com/artist/60JmfA2GmW0TxOzsZgjITw"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "xtc",
+      "url": "https://open.spotify.com/track/73N29v5tx5HgLrTh3u2AX8"
+    },
+    {
+      "added_at": "2022-04-01 13:22:34",
+      "album": {
+        "name": "cabin fever",
+        "url": "https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 73962,
+      "name": "cabin fever",
+      "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "HELLSCAPE SUBURBIA",
+        "url": "https://open.spotify.com/album/5Mjy9Pp6yv8uLRowiC4zN4"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 134946,
+      "name": "DAYZEE",
+      "url": "https://open.spotify.com/track/5NdNCe6OCbK9N5QLxaxjg3"
     },
     {
       "added_at": "2022-03-22 17:41:37",
@@ -45,6 +113,26 @@
       "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
     },
     {
+      "added_at": "2022-04-08 14:52:39",
+      "album": {
+        "name": "fuck this town",
+        "url": "https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 115875,
+      "name": "fuck this town",
+      "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
+    },
+    {
       "added_at": "2022-04-01 13:22:34",
       "album": {
         "name": "earcandy",
@@ -65,20 +153,24 @@
       "url": "https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg"
     },
     {
-      "added_at": "2022-03-25 04:04:00",
+      "added_at": "2022-03-25 18:56:37",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC"
+        "name": "Bozo bozo bozo (carolesdaughter Version)",
+        "url": "https://open.spotify.com/album/6SejkbqnyThvvqGpMa3C1R"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
         }
       ],
-      "duration_ms": 178780,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
+      "duration_ms": 158424,
+      "name": "Bozo bozo bozo - carolesdaughter Version",
+      "url": "https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1"
     },
     {
       "added_at": "2022-04-01 13:22:34",
@@ -95,6 +187,86 @@
       "duration_ms": 128000,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4LLzmSCHHtwYtqCCKfMUSO"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "HTHT",
+        "url": "https://open.spotify.com/album/7xbshzw0n5vtrIHnpXCGDV"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 147234,
+      "name": "HTHT",
+      "url": "https://open.spotify.com/track/721rnPdxTKxvnDuVLXiyVQ"
+    },
+    {
+      "added_at": "2022-04-08 14:25:26",
+      "album": {
+        "name": "Unlimited Ammo : Infinity (Remix)",
+        "url": "https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "felicita",
+          "url": "https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX"
+        }
+      ],
+      "duration_ms": 114249,
+      "name": "Demonic - felicita + Tohji Remix",
+      "url": "https://open.spotify.com/track/0VtPMp7loTn6Sq8f2H5x5k"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "In the Shape Of",
+        "url": "https://open.spotify.com/album/6kIa58ldhrlq9znlYbm8xC"
+      },
+      "artists": [
+        {
+          "name": "Reserv",
+          "url": "https://open.spotify.com/artist/2TirMwFqYsNDTIOURZb9LS"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "All New Edition",
+      "url": "https://open.spotify.com/track/4fCYohh0NH3BxteuxID7cP"
     },
     {
       "added_at": "2022-04-01 13:22:34",
@@ -117,6 +289,66 @@
       "url": "https://open.spotify.com/track/2HkysUlkqHuFLpt71lECl4"
     },
     {
+      "added_at": "2022-04-08 14:17:21",
+      "album": {
+        "name": "Ms. Genius",
+        "url": "https://open.spotify.com/album/2LlOpR7rmqHKvAPZdMKb1U"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 147021,
+      "name": "Run MF",
+      "url": "https://open.spotify.com/track/4upYjlsNwn8lEsp9cRvdKO"
+    },
+    {
+      "added_at": "2022-04-08 14:51:33",
+      "album": {
+        "name": "My Last Ego Death",
+        "url": "https://open.spotify.com/album/1oDcjQ04RJ0ViiuLF3k9z6"
+      },
+      "artists": [
+        {
+          "name": "To Oscar",
+          "url": "https://open.spotify.com/artist/6LNNnLy26u0dMlmU29Kgqq"
+        },
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "My Last Ego Death",
+      "url": "https://open.spotify.com/track/4L2eotzQjQwVPDlbzXjsVk"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "Bonnie & Clyde",
+        "url": "https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch"
+      },
+      "artists": [
+        {
+          "name": "Young Dalu",
+          "url": "https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm"
+        },
+        {
+          "name": "OSAMI",
+          "url": "https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr"
+        },
+        {
+          "name": "Wes Period",
+          "url": "https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP"
+    },
+    {
       "added_at": "2022-04-01 13:22:34",
       "album": {
         "name": "IN THE WALLS",
@@ -131,6 +363,162 @@
       "duration_ms": 111402,
       "name": "IN THE WALLS",
       "url": "https://open.spotify.com/track/2THOkbfhTdXNwAwwQbs1Dt"
+    },
+    {
+      "added_at": "2022-04-01 13:22:34",
+      "album": {
+        "name": "LAKE OF LOVE",
+        "url": "https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "LAKE OF LOVE",
+      "url": "https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK"
+    },
+    {
+      "added_at": "2022-04-01 13:22:34",
+      "album": {
+        "name": "popstyle",
+        "url": "https://open.spotify.com/album/1BmbeoQLkG0FCFyjS9MeU5"
+      },
+      "artists": [
+        {
+          "name": "cookii",
+          "url": "https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "party girl",
+      "url": "https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "stuck with you",
+        "url": "https://open.spotify.com/album/7xK4rA7BH7x3oFiguk3VCW"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        },
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "stuck with you",
+      "url": "https://open.spotify.com/track/6h3RiwExHhQG4Ief6Mti9F"
+    },
+    {
+      "added_at": "2022-04-01 13:22:34",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4"
+      },
+      "artists": [
+        {
+          "name": "Planet 1999",
+          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+        }
+      ],
+      "duration_ms": 148021,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "i cant control you",
+        "url": "https://open.spotify.com/album/74LRkcpsdWimoLUNgBIBnR"
+      },
+      "artists": [
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 113846,
+      "name": "i cant control you",
+      "url": "https://open.spotify.com/track/2jfDVlT0jmUYnuybMOPC84"
+    },
+    {
+      "added_at": "2022-03-10 19:10:41",
+      "album": {
+        "name": "peer2peer",
+        "url": "https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp"
+      },
+      "artists": [
+        {
+          "name": "webcage",
+          "url": "https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "self-esteem",
+      "url": "https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB"
+    },
+    {
+      "added_at": "2022-03-18 13:45:32",
+      "album": {
+        "name": "Crest",
+        "url": "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "duration_ms": 179430,
+      "name": "The Flag is Raised",
+      "url": "https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC"
+    },
+    {
+      "added_at": "2022-04-01 13:22:34",
+      "album": {
+        "name": "sink",
+        "url": "https://open.spotify.com/album/2Vj2TUjMOqVpbieeKGD2v9"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 152019,
+      "name": "sink",
+      "url": "https://open.spotify.com/track/5smvhXxq6FpGKNJIqwOetD"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "Number 02",
+        "url": "https://open.spotify.com/album/6Dq1zSdqpsZHkII0fhM0Mq"
+      },
+      "artists": [
+        {
+          "name": "GOM",
+          "url": "https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu"
+        },
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "duration_ms": 138730,
+      "name": "Number 02",
+      "url": "https://open.spotify.com/track/7vdP0BcWUqgfvegWW72xz1"
     },
     {
       "added_at": "2022-03-25 04:04:00",
@@ -157,156 +545,36 @@
       "url": "https://open.spotify.com/track/4I6p1e6U3tAPTDb7x12GYc"
     },
     {
-      "added_at": "2022-03-25 18:56:37",
+      "added_at": "2022-03-25 04:04:00",
       "album": {
-        "name": "Bozo bozo bozo (carolesdaughter Version)",
-        "url": "https://open.spotify.com/album/6SejkbqnyThvvqGpMa3C1R"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
         }
       ],
-      "duration_ms": 158424,
-      "name": "Bozo bozo bozo - carolesdaughter Version",
-      "url": "https://open.spotify.com/track/6XQavp1Qj1pFZkkHH079m1"
+      "duration_ms": 178780,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq"
     },
     {
-      "added_at": "2022-04-01 13:22:34",
+      "added_at": "2022-04-08 04:05:00",
       "album": {
-        "name": "popstyle",
-        "url": "https://open.spotify.com/album/1BmbeoQLkG0FCFyjS9MeU5"
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/4l5eKXKtKe3K7TJPu5k3jG"
       },
       "artists": [
         {
-          "name": "cookii",
-          "url": "https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx"
+          "name": "lando!",
+          "url": "https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p"
         }
       ],
-      "duration_ms": 150234,
-      "name": "party girl",
-      "url": "https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G"
-    },
-    {
-      "added_at": "2022-04-01 13:22:34",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4"
-      },
-      "artists": [
-        {
-          "name": "Planet 1999",
-          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
-    },
-    {
-      "added_at": "2022-04-01 13:22:34",
-      "album": {
-        "name": "cabin fever",
-        "url": "https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 73962,
-      "name": "cabin fever",
-      "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
-    },
-    {
-      "added_at": "2022-03-10 19:10:41",
-      "album": {
-        "name": "peer2peer",
-        "url": "https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp"
-      },
-      "artists": [
-        {
-          "name": "webcage",
-          "url": "https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8"
-        }
-      ],
-      "duration_ms": 178668,
-      "name": "self-esteem",
-      "url": "https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB"
-    },
-    {
-      "added_at": "2022-04-01 13:22:34",
-      "album": {
-        "name": "LAKE OF LOVE",
-        "url": "https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "LAKE OF LOVE",
-      "url": "https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK"
-    },
-    {
-      "added_at": "2022-03-18 13:45:32",
-      "album": {
-        "name": "Crest",
-        "url": "https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 179430,
-      "name": "The Flag is Raised",
-      "url": "https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
-      "added_at": "2022-04-01 13:22:34",
-      "album": {
-        "name": "sink",
-        "url": "https://open.spotify.com/album/2Vj2TUjMOqVpbieeKGD2v9"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 152019,
-      "name": "sink",
-      "url": "https://open.spotify.com/track/5smvhXxq6FpGKNJIqwOetD"
+      "duration_ms": 138300,
+      "name": "just a dream",
+      "url": "https://open.spotify.com/track/1qSECIZ5eCQGcaLiUFIJar"
     },
     {
       "added_at": "2022-03-25 04:04:00",
@@ -393,22 +661,6 @@
       "url": "https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg"
     },
     {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "CUM",
-        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "CUM",
-      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
-    },
-    {
       "added_at": "2022-04-01 13:22:34",
       "album": {
         "name": "wind",
@@ -423,6 +675,22 @@
       "duration_ms": 129246,
       "name": "wind",
       "url": "https://open.spotify.com/track/6blWfrsTThQHiiJBBblyJX"
+    },
+    {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "DOZO",
+        "url": "https://open.spotify.com/album/6zp4m8mXT5m6a0SH7vhhQS"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 143369,
+      "name": "DOZO",
+      "url": "https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM"
     },
     {
       "added_at": "2022-04-01 13:22:34",
@@ -507,22 +775,6 @@
     {
       "added_at": "2022-03-25 04:04:00",
       "album": {
-        "name": "Sulfur EP",
-        "url": "https://open.spotify.com/album/3IdhqLHoxEWl76ZcE7FbT5"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        }
-      ],
-      "duration_ms": 194032,
-      "name": "parasomnia (weakness II)",
-      "url": "https://open.spotify.com/track/00gitwiSw5K0NYXLOkFprS"
-    },
-    {
-      "added_at": "2022-03-25 04:04:00",
-      "album": {
         "name": "STATiC",
         "url": "https://open.spotify.com/album/4pm8GATYzNxFc7bW2NkVYO"
       },
@@ -593,6 +845,22 @@
       "url": "https://open.spotify.com/track/5PbdV7i87rT8kTD2EcAe4F"
     },
     {
+      "added_at": "2021-11-12 14:39:10",
+      "album": {
+        "name": "CUM",
+        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "CUM",
+      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
+    },
+    {
       "added_at": "2022-03-25 04:04:00",
       "album": {
         "name": "TWIN GODS",
@@ -607,6 +875,22 @@
       "duration_ms": 96833,
       "name": "TWIN GODS",
       "url": "https://open.spotify.com/track/2biOwcl3f0Zobe1z5ol43Y"
+    },
+    {
+      "added_at": "2022-03-25 04:04:00",
+      "album": {
+        "name": "Sulfur EP",
+        "url": "https://open.spotify.com/album/3IdhqLHoxEWl76ZcE7FbT5"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "duration_ms": 194032,
+      "name": "parasomnia (weakness II)",
+      "url": "https://open.spotify.com/track/00gitwiSw5K0NYXLOkFprS"
     },
     {
       "added_at": "2022-03-25 04:04:00",
@@ -1165,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5bsI9gfjvA8a5G97Q60Goj"
     },
     {
-      "added_at": "2022-03-11 14:51:58",
-      "album": {
-        "name": "u guys suck :'(",
-        "url": "https://open.spotify.com/album/0HkXICP4foRAIiNveqQo0T"
-      },
-      "artists": [
-        {
-          "name": "SadHappyRabbit",
-          "url": "https://open.spotify.com/artist/3u8VPTrL17YQBkjUiZBkzd"
-        }
-      ],
-      "duration_ms": 149503,
-      "name": "u guys suck :'(",
-      "url": "https://open.spotify.com/track/3CBtyWfEoNZZfI3qCjqbLs"
-    },
-    {
       "added_at": "2022-02-03 15:19:13",
       "album": {
         "name": "witchpop",
@@ -1415,22 +1683,6 @@
       "duration_ms": 156724,
       "name": "so young",
       "url": "https://open.spotify.com/track/6kpwyBch6Hbvoz0MP9HrCa"
-    },
-    {
-      "added_at": "2022-01-07 07:56:00",
-      "album": {
-        "name": "selfdestruct",
-        "url": "https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK"
-      },
-      "artists": [
-        {
-          "name": "torr",
-          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "selfdestruct",
-      "url": "https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU"
     },
     {
       "added_at": "2022-02-25 05:09:00",

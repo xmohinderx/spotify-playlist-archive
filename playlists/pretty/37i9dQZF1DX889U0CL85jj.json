@@ -1,12 +1,12 @@
 {
   "description": "Just chill...",
-  "num_followers": 2316729,
+  "num_followers": 2317166,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ4MDQzNywwMDAwMDE4NTAwMDAwMTdmZDExNzQ0MGQwMDAwMDE3MTA5YzRjYzQx",
+  "snapshot_id": "MTY0OTQ0MzQxOSwwMDAwMDE4NzAwMDAwMTgwMGE3ZDM0NDUwMDAwMDE3MTA5YzRjYzQx",
   "tracks": [
     {
       "added_at": "2022-01-21 16:47:30",
@@ -221,6 +221,26 @@
       "url": "https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87"
     },
     {
+      "added_at": "2022-04-08 18:43:39",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T"
+    },
+    {
       "added_at": "2021-02-02 17:28:10",
       "album": {
         "name": "you and the everything of everything",
@@ -255,6 +275,26 @@
       "duration_ms": 121250,
       "name": "I Can't Help (with Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP"
+    },
+    {
+      "added_at": "2022-04-08 14:51:12",
+      "album": {
+        "name": "2 Oceans",
+        "url": "https://open.spotify.com/album/1KsD536VfBAiqRASMt6VdL"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+        }
+      ],
+      "duration_ms": 213055,
+      "name": "2 Oceans",
+      "url": "https://open.spotify.com/track/0goA2cYxU9k2XfQHzo6WcP"
     },
     {
       "added_at": "2022-01-21 16:47:30",

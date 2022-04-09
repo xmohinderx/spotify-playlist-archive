@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos y eternos\. Foto: Alejandro Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986,933 likes - 250 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,986,926 likes - 250 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Sólo Tú](https://open.spotify.com/track/4BjNY78GRkjyXFjhhcJ7oq) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [El Hubiera No Existe](https://open.spotify.com/album/28zHbqHJotjP5X9FO318yQ) | 3:30 |
 | 250 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
 
-Snapshot ID: `MTY0OTM3OTYzMSwwMDAwMDAwMDQ1YmY1YzFkMWQ3ZGU4ZjljZTEyMDAxYmU5MDljYmJk`
+Snapshot ID: `MTY0OTQ2NTgxMCwwMDAwMDAwMDQ1YmY1YzFkMWQ3ZGU4ZjljZTEyMDAxYmU5MDljYmJk`

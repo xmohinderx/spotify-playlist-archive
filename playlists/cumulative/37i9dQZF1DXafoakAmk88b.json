@@ -450,6 +450,24 @@
     },
     {
       "album": {
+        "name": "double standard",
+        "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "double standard",
+      "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
+      "album": {
         "name": "elephant in the room",
         "url": "https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y"
       },
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 332307,
       "name": "SUSHI STAND!",
       "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"

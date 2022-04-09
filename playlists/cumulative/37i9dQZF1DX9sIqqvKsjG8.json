@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "A Song for Clara",
+        "url": "https://open.spotify.com/album/4NJ9DFtxsmOCQgdJKWDa71"
+      },
+      "artists": [
+        {
+          "name": "Shoshana Michel",
+          "url": "https://open.spotify.com/artist/65YH4PPgJlL7o1gqVGncZ1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170120,
+      "name": "A Song for Clara",
+      "url": "https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS"
+    },
+    {
+      "album": {
         "name": "A Tough Hand",
         "url": "https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe"
       },
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 127117,
       "name": "Cotton Tale",
       "url": "https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168295,
       "name": "Fairway Drive",
       "url": "https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE"
@@ -3372,6 +3390,24 @@
     },
     {
       "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/6fPgprEplizjl1tlEf1CMZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155360,
+      "name": "Impromptu",
+      "url": "https://open.spotify.com/track/7fgqEIEV6kpswoBsgru92Z"
+    },
+    {
+      "album": {
         "name": "In Between",
         "url": "https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil"
       },
@@ -3603,6 +3639,24 @@
       "duration_ms": 130156,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3"
+    },
+    {
+      "album": {
+        "name": "Irises",
+        "url": "https://open.spotify.com/album/4JBuho1GiboA519o6hz6Wd"
+      },
+      "artists": [
+        {
+          "name": "Jenna Zabrosky",
+          "url": "https://open.spotify.com/artist/3UWLIPhm28PKVe5Nun7yf7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177455,
+      "name": "Irises",
+      "url": "https://open.spotify.com/track/7azMv5J7HgganI20NqKa9P"
     },
     {
       "album": {
@@ -4841,7 +4895,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 162478,
       "name": "More than Close",
       "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
@@ -5496,6 +5550,24 @@
     },
     {
       "album": {
+        "name": "Patchouli",
+        "url": "https://open.spotify.com/album/2IKEDd4NsJtezuTDjBqhDg"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112874,
+      "name": "Patchouli",
+      "url": "https://open.spotify.com/track/3PpvhHp9USOBQFFQ7pJwsy"
+    },
+    {
+      "album": {
         "name": "Peace Frame",
         "url": "https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH"
       },
@@ -5943,6 +6015,24 @@
       "duration_ms": 201124,
       "name": "Quiet Cove",
       "url": "https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND"
+    },
+    {
+      "album": {
+        "name": "Rain In July",
+        "url": "https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp"
+      },
+      "artists": [
+        {
+          "name": "Noah Evans",
+          "url": "https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rain In July",
+      "url": "https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE"
     },
     {
       "album": {

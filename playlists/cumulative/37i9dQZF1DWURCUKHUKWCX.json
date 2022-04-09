@@ -1872,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202977,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt"
+    },
+    {
+      "album": {
         "name": "Life As We Know It",
         "url": "https://open.spotify.com/album/7osNPv4ZRIj0fhcs5H9PkT"
       },

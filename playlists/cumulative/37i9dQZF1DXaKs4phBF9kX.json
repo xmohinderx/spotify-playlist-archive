@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 373733,
       "name": "Batdance",
       "url": "https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 218840,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0"
+    },
+    {
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "album": {
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 248386,
       "name": "Breakthru - Remastered 2011",
       "url": "https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 297266,
       "name": "Can't Happen Here",
       "url": "https://open.spotify.com/track/6c6PblxgdrYEULpt65p8tO"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 333816,
       "name": "China Girl - 2018 Remaster",
       "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
@@ -336,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Emotional Rescue (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339400,
+      "name": "Emotional Rescue - Remastered 2009",
+      "url": "https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko"
+    },
+    {
+      "album": {
         "name": "Run For Cover",
         "url": "https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI"
       },
@@ -351,6 +387,24 @@
       "duration_ms": 257440,
       "name": "Empty Rooms",
       "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "album": {
@@ -383,7 +437,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 297426,
       "name": "Eyes Without A Face - Remastered",
       "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
@@ -437,7 +491,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 246906,
       "name": "Friends Will Be Friends - Remastered 2011",
       "url": "https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X"
@@ -455,7 +509,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
@@ -509,7 +563,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 302120,
       "name": "Head Over Heels / Broken",
       "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
@@ -527,7 +581,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 312600,
       "name": "Headed for a Heartbreak",
       "url": "https://open.spotify.com/track/2XbxWdh1e6Tyku9pbaXlFI"
@@ -545,7 +599,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 210560,
       "name": "Hearts On Fire",
       "url": "https://open.spotify.com/track/4Pdfz42VRVsGcextoCqY8z"
@@ -581,7 +635,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 304533,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/60iNCdO3iDf3YcMb63yPck"
@@ -624,6 +678,24 @@
     },
     {
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -635,7 +707,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
@@ -689,7 +761,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 209906,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/55NBt1WuvShjsGE1grbi2v"
@@ -779,10 +851,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 246973,
       "name": "It's A Hard Life - Remastered 2011",
       "url": "https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic"
+    },
+    {
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "album": {
@@ -815,7 +905,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 371240,
       "name": "Kick It In - Remastered 2002",
       "url": "https://open.spotify.com/track/0ynbWw3VpFVftYjp2aw4DL"
@@ -855,6 +945,24 @@
       "duration_ms": 273906,
       "name": "Legs - 2008 Remaster",
       "url": "https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e"
+    },
+    {
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "album": {
@@ -905,7 +1013,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 206866,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf"
@@ -923,7 +1031,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 432680,
       "name": "Loving The Alien - 2018 Remaster",
       "url": "https://open.spotify.com/track/7BajdQYAHjGjwVmddeRlUn"
@@ -977,7 +1085,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 231693,
       "name": "Neon Knights - 2009 Remaster",
       "url": "https://open.spotify.com/track/65gqhwfZ5E6upb1HahiVGM"
@@ -995,7 +1103,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 184586,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/1JtKjseM1zu8uwJxKna5VV"
@@ -1031,7 +1139,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 266173,
       "name": "Nightrain",
       "url": "https://open.spotify.com/track/2vNw57KPaYDzkyPxXYUORX"
@@ -1085,7 +1193,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
@@ -1121,7 +1229,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
@@ -1157,7 +1265,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 227866,
       "name": "Pure",
       "url": "https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk"
@@ -1175,7 +1283,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
@@ -1193,7 +1301,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Rock 'N' Roll Is King",
       "url": "https://open.spotify.com/track/4pZnzl9t4eCCra5HDI87wi"
@@ -1247,7 +1355,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 331200,
       "name": "Rosanna",
       "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
@@ -1283,7 +1391,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 199386,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/5qzwrPRbnaqSOK545OEJBq"
@@ -1301,7 +1409,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
@@ -1355,7 +1463,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 192400,
       "name": "Sick Of It",
       "url": "https://open.spotify.com/track/6VRHlbn4dOvpHOSnhUCxQx"
@@ -1445,7 +1553,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Still They Ride",
       "url": "https://open.spotify.com/track/2or8ETC2aPaOLJFnF9VoXX"
@@ -1499,7 +1607,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 354520,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
@@ -1539,6 +1647,24 @@
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+    },
+    {
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
       "album": {
@@ -1589,7 +1715,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 273866,
       "name": "Tougher Than the Rest",
       "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
@@ -1607,10 +1733,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 271200,
       "name": "Urgent",
       "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "album": {
@@ -1625,7 +1769,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 339840,
       "name": "When It's Love",
       "url": "https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss"
@@ -1715,7 +1859,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"

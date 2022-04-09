@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Jovem Dion\u00edsio",
+  "description": "Novidades e destaques do indie nacional. Foto: Jandaia",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 203189,
       "name": "18 Graus",
       "url": "https://open.spotify.com/track/5UxS8MWKqR8C6SdV9z29h1"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Albatroz Azul",
+        "url": "https://open.spotify.com/album/4wYBRx8hOzUQiSysTDihpn"
+      },
+      "artists": [
+        {
+          "name": "Gab Lara",
+          "url": "https://open.spotify.com/artist/4fMswJeTIgrLStwvUi1npH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215610,
+      "name": "Albatroz Azul",
+      "url": "https://open.spotify.com/track/71hoAmvlJ9HSWvSTU7PlFC"
+    },
+    {
+      "album": {
         "name": "Algum Lugar",
         "url": "https://open.spotify.com/album/3gZhHRrxUCADMINe8AXkQ9"
       },
@@ -214,6 +232,28 @@
     },
     {
       "album": {
+        "name": "Antes de Me Deixar",
+        "url": "https://open.spotify.com/album/2OlR1ABips2OgUWauHAwd5"
+      },
+      "artists": [
+        {
+          "name": "Diego Tavares",
+          "url": "https://open.spotify.com/artist/0YMMGm6r3OCnmN6z1PR42X"
+        },
+        {
+          "name": "Lara Aufranc",
+          "url": "https://open.spotify.com/artist/6HOB0s5nvauJBT6mlaQeED"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116180,
+      "name": "Antes de Me Deixar",
+      "url": "https://open.spotify.com/track/3HklnFAPRcIPQJcTEZ3VBs"
+    },
+    {
+      "album": {
         "name": "Aulus",
         "url": "https://open.spotify.com/album/3pqnkMtRDxT20PGZV4BPPI"
       },
@@ -265,6 +305,24 @@
       "duration_ms": 166241,
       "name": "Avi\u00f5es",
       "url": "https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc"
+    },
+    {
+      "album": {
+        "name": "bem vindo, amanhecer",
+        "url": "https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "bem vindo, amanhecer",
+      "url": "https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT"
     },
     {
       "album": {
@@ -591,7 +649,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 154750,
       "name": "Coisas t\u00e3o F\u00fateis",
       "url": "https://open.spotify.com/track/7inLLMuDulXTso9JK5snNC"
@@ -617,6 +675,24 @@
       "duration_ms": 258986,
       "name": "Conven\u00e7\u00f5es Humanas",
       "url": "https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv"
+    },
+    {
+      "album": {
+        "name": "Cor de Jasmim",
+        "url": "https://open.spotify.com/album/2doQm73YZifzBJcTPLqpFo"
+      },
+      "artists": [
+        {
+          "name": "Siso",
+          "url": "https://open.spotify.com/artist/1wWp9zRDL2466jSAXycCUQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Cor de Jasmim",
+      "url": "https://open.spotify.com/track/5MHkzuEStgdB11uH0rFnyC"
     },
     {
       "album": {
@@ -877,6 +953,24 @@
       "duration_ms": 181310,
       "name": "Estrago",
       "url": "https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C"
+    },
+    {
+      "album": {
+        "name": "Estrago",
+        "url": "https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4"
+      },
+      "artists": [
+        {
+          "name": "Jandaia",
+          "url": "https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229302,
+      "name": "Estrago",
+      "url": "https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8"
     },
     {
       "album": {
@@ -1211,7 +1305,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 206100,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb"
@@ -1247,7 +1341,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 262000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD"
@@ -1775,10 +1869,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 193600,
       "name": "O Teste",
       "url": "https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A"
+    },
+    {
+      "album": {
+        "name": "O Treco",
+        "url": "https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260505,
+      "name": "O Treco",
+      "url": "https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX"
     },
     {
       "album": {
@@ -2631,7 +2743,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 145695,
       "name": "T\u00e3o Bom",
       "url": "https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76"
@@ -2733,6 +2845,28 @@
       "duration_ms": 147662,
       "name": "vc n \u00e9 o john mayer (rlx)",
       "url": "https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u"
+    },
+    {
+      "album": {
+        "name": "vem c\u00e1",
+        "url": "https://open.spotify.com/album/6fgGTsrWSyPnX1s7wVc2RH"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        },
+        {
+          "name": "belina",
+          "url": "https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "vem c\u00e1",
+      "url": "https://open.spotify.com/track/0w6WQE0WeYGslTMm79hh8z"
     },
     {
       "album": {
@@ -2879,7 +3013,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 222339,
       "name": "Vozes",
       "url": "https://open.spotify.com/track/3HiUwqHR8mma38Oq6dBZmS"

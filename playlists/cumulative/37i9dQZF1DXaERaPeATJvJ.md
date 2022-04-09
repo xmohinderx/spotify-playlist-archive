@@ -2,7 +2,7 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
-> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Holy City Rollers
+> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Themilo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,8 @@
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
 | [Rindu](https://open.spotify.com/track/3bgzKtiWqtUkzTQvvX7QQf) | [Planetbumi](https://open.spotify.com/artist/6Gowlt8jc4QjTj8bhDSbPI) | [The Rest of Planet Bumi](https://open.spotify.com/album/4nsL12Cl2TIugB7O9RAZjk) | 4:42 | 2021-11-25 |  |
 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 | 2021-11-25 |  |
+| [Romantic Purple \- Let Me Begin Album](https://open.spotify.com/track/6JjYT1lxRn254qiQWrRXaJ) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 6:04 | 2022-04-08 |  |
+| [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 | 2022-04-08 |  |
 | [Rules and Policy](https://open.spotify.com/track/0pJAkqb1ZHCdxohhD7M5w8) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Monkey to Millionaire](https://open.spotify.com/album/4pNR7Opym7bbZdBcDgf8DY) | 3:14 | 2021-11-25 |  |
 | [Satu Mimpi](https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5) | [Waiting Room](https://open.spotify.com/artist/720vBDH1DJ0UaLXmfTMs46) | [Propaganda](https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi) | 3:19 | 2021-11-25 |  |
 | [Semu](https://open.spotify.com/track/1h3HK2bwZ5TEgBB3A06L6i) | [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Epic Symphony](https://open.spotify.com/album/75CIJQq7AocsTVcnYdEERz) | 3:10 | 2021-11-25 |  |

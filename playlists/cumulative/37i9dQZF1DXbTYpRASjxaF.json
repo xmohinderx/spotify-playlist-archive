@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "40 Graus",
+        "url": "https://open.spotify.com/album/5HxNKy2cBYYXVClbp8R8MZ"
+      },
+      "artists": [
+        {
+          "name": "Meno Will",
+          "url": "https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE"
+        },
+        {
+          "name": "Dj Juninho Mpc",
+          "url": "https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "40 Graus",
+      "url": "https://open.spotify.com/track/79A9iGFQH99jsX5utuO0wU"
+    },
+    {
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -495,7 +517,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 152016,
       "name": "Fatia do Bolo",
       "url": "https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es"

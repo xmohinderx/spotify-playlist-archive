@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128435,
+  "num_followers": 128439,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzMzOSwzNmIwNzdkOGIyNzZiODlmMGJlZjhmNGIwNzdjNTMzMzVlMjZiMWU5",
+  "snapshot_id": "MzM0MSxlODAxYmE2ZDI3YWIyMmI0MzFkZDc1N2JkMWRmMTVmYTNkNWUxMWI3",
   "tracks": [
+    {
+      "added_at": "2022-04-08 16:17:27",
+      "album": {
+        "name": "We Could Have It All",
+        "url": "https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 210290,
+      "name": "We Could Have It All",
+      "url": "https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5"
+    },
+    {
+      "added_at": "2022-04-08 16:16:28",
+      "album": {
+        "name": "Shadow Settles",
+        "url": "https://open.spotify.com/album/0vwc9eYpRD229CD7Hqi3nB"
+      },
+      "artists": [
+        {
+          "name": "Odsen",
+          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Shadow Settles",
+      "url": "https://open.spotify.com/track/6mZ1ymTDdQSUUYkYoj8mD8"
+    },
     {
       "added_at": "2022-04-07 16:14:08",
       "album": {

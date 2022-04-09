@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema x Jason Derulo
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,611 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,145 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 12 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
 | 13 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
 | 14 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 |
-| 15 | [Va bene \(feat\. Jul & Naza\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Va bene \(feat\. Jul & Naza\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 |
+| 15 | [Va bene \(feat\. 4.4.2 & Jul\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Va bene \(feat\. 4.4.2 & Jul\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 |
 | 16 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
 | 17 | [Oulala](https://open.spotify.com/track/1XB2BENsrx2SI9cwMBbDqE) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Oulala](https://open.spotify.com/album/30lZsvVyvyWe7FLiFVHEck) | 2:42 |
 | 18 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |

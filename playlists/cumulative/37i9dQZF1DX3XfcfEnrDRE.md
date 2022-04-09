@@ -2,7 +2,7 @@
 
 ### [Ultimate Christian Alternative](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
-> The ever\-evolving sound of Alt! Cover: King Kaliedoscope
+> The ever\-evolving sound of Alt! Cover: Kristene DiMarco
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Come and Let Your Presence \- Live](https://open.spotify.com/track/66G5iRhwjbtb9hIJwyTKAz) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [One King \(Live\)](https://open.spotify.com/album/0HWeaOLbckNaGeooeryUQs) | 7:38 | 2022-02-27 |  |
 | [Come What May](https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Come What May](https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc) | 5:19 | 2022-02-27 |  |
 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 | 2022-02-27 |  |
+| [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 | 2022-04-08 |  |
 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 | 2022-02-27 |  |
 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 | 2022-02-27 |  |
 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 | 2022-02-27 |  |
@@ -64,6 +65,7 @@
 | [Look Up](https://open.spotify.com/track/4d9Eyol0RuMTgllFUgbwvi) | [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Look Up](https://open.spotify.com/album/2sk9sxUsafPiMS27OoFGxX) | 3:13 | 2022-02-27 |  |
 | [lost ‘cause](https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj) | 3:44 | 2022-02-27 |  |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [Lovkn](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 |  |
+| [Miracle of the Mind](https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Miracle of the Mind](https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6) | 4:29 | 2022-04-08 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-02-27 |  |
 | [Nothing is Wasted \- Live](https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Bobby Walker](https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Nothing is Wasted \(Live\)](https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l) | 5:48 | 2022-02-27 |  |
 | [Obsession with Eyes](https://open.spotify.com/track/317YHXQ0bpeqYcD11LZwrK) | [Lovkn](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Obsession with Eyes](https://open.spotify.com/album/6U6nn2jONUcQUlNTmDEFjU) | 3:21 | 2022-02-27 |  |
@@ -94,6 +96,7 @@
 | [WILD THINGS](https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [WILD THINGS](https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i) | 3:03 | 2022-02-27 |  |
 | [YEAR OF VICTORY](https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YEAR OF VICTORY](https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx) | 3:50 | 2022-02-27 |  |
 | [You](https://open.spotify.com/track/2838keaxdqYgR2t1L78OIF) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Patient](https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5) | 3:46 | 2022-02-27 |  |
+| [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2022-04-08 |  |
 | [You Are Not Far](https://open.spotify.com/track/16qYFDLyYVW6JtluzSlHSa) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [You Are Not Far](https://open.spotify.com/album/51oVPxUN4Edw1WSrwhqtyq) | 2:14 | 2022-02-27 |  |
 | [Yours](https://open.spotify.com/track/7AsKzwxHARe1T3UwooVMZ2) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Yours](https://open.spotify.com/album/7kzmJSy0pIzRpnLYl0SKpO) | 4:36 | 2022-02-27 |  |
 

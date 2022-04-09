@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 263620,
       "name": "Amor en Zamba",
       "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
@@ -161,6 +161,28 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210771,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
     },
     {
       "album": {
@@ -359,7 +381,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 226688,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
@@ -485,7 +507,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 286627,
       "name": "El seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 189040,
       "name": "Quisiera Amarte Menos",
       "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 265614,
       "name": "Tarareando",
       "url": "https://open.spotify.com/track/5fLx7hgsaS7EVNywp5OX4v"

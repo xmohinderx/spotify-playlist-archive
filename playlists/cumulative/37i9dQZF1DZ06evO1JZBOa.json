@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 414000,
       "name": "Abele Dance",
       "url": "https://open.spotify.com/track/1tTUxQPN19BkCv5Qk9FFSx"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 257266,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 208973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
@@ -397,6 +397,28 @@
     {
       "album": {
         "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/2FYV3YZ6ikL7NTFBnBXRqX"
+    },
+    {
+      "album": {
+        "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
       "artists": [
@@ -411,7 +433,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 194866,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/4QXE4rSr52gCAgloBpo78L"
@@ -513,7 +535,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 296400,
       "name": "Du bush a bush",
       "url": "https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT"
@@ -535,7 +557,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 344760,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
@@ -775,7 +797,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 325240,
       "name": "Ongele Mba",
       "url": "https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN"
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for your focus time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,264 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,295 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 90 | ['Round About Midnight \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Street \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q) | 7:03 |
 | 91 | [There Will Never Be Another You](https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Big 6](https://open.spotify.com/album/7rpVIPYd0mq2gJG9GRgXlz) | 5:04 |
 | 92 | [Laura](https://open.spotify.com/track/0zYyFn3sMcotsTsxA7fNym) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Flies High](https://open.spotify.com/album/6qUfLxjWpMlcX1f5P3tUFH) | 4:34 |
-| 93 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
+| 93 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
 | 94 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
 | 95 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 |
 | 96 | [Polka Dots And Moonbeams](https://open.spotify.com/track/7o83lDLcJ9uKnRZ1dBmcxN) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Gravy Train](https://open.spotify.com/album/2qfKHt02zZKOcr3hmKIeCq) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
 | 100 | [Dear Sir](https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:55 |
 
-Snapshot ID: `MTY0OTM3OTY3MywwMDAwMDAwMDgzNWU0ZTA5YmU3YjE4YTgzNzdhMjdkY2Y0ZDRhM2U3`
+Snapshot ID: `MTY0OTQ2NTg1MiwwMDAwMDAwMDgzNWU0ZTA5YmU3YjE4YTgzNzdhMjdkY2Y0ZDRhM2U3`

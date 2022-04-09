@@ -30,6 +30,54 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t No Fun",
+        "url": "https://open.spotify.com/album/3dJ5oJaFMMsIsBz1nU4wk6"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147204,
+      "name": "Ain\u2019t No Fun",
+      "url": "https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP"
+    },
+    {
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/5ridWYM8bnEFaZ9dQkLxid"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122338,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1sE7vQVIRzptUgsx2TH4Gy"
+    },
+    {
+      "album": {
         "name": "Any Second",
         "url": "https://open.spotify.com/album/18HOlFvpNYKCPdwy2kbDxx"
       },
@@ -143,7 +191,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 126464,
       "name": "Ballin (Play-In Remix)",
       "url": "https://open.spotify.com/track/227dZXkrNPdg4Yhbe0glfp"
@@ -231,7 +279,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 237435,
       "name": "Bing Bong (feat. Fat Joe, Busta Rhymes & Styles P) - Remix",
       "url": "https://open.spotify.com/track/5TMiDIESljV4K7yCBE9U4y"
@@ -469,10 +517,36 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 169946,
       "name": "Casamigos Freestyle",
       "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
+    },
+    {
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241643,
+      "name": "Changed On Me (feat. Vory & Polo G)",
+      "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
     },
     {
       "album": {
@@ -517,6 +591,28 @@
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
+    },
+    {
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/6B6TNpcbfLYdBweoByc1vi"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Clingy (with NAV)",
+      "url": "https://open.spotify.com/track/4JCl8i3zSsm7quRfFr6mAm"
     },
     {
       "album": {
@@ -699,7 +795,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 134810,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/4JNI9h3odVrUIqDhVocdVj"
@@ -1125,7 +1221,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 189289,
       "name": "How The Story Goes",
       "url": "https://open.spotify.com/track/3GJN343ii9tJpxYJB4KTJN"
@@ -1143,7 +1239,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 120000,
       "name": "I Ain't Gon Lie",
       "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
@@ -1269,7 +1365,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 142837,
       "name": "it's a monday",
       "url": "https://open.spotify.com/track/2oet8fj6MIOn8k1hc3G3Ob"
@@ -1468,6 +1564,28 @@
     },
     {
       "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "album": {
         "name": "2 Get You Thru The Rain",
         "url": "https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji"
       },
@@ -1541,7 +1659,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 158771,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih"
@@ -1602,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Me & My Weapon",
+        "url": "https://open.spotify.com/album/3VDQqiahFQSOgA0eq6oxjr"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150187,
+      "name": "Me & My Weapon",
+      "url": "https://open.spotify.com/track/1wlATrcYdFPujJw6xPJsld"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
@@ -1635,6 +1771,32 @@
       "duration_ms": 186488,
       "name": "Moment",
       "url": "https://open.spotify.com/track/2uy9NaLzl0wGILhoGVortZ"
+    },
+    {
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "Mountains (with Fivio Foreign & Yung M.A)",
+      "url": "https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l"
     },
     {
       "album": {
@@ -1773,7 +1935,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 200784,
       "name": "No Cocaine",
       "url": "https://open.spotify.com/track/1g98hm9PP0uVu1ORfAbRGG"
@@ -2228,6 +2390,24 @@
     },
     {
       "album": {
+        "name": "Rowdy vs. Rebel",
+        "url": "https://open.spotify.com/album/3tEkjoDhyrzj1aq3o8hLil"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162490,
+      "name": "Rowdy vs. Rebel",
+      "url": "https://open.spotify.com/track/2MaITtsyiWKg2w1umySIS6"
+    },
+    {
+      "album": {
         "name": "Said It\u2019s Lit",
         "url": "https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI"
       },
@@ -2439,7 +2619,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 150720,
       "name": "Steppers",
       "url": "https://open.spotify.com/track/0Cof04dNGqSQPNc2NpQg8J"
@@ -2617,10 +2797,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 147213,
       "name": "THE REV3NGE",
       "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
+    },
+    {
+      "album": {
+        "name": "The Rock",
+        "url": "https://open.spotify.com/album/4jUfsuirfga7P3pM0eauSg"
+      },
+      "artists": [
+        {
+          "name": "Anoyd",
+          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134070,
+      "name": "The Rock",
+      "url": "https://open.spotify.com/track/338rI8tKxvlOuRTs1Qapbo"
     },
     {
       "album": {
@@ -2639,6 +2837,28 @@
       "duration_ms": 196325,
       "name": "The Wolf Is In The Peacoat",
       "url": "https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3"
+    },
+    {
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "Through the Fire (feat. Quavo)",
+      "url": "https://open.spotify.com/track/1PtD0GMcPogQvMAeYUW8QF"
     },
     {
       "album": {
@@ -2693,6 +2913,24 @@
       "duration_ms": 197304,
       "name": "Tits & Grits",
       "url": "https://open.spotify.com/track/6oJ3ps7hZPibXhDJMHs7dK"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159101,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR"
     },
     {
       "album": {
@@ -2806,6 +3044,40 @@
     },
     {
       "album": {
+        "name": "We Set The Trends (Remix) [feat. \u200eMigos & Juelz Santana]",
+        "url": "https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217815,
+      "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
+      "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
+    },
+    {
+      "album": {
         "name": "What You Like",
         "url": "https://open.spotify.com/album/33OsUHRjqTZLYeUUaosPod"
       },
@@ -2821,7 +3093,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 142759,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/55R5ND8blGFjU46ZZ76Kod"

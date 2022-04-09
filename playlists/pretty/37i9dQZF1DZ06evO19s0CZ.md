@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,589 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,790 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 44 | [Time Is On My Side \- Mono Version](https://open.spotify.com/track/2jaN6NgXflZTj2z9CWcqaP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones No\. 2](https://open.spotify.com/album/0MDhZ0yRkugNEg7PmMMUE8) | 2:59 |
 | 45 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 3:26 |
 | 46 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
-| 47 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 |
-| 48 | [Out Of Control](https://open.spotify.com/track/4cYixasStbsXGnhyKxHEFN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:43 |
-| 49 | [Doom And Gloom](https://open.spotify.com/track/0lO9vvpJdd2ZNAq61ga9wy) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Honk \(Deluxe\)](https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw) | 3:58 |
+| 47 | [Out Of Control](https://open.spotify.com/track/4cYixasStbsXGnhyKxHEFN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 4:43 |
+| 48 | [Doom And Gloom](https://open.spotify.com/track/0lO9vvpJdd2ZNAq61ga9wy) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Honk \(Deluxe\)](https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw) | 3:58 |
+| 49 | [Rip This Joint \- Live At The El Mocambo 1977](https://open.spotify.com/track/7givGIDyNXr6aV9bUHhlYE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [It’s Only Rock ’N’ Roll \(But I Like It\) / Rip This Joint \[Live At The El Mocambo 1977\]](https://open.spotify.com/album/1LNkP9TVG6KSk5wbXwbcM3) | 2:11 |
 | 50 | [Loving Cup](https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 4:24 |
 
-Snapshot ID: `Mjc0ODg5NzEsMDAwMDAwMDAzN2U5MjExYTE5ZDljM2U0Njk1ZGM4ZDJiOTYxOGJiNw==`
+Snapshot ID: `Mjc0OTA0NDQsMDAwMDAwMDA0MDZhN2NmMDkzNDE2YzFhMGFmNDUwNWU0NjY0Mjg5YQ==`

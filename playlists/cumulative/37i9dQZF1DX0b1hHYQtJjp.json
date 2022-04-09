@@ -946,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200558,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy"
       },
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
@@ -2629,6 +2647,24 @@
       "duration_ms": 164724,
       "name": "City That Never Sleeps",
       "url": "https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "album": {
@@ -4473,10 +4509,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/5Z1rLGZjQPAoqI1YZqVkdq"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222488,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/52kYbQXrntPEsZ4iiqWKL6"
     },
     {
       "album": {
@@ -5904,6 +5958,24 @@
     },
     {
       "album": {
+        "name": "I Burned LA Down",
+        "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
       },
@@ -6719,7 +6791,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 232893,
       "name": "In Real Life",
       "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
@@ -6915,7 +6987,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 241248,
       "name": "Is It Worth Being Sad",
       "url": "https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa"

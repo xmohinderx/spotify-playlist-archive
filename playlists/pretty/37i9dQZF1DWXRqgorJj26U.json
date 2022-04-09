@@ -1,13 +1,29 @@
 {
-  "description": "Rock legends & epic songs spanning decades, that continue to inspire generations. ",
-  "num_followers": 10194142,
+  "description": "Rock legends & epic songs that continue to inspire generations. Celebrating 45 years of the Clash's debut album.",
+  "num_followers": 10198967,
   "original_name": "Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODEyOTgzOCwwMDAwMDA4MDAwMDAwMTdmYmMzMThkYjYwMDAwMDE3ZmI4NmVlOWU2",
+  "snapshot_id": "MTY0OTQ0MDgzOCwwMDAwMDA4MTAwMDAwMTgwMGE1NWQzMjYwMDAwMDE4MDBhNTU0MWIw",
   "tracks": [
+    {
+      "added_at": "2022-04-08 18:00:38",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "White Riot - Remastered",
+      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
+    },
     {
       "added_at": "2022-02-04 00:00:00",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2022-02-04 00:00:00",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2022-02-04 00:00:00",
@@ -327,6 +327,22 @@
       "duration_ms": 168440,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1Ly0ssAgeM7YqdHptao8Oe"
+    },
+    {
+      "added_at": "2022-04-08 18:00:38",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 363373,
+      "name": "Police & Thieves - Remastered",
+      "url": "https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y"
     },
     {
       "added_at": "2022-02-04 00:00:00",
@@ -599,6 +615,22 @@
       "duration_ms": 295386,
       "name": "Black Dog - Remaster",
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "added_at": "2022-02-04 00:00:00",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2022-02-04 00:00:00",
@@ -1645,6 +1677,22 @@
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
+      "added_at": "2022-04-08 18:00:38",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "Janie Jones - Remastered",
+      "url": "https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw"
+    },
+    {
       "added_at": "2022-02-04 00:00:00",
       "album": {
         "name": "Dynasty",
@@ -2179,22 +2227,6 @@
     {
       "added_at": "2022-02-04 00:00:00",
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
-    },
-    {
-      "added_at": "2022-02-04 00:00:00",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -2207,6 +2239,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2022-02-04 00:00:00",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2022-02-04 00:00:00",
@@ -2319,22 +2367,6 @@
       "duration_ms": 457133,
       "name": "Let's Dance - 1999 Remaster",
       "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
-    },
-    {
-      "added_at": "2022-02-04 00:00:00",
-      "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2022-02-04 00:00:00",
@@ -2899,22 +2931,6 @@
     {
       "added_at": "2022-02-04 00:00:00",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dude (Looks Like A Lady)",
-      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
-    },
-    {
-      "added_at": "2022-02-04 00:00:00",
-      "album": {
         "name": "Climbing!",
         "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
       },
@@ -3119,22 +3135,6 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2022-02-04 00:00:00",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2022-02-04 00:00:00",

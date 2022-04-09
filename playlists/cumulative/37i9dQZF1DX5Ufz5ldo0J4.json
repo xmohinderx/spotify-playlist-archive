@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Aesthetic",
+        "url": "https://open.spotify.com/album/71FyFTipWq6kbUmtBWw2oZ"
+      },
+      "artists": [
+        {
+          "name": "Gyr",
+          "url": "https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Aesthetic",
+      "url": "https://open.spotify.com/track/0i1dfTENGrNNBWeZlknUf4"
+    },
+    {
+      "album": {
         "name": "Ascending",
         "url": "https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz"
       },

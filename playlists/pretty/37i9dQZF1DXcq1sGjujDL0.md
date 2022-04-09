@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Cozinhar nunca foi tão musical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,780 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,804 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 39 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 40 | [Paradise](https://open.spotify.com/track/6tl0rKudQ0U0zJy8EqX891) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK) | 3:37 |
 
-Snapshot ID: `MTY0OTM3OTc4MSwwMDAwMDAwMDU4NjE1NDg3OWY0MzQ0ZjY0NWFlNjMyNGU0MjM1ZjZl`
+Snapshot ID: `MTY0OTQ2NTk2NCwwMDAwMDAwMDU4NjE1NDg3OWY0MzQ0ZjY0NWFlNjMyNGU0MjM1ZjZl`

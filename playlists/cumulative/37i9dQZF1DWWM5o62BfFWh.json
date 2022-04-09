@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Combinaci\u00f3n de la Habana, Kimiko y El Yordy",
+  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Gente de Zona",
   "name": "Cubat\u00f3n",
   "published_playlist_ids": [
     "10FYMQLgw0cDsX64VDlIyb"
@@ -356,6 +356,28 @@
     },
     {
       "album": {
+        "name": "De Menor a Mayor",
+        "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "El Negrito",
+      "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
+    },
+    {
+      "album": {
         "name": "El Pana",
         "url": "https://open.spotify.com/album/7yRMicqXUQjxQGGH3oYmyB"
       },
@@ -557,7 +579,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 198460,
       "name": "La Botella - DJ Unic Reggaeton Edit",
       "url": "https://open.spotify.com/track/1WAyHsbzvXM9lWpZ9QqTKY"
@@ -827,7 +849,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 219763,
       "name": "Maltrataita Y Loca - DJ Unic Remix",
       "url": "https://open.spotify.com/track/3dagESXedebzyyKoLXrjhG"
@@ -1201,7 +1223,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 196981,
       "name": "Prom\u00e9teme - Remix",
       "url": "https://open.spotify.com/track/1g96SBsH8oIpfp3nsEcvuj"

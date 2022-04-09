@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Fantastic Negrito",
+  "description": "The best in blues right now. Cover: Albert Cummings",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -416,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Call Me King",
+        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Call Me King",
+      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+    },
+    {
+      "album": {
         "name": "Can't Take No More",
         "url": "https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8"
       },
@@ -489,6 +507,24 @@
       "duration_ms": 227114,
       "name": "Dear America",
       "url": "https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg"
+    },
+    {
+      "album": {
+        "name": "Death Don't Have No Mercy",
+        "url": "https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378373,
+      "name": "Death Don't Have No Mercy",
+      "url": "https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82"
     },
     {
       "album": {
@@ -1247,6 +1283,24 @@
       "duration_ms": 203466,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193851,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc"
     },
     {
       "album": {
@@ -2174,6 +2228,24 @@
     },
     {
       "album": {
+        "name": "Smokestack Lightning",
+        "url": "https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Smokestack Lightning",
+      "url": "https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r"
+    },
+    {
+      "album": {
         "name": "What Happens Next",
         "url": "https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv"
       },
@@ -2781,7 +2853,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 211519,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/61PT5UtpBFUmuJMdSlf6ii"

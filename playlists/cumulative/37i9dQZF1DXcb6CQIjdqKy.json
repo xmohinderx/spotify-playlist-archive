@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  ELEVATION RHYTHM",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Elevation Worship and Maverick City Music",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 224829,
       "name": "Almost Home - Live",
       "url": "https://open.spotify.com/track/7buJkwwok8lFaTLZtQT0UJ"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 326500,
       "name": "Breathe (feat. Chandler Moore, Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
@@ -602,6 +602,50 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
+    },
+    {
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "album": {
         "name": "Even At My Worst",
         "url": "https://open.spotify.com/album/6qgaJkPeR3fpQHEbQmq60y"
       },
@@ -653,7 +697,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
@@ -939,10 +983,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 355278,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/5YqBunmB2XCVOiforsCKaj"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406546,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/3n6kLGOCi4ZemXnUxnQbnK"
     },
     {
       "album": {
@@ -1363,7 +1425,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 256133,
       "name": "House Of The Lord",
       "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
@@ -1407,6 +1469,24 @@
       "duration_ms": 243161,
       "name": "How You Love Me",
       "url": "https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd"
+    },
+    {
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "Hymn Of Heaven",
+      "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
     },
     {
       "album": {
@@ -1612,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "Sing! In Christ Alone - Live At The Getty Music Worship Conference",
+        "url": "https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288303,
+      "name": "Is He Worthy? - Live",
+      "url": "https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf"
+    },
+    {
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -1671,7 +1773,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 213746,
       "name": "Jesus Is Coming Back (feat. Mandisa & Jonathan Traylor)",
       "url": "https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ"
@@ -1697,6 +1799,50 @@
       "duration_ms": 254866,
       "name": "Jesus Is Risen",
       "url": "https://open.spotify.com/track/7Myw8gqNvdLPxrAh5IDvS9"
+    },
+    {
+      "album": {
+        "name": "Jireh Deluxe - EP",
+        "url": "https://open.spotify.com/album/0KZjBhmpeMzU5kRYB059x2"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284838,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine) - Radio Version",
+      "url": "https://open.spotify.com/track/0f123s4v9Azuv3jT8ZMCAU"
+    },
+    {
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137130,
+      "name": "joyful",
+      "url": "https://open.spotify.com/track/6TFjKtYZGIJyL6vbS33GEB"
     },
     {
       "album": {
@@ -1959,10 +2105,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 224960,
       "name": "lost \u2018cause",
       "url": "https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm"
+    },
+    {
+      "album": {
+        "name": "New Creation (Live)",
+        "url": "https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211190,
+      "name": "Love Is The Reason - Live",
+      "url": "https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN"
     },
     {
       "album": {
@@ -2061,6 +2225,24 @@
       "duration_ms": 281994,
       "name": "Minha Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FBK4OhIdNMAJxVxLRjp0k"
+    },
+    {
+      "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "album": {
@@ -2195,7 +2377,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 182600,
       "name": "New Creation",
       "url": "https://open.spotify.com/track/66CqLV4jBPFGoN8kx78J15"
@@ -2903,7 +3085,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
@@ -2997,7 +3179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 348418,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/3VfYDUvCE3OZWA9TppaI5S"
@@ -3207,7 +3389,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 190714,
       "name": "This Is How I Thank The Lord",
       "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
@@ -3229,6 +3411,24 @@
       "duration_ms": 227419,
       "name": "This is the Day - Live With Friends",
       "url": "https://open.spotify.com/track/3i6hCacZrfa2TgamyuUkuO"
+    },
+    {
+      "album": {
+        "name": "This Is How I Thank The Lord",
+        "url": "https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305853,
+      "name": "To Your Arms",
+      "url": "https://open.spotify.com/track/2PICbElRrRVeIDcAreUeeC"
     },
     {
       "album": {
@@ -3517,7 +3717,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 199398,
       "name": "While We Wait",
       "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
@@ -3633,7 +3833,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
@@ -3709,6 +3909,24 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "album": {
+        "name": "The Field",
+        "url": "https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159534,
+      "name": "You Are My Country",
+      "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy"

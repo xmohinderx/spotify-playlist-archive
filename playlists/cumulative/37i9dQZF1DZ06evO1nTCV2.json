@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
@@ -509,6 +509,24 @@
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+    },
+    {
+      "album": {
+        "name": "Chris",
+        "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Flicker in the Fade",
+      "url": "https://open.spotify.com/track/0JCXykmQ7NQxQHE8skH8xL"
     },
     {
       "album": {
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 221720,
       "name": "Moving Target",
       "url": "https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 141733,
       "name": "Schizophrenic Babylon",
       "url": "https://open.spotify.com/track/4kbX5HsIZ3bks6pwHE1pO1"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 187120,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
@@ -1449,6 +1467,24 @@
     {
       "album": {
         "name": "Big Colors",
+        "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/0fjHr7PDwEa2h3qd6RtkHV"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
       "artists": [
@@ -1459,7 +1495,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 168186,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/5HQwQSkqOZOIyv1EyLRrgA"

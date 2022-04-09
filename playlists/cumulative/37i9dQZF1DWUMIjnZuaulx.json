@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Anthony Evans ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  The Group Fire",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Anything but Fail",
+        "url": "https://open.spotify.com/album/6vuieclSb9Y1FmxgUuTAVI"
+      },
+      "artists": [
+        {
+          "name": "The Group Fire",
+          "url": "https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257385,
+      "name": "Anything but Fail",
+      "url": "https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr"
+    },
+    {
+      "album": {
         "name": "Believe For It (Live)",
         "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
       },
@@ -267,6 +285,28 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Chandler Moore, Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
     },
     {
       "album": {
@@ -445,7 +485,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 297364,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/2lx3XjD1uZuqHdHBTUnWY8"
@@ -589,7 +629,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 255761,
       "name": "GRACE",
       "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
@@ -1101,6 +1141,24 @@
       "duration_ms": 297320,
       "name": "In The Name Of Jesus",
       "url": "https://open.spotify.com/track/4SslErYgJUyr6PvjndqC6d"
+    },
+    {
+      "album": {
+        "name": "It's Already Done",
+        "url": "https://open.spotify.com/album/1Jj9fxM3zLA0qykFOAiC1u"
+      },
+      "artists": [
+        {
+          "name": "David and Tiffany Spencer",
+          "url": "https://open.spotify.com/artist/2hcgTMKAn8YClg6IeunoKl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "It's Already Done",
+      "url": "https://open.spotify.com/track/7sVbyt8Vmg9VbqTMsLAXpv"
     },
     {
       "album": {
@@ -1863,7 +1921,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 317607,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"

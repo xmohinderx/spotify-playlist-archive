@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop This Party",
+        "url": "https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222849,
+      "name": "Can't Stop This Party",
+      "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
+    },
+    {
+      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63"
       },

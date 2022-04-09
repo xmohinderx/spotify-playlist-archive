@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 205482,
       "name": "Backseat Valentine",
       "url": "https://open.spotify.com/track/0QxemWQcwq8AoSmKPc4rcc"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f"
@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Call A Friend",
+        "url": "https://open.spotify.com/album/0Jbje8lsvFcHUhXSovEQn2"
+      },
+      "artists": [
+        {
+          "name": "Lukae",
+          "url": "https://open.spotify.com/artist/0nr5bZCgtf6iFnxuqax6hf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Call A Friend",
+      "url": "https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85"
+    },
+    {
+      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 238786,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
@@ -373,6 +391,42 @@
       "duration_ms": 257786,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+    },
+    {
+      "album": {
+        "name": "Come Out",
+        "url": "https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr"
+      },
+      "artists": [
+        {
+          "name": "Masek Porter",
+          "url": "https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Come Out",
+      "url": "https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/5LHPdvmSob3Bk9hcNrU9Lh"
+      },
+      "artists": [
+        {
+          "name": "Dorsal Fins",
+          "url": "https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223505,
+      "name": "Criminal (Edit)",
+      "url": "https://open.spotify.com/track/6PRJqFvs0pATsXCu9qnunc"
     },
     {
       "album": {
@@ -603,7 +657,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
@@ -765,7 +819,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 254620,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5WSdMcWTKRdN1QYVJHJWxz"
@@ -873,7 +927,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 205226,
       "name": "Heavyweight Champion of the World",
       "url": "https://open.spotify.com/track/6BveiUac0BhnHB14wgi1lg"
@@ -963,7 +1017,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
@@ -1219,7 +1273,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
@@ -1237,7 +1291,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 232186,
       "name": "Our Own House",
       "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
@@ -1273,7 +1327,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 292267,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
@@ -1291,7 +1345,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 204106,
       "name": "Pictures of Girls",
       "url": "https://open.spotify.com/track/0RJ7SwEtfN9hmRK1nJFLZR"
@@ -1309,7 +1363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 204801,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/5WGgVeqKNZ70ynPooQjCQc"
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 262521,
       "name": "Say It (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/4sQMalN597HdggTu196aL0"
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 162294,
       "name": "Sex & Rage",
       "url": "https://open.spotify.com/track/4bHt1bK5dDSUm2YEVO0MXc"
@@ -1475,7 +1529,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 201080,
       "name": "Shooting Up Sunshine",
       "url": "https://open.spotify.com/track/2w7PDaxcHlBdy6AMJIrvp9"
@@ -1619,7 +1673,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-09",
       "duration_ms": 167834,
       "name": "Talk Your Mind",
       "url": "https://open.spotify.com/track/20krpapUhjjte9bIXJKOaZ"
