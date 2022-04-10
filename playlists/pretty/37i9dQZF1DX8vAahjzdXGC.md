@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,781 likes - 116 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,792 likes - 116 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 32 | [Time Bomb](https://open.spotify.com/track/3ZK6ogoDcxflumT28z6XTl) | [Fei Luthfy](https://open.spotify.com/artist/6GhEoCWMk9i6AcAtxixauj) | [Time Bomb](https://open.spotify.com/album/6YopFtYJ36GsWGpdRRoF0m) | 3:55 |
 | 33 | [Color of Love](https://open.spotify.com/track/7fTTAOlLFkIjnWUtpYhx1W) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:07 |
 | 34 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 |
-| 35 | [La La La \(Fool For Love\)](https://open.spotify.com/track/6mlDB7eLXSD1iGWsp92lOM) | [NSG](https://open.spotify.com/artist/56tRo806LNcAAvb7s8wNVU), [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [La La La \(Fool For Love\)](https://open.spotify.com/album/2iZbBF7i9VqSuLoQKRqrTV) | 3:02 |
+| 35 | [La La La \(Fool For Love\)](https://open.spotify.com/track/6mlDB7eLXSD1iGWsp92lOM) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [La La La \(Fool For Love\)](https://open.spotify.com/album/2iZbBF7i9VqSuLoQKRqrTV) | 3:02 |
 | 36 | [Heroes](https://open.spotify.com/track/3KqJzagmBudChavtK8T104) | [Dr Joos](https://open.spotify.com/artist/6rPPz09MzKmQ0FqDyEXoCb) | [Heroes](https://open.spotify.com/album/4Sx9Ku1GHKzbZkwAaMEnNn) | 3:12 |
 | 37 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 |
 | 38 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 112 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 |
 | 113 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 |
 | 114 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 |
-| 115 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma EP](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
+| 115 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
 | 116 | [Paradise](https://open.spotify.com/track/6xr9DaH1Gib8jmyIcrUOU1) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Before You Exit](https://open.spotify.com/artist/64NYWpxh4HgzMb1SwCCjMw) | [Paradise](https://open.spotify.com/album/3xf14rtHYQvl91hQ2pUORd) | 2:56 |
 
 Snapshot ID: `MTY0OTM5MDczMSwwMDAwMDRiMjAwMDAwMTgwMDc1OTNlZmIwMDAwMDE4MDAzOTE2MTNh`

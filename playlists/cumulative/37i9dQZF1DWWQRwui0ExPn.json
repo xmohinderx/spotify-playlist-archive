@@ -28025,10 +28025,32 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 161289,
       "name": "Monotation",
       "url": "https://open.spotify.com/track/2iXt75EraZMReN0YcioAoM"
+    },
+    {
+      "album": {
+        "name": "Monotation",
+        "url": "https://open.spotify.com/album/7iizN309bv4fotTInRIOqe"
+      },
+      "artists": [
+        {
+          "name": "Seaspray",
+          "url": "https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO"
+        },
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99555,
+      "name": "Monotation Rework",
+      "url": "https://open.spotify.com/track/6MmnJDd6EkfQpdmmh6BVhu"
     },
     {
       "album": {

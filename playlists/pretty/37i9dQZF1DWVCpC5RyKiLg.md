@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,023 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,544 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 79 | [Louca de Saudade \- Ao Vivo](https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:15 |
 | 80 | [Esses Vícios](https://open.spotify.com/track/2InUVOBY515umeuwdQtsQ4) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano Voz & Violão](https://open.spotify.com/album/4W5OXF1DfLc08dcDLZ8poS) | 2:35 |
 
-Snapshot ID: `MTY0OTQ2NTQzMywwMDAwMDAwMDA2MWFjNTc1NmQ1YjExN2ZkZmQ0MGMyMGFmOTliYjc3`
+Snapshot ID: `MTY0OTU1MTk5MywwMDAwMDAwMDA2MWFjNTc1NmQ1YjExN2ZkZmQ0MGMyMGFmOTliYjc3`

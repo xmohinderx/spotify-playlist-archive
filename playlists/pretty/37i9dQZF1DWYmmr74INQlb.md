@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > Check out these throwback R&B jams from the first decade of the 21st century\. Cover: Mary J Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,852,727 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,853,214 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 39 | [I Need a Girl](https://open.spotify.com/track/5cU50IAoAFF7qFWOtdbEjr) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:34 |
 | 40 | [Shoulda Let You Go](https://open.spotify.com/track/1yTfczdv9qGCfJpZF3y4yQ) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Amina](https://open.spotify.com/artist/642UEJuKWqIch9pOmTWquR) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:40 |
 
-Snapshot ID: `MTY0OTQ2NTU0MiwwMDAwMDAwMDM0OWM2ZDMwOTQ0NDhjNmZjYWU0OGViMGE2YzBjZWFl`
+Snapshot ID: `MTY0OTU1MjEwMCwwMDAwMDAwMDM0OWM2ZDMwOTQ0NDhjNmZjYWU0OGViMGE2YzBjZWFl`

@@ -1,12 +1,12 @@
 {
   "description": "All the Canadian artists you need to hear this month, handpicked by our curators. Cover: Nonso Amadi",
-  "num_followers": 19852,
+  "num_followers": 19861,
   "original_name": "RADAR Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ2NTc1MiwwMDAwMDAwMGI2NjJmMzdhZDdiZTk2NDBkNzg0MzM3Y2I4MTJhMmMz",
+  "snapshot_id": "MTY0OTU1MjMwNywwMDAwMDAwMGI2NjJmMzdhZDdiZTk2NDBkNzg0MzM3Y2I4MTJhMmMz",
   "tracks": [
     {
       "added_at": "2022-04-05 14:22:23",
@@ -118,6 +118,10 @@
         {
           "name": "Benita",
           "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        },
+        {
+          "name": "Aaron Paris",
+          "url": "https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi"
         }
       ],
       "duration_ms": 123421,

@@ -1137,7 +1137,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149497,
-      "name": "alright",
+      "name": "alright?",
       "url": "https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S"
     },
     {
@@ -3312,6 +3312,24 @@
     },
     {
       "album": {
+        "name": "Sand Radio / Brother",
+        "url": "https://open.spotify.com/album/4nYcuk8KMLHgeRgjhLCY57"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/4e8Eqj6ynTG5HjewvBaVH3"
+    },
+    {
+      "album": {
         "name": "Brown Eyes and Backwoods",
         "url": "https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG"
       },
@@ -4143,6 +4161,24 @@
       "duration_ms": 204879,
       "name": "Cause and Effect",
       "url": "https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "album": {

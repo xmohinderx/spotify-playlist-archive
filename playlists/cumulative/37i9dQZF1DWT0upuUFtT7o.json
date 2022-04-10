@@ -5312,6 +5312,24 @@
     },
     {
       "album": {
+        "name": "Periwinkle",
+        "url": "https://open.spotify.com/album/4XKnNKmJotZzQd6Qk3qYLI"
+      },
+      "artists": [
+        {
+          "name": "colleen dow",
+          "url": "https://open.spotify.com/artist/1TkYhihp4BiyP0JnhIoyRI"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179654,
+      "name": "Periwinkle",
+      "url": "https://open.spotify.com/track/6CVHJkSw1VomefpLOOxIUE"
+    },
+    {
+      "album": {
         "name": "Petrified",
         "url": "https://open.spotify.com/album/7ofSBJ05jPMnD3qM6RGnxa"
       },
@@ -6333,6 +6351,24 @@
       "duration_ms": 168750,
       "name": "SLEEP MANIA",
       "url": "https://open.spotify.com/track/47KDPNdNKqsezS9FUdAwPD"
+    },
+    {
+      "album": {
+        "name": "Smello Coffee",
+        "url": "https://open.spotify.com/album/19z5CTEg4X1SN7sSypMuHN"
+      },
+      "artists": [
+        {
+          "name": "Teal Peel",
+          "url": "https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248923,
+      "name": "Smello Coffee",
+      "url": "https://open.spotify.com/track/7I0f1ZuxL5hj4zAMhYfhVR"
     },
     {
       "album": {
@@ -7769,7 +7805,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 193263,
       "name": "WYHA?",
       "url": "https://open.spotify.com/track/1QBIT5tcrOiV6RZyoAoEqW"

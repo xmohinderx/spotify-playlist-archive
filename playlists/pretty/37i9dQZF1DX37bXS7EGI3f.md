@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Alestorm
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,803 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,918 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Magellan's Expedition](https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Magellan's Expedition](https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop) | 4:38 |
-| 2 | [Pure Life Unfolds](https://open.spotify.com/track/4CwCJlCqLnxoGgBKpKo0Yb) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/1EEuIVH5roV6bOWQnQiXmZ) | 5:05 |
+| 1 | [Pure Life Unfolds](https://open.spotify.com/track/4CwCJlCqLnxoGgBKpKo0Yb) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/1EEuIVH5roV6bOWQnQiXmZ) | 5:05 |
+| 2 | [Magellan's Expedition](https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Magellan's Expedition](https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop) | 4:38 |
 | 3 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 |
 | 4 | [The Keeper](https://open.spotify.com/track/41tlP5zUoBL8Zca4EGUiPv) | [Solarus](https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU) | [A Dance With Tragedy](https://open.spotify.com/album/62vkQQ6Y4eVH0udX8eBxKA) | 5:40 |
 | 5 | [Firekeeper](https://open.spotify.com/track/4oCIobS2bPD6yZekYes6tk) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Firekeeper](https://open.spotify.com/album/4ttUNoGOwAJ15VuVOvH808) | 6:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Delusion](https://open.spotify.com/track/6A6aJxfbI3FxwZLZpGYkpV) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Delusion](https://open.spotify.com/album/1zDi3Uv4ss4Hm8qjPzDivj) | 3:04 |
 | 80 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 |
 
-Snapshot ID: `MTY0OTM5NzY1NSwwMDAwMDBkNzAwMDAwMTgwMDdjMmU4MDkwMDAwMDE4MDA3YmZlYTE1`
+Snapshot ID: `MTY0OTUzMTU2MSwwMDAwMDBkODAwMDAwMTgwMGZiZTI2ZmEwMDAwMDE4MDA3YmZlYTE1`

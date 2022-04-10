@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Big Show",
+        "url": "https://open.spotify.com/album/4NIBpD7kxQ5lfIFKTV99Y8"
+      },
+      "artists": [
+        {
+          "name": "96",
+          "url": "https://open.spotify.com/artist/2IiVYHC1ysOuI53yd8KMRm"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Big Show",
+      "url": "https://open.spotify.com/track/27Tqz8H824T3afEYEYvu98"
+    },
+    {
+      "album": {
         "name": "Bill",
         "url": "https://open.spotify.com/album/6jADK6WCiV6CpcfPUPRn3t"
       },
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 180982,
       "name": "RISKY",
       "url": "https://open.spotify.com/track/29HQUBHYlBitWJvI53I8OS"

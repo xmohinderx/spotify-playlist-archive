@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Paulo Londra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,975 likes - 67 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,190 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [Cayó](https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Cayó](https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5) | 2:51 |
 | 47 | [Bagdad](https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Bagdad](https://open.spotify.com/album/7m5Q0mNc4jGcWz2TfyPYAL) | 2:53 |
 | 48 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
-| 49 | [ATP](https://open.spotify.com/track/6SdWOOGf5rXzPnFjMDUKsw) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Rio del Pari](https://open.spotify.com/artist/2gzQ6jjr28jzxZoGXyehYV) | [SUCIA ESTRELLA](https://open.spotify.com/album/4DQ7VYASwmCqXbjtCP0tfp) | 2:34 |
+| 49 | [ATP](https://open.spotify.com/track/6SdWOOGf5rXzPnFjMDUKsw) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [SUCIA ESTRELLA](https://open.spotify.com/album/4DQ7VYASwmCqXbjtCP0tfp) | 2:34 |
 | 50 | [Las Mañanas](https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bellos Años](https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au) | 2:26 |
 | 51 | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/track/28BdtXblzpFirMnFIuMKFC) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/album/3Bz9rTrpsFUF1OcALYiroo) | 5:37 |
 | 52 | [Real Mexicana](https://open.spotify.com/track/7ylqnDFUwjDxgHgQ8mar7C) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Real Mexicana](https://open.spotify.com/album/26bJul914C0TyzMUzsmpDW) | 3:03 |

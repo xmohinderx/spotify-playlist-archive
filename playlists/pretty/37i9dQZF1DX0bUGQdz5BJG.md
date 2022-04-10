@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Caitlyn Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,900 likes - 164 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,987 likes - 164 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

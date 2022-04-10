@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,433 likes - 80 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,677 likes - 80 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 79 | [Woman In Chains](https://open.spotify.com/track/5N4eBWsckD3AgTQFGLQEeU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love \(Remastered with bonus tracks\)](https://open.spotify.com/album/79XgUw5U86BeIiMnZ4Rrht) | 6:33 |
 | 80 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 
-Snapshot ID: `MTY0OTQ2NTc4OCwwMDAwMDAwMGU1ZmZjMWU5M2Y4NTExNDQ0MjMyZTBhNDRjNGIxOGYx`
+Snapshot ID: `MTY0OTU1MjM0MiwwMDAwMDAwMGU1ZmZjMWU5M2Y4NTExNDQ0MjMyZTBhNDRjNGIxOGYx`

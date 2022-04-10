@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 
 > Songs from the 80s that made you sing and dance all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,193 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,215 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsGacA3f5kN.md) - [plain]
 | 79 | [Together Forever](https://open.spotify.com/track/76QJgXPE3oc1cnkE4PFHEn) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4) | 3:25 |
 | 80 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 
-Snapshot ID: `MTY0OTQ2NTQ4OCwwMDAwMDAwMGRlOWZiOTkyMDFmNTg0N2NmMTAzNmU5YzA2MzA0YTg0`
+Snapshot ID: `MTY0OTU1MjA0NywwMDAwMDAwMGRlOWZiOTkyMDFmNTg0N2NmMTAzNmU5YzA2MzA0YTg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexis Ffrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,907 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,054 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 44 | [First Day of My Life](https://open.spotify.com/track/4EpJ1AFc10g3bQBTbyDJ0R) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [First Day of My Life](https://open.spotify.com/album/0jVouYdLnErQsLMBdAFdFg) | 2:54 |
 | 45 | [A Different Idea of Love](https://open.spotify.com/track/4xRJj9EzyIOe0eNJLBkquI) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Different Idea of Love](https://open.spotify.com/album/5ha3BxWg1WPlPTCA3eI9On) | 3:55 |
 | 46 | [7 Fantasien, Op\. 116: No\. 1 in D Minor, Capriccio](https://open.spotify.com/track/6DOK9ElaZB1pXpN5ovIiVB) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Lorenzo Cossi](https://open.spotify.com/artist/5k2vb264irtCpzISTKf2d2) | [Brahms: Piano Pieces, Opp\. 116\-119](https://open.spotify.com/album/4tFvkmHSPyoPxxD1Hhnyhj) | 2:43 |
-| 47 | [Premier Quatuor, Op\. 25: II\. Sérénité](https://open.spotify.com/track/1iGTTt2LyfGXCvzdRahKVd) | [Charlotte Sohy](https://open.spotify.com/artist/4brUQ3dIhPHDJCHX2fQVDp), [Quatuor Hermès](https://open.spotify.com/artist/35yZPYj8R7dLchbsAR05rP) | [Charlotte Sohy: Chamber Music](https://open.spotify.com/album/08vHiEcca2u2RBuNCPDr3a) | 6:13 |
+| 47 | [Premier Quatuor, Op\. 25: II\. Sérénité](https://open.spotify.com/track/1iGTTt2LyfGXCvzdRahKVd) | [Charlotte Sohy](https://open.spotify.com/artist/4brUQ3dIhPHDJCHX2fQVDp), [Quatuor Hermès](https://open.spotify.com/artist/35yZPYj8R7dLchbsAR05rP) | [Charlotte Sohy: Chamber Music](https://open.spotify.com/album/08vHiEcca2u2RBuNCPDr3a) | 8:12 |
 | 48 | [Die lustige Witwe, Act II: Vilja\-Lied](https://open.spotify.com/track/1tDFfd5n7Lzg88YmvMDIq4) | [Franz Lehár](https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT), [Rachel Willis\-Sørensen](https://open.spotify.com/artist/6d7cONrz4hznFy3VJArZhZ), [Frederic Chaslin](https://open.spotify.com/artist/4M3CGOlfN5uLPmu3OMlkKr), [Orchestra del Teatro Carlo Felice di Genova](https://open.spotify.com/artist/0HGKpf8EmiiROoPIz2xTeo) | [Rachel](https://open.spotify.com/album/18wdK552SDdIf5TAfoaGrX) | 6:08 |
 | 49 | [La Lucrezia, HWV 145: Aria "Il suol che preme"](https://open.spotify.com/track/6BiFE5f0omKhEuQKzYFW3J) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Carlo Vistoli](https://open.spotify.com/artist/1BGWMJoBaOLTTqjupDlzm3), [Paolo Zanzu](https://open.spotify.com/artist/2bFY6mj0xLjqTEMhOxhwrg), [Le Stagioni](https://open.spotify.com/artist/44nyLNn4ZKvbxMT9J3PKRF) | [La Lucrezia](https://open.spotify.com/album/3ml2ZBY6HRDedy0NErGtbi) | 3:09 |
 | 50 | [String Quartet No\. 3: I\. Andante](https://open.spotify.com/track/3pA6ApPjYDQowCn6VSgJ8j) | [Alfred Schnittke](https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Alfred Schnittke: String Quartet No\. 3](https://open.spotify.com/album/2Q0rgzAqpH4vM6pUYgmazB) | 6:07 |

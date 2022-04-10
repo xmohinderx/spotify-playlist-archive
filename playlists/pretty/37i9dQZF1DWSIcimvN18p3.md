@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,255 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,340 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Fire, Water, Earth And Air](https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX) | [Julie Felix](https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8) | [Clotho's Web](https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd) | 3:06 |
 | 150 | [Television](https://open.spotify.com/track/3GILEwEmWoonGBHZ0GgMoK) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [Television](https://open.spotify.com/album/0RPLFoQwS9BtMPXNKOsFyA) | 4:29 |
 
-Snapshot ID: `MTY0OTQ2NTM0OCwwMDAwMDAwMDg0NmE2MWUyNDFmMzUzN2U5NzFiMjJmMmM2YjRlMjBh`
+Snapshot ID: `MTY0OTU1MTkxMSwwMDAwMDAwMDg0NmE2MWUyNDFmMzUzN2U5NzFiMjJmMmM2YjRlMjBh`

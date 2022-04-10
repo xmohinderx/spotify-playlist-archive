@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Black the Sky",
       "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 288093,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3FhCgvvszmnyvjPFe5VIDd"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 243760,
       "name": "Bombtrack",
       "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 112906,
       "name": "Breaking Glass - 1999 Remaster",
       "url": "https://open.spotify.com/track/5gUP8H0bRV9a75K7wleHXH"
@@ -433,10 +433,28 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 181786,
       "name": "Dear Ol' Dad",
       "url": "https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9"
+      },
+      "artists": [
+        {
+          "name": "Five Points Gang",
+          "url": "https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y"
     },
     {
       "album": {
@@ -451,7 +469,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 264066,
       "name": "Get The Funk Out",
       "url": "https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 268266,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3P4TrKsWjKeFakkZXu1Yt2"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 262360,
       "name": "I Know Somethin (Bout You)",
       "url": "https://open.spotify.com/track/358XBWJ3pa71P4U89v393N"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 181133,
       "name": "Idiots Rule",
       "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 233093,
       "name": "Little Miss Can't Be Wrong",
       "url": "https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 216506,
       "name": "Lock It In The Pocket",
       "url": "https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 259866,
       "name": "Midlife Crisis",
       "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 252710,
       "name": "Nasty Freak",
       "url": "https://open.spotify.com/track/7jQLyEWfWHcSzrVPezlCO8"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 287439,
       "name": "Phat Blunt",
       "url": "https://open.spotify.com/track/1PD0lIuQku2P5xxJ1XVUxY"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 304333,
       "name": "Politicalamity",
       "url": "https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 151306,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 319066,
       "name": "Rain Will Fall",
       "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 283026,
       "name": "Sever",
       "url": "https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 215546,
       "name": "Sexy Tonight",
       "url": "https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 263173,
       "name": "Show Me Your Soul",
       "url": "https://open.spotify.com/track/7eCYyli4U6ZuOxHiT5NqxG"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 217133,
       "name": "Suck My Kiss",
       "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 336440,
       "name": "Take The Power Back",
       "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 260893,
       "name": "Thumb",
       "url": "https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 237133,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-10",
       "duration_ms": 254560,
       "name": "Tommy The Cat",
       "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
+      "date_removed": null,
       "duration_ms": 262373,
       "name": "Truth'll Set You Free",
       "url": "https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 319466,
       "name": "Who Really Are the Monsters?",
       "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"

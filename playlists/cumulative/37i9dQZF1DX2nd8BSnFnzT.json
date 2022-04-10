@@ -954,6 +954,24 @@
     },
     {
       "album": {
+        "name": "Griswolds e o Jeca",
+        "url": "https://open.spotify.com/album/6WgFpZi2Xsx4Hq56kJfE2s"
+      },
+      "artists": [
+        {
+          "name": "Griswolds",
+          "url": "https://open.spotify.com/artist/5DHCS2m6sGdaRtX7Qdwdw1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Fogo no Rancho",
+      "url": "https://open.spotify.com/track/48DWFQPut6tB0z0p3l0GJN"
+    },
+    {
+      "album": {
         "name": "F\u00e1bula de uma Granada",
         "url": "https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK"
       },

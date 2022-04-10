@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Dowba Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,467 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,578 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 2 | [Nuevo](https://open.spotify.com/track/5G6AOw6uR9i8vN2luzCeCU) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nuevo](https://open.spotify.com/album/3fE2JhTySAjvtcb6LiHK6g) | 3:23 |
 | 3 | [Molly](https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Molly](https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO) | 2:14 |
 | 4 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
-| 5 | [Los Hijos De Chucky73](https://open.spotify.com/track/5vTxhnFniSdhBbkHPgUlkg) | [El Pollito Trapper](https://open.spotify.com/artist/56zS0klrSpQ3yx8qrfMb3C) | [Los Hijos De Chucky73](https://open.spotify.com/album/3N17xdBy62gklLjwBegFyr) | 3:07 |
+| 5 | [Los Hijos De Chucky73](https://open.spotify.com/track/5vTxhnFniSdhBbkHPgUlkg) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Los Hijos De Chucky73](https://open.spotify.com/album/3N17xdBy62gklLjwBegFyr) | 3:07 |
 | 6 | [El Coba](https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Coba](https://open.spotify.com/album/3Ox4ItzjaafKDpKixWNy7O) | 2:03 |
 | 7 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 |
 | 8 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 56 | [En Detone](https://open.spotify.com/track/7jVZ71GmvJo85idzeTudtZ) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH) | [En Detone](https://open.spotify.com/album/0gcZC4UXD1B6Ky6IV3XTHz) | 2:02 |
 | 57 | [Bumba](https://open.spotify.com/track/35bMPqC24lt6qbW4k4Yi1y) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [El Productor de oro](https://open.spotify.com/artist/02dM5RTHfMVIhCFfZZRHDa) | [Bumba](https://open.spotify.com/album/2BPRNoWUXdm9IkMHdrvalA) | 2:51 |
 | 58 | [Tirale](https://open.spotify.com/track/2rm1Gjkqmi0XPnO0mjsFwO) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Tirale](https://open.spotify.com/album/1HduXNBh6MGtCti3E4bhMX) | 2:59 |
-| 59 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [El Pollito Trapper](https://open.spotify.com/artist/56zS0klrSpQ3yx8qrfMb3C) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 |
+| 59 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 |
 | 60 | [Aficia De Un Chuky \- Remix](https://open.spotify.com/track/7fUzV7e8DEZWlNGmT4NJi4) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Aficia De Un Chuky \(Remix\)](https://open.spotify.com/album/3afNE3WcVomDQgPnDPc82R) | 4:29 |
 
 Snapshot ID: `MTY0NzMxNTgwOCwwMDAwMDA0NTAwMDAwMTdmOGJhYzcyMGUwMDAwMDE3ZjQ3OTNmZDA0`

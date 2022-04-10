@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,604 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,735 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Le palais de nos chimères](https://open.spotify.com/track/0z3CbDZk5G1IKnRiGreDKD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Romance](https://open.spotify.com/album/4Jb8m5DGWY9sUt3h3X2l7D) | 2:23 |
 | 100 | [La valse à mille temps](https://open.spotify.com/track/0Yqvv7EV2VYgC299tA5ZaV) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 3:49 |
 
-Snapshot ID: `MTY0OTQ2NTkzMywwMDAwMDAwMGZlYTY1MzgzMTM2MGMwNjU0NGI5NjBhMDI4MDQ4MzI0`
+Snapshot ID: `MTY0OTU1MjQ4OCwwMDAwMDAwMGZlYTY1MzgzMTM2MGMwNjU0NGI5NjBhMDI4MDQ4MzI0`

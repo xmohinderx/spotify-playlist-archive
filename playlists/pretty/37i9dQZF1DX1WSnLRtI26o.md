@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,850 likes - 170 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,999 likes - 170 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 169 | [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 |
 | 170 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
 
-Snapshot ID: `MTY0OTQ2NTYyNCwwMDAwMDAwMGJmNWVkM2YzZjZkZWE3N2I0NGFkZmU0MzA1M2QwZWRm`
+Snapshot ID: `MTY0OTU1MjE4MSwwMDAwMDAwMGJmNWVkM2YzZjZkZWE3N2I0NGFkZmU0MzA1M2QwZWRm`

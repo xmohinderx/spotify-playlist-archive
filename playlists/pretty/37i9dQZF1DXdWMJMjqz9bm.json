@@ -1,12 +1,12 @@
 {
   "description": "ladies and gentlemen... Chance The Rapper",
-  "num_followers": 142508,
+  "num_followers": 142628,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ0NTIxMSwwMDAwMDEwZjAwMDAwMTgwMGE5ODhjODcwMDAwMDE3ZmJlYWMwYzc2",
+  "snapshot_id": "MTY0OTUzMjMxMywwMDAwMDExMDAwMDAwMTgwMGZjOTllYjAwMDAwMDE3ZmJlYWMwYzc2",
   "tracks": [
     {
       "added_at": "2022-04-08 19:00:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "age tape 2",
-        "url": "https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 117714,
-      "name": "the other side",
-      "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
         "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
         "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 142913,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV"
+    },
+    {
+      "added_at": "2022-04-04 15:24:43",
+      "album": {
+        "name": "age tape 2",
+        "url": "https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 117714,
+      "name": "the other side",
+      "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
     },
     {
       "added_at": "2022-04-04 15:24:43",

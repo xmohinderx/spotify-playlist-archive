@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Leah Kate
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,641 likes - 107 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,784 likes - 107 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

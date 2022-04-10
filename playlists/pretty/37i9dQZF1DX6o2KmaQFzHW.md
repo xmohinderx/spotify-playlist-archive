@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,640 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,717 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Duerme Negrito](https://open.spotify.com/track/3K2rDVQkxeWhOWWXipYgrR) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Duerme Negrito](https://open.spotify.com/album/5zI855uIx1Z0M9WIARqukR) | 4:27 |
 | 90 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
 
-Snapshot ID: `MTY0OTQ2NTc4OCwwMDAwMDAwMGRlODlhM2YwYzU0YTExM2EyMWFjZTZhNzJkNGIwM2U0`
+Snapshot ID: `MTY0OTU1MjM0MywwMDAwMDAwMGRlODlhM2YwYzU0YTExM2EyMWFjZTZhNzJkNGIwM2U0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,579 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,627 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 95 | [I Can't Believe She Gives It All To Me \- Single Version](https://open.spotify.com/track/7aatEerxno8RipIcuqPRG1) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Gold](https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy) | 2:23 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 
-Snapshot ID: `MTY0OTQ2NTUzNSwwMDAwMDAwMDAyYWM5ZDAwN2YxYWNjOTZlODk1YzliM2E2MmMyODBm`
+Snapshot ID: `MTY0OTU1MjA5MiwwMDAwMDAwMDAyYWM5ZDAwN2YxYWNjOTZlODk1YzliM2E2MmMyODBm`

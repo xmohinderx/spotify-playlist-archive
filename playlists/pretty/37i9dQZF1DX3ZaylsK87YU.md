@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,293 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,302 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
 | 100 | [What A Savior \(Psalm 65\)](https://open.spotify.com/track/30f1fbavDCP11JFP3cTEDo) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd), [Waterdeep](https://open.spotify.com/artist/3jPKY265XrMlohnJw3nGt0) | [What A Savior \(Psalm 65\) Featuring Waterdeep](https://open.spotify.com/album/3OEjeCz9gEYPJnQYJvQJNX) | 3:32 |
 
-Snapshot ID: `MTY0OTQ2NTY5MSwwMDAwMDAwMDVkMGUyMWNjMjdkYzU1OTY3YWNkZGYyYjAzM2U4YWNj`
+Snapshot ID: `MTY0OTU1MjI0NywwMDAwMDAwMDVkMGUyMWNjMjdkYzU1OTY3YWNkZGYyYjAzM2U4YWNj`

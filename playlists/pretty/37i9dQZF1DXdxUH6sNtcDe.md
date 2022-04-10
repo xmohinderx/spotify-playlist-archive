@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Keith Urban, Carrie Underwood, Kenny Chesney
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,209 likes - 125 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,891 likes - 125 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [Real Good Man](https://open.spotify.com/track/4ns2xaym21aBOOUN1vaBPJ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [35 Biggest Hits](https://open.spotify.com/album/7pul7RvuYLqryKehizOvsG) | 4:14 |
 | 125 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
 
-Snapshot ID: `MTY0OTQ2NTk5NywwMDAwMDAwMDQ5YzM2MTNlMzk3MTJlMDQ3ODUyNGZkMGQyYjIxMTg1`
+Snapshot ID: `MTY0OTU1MjU1MSwwMDAwMDAwMDQ5YzM2MTNlMzk3MTJlMDQ3ODUyNGZkMGQyYjIxMTg1`

@@ -1,12 +1,12 @@
 {
   "description": "spotify hyperpop playlist Cover: Elyotto",
-  "num_followers": 311377,
+  "num_followers": 311560,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQzMDI0NywwMDAwMDE1MjAwMDAwMTgwMDliNDM5MGQwMDAwMDE3ZmZmYTcyZDhj",
+  "snapshot_id": "MTY0OTUzMTkxMSwwMDAwMDE1MzAwMDAwMTgwMGZjMzdiODgwMDAwMDE3ZmZmYTcyZDhj",
   "tracks": [
     {
       "added_at": "2022-04-08 15:04:07",
@@ -153,6 +153,26 @@
       "url": "https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg"
     },
     {
+      "added_at": "2022-04-08 04:05:00",
+      "album": {
+        "name": "stuck with you",
+        "url": "https://open.spotify.com/album/7xK4rA7BH7x3oFiguk3VCW"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        },
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "stuck with you",
+      "url": "https://open.spotify.com/track/6h3RiwExHhQG4Ief6Mti9F"
+    },
+    {
       "added_at": "2022-03-25 18:56:37",
       "album": {
         "name": "Bozo bozo bozo (carolesdaughter Version)",
@@ -207,7 +227,7 @@
     {
       "added_at": "2022-04-08 14:25:26",
       "album": {
-        "name": "Unlimited Ammo : Infinity (Remix)",
+        "name": "Unlimited Ammo: Infinity (Remix)",
         "url": "https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9"
       },
       "artists": [
@@ -305,26 +325,6 @@
       "url": "https://open.spotify.com/track/4upYjlsNwn8lEsp9cRvdKO"
     },
     {
-      "added_at": "2022-04-08 14:51:33",
-      "album": {
-        "name": "My Last Ego Death",
-        "url": "https://open.spotify.com/album/1oDcjQ04RJ0ViiuLF3k9z6"
-      },
-      "artists": [
-        {
-          "name": "To Oscar",
-          "url": "https://open.spotify.com/artist/6LNNnLy26u0dMlmU29Kgqq"
-        },
-        {
-          "name": "torr",
-          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "My Last Ego Death",
-      "url": "https://open.spotify.com/track/4L2eotzQjQwVPDlbzXjsVk"
-    },
-    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "Bonnie & Clyde",
@@ -397,26 +397,6 @@
       "url": "https://open.spotify.com/track/3q42AfqZP6dvTQBmTZWg1G"
     },
     {
-      "added_at": "2022-04-08 04:05:00",
-      "album": {
-        "name": "stuck with you",
-        "url": "https://open.spotify.com/album/7xK4rA7BH7x3oFiguk3VCW"
-      },
-      "artists": [
-        {
-          "name": "Joon",
-          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
-        },
-        {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "stuck with you",
-      "url": "https://open.spotify.com/track/6h3RiwExHhQG4Ief6Mti9F"
-    },
-    {
       "added_at": "2022-04-01 13:22:34",
       "album": {
         "name": "crush",
@@ -433,6 +413,26 @@
       "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
     },
     {
+      "added_at": "2022-04-08 14:51:33",
+      "album": {
+        "name": "My Last Ego Death",
+        "url": "https://open.spotify.com/album/1oDcjQ04RJ0ViiuLF3k9z6"
+      },
+      "artists": [
+        {
+          "name": "To Oscar",
+          "url": "https://open.spotify.com/artist/6LNNnLy26u0dMlmU29Kgqq"
+        },
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "My Last Ego Death",
+      "url": "https://open.spotify.com/track/4L2eotzQjQwVPDlbzXjsVk"
+    },
+    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "i cant control you",
@@ -447,6 +447,26 @@
       "duration_ms": 113846,
       "name": "i cant control you",
       "url": "https://open.spotify.com/track/2jfDVlT0jmUYnuybMOPC84"
+    },
+    {
+      "added_at": "2022-04-09 19:18:31",
+      "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        },
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB"
     },
     {
       "added_at": "2022-03-10 19:10:41",

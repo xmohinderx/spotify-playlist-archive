@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSgM16hVIBq6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSgM16hVIBq6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSgM16hVIBq6)
 
-### Fiesta con Sabor
+### [Fiesta con Sabor](https://open.spotify.com/playlist/5QMdEzMY3IyIgD8gxoZv86)
 
 > Hora de bailar con esta fiesta tropical\. Dance the night away with your favorite tropical tunes.
 

@@ -1,28 +1,28 @@
 {
   "description": "The premier alternative melancholia playlist.",
-  "num_followers": 1052046,
+  "num_followers": 1052066,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODg0OTI2MCwwMDAwMDA2ODAwMDAwMTdmZTcxMzBlNTcwMDAwMDE2ZDE1MzcyMjU5",
+  "snapshot_id": "MTY0OTUxNzIwMCwwMDAwMDA2OTAwMDAwMTgwMGVlMzAzMzgwMDAwMDE2ZDE1MzcyMjU5",
   "tracks": [
     {
-      "added_at": "2021-06-14 14:37:31",
+      "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
       },
       "artists": [
         {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+      "duration_ms": 248964,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw"
       },
@@ -105,24 +89,20 @@
       "url": "https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI"
     },
     {
-      "added_at": "2021-10-20 18:10:54",
+      "added_at": "2022-04-09 15:13:20",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+      "duration_ms": 181960,
+      "name": "The Other Woman",
+      "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
     },
     {
       "added_at": "2021-10-18 16:36:29",
@@ -155,6 +135,22 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2021-06-14 14:37:31",
+      "album": {
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Where'd All the Time Go?",
+      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2020-10-14 16:55:27",
@@ -239,6 +235,26 @@
       "duration_ms": 264011,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/57VAuR1WgKFzcpO3ujQx9A"
+    },
+    {
+      "added_at": "2021-10-20 18:10:54",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -415,22 +431,6 @@
       "duration_ms": 202594,
       "name": "September Song",
       "url": "https://open.spotify.com/track/6SctHYL0HaQ5hFpUxXULYa"
-    },
-    {
-      "added_at": "2020-11-16 16:19:52",
-      "album": {
-        "name": "Maria's Little Elbows",
-        "url": "https://open.spotify.com/album/2AzuPFlJCmOTr5DqEV0Mc9"
-      },
-      "artists": [
-        {
-          "name": "Sparklehorse",
-          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
-        }
-      ],
-      "duration_ms": 418160,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/239IJFSqoUEL2k8tWzblWm"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -627,22 +627,6 @@
       "duration_ms": 181213,
       "name": "Kyoto (Copycat Killer Version)",
       "url": "https://open.spotify.com/track/363sTxk8gw4vnCVBtEsBCP"
-    },
-    {
-      "added_at": "2020-10-14 16:37:01",
-      "album": {
-        "name": "Devil That I Know",
-        "url": "https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "Devil That I Know",
-      "url": "https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF"
     },
     {
       "added_at": "2021-01-14 23:57:36",
@@ -843,22 +827,6 @@
     {
       "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "cold / mess",
-        "url": "https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 281218,
-      "name": "cold/mess",
-      "url": "https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
         "name": "Used To Be Lonely",
         "url": "https://open.spotify.com/album/4MryjyEP1nBZnTehFeQAxg"
       },
@@ -1003,26 +971,6 @@
     {
       "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "California (Prius Edition)",
-        "url": "https://open.spotify.com/album/0MaHBBTjUCxim3SEo4xs61"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        },
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "California (Prius Edition)",
-      "url": "https://open.spotify.com/track/4mvOKMtq3o1q5U2N5SEcm0"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -1067,22 +1015,6 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "demoitis",
-        "url": "https://open.spotify.com/album/0aB8CKycOAEEQoZ0W2SI7E"
-      },
-      "artists": [
-        {
-          "name": "Blaenavon",
-          "url": "https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY"
-        }
-      ],
-      "duration_ms": 225503,
-      "name": "some more good news (that's all we need)",
-      "url": "https://open.spotify.com/track/75lqLt7uX9ygRkJRx2HNfS"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -1183,22 +1115,6 @@
     {
       "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "dead dogs & sad songs",
-        "url": "https://open.spotify.com/album/30aE1B2krMECREgfpRKiFo"
-      },
-      "artists": [
-        {
-          "name": "Tapes",
-          "url": "https://open.spotify.com/artist/2Ogj7F3ArMBFuZpSHdXIgw"
-        }
-      ],
-      "duration_ms": 203075,
-      "name": "Adele",
-      "url": "https://open.spotify.com/track/41GmtZAyb2t1diD2da8IBD"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
       },
@@ -1231,70 +1147,6 @@
     {
       "added_at": "2020-09-11 04:01:00",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/3dxbBloSBjw2C9uiVKm5tD"
-      },
-      "artists": [
-        {
-          "name": "Talos",
-          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/4akuE3uBD4t5HTXaAEm88t"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "parties",
-        "url": "https://open.spotify.com/album/1ttmwVJTn3ZRVLKoUzSVJm"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth",
-          "url": "https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "parties",
-      "url": "https://open.spotify.com/track/0IhH5cuZdOg3eELZe4yVtk"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
       },
@@ -1307,38 +1159,6 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/1bHFgyItmSogZKb5fWOefI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/1I55KLlJlGi3fyiA650Oxz"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -1387,22 +1207,6 @@
       "duration_ms": 283173,
       "name": "Cavalier",
       "url": "https://open.spotify.com/track/3h6RD7RYENDIb3qB9Bw4OB"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/1fwLr1J1BuLKl0gh4jsn7p"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/6EdnX4fu6jAY65VmOHFhOk"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -1483,170 +1287,6 @@
       "duration_ms": 230053,
       "name": "First Prize Bravery",
       "url": "https://open.spotify.com/track/6tyLrGQXuo4XW03ABP2tSr"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Tank Town",
-        "url": "https://open.spotify.com/album/3JaT9SX5pSHdOAXFGX8Ktx"
-      },
-      "artists": [
-        {
-          "name": "Many Voices Speak",
-          "url": "https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6"
-        }
-      ],
-      "duration_ms": 369306,
-      "name": "Bony Shelter",
-      "url": "https://open.spotify.com/track/4ZB6Wrh3QUnjfl9ciZXeGh"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 205967,
-      "name": "Stranger Still - Acoustic",
-      "url": "https://open.spotify.com/track/2fEMi5GG6bJrnLSoiTWxK4"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/3avIyAieDcOnJHxLzitY1z"
-      },
-      "artists": [
-        {
-          "name": "Junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 170021,
-      "name": "To the Moon",
-      "url": "https://open.spotify.com/track/65AABj5XsDcxGT92w3jK0o"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 270047,
-      "name": "Corpses",
-      "url": "https://open.spotify.com/track/1xfSkmFILeXIXalVyFU5OB"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Wind Up Bird",
-        "url": "https://open.spotify.com/album/4tW5PxUn8hVICMkQXiVtkg"
-      },
-      "artists": [
-        {
-          "name": "Pet Deaths",
-          "url": "https://open.spotify.com/artist/3iPEsc0kMbbEZTeffKAa3x"
-        }
-      ],
-      "duration_ms": 415745,
-      "name": "Wind Up Bird",
-      "url": "https://open.spotify.com/track/6xKvvMIVcbXb3HULGHgKlv"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Parma Violets",
-        "url": "https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX"
-      },
-      "artists": [
-        {
-          "name": "Jealous of the Birds",
-          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Miss Misanthrope",
-      "url": "https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 273198,
-      "name": "The Grate",
-      "url": "https://open.spotify.com/track/2nhaP1aUT1u5saIG5Ikxjv"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/5kGAQi6p4p7w62cQyvhsqj"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/6No9HJxqxDASXaxph5ceNh"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7cReNgYN2wNYsj78NB67ut"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 287106,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "When I Shoot at You with Arrows, I Will Shoot to Destroy You",
-        "url": "https://open.spotify.com/album/7k0VVDoF8jwZ1joYO7SBJp"
-      },
-      "artists": [
-        {
-          "name": "Micah P. Hinson",
-          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
-        },
-        {
-          "name": "The Musicians of the Apocalypse",
-          "url": "https://open.spotify.com/artist/3daEbPQTOefptx00Snvn7K"
-        }
-      ],
-      "duration_ms": 206807,
-      "name": "My Blood Will Call out to You from the Ground",
-      "url": "https://open.spotify.com/track/3Ha5BnM3hnMom3B7wPSBYU"
     }
   ],
   "unique_name": "Sad Indie",

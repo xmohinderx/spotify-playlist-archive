@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Montez
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,917 likes - 119 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,919 likes - 119 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 |
 | 110 | [42 Connect](https://open.spotify.com/track/6oLDjxHwyRazUDwF3BovS1) | [NOEL](https://open.spotify.com/artist/5EifIR90rk8SEJbyUTVsTE), [Mike Moto](https://open.spotify.com/artist/51RV9nkvLBknUJpFz2ZOin), [Mx42](https://open.spotify.com/artist/6GhrqcIf0v7f7BIDO1WB1F) | [Gönn Dir Mal Das Tape](https://open.spotify.com/album/2ClNnRqCvkiPiWZIHOoIFJ) | 2:22 |
 | 111 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 |
-| 112 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma EP](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
+| 112 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
 | 113 | [Good Girl, Sad Boy](https://open.spotify.com/track/64tql4egd1y2L5El4sk4N2) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Good Girl, Sad Boy](https://open.spotify.com/album/3RjaUGt5XUSRetHwbNhwqW) | 2:36 |
 | 114 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 |
 | 115 | [Kiss Me \(I Loved You\)](https://open.spotify.com/track/2lQ3IL0tQ8hQC03lgEDelU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:57 |

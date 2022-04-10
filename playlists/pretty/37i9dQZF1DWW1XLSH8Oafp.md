@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring TDJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,363 likes - 118 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,823 likes - 118 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,565 likes - 151 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,313 likes - 151 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 54 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 55 | [Love For Air](https://open.spotify.com/track/22MqVFAvJY8VQ69FAg041v) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Love For Air](https://open.spotify.com/album/7kM9nZcfePjs67EqyvuZsy) | 3:05 |
 | 56 | [Sad White Reggae](https://open.spotify.com/track/5R78f5MpugcC8TYU8OQffZ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/4ZhzAHX6g4Lakn4QMgzCaM) | 3:25 |
-| 57 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma EP](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
+| 57 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 |
 | 58 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 |
 | 59 | [Kill The Girl](https://open.spotify.com/track/1Wuz7gQuVAj3BI3Bf53jeh) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Kill The Girl](https://open.spotify.com/album/4UTqbTCZIvxPBnA5hRUgLk) | 2:50 |
 | 60 | [A Wolf Dressed Up As A Sheep](https://open.spotify.com/track/0dEESK9s5ZtgDZMYZTrJkt) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/33Efdv2w7tLBoLOm0mtVt9) | 2:45 |
