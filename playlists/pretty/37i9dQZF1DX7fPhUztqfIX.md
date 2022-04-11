@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,163 likes - 130 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,194 likes - 130 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 |
 | 130 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
 
-Snapshot ID: `MTY0OTU1MjM3MSwwMDAwMDAwMDQ0YTRhZTQ5YTU1M2I3YTdmOWE3ZWI0MzY1MWJiN2U5`
+Snapshot ID: `MTY0OTYzODg4MCwwMDAwMDAwMDQ0YTRhZTQ5YTU1M2I3YTdmOWE3ZWI0MzY1MWJiN2U5`

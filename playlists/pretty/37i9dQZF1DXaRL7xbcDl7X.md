@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 
 > a new wave of indie born on the internet\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,412 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,472 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 | 99 | [Out Like a Light](https://open.spotify.com/track/7yR5ZDif2glYMnFP73uRMm) | [The Honeysticks](https://open.spotify.com/artist/2BL3PP6aTKJ1jqbRgfQa71), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Out Like a Light](https://open.spotify.com/album/5WkeRCxwT334ZsVni6JzLN) | 4:16 |
 | 100 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 |
 
-Snapshot ID: `MTY0OTU1MjQ1MywwMDAwMDAwMGQ0YzA0MjQ5MmYxZDRmYmVkZWUwZDJjMTE0MGEwNjg1`
+Snapshot ID: `MTY0OTYzODk2MywwMDAwMDAwMGQ0YzA0MjQ5MmYxZDRmYmVkZWUwZDJjMTE0MGEwNjg1`

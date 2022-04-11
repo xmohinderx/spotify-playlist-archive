@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,725 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,709 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 65 | [Esta Navidad](https://open.spotify.com/track/26I1JLJM7vns3zSlKKEvbX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esta Navidad](https://open.spotify.com/album/5zw4mHXQxQDEKh1hUTBUvy) | 3:50 |
 | 66 | [Este Diciembre](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Este Diciembre](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
 
-Snapshot ID: `MTY0OTU1MjI2MSwwMDAwMDAwMDczMjc0NzI4NDIyZTY3NWQ0ZDU1MzY1MzBjNjJlMDBi`
+Snapshot ID: `MTY0OTYzODc2NiwwMDAwMDAwMDczMjc0NzI4NDIyZTY3NWQ0ZDU1MzY1MzBjNjJlMDBi`

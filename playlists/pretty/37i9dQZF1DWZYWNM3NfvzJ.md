@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYWNM3NfvzJ.md) - [plain]
 
 > All the adrenaline you need is right here\.  Let's GO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,882 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,942 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYWNM3NfvzJ.md) - [plain]
 | 49 | [1 More Hit](https://open.spotify.com/track/29s8uc1ZOR3yAWCA2O1mR4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 3:05 |
 | 50 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 |
 
-Snapshot ID: `MTY0OTU1MjEyMSwwMDAwMDAwMDA2NDUyZjI0YjJiMGZmNzgxYWI3ZTYzZDRlZTA2YWYw`
+Snapshot ID: `MTY0OTYzODYyMCwwMDAwMDAwMDA2NDUyZjI0YjJiMGZmNzgxYWI3ZTYzZDRlZTA2YWYw`

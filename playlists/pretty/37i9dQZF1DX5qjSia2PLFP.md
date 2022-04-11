@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > Emerging music breaking waves\.  Cover: A$AP ANT
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 56 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,764 likes - 56 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

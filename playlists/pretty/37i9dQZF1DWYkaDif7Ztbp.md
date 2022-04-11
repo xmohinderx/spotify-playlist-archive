@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=2v5XrI\-QR3acvTsMOUirMA" > DJ Neptune </a> and <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=6xnox\_OdS22A\-rGhKGOpMQ" > Mr Eazi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,758 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,374 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

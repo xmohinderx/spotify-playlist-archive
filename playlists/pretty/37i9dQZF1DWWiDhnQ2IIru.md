@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528,983 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,529,956 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 99 | [Never Been To Spain \- Single Version](https://open.spotify.com/track/61OQuSzsom6geFCA18JwO6) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Harmony](https://open.spotify.com/album/53fiDqcEt0sEdbXF5gDetJ) | 3:46 |
 | 100 | [Young Americans \- Single Version; 2002 Digital Remaster](https://open.spotify.com/track/2nPIgmXKR1gG9WyzJEq5cZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best Of Bowie](https://open.spotify.com/album/4SFOg7ds45qWIsgzpbhXJf) | 3:13 |
 
-Snapshot ID: `MTY0OTU1MjA0MSwwMDAwMDAwMDlhMzI3M2ZmODVlNDg4Zjc2MWE4ZDVjN2NhNDYxNjJi`
+Snapshot ID: `MTY0OTYzODUzNywwMDAwMDAwMDlhMzI3M2ZmODVlNDg4Zjc2MWE4ZDVjN2NhNDYxNjJi`

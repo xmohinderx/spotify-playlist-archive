@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,519 likes - 130 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,634 likes - 130 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [Trancing Nostalgia](https://open.spotify.com/track/7gZgqLOE9VZjqJQAnUPqrE) | [Save Us from the Archon](https://open.spotify.com/artist/7kzcU2VstxyIv6Lc6R4vNM) | [Melancholia](https://open.spotify.com/album/0gQSYqA5nWXwBA1LOoXTt6) | 3:54 |
 | 130 | [The Serpent](https://open.spotify.com/track/3N9xEr9dWscWEm60dnurYr) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [The Serpent \[Special Edition\]](https://open.spotify.com/album/6WYHfB0go6ZSFP1bu8kpJx) | 2:14 |
 
-Snapshot ID: `MTY0OTU1MTk4MiwwMDAwMDAwMGU0NTIxODBmMmY0OTA2ZGEwZjVmNGEwZDY4NzliYTE2`
+Snapshot ID: `MTY0OTYzODQ3NSwwMDAwMDAwMGU0NTIxODBmMmY0OTA2ZGEwZjVmNGEwZDY4NzliYTE2`

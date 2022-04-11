@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > just want lorde to shush me\. cover: flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,503 likes - 128 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,468 likes - 128 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

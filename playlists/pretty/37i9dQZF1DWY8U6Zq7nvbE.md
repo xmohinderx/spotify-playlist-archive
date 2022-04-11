@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,749 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,767 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 |
 | 100 | [Du är en ängel](https://open.spotify.com/track/7fJ1lkpVv0DaukPoP9uUMq) | [Alex Shield](https://open.spotify.com/artist/0GjycNCtd0KpROrMYfpPjb), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Du är en ängel](https://open.spotify.com/album/6mWZFW1QfOrQxxKaOeGZHX) | 4:20 |
 
-Snapshot ID: `MTY0OTU1MjA4NSwwMDAwMDAwMGQ5ODY3ZjIwMDk3NDUxNDBiYzQ0ZjZjYTQ5ZDM0ZGM2`
+Snapshot ID: `MTY0OTYzODU4MiwwMDAwMDAwMGQ5ODY3ZjIwMDk3NDUxNDBiYzQ0ZjZjYTQ5ZDM0ZGM2`

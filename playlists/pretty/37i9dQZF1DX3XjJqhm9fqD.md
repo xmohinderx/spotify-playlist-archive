@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,386 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,412 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [The Stellar Ray Theory](https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Pray For Haiti](https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO) | 3:14 |
 | 100 | [Premye Fwa'm Damou](https://open.spotify.com/track/7aQPdIOKTfCAtFwJcyAKg9) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Premye Fwa'm Damou](https://open.spotify.com/album/3mb9zh7SYULU997xYuDKL0) | 3:24 |
 
-Snapshot ID: `MTY0OTU1MjI0NSwwMDAwMDAwMGJjMDBhMGQzMzIzZmY0NmQwMmI5ZWQ1YzQwMGY5ZWRh`
+Snapshot ID: `MTY0OTYzODc1MCwwMDAwMDAwMGJjMDBhMGQzMzIzZmY0NmQwMmI5ZWQ1YzQwMGY5ZWRh`

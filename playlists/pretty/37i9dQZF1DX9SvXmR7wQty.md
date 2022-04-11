@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Ludovick Bourgeois
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,027 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,034 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 47 | [Blackout](https://open.spotify.com/track/3ZIwVcPDhUfeNX9VajuBmH) | [Dix\-iple Deca](https://open.spotify.com/artist/1V2KK1iPj58TL4WNg9xIj1), [Jamal Jaykob](https://open.spotify.com/artist/49dFhwGy9kgICCmzvRC1mq) | [Blackout](https://open.spotify.com/album/17j1vsdJOV0Si2k5CZftkV) | 3:27 |
 | 48 | [Ça m'manque](https://open.spotify.com/track/1C1hagvlPCvPHHB1VSOTpr) | [Rook](https://open.spotify.com/artist/22lEQdayTnrxrHGf8ddTcn) | [Ça m'manque](https://open.spotify.com/album/6X9cLJ890XkCzjJkSerTDR) | 4:02 |
 | 49 | [Chic choc](https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh) | 3:11 |
-| 50 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/0QRgsgB478vaAWSBSqp62w) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 |
+| 50 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/1E4zec6yKQRB9yh28vKrwG) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 |
 
 Snapshot ID: `MTY0OTM5MzQxMCwwMDAwMDQxMzAwMDAwMTgwMDc4MjFmZjIwMDAwMDE4MDA3ODE4ODI2`

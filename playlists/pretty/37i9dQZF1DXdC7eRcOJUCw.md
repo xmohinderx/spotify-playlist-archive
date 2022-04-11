@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. En portada: Guadalupe Pineda
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,673 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,719 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Carta Jugada](https://open.spotify.com/track/7pu2f2ul7iRObUquN0lBhI) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Exitos \- Mercedes Castro](https://open.spotify.com/album/1FDNTmoO3WactuDqtltfVg) | 2:30 |
 | 100 | [Yo](https://open.spotify.com/track/6SssAKKpZslFjoiPneV83G) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Lo Mejor De Jose Alfredo Jimenez](https://open.spotify.com/album/42myQnU4LSeQeTPKTrfYyi) | 3:33 |
 
-Snapshot ID: `MTY0OTU1MjUyNiwwMDAwMDAwMGM5NjU0YmFkZDdiOWIzMTFlN2I5YmNiMWZkNjliYzZl`
+Snapshot ID: `MTY0OTYzOTAzNywwMDAwMDAwMGM5NjU0YmFkZDdiOWIzMTFlN2I5YmNiMWZkNjliYzZl`

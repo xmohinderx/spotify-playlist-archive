@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124 likes - 195 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131 likes - 195 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 194 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 | 195 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 
-Snapshot ID: `MTY0OTU1MjAwNiwwMDAwMDAwMDE1YzQxOGViYWQyYjIzYzI5YzdiMWM0ZTIzMTM1Y2Jj`
+Snapshot ID: `MTY0OTYzODUwMCwwMDAwMDAwMDE1YzQxOGViYWQyYjIzYzI5YzdiMWM0ZTIzMTM1Y2Jj`

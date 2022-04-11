@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,938 likes - 125 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,062 likes - 125 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Get Low](https://open.spotify.com/track/5cNAXdmcLBckABGuNhxE37) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Get Low](https://open.spotify.com/album/5pr3Yy1S6Nzarr9wO1BLY2) | 3:33 |
 | 125 | [Virus \(How About Now\)](https://open.spotify.com/track/0W6yJKJW8I04iDT6BsINaL) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/6cMs1rlzNK7VhFI5zXNXID) | 3:18 |
 
-Snapshot ID: `MTY0OTU1MjM4NCwwMDAwMDAwMDY1ZDM5ZDBlM2ZhMWEwYzNmMjVkNzgwZTUwNjMxZjgy`
+Snapshot ID: `MTY0OTYzODg5MywwMDAwMDAwMDY1ZDM5ZDBlM2ZhMWEwYzNmMjVkNzgwZTUwNjMxZjgy`

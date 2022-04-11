@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\.  Cover: The Kid LAROI, Demi Lovato and Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,651 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,697 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 124 | [Own Light \(What Hearts Are For\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6pBwSf09BuKnTPDsy6BBqY) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/7Kk6sx9YaaYs3LQ6FlnZui) | 4:10 |
 | 125 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI) | 4:39 |
 
-Snapshot ID: `MTY0OTU1MTk5OSwwMDAwMDAwMDhjNTU1YjUwNmQ5NzZiY2RiYjg2MmM4Y2RiZTdmMGNm`
+Snapshot ID: `MTY0OTYzODQ5MiwwMDAwMDAwMDhjNTU1YjUwNmQ5NzZiY2RiYjg2MmM4Y2RiZTdmMGNm`

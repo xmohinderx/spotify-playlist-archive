@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Rogerinho com Wesley Safadão, Marcos & Belutti, Camila Cabello e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,741,416 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741,678 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 60 | [A Tal da Nova Velar \(feat\. JC NO BEAT, MC Buraga & Mc Talibã\)](https://open.spotify.com/track/1y4s8UTSC52NARTRnvjSlk) | [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [A Tal da Nova Velar \(feat\. JC NO BEAT, MC Buraga & Mc Talibã\)](https://open.spotify.com/album/0pgZ56dGd1ygQ3p7wbuMo4) | 2:31 |
 | 61 | [TODOS OLHOS EM MIM](https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [BÁRBARA](https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi) | 2:22 |
 | 62 | [Eye For An Eye \(feat\. Rafael Jannotti\)](https://open.spotify.com/track/403SWhs5YT9MIZnoraFzr1) | [Evokings](https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222), [Rafael Jannotti](https://open.spotify.com/artist/1Z5YwdgcgDVWAYCTVrrW9G) | [Eye For An Eye \(feat\. Rafael Jannotti\)](https://open.spotify.com/album/1D4L5QjQm1TmCSTcPPKuUf) | 3:58 |
-| 63 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 |
+| 63 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 |
 | 64 | [Unbreakable](https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Nataliya Nikitenko](https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE) | [Unbreakable](https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5) | 2:45 |
 | 65 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 |
 | 66 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 |

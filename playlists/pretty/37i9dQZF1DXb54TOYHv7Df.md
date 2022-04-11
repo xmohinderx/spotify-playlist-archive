@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb54TOYHv7Df.md) - [plain]
 
 > Songs from the 00s that made you sing and dance all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,090 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,133 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb54TOYHv7Df.md) - [plain]
 | 79 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 80 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
 
-Snapshot ID: `MTY0OTU1MjQ3MSwwMDAwMDAwMDlhNDUxMmYwMTg3NjdkM2I4Yjk5MmM3NDdjNTU0MWM4`
+Snapshot ID: `MTY0OTYzODk4MywwMDAwMDAwMDlhNDUxMmYwMTg3NjdkM2I4Yjk5MmM3NDdjNTU0MWM4`

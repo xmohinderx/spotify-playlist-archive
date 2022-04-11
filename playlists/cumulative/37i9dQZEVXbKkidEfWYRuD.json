@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 168214,
       "name": "#\u041f\u041e\u0428\u0422\u0410",
       "url": "https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A"
@@ -1071,6 +1071,32 @@
     {
       "album": {
         "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe"
+      },
+      "artists": [
+        {
+          "name": "Chego1963",
+          "url": "https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7"
+        },
+        {
+          "name": "onurxt",
+          "url": "https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog"
+        },
+        {
+          "name": "Rylixe",
+          "url": "https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD"
+    },
+    {
+      "album": {
+        "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
       "artists": [
@@ -1081,7 +1107,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -2167,7 +2193,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -2229,7 +2255,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 206493,
       "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
       "url": "https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm"
@@ -5979,7 +6005,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
@@ -11197,7 +11223,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 153256,
       "name": "\u0421\u041f\u0410\u0421\u0410\u0422\u0415\u041b\u042c\u041d\u042b\u0419 \u041a\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/08pVm2BCyMSevBLXYLysqi"
@@ -12601,7 +12627,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 144705,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u0442\u0435\u0431\u044f \u0442\u0440\u0430\u0445\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/72aOn2zEIaEOOyOVGdpl8Z"

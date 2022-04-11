@@ -8280,6 +8280,24 @@
     },
     {
       "album": {
+        "name": "age tape 3",
+        "url": "https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88163,
+      "name": "la di da - acoustic",
+      "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
+    },
+    {
+      "album": {
         "name": "la di die (feat. jxdn)",
         "url": "https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO"
       },

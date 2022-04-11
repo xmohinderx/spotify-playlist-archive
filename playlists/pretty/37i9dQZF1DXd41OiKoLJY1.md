@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Sam&Steff, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,294 likes - 64 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,305 likes - 64 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MALIHIM](https://open.spotify.com/track/3bx6DkU8xyHjOONLA1YiFc) | [Seann](https://open.spotify.com/artist/6XhthTIap2KElvJdGRMh7K) | [MALIHIM](https://open.spotify.com/album/6nOJ9okVx9E3cUGG310Mz0) | 2:12 |
 | 2 | [Tagsibol](https://open.spotify.com/track/0OXgbz4FzCfeynayDrItu8) | [Jude the Zaint](https://open.spotify.com/artist/1EP9riUdqQcqF24kEoQ5Dl), [Lie$](https://open.spotify.com/artist/06fT1o49zLg2HkVe8jWzWU) | [Tagsibol](https://open.spotify.com/album/5HGUbXEEqMKHlPeT3pz5pq) | 3:16 |
-| 3 | [OH YOUR GOODNESS](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH YOUR GOODNESS](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 |
+| 3 | [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 |
 | 4 | [Kalumata](https://open.spotify.com/track/6ZPo5rajWSUM0MKjCi2tXH) | [Sultanlobo](https://open.spotify.com/artist/7yq2o3KcUiUEz49NND7t3b) | [Kalumata](https://open.spotify.com/album/0b7Qe834lt2DZeBNdQpCmG) | 2:47 |
 | 5 | [Let's Not Wait](https://open.spotify.com/track/2mP38Y5CtYD5HHfIKDsmuc) | [Patrick Magada](https://open.spotify.com/artist/4tWt41iI9t4cHnwYVOJMXL) | [Let's Not Wait](https://open.spotify.com/album/3jiUYuWhtD106jgipmicvc) | 3:33 |
 | 6 | [Gimme Luv](https://open.spotify.com/track/3k3qOt0xP7fAj5yp3KicVB) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [GTAP MNL](https://open.spotify.com/artist/2Wnk8HF9hEZsaUHS8nAr2K), [Venbreezy](https://open.spotify.com/artist/4UQogB8pZxy3m7TAcUoLRG) | [Gimme Luv](https://open.spotify.com/album/4O55VgHTw9E0FTIKTlA8u1) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 
 > Automatic floorfillers\. A DJ's best friend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,959 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,032 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 | 99 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/49aLCvvEKM5EA8IYwDmtaE) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated \(Radio Edit\)](https://open.spotify.com/album/6heKMHyHa6R2jrsUaX7LWm) | 2:39 |
 | 100 | [It Wasn't Me](https://open.spotify.com/track/4GFJRLgxy4chyfWqfPTJaI) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [Hot Shot](https://open.spotify.com/album/4mIaYbWORRGvtHb0bSKAEB) | 3:47 |
 
-Snapshot ID: `MTY0OTU1MjAzNywwMDAwMDAwMGJjNWIzMzU5OTYyYWQzZDI5ZWNkOGEzZThkMDc2M2U0`
+Snapshot ID: `MTY0OTYzODUzNCwwMDAwMDAwMGJjNWIzMzU5OTYyYWQzZDI5ZWNkOGEzZThkMDc2M2U0`

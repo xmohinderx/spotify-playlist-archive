@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Top 50 of the best Amapiano songs in 2021!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,865 likes - 50 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,882 likes - 50 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 | 29 | [Amaneighbour](https://open.spotify.com/track/0mOoPsb9xZTzFqKLLqvkjL) | [Killer Kau](https://open.spotify.com/artist/53ZXQRpE0KfS0GRrgctR4R), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [ThackzinDJ](https://open.spotify.com/artist/0bklXcSWnh72t6Uo1RPeGA) | [Amaneighbour](https://open.spotify.com/album/5FoWUwSYwWGGym4oVzNrOq) | 6:53 |
 | 30 | [Jola](https://open.spotify.com/track/6V4cXOqj8TBjhyH9M5cqG0) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:22 |
 | 31 | [Superman](https://open.spotify.com/track/6iKJIYuyGWZ1YTwee1FzBJ) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [My Journey](https://open.spotify.com/album/3Z6b6opOsOSYXXuVJGXtH0) | 8:34 |
-| 32 | [Iyamemeza \(feat\. Drip Gogo & The Lowkeys\)](https://open.spotify.com/track/09mer8EOsqtdQ43Dqsm54m) | [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr), [Drip Gogo](https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP), [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ) | [Iyamemeza \(feat\. Drip Gogo & The Lowkeys\)](https://open.spotify.com/album/6HUKeCPZEmDADA4KKlaCCL) | 5:26 |
+| 32 | [Iyamemeza](https://open.spotify.com/track/09mer8EOsqtdQ43Dqsm54m) | [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr), [Drip Gogo](https://open.spotify.com/artist/34OZxmMzGYIx0VSQ8NaUOP), [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ) | [Iyamemeza](https://open.spotify.com/album/6HUKeCPZEmDADA4KKlaCCL) | 5:26 |
 | 33 | [Nkulunkulu](https://open.spotify.com/track/0RBHBDEbEJiNBOHCUJvc2H) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon) | [Nkulunkulu](https://open.spotify.com/album/53rdscVxL3hfs4QAxkFgJO) | 6:21 |
 | 34 | [Inhliziyo \(feat\. Babalwa M\)](https://open.spotify.com/track/6NiIeSYh1awgujDrQ9dAkn) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG) | [Auti 'eSharp](https://open.spotify.com/album/6J12Gv5rBMymYJlCM4hXPu) | 6:25 |
 | 35 | [Paradise](https://open.spotify.com/track/2a1O7kNCzspA2otqOpS4fV) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Miano](https://open.spotify.com/artist/1Xsc9W40JwWXHxlsym2Vpn), [20ty Soundz](https://open.spotify.com/artist/5803cw4KZi2vLtcKxRJV8F) | [Undisputed](https://open.spotify.com/album/72CNHApUM3k3v3KZSrICBC) | 6:11 |

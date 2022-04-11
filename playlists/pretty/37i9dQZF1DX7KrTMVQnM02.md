@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 
 > Gentle classical music to help you relax and reflect.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,198 likes - 27 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,276 likes - 27 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

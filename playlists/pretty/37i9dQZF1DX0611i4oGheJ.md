@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,390 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,764 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 | 150 | [Easier](https://open.spotify.com/track/51ly3W8LifaVReT1NAgaH2) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Easier](https://open.spotify.com/album/0fbWJKB2zNtByinjMa7oi6) | 3:59 |
 
-Snapshot ID: `MTY0OTU1MjEzOCwwMDAwMDAwMDhhNDI4ODFlMDU3NjE3ZWRiMzc4ZWYzNjM3ZjUyNzkw`
+Snapshot ID: `MTY0OTYzODYzOCwwMDAwMDAwMDhhNDI4ODFlMDU3NjE3ZWRiMzc4ZWYzNjM3ZjUyNzkw`

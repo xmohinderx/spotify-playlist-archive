@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 377000,
       "name": "900",
       "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 395933,
       "name": "A Go Go",
       "url": "https://open.spotify.com/track/4bcyZfaAWCN5SwJgYToxkN"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 358440,
       "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 438640,
       "name": "Blues Function",
       "url": "https://open.spotify.com/track/55cpqzYGlvah8FSmlxroCQ"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 391026,
       "name": "Blues i oktaver",
       "url": "https://open.spotify.com/track/2NoRSgmUgRS0Q9lnOQXT1k"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 417693,
       "name": "Driftin' - Remastered",
       "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 398920,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 388160,
       "name": "Home Cookin' - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6QzARXbdztTRu42kQigY96"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 320173,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3LaeuU3ARGFpakTK7o06Ue"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 391266,
       "name": "Main Spring - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
@@ -1191,6 +1191,24 @@
       "duration_ms": 303600,
       "name": "Melanie - Digital Remaster/2007",
       "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
+    },
+    {
+      "album": {
+        "name": "Blues & Roots",
+        "url": "https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482959,
+      "name": "Moanin'",
+      "url": "https://open.spotify.com/track/3rFzc8CLVDZ7OOtFa2jPYP"
     },
     {
       "album": {
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 547575,
       "name": "My Blues",
       "url": "https://open.spotify.com/track/766eExopMFjwewqQxhoLL3"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 464613,
       "name": "Old Clothes",
       "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 444626,
       "name": "Out Of The Night - Rudy Van Gelder Edition / 1999 Digital Remaster / 24-Bit Mastering",
       "url": "https://open.spotify.com/track/1tboD29pvEqSOHz6fLGauk"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 189453,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/38lwy5gKQ35wshshWGqGk1"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 279600,
       "name": "Rockin' In Rhythm",
       "url": "https://open.spotify.com/track/66OY61byAl0G6vOXHzFKzB"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 493293,
       "name": "Sortie",
       "url": "https://open.spotify.com/track/1kryDv1GqAAWhILphihOmb"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 180266,
       "name": "This Here",
       "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 445853,
       "name": "Tinderly",
       "url": "https://open.spotify.com/track/5R1XH67b7xUBpnbGdw4VJj"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-04-11",
       "duration_ms": 372080,
       "name": "Tippin' - Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"

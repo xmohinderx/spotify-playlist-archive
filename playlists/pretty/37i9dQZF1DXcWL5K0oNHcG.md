@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank & Luke Titus\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,432 likes - 113 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,287 likes - 113 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

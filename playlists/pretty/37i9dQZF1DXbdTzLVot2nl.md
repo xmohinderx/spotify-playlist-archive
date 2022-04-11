@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,439 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,532 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 59 | [And She Was \- 2005 Remaster](https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:39 |
 | 60 | [You Win Again](https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [E.S.P.](https://open.spotify.com/album/4RnFtuVdr1JPD8UDhQuMBK) | 4:01 |
 
-Snapshot ID: `MTY0OTU1MjQ4OCwwMDAwMDAwMDY5NTM1ZTM1NTZmN2Y2OTZkZGEzNTc3NmRmMzU2YjY2`
+Snapshot ID: `MTY0OTYzODk5OSwwMDAwMDAwMDY5NTM1ZTM1NTZmN2Y2OTZkZGEzNTc3NmRmMzU2YjY2`

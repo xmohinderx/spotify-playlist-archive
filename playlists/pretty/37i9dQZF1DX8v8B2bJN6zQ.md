@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,742 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 |
 | 2 | [Keep Lit](https://open.spotify.com/track/1delQsJl7yq7EvnO6HDPDj) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Keep Lit](https://open.spotify.com/album/621o4zsnVARGkWz6TTbYhp) | 2:40 |
 | 3 | [Humanity \- Synthatic Remix](https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB) | [Phanatic](https://open.spotify.com/artist/3rXo1ftXCIJPhThJP73LV4), [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Humanity \(Synthatic Remix\)](https://open.spotify.com/album/2RrjZmY3sLeX0itnL8z3qs) | 5:49 |
-| 4 | [Boom Shakalaka](https://open.spotify.com/track/2JGXIPceyAR7x4oqxvyvlT) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI) | [Boom Shakalaka](https://open.spotify.com/album/1j6Vakqx2EpLsKyNV7XQoO) | 3:27 |
+| 4 | [Boom Shakalaka](https://open.spotify.com/track/2JGXIPceyAR7x4oqxvyvlT) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI) | [Boom Shakalaka](https://open.spotify.com/album/1j6Vakqx2EpLsKyNV7XQoO) | 3:27 |
 | 5 | [Move](https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Move](https://open.spotify.com/album/701NIOuSdFkNVkYDESPEWa) | 2:56 |
 | 6 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
 | 7 | [Stank](https://open.spotify.com/track/3AkxpOhduYiqdkJChSFN5b) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Stank](https://open.spotify.com/album/5HazQn6Yvc7cim3hitOOQ1) | 2:37 |

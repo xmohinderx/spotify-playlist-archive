@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,016 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,153 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 32 | [Close To You](https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Close To You](https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J) | 3:43 |
 | 33 | [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 |
 | 34 | [With You](https://open.spotify.com/track/2e1APXKyEzhySl91EbpRBB) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [With You](https://open.spotify.com/album/30RwnlVKVfCnJvVGmXQjhq) | 5:08 |
-| 35 | [OH YOUR GOODNESS](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH YOUR GOODNESS](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 |
+| 35 | [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 |
 | 36 | [la la la](https://open.spotify.com/track/1JEF3YV6aWigpTCdEVXV5X) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [la la la](https://open.spotify.com/album/7LovGvgAjiqoV2ee6I0k4R) | 2:16 |
 | 37 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 38 | [Eden](https://open.spotify.com/track/3Z7tGYwWbg9CQ11F8su1I4) | [Leah McFall](https://open.spotify.com/artist/0TPCAiL47d77TFdFLqsjCw) | [Eden](https://open.spotify.com/album/3GbcoMEx63JuLsF7qWDLWg) | 6:38 |

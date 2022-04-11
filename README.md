@@ -1024,6 +1024,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fresh Finds Philippines](/playlists/pretty/37i9dQZF1DXd41OiKoLJY1.md)
 - [Fresh Finds Pop](/playlists/pretty/37i9dQZF1DX3u9TSHqpdJC.md)
 - [Fresh Finds Presents..\. Class of 2019](/playlists/pretty/37i9dQZF1DXbDSHGzTpRHX.md)
+- [Fresh Finds Presents..\. Fresh Finds Class of 2020](/playlists/pretty/37i9dQZF1DX7AIfEOAvuXp.md)
 - [Fresh Finds R&B](/playlists/pretty/37i9dQZF1DWUFAJPVM3HTX.md)
 - [Fresh Finds Rock](/playlists/pretty/37i9dQZF1DX78toxP7mOaJ.md)
 - [Fresh Finds SG & MY](/playlists/pretty/37i9dQZF1DWWvrRGuT6dlZ.md)

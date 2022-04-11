@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,177 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,176 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 35 | [Taste](https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Marcus Mollyhus](https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE), [Conan Mac](https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz) | [Taste](https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y) | 2:36 |
 | 36 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 |
 | 37 | [I Follow Rivers](https://open.spotify.com/track/38eDoBAphAMkPVPLFOkyKI) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [I Follow Rivers](https://open.spotify.com/album/7rvXIgaTn1wl08gOWFMx65) | 2:30 |
-| 38 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 |
+| 38 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 |
 | 39 | [Home](https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [Home](https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg) | 3:18 |
 | 40 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/60eBNPOrnPEY2Ao4RIdw12) | 2:33 |
 | 41 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 |

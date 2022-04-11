@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,738 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,422 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [Tun Tun](https://open.spotify.com/track/5Xhzsn8demSBBaHDSH6cou) | [Marko Silva](https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY), [Sophy Mell](https://open.spotify.com/artist/4IEPhZEgJXHdF23yZQlskd) | [Tun Tun](https://open.spotify.com/album/0LWE7xUu2wdsd9vTPu0nkr) | 3:11 |
 | 100 | [Caliente](https://open.spotify.com/track/0GZxyos431Goi9L1BYaxTU) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO) | [Caliente](https://open.spotify.com/album/2ZAbAzsMjr8DQzKnEzdpav) | 3:00 |
 
-Snapshot ID: `MTY0OTU1MjA3MywwMDAwMDAwMGIzNTU1ODFlZDQ2ZmRhY2ExMmEzY2NhODQzM2I5NzUw`
+Snapshot ID: `MTY0OTYzODU3MCwwMDAwMDAwMGIzNTU1ODFlZDQ2ZmRhY2ExMmEzY2NhODQzM2I5NzUw`

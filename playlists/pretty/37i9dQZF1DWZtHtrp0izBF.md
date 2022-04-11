@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,576 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,677 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Si Te Vas](https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos Eternos](https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe) | 4:46 |
 | 50 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 
-Snapshot ID: `MTY0OTU1MjEzMywwMDAwMDAwMDE0ZDJhYmZlNDM0ZWNkYTc3MWUyODZmMzg3MjBkNWFi`
+Snapshot ID: `MTY0OTYzODYzMywwMDAwMDAwMDE0ZDJhYmZlNDM0ZWNkYTc3MWUyODZmMzg3MjBkNWFi`
