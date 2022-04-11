@@ -5,18 +5,28 @@
 Spotify's playlists are great. I like that they're updated once in a while -
 change is good! I don't like, however, that it's impossible to see older
 versions. How am I supposed to remember the name of that song I really liked?
-Apparently, I'm not alone: see
-[here](https://community.spotify.com/t5/Content-Questions/View-previous-versions-of-playlists/td-p/4400750),
-[here](https://community.spotify.com/t5/Accounts/A-playlist-was-modified-Can-I-get-the-old-songs-back/td-p/1001889),
-[here](https://community.spotify.com/t5/Content-Questions/Seeing-an-old-version-of-a-playlist/td-p/1318739),
-[here](https://community.spotify.com/t5/Other-Partners-Web-Player-etc/Playlists-Is-there-any-way-to-recover-previous-versions-of-a/td-p/4726831),
-[here](https://community.spotify.com/t5/Desktop-Mac/Find-Songs-of-old-versions-of-Spotify-Playlists/td-p/998504),
-[here](https://community.spotify.com/t5/Closed-Ideas/Playlist-Versioning-History/idi-p/1133819),
-[here](https://community.spotify.com/t5/Closed-Ideas/Playlist-History-Versioning/idi-p/1346418),
-[here](https://community.spotify.com/t5/Closed-Ideas/Playlists-Playlist-History/idi-p/1816799),
-[here](https://community.spotify.com/t5/Archived-Chat/Viewing-Spotify-playlist-history/td-p/2369783),
-[here](https://community.spotify.com/t5/Content-Questions/POLLEN-Viewing-songs-that-have-been-taken-off-the-playlist/td-p/5085718),
-and [here](https://community.spotify.com/t5/Live-Ideas/Playlists-Edit-History/idi-p/4573743).
+Apparently, I'm not alone:
+[\[1\]](https://community.spotify.com/t5/Desktop-Mac/Find-Songs-of-old-versions-of-Spotify-Playlists/td-p/998504),
+[\[2\]](https://community.spotify.com/t5/Accounts/A-playlist-was-modified-Can-I-get-the-old-songs-back/td-p/1001889),
+[\[3\]](https://community.spotify.com/t5/Content-Questions/Today-s-top-hits-old-songs/td-p/1005003),
+[\[4\]](https://community.spotify.com/t5/Closed-Ideas/Playlist-Versioning-History/idi-p/1133819),
+[\[5\]](https://community.spotify.com/t5/Archived-Chat/Looking-for-an-old-version-of-Brain-Food-playlist/td-p/1285086),
+[\[6\]](https://community.spotify.com/t5/Content-Questions/Seeing-an-old-version-of-a-playlist/td-p/1318739),
+[\[7\]](https://community.spotify.com/t5/Closed-Ideas/Playlist-History-Versioning/idi-p/1346418),
+[\[8\]](https://community.spotify.com/t5/Content-Questions/88-Keys-playlist-changed-need-to-find-old-songs/td-p/1357743),
+[\[9\]](https://community.spotify.com/t5/Closed-Ideas/Playlists-Playlist-History/idi-p/1816799),
+[\[10\]](https://community.spotify.com/t5/Chat/Old-Brain-Food-Playlist-Song/td-p/2112581),
+[\[11\]](https://community.spotify.com/t5/Archived-Chat/Viewing-Spotify-playlist-history/td-p/2369783),
+[\[12\]](https://community.spotify.com/t5/Content-Questions/Spotify-Changed-Playlist-Content-and-I-would-like-the-old-songs/td-p/4367300),
+[\[13\]](https://community.spotify.com/t5/Content-Questions/View-previous-versions-of-playlists/td-p/4400750),
+[\[14\]](https://community.spotify.com/t5/Archived-Chat/Is-it-possible-to-restore-older-version-of-followed-playlist/td-p/4439946),
+[\[15\]](https://community.spotify.com/t5/Chat/Spotify-changes-playlists/td-p/4508967),
+[\[16\]](https://community.spotify.com/t5/Closed-Ideas/Playlists-Edit-History/idi-p/4573743),
+[\[17\]](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Playlists-Is-there-any-way-to-recover-previous-versions-of-a/td-p/4726831),
+[\[18\]](https://community.spotify.com/t5/Content-Questions/Recover-old-version-of-a-Spotify-created-playlist/td-p/4893267),
+[\[19\]](https://community.spotify.com/t5/Chat/Recover-previous-version-of-Spotify-playlist-quot-Rainy-Day-quot/td-p/5081678),
+[\[20\]](https://community.spotify.com/t5/Content-Questions/POLLEN-Viewing-songs-that-have-been-taken-off-the-playlist/td-p/5085718).
+
 Since Spotify won't take snapshots of our favorite playlists, let's do it ourselves!
 
 ## Quick start
